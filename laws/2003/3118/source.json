@@ -1,0 +1,28 @@
+{
+  "year": 2003,
+  "number": 3118,
+  "url": "https://api.et.gr/apiLAW/1/2003/3118/pdf",
+  "source_sha256": "34819ebdaa1d469087320aa8617f9370c50fbb21369b28f177d5243a0738de54",
+  "published": "2003-03-04",
+  "in_force": "2003-03-04",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 6 παρ. 1 αυτής. 584 ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ (ΤΕΥΧΟΣ ΠΡΩΤΟ) Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως Νόμου του Κράτους.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "9ed8a2312428c4b6278f053c16b3245f08149712757b2fc47f8a56444628a9cc",
+      "ext": "png",
+      "bytes": 370,
+      "bbox": [
+        45.5,
+        57.9,
+        197.7,
+        98.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
