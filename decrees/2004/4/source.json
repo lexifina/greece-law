@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 4/2004",
+  "year": 2004,
+  "number": 4,
+  "url": "https://api.et.gr/apiLAW/2/2004/4/pdf",
+  "source_sha256": "28b90bd16cc23f5ecd7e9b16b591c33d86c74547d6e24fa0b1af226c76509dff",
+  "published": "2004-01-12",
+  "in_force": "2004-01-12",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος Προεδρικού Διατάγματος αρχίζει από τη δημοσίευση του στην εφημερίδα της Κυβερνήσεως.",
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "1c92ae37555536cb47d2dcc496634fec82f809dfd2984f554b9befd306c5250a",
+      "ext": "png",
+      "bytes": 383,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
