@@ -1,0 +1,29 @@
+{
+  "year": 2004,
+  "number": 3270,
+  "url": "https://api.et.gr/apiLAW/1/2004/3270/pdf",
+  "source_sha256": "de12f6162efa00ae18bf3518cb1ebdfd1157a04c6f7685a89f7fe07b25ca2e67",
+  "published": "2004-10-11",
+  "in_force": "2004-10-11",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "4bd1304596a522599cfdd61bd6f4ecb445e9d0faeaae253544b5fe8b90b8d1ab",
+      "ext": "png",
+      "bytes": 381,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
