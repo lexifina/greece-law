@@ -1,0 +1,30 @@
+{
+  "act": "ν. 2247/1994",
+  "year": 1994,
+  "number": 2247,
+  "title_ocr": "Ρυθμίσεις θεμάτων συστήματος προολήψεων.",
+  "source": "https://api.et.gr/apiLAW/1/1994/2247/pdf",
+  "source_sha256": "d0437135c5eff88f134c49a2c86df0e2370786a4bd1f7eac3687fee120073746",
+  "published": "1994-10-31",
+  "in_force": "1994-10-31",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του νόμου αυτού αρχίζει and τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 86.2,
+  "ocr_page_confidence": [
+    86.7,
+    87.5,
+    87.1,
+    86.1,
+    87.1,
+    87.1,
+    null,
+    81.7
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "ocr_confidence_gate": 70,
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
