@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 23/2005",
+  "year": 2005,
+  "number": 23,
+  "url": "https://api.et.gr/apiLAW/2/2005/23/pdf",
+  "source_sha256": "743046a572dfe070df9c03886250000d96c2484db4ded149dadd3af1d7dfd532",
+  "published": "2005-02-14",
+  "in_force": "2005-02-14",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος αρχίζει από της δημοσιεύσεώς του στη Εφημερίδα της Κυβερνήσεως.",
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "561d5a56beb3e0f90f8345c26c71d4e49ce613dd5f2b1b0ba359d31e4a4bdb1c",
+      "ext": "png",
+      "bytes": 412,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
