@@ -1,0 +1,52 @@
+{
+  "act": "π.δ. 379/2001",
+  "year": 2001,
+  "number": 379,
+  "url": "https://api.et.gr/apiLAW/2/2001/379/pdf",
+  "source_sha256": "d681b055532c9255311296e4dc4df8023be7078ce8571dcec27df9b1f116f794",
+  "published": "2001-10-22",
+  "in_force": "2001-10-22",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 12,
+  "images": [
+    {
+      "page": 5,
+      "sha256": "3180e5ec8c2ba521de7b145344fc7f8fa689706a65bc891679a490fd8d0efcee",
+      "ext": "png",
+      "bytes": 123105,
+      "bbox": [
+        57.5,
+        96.4,
+        535.0,
+        756.2
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "64644d994768ebd4cd4198a585a4fc84dc8f3f3a2bf07f27d41e7b1d8c068c17",
+      "ext": "png",
+      "bytes": 87269,
+      "bbox": [
+        58.4,
+        97.8,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "e5dd04b1d6d1e3a0781d34f51102cd48b6487444d4bb43e8923e7ea8a856b1d3",
+      "ext": "png",
+      "bytes": 88543,
+      "bbox": [
+        57.5,
+        121.2,
+        535.0,
+        714.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
