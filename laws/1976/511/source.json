@@ -1,0 +1,23 @@
+{
+  "act": "ν. 511/1976",
+  "year": 1976,
+  "number": 511,
+  "title_ocr": "Περὶ anv’ εὐδείας ἐκποιήσεως ἀκινήτων τοῦ ᾿Εὐνικοῦ Θεάτρου sig τὸ “Ελληνικὸν Δημόσιον.",
+  "source": "https://api.et.gr/apiLAW/1/1976/511/pdf",
+  "source_sha256": "b58f8b52fd4cb65a661ca3c05cd5408ffb2088e6d4ad74d5eebeb08f85867213",
+  "published": "1976-12-29",
+  "in_force": "1976-12-29",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 70.8,
+  "ocr_page_confidence": [
+    63.8,
+    77.7
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": false,
+  "pages": 2,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
