@@ -1,0 +1,77 @@
+{
+  "year": 2001,
+  "number": 2891,
+  "url": "https://api.et.gr/apiLAW/1/2001/2891/pdf",
+  "source_sha256": "5464cfa270ee76aeb4b01ef31b4110f3568a6a14e03c601af24df501faaaaa67",
+  "published": "2001-03-09",
+  "in_force": "2001-03-09",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "f47a79bded289699f1c408891578a786fe68837b74b57fb4cb303bff1dfc2f2b",
+      "ext": "png",
+      "bytes": 381,
+      "bbox": [
+        43.5,
+        56.8,
+        195.7,
+        97.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "6e0f9db10642739f2f223756c0ae14e54a077dff724a25ec9b32a33ca33364e7",
+      "ext": "png",
+      "bytes": 195238,
+      "bbox": [
+        58.4,
+        94.2,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "5c643ff0fcfff2bb981ec925d54ac8e4b5691e9101383f90fcd4e92fb59f762c",
+      "ext": "png",
+      "bytes": 268607,
+      "bbox": [
+        57.5,
+        94.2,
+        534.6,
+        777.1
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "df9559a9f5531091c9cba85d1f4b7cdd53aa34dd052c84c2b21a6b49a7a959ac",
+      "ext": "png",
+      "bytes": 255524,
+      "bbox": [
+        65.0,
+        94.2,
+        532.9,
+        777.1
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "56f42a43cc2e721a902ddd397fb94f9026985a007043ab14ee09a0513beb43d1",
+      "ext": "png",
+      "bytes": 232357,
+      "bbox": [
+        61.1,
+        94.2,
+        535.0,
+        769.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
