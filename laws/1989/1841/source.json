@@ -1,0 +1,25 @@
+{
+  "act": "ν. 1841/1989",
+  "year": 1989,
+  "number": 1841,
+  "title_ocr": "Κύρωση του Πρωτοκόλλου αριθμός 8 της Σύμβασης yta mV προάσπιση των δικαιωμάτων του ανθρώπου Kat τών θεμελιωδών ελευθεριών.",
+  "source": "https://api.et.gr/apiLAW/1/1989/1841/pdf",
+  "source_sha256": "cb91895c8f187398cef19ebaf40563d4cad5fdc01a992b49f337f0a3875a0022",
+  "published": "1989-04-14",
+  "in_force": "1989-04-14",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του νόμου αυτού αρχίζει and τη δημοσιευσή του στήν \"Εφημερίδα της Κυβερνήσεως Kat του πρωτοκόλλου που κυρώνεται ",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 87.4,
+  "ocr_page_confidence": [
+    87.5,
+    89.1,
+    85.5,
+    null
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 4,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
