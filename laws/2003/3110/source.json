@@ -1,0 +1,52 @@
+{
+  "year": 2003,
+  "number": 3110,
+  "url": "https://api.et.gr/apiLAW/1/2003/3110/pdf",
+  "source_sha256": "095af872962c07fb1a68a42ac550ccdc8b3050da2d26f86e3bf706e000b96712",
+  "published": "2003-02-19",
+  "in_force": "2003-02-19",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Μνημονίου Συνεργασίας που κυρώνεται από την πλήρωση των προϋποθέσεων της παρ. 6 αυτού.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "195ec203acaa487822b87b67a7a2e0f30099565b72df6bc96b98589528509902",
+      "ext": "png",
+      "bytes": 387,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "7f10cb1b1ba7eebfa9a8cba859465a7972d51ce2da2d2d5a275315afd12b76d2",
+      "ext": "png",
+      "bytes": 146087,
+      "bbox": [
+        58.4,
+        90.7,
+        526.6,
+        746.7
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "a114f09ae3dbfaeee87bbbe504c46a4df80eef0536e91cea26ff1805a682e556",
+      "ext": "png",
+      "bytes": 98017,
+      "bbox": [
+        66.8,
+        124.4,
+        521.9,
+        718.8
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
