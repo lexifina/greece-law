@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 248/2003",
+  "year": 2003,
+  "number": 248,
+  "url": "https://api.et.gr/apiLAW/2/2003/248/pdf",
+  "source_sha256": "33447d6487379819495b4c7b5f994a93b70b49f9d7911105861f8ffa63eb799e",
+  "published": "2003-09-19",
+  "in_force": "2003-09-19",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος Π.",
+  "pages": 16,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "43d0164b135324097f7c2d844b31c09ab11dbe7bc7062f7644f589eb06ec6a6b",
+      "ext": "png",
+      "bytes": 400,
+      "bbox": [
+        46.6,
+        36.7,
+        196.8,
+        76.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
