@@ -1,0 +1,29 @@
+{
+  "year": 2002,
+  "number": 3021,
+  "url": "https://api.et.gr/apiLAW/1/2002/3021/pdf",
+  "source_sha256": "c5e8589f751d9fda116c2ba36e626b1a74222bc081a0141f6d5b1a3400499953",
+  "published": "2002-06-19",
+  "in_force": "2002-06-19",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "69c0f7783f0dabe2e320e383a4e099fad4385f64afee7914b18cd4b971553ed5",
+      "ext": "png",
+      "bytes": 388,
+      "bbox": [
+        46.7,
+        57.7,
+        198.8,
+        98.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος άρθρου αρχίζει την 1η Απριλίου 2002."
+}
