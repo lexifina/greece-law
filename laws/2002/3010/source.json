@@ -1,0 +1,40 @@
+{
+  "year": 2002,
+  "number": 3010,
+  "url": "https://api.et.gr/apiLAW/1/2002/3010/pdf",
+  "source_sha256": "4ed40636a3f510a868968acafcac02c0768f560be4619db59f457315f835210f",
+  "published": "2002-04-25",
+  "in_force": "2002-04-25",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "in_force_general_day": false,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "707045c4c5a12f2e4f68374531499f9266027cce3177a20b12f5305820409dd4",
+      "ext": "png",
+      "bytes": 404,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "5d75e155ec2f9a0c76d7cb13f0302af7dd3059aeca428416e3ceefea0f81d3a1",
+      "ext": "png",
+      "bytes": 115721,
+      "bbox": [
+        58.4,
+        123.5,
+        535.8,
+        718.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
