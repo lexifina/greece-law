@@ -1,0 +1,29 @@
+{
+  "act": "ν. 532/1977",
+  "year": 1977,
+  "number": 532,
+  "title_ocr": "Περὶ 6ελτιώσεως τῆς ὑπὸ τοῦ Ταμείου ᾿Α͵λληλοθοηδείας '..'Προσωπικοῦ Ο.Σ.Ε. παρεχοµένης “Ὑγειονομικῆς ΠεριῬάλφψεως εἰς τοὺς συνιαξιούχους οιδηροδρομικοὺς Ἆὰπ. ; 'ς“Ὁ ΠΡΟΕΔΡΟΣ Ποπ",
+  "source": "https://api.et.gr/apiLAW/1/1977/532/pdf",
+  "source_sha256": "aa5a90fb0a660a2ab26ec4a474614720895116eb42b4854fe24c283b42277abf",
+  "published": "1977-02-03",
+  "in_force": "1977-02-03",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 77.7,
+  "ocr_page_confidence": [
+    74.0,
+    86.2,
+    84.4,
+    84.1,
+    78.1,
+    74.8,
+    72.4,
+    67.8
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": false,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
