@@ -1,0 +1,28 @@
+{
+  "year": 2001,
+  "number": 2889,
+  "url": "https://api.et.gr/apiLAW/1/2001/2889/pdf",
+  "source_sha256": "f1ebf97a4f6d9eb6f56d034bdade2461499ac61a4a2326a7eb33d8f2263965c5",
+  "published": "2001-03-02",
+  "in_force": "2001-03-02",
+  "clause": "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός εάν ορίζεται διαφορετικά στις επί μέρους διατάξεις του.",
+  "in_force_general_day": true,
+  "pages": 28,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "3b9651f254505b3a3707478c120480a1e9f2729b0f615ba23c5f5d8d5bb0b009",
+      "ext": "png",
+      "bytes": 387,
+      "bbox": [
+        46.2,
+        56.8,
+        198.4,
+        97.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
