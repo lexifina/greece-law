@@ -1,0 +1,161 @@
+{
+  "year": 2002,
+  "number": 3061,
+  "url": "https://api.et.gr/apiLAW/1/2002/3061/pdf",
+  "source_sha256": "b58451e729f2db07a7da785b4358725fdb9c3b0de8d72d069538e40453ecd249",
+  "published": "2002-10-15",
+  "in_force": "2002-10-15",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 16,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "ffe3e813881994334cc63f2fc2eeb8c15ebf26d8a418ad53b60775b72788224d",
+      "ext": "png",
+      "bytes": 406,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "43e0949932127dc417173fa86b2651a672e10e7cd56133af1d99e2ec9fcc002c",
+      "ext": "png",
+      "bytes": 84353,
+      "bbox": [
+        88.0,
+        94.4,
+        511.6,
+        774.5
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "ba2873863dbe8c2a3f3a0882bb54e60b2d436fd82912649013720e58835703af",
+      "ext": "png",
+      "bytes": 84462,
+      "bbox": [
+        89.1,
+        95.1,
+        505.1,
+        745.8
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "6d2e0e6a4d2632d0e3acf772e59791d5a1df64156abf3aad9fee8a9172a68a9f",
+      "ext": "png",
+      "bytes": 130926,
+      "bbox": [
+        87.5,
+        94.8,
+        509.2,
+        765.8
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "1bc760433c77cc98b15e4d649007e5fd5f3b14e10620a9a6af98a3d42cf1be32",
+      "ext": "png",
+      "bytes": 116855,
+      "bbox": [
+        89.1,
+        95.1,
+        503.1,
+        764.2
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "7156f8b37fec698e2705457e219e9e2ba1d905df93b5485e937c2fa73659f76f",
+      "ext": "png",
+      "bytes": 86320,
+      "bbox": [
+        92.1,
+        95.1,
+        500.4,
+        770.4
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "3c7e8e74ff103ae5635898a23d6147134ae8ec88052c15e33590171c5cec0124",
+      "ext": "png",
+      "bytes": 117342,
+      "bbox": [
+        75.6,
+        95.1,
+        517.3,
+        773.6
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "3203659cf116b71f2c57688bb23927d1b0ac2f16b351cd6939514c0fe776bbad",
+      "ext": "png",
+      "bytes": 109578,
+      "bbox": [
+        89.2,
+        95.1,
+        503.3,
+        739.7
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "ad4ba829b8e1ec2b5a37f6a95db6a048c0d34e82ae601783c1daaed71f570384",
+      "ext": "png",
+      "bytes": 118208,
+      "bbox": [
+        80.2,
+        95.1,
+        513.8,
+        744.9
+      ]
+    },
+    {
+      "page": 13,
+      "sha256": "71944bcc8ff6669bf92100090414ae077e259063d55be2d7331687d9fc612684",
+      "ext": "png",
+      "bytes": 79664,
+      "bbox": [
+        92.3,
+        95.1,
+        500.2,
+        772.2
+      ]
+    },
+    {
+      "page": 14,
+      "sha256": "64b661ccce28d5a21c6e2c41898c488e4f7703d34af0b31b3d98cbd8a830bb2f",
+      "ext": "png",
+      "bytes": 89274,
+      "bbox": [
+        70.2,
+        95.1,
+        526.2,
+        760.7
+      ]
+    },
+    {
+      "page": 15,
+      "sha256": "62a2bb3d9f36b3599228f41b6d11bfdd68473aaca815a37e12bc2d894918ccd7",
+      "ext": "png",
+      "bytes": 69691,
+      "bbox": [
+        101.0,
+        95.1,
+        491.5,
+        763.3
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: qualified commencement: Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, και της Συμφωνίας που κυρώνεται προσωρινώς και οριστικώς σύμφωνα με τα "
+}
