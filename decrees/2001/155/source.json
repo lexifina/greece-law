@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 155/2001",
+  "year": 2001,
+  "number": 155,
+  "url": "https://api.et.gr/apiLAW/2/2001/155/pdf",
+  "source_sha256": "a08be70ddfd8dc48f5fe7fdc1228ba2e3ee57fb23182837407520e64595334ff",
+  "published": "2001-06-25",
+  "in_force": "2001-06-25",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος Διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβέρνησης.",
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "6df114ccd815da295a10d6aa583e80e639f0518432957661050d7faa8ac1cc1c",
+      "ext": "png",
+      "bytes": 397,
+      "bbox": [
+        43.5,
+        56.8,
+        195.7,
+        97.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
