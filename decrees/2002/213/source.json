@@ -1,0 +1,40 @@
+{
+  "act": "π.δ. 213/2002",
+  "year": 2002,
+  "number": 213,
+  "url": "https://api.et.gr/apiLAW/2/2002/213/pdf",
+  "source_sha256": "2d35510005447e045f136d5c0b892581f64e0901437d5fcf97fad66cc8a1ec9f",
+  "published": "2002-08-29",
+  "in_force": "2002-08-29",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "1a9f1c7b2312d950b5b265ddc69c5191fb3cccd322aedb37643f14db5e588929",
+      "ext": "png",
+      "bytes": 367,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        97.2
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "9bb785cd29d76021a0e8168206de1dfb54f363647eea5147915d6a04149f4840",
+      "ext": "png",
+      "bytes": 73502,
+      "bbox": [
+        68.4,
+        195.0,
+        527.2,
+        705.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
