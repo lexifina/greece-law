@@ -1,0 +1,52 @@
+{
+  "year": 2001,
+  "number": 2912,
+  "url": "https://api.et.gr/apiLAW/1/2001/2912/pdf",
+  "source_sha256": "cb6f6d286378eed5abc5dbb19e79405181221ae2c193f64501975198100fc7b2",
+  "published": "2001-05-09",
+  "in_force": "2001-05-09",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "in_force_general_day": false,
+  "pages": 16,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "61e206064efa6f1f665de4c0d1fa05f6379416959fd1d2202a57a313848079aa",
+      "ext": "png",
+      "bytes": 381,
+      "bbox": [
+        43.5,
+        56.8,
+        195.7,
+        97.4
+      ]
+    },
+    {
+      "page": 14,
+      "sha256": "2e3fc6659b82e60d35a5329f4e389bca278afbd0ccef86b43b49fdc3ae977397",
+      "ext": "png",
+      "bytes": 182580,
+      "bbox": [
+        58.4,
+        149.6,
+        534.8,
+        733.4
+      ]
+    },
+    {
+      "page": 15,
+      "sha256": "30d0d23f750f3712ff2bea3f159c90683404a913eab5f020c48f156629c082d4",
+      "ext": "png",
+      "bytes": 185437,
+      "bbox": [
+        57.5,
+        148.6,
+        535.0,
+        733.8
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
