@@ -1,0 +1,76 @@
+{
+  "year": 2003,
+  "number": 3119,
+  "url": "https://api.et.gr/apiLAW/1/2003/3119/pdf",
+  "source_sha256": "558419e0513844b03a9e8e96f2044226bf4904b1880cba88c92d432a60753381",
+  "published": "2003-03-04",
+  "in_force": "2003-03-04",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 7 παρ. 1 αυτής.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "cccab2256e4a56546b7dd4457e2d4c88339ccaf2a4d175e6d02660c1a65552a3",
+      "ext": "png",
+      "bytes": 366,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "950577e70a3e95bbcf623871b01a749081e507bbc9818f505829666045b3576a",
+      "ext": "png",
+      "bytes": 115422,
+      "bbox": [
+        60.6,
+        94.7,
+        533.6,
+        777.1
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "3957187d187261208351c0424505fdc65ceca2aafa06ed69b36fb2e049202cb6",
+      "ext": "png",
+      "bytes": 74828,
+      "bbox": [
+        58.4,
+        93.2,
+        533.5,
+        763.4
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "d1dbc49c029492c199701877314d0c8223440bc4d154f035e7976e5d01f35081",
+      "ext": "png",
+      "bytes": 90366,
+      "bbox": [
+        57.5,
+        95.0,
+        535.0,
+        714.3
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "8586219c6b5ff9f61739f0e53baa046c51726755ab1b82755967d5fd65aa1756",
+      "ext": "png",
+      "bytes": 95847,
+      "bbox": [
+        58.4,
+        93.2,
+        535.8,
+        700.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
