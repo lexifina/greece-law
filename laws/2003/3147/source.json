@@ -1,0 +1,29 @@
+{
+  "year": 2003,
+  "number": 3147,
+  "url": "https://api.et.gr/apiLAW/1/2003/3147/pdf",
+  "source_sha256": "47980ec6e64d99df58be14404873237c865a91a34ffdf97bf632f0643fc270f0",
+  "published": "2003-06-05",
+  "in_force": "2003-06-05",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 24,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "7d652c268dc4b08eca23a15d70244f6ff22b47397f4c2b20655510b664c9a6ca",
+      "ext": "png",
+      "bytes": 394,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: qualified commencement: Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν άλλως ορίζεται σε αυτές."
+}
