@@ -1,0 +1,40 @@
+{
+  "act": "π.δ. 88/2002",
+  "year": 2002,
+  "number": 88,
+  "url": "https://api.et.gr/apiLAW/2/2002/88/pdf",
+  "source_sha256": "17c33b8e57574fd3458d927c882cd765d4c67dae5855d30fb3ba75ca9d589471",
+  "published": "2002-04-08",
+  "in_force": "2002-04-08",
+  "in_force_basis": "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "6a37b653f2c84c7c60575d60dd7f00f231df73eccc1b48e69cb886aa3af8c7a6",
+      "ext": "png",
+      "bytes": 368,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        97.2
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "f8a9004a55321384f6b2a5d1c372eb6d84608d116684d8d0ebbffe3efa082819",
+      "ext": "png",
+      "bytes": 108684,
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        822.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
