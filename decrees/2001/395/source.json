@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 395/2001",
+  "year": 2001,
+  "number": 395,
+  "url": "https://api.et.gr/apiLAW/2/2001/395/pdf",
+  "source_sha256": "4a9c5e3ee33f82b0885f7d3748117e077cdb0a839d296fe0c0eae08edae865c7",
+  "published": "2001-12-04",
+  "in_force": "2001-12-04",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 2,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "a74bb4e820c2c10e4cd4b8a9a58c6768080acb1545d2698fc35a71df6f3bf32f",
+      "ext": "png",
+      "bytes": 420,
+      "bbox": [
+        52.5,
+        31.8,
+        204.7,
+        72.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
