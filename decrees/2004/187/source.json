@@ -1,0 +1,76 @@
+{
+  "act": "π.δ. 187/2004",
+  "year": 2004,
+  "number": 187,
+  "url": "https://api.et.gr/apiLAW/2/2004/187/pdf",
+  "source_sha256": "ba62eba6e628390553626372dedaa2a1e1a40aaf7564077569174a70207fc13c",
+  "published": "2004-09-03",
+  "in_force": "2004-09-03",
+  "in_force_basis": "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "5984661c2d5597446fd9342e47a89360f6fe3995154025b767a72e3911e838c0",
+      "ext": "png",
+      "bytes": 397,
+      "bbox": [
+        46.6,
+        65.0,
+        196.8,
+        104.5
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "9169f7b2b16dab66512f047368cbb902e37b8264c7ea486591e00bcae755c374",
+      "ext": "png",
+      "bytes": 62217,
+      "bbox": [
+        58.3,
+        73.3,
+        535.8,
+        673.2
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "cf6b9aa4aebeeaff12ff2e41c9fdc7dfa3635075f3fe192fb7f636f754a32f2e",
+      "ext": "png",
+      "bytes": 43284,
+      "bbox": [
+        57.5,
+        73.3,
+        534.9,
+        643.3
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "3cb860d7127a80ad3da3357af8f158e5947a7eb27387e6c365dfc62b65bc9a92",
+      "ext": "png",
+      "bytes": 54820,
+      "bbox": [
+        58.3,
+        73.3,
+        535.8,
+        665.2
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "461e707a5d0cb716f4d58d2afb47b26715da309e2ff1691c3f8b4d4d027b087c",
+      "ext": "png",
+      "bytes": 49647,
+      "bbox": [
+        57.5,
+        73.3,
+        534.9,
+        665.7
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
