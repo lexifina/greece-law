@@ -1,0 +1,29 @@
+{
+  "year": 2001,
+  "number": 2888,
+  "url": "https://api.et.gr/apiLAW/1/2001/2888/pdf",
+  "source_sha256": "3f961acc8b2652d12f08626a4eb3093ed58ab171f7eaffc527a51a84bcb9eed1",
+  "published": "2001-02-28",
+  "in_force": "2001-02-28",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "a1dcfe210e003c1972a42391811ed156f451d32e8c2b79d1193efe33b1ef5dd2",
+      "ext": "png",
+      "bytes": 387,
+      "bbox": [
+        46.7,
+        57.7,
+        198.8,
+        98.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: qualified commencement: Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευση του στην Εφημερίδα της Κυβερνήσεως και του Πρωτοκόλλου που κυρώνεται από την ημερομηνία κατά την οποία θα κ"
+}
