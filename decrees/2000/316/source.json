@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 316/2000",
+  "year": 2000,
+  "number": 316,
+  "url": "https://api.et.gr/apiLAW/2/2000/316/pdf",
+  "source_sha256": "4f60ec13b64d54bd799f69a33579bbe8099e9e09a47ffc6be349ac0a6422b3d7",
+  "published": "2000-11-22",
+  "in_force": "2000-11-22",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "cb42bef386f7a8b56043c8f43789a503c5b49c8f553fbe89d754ec9d219f9509",
+      "ext": "png",
+      "bytes": 405,
+      "bbox": [
+        43.4,
+        56.8,
+        195.6,
+        97.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
