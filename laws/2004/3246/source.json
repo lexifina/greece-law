@@ -1,0 +1,64 @@
+{
+  "year": 2004,
+  "number": 3246,
+  "url": "https://api.et.gr/apiLAW/1/2004/3246/pdf",
+  "source_sha256": "ad256c7148d7c0939c7c4e0b393da12a2f9641001c88aac1d8b21e6962a23ab7",
+  "published": "2004-07-01",
+  "in_force": "2004-07-01",
+  "clause": "Η ισχύς του παρόντος Νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 4 αυτής.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "7f43b7dd0da31639f6f90bfc5cd9e4cb46e1342bdebef5636d1c3db9e28f074b",
+      "ext": "png",
+      "bytes": 370,
+      "bbox": [
+        43.3,
+        35.9,
+        195.4,
+        76.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "131ddaa26c0d198fe704d84ec3457f4c4d9d69450a08e5c8d4707241389fea73",
+      "ext": "png",
+      "bytes": 134202,
+      "bbox": [
+        67.3,
+        72.1,
+        517.1,
+        754.8
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "d3ac41e387e778bcc180a102e2a5045142f853be6bd0c7b4b2a7ef998a24a509",
+      "ext": "png",
+      "bytes": 115052,
+      "bbox": [
+        78.2,
+        77.4,
+        512.9,
+        750.2
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "fd99204ad8b9b2b1c70e1bbc5f8bd3b91a8482856d9fd8b90f8cde2c0671e16e",
+      "ext": "png",
+      "bytes": 79932,
+      "bbox": [
+        82.6,
+        76.8,
+        523.4,
+        607.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
