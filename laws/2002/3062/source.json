@@ -1,0 +1,88 @@
+{
+  "year": 2002,
+  "number": 3062,
+  "url": "https://api.et.gr/apiLAW/1/2002/3062/pdf",
+  "source_sha256": "46184e8fedde31196bf6a1accd9143f62f901e655d3867d646e4d38b5daed67b",
+  "published": "2002-10-15",
+  "in_force": "2002-10-15",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Συμπληρωματικού Πρωτοκόλλου που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 12 αυτού.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "b8bcace7c55f2796ab3b8d4bda116c49d22691479e910a211dea8898c873f1e1",
+      "ext": "png",
+      "bytes": 388,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "72058f47ce41b39576733f8ff793b0123f5a10e091dd125d773fcba3615defc6",
+      "ext": "png",
+      "bytes": 106478,
+      "bbox": [
+        58.4,
+        93.2,
+        535.8,
+        723.9
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "a8e6a77eb34f67745a8136adce8a716c74e3cb3d85288931c5a722aac77c2e47",
+      "ext": "png",
+      "bytes": 123720,
+      "bbox": [
+        64.4,
+        93.2,
+        533.9,
+        710.4
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "ab8fdda8e4a35c087d3c8b11ba9ca26e179fff5949234e79783505b7e030d9e8",
+      "ext": "png",
+      "bytes": 106444,
+      "bbox": [
+        58.4,
+        93.2,
+        535.8,
+        737.7
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "b5700de86cdfc00a3c3bda1c6a33fecbe0cc35efac26f0c0f04ebc56897ab1ae",
+      "ext": "png",
+      "bytes": 80525,
+      "bbox": [
+        58.1,
+        93.2,
+        535.0,
+        765.4
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "1b901c94ca034c7ca333188abf0804b8080f4dd46e30f5b59cf68a0974ea7a49",
+      "ext": "png",
+      "bytes": 26963,
+      "bbox": [
+        89.3,
+        93.2,
+        514.1,
+        545.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
