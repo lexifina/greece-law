@@ -1,0 +1,76 @@
+{
+  "year": 2001,
+  "number": 2914,
+  "url": "https://api.et.gr/apiLAW/1/2001/2914/pdf",
+  "source_sha256": "d1b4524870169a6aa902e1600301ed7492568ffc9bd89a5aa745e124e9f0e78d",
+  "published": "2001-05-23",
+  "in_force": "2001-05-23",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 6 παρ. 1 αυτής.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "14d9d3f75755cd466f80ea72bff5d471b5bda26134caaf0024b1f0d2a748bf33",
+      "ext": "png",
+      "bytes": 370,
+      "bbox": [
+        43.5,
+        56.8,
+        195.7,
+        97.4
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "86348f474f3dee218e90f0a20b68cad90ed8eb793e9707b05deb1a4fdea3a0c1",
+      "ext": "png",
+      "bytes": 69935,
+      "bbox": [
+        57.5,
+        114.7,
+        535.0,
+        451.3
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "81e33f9b98a7c55c06da618ec4e0e440fa23441b42471b6eebe4780ba91f99ad",
+      "ext": "png",
+      "bytes": 143095,
+      "bbox": [
+        58.4,
+        94.4,
+        533.1,
+        777.1
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "97c5d15ae89f89774aa9f216198404bb5a18bd6c04b50de4b9a825a8ddda5a1c",
+      "ext": "png",
+      "bytes": 172976,
+      "bbox": [
+        59.1,
+        94.4,
+        506.1,
+        777.1
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "d63453f899ef00cc95f2f4448f06fd4d8d7442eb0eaf5b51516eddd08d8740dd",
+      "ext": "png",
+      "bytes": 153830,
+      "bbox": [
+        68.9,
+        94.4,
+        535.8,
+        753.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
