@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 264/2001",
+  "year": 2001,
+  "number": 264,
+  "url": "https://api.et.gr/apiLAW/2/2001/264/pdf",
+  "source_sha256": "0cd8f75bba4ca70ea0ae5198fa9f6c56e57d18e668fb5252ae22aace568f4c12",
+  "published": "2001-08-22",
+  "in_force": "2001-08-22",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος αρχίζει από την δημοσίευση στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "d668db6eecc880af9f3f8e9ae64ff917fc80c0d57d1642fc1017e6e8966101c3",
+      "ext": "png",
+      "bytes": 366,
+      "bbox": [
+        43.5,
+        56.8,
+        195.7,
+        97.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
