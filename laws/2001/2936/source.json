@@ -1,0 +1,28 @@
+{
+  "year": 2001,
+  "number": 2936,
+  "url": "https://api.et.gr/apiLAW/1/2001/2936/pdf",
+  "source_sha256": "4a877b4e3ebb863c4e5e367b07d7c86be50aceb36ba713e5348233ac7cafd08d",
+  "published": "2001-07-25",
+  "in_force": "2001-07-25",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "in_force_general_day": false,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "206fb5ec0a19b543df9a0aa0b70ca7b6d3f0c780d1206ffdcf2b31a440cf58ba",
+      "ext": "png",
+      "bytes": 389,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        97.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
