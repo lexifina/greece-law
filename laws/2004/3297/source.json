@@ -1,0 +1,29 @@
+{
+  "year": 2004,
+  "number": 3297,
+  "url": "https://api.et.gr/apiLAW/1/2004/3297/pdf",
+  "source_sha256": "23e4de22bc7fbfeba71dfd07ab095958ac4d141b8ab62c79b3932c915b2a1c5c",
+  "published": "2004-12-23",
+  "in_force": "2004-12-23",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "6d922fe2b2395acddd720f3af8df56741bd4625d8f9d5297e512ed30f0953f27",
+      "ext": "png",
+      "bytes": 414,
+      "bbox": [
+        46.6,
+        70.7,
+        196.8,
+        110.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος άρθρου αρχίζει από 28.9.2004."
+}
