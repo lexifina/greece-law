@@ -1,0 +1,64 @@
+{
+  "year": 2001,
+  "number": 2934,
+  "url": "https://api.et.gr/apiLAW/1/2001/2934/pdf",
+  "source_sha256": "58a71fe0c97fc8afa442796205b6a6f0daa37acacf87a3888a799c0b4b234f2b",
+  "published": "2001-07-10",
+  "in_force": "2001-07-10",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευση του στην Εφημερίδα της Κυβερνήσεως και του Μνημονίου που κυρώνεται από την πλήρωση των προϋποθέσεων της παραγράφου 8 αυτού. 2340 ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ (ΤΕΥΧΟΣ ΠΡΩΤΟ) Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως Νόμου του Κράτους.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "99672204bd7e0bd76d999c6eb076c44b46cee0de2559ee1480c8597521a57449",
+      "ext": "png",
+      "bytes": 375,
+      "bbox": [
+        46.7,
+        57.7,
+        195.8,
+        97.2
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "3e6ad1d6178f429acc651b3cf414eba95a9a52e530100bba0d5d361f5feb7385",
+      "ext": "png",
+      "bytes": 97312,
+      "bbox": [
+        58.4,
+        94.4,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "9b7d860a89471f009c3bcf9feb1f2058fff9786d3dc7f61913fc6145bd837f21",
+      "ext": "png",
+      "bytes": 142376,
+      "bbox": [
+        57.5,
+        94.4,
+        535.0,
+        777.1
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "3b7f99874173e86bfbd9232c670678107193f213757cd1b45270d08a105f2b07",
+      "ext": "png",
+      "bytes": 69912,
+      "bbox": [
+        58.4,
+        94.4,
+        535.8,
+        683.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
