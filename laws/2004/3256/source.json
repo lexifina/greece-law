@@ -1,0 +1,76 @@
+{
+  "year": 2004,
+  "number": 3256,
+  "url": "https://api.et.gr/apiLAW/1/2004/3256/pdf",
+  "source_sha256": "0c0ff22d88adfff8e243462ea66189201f68727b79f4f388e87f89e7819be16f",
+  "published": "2004-07-22",
+  "in_force": "2004-07-22",
+  "clause": "Η ισχύς του παρόντος Νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 10 αυτής.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "549908016bc687c4aad6775042ea37e0467c93be5f895a4f4728bbf103cd8a2e",
+      "ext": "png",
+      "bytes": 389,
+      "bbox": [
+        46.6,
+        65.0,
+        195.8,
+        104.5
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "30dae71c532e54c8db272a1c0321262186d28c512e7f07da6753b07eed0d624b",
+      "ext": "png",
+      "bytes": 100926,
+      "bbox": [
+        71.6,
+        77.0,
+        519.0,
+        736.0
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "003f8cc84669da8f7596c889c849aaf9556e1442ad7f5a3567f8145bf0f74645",
+      "ext": "png",
+      "bytes": 120220,
+      "bbox": [
+        58.3,
+        81.9,
+        517.0,
+        717.9
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "c8e7d9a0cf1a3a21fafb191369828287b5ef56cb23ae1b56f2aa45f0a62c2b29",
+      "ext": "png",
+      "bytes": 95931,
+      "bbox": [
+        57.5,
+        85.0,
+        513.5,
+        698.0
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "50778e40ffecefd6b37ec45ce4e2b183143779c1418b38e603deeb67d3b06a3b",
+      "ext": "png",
+      "bytes": 81713,
+      "bbox": [
+        70.9,
+        96.0,
+        535.3,
+        662.9
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
