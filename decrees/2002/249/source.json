@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 249/2002",
+  "year": 2002,
+  "number": 249,
+  "url": "https://api.et.gr/apiLAW/2/2002/249/pdf",
+  "source_sha256": "4eadb1bed130313917128bdd78acb41656318aaecd91dc260b330ed7c2646bd9",
+  "published": "2002-09-25",
+  "in_force": "2002-09-25",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "b8d46028334a1cd16a9495ebd7b24c5fbc5b953c8f5a0dae77cab5dfe948ff58",
+      "ext": "png",
+      "bytes": 404,
+      "bbox": [
+        46.7,
+        57.7,
+        198.8,
+        98.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
