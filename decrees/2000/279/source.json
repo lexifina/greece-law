@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 279/2000",
+  "year": 2000,
+  "number": 279,
+  "url": "https://api.et.gr/apiLAW/2/2000/279/pdf",
+  "source_sha256": "c345447cf311f3bb82916369059087f4e6032791ac27903f5592f37b2f581f63",
+  "published": "2000-10-30",
+  "in_force": "2000-10-30",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος, εκτός αν άλλως ορίζεται στις επί μέρους διατάξεις του, αρχίζει από την ημερομηνία της δημοσίευσής του στην Εφημερίδα της Κυβέρνη",
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "3b6e94cc05d810f3dbd0b23aae4f9f3946a161e9943ab18a6aaa0cb47f43d92a",
+      "ext": "png",
+      "bytes": 360,
+      "bbox": [
+        46.2,
+        56.8,
+        198.4,
+        97.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
