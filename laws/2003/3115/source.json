@@ -1,0 +1,28 @@
+{
+  "year": 2003,
+  "number": 3115,
+  "url": "https://api.et.gr/apiLAW/1/2003/3115/pdf",
+  "source_sha256": "c1629a24746ff20d6aa8a7bbffe6f04067bc71b391969de5065e0a9a1fdd3d42",
+  "published": "2003-02-27",
+  "in_force": "2003-02-27",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "in_force_general_day": false,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "9e7553a5aa3c5f439385f45e23c05b084630c57c234772259bac95def24f9007",
+      "ext": "png",
+      "bytes": 381,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
