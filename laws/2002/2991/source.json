@@ -1,0 +1,88 @@
+{
+  "year": 2002,
+  "number": 2991,
+  "url": "https://api.et.gr/apiLAW/1/2002/2991/pdf",
+  "source_sha256": "635d943a9a1009276176883c0e95a33369c1986298d0bd556b8822ab16f8cb37",
+  "published": "2002-02-27",
+  "in_force": "2002-02-27",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευση του στην Εφημερίδα της Κυβερνήσεως.",
+  "in_force_general_day": false,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "da1c815a35122c511b6144f32cacac59ff8f14ac63d81a60e4cc7d481a403485",
+      "ext": "png",
+      "bytes": 402,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "0819a924bf83e25dd32bea5dbb5b6b2d5345a4c6744e4fc698537ff6cdb828e7",
+      "ext": "png",
+      "bytes": 308590,
+      "bbox": [
+        58.4,
+        93.2,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "fc7aaa295476d573c45ba179c12cab6c2d2f74b70395e86e3abba1c8188681f2",
+      "ext": "jpeg",
+      "bytes": 316572,
+      "bbox": [
+        57.5,
+        93.2,
+        535.0,
+        777.1
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "337b01c873aa0f1113f7c17402ffb6ea953de67b84828db37c9ebd76338ea9c8",
+      "ext": "jpeg",
+      "bytes": 311544,
+      "bbox": [
+        58.4,
+        93.2,
+        535.8,
+        769.1
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "10f81116217694a938ad4848aad670d2020d1692d7b78562b9e134ebe056316d",
+      "ext": "jpeg",
+      "bytes": 280069,
+      "bbox": [
+        57.5,
+        94.3,
+        531.3,
+        755.3
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "435cab9cb004c7f2239df1b5607d3123fbb47bfcc47bfc4fe5e47873f549dc88",
+      "ext": "png",
+      "bytes": 160541,
+      "bbox": [
+        58.4,
+        93.2,
+        534.4,
+        777.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
