@@ -1,0 +1,52 @@
+{
+  "act": "π.δ. 106/2003",
+  "year": 2003,
+  "number": 106,
+  "url": "https://api.et.gr/apiLAW/2/2003/106/pdf",
+  "source_sha256": "78aa31ef3bf850672bbeb6b804d557e12012f4541961a5c3199afcc8664bcf7f",
+  "published": "2003-04-23",
+  "in_force": "2003-04-23",
+  "in_force_basis": "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 12,
+  "images": [
+    {
+      "page": 7,
+      "sha256": "183c9c7a0779a576f5e97955c19be4c6eb463251fed5a847dff46fd8f7e33c2e",
+      "ext": "png",
+      "bytes": 115020,
+      "bbox": [
+        68.2,
+        94.9,
+        504.8,
+        772.5
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "e9dd8e6e137417243d38ade9476fe4ffc783ac3b38fbf1df402cd477d9b6df24",
+      "ext": "png",
+      "bytes": 126131,
+      "bbox": [
+        73.8,
+        99.0,
+        506.0,
+        768.9
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "ae7ffb73252b394a0d73d5f7885fa8135a06e60519f0a1b74f7ae8e7b1f0d75f",
+      "ext": "png",
+      "bytes": 93691,
+      "bbox": [
+        139.1,
+        100.6,
+        428.3,
+        777.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
