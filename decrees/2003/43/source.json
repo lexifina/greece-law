@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 43/2003",
+  "year": 2003,
+  "number": 43,
+  "url": "https://api.et.gr/apiLAW/2/2003/43/pdf",
+  "source_sha256": "a511a0122ca5f347859357ca0d66a6d90b4d3757a4dfa6c60e032877ca4fd2ec",
+  "published": "2003-02-21",
+  "in_force": "2003-02-21",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος διατάγματος αρχίζει την 29 Απριλίου 2003.",
+  "pages": 12,
+  "images": [
+    {
+      "page": 8,
+      "sha256": "d80a9cab5e208904b0eca357f66571e9eefc3de64ba9855c605ccc024b8c2062",
+      "ext": "png",
+      "bytes": 7426,
+      "bbox": [
+        102.0,
+        348.0,
+        255.3,
+        432.3
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
