@@ -1,0 +1,64 @@
+{
+  "year": 2003,
+  "number": 3169,
+  "url": "https://api.et.gr/apiLAW/1/2003/3169/pdf",
+  "source_sha256": "d5234eec62c383bf5d72cd18d8972c0ed5f682d3bbb90499fcf1b528430497ec",
+  "published": "2003-07-24",
+  "in_force": "2003-07-24",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επί μέρους διατάξεις του.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 2,
+      "sha256": "0fa871c3183487dac9082bdc01f9d72aa5d8714266ba13e3cc90ddeecaa1e72d",
+      "ext": "png",
+      "bytes": 412427,
+      "bbox": [
+        58.4,
+        94.4,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "4b1f62a0d4e1f7a82d818c6d3a296f8cd4d15ca156c82b7c5c14500f53603378",
+      "ext": "png",
+      "bytes": 381362,
+      "bbox": [
+        57.5,
+        94.4,
+        535.0,
+        777.1
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "0fb398a461325affab57d62711cfc9cb5fd0f8c3a45e13ec3b4e96ea622a804d",
+      "ext": "png",
+      "bytes": 374756,
+      "bbox": [
+        58.4,
+        94.4,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "5b8968e67de01d5a28ffd25003ebf3cc28f7fd3ac1ffda7676005ef48cc9d9ae",
+      "ext": "png",
+      "bytes": 161020,
+      "bbox": [
+        57.5,
+        94.4,
+        535.0,
+        393.8
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
