@@ -1,0 +1,64 @@
+{
+  "year": 2004,
+  "number": 3221,
+  "url": "https://api.et.gr/apiLAW/1/2004/3221/pdf",
+  "source_sha256": "c3bb160e959587963cc6e67cc72c80244b6802f5fbbfb413580d76fdbf5aae7e",
+  "published": "2004-02-02",
+  "in_force": "2004-02-02",
+  "clause": "Η ισχύς του παρόντος Νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Μνημονίου Κατανόησης που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 5 αυτού.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 2,
+      "sha256": "499814eeb6cbb89074d74f1d6d6a7535a71b7673f242fba47c6b61adf1ba574d",
+      "ext": "png",
+      "bytes": 20952,
+      "bbox": [
+        58.3,
+        73.2,
+        535.8,
+        756.0
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "c59f9a6a2cd8a6805e8548a1b7d4a76642b0d1e02260d262aa3c179a8d23c9bc",
+      "ext": "png",
+      "bytes": 26083,
+      "bbox": [
+        57.5,
+        84.9,
+        534.9,
+        721.4
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "e2d2b6ede4060f7ffb4b978f9a8935ca5d0479e9ee7b1e90179bda3cbcfc604f",
+      "ext": "png",
+      "bytes": 30153,
+      "bbox": [
+        58.3,
+        92.9,
+        535.8,
+        749.2
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "de648e615c1e59afc1fc249bf6de99cd98d4aed278b3af2447718b5eb5dc10af",
+      "ext": "png",
+      "bytes": 15151,
+      "bbox": [
+        57.5,
+        88.9,
+        534.9,
+        511.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
