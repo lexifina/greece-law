@@ -1,0 +1,28 @@
+{
+  "year": 2002,
+  "number": 2996,
+  "url": "https://api.et.gr/apiLAW/1/2002/2996/pdf",
+  "source_sha256": "e597d74d9a0c38f77f63ca4afc8c0d6cbb5d081780ea1cb30d96309a75b32f7b",
+  "published": "2002-03-28",
+  "in_force": "2002-03-28",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "in_force_general_day": false,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "6dc6cd461d32a30b2ef9b7a9cf89cf683f26241d0a97cee6ee5caf1f1bde4f2f",
+      "ext": "png",
+      "bytes": 392,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
