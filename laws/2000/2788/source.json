@@ -1,0 +1,30 @@
+{
+  "act": "ν. 2788/2000",
+  "year": 2000,
+  "number": 2788,
+  "title_ocr": "Κύρωση Σύμβασης Δωρεάς υπέρτου Ελληνικού Δημοσίου Kat του Περιφερειακού Γενικού Νοσοκομείου Ελευσίνας «ΘΡΙΑΣΙΟ».",
+  "source": "https://api.et.gr/apiLAW/1/2000/2788/pdf",
+  "source_sha256": "e7fce225911f9c5d397683525a777eec65a9f64d166bd177f85e02c8b91432ef",
+  "published": "2000-02-07",
+  "in_force": "2000-02-07",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 87.6,
+  "ocr_page_confidence": [
+    88.8,
+    86.9,
+    88.1,
+    88.6,
+    87.4,
+    null,
+    null,
+    85.8
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "why_ocr": "The PDF of this Gazette issue has no usable Greek text layer (a scanned image, or legacy 8-bit fonts whose codes the text-layer pipeline cannot map), so the page images were OCR'd"
+}
