@@ -1,0 +1,160 @@
+{
+  "year": 2001,
+  "number": 2953,
+  "url": "https://api.et.gr/apiLAW/1/2001/2953/pdf",
+  "source_sha256": "3d04605f45b1c130eb9fc8f4edc364099e68cb651203631ee7db1cf3e627427b",
+  "published": "2001-10-22",
+  "in_force": "2001-10-22",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται προσωρινά από την υπογραφή της ως προς τις διατάξεις που αναφέρονται στο άρθρο 9 παρ. 2 και οριστικά από την πλήρωση των προϋποθέσεών του.",
+  "in_force_general_day": true,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "28aa72bac3f5c6f5883e0cde2df3c44f72a5220d913f20bd822225f39924fed5",
+      "ext": "png",
+      "bytes": 412,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "930d49d6366ce51cdd765c84209576d468777f467a6e6ffba85182fe4636c3d9",
+      "ext": "png",
+      "bytes": 216897,
+      "bbox": [
+        58.4,
+        94.4,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "3e85dc1e51bc487458c7cb4681d3a92b7f6180b3568bb1f48cf9748853df6ccb",
+      "ext": "png",
+      "bytes": 227310,
+      "bbox": [
+        57.5,
+        94.4,
+        535.0,
+        777.1
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "007902b09b8d2e33ceaa1fd88178bfce156c9082518b9f0e48a12e7f8663ea10",
+      "ext": "png",
+      "bytes": 88965,
+      "bbox": [
+        58.4,
+        94.4,
+        535.8,
+        411.3
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "efef8f08a724b8e9e4f9216f88cc0a944ef600da842f662e91460e700052f1b9",
+      "ext": "png",
+      "bytes": 10452,
+      "bbox": [
+        123.3,
+        182.1,
+        470.7,
+        411.9
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "fa53536f291db5c116de8d94e281ddfcab0d0cedbde442e84e480620329bd361",
+      "ext": "png",
+      "bytes": 92391,
+      "bbox": [
+        69.9,
+        94.4,
+        525.7,
+        777.1
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "fbf23ee743486e5bc7637610dc1fdf64025a9bc25b986389072d1bdb4465997a",
+      "ext": "png",
+      "bytes": 83666,
+      "bbox": [
+        59.7,
+        94.4,
+        535.0,
+        777.1
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "27881efa73ed264eb6a5a55870c0a074ef3b6f706a92c0ef471f7ae82aff86de",
+      "ext": "png",
+      "bytes": 71532,
+      "bbox": [
+        64.1,
+        94.4,
+        518.3,
+        725.3
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "920b68ae70f16f9f17c97b65088be68b8d67b882090d8265b1835d97c876ea79",
+      "ext": "png",
+      "bytes": 79380,
+      "bbox": [
+        66.8,
+        94.4,
+        514.8,
+        689.3
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "f95d35ca3711d3d85486dd8b9d0056b1dbf1bb52f3ec8bdf05d98c5ccf9687a9",
+      "ext": "png",
+      "bytes": 93855,
+      "bbox": [
+        58.4,
+        94.4,
+        530.6,
+        777.1
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "44587d8e78ab78a4f53fff42280fbecb57ac99644dc4c9e770a1b6ed08ba4243",
+      "ext": "png",
+      "bytes": 84777,
+      "bbox": [
+        65.9,
+        94.4,
+        528.2,
+        724.0
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "9cd1788d97a99400e0082f3b45ed3eec457fb8cb08f6c37e557bca8b49ad6cde",
+      "ext": "png",
+      "bytes": 52521,
+      "bbox": [
+        62.7,
+        94.4,
+        518.1,
+        496.7
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
