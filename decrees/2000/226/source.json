@@ -1,0 +1,88 @@
+{
+  "act": "π.δ. 226/2000",
+  "year": 2000,
+  "number": 226,
+  "url": "https://api.et.gr/apiLAW/2/2000/226/pdf",
+  "source_sha256": "072c043e23187bbdf6248ca11ff88d7c1cef5c8993317d14b6c89f06bea3f38f",
+  "published": "2000-09-08",
+  "in_force": "2000-09-08",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 20,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "a577583768f6a8f24bb4b1b2bbeeacaec24aadd2c3a9d7793061d8a834543613",
+      "ext": "png",
+      "bytes": 365,
+      "bbox": [
+        46.2,
+        56.8,
+        198.4,
+        97.4
+      ]
+    },
+    {
+      "page": 16,
+      "sha256": "1f7744df3e15e07b452cd15c08d741d9344968f38f0c90b19c4f094845fae919",
+      "ext": "png",
+      "bytes": 205857,
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        841.0
+      ]
+    },
+    {
+      "page": 17,
+      "sha256": "4d3e8c67ffb662dc95111addc56366524c22e8b6680c5eb26e2b563359825c90",
+      "ext": "png",
+      "bytes": 146109,
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        841.0
+      ]
+    },
+    {
+      "page": 18,
+      "sha256": "277a6299d954fd649c8b0a9e4774dc18be03473d52206e879e9a48bfd23af6f0",
+      "ext": "png",
+      "bytes": 204854,
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        841.0
+      ]
+    },
+    {
+      "page": 19,
+      "sha256": "cfd4ae2c680752b3a837938ea1548f38fde9003d4f97679ff50d10b29953a317",
+      "ext": "png",
+      "bytes": 47400,
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        841.0
+      ]
+    },
+    {
+      "page": 20,
+      "sha256": "1f19d409e54dc77e9d24ef5703e40cad24e90fd78d68f9b6c96ed75277ad208b",
+      "ext": "png",
+      "bytes": 200550,
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        841.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
