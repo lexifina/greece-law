@@ -1,0 +1,64 @@
+{
+  "act": "π.δ. 84/2004",
+  "year": 2004,
+  "number": 84,
+  "url": "https://api.et.gr/apiLAW/2/2004/84/pdf",
+  "source_sha256": "e6d93aca464052828153b025139e0565dfa59832ab9788f483eae8ebc755af7a",
+  "published": "2004-03-02",
+  "in_force": "2004-03-02",
+  "in_force_basis": "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 24,
+  "images": [
+    {
+      "page": 12,
+      "sha256": "1587b892a8a341f081a9c36981c0b02199a3cf6d26c1b8755e1617410a00e623",
+      "ext": "png",
+      "bytes": 40539,
+      "bbox": [
+        71.0,
+        78.0,
+        508.3,
+        296.3
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "929a5bde0dc7822fec8cc1dd4ce32e2db1f55826ffba55acea07175a38bf4eca",
+      "ext": "png",
+      "bytes": 46642,
+      "bbox": [
+        58.3,
+        473.1,
+        525.9,
+        723.3
+      ]
+    },
+    {
+      "page": 13,
+      "sha256": "6e3223f87366ab2acd42a01b8ef7b12529cad5397c85dd13cbb75f010fb2ebd8",
+      "ext": "png",
+      "bytes": 30415,
+      "bbox": [
+        59.7,
+        75.4,
+        534.9,
+        355.1
+      ]
+    },
+    {
+      "page": 14,
+      "sha256": "6e7232a66a825448349aa01ee837af06ab4aa95c9d42346aceb121b8364f887c",
+      "ext": "png",
+      "bytes": 39660,
+      "bbox": [
+        65.8,
+        117.3,
+        525.0,
+        375.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
