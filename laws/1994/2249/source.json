@@ -1,0 +1,33 @@
+{
+  "act": "ν. 2249/1994",
+  "year": 1994,
+  "number": 2249,
+  "title_ocr": "Κύρωση Συμφωνίας μεταξύ των Κυβερνήσεων της Ελληνικής Δημοκρατίας και της Ρωσικής Ομοσπονδίας για την οικονομική, βιομηχανική, τεχνολογική και Επιστημονική συνεργαola.",
+  "source": "https://api.et.gr/apiLAW/1/1994/2249/pdf",
+  "source_sha256": "8140692c839d5d54cb3cd9b1d8bdd128414520be493a05936d4efee7ead20834",
+  "published": "1994-11-10",
+  "in_force": "1994-11-10",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: qualified commencement: Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και tou Συμ-- φώνου που κυρώνεται and την. ολοκλήρωση των προυποθέσεων του ",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 85.5,
+  "ocr_page_confidence": [
+    84.9,
+    84.5,
+    85.7,
+    87.5,
+    83.2,
+    87.6,
+    86.6,
+    87.1,
+    86.1,
+    85.3,
+    null,
+    82.4
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 12,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
