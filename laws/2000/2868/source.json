@@ -1,0 +1,88 @@
+{
+  "year": 2000,
+  "number": 2868,
+  "url": "https://api.et.gr/apiLAW/1/2000/2868/pdf",
+  "source_sha256": "b6602656eee717da6de2b3c6433cd7ef1cdbc4e744743f34a7a448bc7649d9f6",
+  "published": "2000-12-19",
+  "in_force": "2000-12-19",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 7 αυτής.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "39019f94563a819ced8e557bf25eb2ae5cee513a4ea8d037c39eb7cca1fd3ce8",
+      "ext": "png",
+      "bytes": 388,
+      "bbox": [
+        43.7,
+        56.9,
+        195.9,
+        97.5
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "4cb5acdd9c56d097ccb41f9379c8f6a3cd5a6841af543f3bde30aa6b6332b6ea",
+      "ext": "png",
+      "bytes": 74410,
+      "bbox": [
+        0.0,
+        0.0,
+        583.0,
+        830.0
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "df71e9806259104a3f6e86e84b08ce1570e2f5754e682bebb0aee2c040bc18f0",
+      "ext": "png",
+      "bytes": 98181,
+      "bbox": [
+        0.0,
+        0.0,
+        583.0,
+        830.0
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "e53a19a5ff2a4196520e50874862edac0b452f385a53b7f23aca34c96cd57791",
+      "ext": "png",
+      "bytes": 55154,
+      "bbox": [
+        0.0,
+        0.0,
+        583.0,
+        830.0
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "c70a2bae177c2b4ccc3bd1a7c8d66cc19bbbd7e1658b4ec430370fb11dc6c853",
+      "ext": "jpeg",
+      "bytes": 123600,
+      "bbox": [
+        57.5,
+        93.2,
+        535.0,
+        777.1
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "94011900d34d44c20b87506c6aa7c3c577f34bd7fc4196628a5d39d912cfed82",
+      "ext": "jpeg",
+      "bytes": 24312,
+      "bbox": [
+        58.4,
+        93.2,
+        535.8,
+        253.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
