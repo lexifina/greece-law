@@ -1,0 +1,76 @@
+{
+  "act": "π.δ. 159/2003",
+  "year": 2003,
+  "number": 159,
+  "url": "https://api.et.gr/apiLAW/2/2003/159/pdf",
+  "source_sha256": "26dabd3ebc1d11f6dfa429ed4875b2e68e9ebc5bce3222a2f62353c59ba04f44",
+  "published": "2003-05-29",
+  "in_force": "2003-05-29",
+  "in_force_basis": "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "2ee539fe72451d61aca368dd2b897b30021dfe347fc2afbde36f5bc32bfccb5f",
+      "ext": "png",
+      "bytes": 398,
+      "bbox": [
+        45.7,
+        9.7,
+        197.8,
+        50.2
+      ]
+    },
+    {
+      "page": 1,
+      "sha256": "fe7d74939c7a7913660fec6c90b67ad82c64ece3955aad371366cb13fa719a22",
+      "ext": "jpeg",
+      "bytes": 8152,
+      "bbox": [
+        371.6,
+        318.2,
+        455.2,
+        506.5
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "acd81c7f92abadfbfa94407cad3635829b146cb3c514a08313584452b11bb0aa",
+      "ext": "jpeg",
+      "bytes": 12640,
+      "bbox": [
+        57.4,
+        387.8,
+        289.6,
+        489.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "28fca00cb2e87b9e9084cd7fded22aa1e379321f89bbde5d9655d91ae8533edc",
+      "ext": "jpeg",
+      "bytes": 26694,
+      "bbox": [
+        302.5,
+        79.8,
+        534.8,
+        250.9
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "cb76f10973aaeb5f624123d132aa991c4eb101be0b03c564edfb1ed7f4ed6d76",
+      "ext": "jpeg",
+      "bytes": 26203,
+      "bbox": [
+        323.5,
+        525.0,
+        511.5,
+        672.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
