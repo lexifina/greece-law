@@ -1,0 +1,28 @@
+{
+  "year": 2001,
+  "number": 2887,
+  "url": "https://api.et.gr/apiLAW/1/2001/2887/pdf",
+  "source_sha256": "ad07fc027c377cdc871ff02e0f6494fc1a9dc62a00792272f2e5aea7005028ce",
+  "published": "2001-02-28",
+  "in_force": "2001-02-28",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευση του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 24 αυτής.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "02ec945544e9b21049775c7796382a5e4491d8e01ea3e4814bbbfe2d36ac16d0",
+      "ext": "png",
+      "bytes": 385,
+      "bbox": [
+        46.7,
+        57.7,
+        198.8,
+        98.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
