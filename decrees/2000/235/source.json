@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 235/2000",
+  "year": 2000,
+  "number": 235,
+  "url": "https://api.et.gr/apiLAW/2/2000/235/pdf",
+  "source_sha256": "1c3a536985c6dbd6f562a96b372bc3f30b829d663d26487a8a9fd9d04eeb427e",
+  "published": "2000-09-14",
+  "in_force": "2000-09-14",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος Διατάγματος αρχίζει από την δημοσίευσή του στην Εφημερίδα της Κυβέρνησης, εκτός αν οι επιμέρους διατάξεις του ορίζουν άλλως. - ΠΑ",
+  "pages": 20,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "beadbdc48ed66df50825b91e5768c84fbab423fef92f103b0509af2bd8e9865b",
+      "ext": "png",
+      "bytes": 378,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        97.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
