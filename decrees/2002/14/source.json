@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 14/2002",
+  "year": 2002,
+  "number": 14,
+  "url": "https://api.et.gr/apiLAW/2/2002/14/pdf",
+  "source_sha256": "e1313c3a36b0c7e4a4185f022b2c19d3d7e4b0e305ba380bdc68a62ac83fb216",
+  "published": "2002-01-23",
+  "in_force": "2002-01-23",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 2,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "02458a2d5b696586c8999aef633110b1f9bca65bb8af5588751a456fc4bf0e20",
+      "ext": "png",
+      "bytes": 377,
+      "bbox": [
+        46.7,
+        57.7,
+        196.7,
+        97.7
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
