@@ -1,0 +1,29 @@
+{
+  "year": 2001,
+  "number": 2948,
+  "url": "https://api.et.gr/apiLAW/1/2001/2948/pdf",
+  "source_sha256": "51e9d620844851baaf831de73d0f0b1fc0642b317dca11128f1eb54cad06b3ea",
+  "published": "2001-10-19",
+  "in_force": "2001-10-19",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 24,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "9fc2e0cae2458710536d4f8657a3597af7584cc175eacc6db7522c9468c480e6",
+      "ext": "png",
+      "bytes": 395,
+      "bbox": [
+        48.5,
+        56.9,
+        200.7,
+        97.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: qualified commencement: Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επί μέρους διατάξεις του. 3."
+}
