@@ -1,0 +1,52 @@
+{
+  "act": "π.δ. 61/2001",
+  "year": 2001,
+  "number": 61,
+  "url": "https://api.et.gr/apiLAW/2/2001/61/pdf",
+  "source_sha256": "5f7ecb050535a9efc4b0ab37db6dab73e0ea0c1cf7871e9f979d70a22adc6c1c",
+  "published": "2001-03-19",
+  "in_force": "2001-03-19",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος αρχίζει τριάντα (30) ημέρες από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "f43c9ca869618ff5da10895ae2315bc506bba916f9c873bc3b5a14f4ae7db38a",
+      "ext": "png",
+      "bytes": 367,
+      "bbox": [
+        46.7,
+        57.7,
+        193.8,
+        97.2
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "86c73229bbb258cffae13117e5621b2ea640171e4a3b44539eba6b917acac588",
+      "ext": "png",
+      "bytes": 140067,
+      "bbox": [
+        58.4,
+        110.3,
+        535.8,
+        759.8
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "fbd8bf4d012203a1e94d89f913bdfb4167b55a11236dbba2440603fe0c0ef9ad",
+      "ext": "png",
+      "bytes": 143962,
+      "bbox": [
+        57.5,
+        109.4,
+        535.0,
+        759.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
