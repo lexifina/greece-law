@@ -1,0 +1,29 @@
+{
+  "act": "ν. 1004/1980",
+  "year": 1980,
+  "number": 1004,
+  "title_ocr": "Πεοὶ τροποποιήσεως καὶ συμπληρώσεως τῆς νοµοδεσίας «περὶ ἀποδημίας καὶ ἀπλουσιεύσεως τῆς διαδικασίας ἐκδόσεως διαθατηρίων»».",
+  "source": "https://api.et.gr/apiLAW/1/1980/1004/pdf",
+  "source_sha256": "21bff03b177d3871f5585e301a475548eefaa7b78ca19cf19527d0f705aef322",
+  "published": "1980-01-09",
+  "in_force": "1980-01-09",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 81.4,
+  "ocr_page_confidence": [
+    63.4,
+    83.5,
+    83.8,
+    81.3,
+    82.3,
+    85.7,
+    86.6,
+    84.9
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": false,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
