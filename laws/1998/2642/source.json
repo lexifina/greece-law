@@ -1,0 +1,29 @@
+{
+  "act": "ν. 2642/1998",
+  "year": 1998,
+  "number": 2642,
+  "title_ocr": "Μητρώο επιχειρήσεων ναυπήγησης, μετατροπής, επισκευής και συντήρησης πλοίων και άλλες διατάξεις.",
+  "source": "https://api.et.gr/apiLAW/1/1998/2642/pdf",
+  "source_sha256": "b9f1543b474c434c6cf8081b2f98d5d56bd12ba97b7b6b19c2dda3d4f2758c37",
+  "published": "1998-09-17",
+  "in_force": "1998-09-17",
+  "in_force_basis": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσήτου στην Εφημερίδατης Κυβερνήσεως. (read from the OCR text)",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 79.6,
+  "ocr_page_confidence": [
+    83.1,
+    81.6,
+    82.3,
+    81.7,
+    77.7,
+    74.9,
+    75.7,
+    80.0
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
