@@ -1,0 +1,76 @@
+{
+  "act": "π.δ. 41/2001",
+  "year": 2001,
+  "number": 41,
+  "url": "https://api.et.gr/apiLAW/2/2001/41/pdf",
+  "source_sha256": "b41758825f9bd5c1f2ecdf18e9908545f8bc49167e7c71024d61f467d2c32661",
+  "published": "2001-02-22",
+  "in_force": "2001-02-22",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "4673ed92023c54ba9eb59b248e58b93c1fd6597bf47ca22df5e4cd9adbc7538e",
+      "ext": "png",
+      "bytes": 385,
+      "bbox": [
+        43.5,
+        56.8,
+        195.7,
+        97.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "2301095605731dac6de52ea0d294e5eeaf3732ea6346786dfb6c1ea7ee6d1d39",
+      "ext": "png",
+      "bytes": 130905,
+      "bbox": [
+        58.4,
+        93.8,
+        535.8,
+        745.6
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "760a9454c1108d2ad41dc26899531dd8e081be3c9d2f6b8f2f9a925a41e33db4",
+      "ext": "png",
+      "bytes": 135167,
+      "bbox": [
+        57.5,
+        93.8,
+        535.0,
+        738.8
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "23fa3725dbdbdbb4a237140db6f974f8bc4c4d3524f33a98d0ce11a5992c4e2e",
+      "ext": "png",
+      "bytes": 85193,
+      "bbox": [
+        117.8,
+        93.8,
+        481.2,
+        498.1
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "98978e17b964ec509a9e39dd827960218c8822235c89ef15a30a07155885c6d0",
+      "ext": "png",
+      "bytes": 34178,
+      "bbox": [
+        117.6,
+        472.9,
+        500.3,
+        644.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
