@@ -1,0 +1,52 @@
+{
+  "act": "π.δ. 208/2003",
+  "year": 2003,
+  "number": 208,
+  "url": "https://api.et.gr/apiLAW/2/2003/208/pdf",
+  "source_sha256": "e8e2dc6b20bbcebc1d205123c8c5e7231b84507c6eba3f4037c8fb07bae2ea86",
+  "published": "2003-07-01",
+  "in_force": "2003-07-01",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος αρχίζει από την 30 Ιουνίου 2003.",
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "35df655a66b861f266d043a79c7f0d0efcad3606a42acbed8d6911f1c69d28b5",
+      "ext": "png",
+      "bytes": 365,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        97.2
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "63eef1ee019aa9e344052573f4949ec8b3991a6fe3bcfffce094f14275165a3a",
+      "ext": "png",
+      "bytes": 151140,
+      "bbox": [
+        57.5,
+        94.4,
+        535.0,
+        776.3
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "64c11597751825035340218053ea82628abe808fe66b8e3ed6411defd91af9a5",
+      "ext": "png",
+      "bytes": 303571,
+      "bbox": [
+        58.4,
+        94.4,
+        535.8,
+        392.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
