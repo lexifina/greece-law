@@ -1,0 +1,29 @@
+{
+  "year": 2002,
+  "number": 3023,
+  "url": "https://api.et.gr/apiLAW/1/2002/3023/pdf",
+  "source_sha256": "21fa0ed7b3ad1e54eacf27d63bce10cff492b03da24c0ad944e62355e6805187",
+  "published": "2002-06-25",
+  "in_force": "2002-06-25",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "8364bb1885f2fd4d1bd9d0fad1beec58ed2144bcdda657794914996639209fa0",
+      "ext": "png",
+      "bytes": 423,
+      "bbox": [
+        46.7,
+        57.7,
+        198.8,
+        98.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
