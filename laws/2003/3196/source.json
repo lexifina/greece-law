@@ -1,0 +1,29 @@
+{
+  "year": 2003,
+  "number": 3196,
+  "url": "https://api.et.gr/apiLAW/1/2003/3196/pdf",
+  "source_sha256": "4d19f2d5ae4864e6f85dedb91c42cd78c14b4d2b41fb86e32665f2858bb34790",
+  "published": "2003-12-02",
+  "in_force": "2003-12-02",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 20,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "bdfee7d279c2e3615c385e7d15f27f2c1fb4a99d45aacebf52b1a4f376563ac1",
+      "ext": "png",
+      "bytes": 407,
+      "bbox": [
+        43.3,
+        35.9,
+        195.4,
+        76.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: qualified commencement: Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, με εξαίρεση τις διατάξεις εκείνες για τις οποίες προβλέπεται διαφορετική έναρ"
+}
