@@ -1,0 +1,40 @@
+{
+  "act": "π.δ. 151/2004",
+  "year": 2004,
+  "number": 151,
+  "url": "https://api.et.gr/apiLAW/2/2004/151/pdf",
+  "source_sha256": "8523781fc3840caa76d74a44d9f0eb3cdff703aa6e19669c4fd758b80392e9f2",
+  "published": "2004-06-03",
+  "in_force": "2004-06-03",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος διατάγματος αρχίζει τρεις (3) μήνες μετά τη δημοσίευσή του. 2.",
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "461128f023e41c1e9a0c16f94182702d06739088d1040d289bf754f688301659",
+      "ext": "png",
+      "bytes": 373,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "49e5a1e6be90e6228406901855285c8d827405e07e38ba03b4770127216b5b2c",
+      "ext": "png",
+      "bytes": 84823,
+      "bbox": [
+        115.6,
+        239.9,
+        478.5,
+        756.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
