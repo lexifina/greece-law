@@ -1,0 +1,173 @@
+{
+  "year": 2001,
+  "number": 2925,
+  "url": "https://api.et.gr/apiLAW/1/2001/2925/pdf",
+  "source_sha256": "ae9c155e279719da29547bc38b06618415aa0284614089e99b0b56464e9d402b",
+  "published": "2001-06-27",
+  "in_force": "2001-06-27",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 16,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "77f616192820d7936fc6aa2f0770831f2ba1fdbe246ce5371b494ee95f210c92",
+      "ext": "png",
+      "bytes": 386,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        97.2
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "8d96da72287cd1b8b530523dc26b70c7f534376b30a4b586880b3dc75c66bbde",
+      "ext": "png",
+      "bytes": 135169,
+      "bbox": [
+        58.4,
+        94.2,
+        535.8,
+        760.5
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "4ff1f2d2fb892ce84708f117e320c7dc218a318d4f32c0ad5eaf422bcba0b7a7",
+      "ext": "png",
+      "bytes": 116004,
+      "bbox": [
+        59.5,
+        95.0,
+        531.7,
+        777.1
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "761ab9e21ecb97c5c48acc844ec88dd1f7ab7ef43cf7935b7adfef5882311e7d",
+      "ext": "png",
+      "bytes": 99208,
+      "bbox": [
+        58.4,
+        94.4,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "51dcb6d34909f2e55ef9bbd0c4cb20051ff308eff1ef27301bcd491dbc256855",
+      "ext": "png",
+      "bytes": 113051,
+      "bbox": [
+        60.5,
+        94.4,
+        521.3,
+        763.4
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "5d3b5c91eeb8bce977e1f3d3cf6a206a34b9ab5d74dd8313bfdf8297826bc583",
+      "ext": "png",
+      "bytes": 136416,
+      "bbox": [
+        58.4,
+        94.4,
+        523.5,
+        725.9
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "be181369f0386fc677e3082ab9232c4511e4e1473fc60658396dd414a2e4dd2c",
+      "ext": "png",
+      "bytes": 130282,
+      "bbox": [
+        71.5,
+        94.4,
+        529.5,
+        756.4
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "d06f80a0961db3d6db8bb8dfafaf7285081c03cab6475251a11c47b787d9fc24",
+      "ext": "png",
+      "bytes": 127233,
+      "bbox": [
+        60.4,
+        94.4,
+        529.8,
+        775.3
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "df7bd8b16697000958b79b3288972f25d51604339e0a538fc3df427bd888118e",
+      "ext": "png",
+      "bytes": 141198,
+      "bbox": [
+        57.5,
+        94.4,
+        534.2,
+        763.2
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "8e6540554355c420ecf5adb9fbc4d50a85e8a9202071ddaf0d322911649e3bf5",
+      "ext": "png",
+      "bytes": 65843,
+      "bbox": [
+        58.4,
+        94.4,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "14ebecabc2f0e5c7c67f3a918533bcb98854a871aaa408abb0a8a8731c537508",
+      "ext": "png",
+      "bytes": 216336,
+      "bbox": [
+        57.5,
+        94.4,
+        535.0,
+        777.1
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "47d97ec51c819c4c3bb3eaf3925f2fe5990a06cec1d1f843f813d92eb8894a1d",
+      "ext": "png",
+      "bytes": 223836,
+      "bbox": [
+        58.4,
+        94.4,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 13,
+      "sha256": "d4a518afc9c3a117f2b54b9cb73f1b23bd057ee81d81aedc434bd7a5762ff1d1",
+      "ext": "png",
+      "bytes": 194249,
+      "bbox": [
+        58.5,
+        94.4,
+        535.0,
+        741.3
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
