@@ -1,0 +1,33 @@
+{
+  "act": "ν. 1505/1984",
+  "year": 1984,
+  "number": 1505,
+  "title_ocr": "Αναδιάρθρωση. μισθολογίου προσωπικού της 1ημόσιας Διοίκησης και άλλες συναφεί; διατάξεις.",
+  "source": "https://api.et.gr/apiLAW/1/1984/1505/pdf",
+  "source_sha256": "7bc7fc5f20c2a515c27b9aa9e88263b097f89d239ace88224a44eae1a7b6264e",
+  "published": "1984-12-08",
+  "in_force": "1984-12-08",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 71.4,
+  "ocr_page_confidence": [
+    71.3,
+    72.9,
+    69.9,
+    76.5,
+    69.1,
+    73.0,
+    75.1,
+    74.9,
+    58.4,
+    72.8,
+    null,
+    null
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 12,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
