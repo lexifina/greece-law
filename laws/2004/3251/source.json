@@ -1,0 +1,28 @@
+{
+  "year": 2004,
+  "number": 3251,
+  "url": "https://api.et.gr/apiLAW/1/2004/3251/pdf",
+  "source_sha256": "62d4623b2e7f23661af2dcd9fabb0e762dc031a6832acfc40b180785477c4f5c",
+  "published": "2004-07-09",
+  "in_force": "2004-07-09",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "in_force_general_day": false,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "077555bbd3e8a7a4a0ef9b98c5bba4d0f8772e0a1a70f137dc792a4284562182",
+      "ext": "png",
+      "bytes": 401,
+      "bbox": [
+        43.3,
+        35.9,
+        195.4,
+        76.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
