@@ -1,0 +1,29 @@
+{
+  "year": 2000,
+  "number": 2846,
+  "url": "https://api.et.gr/apiLAW/1/2000/2846/pdf",
+  "source_sha256": "26cb2785da9cb47af549842f902fa0faa0572200d907fa5c6faad6fdb22d32ee",
+  "published": "2000-10-23",
+  "in_force": "2000-10-23",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "d2cda89758b529d85153935f28bf119e9c1e02419785eaaec1d0f12898584213",
+      "ext": "png",
+      "bytes": 374,
+      "bbox": [
+        46.7,
+        57.7,
+        198.8,
+        98.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: qualified commencement: Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός από την παράγραφο 1 του άρθρου 5, της οποίας η ισχύς αρχίζει από "
+}
