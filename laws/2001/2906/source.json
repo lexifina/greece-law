@@ -1,0 +1,64 @@
+{
+  "year": 2001,
+  "number": 2906,
+  "url": "https://api.et.gr/apiLAW/1/2001/2906/pdf",
+  "source_sha256": "aa80aaac7c1f353bf09180f237ebc66a9e1b0eb5fbd5fecbc246b42e343b3a69",
+  "published": "2001-04-12",
+  "in_force": "2001-04-12",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου VI παράγραφος πρώτη αυτής.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "e94fad5bda3e221ca3f888c6f8d404222e6110e8f25822e6c29c7ec40dc09cc8",
+      "ext": "png",
+      "bytes": 369,
+      "bbox": [
+        43.5,
+        56.8,
+        195.7,
+        97.4
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "3403af5de52b52a297a099d27e31767df85f4642b75d574281c236240e249b1e",
+      "ext": "png",
+      "bytes": 145416,
+      "bbox": [
+        69.5,
+        93.2,
+        513.9,
+        771.8
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "38b86fb00fff3a5844da0b3c371d9b934cb249db0281e3165e0f1e1f01219d1e",
+      "ext": "png",
+      "bytes": 146615,
+      "bbox": [
+        61.4,
+        93.2,
+        523.2,
+        763.3
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "2022756d19266741002e435030de0af26fe498c73591f97d88aaf098d4aec1bf",
+      "ext": "png",
+      "bytes": 153045,
+      "bbox": [
+        72.5,
+        92.8,
+        513.2,
+        777.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
