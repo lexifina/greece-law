@@ -1,0 +1,28 @@
+{
+  "year": 2002,
+  "number": 2984,
+  "url": "https://api.et.gr/apiLAW/1/2002/2984/pdf",
+  "source_sha256": "b6f1dff84a11a8ee069c2fc4d7e02a75c06072a0ad47feb74a8f45c4c9e18673",
+  "published": "2002-01-31",
+  "in_force": "2002-01-31",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επί μέρους διατάξεις του.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "bf1b90cd3f9f5b6b0f83fa0ce7c8e012e292537bd3c903750653ed35f9733522",
+      "ext": "png",
+      "bytes": 374,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        97.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
