@@ -1,0 +1,29 @@
+{
+  "act": "ν. 535/1977",
+  "year": 1977,
+  "number": 535,
+  "title_ocr": "Περὶ κυρώσεως τῆς ἀπὸ 13 “Σεπιεμθρίου 1979 ὑπογραφείσης ὑπὸ τῆς Ἑλλάδος ἓν Ῥέρνῃ Διεθνοῦς Zope ae σεως, ἀφορώσης εἰς τὴν μείωσιν τοῦ ἀριθμοῦ τῶν περιπτώσεων ἀνιδαγενείας.",
+  "source": "https://api.et.gr/apiLAW/1/1977/535/pdf",
+  "source_sha256": "93e406d7df6335d43286c290ea799cf8dfd39dc7ff372919ee569208024fdaba",
+  "published": "1977-02-08",
+  "in_force": "1977-02-08",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 79.8,
+  "ocr_page_confidence": [
+    66.7,
+    82.0,
+    87.8,
+    77.5,
+    90.2,
+    82.2,
+    80.2,
+    71.8
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": false,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
