@@ -1,0 +1,40 @@
+{
+  "act": "π.δ. 319/2002",
+  "year": 2002,
+  "number": 319,
+  "url": "https://api.et.gr/apiLAW/2/2002/319/pdf",
+  "source_sha256": "3e98a0106f7f27c73ae204e1c6b58113992b5ecb610abdd083c2a7a637d8c1f2",
+  "published": "2002-11-18",
+  "in_force": "2002-11-18",
+  "in_force_basis": "Η ισχύς του παρόντος Προεδρικού Διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 8,
+  "images": [
+    {
+      "page": 4,
+      "sha256": "b999f90736effdcbc93bbe7c92a9d84fd6d552589549ec93b46bce7c4d485831",
+      "ext": "png",
+      "bytes": 108369,
+      "bbox": [
+        58.4,
+        291.8,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "d2891cbd82b82be89bb2cfa9a51d13ad69059d171e9a6f8557632e298692b9c7",
+      "ext": "jpeg",
+      "bytes": 77735,
+      "bbox": [
+        61.9,
+        138.7,
+        534.0,
+        729.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
