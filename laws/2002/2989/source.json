@@ -1,0 +1,52 @@
+{
+  "year": 2002,
+  "number": 2989,
+  "url": "https://api.et.gr/apiLAW/1/2002/2989/pdf",
+  "source_sha256": "e932cbdbf0c0961c2deb1dee0864c15db39ba5a2040da8aadf6a048cf5f3f412",
+  "published": "2002-02-21",
+  "in_force": "2002-02-21",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 5 αυτής.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "b392b953378ffb3d6e146993fd804505158e1784f45638f030149245b7ab08c8",
+      "ext": "png",
+      "bytes": 385,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "12d896f2823d52b1a567464a79d3a0f9b31a4f45b6d35e703efcfffddcc4fab4",
+      "ext": "png",
+      "bytes": 140276,
+      "bbox": [
+        103.5,
+        235.4,
+        488.2,
+        787.9
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "b4344c07149e84c3907564761f29d01f55e56d4821427be0d9d4f23f5d3905a6",
+      "ext": "png",
+      "bytes": 183453,
+      "bbox": [
+        62.9,
+        95.1,
+        529.4,
+        758.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
