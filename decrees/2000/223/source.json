@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 223/2000",
+  "year": 2000,
+  "number": 223,
+  "url": "https://api.et.gr/apiLAW/2/2000/223/pdf",
+  "source_sha256": "12263170717af53fdda46263c69083171c145bc7ebbc01d6bc098179550d9219",
+  "published": "2000-09-06",
+  "in_force": "2000-09-06",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος Προεδρικού Διατάγματος αρχίζει από την δημοσίευσή του στην Εφημερίδα της Κυβέρνησης.",
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "b65819583ea00cdffef1239a0fcdf818824855651e09f9cb14ce1de940ba047c",
+      "ext": "png",
+      "bytes": 396,
+      "bbox": [
+        55.2,
+        31.8,
+        207.4,
+        72.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
