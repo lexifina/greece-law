@@ -1,0 +1,76 @@
+{
+  "act": "π.δ. 157/2004",
+  "year": 2004,
+  "number": 157,
+  "url": "https://api.et.gr/apiLAW/2/2004/157/pdf",
+  "source_sha256": "8d72562a5df391b32b5f779b452457384f111c9b72806b6dc876ae062aab533e",
+  "published": "2004-07-09",
+  "in_force": "2004-07-09",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος Διατάγματος αρχίζει έξι (6) μήνες μετά τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "785eafa9ff24524915e3308ea673ce91b948fddadb4139a90596e810a756b047",
+      "ext": "png",
+      "bytes": 396,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "855f615b7e4f1b700085f96131c9ad7b5efaf403ec2e3e04fca028f4ca43057c",
+      "ext": "png",
+      "bytes": 71741,
+      "bbox": [
+        57.5,
+        72.7,
+        534.9,
+        756.0
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "6e9abe8379a5c529b92dd2ea3f332a989246dd2f2952aa42ec6e102ca35f0563",
+      "ext": "png",
+      "bytes": 13720,
+      "bbox": [
+        58.3,
+        204.4,
+        535.8,
+        603.3
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "e19562823a7f1aa0fed92bfeab7d103ecdd77a580a91f85141fb650e930058ea",
+      "ext": "png",
+      "bytes": 103359,
+      "bbox": [
+        57.5,
+        155.3,
+        534.9,
+        745.2
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "0fba7c3c5853fc688431aafe23facd291aefe99830cffef5ddc7a187232e6a7d",
+      "ext": "png",
+      "bytes": 141977,
+      "bbox": [
+        58.3,
+        78.8,
+        535.8,
+        601.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
