@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 140/2004",
+  "year": 2004,
+  "number": 140,
+  "url": "https://api.et.gr/apiLAW/2/2004/140/pdf",
+  "source_sha256": "74e50ae66e82b25f9d60c85ecdd248843e29fc85669774ef6e83aa5d73f08fe6",
+  "published": "2004-05-20",
+  "in_force": "2004-05-20",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος Κανονισμού άρχεται από της δημοσιεύσεως αυτού εις την Εφημερίδα της Κυβερνήσεως και το περιοδικόν «ΕΚΚΛΗΣΙΑ».",
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "47b5dbbe755e6f5b3f38cd2ae1442141e4072a56a84cb8f21726635a81240a44",
+      "ext": "png",
+      "bytes": 373,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
