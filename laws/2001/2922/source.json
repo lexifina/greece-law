@@ -1,0 +1,28 @@
+{
+  "year": 2001,
+  "number": 2922,
+  "url": "https://api.et.gr/apiLAW/1/2001/2922/pdf",
+  "source_sha256": "34c3d8e0532db647209e43f0cec836fdf0dea088cecd7d3ae6099087c923a63d",
+  "published": "2001-06-27",
+  "in_force": "2001-06-27",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 11 αυτής.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "a52ff9b19d8a934048dcca44b8fcb0d5ed8af5daa329eddedc7978f0f2afbfe8",
+      "ext": "png",
+      "bytes": 404,
+      "bbox": [
+        43.4,
+        56.8,
+        195.6,
+        97.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
