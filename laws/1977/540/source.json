@@ -1,0 +1,25 @@
+{
+  "act": "ν. 540/1977",
+  "year": 1977,
+  "number": 540,
+  "title_ocr": "Περὶ ἱδρύσεως Τμήματος Γερμανικῆς Γλώσσης καὶ Φιλολογίας εἰς τὴν Φιλοσοφικὴν Σχολὴν τοῦ Πανεπιστηµίου \"Adnvay. (4)",
+  "source": "https://api.et.gr/apiLAW/1/1977/540/pdf",
+  "source_sha256": "68d664bf88939c7d61600b6434c12f77ea013df1ea7ba74b1b2f957c7e8e38bf",
+  "published": "1977-02-15",
+  "in_force": "1977-02-15",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 80.0,
+  "ocr_page_confidence": [
+    81.1,
+    79.9,
+    83.6,
+    75.2
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": false,
+  "pages": 4,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
