@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 139/2001",
+  "year": 2001,
+  "number": 139,
+  "url": "https://api.et.gr/apiLAW/2/2001/139/pdf",
+  "source_sha256": "9aafc40c8279d8f6d4d3d2040f76564863cfcdb253362db101cafa58a4a06cdc",
+  "published": "2001-06-18",
+  "in_force": "2001-06-18",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος Προεδρικού Διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβέρνησης.",
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "2532f4770bf399ef4ae78037175fabac0dc3b9083ca24b550df3b832f5ee479d",
+      "ext": "png",
+      "bytes": 380,
+      "bbox": [
+        46.7,
+        57.7,
+        198.8,
+        98.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
