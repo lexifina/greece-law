@@ -1,0 +1,71 @@
+# ν. 1011/1980
+
+<!-- text: OCR of official scan -->
+
+ΝΟΜΟΣ ΥΠ’ ΑΡΙΘ. 1011 (1) Περὶ κυρώσεως τοῦ εἰς Biévyny ὑπογραφέντος τὴν 4ην ᾿᾽ἀπριλίου 1979, μεταξὺ τῆς “Ἑλληνικῆς Δημοκρατία: καὶ τῆς Αὐσιριακῆς Δημοκρατίας, Πρωτοκόλλου ἀφορῶντος εἰς τὰς διεθνεῖς ὁδικὰς ἐμπορευματικὰς µετα- _ φοράς. O ΠΡΟΕΔΡΟΣ Ὁηφισάμενοι ὁμοφώνως μετὰ τῆς Ῥουλῆς, ἀπεφασῖσαμε»: "ApSpov πρῶτον Κυροῦται καὶ ἔχει ἰσχὺν νόµου τὸ ὑπογραφὲν εἰς Βιέννην τὴν Any ᾿Απριλίου 1979, μεταξὺ τῆς Ἑλληνικῆς Δημοχρα- Tag καὶ τῆς Αὐστριακῆς Δημοκρατίας ΠΠρωτόχολλον ἀφορῶ» εἰς τὰς διεθνεῖς ὀξικὰς ἐμπορευματικὰς μεταφοράς, τοῦ ὁποίου τὸ κείµενον εἰς Πρωτότυτον εἰς τὴν Ἑλληνικὴν καὶ Γερμανικὴν γλῶσσαν ἔχει ὡς ἀκολούθως: ΠΡΩΤΟΚΟΛΛΟ Τῶν συνομιλιῶν ποὺ διεξήχθησαν στὴ Βιέννη ἀπὸ 2 ἕως 4 ᾿Απριλίου 1979, σχετικὰ μὲ τὶς διεθνεῖς ὁδικὲς ἐμπορευματικὲς μεταφορές, μεταξὺ καὶ διὰ τοῦ ἐδάφους τῆς Ἕλληνικῆς καὶ τῆς Αὐστριακῆς Δημοκρατίας ὑπό : Τις Ἑλληνικῆς ᾿Αντιπροσωπείας, ἀποτελουμένης ἀπὸ τοὺς :
+
+1. Πέτρο Παπαδάκη, Γενικὸ Διευθυντὴ τοῦ “Υπουργείου ἘΣυντονισμοῦ, ὡς ᾿Αρχηγοῦ τῆς Ἑλληνικῆς ᾿Αντιπροσωπείας.
+
+2. Σπυρίδωνα ᾿Αδαμόπουλο, Πληρεξούσιο “Ὑπουργὸ B’, '. Ὑπουργείου ᾿Εξωτερικῶν.
+
+3. Χαράλαμπο Κατσαντώνη, Διευθυντὴ τοῦ “Ὑπουργείου Οἰκονονομικῶν. 4, Ιωάννη Καράγιωργα, Διευθυντὴ τοῦ “Ὑπουργείου Συγκοινωνιῶν.
+
+5. ᾿Ανδρέα Γκάσιο, Τμηματάρχη τοῦ “Υπουργείου *Eμπορίου.
+
+6. Eloqvy Σαμπάνη, ᾿Εμπορικὸ ᾿Ακόλουθο τῆς Ἓλληνικῆς Πρεσβείας στὴ Βιέννη. Ἱ. ᾿Αντώνιο Ζάχο, Ἑλληνικῆς Ιρεσβείας ἨΒιέννης. Παρατηρητές :
+
+1) I. Χαραλαμπίδης καὶ 2) A. Ῥλάχος, ἐκπρόσωποι διεθνῶν ὁδικῶν µεταφορέων. Καὶ τῆς Λὐστριακῆς ᾿Αντιπροσωπεία:, ἀποτελουμένης ἀπὸ τοὺς :
+
+1. Dr. Herbert Metzner, Γενικὸ Διευθυντὴ τοῦ Ὅμοσπονδιακοῦ “Ὑπουργείου Συγκοινωνιῶν, ὡς ᾿Αρχηγοῦ τῆς Αὐστριακῆς ᾿Αντιπροσωπείας.
+
+2. Dr. Josef Aigner, Διευθυντὴ τοῦ "Ὅμοσπ, "Ὑπουργείου Συγκοινωνιῶν.
+
+3. Dr. Reinhard Rentmeister, Τμηματάρχη τοῦ Ὁμοσπ. “Ὑπουργείου Συγκοινωνιῶν. 4, Dr. Ernst Pollak, Διευθυντὴ τοῦ Ὅμοσπ. Ὕπουργείου Συγκοινωνιῶν.
+
+5. Dr. Georg Znidaric, Σύμβουλο τοῦ "ΟΌμµοσπ. ‘Yπουργείου ᾿Εξωτερικῶν.
+
+6. Dr. Hermann Zartl, Γενικὸ ᾿Επιθεωρητὴ τῶν ‘Opoor. Ἐιδηροδρόμων.
+
+7. Dr. Peter Tschirner, Ὅμοσπ, Οἰκονομικοῦ ᾿Επιμελητηρίου.
+
+8. Walther Machalik "Όμοσπ. Οἰκονομικοῦ "Ἐπιμελητηρίου.
+
+9. Dr. Gerhard Fuhrmann, Αὐστριακοῦ ᾿Εργατικοῦ ᾿Επιμελητηρίου.
+
+10. Dr. Peter R. Fitz, ᾿Εμπορικὸ Ἀύμβουλο τῆς Αὐστριακῆς Ἱ[ρεσβείας στὴν ᾿Αθήνα.
+
+1. Of δύο ἀντιπροσωπεῖες ἀντήλλαξαν τὶς ἐμπειρίες τοὺς σχετικὰ μὲ τὶς διεθνεῖς ὀδικὲς ἐμπορευματικές μεταφορὲς μεταξὺ τῶν δύο χωρῶν, κατὰ τὸ χρονικὸ διάστηµα ποὺ διέρρευσε ἀπὸ τὶς τελευταῖες συνομιλίες τοῦ ἔτους 1978. Ot δύο ἀντιπροσωπεῖες ἀνεφέρθησαν περαιτέρω στὶς θέσεις ποὺ διετυπώθησαν, ἐπ᾽ εὐκαιρία τῶν συνομιλιῶν στὴ Βιέννη τὸν ᾿Ιανουάριο τοῦ 1978 καὶ στὴν ᾿Αθήνα τὸν Ἐεπτέμβριο τοῦ 1978 καὶ διεπίστωσαν ὅτι οἱ τότε ἐκτεθεῖσες συνθῆκες δὲν μετεβλήθησαν. "And αὐστριακῆς πλευρᾶς ἐπεσημάνθη ἰδιαιτέρως τὸ γεγονὸς ὅτι ἐπὶ τῆς διαδρομῆς SPIELFELD-SALZBURG σημειώθηκε ἐπιδείνωση τῆς τεταµένης καταστάσεως, οὕτως ὥστε νὰ παρίσταται ἐπιτακτικὴ ἡ ἀποσυμφόρηση τῆς διαδρομῆς αὐτῆς ἀπὸ τὴν κυκλοφορία βαρέων ὀχημάτων.
+
+2. Ἡ Ἑλληνικὴ ἀντιπροσωπεία ἀνέφερε ὅτι h ὑφισταμένη ποσόστωση ἀδειῶν δὲν ἐπαρκεῖ γιὰ τὶς πρὸς Δυτικὴ Εὐρώπη ἑλληνικὲς ἐξαγωγὲς καὶ ἰδιαιτέρως τῶν ἑλληνικῶν ἀγροτικῶν προϊόντων, λόγῳ δὲ τῆς ἐπικειμένης ἐντάξεως τῆς Ἑλλάδος στὶς Εὐρωπαϊκὲς Κοινότητες, καθίσταται ἀπολύτως ἀπαραίτητη ἀνάλογη αὔξηση τῆς ποσοστώσεως αὐτῆς, ἡ ὁποία γιὰ τὸ ἔτος 1979 ἐκτιμᾶται σὲ 25.000 ἄδειες κατ᾿ ἐλάχιστο ὅριο.
+
+3. Κατόπιν λίαν διεξοδικῆς ἀναπτύξεως ἀμφοτέρων τῶν ἀπόψεων, κατὰ τὴν ὁποία ἐξετέθη ἰδιαιτέρως ἡ διαφορετικὴ γεωγραφικὴ θέση τῶν δύο χωρῶν, οἱ δύο ἀντιπροσωπεῖες συνεφώνησαν, βάσει τῶν ἰδιαιτέρων συνθηκῶν καὶ συµφερόντων τῶν δύο χωρῶν, νὰ καθορίσουν προσωρινῶς μίαν or ~ a 2 Σπ 1 Ω αὔξησιν τῆς ποσοστώσεως γιὰ τὸ ἔτος 1979 κατὰ 10% , 2 AY ᾽ ΄ A > A ~ > -” 1 περίπου, ἤτοι νὰ αὐξήσουν τὸν ἀριθμὸν τῶν ἀδειῶν σὲ 21.000 συνολικῶς. ᾿᾽Απὸ τὶς ἄδειες αὐτές, ἀπὸ ἑλληνικῆς πλευρᾶς θὰ χρησιμοποιηθοῦν : 1230 ἀποκλειστικῶς γιὰ τὴν δίοδο BRENNER. 1250 γιὰ τὴν δίοδο LAVAMUND, καὶ 2500 ἐναλλακτικῶς γιὰ τὶς διόδους BRENNER ἡ LA- VAMUND ἡ NICKELSDORF. 4, Οἱ δύο ἀντιπροσωπεῖες συνεφώνησαν νὰ συναντηθοῦν ἐκ νέου ἐντὸς τοῦ ἔτους 1979, γιὰ νὰ ἐξετάσουν τὰ συµφωνηθέντα, μὲ βάση τὶς ἐξελίξεις ποὺ θὰ σημειωθοῦν ἐν τῷ μεταξύ.
+
+5. ᾿Απὸ τὴν ἀναφερομένη στὴν παράγραφο 3 ποσόστωση μπορεῖ νὰ χρησιμοποιηθεῖ ἕνα τέταρτο (δηλαδὴ 5.250 ἄδειες) γιὰ τὴν ἐκτέλεση μεταφορῶν ἀπὸ καὶ πρὸς τρίτες χῶρες.
+
+6. Οἱ δύο πλευρὲς εἶναι τῆς γνώμης ὅτι εἶναι ἐνδεδειγµένος ὁ ἀκολουθούμενος τρόπος βελτιώσεως τῶν ὑπηρεσιῶν τοῦ σιδηροδρόμου στὶς μεταφορές, ὥστε νὰ μπορεῖ νὰ χρησιμοποιηθεῖ ὁ σιδηρόδρομος σὲ μεγαλύτερη ἔκταση γιὰ τὶς ἐμπορευματικὲς μεταφορὲς μεταξὺ καὶ διὰ τῶν δύο χωρῶν. "Eri τοῦ θέµατος αὐτοῦ ἡ ἑλληνικὴ πλευρὰ ἐπέσυοε τὴν προσοχὴ τῆς αὐτριακῆς ἐπὶ τοῦ γεγονότος ὅτι μεγάλο µέρος τῶν ἐξαγομένων ἀγροτικῶν προϊόντων προέρχεται ἀπὸ τὴν Πελοπόννησο, ὅπου τὸ ὑφιστάμενο σιδηροδρομικὸ δίκτυο εἶναι περιορισμένων δυνατοτήτων. “Ἡ αὐστριακὴ πλευρὰ ἀνεφέρθη στὴν ἤδη ἐπιδειχθεῖσα καὶ ἐπιδευκνυομένη προθυµία της νὰ προσφέρει μεγάλες ἐκπτώσεις στὰ τιμολόγια τῶν σιδηροδρομικῶν μεταφορῶν, μιὰ ἑλκυστικὴ προσφορὰ γιὰ τὶς ἑλληνικὲς ἐξαγωγὲς καὶ ἰδιαίτερα τῶν ἀγροτικῶν προϊόντων. ‘H αὐστριακὴ πλευρὰ εἶναι τῆς γνώμης ὅτι οἱ ἐκπτώσεις αὐτὲς θὰ πρέπει νὰ τύχουν τῆς καταλλήλου δηµοσιότητος. ὋἩ ἑλληνικὴ πλευρὰ συνεφώνησε μὲ τὴν ἀνάγκη µεγαλύτερης δηµοσιότητος καὶ προσέθεσε ὅτι ὁ κύριος λόγος τῆς μὴ ἐπαρκοῦς χρησιμοποιήσεως τοῦ σιδηροδρόμου ἀπὸ τοὺς Ἕλληνες ἐξαγωγεῖς εἶναι τὸ ὑψηλὸ κόµιστρο. Αὐτὸ ὀφείλεται στὸ γεγονὸς ὅτι οἱ παρεχόμενες ἀπὸ τοὺς σιδηροδρόµους ὑψηλὲς ἐκπτώσεις δὲν καταλήγουν én” ὠφελείᾳ τῶν παραγωγῶν, λόγῳ τοῦ συστήµατος μὲ τὸ ὁποῖο παρέχονται. Γιὰ νὰ ἐπιτευχθεῖ μεγαλύτερη ἐκμετάλλευση τῶν σιδηροδρόμων εἶναι ἀναγκαῖο νὰ βρεθεῖ μία λύση, ὥστε οἱ παρεχόμενες ἐκπτώσεις νὰ καταλήγουν πράγματι πρὸς ὄφελος τῶν παραγωγῶν. Οἱ δύο πλευρὲς προτείνουν ὡς ἐκ τούτου ὅπως οἱ ἐκπρώσωποι τῶν διοικήσεων τῶν σιδηροδρόμων τῶν δύο χωρῶν συναντηθοῦν γιὰ νὰ ἐξεύρουν λύση τοῦ προβλήματος. Ἱ. Αντικείμενο διεξοδικῶν συζητήσεων ἀπετέλεσε τὸ θέµα τῶν μεταφορῶν μὲ FERRY-BOAT μεταξὺ Βόλου καὶ Ῥυρίας. Κατόπιν ἐρωτήματος -ἃς ἑλληνικῆς ἀντιπροσωπείας ἡ αὐστριακὴ πλευρὰ ἐξέθεσε τὴν ἰσχύουσα νοµοθεσία στὴν Αὐστρία καὶ ἐδήλωσε ὅτι στὴν Αὐστρία µόνο 6 ἀριθμὸς κυκλοφορίας τοῦ ρυμουλκοῦ ὀχήματος εἶναι, κατὰ τὴ συμφωνία, ἀποφασιστικῆς σημασίας γιὰ τὴν ἄδεια. “Η ἑλληνικὴ ἀντιπροσωπεία ἐπέστησε τὴν προσοχὴ ἐπὶ τοῦ γεγονότος ὅτι εἶναι ἀναγκαία γιὰ ὀργανωτικοὺς λόγους καὶ ἡ καταχώριση τοῦ ἀριθμοῦ κυκλοφορίας τοῦ pvμουλκουμένου ὀχήματος, στὴν περίπτωση τῆς προαναφερθείσης διαδρομῆς μὲ ΡΕΒΗΥ-ΡΟΛΤ. "Ey τούτοις δὲν ἔχει ἀντίρρηση νὰ γίνεται h καταχώριση τοῦ ἀριθμοῦ κυκλοφορίας τοῦ ρυµουλκουμένου ὀχήματος ἀπὸ τὴν μεταφορικὴ ἑταιρεία πρὸ τῆς ἐνάρξεως τοῦ ταξιδίου ἐπιστροφῆς, σὲ ἰδιαίτερη ἄδεια τὴν ὁποία θὰ ἔχει τὸ ρυμουλκό. Οἱ δύο ἀντιπροσωπεῖες συνεφώνησαν νὰ ἐξετάσουν περαιτέρω τὸ ἐν λόγῳ θέµα.
+
+8. Οἱ συνομιλίες διεξήχθησαν σὲ πνεῦμα ἀμοιβαίας κατανοῄσεως γιὰ τὰ προβλήματα κάθε πλευρᾶς καὶ σὲ φιλικὴ ἀτμόσφαιρα.
+
+9. Τὸ πρωτόκολλο αὐτὸ συνετάγη στὴν ἑλληνικὴ γερμανικὴ γλῶσσα καὶ ὑπεγράφη σὲ δύο ἀντίγραφα. Βιέννη, 4 ᾿Απριλίου 1979 Γιὰ τὴν Ἑλληνικὴ Γιὰ τὴν Αὐστριακὴ ᾿Αντιπροσωπεία ᾿Αντιπροσωπεία ΠΕΤΡΟΣ ΠΑΠΑΔΑΚΗΣ DR. HERBERT METZNER \ HOE PROTOKOLL Uber Besprechungen in Wien, betreffend den internationalen Giiterverkehr mit Lastkraftwagen zwischen der Republik Osterreich und der Republik Griechenland, die in der Zeit vom 2. 4. bis 4. 4. 1979 zwischen einer ésterreichischen Delegation, bestehed aus. Sektionsleiter Ministerialrat, Dr. Herbert Metzner, Bundesministerium fiir Verkehr Leiter der Delegation. Ministerialrat Dr. Josef Aigner, Bundesministerium fiir Verkehr. Ministerialoberkommissdr Dr. Reinhard Rentmeister, Bundesministerium fiir Verkehr. Hofrat Direktionsrat Dr. Ernst Pollak, Bundesministerium fiir Verkehr. Legationsrat Dr. Georg Znidaric, Bundesministerium fiir Auswartige Angelegenheiten. Zentralinspektor Dr. Hermann Zartl, Generald:rektion der Osterreichischen Bundesbahnen. Dr. Peter Tschirner, Bundeswirtschaftskammer. Walther Machalik, Bundeswirtschaftskammer. Dr. Gerhard Fuhrmann, Osterreichischer Arbeiterkammertag. Handelsrat Dr. Peter R. Fitz, Osterreichische Botschaft in Athen. Und einer griechischen Delegation, bestehend aus : P. Papadakis, Generaldirektor, Koordinationsministerium Delegationsleiter. Sp. Adamopoulos, Gesandter, AuSenministerium. Ch. Katsantonis, Direktor, Finanzministerium. J. Karageorgas, Direktor, Verkehrsministerium. A. Gassios, Stellvertretender Direktor, Handelsministerium. Irene Sampani, Handelsatteché, Griechische Botschaft. Dr. A. Zachos, Griechische Botschaft in Wien. Beobachter J. Charalambidis, Vertreter der Transporteure. A. Vlachos, Vertreter der Transporteure. abgehalten wurden.
+
+1. Die beiden Delegationen haben die Erfahrungen hinsichtlich des grenziiberschreitenden StraSengiiterverkehrs wischen den beiden Landern seit den letzten Besprechungen im Jahre 1978 ausgetauscht. Die beiden Delegationen haben ferner auf ihre Standpunkte, die anlaSlich der Besprechungen in Wien im Janner 1978 und in Athen im September 1978 dargelegt wurden, verwiesen. Sie haben weiters festgestellt, daB sich die damals dargelegten Verhdltnisse nicht gedindert haben. Von Ssterreichischer Seite wurde insbesondere darauf hingewiesen, da8 auf der Durchgangsroute Spielfeld-StraB—Salzburg her eine Verstérkung der angespannten Situation eingetreten ist, soda8 eine Entlastung dieser Route vom Schwerverkehr dringend geboten erscheint.
+
+2. Die griechische Delegation hat bemerkt, da® das bestehende Kontingent fiir die griechischen Exporte nach Westeuropa insbesondere fiir Agrumen nicht geniigt. Zufolge des bevorstehenden Arrangements mit der EWG wird eine entsptechende Erhéhung des Kontingentes unbedingt erforderlich sein, die fiir das Jahr 1979 auf mindestens 25.000 Genehmigungen geschatzt wird.
+
+3. Nach sehr eingehenden Erérterungen der beider seitigen Standpunkte, bei denen insbesondere die unterschiedliche geographische Lage der beiden Lander dargelegt wurde, sind beide Delegationen ibereingekommen, auf Grund der besonderen Verhaltnisse und der Interessenslage in beiden Landern, fiir das Jahr 1979 eine Kontingentaufstockung um etwa 10% auf insgesamt 21.000 Genehmigungen provisorisch festzusetzen ; Hievon sind griechischerseits : 1.250 ausschlieBlich auf den Grenziibergang Brenner—Autobahn. 1.250 auf den Grenziibergang Lavamiind und 2.500 entweder auf den Grenziibergang Brenner-Autobahn, Lavamiind oder Nickelsdorf beschrankt.
+
+4. Die beiden Delegationen sind iibereingekommen, im Laufe de: Jahres 1979 neuerdings zusammenzutreffen, um die getroffenen Vereinbarungen auf Grund der zwischenzeitig eingetretenen Entwicklungen zu iiberpriifen.
+
+5. Von den unter Punkt 3 genannten Kontingenten kann ein Viertel (sohin 5.250 Genehmigungen) fiir die Durchfithrung des Drittlanderverkehrs verwendet werden.
+
+6. Beide Seiten sind der Auffassung, ἀαβ der eingeschlagene Weg zur Verbesserung des Verkehrsanbotes der Schiene geeignet ist, fiir den Giitervekehr zwischen den beiden Landern und im Transitverkehr im verstarkten Ausma® die EKisenbahnen heranzuziehen. Die griechische Seite verweist in diesem Zusammenhang allerdings darauf, ἀαβ ein Grofteil der Agrumenexporte aus dem Peloppones stammt und da8 in diesem Bereich nur ein Eisenbahnnetz mit begrenzter Leistungsméglichkeit zur Verfiigung steht. Die dsterreichische Seite verweist auf die bereits gezeigte und auch weiterhin angebotene Bereitschaft, durch weitgehende Tarifermafigungen — insbesondere fiir Agrumen — ein attraktives Leistungsabot der Schiene fiir die griechischen Exporte zu bieten. Die dsterreichische Seite is. der Meinung, da® diese Tariferma- Bigungen entsprechend zu publizicren waren, Die griechische Seite ist mit der Notwendigkeit einer gréferen Publizitat einverstanden, hat jedoch hinzugeftigt, daB die Hauptursache fiir die unzureichende Ausniitzung der Eisenbahnen durch die griechischen Exporteure in der Hohe der Tarife liegt. Dies ist darauf zuriickzufiihren, da8 die von den Eisenbahnen gewahrten TarifermaéSigungen wegen der Methoden, nach denen diese Erma@igungen eingeréumt werden, nur in ungentigendem Ausmafe den Produzenten zugute kommen. Damit eine gréfere Ausniitzung der Eisenbahnen erreicht wird, erscheint es notwendig, einen Weg zu finden, da8 die gewadhrten Tarifermafigungen tatsachlich die Produzenten erreichen. Beide Seiten empfehlen daher, da8 die Vertreter der beteiligten Eisenbahnverwaltungen zusammentreffen, damit eine Lésung diezer Probleme gefunden wird.
+
+7. Gegenstand eingehender Erérterungen war die Frage von Beférderungen iiber die Fahre von Volos nach Syrien. Auf Befragen der grechischen Delegation hat die ésterreichische Seite die in Osterreich geltende Rechtlage dargelegt und erklart, de3 in Osterreich lediglich das Kennzeichen des Zugfahrzeuges fiir die Genehmigung nach dem Abkommen ausschlaggebend ist. Die griechische Delegation hat darauf aufmerksam gemacht, daB® sie aus organisatorischen Griinden beziiglich der genannten Fahre auch die Anfiihrung des Kennzeichens des Sattelaufliegers bendtige. Allerdings hat sie keine Einwendungen dagegen, wenn das Transportunternehmen das Kennzeichen des Sattelaufliegers vor Antritt der Riickfahrt auf einer eigenen Genehmigung, welche im Zugfahrzeugt mizufiihren ist, eintragt. Beide Delegationen sind iibereingekommen, die gegenstandliche Frage weiterhin zu _ priifen.
+
+8. Die Besprechungen haben im gegenseitigen Verstandnis fiir die Probleme der anderen Seite und in freundschaftlicher Atmosphare stattgefunden.
+
+9. Dieses Protokoll wurde in deutscher und griechischer Sprache abgefat und in zweifacher Ausfertigung unterzeichnet. Wien, 1979 04 04 Fir die griechische Delegation : Fir die ésterreichische Delegation :
+
+"Άρθρον δεύτερον
+
+e 3 1 ~ f i FLA 2 A - , , H ἰσχὺς τοῦ παρόντος νόµου ἄρχεται ἀπὸ τῆς δημοσιεύσεώς ~ ~ , του διὰ τῆς ᾿Εφημερίδος τῆς Κυβερνήσεως. Ὁ παρὼν νόµος ψτρισθεὶς ὑπὸ τῆς Βουλής καὶ zap’ Ἠμῶν σήμερον κυρωθείς, δηµοσιευθήτω Σιὰ τῆς Εφτμερίδος τῆς Κυδερνήσεως καὶ ἐκτελεσθήτω ὡς νόµος τοῦ Κράτους. "Ey ᾿Αθήναις τῇ 31 Ἰανουαρίου 1980 Ὁ ΠΡΟΕΔΡΟΣ ΤΗΣ ΔΗΜΟΚΡΑΤΙΑΣ ΚΩΝΣΤΑΝΤΙΝΟΣ Δ. ΤΣΑΤΣΟΣ ΟΙ ΥΠΟΥΡΓΟΙ ΣΥΓΚΟΙΝΩΝΙΩΝ ΠΑΠΑΔΟΓΓΟΝΑΣ ΕΞΩΤΕΡΙΚΟΝ ΓΕΩΡΓΙΟΣ ΡΑΛΛΗΣ ΑΛΕΣ. ᾿Εθ
