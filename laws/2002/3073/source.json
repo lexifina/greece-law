@@ -1,0 +1,77 @@
+{
+  "year": 2002,
+  "number": 3073,
+  "url": "https://api.et.gr/apiLAW/1/2002/3073/pdf",
+  "source_sha256": "e750daa15ed4966c593ed5c1da6449d0f120976e5081f5f6c269eb33e034a322",
+  "published": "2002-12-04",
+  "in_force": "2002-12-04",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "e00d9e56056e98dbfd755ea8d25652de2810c49cadf1a1f94447c2a25abad084",
+      "ext": "png",
+      "bytes": 399,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "cb9ad07fdb8d3ce5ba4e0a5cd16dea9e9796f75516cdfafcde9ceb37b598c5a1",
+      "ext": "png",
+      "bytes": 89496,
+      "bbox": [
+        86.7,
+        93.8,
+        501.3,
+        777.1
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "4357e1ffe2b65e0c3cdba5eaffd31225e8dca4d9cc28dd9e77bc9114d076956f",
+      "ext": "png",
+      "bytes": 86392,
+      "bbox": [
+        86.5,
+        93.8,
+        503.8,
+        737.0
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "294df2e3b625f7fcbfac1cf625876fa9c3bef192dd4ac34238565664ef2c4c99",
+      "ext": "png",
+      "bytes": 92618,
+      "bbox": [
+        85.5,
+        93.8,
+        499.8,
+        773.2
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "ef96dbeaf2b475f2cdb821e462e8d5115b6cc3fec8f5c2ff3ee94410da2bd39d",
+      "ext": "png",
+      "bytes": 60967,
+      "bbox": [
+        58.4,
+        93.8,
+        535.8,
+        639.7
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος νόμου και του Πρωτοκόλλου που κυρώνεται αρχίζει από τη δημοσίευσή τους στην Εφημερίδα της Κυβερνήσε"
+}
