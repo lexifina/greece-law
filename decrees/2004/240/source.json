@@ -1,0 +1,100 @@
+{
+  "act": "π.δ. 240/2004",
+  "year": 2004,
+  "number": 240,
+  "url": "https://api.et.gr/apiLAW/2/2004/240/pdf",
+  "source_sha256": "1b965a5836bccc0ca95ce7d50515cd2fdd4013ce30259f78cbf5f0da9ed28f77",
+  "published": "2004-11-16",
+  "in_force": "2004-11-16",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος αρχίζει από την 1.1.2003.",
+  "pages": 12,
+  "images": [
+    {
+      "page": 7,
+      "sha256": "e71b3df053137e53b0e2265dff1b7b20385736347d845f456dad819258701de6",
+      "ext": "png",
+      "bytes": 56398,
+      "bbox": [
+        57.5,
+        73.5,
+        534.9,
+        479.2
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "d162492600972079feaff6b66f24e951ac038cbdd2b206f3569bc3d9a2db40d9",
+      "ext": "png",
+      "bytes": 39442,
+      "bbox": [
+        57.5,
+        474.5,
+        534.9,
+        746.4
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "f42e62b68de5bb3baf1fd2de0db0c67a735c0ae47cd2515182cb7966f40737a2",
+      "ext": "png",
+      "bytes": 27604,
+      "bbox": [
+        58.3,
+        524.7,
+        535.8,
+        753.8
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "aca7fc21fbf71e52af118f66242198efec2206991f73f1d7f4a85f90f3c895e8",
+      "ext": "png",
+      "bytes": 7963,
+      "bbox": [
+        57.5,
+        73.3,
+        534.9,
+        148.4
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "03f368e4b72cf25efa8811d210995a7dc813b6a4408b64519ce01c47e1633f31",
+      "ext": "png",
+      "bytes": 30085,
+      "bbox": [
+        58.0,
+        145.6,
+        533.6,
+        390.6
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "bd7a8ea710b5992178042734047f0b221667b6fcedb49db306b7b1c1c4881a28",
+      "ext": "png",
+      "bytes": 38354,
+      "bbox": [
+        58.0,
+        408.5,
+        533.6,
+        756.0
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "01189c6727053cc229d161878f83ecf187c3effe4117ef6b2467233ef85170e9",
+      "ext": "png",
+      "bytes": 21228,
+      "bbox": [
+        58.3,
+        73.5,
+        535.8,
+        240.7
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
