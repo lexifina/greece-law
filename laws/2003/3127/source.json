@@ -1,0 +1,28 @@
+{
+  "year": 2003,
+  "number": 3127,
+  "url": "https://api.et.gr/apiLAW/1/2003/3127/pdf",
+  "source_sha256": "ab6ce7b7044b31cc5dc157e763df906f743716440c6a2d33f4ca7e826d25b879",
+  "published": "2003-03-19",
+  "in_force": "2003-03-19",
+  "clause": "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επί μέρους διατάξεις του.",
+  "in_force_general_day": true,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "bf36e16a9d1a138e6f12bbd9df7b48cd4f759e60239af70b25589d7294743367",
+      "ext": "png",
+      "bytes": 399,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
