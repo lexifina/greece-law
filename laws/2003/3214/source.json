@@ -1,0 +1,101 @@
+{
+  "year": 2003,
+  "number": 3214,
+  "url": "https://api.et.gr/apiLAW/1/2003/3214/pdf",
+  "source_sha256": "2cbb72e3d967b616321910037005b622e7ef67ba2916a292cce6a15599aff1bd",
+  "published": "2003-12-31",
+  "in_force": "2003-12-31",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "ca68fe1da0b7c18c84ce4886bc61e5a2bd240c13d2537081c54914cc43a47122",
+      "ext": "png",
+      "bytes": 386,
+      "bbox": [
+        46.5,
+        68.2,
+        196.6,
+        107.8
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "c8fd71bb95d4b3850d77cdb4f5dff022f8a4d2b6cb6afc2c2b1e126d4de96214",
+      "ext": "png",
+      "bytes": 89216,
+      "bbox": [
+        58.3,
+        73.3,
+        535.8,
+        754.8
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "74819bad782c1fae1fd3ae3e1433836f2ad34d950ac8950e3cb208294c8d0b3f",
+      "ext": "png",
+      "bytes": 136809,
+      "bbox": [
+        57.5,
+        73.3,
+        534.9,
+        733.2
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "6b5c69e71e70915ed27a169ba064914531a3b3ec2e64efba932ae2c77cffb939",
+      "ext": "png",
+      "bytes": 142602,
+      "bbox": [
+        58.3,
+        73.4,
+        535.8,
+        743.4
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "e6405f8b6d2d2702ea0ce0954bf2bd32db2d03ca0e484ea296ad055cffcb22ee",
+      "ext": "png",
+      "bytes": 105830,
+      "bbox": [
+        57.5,
+        73.3,
+        534.9,
+        738.4
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "04e052d6ba8c0105d3df54a3c0388dbe13b5217326054f79f08a0c622a679700",
+      "ext": "png",
+      "bytes": 122639,
+      "bbox": [
+        58.3,
+        73.4,
+        535.8,
+        718.5
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "66decf6e6fb0ffb76740b03424db535e531e3c2a97a2c771ea139e11242aca88",
+      "ext": "png",
+      "bytes": 89360,
+      "bbox": [
+        61.0,
+        74.5,
+        534.9,
+        705.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
