@@ -1,0 +1,52 @@
+{
+  "act": "π.δ. 23/2000",
+  "year": 2000,
+  "number": 23,
+  "url": "https://api.et.gr/apiLAW/2/2000/23/pdf",
+  "source_sha256": "ed0ba24883445c9f1a5ff16b41e4b2de722b51e5ece6923d1e9cc396fa50d409",
+  "published": "2000-02-07",
+  "in_force": "2000-02-07",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος, εκτός αν άλλως ορίζεται στις επί μέρους διατάξεις του, αρχίζει μετά δέκα (10) ημέρες από τη δημοσίευσή του από την Εφημερίδα της",
+  "pages": 12,
+  "images": [
+    {
+      "page": 7,
+      "sha256": "fdbb50ed130663f062900b492010a45df726c7dba17b9a7d4dd96afc0ec175e1",
+      "ext": "png",
+      "bytes": 52578,
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        841.0
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "0ddef4bbce7fbcd35dff243fd65fe85152ecf00b17037e6a93476422acdc8ded",
+      "ext": "png",
+      "bytes": 41337,
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        841.0
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "f63b583ac3e468d76b2967d7f2a11e665d6be8f720eaa76db8e2af76e542c342",
+      "ext": "png",
+      "bytes": 42611,
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        841.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
