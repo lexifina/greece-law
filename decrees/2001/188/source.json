@@ -1,0 +1,52 @@
+{
+  "act": "π.δ. 188/2001",
+  "year": 2001,
+  "number": 188,
+  "url": "https://api.et.gr/apiLAW/2/2001/188/pdf",
+  "source_sha256": "e076cbde02997a9ba8914a443f9e20ca69d2f6f72310adc5b44180f8da5b6883",
+  "published": "2001-07-10",
+  "in_force": "2001-07-10",
+  "in_force_basis": "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "1584ed5c23222434986aeb0cf0df7e3ae80508c836e508f4362fbb4b9491543b",
+      "ext": "png",
+      "bytes": 378,
+      "bbox": [
+        43.5,
+        56.8,
+        195.7,
+        97.4
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "8dcf487f68aed49a4b367dd6bf8936fb878f994f836af0cf667ec92118405e98",
+      "ext": "png",
+      "bytes": 72792,
+      "bbox": [
+        58.4,
+        164.1,
+        490.5,
+        777.1
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "0d29f8cf32ee1f9f9c3539736e545e028a99dcf1682f7998063a16902b35ab1c",
+      "ext": "png",
+      "bytes": 90499,
+      "bbox": [
+        57.5,
+        111.0,
+        494.5,
+        763.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
