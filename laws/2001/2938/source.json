@@ -1,0 +1,29 @@
+{
+  "year": 2001,
+  "number": 2938,
+  "url": "https://api.et.gr/apiLAW/1/2001/2938/pdf",
+  "source_sha256": "057a339d58d12ff452b0536eb06d0450c31c55f6afb6156ac2759b9bd831b679",
+  "published": "2001-08-06",
+  "in_force": "2001-08-06",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 16,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "8bb8098ddd425f08af76b1af7e8cb1cfd34c7a08b30543349ee312e23980799c",
+      "ext": "png",
+      "bytes": 373,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: commencement needs act-specific reading: Η ισχύς του νόμου αυτού αρχίζει ύστερα από ένα (1) μήνα από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ο"
+}
