@@ -1,0 +1,53 @@
+{
+  "year": 2001,
+  "number": 2890,
+  "url": "https://api.et.gr/apiLAW/1/2001/2890/pdf",
+  "source_sha256": "1d24e7a9839c2de4151ad5a57ed724e24ce874488a8539f9321830022353b85c",
+  "published": "2001-03-09",
+  "in_force": "2001-03-09",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "ee839fc372488d592ef31e13fd69ec6a7f9ebc40778505f29e78e27339a125a1",
+      "ext": "png",
+      "bytes": 376,
+      "bbox": [
+        43.5,
+        56.8,
+        195.7,
+        97.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "02489090d89fc8d71f1880fdc83ecddd07734c1b027845fdd4d6d4a8ae7f2f30",
+      "ext": "png",
+      "bytes": 220013,
+      "bbox": [
+        58.4,
+        96.4,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "9105de7a89a406cc111aa3f5a06d50f8bf884e90eaaa523782d7abca3690d60c",
+      "ext": "png",
+      "bytes": 119377,
+      "bbox": [
+        57.5,
+        96.0,
+        535.0,
+        504.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: qualified commencement: Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Πρωτοκόλλου που κυρώνεται από την ημερομηνία κατά την οποία θα κ"
+}
