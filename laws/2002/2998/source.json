@@ -1,0 +1,64 @@
+{
+  "year": 2002,
+  "number": 2998,
+  "url": "https://api.et.gr/apiLAW/1/2002/2998/pdf",
+  "source_sha256": "5fee1cb33b99316c1741a76f531c0b95115c973492f3b52b8c2648feadd61f5c",
+  "published": "2002-04-08",
+  "in_force": "2002-04-08",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 16 παρ. 1 αυτής. 1044 ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ (ΤΕΥΧΟΣ ΠΡΩΤΟ) Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή τους ως νόμου του Κράτους.",
+  "in_force_general_day": true,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "57f500aaf1af998e22c2811a17d293bee9208f2abe38a0bf752a166bf68f1be4",
+      "ext": "png",
+      "bytes": 386,
+      "bbox": [
+        46.7,
+        57.7,
+        197.8,
+        98.2
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "45c86c71a07f9ac3c40475f9725d8c6329323ce4311b7ffcdc5131553b9f557b",
+      "ext": "png",
+      "bytes": 94448,
+      "bbox": [
+        57.5,
+        93.2,
+        516.7,
+        766.5
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "6fe3b58f1e2a20df3205cdd4f6f488fbb9d925d65d53fcc0add49fa60f86e6a3",
+      "ext": "png",
+      "bytes": 54323,
+      "bbox": [
+        58.4,
+        96.0,
+        487.6,
+        707.9
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "b278a68abda83b99001f8e5e765e6ba92884a6b243554d7fc2fd22a76d5c91d4",
+      "ext": "png",
+      "bytes": 51696,
+      "bbox": [
+        57.5,
+        99.2,
+        446.4,
+        753.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
