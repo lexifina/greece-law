@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 169/2000",
+  "year": 2000,
+  "number": 169,
+  "url": "https://api.et.gr/apiLAW/2/2000/169/pdf",
+  "source_sha256": "eda57078e235343b0ca5f256f87303053a75bcfed3c021eb2c414cdcec69b590",
+  "published": "2000-07-07",
+  "in_force": "2000-07-07",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "254af7adcb1f77149be6e4edaa28bc70692446b19a3c47a9faf42dcb716db5f7",
+      "ext": "png",
+      "bytes": 371,
+      "bbox": [
+        46.5,
+        56.9,
+        198.7,
+        97.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
