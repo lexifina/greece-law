@@ -1,0 +1,29 @@
+{
+  "act": "ν. 2628/1998",
+  "year": 1998,
+  "number": 2628,
+  "title_ocr": "Σύσταση νομικού προσώπου δημοσίου δικαίου με την επώνυμία «Οργανισμός Διαχείρισης Λημόσιου Χρέους (Ο Λ.ΔΗ.Χ.)» και άλλες διατάξεις, O ΠΡΟΕΔΡΟΣ ΤΗΣ EAAHNIKHE ΔΗΜΟΚΡΑΤΙΑΣ Εκδίδομμε τον ακρ́λουθο νόμο πο",
+  "source": "https://api.et.gr/apiLAW/1/1998/2628/pdf",
+  "source_sha256": "93b202f5971bfa6f920853290c48958cd27c99c93268c1515e03864ec7c7c451",
+  "published": "1998-07-06",
+  "in_force": "1998-07-06",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 75.1,
+  "ocr_page_confidence": [
+    77.2,
+    79.2,
+    77.9,
+    72.3,
+    68.4,
+    70.3,
+    73.4,
+    81.6
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
