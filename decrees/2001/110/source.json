@@ -1,0 +1,64 @@
+{
+  "act": "π.δ. 110/2001",
+  "year": 2001,
+  "number": 110,
+  "url": "https://api.et.gr/apiLAW/2/2001/110/pdf",
+  "source_sha256": "964ba4d71a0f1694c561ca58dbd1998e697ca55aed4a4f4934914f492606d571",
+  "published": "2001-05-22",
+  "in_force": "2001-05-22",
+  "in_force_basis": "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 20,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "3fb10936ea63ef86fbec30b7981e2c124cbf10131532a7210e53e54455343e3e",
+      "ext": "png",
+      "bytes": 385,
+      "bbox": [
+        43.5,
+        56.8,
+        195.7,
+        97.4
+      ]
+    },
+    {
+      "page": 15,
+      "sha256": "4a3e2a7733d5e043dc99dc5895cb97e0a871897f5cfe9033ba0340ae5b10c844",
+      "ext": "png",
+      "bytes": 186842,
+      "bbox": [
+        83.8,
+        94.0,
+        428.0,
+        777.1
+      ]
+    },
+    {
+      "page": 16,
+      "sha256": "d016683f40459f8b4e65b11153a7a159ccfdf6b63bd6de70d1be3f76808d48fe",
+      "ext": "png",
+      "bytes": 221442,
+      "bbox": [
+        81.7,
+        93.2,
+        458.5,
+        774.9
+      ]
+    },
+    {
+      "page": 17,
+      "sha256": "0b3dfa631089af56b9578dfdeb8b8555fc3dff786d6dca6e7438a7647c95ad9c",
+      "ext": "png",
+      "bytes": 138966,
+      "bbox": [
+        88.1,
+        93.2,
+        349.9,
+        777.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
