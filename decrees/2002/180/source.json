@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 180/2002",
+  "year": 2002,
+  "number": 180,
+  "url": "https://api.et.gr/apiLAW/2/2002/180/pdf",
+  "source_sha256": "5313b308d357f9ea45bc08f373248895bca624b6b595cfaebbe9440671b7a502",
+  "published": "2002-07-17",
+  "in_force": "2002-07-17",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος άρχεται από της εις την Εφημερίδα της Κυβερνήσεως και εις το περιοδικόν «ΕΚΚΛΗΣΙΑ» δημοσιεύσεώς του.",
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "eeefb4431196ea502ca8b4fb8c2fce34974f6e7bbf6fb7ecd838895d6026c1d0",
+      "ext": "png",
+      "bytes": 409,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        98.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
