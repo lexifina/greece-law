@@ -1,0 +1,25 @@
+{
+  "act": "ν. 2260/1994",
+  "year": 1994,
+  "number": 2260,
+  "title_ocr": "Οργανισμός Ανέγερσης Νέου Μουσείου Ακρόπολης Και άλλες διατάξεις.",
+  "source": "https://api.et.gr/apiLAW/1/1994/2260/pdf",
+  "source_sha256": "7018ef0d10bb9e25b24d52e8b3ad495ecb5eafe951fa1476a6206a9bd738e933",
+  "published": "1994-12-05",
+  "in_force": "1994-12-05",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 87.2,
+  "ocr_page_confidence": [
+    87.3,
+    86.0,
+    86.9,
+    88.5
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 4,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
