@@ -1,0 +1,112 @@
+{
+  "year": 2002,
+  "number": 3063,
+  "url": "https://api.et.gr/apiLAW/1/2002/3063/pdf",
+  "source_sha256": "1a99ec263be2463ae74bde69c6e231c7b5a6629c93cf90637dc3db18a72eb9a3",
+  "published": "2002-10-15",
+  "in_force": "2002-10-15",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 10 παράγραφος 1 αυτής.",
+  "in_force_general_day": true,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "8b66ea7c976d2a31e1fce297fc702a1fcc154d096684ec46fda7c2368dd9c307",
+      "ext": "png",
+      "bytes": 415,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "207616bb42d2ce262ec39afbaf45c9c4d09770d9c9a37a99ad9b6a65263c275e",
+      "ext": "png",
+      "bytes": 122065,
+      "bbox": [
+        62.1,
+        95.1,
+        523.9,
+        777.1
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "cf6ea13d3e62ca6011a7c5854f098dded4a7e93a52ee1a8d3225f3d448a78a48",
+      "ext": "png",
+      "bytes": 127907,
+      "bbox": [
+        66.1,
+        95.1,
+        517.4,
+        777.1
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "8913b3453a8dcacd6a6bda56370d7104444d149ca9839c91e33f34c3e3c538a4",
+      "ext": "png",
+      "bytes": 107817,
+      "bbox": [
+        59.1,
+        95.1,
+        520.8,
+        777.1
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "28f7cd1b8ec0250bd085b34df52a07bf61baf268a498864154abb8d0c7e656f1",
+      "ext": "png",
+      "bytes": 104802,
+      "bbox": [
+        70.7,
+        95.1,
+        514.1,
+        777.1
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "f502144a66f333afadce6714e6b3536a8076182d9765875efed6086f63842cc0",
+      "ext": "png",
+      "bytes": 98208,
+      "bbox": [
+        72.1,
+        95.1,
+        514.1,
+        777.1
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "c4a5f0571efbeee53492885be3caaec251a392fa9a3d93192831ae70af08c6b3",
+      "ext": "png",
+      "bytes": 141729,
+      "bbox": [
+        58.5,
+        95.1,
+        523.4,
+        777.1
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "d30c2f5781a5382d227dfa76e8f8feedc4fea2e7b5dbb08c35d47055764e67d4",
+      "ext": "png",
+      "bytes": 124346,
+      "bbox": [
+        62.6,
+        95.1,
+        535.0,
+        777.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
