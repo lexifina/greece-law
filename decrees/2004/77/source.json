@@ -1,0 +1,40 @@
+{
+  "act": "π.δ. 77/2004",
+  "year": 2004,
+  "number": 77,
+  "url": "https://api.et.gr/apiLAW/2/2004/77/pdf",
+  "source_sha256": "a1162be0f2f903bbd5af939759f5baf2b663b0e11b0e391ffa449eebfa54c876",
+  "published": "2004-02-27",
+  "in_force": "2004-02-27",
+  "in_force_basis": "Η ισχύς του παρόντος Διατάγματος αρχίζει από την δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "6a433b745791c36695d6ec9c371eb87056d56723149c5acd21de405b3b95c339",
+      "ext": "png",
+      "bytes": 392,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "40084734bdb8affeae79948a283411cbbdeaba9cdff98105d462d7339a6539b5",
+      "ext": "png",
+      "bytes": 23401,
+      "bbox": [
+        115.2,
+        73.4,
+        477.4,
+        756.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
