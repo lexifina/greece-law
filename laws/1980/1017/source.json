@@ -1,0 +1,29 @@
+{
+  "act": "ν. 1017/1980",
+  "year": 1980,
+  "number": 1017,
+  "title_ocr": "Len τὴν κύρωση τῆς Συ ωνίας, ποὺ καταρτίστηκε στ]: 'ἀδήνα, μὲ ἂν ταλλαγὴ τῶν ἀπὸ 29 Μαΐου 1976 ἐπιστολῶν μεταξὺ τῶν Κυθερνῄσεων τῆς “Ελληνικῆς Anuoxoatlag καὶ τῆς Ο μοοπονδιακῆς «Ίηµοκρατίας τῆς Γερμα",
+  "source": "https://api.et.gr/apiLAW/1/1980/1017/pdf",
+  "source_sha256": "8632c83105c30d92d4c6bba909f61996226deb9b2b9921766ba50f773cace11d",
+  "published": "1980-02-12",
+  "in_force": "1980-02-12",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 81.0,
+  "ocr_page_confidence": [
+    71.2,
+    87.4,
+    82.8,
+    83.3,
+    81.4,
+    88.0,
+    83.9,
+    70.0
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": false,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
