@@ -1,0 +1,160 @@
+{
+  "year": 2003,
+  "number": 3100,
+  "url": "https://api.et.gr/apiLAW/1/2003/3100/pdf",
+  "source_sha256": "dd7c9948f73aedaa14598a4f41d22c171b851af2cb01cbefd9cd68c37de530d3",
+  "published": "2003-01-29",
+  "in_force": "2003-01-29",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευση του στην Εφημερίδα της Κυβερνήσεως και του Πρωτοκόλλου που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 15 παράγραφος 3 αυτού.",
+  "in_force_general_day": true,
+  "pages": 20,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "c8f6d6280cbcd0c4e70d7de6f7a5d84d16179c8d07b44f6ab89904b644f5d285",
+      "ext": "png",
+      "bytes": 362,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "9625c0c6ba076ad422b7850f55a935bd644cc4f463d5223b032d142bbf565245",
+      "ext": "png",
+      "bytes": 175268,
+      "bbox": [
+        58.4,
+        96.6,
+        517.3,
+        667.8
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "391304b8ed82507515e504869750f88c93b8f05ef22dc6f6b7cdff5906780f51",
+      "ext": "png",
+      "bytes": 238583,
+      "bbox": [
+        62.1,
+        96.7,
+        506.7,
+        756.7
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "2b3659b8332aee3a11bb305f05a5573e04211613cae594528f793f09a4c267a0",
+      "ext": "png",
+      "bytes": 203453,
+      "bbox": [
+        58.4,
+        93.6,
+        518.4,
+        765.1
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "2419067f409890ed908d3ff8df882d429afa574e399ffda738c6d234a5aca2ac",
+      "ext": "png",
+      "bytes": 206640,
+      "bbox": [
+        57.5,
+        93.6,
+        509.8,
+        699.2
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "76ea37145239b023f19974bb2993370e3118b787524a3f15687c8b860fce0b96",
+      "ext": "png",
+      "bytes": 150178,
+      "bbox": [
+        58.4,
+        93.6,
+        527.1,
+        753.5
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "149f568532b2966b910b7ef7351a7e4c742b1a016f09d6d67145b4466f4362f5",
+      "ext": "png",
+      "bytes": 169481,
+      "bbox": [
+        57.5,
+        93.6,
+        512.6,
+        777.1
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "e14d940c48058c862b3141f00a759df3b11443870cb7338ecee5a6796e0efeae",
+      "ext": "png",
+      "bytes": 207151,
+      "bbox": [
+        58.4,
+        93.6,
+        501.1,
+        700.4
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "c1f8431c833e83206485aabd3b52e9dd22fd97fe8de021ef52673c43daabb281",
+      "ext": "png",
+      "bytes": 202601,
+      "bbox": [
+        58.0,
+        93.6,
+        514.7,
+        776.8
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "d0c3ea12b100f30d683f8548af09930f386d5b3a2003dcb9b95007878e5463de",
+      "ext": "png",
+      "bytes": 189995,
+      "bbox": [
+        58.4,
+        98.9,
+        524.7,
+        695.0
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "191b356a75bc503149c26f16223fdaa11175ab5de4bdecbdb340208b6da90423",
+      "ext": "png",
+      "bytes": 120458,
+      "bbox": [
+        57.5,
+        93.6,
+        525.1,
+        589.8
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "a18cf2240cdb416cd6467c3802234e63291a00cfa5be06b66033cb34f5964d73",
+      "ext": "png",
+      "bytes": 184202,
+      "bbox": [
+        58.4,
+        93.6,
+        530.6,
+        580.7
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
