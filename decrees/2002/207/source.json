@@ -1,0 +1,52 @@
+{
+  "act": "π.δ. 207/2002",
+  "year": 2002,
+  "number": 207,
+  "url": "https://api.et.gr/apiLAW/2/2002/207/pdf",
+  "source_sha256": "19c5079f25c328af9de41feb6e9b8528916073a0189f910abce303688bc2399d",
+  "published": "2002-08-22",
+  "in_force": "2002-08-22",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος αρχίζει από της δημοσιεύσεως του στην Εφημερίδα της Κυβερνήσεως, εκτός αν άλλως ορίζεται στον παρόντα Κανονισμό.",
+  "pages": 104,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "54fcb263778977d3e86ce5be5a532b2961f1e829da8110bf62e712e51e8ae187",
+      "ext": "png",
+      "bytes": 394,
+      "bbox": [
+        46.7,
+        57.7,
+        198.8,
+        98.2
+      ]
+    },
+    {
+      "page": 52,
+      "sha256": "7caea7d49dd72294c70bf8077efb0d0d47a2a60a6588d793b0112673f6ccf2eb",
+      "ext": "png",
+      "bytes": 26292,
+      "bbox": [
+        303.5,
+        93.2,
+        535.8,
+        303.8
+      ]
+    },
+    {
+      "page": 66,
+      "sha256": "dc9e61af1afa32d8447821d2d3789775288be6019b1bc1deed6f9fd8feff8afd",
+      "ext": "png",
+      "bytes": 7181,
+      "bbox": [
+        303.5,
+        598.5,
+        535.8,
+        690.9
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
