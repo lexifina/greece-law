@@ -1,0 +1,28 @@
+{
+  "year": 2001,
+  "number": 2965,
+  "url": "https://api.et.gr/apiLAW/1/2001/2965/pdf",
+  "source_sha256": "3e8fa7efe965bfb4d6cb8d1ec3b859e2f8c3cee7148ef151408da29216ee3713",
+  "published": "2001-11-23",
+  "in_force": "2001-11-23",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός εάν ορίζουν διαφορετικά οι επί μέρους διατάξεις.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "dc845dba7e8bf6e9b02d41fca1d50fc2df98407125d68dcff6ee83a0ed0ccdd8",
+      "ext": "png",
+      "bytes": 394,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        98.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
