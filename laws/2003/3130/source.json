@@ -1,0 +1,53 @@
+{
+  "year": 2003,
+  "number": 3130,
+  "url": "https://api.et.gr/apiLAW/1/2003/3130/pdf",
+  "source_sha256": "40ed705531c7f70f31a308ba0dadb41af2881d196978200f602e18be361da2ad",
+  "published": "2003-03-28",
+  "in_force": "2003-03-28",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 20,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "209af42bc9737726aa6acbc295355311d26f4abad95c3825d1c5488b22420b9e",
+      "ext": "png",
+      "bytes": 369,
+      "bbox": [
+        46.7,
+        57.7,
+        195.8,
+        97.2
+      ]
+    },
+    {
+      "page": 17,
+      "sha256": "8ffcc487a4f1c3cb20069e7a8088634da9e96d8d7789753a1b62e2ba0f646171",
+      "ext": "png",
+      "bytes": 221745,
+      "bbox": [
+        74.5,
+        99.4,
+        512.8,
+        764.2
+      ]
+    },
+    {
+      "page": 18,
+      "sha256": "d16ea6982d6fcc290a5bb806ce30e828c8bce47fecceaa7f72ecef776a98d688",
+      "ext": "png",
+      "bytes": 53851,
+      "bbox": [
+        118.9,
+        94.4,
+        482.6,
+        777.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
