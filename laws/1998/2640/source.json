@@ -1,0 +1,29 @@
+{
+  "act": "ν. 2640/1998",
+  "year": 1998,
+  "number": 2640,
+  "title_ocr": "Δευτεροβάθμια τεχνική - επαγγελματική εκπαίδευση και άλλες διατάξεις.",
+  "source": "https://api.et.gr/apiLAW/1/1998/2640/pdf",
+  "source_sha256": "b09e287139a9fa719fb56bcc49340eb4e753100111ad4ca89490b7adb3cb70fd",
+  "published": "1998-09-03",
+  "in_force": "1998-09-03",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίεωon Tou στην Εφημερίδατης Κυβερνήσεως, εκτός av ορίζεται διαφορετικά στ",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 83.7,
+  "ocr_page_confidence": [
+    80.9,
+    85.2,
+    83.1,
+    84.5,
+    83.1,
+    83.4,
+    83.6,
+    85.3
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
