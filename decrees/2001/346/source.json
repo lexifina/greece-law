@@ -1,0 +1,64 @@
+{
+  "act": "π.δ. 346/2001",
+  "year": 2001,
+  "number": 346,
+  "url": "https://api.et.gr/apiLAW/2/2001/346/pdf",
+  "source_sha256": "5ec367afed6ffa99564b47203f38dc2103635488697ee91e015c66c29152b526",
+  "published": "2001-10-11",
+  "in_force": "2001-10-11",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος διατάγματος αρχίζει από την ημερομηνία δημοσιευσής του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "496e099b54754d3b211c66e4a39f5f71a871eb7608cb15751d57324eba4811c8",
+      "ext": "png",
+      "bytes": 392,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        97.2
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "92e26ef77fb4e0228c95c45738e16c2b6c15a27f1bd14c1091000efb6a647afd",
+      "ext": "png",
+      "bytes": 82626,
+      "bbox": [
+        58.4,
+        97.6,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "1b5bead2fbb4162982b2b35c8b1be1e653e613a6ed07c4c1d1632444c4b7c4e4",
+      "ext": "png",
+      "bytes": 46167,
+      "bbox": [
+        177.1,
+        114.9,
+        534.8,
+        776.8
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "eb095631bd512baee718a14f4b209f5469b5000c4ee3a5d594e7f9850467a7f1",
+      "ext": "png",
+      "bytes": 63439,
+      "bbox": [
+        79.7,
+        96.4,
+        535.8,
+        777.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
