@@ -1,0 +1,29 @@
+{
+  "act": "ν. 1869/1989",
+  "year": 1989,
+  "number": 1869,
+  "title_ocr": "Προσωρινή διοίκηση των εσόδων του Κράτους και των Ειδικών Ταμείων και Ειδικωών Υπηρεσιών για To οικονομικό έτος 1990.",
+  "source": "https://api.et.gr/apiLAW/1/1989/1869/pdf",
+  "source_sha256": "81a140de651ce56c9088db48d78d1a295e9a827e234777f255aa37843dbb7ab0",
+  "published": "1989-12-28",
+  "in_force": "1989-12-28",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του νόμου αυτού αρχίζει από την Ίη Ιανουαρίου 1990.",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 86.3,
+  "ocr_page_confidence": [
+    87.3,
+    86.2,
+    85.3,
+    85.3,
+    87.5,
+    88.1,
+    87.2,
+    83.1
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
