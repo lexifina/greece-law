@@ -1,0 +1,52 @@
+{
+  "act": "π.δ. 193/2002",
+  "year": 2002,
+  "number": 193,
+  "url": "https://api.et.gr/apiLAW/2/2002/193/pdf",
+  "source_sha256": "fefcc89ab037578ae6169eb8c1eb01b684e4c8dc8d1ce3d3f08c54973715bfad",
+  "published": "2002-08-02",
+  "in_force": "2002-08-02",
+  "in_force_basis": "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "ff2929bc673c5ecb8cb2770ffcf33611dbd9630f888ab68c1b6749a69c9c7c48",
+      "ext": "png",
+      "bytes": 398,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        97.2
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "d0cfa21c99e6914681d474aa80caf96560ce9c6d1ea04b13da79e6b6522a0adf",
+      "ext": "png",
+      "bytes": 113407,
+      "bbox": [
+        86.6,
+        94.4,
+        505.9,
+        746.9
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "05ee2f7c3a415817c1bb787b8b2056c67f5b5bf866f4af41273edfd15f5c8c98",
+      "ext": "png",
+      "bytes": 165219,
+      "bbox": [
+        84.0,
+        94.4,
+        506.2,
+        777.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
