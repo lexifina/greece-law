@@ -1,0 +1,28 @@
+{
+  "year": 2005,
+  "number": 3316,
+  "url": "https://api.et.gr/apiLAW/1/2005/3316/pdf",
+  "source_sha256": "402809ec71c338762b15f63aa4c9e2df30c127d3df91ca9933717192e84daed3",
+  "published": "2005-02-22",
+  "in_force": "2005-02-22",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επί μέρους διατάξεις.",
+  "in_force_general_day": true,
+  "pages": 40,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "5e3258a51d41c90931538417a6db2e63ee8dbd68485c38f5ad16d726b481ac6b",
+      "ext": "png",
+      "bytes": 386,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
