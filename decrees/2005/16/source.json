@@ -1,0 +1,52 @@
+{
+  "act": "π.δ. 16/2005",
+  "year": 2005,
+  "number": 16,
+  "url": "https://api.et.gr/apiLAW/2/2005/16/pdf",
+  "source_sha256": "28296ad7e7692236b2e396aa9ea4720ec658784515b9f0d5d5e51e2802b4dbfa",
+  "published": "2005-01-21",
+  "in_force": "2005-01-21",
+  "in_force_basis": "Η ισχύς του παρόντος Προεδρικού Διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 8,
+  "images": [
+    {
+      "page": 6,
+      "sha256": "35473ff4574df22e6b7a58574b9f43657f758fd9fd0b855cbe27502a117f6721",
+      "ext": "jpeg",
+      "bytes": 243194,
+      "bbox": [
+        57.4,
+        46.4,
+        534.8,
+        570.3
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "b0c551be14c8dbd300455ecb4002862f564a1a77f2fea19600f88ff375e29671",
+      "ext": "jpeg",
+      "bytes": 220127,
+      "bbox": [
+        56.5,
+        46.4,
+        534.0,
+        501.3
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "eb4bb55e441c6b030d083113c261a5ddfae41c59fdee3091489e8c5f8add5965",
+      "ext": "jpeg",
+      "bytes": 151210,
+      "bbox": [
+        60.0,
+        50.6,
+        532.2,
+        726.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
