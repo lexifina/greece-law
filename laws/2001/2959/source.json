@@ -1,0 +1,40 @@
+{
+  "year": 2001,
+  "number": 2959,
+  "url": "https://api.et.gr/apiLAW/1/2001/2959/pdf",
+  "source_sha256": "e44e28474abb7e3f6a0adabe6af1d1c62499f2a49db73886cb922b329cee8920",
+  "published": "2001-11-12",
+  "in_force": "2001-11-12",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Πρωτοκόλλου που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 32 παράγραφοι 2 και 3 της Σύμβασης «......περί αμοιβαίας συνδρομής και συνεργασίας μεταξύ των τελωνειακών υπηρεσιών», Ν.2772/1999 (ΦΕΚ 282 Α’).",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "1b605cd497a2dd9a062639cbeb6d7873a740bd5ab5aa7ca80c5c13a27c12a40b",
+      "ext": "png",
+      "bytes": 408,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "16aa3830e106a83ec8ed8b0cfee8a97d2a058b445acb57cde81350149dba7598",
+      "ext": "png",
+      "bytes": 125233,
+      "bbox": [
+        58.4,
+        93.6,
+        535.8,
+        777.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
