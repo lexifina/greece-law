@@ -1,0 +1,29 @@
+{
+  "act": "ν. 2596/1998",
+  "year": 1998,
+  "number": 2596,
+  "title_ocr": "Κύρωση της Συμφωνίας μεταξύ της Κυβέρνησης της Ελληνικής Δημοκρατίας και της Κυβέρνησηςτης Δημοκρατίας της Αργεντινής, για τη συνεργασία ent των είρηνικών εφαρμογών της πυρηνικ]ς ενέργειας.",
+  "source": "https://api.et.gr/apiLAW/1/1998/2596/pdf",
+  "source_sha256": "82f0cbff6266c1fa93e890a6e4363d96992012f790a1d99d79d248569af214e7",
+  "published": "1998-03-24",
+  "in_force": "1998-03-24",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 80.2,
+  "ocr_page_confidence": [
+    75.2,
+    77.5,
+    84.3,
+    73.1,
+    77.8,
+    88.1,
+    89.5,
+    75.8
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
