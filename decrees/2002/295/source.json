@@ -1,0 +1,64 @@
+{
+  "act": "π.δ. 295/2002",
+  "year": 2002,
+  "number": 295,
+  "url": "https://api.et.gr/apiLAW/2/2002/295/pdf",
+  "source_sha256": "372451d46d9e8545639d0bff5c6e7c1a807e7a648d5264218a990ac713830ca5",
+  "published": "2002-10-30",
+  "in_force": "2002-10-30",
+  "in_force_basis": "Η ισχύς του παρόντος Διατάγματος αρχίζει από την δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "161c1a87c1ac27260c3dcb2ae0894da2d3bbd1a1ee026b2fc7ad6af4eacafede",
+      "ext": "png",
+      "bytes": 400,
+      "bbox": [
+        46.7,
+        57.7,
+        198.8,
+        98.2
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "26113b39028d05f2ca4569774631c8b590d205a360deea0470a0d0c8c47376a1",
+      "ext": "png",
+      "bytes": 80340,
+      "bbox": [
+        58.4,
+        100.3,
+        535.8,
+        568.8
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "b200b7e3b462fae40aae8f0872be7961e6b9f6e808e33aac6b6ad0c13a7e14b1",
+      "ext": "png",
+      "bytes": 49245,
+      "bbox": [
+        91.8,
+        124.4,
+        509.6,
+        486.7
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "ba79e907152b55ccc664e2bafbb41b04f501cdcecb4050570e7cc14b9ab773a0",
+      "ext": "png",
+      "bytes": 168551,
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        841.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
