@@ -1,0 +1,28 @@
+{
+  "year": 2002,
+  "number": 2983,
+  "url": "https://api.et.gr/apiLAW/1/2002/2983/pdf",
+  "source_sha256": "8204fd5e955ca1a53b7259df55708acb3c73b9582d138be5224b87094d639e11",
+  "published": "2002-01-31",
+  "in_force": "2002-01-31",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 22 αυτής.",
+  "in_force_general_day": true,
+  "pages": 16,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "39b762f8779c636a05b2b584106a92f887a55515f5c4d07b4c84f58740095062",
+      "ext": "png",
+      "bytes": 390,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        97.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
