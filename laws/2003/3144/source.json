@@ -1,0 +1,28 @@
+{
+  "year": 2003,
+  "number": 3144,
+  "url": "https://api.et.gr/apiLAW/1/2003/3144/pdf",
+  "source_sha256": "9ab25b4a2096f89612e1e48e146832d86c45afd765156b2766ed3e01930d689e",
+  "published": "2003-05-08",
+  "in_force": "2003-05-08",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός εάν ορίζεται διαφορετικά στις επί μέρους διατάξεις του.",
+  "in_force_general_day": true,
+  "pages": 20,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "897d9c0282c8bfa79a6bc41c8bf75cd0b4ef94523a747c05339cf04a86d90c89",
+      "ext": "png",
+      "bytes": 369,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
