@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 239/2004",
+  "year": 2004,
+  "number": 239,
+  "url": "https://api.et.gr/apiLAW/2/2004/239/pdf",
+  "source_sha256": "1b965a5836bccc0ca95ce7d50515cd2fdd4013ce30259f78cbf5f0da9ed28f77",
+  "published": "2004-11-16",
+  "in_force": "2004-11-16",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος αρχίζει από τη δημοσίευση στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "f1b3b13cd43e9090900c400f025f9991ad177b0ed34eeac8281a96ac289486a4",
+      "ext": "png",
+      "bytes": 407,
+      "bbox": [
+        46.6,
+        65.0,
+        196.8,
+        104.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
