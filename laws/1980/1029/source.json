@@ -1,0 +1,29 @@
+{
+  "act": "ν. 1029/1980",
+  "year": 1980,
+  "number": 1029,
+  "title_ocr": "Περὶ ἀναθέσεως μελέτης κατασκευῆς σφαγείων διομηχανικοῦ τύπου.",
+  "source": "https://api.et.gr/apiLAW/1/1980/1029/pdf",
+  "source_sha256": "6ea7c3af47a999e851fc082ee301b4331d9bd31ff3a4ab765afad397fccaae93",
+  "published": "1980-03-04",
+  "in_force": "1980-03-04",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 71.4,
+  "ocr_page_confidence": [
+    73.5,
+    78.8,
+    78.3,
+    86.1,
+    41.6,
+    43.1,
+    85.3,
+    84.8
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": false,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
