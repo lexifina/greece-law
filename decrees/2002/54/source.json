@@ -1,0 +1,76 @@
+{
+  "act": "π.δ. 54/2002",
+  "year": 2002,
+  "number": 54,
+  "url": "https://api.et.gr/apiLAW/2/2002/54/pdf",
+  "source_sha256": "555fb52cefba5af83a59ea5017e5d68e6e59f3aa5549a88cbfafb3022b4c215b",
+  "published": "2002-03-13",
+  "in_force": "2002-03-13",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 44,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "91594d7398c7fb268fc703c3a637d11317436498b91ba04946d4663637808078",
+      "ext": "png",
+      "bytes": 388,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        97.2
+      ]
+    },
+    {
+      "page": 39,
+      "sha256": "73fe0d1adf9fc85d070ea807356c2203b186c6555b9f37351c10fe052cb7be06",
+      "ext": "png",
+      "bytes": 81099,
+      "bbox": [
+        74.8,
+        93.8,
+        525.9,
+        777.1
+      ]
+    },
+    {
+      "page": 40,
+      "sha256": "5e48304efb3d83dffb48ec453729f38a7d29674d85db31634f83405dd9d10199",
+      "ext": "png",
+      "bytes": 57950,
+      "bbox": [
+        58.4,
+        93.8,
+        532.5,
+        728.3
+      ]
+    },
+    {
+      "page": 41,
+      "sha256": "f600366a53d216a810f72151a23299df954f918a4f7f808d064a00a66d8375f0",
+      "ext": "png",
+      "bytes": 112046,
+      "bbox": [
+        57.5,
+        94.5,
+        535.0,
+        730.5
+      ]
+    },
+    {
+      "page": 42,
+      "sha256": "6a8447b72992be80702f41e98af03f79d318d5146f3c3cd2a6a27705d4720952",
+      "ext": "png",
+      "bytes": 25321,
+      "bbox": [
+        58.4,
+        93.8,
+        535.8,
+        427.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
