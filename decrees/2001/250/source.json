@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 250/2001",
+  "year": 2001,
+  "number": 250,
+  "url": "https://api.et.gr/apiLAW/2/2001/250/pdf",
+  "source_sha256": "665dfa810fb5b565f836d66240619608d797a70f3929bd1f92e6c71ed218c55a",
+  "published": "2001-08-10",
+  "in_force": "2001-08-10",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "0221e5ef7e558679d811cd7d09bb6409fd46313770a68d87f28418ab82f48608",
+      "ext": "png",
+      "bytes": 346,
+      "bbox": [
+        43.5,
+        56.8,
+        195.7,
+        97.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
