@@ -1,0 +1,76 @@
+{
+  "year": 2002,
+  "number": 3087,
+  "url": "https://api.et.gr/apiLAW/1/2002/3087/pdf",
+  "source_sha256": "e9086ab13b04f76365ff8e69ed97a2ef32866a8dcb5c1bae25b8f1d1525c40b8",
+  "published": "2002-12-23",
+  "in_force": "2002-12-23",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της απόφασης που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 12 αυτής.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "fa3357b287c105ca105df8dc73d8b15d16ff55d07871adb6e2a3b908fa284e34",
+      "ext": "png",
+      "bytes": 396,
+      "bbox": [
+        46.7,
+        57.7,
+        198.8,
+        98.2
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "be338c5c2fa314321093157038ef50b543fb3261a7fec37bf20f8db8b0d120ea",
+      "ext": "png",
+      "bytes": 38437,
+      "bbox": [
+        96.6,
+        434.9,
+        497.7,
+        728.7
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "fc1daadef8c3b356b31a203bbde69115bd8cac799ecb8b475dbfa5d3d26002f0",
+      "ext": "png",
+      "bytes": 38616,
+      "bbox": [
+        155.3,
+        133.6,
+        465.3,
+        737.9
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "1fd9298030594a2d693ded3a4480d94156cc46f8987fda8ddd24fc9f8bc71159",
+      "ext": "png",
+      "bytes": 28522,
+      "bbox": [
+        134.5,
+        149.0,
+        521.9,
+        703.6
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "cf5c54fe91a086ac3f3d77b256412fdb9aec6e7575a50362c77a0a6ccaac5660",
+      "ext": "png",
+      "bytes": 31627,
+      "bbox": [
+        146.1,
+        130.5,
+        471.0,
+        719.7
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
