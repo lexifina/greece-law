@@ -1,0 +1,160 @@
+{
+  "year": 2004,
+  "number": 3281,
+  "url": "https://api.et.gr/apiLAW/1/2004/3281/pdf",
+  "source_sha256": "ac1f48590409f1b7ade761979bd2e6a66334aee0cc847a449e53fa7d3eb21280",
+  "published": "2004-11-01",
+  "in_force": "2004-11-01",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 26 αυτής.",
+  "in_force_general_day": true,
+  "pages": 16,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "86eaec13ccd65d9230a112d9c94f9fb91b277463b81f244daf898b32a5d61789",
+      "ext": "png",
+      "bytes": 397,
+      "bbox": [
+        44.3,
+        58.9,
+        196.4,
+        98.4
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "1e8fd1da3bb5942f49c39c9afb2d2f786b914e859ffab060d095922eb7d26692",
+      "ext": "png",
+      "bytes": 143260,
+      "bbox": [
+        77.6,
+        72.1,
+        516.9,
+        756.0
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "69802ac9a4794b46b2b2c7efbedfab9c1b731543b50d2adbb79560e6ffb4aec6",
+      "ext": "png",
+      "bytes": 126260,
+      "bbox": [
+        71.1,
+        78.4,
+        511.2,
+        742.7
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "7aab61230fb1a91e917f86ee9db4c0918227d683f1c7aa9445d40caf94f659b2",
+      "ext": "png",
+      "bytes": 126463,
+      "bbox": [
+        81.2,
+        79.5,
+        501.7,
+        739.0
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "400632ed56a3e5d59b24b7ab083a3f78c7eaf6aa0a955740eab5a16853d2259e",
+      "ext": "png",
+      "bytes": 148094,
+      "bbox": [
+        91.4,
+        90.7,
+        493.7,
+        695.2
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "1b3f58692bf8e3cb70ec23a0558c3cf75535f69e3992c075bb41d69ccba13a62",
+      "ext": "png",
+      "bytes": 137868,
+      "bbox": [
+        72.7,
+        83.7,
+        497.8,
+        750.3
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "4000e43fbe9fb030657648d8697f7cac0cbc2041fd661b2c0ba19f60c502befd",
+      "ext": "png",
+      "bytes": 174241,
+      "bbox": [
+        77.9,
+        76.8,
+        498.8,
+        750.9
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "767382004c7247741ece730a7080a582da75f6fa986a8c89f7695778842a63a9",
+      "ext": "png",
+      "bytes": 130534,
+      "bbox": [
+        80.7,
+        93.9,
+        504.5,
+        748.1
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "c2dfdf3515d2c4733ba1ce2cd5919b6b51122c47befd2e9a004cf7c1a8f76849",
+      "ext": "png",
+      "bytes": 164506,
+      "bbox": [
+        73.1,
+        72.1,
+        498.4,
+        749.8
+      ]
+    },
+    {
+      "page": 13,
+      "sha256": "000f9b54bfa79b143c5daf5a818bae9d1c21b855955153d955f10febfb85eff6",
+      "ext": "png",
+      "bytes": 163501,
+      "bbox": [
+        84.0,
+        75.6,
+        498.1,
+        745.0
+      ]
+    },
+    {
+      "page": 14,
+      "sha256": "2037a821466afab5fcafcffa3123dab2c438e5d9c3f2e44f6f5f1b68e4b7b64e",
+      "ext": "png",
+      "bytes": 143055,
+      "bbox": [
+        75.3,
+        92.1,
+        490.3,
+        711.8
+      ]
+    },
+    {
+      "page": 15,
+      "sha256": "321eb601ff73a8fee750c0e6049d3a315ba7ab014cc75abc7c2461a3a9207c47",
+      "ext": "png",
+      "bytes": 75117,
+      "bbox": [
+        76.0,
+        87.5,
+        491.0,
+        532.7
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
