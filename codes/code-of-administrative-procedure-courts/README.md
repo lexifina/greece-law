@@ -2,7 +2,7 @@
 
 Code of Administrative Court Procedure · ν. 2717/1999 · ΦΕΚ Α΄ 97/17.5.1999 · In force: 1999-07-17
 
-**Text: OCR of official scan.** The National Printing Office publishes this issue only as a scanned image; the text here is Tesseract 5 OCR (Greek model) of that scan, not a typed copy, and may contain recognition errors (accent marks the model read as polytonic are normalised to the monotonic system the Gazette uses since 1982). Read the official PDF for anything that matters. Mean OCR word confidence 83.0/100 over 52 pages. Cross-check: not yet cross-checked against a second copy.
+**Text: OCR of official scan.** The National Printing Office publishes this issue only as a scanned image; the text here is Tesseract 5 OCR (Greek model) of that scan, not a typed copy, and may contain recognition errors (accent marks the model read as polytonic are normalised to the monotonic system the Gazette uses since 1982). Read the official PDF for anything that matters. Mean OCR word confidence 83.0/100 over 52 pages (below 70 on official PDF page(s) 51: read those against the scan). Cross-check: not yet cross-checked against a second copy.
 
 History: **as enacted** (the official FEK text of ν. 2717/1999). Later amendments are not applied in this version; this is not the current consolidated text.
 
@@ -33,9 +33,9 @@ In-force basis: «Η ισχύς του παρόντος νόμου αρχίζε�
 | Άρθρο 18 | [art-018.md](art-018.md) | |
 | Άρθρο 19 | [art-019.md](art-019.md) | |
 | Άρθρο 20 | [art-020.md](art-020.md) | |
-| Άρθρο 21 | [art-021.md](art-021.md) | |
 | Άρθρο 22 | [art-022.md](art-022.md) | |
 | Άρθρο 23 | [art-023.md](art-023.md) | |
+| Άρθρο 24 | [art-024.md](art-024.md) | |
 | Άρθρο 27 | [art-027.md](art-027.md) | |
 | Άρθρο 28 | [art-028.md](art-028.md) | |
 | Άρθρο 29 | [art-029.md](art-029.md) | |
@@ -172,8 +172,6 @@ In-force basis: «Η ισχύς του παρόντος νόμου αρχίζε�
 | Άρθρο 163 | [art-163.md](art-163.md) | |
 | Άρθρο 164 | [art-164.md](art-164.md) | |
 | Άρθρο 165 | [art-165.md](art-165.md) | |
-| Άρθρο 166 | [art-166.md](art-166.md) | |
-| Άρθρο 167 | [art-167.md](art-167.md) | |
 | Άρθρο 168 | [art-168.md](art-168.md) | |
 | Άρθρο 169 | [art-169.md](art-169.md) | |
 | Άρθρο 170 | [art-170.md](art-170.md) | |
@@ -189,7 +187,6 @@ In-force basis: «Η ισχύς του παρόντος νόμου αρχίζε�
 | Άρθρο 180 | [art-180.md](art-180.md) | |
 | Άρθρο 181 | [art-181.md](art-181.md) | |
 | Άρθρο 182 | [art-182.md](art-182.md) | |
-| Άρθρο 183 | [art-183.md](art-183.md) | |
 | Άρθρο 184 | [art-184.md](art-184.md) | |
 | Άρθρο 186 | [art-186.md](art-186.md) | |
 | Άρθρο 187 | [art-187.md](art-187.md) | |
@@ -211,8 +208,8 @@ In-force basis: «Η ισχύς του παρόντος νόμου αρχίζε�
 | Άρθρο 203 | [art-203.md](art-203.md) | |
 | Άρθρο 204 | [art-204.md](art-204.md) | |
 | Άρθρο 205 | [art-205.md](art-205.md) | |
-| Άρθρο 206 | [art-206.md](art-206.md) | |
 | Άρθρο 207 | [art-207.md](art-207.md) | |
+| Άρθρο 208 | [art-208.md](art-208.md) | |
 | Άρθρο 209 | [art-209.md](art-209.md) | |
 | Άρθρο 210 | [art-210.md](art-210.md) | |
 | Άρθρο 211 | [art-211.md](art-211.md) | |
@@ -230,7 +227,6 @@ In-force basis: «Η ισχύς του παρόντος νόμου αρχίζε�
 | Άρθρο 223 | [art-223.md](art-223.md) | |
 | Άρθρο 224 | [art-224.md](art-224.md) | |
 | Άρθρο 225 | [art-225.md](art-225.md) | |
-| Άρθρο 226 | [art-226.md](art-226.md) | |
 | Άρθρο 227 | [art-227.md](art-227.md) | |
 | Άρθρο 228 | [art-228.md](art-228.md) | |
 | Άρθρο 229 | [art-229.md](art-229.md) | |
@@ -265,10 +261,10 @@ In-force basis: «Η ισχύς του παρόντος νόμου αρχίζε�
 | Άρθρο 260 | [art-260.md](art-260.md) | |
 | Άρθρο 261 | [art-261.md](art-261.md) | |
 | Άρθρο 262 | [art-262.md](art-262.md) | |
-| Άρθρο 263 | [art-263.md](art-263.md) | |
 | Άρθρο 264 | [art-264.md](art-264.md) | |
 | Άρθρο 265 | [art-265.md](art-265.md) | |
 | Άρθρο 266 | [art-266.md](art-266.md) | |
+| Άρθρο 267 | [art-267.md](art-267.md) | |
 | Άρθρο 268 | [art-268.md](art-268.md) | |
 | Άρθρο 269 | [art-269.md](art-269.md) | |
 | Άρθρο 270 | [art-270.md](art-270.md) | |
@@ -284,5 +280,5 @@ In-force basis: «Η ισχύς του παρόντος νόμου αρχίζε�
 | Άρθρο 280 | [art-280.md](art-280.md) | |
 | Άρθρο 281 | [art-281.md](art-281.md) | |
 | Άρθρο 282 | [art-282.md](art-282.md) | |
-| Άρθρο 283 | [art-283.md](art-283.md) | |
+| Άρθρο 285 | [art-285.md](art-285.md) | |
 | Άρθρο δεύτερο | [art-second.md](art-second.md) | |
