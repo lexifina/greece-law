@@ -1,0 +1,41 @@
+{
+  "year": 2003,
+  "number": 3193,
+  "url": "https://api.et.gr/apiLAW/1/2003/3193/pdf",
+  "source_sha256": "b265c4286beafa6f6a5945d03ef17c262e456fc815b4a7181d24e41431536a65",
+  "published": "2003-11-20",
+  "in_force": "2003-11-20",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "6b2734f8d84cc9d585a34c50f4a1ad3f4070e78aecf98878b6ad03a4bd088786",
+      "ext": "png",
+      "bytes": 407,
+      "bbox": [
+        43.3,
+        35.9,
+        195.4,
+        76.4
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "09e4debe8b8912827bd621be0202a3fd04c95fe16b55e5ff9fc62767733faa01",
+      "ext": "png",
+      "bytes": 34229,
+      "bbox": [
+        70.9,
+        365.7,
+        513.5,
+        517.3
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: commencement needs act-specific reading: Η ισχύς του νόμου αυτού αρχίζει για τις διατάξεις του άρθρου 1 από 1.1.2004, των άρθρων 3 έως και 7 από 1.7.2003, των άρ"
+}
