@@ -1,0 +1,25 @@
+{
+  "act": "ν. 2614/1998",
+  "year": 1998,
+  "number": 2614,
+  "title_ocr": "Κύρωση της Συνθήκης Φιλίας και Συνεργασίας μεταξύ της Ελληνικής Δημοκρατίας καίιτης Ουκρανίας.",
+  "source": "https://api.et.gr/apiLAW/1/1998/2614/pdf",
+  "source_sha256": "66c64c183052ef44338fc1fd9951cefee830251cd014918f4c4587cf190acc81",
+  "published": "1998-06-02",
+  "in_force": "1998-06-02",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 82.6,
+  "ocr_page_confidence": [
+    84.6,
+    80.6,
+    80.7,
+    84.4
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 4,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
