@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 13/2004",
+  "year": 2004,
+  "number": 13,
+  "url": "https://api.et.gr/apiLAW/2/2004/13/pdf",
+  "source_sha256": "28bb1f6ef96f3c57848f86efd8add81f41e919c4a70084c34dd07d8cff48f338",
+  "published": "2004-01-16",
+  "in_force": "2004-01-16",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "6590fb8253bc7942c728ec5748dc999b578c7873d971f2c80998ea6de3671f3a",
+      "ext": "png",
+      "bytes": 358,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
