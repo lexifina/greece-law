@@ -1,0 +1,23 @@
+{
+  "act": "ν. 547/1977",
+  "year": 1977,
+  "number": 547,
+  "title_ocr": "Περὶ διοικήσεως nai διαχειρίσεως τῶν μὴ ἐνοριακῶν ναῶν τῶν Κοιμητηρίων.",
+  "source": "https://api.et.gr/apiLAW/1/1977/547/pdf",
+  "source_sha256": "c6f233d1ce48d29f7b4dcb83189c5f7c197a4fa7c6b342070960b52a55a6c82f",
+  "published": "1977-02-23",
+  "in_force": "1977-02-23",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 72.3,
+  "ocr_page_confidence": [
+    72.3,
+    null
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": false,
+  "pages": 2,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
