@@ -1,0 +1,52 @@
+{
+  "act": "π.δ. 88/2003",
+  "year": 2003,
+  "number": 88,
+  "url": "https://api.et.gr/apiLAW/2/2003/88/pdf",
+  "source_sha256": "effed16225cc90bf0386c50b40cfefb22048494033f5196bec353bef5f87edb9",
+  "published": "2003-04-09",
+  "in_force": "2003-04-09",
+  "in_force_basis": "Η ισχύς του παρόντος Προεδρικού Διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "ce0c4a0213a349d6e1ff7bc3acf493b42cf678196e9e4bf1eadbc0c4edff2d55",
+      "ext": "png",
+      "bytes": 378,
+      "bbox": [
+        46.7,
+        57.7,
+        198.8,
+        98.2
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "570f3d22123c813dfcca628164b2dab89983c07d8a756530f3665adeecb2ac80",
+      "ext": "png",
+      "bytes": 137606,
+      "bbox": [
+        58.4,
+        165.7,
+        535.8,
+        648.0
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "5b9229a1a47576d0b8a1bec47affa86acf99006ea69fe3d279e223647548201b",
+      "ext": "png",
+      "bytes": 115088,
+      "bbox": [
+        76.2,
+        96.1,
+        502.7,
+        761.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
