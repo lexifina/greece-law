@@ -1,0 +1,136 @@
+{
+  "year": 2001,
+  "number": 2900,
+  "url": "https://api.et.gr/apiLAW/1/2001/2900/pdf",
+  "source_sha256": "397447641beea667ec571c4755610f12e39c9f44126e3785649c3da99a4bcf39",
+  "published": "2001-04-12",
+  "in_force": "2001-04-12",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου XVII παρ. 1 αυτής.",
+  "in_force_general_day": true,
+  "pages": 16,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "0578ea18576859331e1cee6b5f4e9a825694b3abcfa72c359945da4e2d367a51",
+      "ext": "png",
+      "bytes": 398,
+      "bbox": [
+        43.5,
+        56.8,
+        195.7,
+        97.4
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "397c273b1de01c37e7d93a8191d57bf2269cafb116070453b211eca060db8002",
+      "ext": "png",
+      "bytes": 89837,
+      "bbox": [
+        66.4,
+        94.5,
+        517.8,
+        777.2
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "52a2d0ed19655fbf0ed8f28540c825e45d99e19466e88f468e127cb53e91b715",
+      "ext": "png",
+      "bytes": 127170,
+      "bbox": [
+        73.6,
+        94.4,
+        510.9,
+        777.1
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "dde92336ee216f2a1d72f829262ca97f53566ddb0c1ad66d1e3bab6e42a0d5b9",
+      "ext": "png",
+      "bytes": 123493,
+      "bbox": [
+        73.6,
+        94.4,
+        516.8,
+        777.0
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "85f4d8ea5595db0855fe785b6088852ffb4427c8bf6ffda5da58c969f75d5f32",
+      "ext": "png",
+      "bytes": 132676,
+      "bbox": [
+        62.2,
+        94.4,
+        517.7,
+        721.1
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "72fdd4ae4ff1dbab8b78cce3f58f40f66c9cd2e6a02122ff6816585f3d8e5c62",
+      "ext": "png",
+      "bytes": 127306,
+      "bbox": [
+        72.2,
+        104.0,
+        512.9,
+        772.7
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "1356c7b9793187987c0e9eb5a8eb068a790d0eaef16e1acd263a79077f96c5dd",
+      "ext": "png",
+      "bytes": 121521,
+      "bbox": [
+        70.5,
+        101.9,
+        507.6,
+        732.8
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "88328438391168f32dcd988ecc4a56c9d72bbafb80cd709d08538250192f8de9",
+      "ext": "png",
+      "bytes": 132560,
+      "bbox": [
+        74.5,
+        99.0,
+        512.9,
+        752.8
+      ]
+    },
+    {
+      "page": 13,
+      "sha256": "e478d03b2184cea76c587fe3dac43c88679ac0986b05da3287479609a4e78a97",
+      "ext": "png",
+      "bytes": 121842,
+      "bbox": [
+        76.4,
+        94.4,
+        512.5,
+        777.1
+      ]
+    },
+    {
+      "page": 14,
+      "sha256": "8e9cc5958837c83a9651cb147027acf38ba4980841d349ca5115e79e24adc29c",
+      "ext": "png",
+      "bytes": 87476,
+      "bbox": [
+        72.6,
+        100.7,
+        512.5,
+        694.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
