@@ -1,0 +1,40 @@
+{
+  "act": "π.δ. 133/2002",
+  "year": 2002,
+  "number": 133,
+  "url": "https://api.et.gr/apiLAW/2/2002/133/pdf",
+  "source_sha256": "1acf1bdeb38ee2570ab82399ac62ada2da452b76468253c63006f5897b9c8aaa",
+  "published": "2002-05-17",
+  "in_force": "2002-05-17",
+  "in_force_basis": "Η ισχύς του παρόντος Προεδρικού Διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 60,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "e5d254cfe7095f91a4e442a4a515d327c4bde0f4f0f790c012b87ad31ab3c9aa",
+      "ext": "png",
+      "bytes": 398,
+      "bbox": [
+        46.7,
+        57.7,
+        198.8,
+        98.2
+      ]
+    },
+    {
+      "page": 58,
+      "sha256": "d4e89da812e65e4b02818ae85cc0610f158e3cd31a919729c922842798d1fe0f",
+      "ext": "png",
+      "bytes": 13752,
+      "bbox": [
+        91.9,
+        402.0,
+        503.7,
+        777.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
