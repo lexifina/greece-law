@@ -1,0 +1,30 @@
+{
+  "act": "ν. 2793/2000",
+  "year": 2000,
+  "number": 2793,
+  "title_ocr": "Κύρωσητης Συμφωνίας μεταξύτης Κυβέρνησης της Ελληνικής Δημοκρατίας Kat της Κυβέρνησης της Δημοκρατίας της Λεττονίας για την οικονομική Kal τεχνολογική συνεργασία ᾿' ΟΠΡΟΕΔΡΟΣ",
+  "source": "https://api.et.gr/apiLAW/1/2000/2793/pdf",
+  "source_sha256": "b8a7b87fa2844894489bf6771e22694132683d7019e7dda4d68a5421e57b1795",
+  "published": "2000-02-25",
+  "in_force": "2000-02-25",
+  "in_force_basis": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προυποθέσεων του άρθρου 6 παρ. 1 αυτής. (general day; the act gives some provisions their own dates) (read from the OCR text)",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 91.2,
+  "ocr_page_confidence": [
+    87.5,
+    86.0,
+    95.8,
+    95.1,
+    94.4,
+    95.2,
+    89.6,
+    86.1
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "why_ocr": "The PDF of this Gazette issue has no usable Greek text layer (a scanned image, or legacy 8-bit fonts whose codes the text-layer pipeline cannot map), so the page images were OCR'd"
+}
