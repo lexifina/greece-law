@@ -1,0 +1,23 @@
+{
+  "act": "ν. 2600/1998",
+  "year": 1998,
+  "number": 2600,
+  "title_ocr": "Κύρωση της Συμφωνίας συνεργασίας στον τομεα της προστασίας της πολιτιστικής κληρονομιάς μεταξύ της Κυβέρνησης της Ελληνικής Δημοκρατίας και της Κυβέρνησης της Ρωσικής Ομοσπονδίας",
+  "source": "https://api.et.gr/apiLAW/1/1998/2600/pdf",
+  "source_sha256": "850a050ff57c8fdea293f03dee9155aba6cfb4d65200dc48bcd41c277b596544",
+  "published": "1998-04-14",
+  "in_force": "1998-04-14",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος νόμου αρχίζει από τη διημιοσίευGr] TOU στην Εφημερίδα της Κυβερνήσεως καιτης ΣυμφιοVIN TOL κυρώνθετ",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 81.3,
+  "ocr_page_confidence": [
+    84.3,
+    78.3
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 2,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
