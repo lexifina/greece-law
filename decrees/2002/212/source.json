@@ -1,0 +1,76 @@
+{
+  "act": "π.δ. 212/2002",
+  "year": 2002,
+  "number": 212,
+  "url": "https://api.et.gr/apiLAW/2/2002/212/pdf",
+  "source_sha256": "e32ea7c04029d00f0533bee34c1e4490f87f0b3f64266d18d94ecc14993a7ef3",
+  "published": "2002-08-29",
+  "in_force": "2002-08-29",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 8,
+  "images": [
+    {
+      "page": 6,
+      "sha256": "191bada7bddf52cae4e78a06a3b3367bd76bd0179352c9676981c639c0e51c64",
+      "ext": "jpeg",
+      "bytes": 4804,
+      "bbox": [
+        58.4,
+        94.5,
+        535.8,
+        116.3
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "39ae4cf70ec44867ece1d32a831a4c5cdaca92d7ed071cf4f74b8d9a7e2a9ce9",
+      "ext": "jpeg",
+      "bytes": 691274,
+      "bbox": [
+        58.4,
+        123.3,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "22b46ce6def4b82e9e4832f343a20cbccf17207088b4cea60130b7576b679742",
+      "ext": "jpeg",
+      "bytes": 722993,
+      "bbox": [
+        57.5,
+        119.9,
+        535.0,
+        685.5
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "b5ac7359a2b7faa1061b1490be804c6e1b3dc0c7195bece7d1ad71473df9f54f",
+      "ext": "jpeg",
+      "bytes": 5127,
+      "bbox": [
+        57.5,
+        93.2,
+        515.5,
+        114.8
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "ad9a45def1bbd44cb1bdee66e4b00fa22e37fbe76e0a0e316f1d217d34904eb3",
+      "ext": "jpeg",
+      "bytes": 97704,
+      "bbox": [
+        60.1,
+        48.3,
+        524.2,
+        729.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
