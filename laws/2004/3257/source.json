@@ -1,0 +1,28 @@
+{
+  "year": 2004,
+  "number": 3257,
+  "url": "https://api.et.gr/apiLAW/1/2004/3257/pdf",
+  "source_sha256": "46f0f3a9de0b723cb3b3ed41f71250830cfb90892fb797f97852d0f5e9e379b2",
+  "published": "2004-07-29",
+  "in_force": "2004-07-29",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επί μέρους διατάξεις του.",
+  "in_force_general_day": true,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "6ea34f982a062a87e2e7626738548ad4b98e9c4d5afba29267bd487b3e875aac",
+      "ext": "png",
+      "bytes": 419,
+      "bbox": [
+        43.3,
+        35.9,
+        195.4,
+        76.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
