@@ -1,0 +1,112 @@
+{
+  "act": "π.δ. 171/2004",
+  "year": 2004,
+  "number": 171,
+  "url": "https://api.et.gr/apiLAW/2/2004/171/pdf",
+  "source_sha256": "3f35af8d5383fcc0f565835f6daf661ad622aa7b110174cc27d141a3881cfcc0",
+  "published": "2004-07-29",
+  "in_force": "2004-07-29",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος διατάγματος αρχίζει από την δημοσίευσή του στην Eφημερίδα της Κυβερνήσεως.",
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "d42706d45881746981d7fbd7e9b75c75ac374b9f88fa5cee067481d48693935f",
+      "ext": "png",
+      "bytes": 406,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "8ffa17477393017256400437d992ba309770fadf625145e00a064ba8fc1444b0",
+      "ext": "png",
+      "bytes": 80179,
+      "bbox": [
+        59.3,
+        258.8,
+        532.6,
+        756.0
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "17059388180e7ba99c12ceac75ac64234a353b0779c4eff1d4ab90b81c990b5b",
+      "ext": "png",
+      "bytes": 76756,
+      "bbox": [
+        57.5,
+        76.6,
+        529.8,
+        654.3
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "aa07600a021e475031169b6542141fb2a5bd7c501d4f842001097816a5bd7ec5",
+      "ext": "png",
+      "bytes": 105530,
+      "bbox": [
+        62.3,
+        73.3,
+        526.8,
+        756.1
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "ee559f258176bc1e161ba7c6c23803a5c210d86d14362e1194d86f4a3d1d7ce6",
+      "ext": "png",
+      "bytes": 84618,
+      "bbox": [
+        74.2,
+        73.3,
+        510.6,
+        627.5
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "e0307eda40d563778a60800f3c3bd9c1e5cee8a087017fe191db6405dd5f36a0",
+      "ext": "png",
+      "bytes": 23702,
+      "bbox": [
+        71.2,
+        628.3,
+        506.5,
+        756.0
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "4389f27235f1da514bf86334a0351404c178ec6db7351e95e4c9bc7151defd5a",
+      "ext": "png",
+      "bytes": 1335,
+      "bbox": [
+        63.8,
+        176.9,
+        285.6,
+        208.8
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "099f676bbceb92ee828d6d1ff57bbba549bcbf61eb76ff41ee4840cb57b28311",
+      "ext": "png",
+      "bytes": 28958,
+      "bbox": [
+        68.1,
+        349.8,
+        527.9,
+        524.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
