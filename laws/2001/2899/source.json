@@ -1,0 +1,40 @@
+{
+  "year": 2001,
+  "number": 2899,
+  "url": "https://api.et.gr/apiLAW/1/2001/2899/pdf",
+  "source_sha256": "cc38831c08b72c74647fd4d23ee4d78c99607c60872adc9fe140a7b8f4555280",
+  "published": "2001-04-10",
+  "in_force": "2001-04-10",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της τροποποίησης του άρθρου XXI που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου XIX της Σύμβασης που τροποποιείται (ν.δ. 573/1970, ΦΕΚ 144 Α΄).",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "d43bf7a9f648e16ac3e95b7f287038ed826077abb7fffad26a08a1d69c2c94c5",
+      "ext": "png",
+      "bytes": 390,
+      "bbox": [
+        43.5,
+        56.8,
+        195.7,
+        97.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "22e4e04d5145b18840b4e410ab3a918d6d571e02757303df27a6d3b649e13705",
+      "ext": "png",
+      "bytes": 91696,
+      "bbox": [
+        58.4,
+        113.2,
+        535.8,
+        636.8
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
