@@ -1,0 +1,29 @@
+{
+  "act": "ν. 1519/1985",
+  "year": 1985,
+  "number": 1519,
+  "title_ocr": "ΓΚύρωση Συμφωνίας Μορφωτικής zac. Karsmudrinis συνεργασίας μεταξύ τω» Κυθεορνήσεων της Ελληνικής Ayμοκρατίας και της «Ίαοκρατικής Anuozeatias, της Ίευμανίας.",
+  "source": "https://api.et.gr/apiLAW/1/1985/1519/pdf",
+  "source_sha256": "5975bb191125ed08ff9a202962ddb510a37aa2c108e28912fc57337e37e74150",
+  "published": "1985-03-12",
+  "in_force": "1985-03-12",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 77.0,
+  "ocr_page_confidence": [
+    65.3,
+    92.6,
+    75.0,
+    70.1,
+    73.3,
+    82.5,
+    82.9,
+    74.1
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
