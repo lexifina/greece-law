@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 7/2005",
+  "year": 2005,
+  "number": 7,
+  "url": "https://api.et.gr/apiLAW/2/2005/7/pdf",
+  "source_sha256": "5276cdc24eac1053ac0b72035caf3461e540e732e9cefa3bc034af13289987cc",
+  "published": "2005-01-10",
+  "in_force": "2005-01-10",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 2,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "e66ba699fc0bc291116b67fbff1cf6107058b385cc513f12a5a229718de1ba48",
+      "ext": "png",
+      "bytes": 378,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
