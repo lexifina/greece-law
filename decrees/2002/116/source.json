@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 116/2002",
+  "year": 2002,
+  "number": 116,
+  "url": "https://api.et.gr/apiLAW/2/2002/116/pdf",
+  "source_sha256": "a580426872587fd23ae70a23fb44e21c2495a014d2254f0d4efb736981dbedfd",
+  "published": "2002-04-30",
+  "in_force": "2002-04-30",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος διατάγματος αρχίζει την 1η Μαΐου 2002.",
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "d60d5c878fd02d5a27bcfeaa21ca38e451b2295a44a5bd13f0e14253e231459a",
+      "ext": "png",
+      "bytes": 392,
+      "bbox": [
+        46.7,
+        57.7,
+        198.8,
+        98.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
