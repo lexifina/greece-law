@@ -1,0 +1,172 @@
+{
+  "year": 2003,
+  "number": 3210,
+  "url": "https://api.et.gr/apiLAW/1/2003/3210/pdf",
+  "source_sha256": "910430693603bc5cfa1002ceb0c9314fd4be714cf0491b0de1a212de887cf587",
+  "published": "2003-12-24",
+  "in_force": "2003-12-24",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 13 παράγραφος 1 αυτής.",
+  "in_force_general_day": true,
+  "pages": 16,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "38ce3a9ee0f51d6b76d68d005b6d9cc989444f42d1acb149ec76f1a27b49bcdb",
+      "ext": "png",
+      "bytes": 397,
+      "bbox": [
+        46.6,
+        36.7,
+        198.8,
+        77.2
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "3eec99e62429760c9c92e20a34e6211c7268593149fae7f329884a63906fe292",
+      "ext": "png",
+      "bytes": 1930,
+      "bbox": [
+        305.8,
+        442.9,
+        532.5,
+        472.9
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "147efdb650706758de76eda2d9142f9645d3e8a538c85fbf59989f7b792e0226",
+      "ext": "png",
+      "bytes": 87710,
+      "bbox": [
+        87.6,
+        73.3,
+        506.1,
+        756.0
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "7d76fe79459c036be99a6bca2efbec439a0ac52f9e85e0dee66d96aef97c4c2a",
+      "ext": "png",
+      "bytes": 105891,
+      "bbox": [
+        79.1,
+        73.3,
+        507.7,
+        734.2
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "84d77d1ed84777b2e859b4ca930fbee8a208b8a69f7343173f7d41665a640be1",
+      "ext": "png",
+      "bytes": 96454,
+      "bbox": [
+        81.7,
+        73.3,
+        511.0,
+        724.8
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "e9dfe11c98740ba96c8d6b961556ca134e32d0e1f578813d2ced8dc58a6fea5c",
+      "ext": "png",
+      "bytes": 116674,
+      "bbox": [
+        88.8,
+        73.3,
+        506.1,
+        756.0
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "a89af7a44a9911473d951a0d801e924f0f2920002e44d3fc37118efe5113f2a2",
+      "ext": "png",
+      "bytes": 130566,
+      "bbox": [
+        88.3,
+        73.3,
+        504.1,
+        742.1
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "4dbff2a3a1eaa2d23841a6d34fce82029c2fa8e488f214bca88065097329ee7e",
+      "ext": "png",
+      "bytes": 84062,
+      "bbox": [
+        77.5,
+        73.3,
+        517.7,
+        756.0
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "fca45ed140b2f71b2271f27aed22ba3f604747e16e95ba30eef70973713e2907",
+      "ext": "png",
+      "bytes": 126551,
+      "bbox": [
+        90.4,
+        73.3,
+        502.0,
+        756.0
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "31742ad93e0a954cedcb69030b96e4c954fb00dec8661c128212ce5c6f27bbf1",
+      "ext": "png",
+      "bytes": 117128,
+      "bbox": [
+        88.8,
+        73.3,
+        506.0,
+        756.0
+      ]
+    },
+    {
+      "page": 13,
+      "sha256": "c9d2f4b48365c6ff8f7d914389deacfe8016944b5caa90c784578c0f451f65c3",
+      "ext": "png",
+      "bytes": 117235,
+      "bbox": [
+        91.5,
+        73.3,
+        499.0,
+        756.0
+      ]
+    },
+    {
+      "page": 14,
+      "sha256": "34b29eb93311c6a07286d07de15f80a1fb736021c9152ad2cc3e635079398e08",
+      "ext": "png",
+      "bytes": 105475,
+      "bbox": [
+        83.0,
+        73.3,
+        512.2,
+        756.0
+      ]
+    },
+    {
+      "page": 15,
+      "sha256": "3efe4d6381e7f3a45d5087c8f1112f0e308afdfa2878331fec8ef9788a1131bb",
+      "ext": "png",
+      "bytes": 87397,
+      "bbox": [
+        57.5,
+        73.3,
+        534.9,
+        660.9
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
