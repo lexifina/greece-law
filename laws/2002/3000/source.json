@@ -1,0 +1,28 @@
+{
+  "year": 2002,
+  "number": 3000,
+  "url": "https://api.et.gr/apiLAW/1/2002/3000/pdf",
+  "source_sha256": "b49bae08c3174495ba3773c31955fd0d3fbb278d1b200f66d83e325cc3b22511",
+  "published": "2002-04-08",
+  "in_force": "2002-04-08",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 12 αυτής.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "b5b26fbc381383482d96062b97021080624db88014f830ad558f3a0d0a537c6d",
+      "ext": "png",
+      "bytes": 380,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        97.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
