@@ -1,0 +1,28 @@
+{
+  "year": 2003,
+  "number": 3209,
+  "url": "https://api.et.gr/apiLAW/1/2003/3209/pdf",
+  "source_sha256": "c6119f2d43a533c2dd97877aca5e0060a44b70827f5684966d5d5f4e5c78f089",
+  "published": "2003-12-24",
+  "in_force": "2003-12-24",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός εάν ορίζεται διαφορετικά στις επί μέρους διατάξεις του.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "9607fde01b678c2f2bede0150850eacb7c0b8d6105ca503955a3de45bb368859",
+      "ext": "png",
+      "bytes": 387,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
