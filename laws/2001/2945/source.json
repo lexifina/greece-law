@@ -1,0 +1,28 @@
+{
+  "year": 2001,
+  "number": 2945,
+  "url": "https://api.et.gr/apiLAW/1/2001/2945/pdf",
+  "source_sha256": "ac1a12fd157a7e8b79ace7ec8a628ea455b44d71bdaf48803a9fbc62bacad253",
+  "published": "2001-10-08",
+  "in_force": "2001-10-08",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις του.",
+  "in_force_general_day": true,
+  "pages": 40,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "5588963f06e7485246e47c346f1db57896e25295fa50842347000d8cda00bafc",
+      "ext": "png",
+      "bytes": 378,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
