@@ -1,0 +1,88 @@
+{
+  "act": "π.δ. 283/2001",
+  "year": 2001,
+  "number": 283,
+  "url": "https://api.et.gr/apiLAW/2/2001/283/pdf",
+  "source_sha256": "b550961b3857c6f654d8db93184e4ad721b2df3145accbd80d57456126625944",
+  "published": "2001-09-05",
+  "in_force": "2001-09-05",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος Προεδρικού Διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβέρνησης.",
+  "pages": 16,
+  "images": [
+    {
+      "page": 10,
+      "sha256": "402836ae0ad0051087b753a06649b825e98c5d07248bdd85dd056d07c25d85de",
+      "ext": "png",
+      "bytes": 73226,
+      "bbox": [
+        63.8,
+        94.5,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "a69c94d5429f3e3fb594928d527def64a0ecbabac0f307f0d7ece5db302ef8ce",
+      "ext": "png",
+      "bytes": 69588,
+      "bbox": [
+        57.5,
+        94.5,
+        535.0,
+        777.1
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "1ae1eb2e180b3acacb7db15d745945eaa965b22802946920f09e182bf2a9a21e",
+      "ext": "png",
+      "bytes": 76941,
+      "bbox": [
+        58.4,
+        94.5,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 13,
+      "sha256": "ab9bcbf34abe60da748dc31217f14283bd076e09967cd5db48efdacc9344f89f",
+      "ext": "png",
+      "bytes": 76319,
+      "bbox": [
+        57.5,
+        94.7,
+        535.0,
+        755.6
+      ]
+    },
+    {
+      "page": 14,
+      "sha256": "60810076c0ff16ed775d2558a3549e691ab1f36b79cf3a69b022224ff52d189e",
+      "ext": "png",
+      "bytes": 74586,
+      "bbox": [
+        58.4,
+        94.5,
+        535.8,
+        772.4
+      ]
+    },
+    {
+      "page": 15,
+      "sha256": "5eba407a8c26c5eb752b03d597cbcf95088614d059fdab82f00fe4c6e58b11fd",
+      "ext": "png",
+      "bytes": 64156,
+      "bbox": [
+        57.5,
+        95.2,
+        535.0,
+        771.9
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
