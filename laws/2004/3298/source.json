@@ -1,0 +1,52 @@
+{
+  "year": 2004,
+  "number": 3298,
+  "url": "https://api.et.gr/apiLAW/1/2004/3298/pdf",
+  "source_sha256": "aabd995df13f9593f5fb0b266a3af96cc1e94fd138c43902cf4a6418248e7645",
+  "published": "2004-12-23",
+  "in_force": "2004-12-23",
+  "clause": "Η ισχύς του παρόντος νομού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Μνημονίου που κυρώνεται από την πλήρωση των εσωτερικών διαδικασιών των Συμβαλλομένων Μερών.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "62dee7284724d803d7d0f5ae6ff3eec3f1077543df9217f0cccf91e46010bc8d",
+      "ext": "png",
+      "bytes": 405,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "63c2494ff73408eb82135992f202862b0bf08593a5490cbbbb0f54980ef16678",
+      "ext": "png",
+      "bytes": 233432,
+      "bbox": [
+        58.3,
+        74.5,
+        535.8,
+        752.4
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "69be85c0f285f9042861f3ccc1ee83a09313adcd0c824500ce68e17abdccadf5",
+      "ext": "png",
+      "bytes": 145972,
+      "bbox": [
+        58.6,
+        75.2,
+        534.9,
+        617.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
