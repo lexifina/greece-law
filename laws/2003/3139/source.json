@@ -1,0 +1,65 @@
+{
+  "year": 2003,
+  "number": 3139,
+  "url": "https://api.et.gr/apiLAW/1/2003/3139/pdf",
+  "source_sha256": "e4429b177af6ceaee4afc0124d7a923e59b9adeaa849964e0a0bf651f0eff734",
+  "published": "2003-04-30",
+  "in_force": "2003-04-30",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 36,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "6706c8f0d997eae83016ee61afb9387f1b879d04e156c4ae6a03be00a98376be",
+      "ext": "png",
+      "bytes": 355,
+      "bbox": [
+        43.3,
+        56.9,
+        195.5,
+        97.4
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "a5e821a2ba97c0544b535b25728b585916412e3cd0f6b121a0d7500e0039454b",
+      "ext": "png",
+      "bytes": 126013,
+      "bbox": [
+        62.6,
+        103.9,
+        525.3,
+        768.1
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "8e277276b42b83d4f47af397cfe62b4b87dceb896608987c58b2f8b2812d14a0",
+      "ext": "png",
+      "bytes": 215317,
+      "bbox": [
+        115.3,
+        103.9,
+        492.1,
+        777.1
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "3e26a4df63a18fa0239441d3277d010f3e8f1001485978bcb10ab783849b687c",
+      "ext": "png",
+      "bytes": 136377,
+      "bbox": [
+        62.6,
+        105.9,
+        530.8,
+        759.7
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
