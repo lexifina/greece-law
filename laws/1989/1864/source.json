@@ -1,0 +1,25 @@
+{
+  "act": "ν. 1864/1989",
+  "year": 1989,
+  "number": 1864,
+  "title_ocr": "Διαρρυθμίσεις στον eviaio ειδικό φόρο κατανάλωσης των πετρελαιοειδών προϊόντων",
+  "source": "https://api.et.gr/apiLAW/1/1989/1864/pdf",
+  "source_sha256": "8491d0b067bfedb0ddf3f6cbbc4e86865bc7172ed8a043e2f68c55dbc1bc5cec",
+  "published": "1989-09-25",
+  "in_force": "1989-09-25",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος άρθρου αρχίζει από 16 Αυγούστου 1989.",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 83.5,
+  "ocr_page_confidence": [
+    85.9,
+    80.9,
+    84.3,
+    83.0
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 4,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
