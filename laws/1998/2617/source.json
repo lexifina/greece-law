@@ -1,0 +1,29 @@
+{
+  "act": "ν. 2617/1998",
+  "year": 1998,
+  "number": 2617,
+  "title_ocr": "Κύρωση της Συμφωνίας Στρατιωτικής Συνεργασίας μεταξύ του Υπουργείου Εθνικής Άμυνας της Ελληνικής Δημοκρατίας Kat tou Υπουργείου Άμυνας της Γεωργίας.",
+  "source": "https://api.et.gr/apiLAW/1/1998/2617/pdf",
+  "source_sha256": "49e33d46afe5778a15f5a47185310bb6b4e5cd21df66b1e158b8a16eba6be68a",
+  "published": "1998-06-16",
+  "in_force": "1998-06-16",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 87.7,
+  "ocr_page_confidence": [
+    85.4,
+    81.5,
+    89.8,
+    93.2,
+    91.5,
+    87.6,
+    null,
+    85.2
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
