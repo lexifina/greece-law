@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 305/2003",
+  "year": 2003,
+  "number": 305,
+  "url": "https://api.et.gr/apiLAW/2/2003/305/pdf",
+  "source_sha256": "4662ed30166295e4130b919f5bfd4251add858026942b0bce2f9cdd45d6e565a",
+  "published": "2003-11-12",
+  "in_force": "2003-11-12",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος άρχεται από της δημοσιεύσεως του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "4855590385e409f5c56941735d2ebd48c116cebe39a9ff75b5bcfd36bb849399",
+      "ext": "png",
+      "bytes": 406,
+      "bbox": [
+        46.6,
+        36.7,
+        196.8,
+        77.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
