@@ -1,0 +1,28 @@
+{
+  "year": 2002,
+  "number": 3006,
+  "url": "https://api.et.gr/apiLAW/1/2002/3006/pdf",
+  "source_sha256": "b3aa5d544c6cdf84338df40b41a0f8bba95bf74e042f8bcff10fa482d216e27d",
+  "published": "2002-04-22",
+  "in_force": "2002-04-22",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Σύμβασης που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 53 αυτής.",
+  "in_force_general_day": true,
+  "pages": 20,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "27ac152821d12e8616dbc34337288c6a3cfeb53bfbee93d8a547b444bd95beb9",
+      "ext": "png",
+      "bytes": 396,
+      "bbox": [
+        46.7,
+        57.7,
+        198.8,
+        98.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
