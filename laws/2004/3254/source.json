@@ -1,0 +1,160 @@
+{
+  "year": 2004,
+  "number": 3254,
+  "url": "https://api.et.gr/apiLAW/1/2004/3254/pdf",
+  "source_sha256": "a178d80f1165d64e6762860e3e89ef570e03119e8b6d39a6b1e73f4ae4a094cd",
+  "published": "2004-07-22",
+  "in_force": "2004-07-22",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επί μέρους διατάξεις του νόμου τούτου.",
+  "in_force_general_day": true,
+  "pages": 20,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "3fb231dfaad27fdfeaa42b33396304e2c00ab88d4bbfb378e6f34e8560e9c937",
+      "ext": "png",
+      "bytes": 399,
+      "bbox": [
+        43.3,
+        35.9,
+        195.4,
+        76.4
+      ]
+    },
+    {
+      "page": 15,
+      "sha256": "2137a2d14501c82d481816faf9ae499b2d8135ebae05a2f3593f70b507ca133e",
+      "ext": "jpeg",
+      "bytes": 5826,
+      "bbox": [
+        56.5,
+        350.5,
+        160.5,
+        438.6
+      ]
+    },
+    {
+      "page": 15,
+      "sha256": "05af0290443dce43461640dc0d566c0c491ca226774ad87fea5852978e35ddef",
+      "ext": "jpeg",
+      "bytes": 6895,
+      "bbox": [
+        175.1,
+        350.4,
+        279.1,
+        436.6
+      ]
+    },
+    {
+      "page": 15,
+      "sha256": "4bd6ef0a51ad08c862fa67633967a7249eb6d99f44c01ed21e0d0924dcc97323",
+      "ext": "jpeg",
+      "bytes": 9570,
+      "bbox": [
+        301.7,
+        348.1,
+        405.7,
+        438.5
+      ]
+    },
+    {
+      "page": 15,
+      "sha256": "0bc038f46a56033d3bf601389fb5061ea4ecf2cd7553f79993203e6799f0cbc2",
+      "ext": "png",
+      "bytes": 8242,
+      "bbox": [
+        430.0,
+        347.4,
+        534.0,
+        438.5
+      ]
+    },
+    {
+      "page": 15,
+      "sha256": "6053a59630151722616a87feb7e42f83c791a6c757198cd2039ede6daa7fe238",
+      "ext": "png",
+      "bytes": 4623,
+      "bbox": [
+        59.5,
+        597.5,
+        155.5,
+        693.1
+      ]
+    },
+    {
+      "page": 15,
+      "sha256": "5591ad82ba8f12998eef8ebf6096443e4ae255799c72edb955e8471eb688490d",
+      "ext": "png",
+      "bytes": 5965,
+      "bbox": [
+        180.1,
+        599.6,
+        284.1,
+        695.2
+      ]
+    },
+    {
+      "page": 16,
+      "sha256": "b266238dde02f77949305792ee69a0526885612123d5582af95373992ebab78e",
+      "ext": "png",
+      "bytes": 8985,
+      "bbox": [
+        71.1,
+        61.4,
+        143.6,
+        149.5
+      ]
+    },
+    {
+      "page": 16,
+      "sha256": "6100a3b677aa175545337165602ecb2be916a080e26138ff30585157d4a0e9fc",
+      "ext": "jpeg",
+      "bytes": 6016,
+      "bbox": [
+        178.7,
+        61.3,
+        281.5,
+        151.6
+      ]
+    },
+    {
+      "page": 16,
+      "sha256": "dbf834ec143f5901a4e7d73905213f5137b1f5c49cd86ff8f7dc8402666f6b06",
+      "ext": "png",
+      "bytes": 9468,
+      "bbox": [
+        317.2,
+        61.4,
+        397.1,
+        152.5
+      ]
+    },
+    {
+      "page": 16,
+      "sha256": "c6cd066eae6305d9e28ec36dd9319e3719048b541a89776a6fdc2762b9397fe4",
+      "ext": "png",
+      "bytes": 2322,
+      "bbox": [
+        261.2,
+        248.2,
+        365.2,
+        302.3
+      ]
+    },
+    {
+      "page": 18,
+      "sha256": "00d33f73ffd2b7d31028a874eac9edd21a3be55be065cf3fcba7d99db0094070",
+      "ext": "png",
+      "bytes": 120153,
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        841.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
