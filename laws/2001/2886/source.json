@@ -1,0 +1,88 @@
+{
+  "year": 2001,
+  "number": 2886,
+  "url": "https://api.et.gr/apiLAW/1/2001/2886/pdf",
+  "source_sha256": "a9ec3268246be1febe530465e4c5235e63843330b3183c968b693a568035ecfb",
+  "published": "2001-02-28",
+  "in_force": "2001-02-28",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Μνημονίου Κατανοήσεως που κυρώνεται, από την πλήρωση των προϋποθέσεων του άρθρου 7 αυτού.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "eec8a31694ea23de7d1b5ded7b5c54dfff9857f64ebe414119aaca7817b0395d",
+      "ext": "jpeg",
+      "bytes": 24974,
+      "bbox": [
+        69.0,
+        539.1,
+        524.0,
+        777.1
+      ]
+    },
+    {
+      "page": 1,
+      "sha256": "c0649424ab9124374a460556ad3a036449eca013311d145f045bdc2a9011b9fc",
+      "ext": "png",
+      "bytes": 390,
+      "bbox": [
+        46.2,
+        56.8,
+        198.4,
+        97.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "deed5b120275f82f15a46cfc968dc1cb4292b8174c67a1e319e3146870895bad",
+      "ext": "jpeg",
+      "bytes": 35845,
+      "bbox": [
+        66.1,
+        94.5,
+        521.1,
+        440.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "f571cef4c74e13f6fa24cd87859b52f323786a97c7b7f97a7a42d0cf0b3d707e",
+      "ext": "jpeg",
+      "bytes": 22253,
+      "bbox": [
+        58.8,
+        452.9,
+        535.8,
+        777.1
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "8796629af245c90dedae6fa29ab0bf8343ecda8e11bbd45195812d529ae1db0d",
+      "ext": "jpeg",
+      "bytes": 31086,
+      "bbox": [
+        57.5,
+        94.5,
+        535.0,
+        441.6
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "95e40d01109ad3935087e2ee2b0abf4270e5df8e62ca5372cdca7c6e5432836b",
+      "ext": "jpeg",
+      "bytes": 26474,
+      "bbox": [
+        67.8,
+        444.1,
+        535.0,
+        758.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
