@@ -1,0 +1,29 @@
+{
+  "act": "ν. 1852/1989",
+  "year": 1989,
+  "number": 1852,
+  "title_ocr": "Κύρωση συμφωνίας συνεργασίας στον τουριστικὸ τοµέα μεταξύ των ἕΚυβερνῆσεων της Ελληνικῆς Δημοκρατίας χαὶ της Κυπριακῆς Δημοκρατίας. O ΠΡΟΕΔΡΟΣ",
+  "source": "https://api.et.gr/apiLAW/1/1989/1852/pdf",
+  "source_sha256": "8c503a71a5ad9141a9a62721e6d7939f9b605830bbea8dab714b707044ff18d3",
+  "published": "1989-05-16",
+  "in_force": "1989-05-16",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 80.9,
+  "ocr_page_confidence": [
+    78.1,
+    81.7,
+    81.6,
+    80.6,
+    79.6,
+    81.2,
+    80.8,
+    83.8
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": false,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
