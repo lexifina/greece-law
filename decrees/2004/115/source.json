@@ -1,0 +1,40 @@
+{
+  "act": "π.δ. 115/2004",
+  "year": 2004,
+  "number": 115,
+  "url": "https://api.et.gr/apiLAW/2/2004/115/pdf",
+  "source_sha256": "59099b95f955758576ea5c178cec3dabcafb3b3ce6d828a8bc78fced5b183b92",
+  "published": "2004-03-05",
+  "in_force": "2004-03-05",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος ΠΔ/τος ισχύει από τη δημοσίευσή της στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "bc96c24f8c62a77fa879d3c27e3afdb1c23a4f97feeb6cacf8779c7147ab20bb",
+      "ext": "png",
+      "bytes": 382,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "af4521220d6d65854d3bc90cd69f067a1797c873d43cb1051a213a4d783dfe8e",
+      "ext": "png",
+      "bytes": 6591,
+      "bbox": [
+        58.3,
+        141.5,
+        509.6,
+        298.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
