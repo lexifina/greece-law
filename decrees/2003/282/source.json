@@ -1,0 +1,52 @@
+{
+  "act": "π.δ. 282/2003",
+  "year": 2003,
+  "number": 282,
+  "url": "https://api.et.gr/apiLAW/2/2003/282/pdf",
+  "source_sha256": "2245ac2108448661954dcc0786df2a3d07f5dbc4ce2eac1a72b374b6ee4014cc",
+  "published": "2003-10-24",
+  "in_force": "2003-10-24",
+  "in_force_basis": "Η ισχύς του παρόντος Προεδρικού Διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "ff618c951c33b33a6e2d351af499f1a1e67adde47b7f7fe5815094bfb5d23c18",
+      "ext": "png",
+      "bytes": 401,
+      "bbox": [
+        46.6,
+        36.7,
+        198.8,
+        77.2
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "ed0dd430ae934c6622ee895296267c3d2578a7ee36a2973a4fa2883a0fa62c97",
+      "ext": "png",
+      "bytes": 273175,
+      "bbox": [
+        58.3,
+        73.3,
+        535.8,
+        754.6
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "042d8282c123aec23a623d940acedb65e262d0536c6d3a94e7b6c75a5d5b8858",
+      "ext": "jpeg",
+      "bytes": 296511,
+      "bbox": [
+        57.5,
+        73.3,
+        534.9,
+        756.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
