@@ -1,0 +1,30 @@
+{
+  "act": "ν. 1819/1988",
+  "year": 1988,
+  "number": 1819,
+  "title_ocr": "Σύσταση οργάνων εφαρμογής της λογιστικῆς τυποποίησης χαι ἄλλες διατάξεις",
+  "source": "https://api.et.gr/apiLAW/1/1988/1819/pdf",
+  "source_sha256": "44ac12a535989f3b826e3540423e697e92ebef505f33f46aa64ac5e1fbfc8d9d",
+  "published": "1988-11-17",
+  "in_force": "1988-11-17",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 82.1,
+  "ocr_page_confidence": [
+    80.9,
+    81.3,
+    83.4,
+    78.8,
+    80.7,
+    82.2,
+    82.3,
+    87.0
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "ocr_confidence_gate": 60,
+  "cross_check": "none",
+  "monotonic_normalised": false,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
