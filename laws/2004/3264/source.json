@@ -1,0 +1,28 @@
+{
+  "year": 2004,
+  "number": 3264,
+  "url": "https://api.et.gr/apiLAW/1/2004/3264/pdf",
+  "source_sha256": "3faec3f9880fcf3fb27a29e6dbcb4ea83c91bbb76acfd0295512acd508122e45",
+  "published": "2004-09-30",
+  "in_force": "2004-09-30",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 11 αυτής.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "028c5ae804b1186be474350677bb3c829044501184f52a0ac5a57121f3f5ea35",
+      "ext": "png",
+      "bytes": 360,
+      "bbox": [
+        44.9,
+        61.0,
+        196.7,
+        100.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
