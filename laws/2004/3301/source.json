@@ -1,0 +1,41 @@
+{
+  "year": 2004,
+  "number": 3301,
+  "url": "https://api.et.gr/apiLAW/1/2004/3301/pdf",
+  "source_sha256": "98f281f1ecb13385cb0127734b2a2e2b50fb011006b6642449036efdd4aa73e5",
+  "published": "2004-12-23",
+  "in_force": "2004-12-23",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "a724a0186d95fac839104e5e12ecf07f7cc6fd295c4da0d977a54f5f5c2d6880",
+      "ext": "png",
+      "bytes": 414,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "840f13bf8e6c757ec5d230d592f7aff80947dac01a18080d0e01d3375c5ec037",
+      "ext": "jpeg",
+      "bytes": 203622,
+      "bbox": [
+        59.9,
+        88.7,
+        530.3,
+        687.7
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
