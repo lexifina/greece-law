@@ -1,0 +1,24 @@
+{
+  "act": "ν. 1501/1984",
+  "year": 1984,
+  "number": 1501,
+  "title_ocr": "Κύρωση Συμφωνίας επιστημονικής και τεχνολογικής ovνεργασίας μεταξύ των Κυθερνήσεων της Ελληνικής 4ημοκρατίας και της Ιταλικής Δημοκρατίας.",
+  "source": "https://api.et.gr/apiLAW/1/1984/1501/pdf",
+  "source_sha256": "69c99553f9f79f9dc541f127a316c09e76deb66d013095b2fa62fc3a1a8c0272",
+  "published": "1984-11-28",
+  "in_force": "1984-11-28",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 71.9,
+  "ocr_page_confidence": [
+    69.3,
+    74.5
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "ocr_confidence_gate": 60,
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 2,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
