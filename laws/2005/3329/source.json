@@ -1,0 +1,28 @@
+{
+  "year": 2005,
+  "number": 3329,
+  "url": "https://api.et.gr/apiLAW/1/2005/3329/pdf",
+  "source_sha256": "89227dd88615769f23eb54f0ba7305456ca4e0d69b39f65dd50ade327559b45c",
+  "published": "2005-04-04",
+  "in_force": "2005-04-04",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά σε επί μέρους διατάξεις του.",
+  "in_force_general_day": true,
+  "pages": 28,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "721e58caa822f07604bd198b35c33eb3e1812e71bd5e7aeabe5837a9257787e6",
+      "ext": "png",
+      "bytes": 385,
+      "bbox": [
+        48.3,
+        73.4,
+        200.4,
+        113.9
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
