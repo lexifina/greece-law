@@ -1,0 +1,28 @@
+{
+  "act": "π.δ. 20/2001",
+  "year": 2001,
+  "number": 20,
+  "url": "https://api.et.gr/apiLAW/2/2001/20/pdf",
+  "source_sha256": "347de9dddbfc53b40fc659d42a64f4199ce4b9486dbcd93be25028aaeb06c8f1",
+  "published": "2001-02-07",
+  "in_force": "2001-02-07",
+  "in_force_basis": "Η ισχύς του παρόντος αρχίζει από τη δημοσίευση του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "a8e8c46061cccd7ff71b2424ac36d613f589cd3c2463a353d3657ad4c64be9f2",
+      "ext": "png",
+      "bytes": 384,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        97.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
