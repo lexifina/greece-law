@@ -1,0 +1,28 @@
+{
+  "year": 2001,
+  "number": 2944,
+  "url": "https://api.et.gr/apiLAW/1/2001/2944/pdf",
+  "source_sha256": "0ed6907555e0d24e744dd9f3c809feed6b3a8cc0cc1c833b00b0534be0518b80",
+  "published": "2001-10-08",
+  "in_force": "2001-10-08",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά σε επί μέρους διατάξεις.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "c9ee276f6d3f16541c11a34ddb1724233ee1a187ac1e91d9700f0061ecfd4511",
+      "ext": "png",
+      "bytes": 379,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        98.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
