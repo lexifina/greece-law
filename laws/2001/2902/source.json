@@ -1,0 +1,65 @@
+{
+  "year": 2001,
+  "number": 2902,
+  "url": "https://api.et.gr/apiLAW/1/2001/2902/pdf",
+  "source_sha256": "579809a46c40f6dd55ee9e8ac9c12437f7a3b959514bc9064ab5f1e22ca268cb",
+  "published": "2001-04-12",
+  "in_force": "2001-04-12",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 8,
+  "images": [
+    {
+      "page": 4,
+      "sha256": "eb66e00ec6159e589b6ca7cd9678f354460d2192e4313bcaea09e8510afb0e21",
+      "ext": "png",
+      "bytes": 132934,
+      "bbox": [
+        68.0,
+        94.4,
+        525.8,
+        733.9
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "6af435d9d016e54b8ca49b6983d1e8181304f6115d227b15b334c91b0365061d",
+      "ext": "png",
+      "bytes": 139053,
+      "bbox": [
+        72.8,
+        94.4,
+        515.6,
+        788.1
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "d5db28716598f9aa635e0eda091a5ce32550d6cf9d40736f7c22acac4b4d049b",
+      "ext": "png",
+      "bytes": 162300,
+      "bbox": [
+        62.2,
+        94.4,
+        535.7,
+        674.6
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "eed7347a0381c3d89e7cdb48e8d49148f7dfb1cd34dec683b0d1636253da1dbd",
+      "ext": "png",
+      "bytes": 201944,
+      "bbox": [
+        63.3,
+        94.4,
+        532.8,
+        763.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
