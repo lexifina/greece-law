@@ -1,0 +1,40 @@
+{
+  "act": "π.δ. 122/2003",
+  "year": 2003,
+  "number": 122,
+  "url": "https://api.et.gr/apiLAW/2/2003/122/pdf",
+  "source_sha256": "489f499a2ca83146836eac9b965991973d6c81cf61bc76cbd883db12e7d05ed1",
+  "published": "2003-05-08",
+  "in_force": "2003-05-08",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβέρνησης.",
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "5ffdaa9fce1eaf705421668643026bd003e0fa806f9134d0650b0c5b6bea104c",
+      "ext": "png",
+      "bytes": 381,
+      "bbox": [
+        46.7,
+        57.7,
+        196.8,
+        97.2
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "d5572dca53e27e922b54f9298cc7651496cdf50266deda3f6b0c406c864c0395",
+      "ext": "png",
+      "bytes": 93748,
+      "bbox": [
+        89.0,
+        92.5,
+        535.2,
+        775.7
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
