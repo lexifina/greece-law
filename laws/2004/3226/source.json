@@ -1,0 +1,41 @@
+{
+  "year": 2004,
+  "number": 3226,
+  "url": "https://api.et.gr/apiLAW/1/2004/3226/pdf",
+  "source_sha256": "abdb53194740336ae5375ab2d104c819ab3f7d7529aeacab02c6cfeb9589359d",
+  "published": "2004-02-04",
+  "in_force": "2004-02-04",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "79ec93687fadedbbd12f366fd4aac40e2f53b1028e3aa0ae719c01a449e2b568",
+      "ext": "png",
+      "bytes": 377,
+      "bbox": [
+        43.3,
+        66.9,
+        195.4,
+        107.4
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "cf6e1990214ca8ff5f7ddf71e039721a2b0c45e417ebee704895db1ec6a9ec12",
+      "ext": "png",
+      "bytes": 310196,
+      "bbox": [
+        57.5,
+        79.5,
+        534.9,
+        756.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: qualified commencement: Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός από το άρθρο 10, το οποίο τίθεται σε ισχύ από τις 30 Νοεμβρίου 2004."
+}
