@@ -1,0 +1,29 @@
+{
+  "act": "ν. 1867/1989",
+  "year": 1989,
+  "number": 1867,
+  "title_ocr": "Προσωπική κράτηση κατ’ εφαρμογή των διατάξεων του Κώδικος Etσπράξεως Δημοσίων Εοσόδων και άλλες διατάξεις.",
+  "source": "https://api.et.gr/apiLAW/1/1989/1867/pdf",
+  "source_sha256": "694cc9a30fd81e4f101044e3497585ef516892587e2885dfb923b51c97f6ac63",
+  "published": "1989-10-09",
+  "in_force": "1989-10-09",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος άρθρου αρχίζει από 26 Σεπτεμβρίου 1989.",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 84.6,
+  "ocr_page_confidence": [
+    87.1,
+    88.5,
+    88.2,
+    76.0,
+    85.5,
+    88.9,
+    80.5,
+    82.4
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": true,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
