@@ -1,0 +1,64 @@
+{
+  "act": "π.δ. 320/2002",
+  "year": 2002,
+  "number": 320,
+  "url": "https://api.et.gr/apiLAW/2/2002/320/pdf",
+  "source_sha256": "3e98a0106f7f27c73ae204e1c6b58113992b5ecb610abdd083c2a7a637d8c1f2",
+  "published": "2002-11-18",
+  "in_force": "2002-11-18",
+  "in_force_basis": "Η ισχύς του παρόντος Προεδρικού Διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 8,
+  "images": [
+    {
+      "page": 6,
+      "sha256": "26547255bff96afd6d0ebda9da3a2bb0c6d85b653e24ed429586a9f5298652cf",
+      "ext": "png",
+      "bytes": 93485,
+      "bbox": [
+        58.4,
+        372.6,
+        535.8,
+        715.0
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "4daa33979772bf5b35cf8660a3f56643966f9bd4fc5e2f25107c805fb44defbe",
+      "ext": "png",
+      "bytes": 99587,
+      "bbox": [
+        57.5,
+        93.2,
+        535.0,
+        435.1
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "fec7d88f0804d52476e5fdf6680eb27ca7b9712bb397407143f593783118da7f",
+      "ext": "png",
+      "bytes": 24109,
+      "bbox": [
+        57.5,
+        453.3,
+        528.6,
+        537.7
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "41cccebcd11fa400d3eef383f9b3fca0c9e3f8b1a6f60c5ce25eec6efde10617",
+      "ext": "jpeg",
+      "bytes": 103986,
+      "bbox": [
+        57.4,
+        45.2,
+        534.8,
+        729.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
