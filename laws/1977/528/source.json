@@ -1,0 +1,29 @@
+{
+  "act": "ν. 528/1977",
+  "year": 1977,
+  "number": 528,
+  "title_ocr": "Πεοὶ ἱδρύσεως ᾿ἀνωνύμου “Εταιρείας ὑπὸ τὴν ἑπώωννμία. «ΟΡΓΗΝΛΙΣΜΟΣ ΠΡΟΩΘΗΣΕΩΣ EZADQΓΩΝ Ο.Π.Ε. A.Eo.",
+  "source": "https://api.et.gr/apiLAW/1/1977/528/pdf",
+  "source_sha256": "22ea0e73e7b1429f14afbb8146a5e284a0e288a57c65e50f65b221e42b221928",
+  "published": "1977-02-03",
+  "in_force": "1977-02-03",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 78.1,
+  "ocr_page_confidence": [
+    83.3,
+    90.2,
+    80.5,
+    75.4,
+    76.4,
+    75.5,
+    73.7,
+    69.5
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "cross_check": "none",
+  "monotonic_normalised": false,
+  "pages": 8,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
