@@ -1,0 +1,40 @@
+{
+  "act": "π.δ. 12/2003",
+  "year": 2003,
+  "number": 12,
+  "url": "https://api.et.gr/apiLAW/2/2003/12/pdf",
+  "source_sha256": "fe4cddf93062fcc4aa75da4e1afc242221555fc5ad506d1bc60793bd3d60ce00",
+  "published": "2003-01-22",
+  "in_force": "2003-01-22",
+  "in_force_basis": "Η ισχύς του παρόντος διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "1f2843d3b6adca1f9e6987e8c68c5e23ea1cbe44ccc57087bf8434e29071eac4",
+      "ext": "png",
+      "bytes": 361,
+      "bbox": [
+        46.7,
+        57.7,
+        198.8,
+        98.2
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "1abb42584655d80bd0584a42af014eae7bc85b4e6e373aaa88c1ea9cda75b401",
+      "ext": "png",
+      "bytes": 134185,
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        841.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
