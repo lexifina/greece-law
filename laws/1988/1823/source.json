@@ -1,0 +1,24 @@
+{
+  "act": "ν. 1823/1988",
+  "year": 1988,
+  "number": 1823,
+  "title_ocr": "Κύρωση Συμφωνίας Ελλάδας. Αλβανίας για τη συνεργασία στον τομέα της δημόσιας υγείας",
+  "source": "https://api.et.gr/apiLAW/1/1988/1823/pdf",
+  "source_sha256": "2d572aa76828fafc2cfd145595a3f23a7287914fbcad3cea63603b2ac4781373",
+  "published": "1988-12-08",
+  "in_force": "1988-12-08",
+  "in_force_basis": "date of publication in the Gazette (OCR'd masthead), used because the commencement clause was not read mechanically: no commencement article",
+  "text": "OCR of official scan (Tesseract 5, Greek tessdata_best model in integer form + English, 300 dpi)",
+  "ocr": true,
+  "ocr_mean_confidence": 81.4,
+  "ocr_page_confidence": [
+    80.3,
+    82.6
+  ],
+  "ocr_confidence_basis": "mean Tesseract word confidence over words with a letter or digit; pages with fewer than 20 such words (blank or picture pages) are null and left out of the mean",
+  "ocr_confidence_gate": 60,
+  "cross_check": "none",
+  "monotonic_normalised": false,
+  "pages": 2,
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
