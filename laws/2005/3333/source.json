@@ -1,0 +1,41 @@
+{
+  "year": 2005,
+  "number": 3333,
+  "url": "https://api.et.gr/apiLAW/1/2005/3333/pdf",
+  "source_sha256": "bb2a6ebd8643f42d78811b1e52de44df4e54282c88a916bf821106f500c91ca4",
+  "published": "2005-04-12",
+  "in_force": "2005-04-12",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "1b945667cad3c085807cf99075837122521c13b097e33295839b19f2036dc6cc",
+      "ext": "png",
+      "bytes": 408,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "73a602aa1437f1d1706dca8062e8328c5eb13e5e58575cac157db3b44618e1f1",
+      "ext": "png",
+      "bytes": 125065,
+      "bbox": [
+        103.3,
+        73.3,
+        481.4,
+        714.3
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: qualified commencement: Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. 1026 ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ (ΤΕΥΧΟΣ ΠΡΩΤΟ) ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ (ΤΕΥ"
+}
