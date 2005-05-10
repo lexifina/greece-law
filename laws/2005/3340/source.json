@@ -1,0 +1,29 @@
+{
+  "year": 2005,
+  "number": 3340,
+  "url": "https://api.et.gr/apiLAW/1/2005/3340/pdf",
+  "source_sha256": "2195e70f8ba1c43210dd0a589bfda67ec42ccdf86b093c199d23b7e98334398f",
+  "published": "2005-05-10",
+  "in_force": "2005-05-10",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "387de671da878a70cc26c0d5ec0ca1a749b9b9a9ae8d2d2d1259082234cb98b5",
+      "ext": "png",
+      "bytes": 395,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: commencement needs act-specific reading: Η ισχύς του νόμου αυτού αρχίζει δύο μήνες από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. 2."
+}
