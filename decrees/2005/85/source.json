@@ -1,0 +1,124 @@
+{
+  "act": "π.δ. 85/2005",
+  "year": 2005,
+  "number": 85,
+  "url": "https://api.et.gr/apiLAW/2/2005/85/pdf",
+  "source_sha256": "a00b5b1a250badc5808c581c09ec54a7536b8cedff6a789ea98cb84d1d2998be",
+  "published": "2005-05-25",
+  "in_force": "2005-05-25",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 28,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "2e1d383a7aa53bf47a18a32431e6593878a95f96b11e34ffabd29ecb38e4ca99",
+      "ext": "png",
+      "bytes": 380,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    },
+    {
+      "page": 19,
+      "sha256": "cc8e29e84c085ef5d407c9cbbb8d29bacde336d2e05ce0be3e6b40d78fb7f852",
+      "ext": "png",
+      "bytes": 103633,
+      "bbox": [
+        67.5,
+        72.1,
+        519.3,
+        749.8
+      ]
+    },
+    {
+      "page": 20,
+      "sha256": "a3ff55af5e4ae0190950e1843b5fb3030417125a9cc6c237007bd80bcaf32563",
+      "ext": "png",
+      "bytes": 94913,
+      "bbox": [
+        70.8,
+        75.1,
+        524.1,
+        724.6
+      ]
+    },
+    {
+      "page": 21,
+      "sha256": "07b8f6b2aaa04bbada80192776a10e1e729fd689fd405627cc21e7fe1ed08864",
+      "ext": "png",
+      "bytes": 97582,
+      "bbox": [
+        70.8,
+        72.6,
+        521.2,
+        727.6
+      ]
+    },
+    {
+      "page": 22,
+      "sha256": "c959d45c32562756b0eb456a30df6048d2dfac7d6252fbdbb57c9220dad02ad7",
+      "ext": "png",
+      "bytes": 92366,
+      "bbox": [
+        75.0,
+        73.5,
+        523.9,
+        722.9
+      ]
+    },
+    {
+      "page": 23,
+      "sha256": "e0f233af7131a47422e7b53d6e1573f14ae925a5e0a975746d39d63338e78edd",
+      "ext": "png",
+      "bytes": 94891,
+      "bbox": [
+        73.3,
+        74.3,
+        523.7,
+        723.8
+      ]
+    },
+    {
+      "page": 24,
+      "sha256": "adf556bb5c2648c43b40c7486cbac12cc1fd98918e82e799d37fe5e1b66bee7c",
+      "ext": "png",
+      "bytes": 93089,
+      "bbox": [
+        71.7,
+        73.5,
+        522.0,
+        724.4
+      ]
+    },
+    {
+      "page": 25,
+      "sha256": "f2cdd4cf3f72044df136b6d4fff452dec1196e5c474ce7dd611a7264eab5feed",
+      "ext": "png",
+      "bytes": 94948,
+      "bbox": [
+        71.7,
+        72.6,
+        522.0,
+        723.5
+      ]
+    },
+    {
+      "page": 26,
+      "sha256": "58e296c07b84f30a25db18a1c5d851ef06fb285a6d9868216419c53aff9abc21",
+      "ext": "png",
+      "bytes": 94769,
+      "bbox": [
+        72.5,
+        73.5,
+        525.7,
+        734.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
