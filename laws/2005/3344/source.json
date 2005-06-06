@@ -1,0 +1,124 @@
+{
+  "year": 2005,
+  "number": 3344,
+  "url": "https://api.et.gr/apiLAW/1/2005/3344/pdf",
+  "source_sha256": "f8f3424d98d0c95d7504ec5f086d83742ef80122993b1387ab4394595eac488c",
+  "published": "2005-06-06",
+  "in_force": "2005-06-06",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Πρωτοκόλλου που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 19 αυτού.",
+  "in_force_general_day": true,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "07eb61343306433a29df21f8f9269e5b3dc292a785584b41eb945c9c4247ca96",
+      "ext": "png",
+      "bytes": 377,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "2447139c9f023a07855162a5410e0557601d9a67cbc77e4ed55910414a622c9c",
+      "ext": "png",
+      "bytes": 28529,
+      "bbox": [
+        196.4,
+        80.2,
+        439.9,
+        326.0
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "1d16ecf5c71728c20842afd9e93822f8ee55f1b0a692c8836868aaca9b16d642",
+      "ext": "png",
+      "bytes": 90102,
+      "bbox": [
+        77.9,
+        76.8,
+        506.3,
+        564.2
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "9b3cadd3f20e656663575feef3623ba6f8116486a85d87c11c60f2dd8c99ab28",
+      "ext": "png",
+      "bytes": 114073,
+      "bbox": [
+        77.1,
+        76.8,
+        504.3,
+        676.3
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "e120d4138384d4abd391f67f221a6615f5623ca8e74fcf413b045706c532dacf",
+      "ext": "png",
+      "bytes": 106018,
+      "bbox": [
+        81.3,
+        76.8,
+        509.7,
+        674.3
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "ddb9b7204245406a803f5f84446e55db096e13bd11f4559241312ebf117e5612",
+      "ext": "png",
+      "bytes": 102298,
+      "bbox": [
+        82.2,
+        76.8,
+        509.6,
+        679.4
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "a7840154f127b2bb1e60de0464f98b7d27c16ac893e20580dc2468aae3eed3b1",
+      "ext": "png",
+      "bytes": 119130,
+      "bbox": [
+        83.1,
+        75.0,
+        509.0,
+        674.9
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "c584cca3ca2455d771b514b3824fa6582e6670b1359d6abb4e678c659c3d86a5",
+      "ext": "png",
+      "bytes": 71067,
+      "bbox": [
+        77.1,
+        73.4,
+        503.5,
+        439.8
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "9215f1f01539373d2066ab207825a4c1a2d7cd451f57b062a6577a2a2d33d295",
+      "ext": "png",
+      "bytes": 67458,
+      "bbox": [
+        83.4,
+        73.3,
+        513.7,
+        490.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
