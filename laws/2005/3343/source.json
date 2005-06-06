@@ -1,0 +1,64 @@
+{
+  "year": 2005,
+  "number": 3343,
+  "url": "https://api.et.gr/apiLAW/1/2005/3343/pdf",
+  "source_sha256": "bf887820ae53c766899ec35bda2274b6ab577cea8ac29e4b2ad421e0467cfa88",
+  "published": "2005-06-06",
+  "in_force": "2005-06-06",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 5 αυτής.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "ac79683821d62b1d31138bb40a634c57961f79cc905c100eb47a47136ff6ad30",
+      "ext": "png",
+      "bytes": 391,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    },
+    {
+      "page": 1,
+      "sha256": "39e4c8d10156cf28e789fa478ed1eb3ae9057b949f9508cac7163bc8fab804fe",
+      "ext": "png",
+      "bytes": 5838,
+      "bbox": [
+        337.2,
+        714.9,
+        500.2,
+        755.9
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "65e52e988356afb70558693f428d9285bf8e22c2c19c3c949b1b4cb93ce18113",
+      "ext": "png",
+      "bytes": 83840,
+      "bbox": [
+        90.7,
+        74.5,
+        481.3,
+        710.3
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "9599b2f1e24bf9639122b3296a7ad9da816f72aaa6e7ab2b731922d99c49b404",
+      "ext": "png",
+      "bytes": 70199,
+      "bbox": [
+        105.2,
+        82.2,
+        502.3,
+        610.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
