@@ -1,0 +1,125 @@
+{
+  "year": 2005,
+  "number": 3350,
+  "url": "https://api.et.gr/apiLAW/1/2005/3350/pdf",
+  "source_sha256": "7adb807ccb8b328e2b915dceff73875712d24787aa06c239560029fb7a2f2f5b",
+  "published": "2005-06-23",
+  "in_force": "2005-06-23",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "1b7f3b80c947070459a3a35e04321d935930637467b2e7c88c5215ad18ae5219",
+      "ext": "png",
+      "bytes": 408,
+      "bbox": [
+        46.6,
+        65.0,
+        196.8,
+        104.5
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "64ff87fce49fb104dfbfba58988f6d5e985db2935f136815c768bd93b80fcb21",
+      "ext": "png",
+      "bytes": 320993,
+      "bbox": [
+        59.4,
+        75.6,
+        535.8,
+        756.0
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "ab49b310452c5b4fe27c7aa643095966191f3d4e232acb51a9a5bde50add2b7c",
+      "ext": "png",
+      "bytes": 253657,
+      "bbox": [
+        69.5,
+        74.1,
+        511.9,
+        756.1
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "8b54eaa70f397181aa7e3c01c74e2c7c8366eafa5b4eb2ac35f702df7262c5cb",
+      "ext": "png",
+      "bytes": 321135,
+      "bbox": [
+        73.3,
+        80.2,
+        532.0,
+        756.0
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "78e264ce29e4a6184ecad319f04172fc323524e7752f1f83ce6ea29cce7f3eec",
+      "ext": "png",
+      "bytes": 281110,
+      "bbox": [
+        75.5,
+        81.6,
+        511.7,
+        738.1
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "cd5ae254e98940af554445c195074f3b62993cd8f51382f6e56d3ed3c110a9ad",
+      "ext": "png",
+      "bytes": 272544,
+      "bbox": [
+        77.2,
+        77.9,
+        510.3,
+        756.0
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "9a2aaf2bd8179f51a9e9c01221550354c52ea4b1f9edd8b0ccbb52cfc95636fe",
+      "ext": "png",
+      "bytes": 389180,
+      "bbox": [
+        69.8,
+        75.6,
+        534.6,
+        756.0
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "08e11f725c2dcd694762d50998e178ac770b713803df8bd3f1ad74cf720c088e",
+      "ext": "png",
+      "bytes": 252362,
+      "bbox": [
+        59.4,
+        97.2,
+        525.3,
+        756.0
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "f7a5e6ef5a6e2c78ba3fba7e91bd8c7555a190d13a3336d43d51864771628f6b",
+      "ext": "png",
+      "bytes": 293565,
+      "bbox": [
+        64.7,
+        75.9,
+        529.6,
+        756.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: qualified commencement: Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας από την πλήρωση των προϋποθέσεων του άρθρου 17 αυτής."
+}
