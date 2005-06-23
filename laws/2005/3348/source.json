@@ -1,0 +1,160 @@
+{
+  "year": 2005,
+  "number": 3348,
+  "url": "https://api.et.gr/apiLAW/1/2005/3348/pdf",
+  "source_sha256": "12449da784731204e8d6da47164ddb811035b6c81407a0c47a0e8147de6d55be",
+  "published": "2005-06-23",
+  "in_force": "2005-06-23",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευση του στην Εφημερίδα της Κυβερνήσεως και της Σύμβασης που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 12 αυτής.",
+  "in_force_general_day": true,
+  "pages": 20,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "95bd13176a828c763e93546b5c153442ed638e64b2dd364f92eb3124fa8b94c4",
+      "ext": "png",
+      "bytes": 399,
+      "bbox": [
+        46.6,
+        65.0,
+        196.8,
+        103.5
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "703eb8844fa45068ec5ea44dd14844c033762857543bc8c57c0fdde05015cee8",
+      "ext": "png",
+      "bytes": 162308,
+      "bbox": [
+        58.3,
+        73.3,
+        535.8,
+        756.0
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "c95875719efd2bb18c6d325e1a2396079ab3bf1365076fbb51bf4557a35c53be",
+      "ext": "png",
+      "bytes": 120660,
+      "bbox": [
+        57.5,
+        73.3,
+        534.9,
+        756.0
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "63f47fabb5f895368bd33e12d2d3eb9de5efc3ceb722986ea9a90246141fcc09",
+      "ext": "png",
+      "bytes": 140984,
+      "bbox": [
+        58.3,
+        73.3,
+        535.8,
+        756.0
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "dcff098b7794c611be404fc2fd60a5c1da43f45497e7f28145326927a53e4ae8",
+      "ext": "png",
+      "bytes": 137818,
+      "bbox": [
+        57.5,
+        73.3,
+        534.9,
+        756.0
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "e13b4b9e9a613eaa68fd47d1985d119536b3a3b67134e7d757542dc277f58607",
+      "ext": "png",
+      "bytes": 122618,
+      "bbox": [
+        58.3,
+        73.3,
+        535.8,
+        756.0
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "156cd13b55c061a5e41488e0a28704e40c1ec4452f2b8ef92cdefaa407b0fbd7",
+      "ext": "png",
+      "bytes": 121670,
+      "bbox": [
+        57.5,
+        73.3,
+        534.9,
+        756.0
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "1a56630960e884e1025f38314fba3c398b1933d7d126e5a4f6b1cc8ce515e36c",
+      "ext": "png",
+      "bytes": 140784,
+      "bbox": [
+        58.3,
+        73.3,
+        535.8,
+        756.0
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "3042e8a440a248a93d61fa1703ca4f478c838dd466e99527fcad797865d4c97f",
+      "ext": "png",
+      "bytes": 130869,
+      "bbox": [
+        57.5,
+        73.3,
+        534.9,
+        756.0
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "c0644543ba89ee8ba8c4184d6da598e45e79a996c23bec760d83c45fb634eceb",
+      "ext": "png",
+      "bytes": 122118,
+      "bbox": [
+        58.3,
+        73.3,
+        535.8,
+        756.0
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "f4b1169157d08fedccc31cd8633a9461320f7ff9c4bed3d29890aa0db54757da",
+      "ext": "png",
+      "bytes": 101898,
+      "bbox": [
+        57.5,
+        73.3,
+        534.9,
+        756.0
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "3dcc1a5cd8d0a960f515b82c8ad28a54d6cc3c11fe628c1d42b09797e40746db",
+      "ext": "png",
+      "bytes": 88263,
+      "bbox": [
+        58.3,
+        73.3,
+        535.8,
+        756.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
