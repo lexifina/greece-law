@@ -1,0 +1,76 @@
+{
+  "act": "π.δ. 108/2005",
+  "year": 2005,
+  "number": 108,
+  "url": "https://api.et.gr/apiLAW/2/2005/108/pdf",
+  "source_sha256": "7cc3dba9fb159846448799a7278ae96d7e4eaeaebf9c26929455bef1c51a7c7a",
+  "published": "2005-06-28",
+  "in_force": "2005-06-28",
+  "in_force_basis": "Η ισχύς του παρόντος Προεδρικού Διατάγματος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "5e9b822cd1613c1f013712f85700937042ec9ae4c7c2fd86a928f1293a2d63f1",
+      "ext": "png",
+      "bytes": 380,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "4d3b6800b0251fa1b8c251719482a8bfe6f08e7645f20c0f13624866f6aa7153",
+      "ext": "png",
+      "bytes": 475570,
+      "bbox": [
+        93.1,
+        72.9,
+        501.0,
+        755.7
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "25f73e7353f76ac654c9dd25f011dffaf7eb40c9bfa9c9e981d4f7f4b7b9f654",
+      "ext": "png",
+      "bytes": 479946,
+      "bbox": [
+        79.6,
+        73.2,
+        512.9,
+        756.1
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "a85aaaf6a238c5790f28b4eca3e89c52ba6f271603c21ffa5bd0dcba89e81e6f",
+      "ext": "png",
+      "bytes": 35811,
+      "bbox": [
+        122.4,
+        123.8,
+        470.6,
+        209.9
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "b44835dd17255e7f83f1b36a2f1f54b8ebaf30d57ebe7252307cd942a32f21d6",
+      "ext": "png",
+      "bytes": 152058,
+      "bbox": [
+        96.6,
+        285.0,
+        491.3,
+        756.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
