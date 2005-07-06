@@ -1,0 +1,28 @@
+{
+  "year": 2005,
+  "number": 3369,
+  "url": "https://api.et.gr/apiLAW/1/2005/3369/pdf",
+  "source_sha256": "fd7c6c2889a06199f5bdc170d9d9e5b88714328c12d9c8332b5c260cdb457088",
+  "published": "2005-07-06",
+  "in_force": "2005-07-06",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "in_force_general_day": false,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "b95cec4665f626e29dc8a218e0e769bc2087684d0ef30e1ec4da0c7bbba077df",
+      "ext": "png",
+      "bytes": 411,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
