@@ -1,0 +1,88 @@
+{
+  "year": 2005,
+  "number": 3368,
+  "url": "https://api.et.gr/apiLAW/1/2005/3368/pdf",
+  "source_sha256": "9097a5d9719df7203705b654fa41666975354c0b9b25ab204cb50858255a88bd",
+  "published": "2005-07-06",
+  "in_force": "2005-07-06",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Μνημονίου κατανόησης και συνεργασίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 8 παρ. 1 αυτού.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "84909e475b542405ef0402ed2f3ad9702f89caca4e0aff65a8714ad9b6efd8b7",
+      "ext": "png",
+      "bytes": 379,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "d9c06f057b7659dd64a7eabe36b1c408bca73dbb0e0deac0d00bec802c006128",
+      "ext": "png",
+      "bytes": 114015,
+      "bbox": [
+        81.9,
+        73.5,
+        512.2,
+        756.0
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "b210682821ab1299149f1ad0d26c18b855bdd10aa27d1b7d1ba7408f46c4167b",
+      "ext": "png",
+      "bytes": 143749,
+      "bbox": [
+        78.5,
+        85.0,
+        509.3,
+        749.8
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "25b03d638ca4d32e152412b2e1f260fb8c62c7eb17acd190670737b4694dc993",
+      "ext": "png",
+      "bytes": 125151,
+      "bbox": [
+        82.9,
+        81.5,
+        513.7,
+        746.6
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "32d7aa87dd0e7088b545c4dbc02a352b3eb2ad39704ac4da3d995d255fd6eb64",
+      "ext": "png",
+      "bytes": 95463,
+      "bbox": [
+        82.1,
+        81.5,
+        511.7,
+        744.9
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "2bec0dfde03a1286de1fb118454e87db666aa39387a69e16f0df8e6f2cf0bd8e",
+      "ext": "png",
+      "bytes": 101025,
+      "bbox": [
+        60.6,
+        76.0,
+        529.2,
+        638.9
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
