@@ -1,0 +1,52 @@
+{
+  "year": 2005,
+  "number": 3383,
+  "url": "https://api.et.gr/apiLAW/1/2005/3383/pdf",
+  "source_sha256": "3a8a15723b85bdde0cf4d79a163aaecf61c165e3e60332fae5f98762633a3aba",
+  "published": "2005-08-19",
+  "in_force": "2005-08-19",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Μνημονίου που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 7 αυτού. 3284 ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ (ΤΕΥΧΟΣ ΠΡΩΤΟ) ΑΠΟ ΤΟ ΕΘΝΙΚΟ ΤΥΠΟΓΡΑΦΕΙΟ Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου του Κράτους.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "2b85252cd9e24cafac8becd66ff45b0b580ba12e169cda6fac25e102b9a77dbd",
+      "ext": "png",
+      "bytes": 384,
+      "bbox": [
+        57.5,
+        47.7,
+        209.7,
+        88.3
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "be97f5f41c066963a74c64706f54f5afc9b0a9df3a9f36439916dbcbe59ebad9",
+      "ext": "png",
+      "bytes": 106915,
+      "bbox": [
+        58.3,
+        71.7,
+        533.1,
+        746.5
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "d15a6751a203c04e0ddad4dc334b8ececaf95ea4bbc29a86987ee4a63f5d8cb1",
+      "ext": "png",
+      "bytes": 91623,
+      "bbox": [
+        57.5,
+        72.0,
+        527.0,
+        756.3
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
