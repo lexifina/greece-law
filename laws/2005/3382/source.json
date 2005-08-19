@@ -1,0 +1,64 @@
+{
+  "year": 2005,
+  "number": 3382,
+  "url": "https://api.et.gr/apiLAW/1/2005/3382/pdf",
+  "source_sha256": "2def4e49ad332b6d7765aef4805d5b57112e180b6bcc5895d2137f0763701417",
+  "published": "2005-08-19",
+  "in_force": "2005-08-19",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 9 αυτής. 3278 ΕΦΗΜΕΡΙΣ ΤΗΣ ΚΥΒΕΡΝΗΣΕΩΣ (ΤΕΥΧΟΣ ΠΡΩΤΟ) Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως Νόμου του Κράτους.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "5dc421e3560ee76ac80cfaf750d3056b3e9357b04622de419df203c027d8bc49",
+      "ext": "png",
+      "bytes": 390,
+      "bbox": [
+        57.5,
+        52.8,
+        209.7,
+        93.3
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "0e85646ba6635407886c8c1334063031175ea937783108dfc2b9c0a5fea8f754",
+      "ext": "png",
+      "bytes": 125206,
+      "bbox": [
+        57.5,
+        81.0,
+        534.9,
+        756.0
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "463d7ad777d689aee2ead094d6164e363e7bb523a0f18b95b1ec6f45adc70e10",
+      "ext": "png",
+      "bytes": 134195,
+      "bbox": [
+        58.3,
+        73.3,
+        535.8,
+        756.0
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "0625c28b7f6fba2bf5d88f5dc948208d47fbe9c825ec12aee5dc02e93abce172",
+      "ext": "png",
+      "bytes": 98081,
+      "bbox": [
+        57.5,
+        73.3,
+        534.9,
+        756.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
