@@ -1,0 +1,40 @@
+{
+  "act": "π.δ. 149/2005",
+  "year": 2005,
+  "number": 149,
+  "url": "https://api.et.gr/apiLAW/2/2005/149/pdf",
+  "source_sha256": "6168080ff9753da4e9c2cc7955ecbc4ac251b0594934bffd0b3f34a9257cacc9",
+  "published": "2005-08-22",
+  "in_force": "2005-08-22",
+  "in_force_basis": "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 20,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "b27e98cc24b581df8d9cc9cd60f673be42b3b6ec492e343b173cec76095eb74d",
+      "ext": "png",
+      "bytes": 398,
+      "bbox": [
+        46.6,
+        65.0,
+        195.8,
+        104.5
+      ]
+    },
+    {
+      "page": 18,
+      "sha256": "cf6fb9702e4432277d5711d949c3dbba0e9016fd6b2cd0ac4fd59da385dc13f0",
+      "ext": "png",
+      "bytes": 115364,
+      "bbox": [
+        71.8,
+        78.0,
+        526.4,
+        743.3
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: Windows-1253 codes reported as CP437 characters, decoded to Unicode; no OCR"
+}
