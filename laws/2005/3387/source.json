@@ -1,0 +1,28 @@
+{
+  "year": 2005,
+  "number": 3387,
+  "url": "https://api.et.gr/apiLAW/1/2005/3387/pdf",
+  "source_sha256": "62d159df81086cd42ff8e37c0e6bef459b55356463e284f18add8977f2f8e3af",
+  "published": "2005-09-12",
+  "in_force": "2005-09-12",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επί μέρους διατάξεις του.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "717bd3bb22d56e23621881168d0479ea0c6b7a8463929b95784f3c24e525d909",
+      "ext": "png",
+      "bytes": 400,
+      "bbox": [
+        46.6,
+        65.0,
+        198.8,
+        105.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "text_encoding": "legacy 8-bit Greek fonts: the text layer carries Windows-1253 codes reported as CP437 characters; decoded to Unicode (CP437 -> bytes -> Windows-1253); no OCR"
+}
