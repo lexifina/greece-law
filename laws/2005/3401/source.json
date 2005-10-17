@@ -1,0 +1,28 @@
+{
+  "year": 2005,
+  "number": 3401,
+  "url": "https://api.et.gr/apiLAW/1/2005/3401/pdf",
+  "source_sha256": "fc5d835b3c312766de619375a5ffd1d945f746215220ae30d0fb8108ca21eee2",
+  "published": "2005-10-17",
+  "in_force": "2005-10-17",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "c7f0cbc72e8e34c0222b21e6858470086d032e0e9793f0b429ff78c8a5bdb740",
+      "ext": "png",
+      "bytes": 418,
+      "bbox": [
+        72.5,
+        79.9,
+        224.7,
+        120.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
