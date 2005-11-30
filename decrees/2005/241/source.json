@@ -1,0 +1,51 @@
+{
+  "act": "π.δ. 241/2005",
+  "year": 2005,
+  "number": 241,
+  "url": "https://api.et.gr/apiLAW/2/2005/241/pdf",
+  "source_sha256": "150f364f08db4c9704d91e336421cd2d9f281808d2c6f58bf195b8051a76350f",
+  "published": "2005-11-30",
+  "in_force": "2005-11-30",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του διατάγματος αυτού αρχίζει από τη δημοσίευση στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "8b2c5c1934fa186cbd756fef50306c28749e31fc67f74e9f44244d8503d57b76",
+      "ext": "png",
+      "bytes": 391,
+      "bbox": [
+        72.5,
+        79.9,
+        224.7,
+        120.1
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "01e29cf89e521e67c57db609588d6441e3def7079dfc722b4a8479f2ece407c8",
+      "ext": "jpeg",
+      "bytes": 33429,
+      "bbox": [
+        111.0,
+        82.4,
+        460.6,
+        328.8
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "b46b603a463d4efda706f0fd65c847fe3086837f1cf8226567e1de1abd06f80f",
+      "ext": "jpeg",
+      "bytes": 31856,
+      "bbox": [
+        110.4,
+        330.7,
+        465.1,
+        577.9
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
