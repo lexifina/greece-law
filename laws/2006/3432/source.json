@@ -1,0 +1,39 @@
+{
+  "year": 2006,
+  "number": 3432,
+  "url": "https://api.et.gr/apiLAW/1/2006/3432/pdf",
+  "source_sha256": "17a6bd42f00ba9ce7a1fd51a15f95fff999f4f87085d26d9f0ec101ef19139af",
+  "published": "2006-02-03",
+  "in_force": "2006-02-03",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "in_force_general_day": false,
+  "pages": 16,
+  "images": [
+    {
+      "page": 8,
+      "sha256": "564e6c3ae07bc3e73b5199e8733a70878ce4cd8d66a4ed0fd4530b6a64441707",
+      "ext": "png",
+      "bytes": 387,
+      "bbox": [
+        49.2,
+        768.8,
+        184.4,
+        808.9
+      ]
+    },
+    {
+      "page": 16,
+      "sha256": "564e6c3ae07bc3e73b5199e8733a70878ce4cd8d66a4ed0fd4530b6a64441707",
+      "ext": "png",
+      "bytes": 387,
+      "bbox": [
+        48.8,
+        736.7,
+        184.0,
+        776.9
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
