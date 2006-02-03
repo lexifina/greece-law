@@ -1,0 +1,52 @@
+{
+  "year": 2006,
+  "number": 3431,
+  "url": "https://api.et.gr/apiLAW/1/2006/3431/pdf",
+  "source_sha256": "0730763f3d1986bbe36d6112a6141dcb6b1e330acc482ac528be3544ca0a3927",
+  "published": "2006-02-03",
+  "in_force": "2006-02-03",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 48,
+  "images": [
+    {
+      "page": 16,
+      "sha256": "1b84cd265bf6eef3662d379cef2d6ef727330cf75a8818ec84d1620541320b22",
+      "ext": "png",
+      "bytes": 374,
+      "bbox": [
+        49.2,
+        736.1,
+        184.4,
+        776.2
+      ]
+    },
+    {
+      "page": 45,
+      "sha256": "b007a353d08654ffae4afd1b8df275f60b01a27773350a6d911e53bb429dd925",
+      "ext": "png",
+      "bytes": 93856,
+      "bbox": [
+        83.1,
+        82.4,
+        560.6,
+        497.7
+      ]
+    },
+    {
+      "page": 48,
+      "sha256": "1b84cd265bf6eef3662d379cef2d6ef727330cf75a8818ec84d1620541320b22",
+      "ext": "png",
+      "bytes": 374,
+      "bbox": [
+        49.2,
+        766.6,
+        184.4,
+        806.8
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: qualified commencement: Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν άλλως ορίζεται."
+}
