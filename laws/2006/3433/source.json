@@ -1,0 +1,40 @@
+{
+  "year": 2006,
+  "number": 3433,
+  "url": "https://api.et.gr/apiLAW/1/2006/3433/pdf",
+  "source_sha256": "164f8959a94e4c6fba36451fb4f5feb7b567badba8a93fa7192594910e9c0429",
+  "published": "2006-02-07",
+  "in_force": "2006-02-07",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 40,
+  "images": [
+    {
+      "page": 8,
+      "sha256": "a30763332a6d5542d833c607515e6b0c39a088e5098bfa12cf32a972df8b4cb2",
+      "ext": "png",
+      "bytes": 385,
+      "bbox": [
+        48.8,
+        768.8,
+        184.0,
+        808.9
+      ]
+    },
+    {
+      "page": 40,
+      "sha256": "a30763332a6d5542d833c607515e6b0c39a088e5098bfa12cf32a972df8b4cb2",
+      "ext": "png",
+      "bytes": 385,
+      "bbox": [
+        48.8,
+        736.7,
+        184.0,
+        776.9
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: commencement needs act-specific reading: Η ισχύς του νόμου αυτού αρχίζει δύο μήνες μετά τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. 2."
+}
