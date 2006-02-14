@@ -1,0 +1,39 @@
+{
+  "year": 2006,
+  "number": 3436,
+  "url": "https://api.et.gr/apiLAW/1/2006/3436/pdf",
+  "source_sha256": "881429e94dbf1cbdb2899c9fc5dad45d9ad5b70b325a2d64f69990d723a40949",
+  "published": "2006-02-14",
+  "in_force": "2006-02-14",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 8 παράγραφος 1 αυτής.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 2,
+      "sha256": "3d19344815617406c04ea3419554bf1ac164c9e53a250123aad28113dda04dec",
+      "ext": "png",
+      "bytes": 131372,
+      "bbox": [
+        48.8,
+        198.2,
+        526.3,
+        766.6
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "3ec31e8a68069140d7119d37f9f2712759b4ffb3ae75a821386aebb6fc7f05d0",
+      "ext": "png",
+      "bytes": 110196,
+      "bbox": [
+        83.1,
+        82.4,
+        560.6,
+        766.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
