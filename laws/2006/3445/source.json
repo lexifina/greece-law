@@ -1,0 +1,51 @@
+{
+  "year": 2006,
+  "number": 3445,
+  "url": "https://api.et.gr/apiLAW/1/2006/3445/pdf",
+  "source_sha256": "12e95f73953bd3b53f44c3f71e6ff058fb5bf5ffd529d1f6384cef53c9d1ccaa",
+  "published": "2006-03-02",
+  "in_force": "2006-03-02",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 7 αυτής.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 2,
+      "sha256": "835c336f01244188652a5ac2cfb16b137fd2a64c6f5bda5ab6c8745e52a7d10c",
+      "ext": "png",
+      "bytes": 82138,
+      "bbox": [
+        49.9,
+        214.0,
+        526.3,
+        773.0
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "49d4f1c6389ef5583ec8934e8be1d2e76197f54e903cd8b52e392e4a5408a2be",
+      "ext": "png",
+      "bytes": 98960,
+      "bbox": [
+        83.1,
+        82.4,
+        560.6,
+        766.6
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "ebc1d406c12162708bae5c98aec95d36da6e63e0d301a8099736b2728f2273de",
+      "ext": "png",
+      "bytes": 70866,
+      "bbox": [
+        48.8,
+        82.4,
+        526.3,
+        464.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
