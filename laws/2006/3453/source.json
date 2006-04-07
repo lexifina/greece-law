@@ -1,0 +1,40 @@
+{
+  "year": 2006,
+  "number": 3453,
+  "url": "https://api.et.gr/apiLAW/1/2006/3453/pdf",
+  "source_sha256": "9ff9ac9f042f3b3bb3a8aa32222cdc1a786210d968c34dd190b1e21d7e917fe6",
+  "published": "2006-04-07",
+  "in_force": "2006-04-07",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 12,
+  "images": [
+    {
+      "page": 4,
+      "sha256": "9d05afbdb85525c4f7833cc0fa5ce92fb1673aece24db828f004e7dc04856d4e",
+      "ext": "png",
+      "bytes": 404,
+      "bbox": [
+        47.2,
+        772.2,
+        182.4,
+        812.3
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "9d05afbdb85525c4f7833cc0fa5ce92fb1673aece24db828f004e7dc04856d4e",
+      "ext": "png",
+      "bytes": 404,
+      "bbox": [
+        52.4,
+        736.7,
+        187.5,
+        776.9
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
