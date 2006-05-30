@@ -1,0 +1,39 @@
+{
+  "year": 2006,
+  "number": 3461,
+  "url": "https://api.et.gr/apiLAW/1/2006/3461/pdf",
+  "source_sha256": "0260f341d7eff0dc8ba86b31b0bf5c6425bc0d087ac3d253fb5640657d684934",
+  "published": "2006-05-30",
+  "in_force": "2006-05-30",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευση του στην Εφημερίδα της Κυβερνήσεως.",
+  "in_force_general_day": false,
+  "pages": 16,
+  "images": [
+    {
+      "page": 8,
+      "sha256": "d4cd97c443a8b3fe1e2211e304ef8d5a30ab0be5ce53e225fd67873a9955cdd2",
+      "ext": "png",
+      "bytes": 377,
+      "bbox": [
+        54.5,
+        770.8,
+        189.7,
+        811.0
+      ]
+    },
+    {
+      "page": 16,
+      "sha256": "d4cd97c443a8b3fe1e2211e304ef8d5a30ab0be5ce53e225fd67873a9955cdd2",
+      "ext": "png",
+      "bytes": 377,
+      "bbox": [
+        49.2,
+        737.4,
+        184.4,
+        777.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
