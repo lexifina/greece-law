@@ -1,0 +1,51 @@
+{
+  "year": 2006,
+  "number": 3483,
+  "url": "https://api.et.gr/apiLAW/1/2006/3483/pdf",
+  "source_sha256": "cd9c0f357f657f94d95f81b9bb145e9558069adc530d24085cd932fe906a7669",
+  "published": "2006-08-07",
+  "in_force": "2006-08-07",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επί μέρους διατάξεις.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 4,
+      "sha256": "0d99214a04cac0355cc07d03896e1b938b667bd38b3316fe4c88195253bda8e4",
+      "ext": "png",
+      "bytes": 233589,
+      "bbox": [
+        48.8,
+        107.9,
+        526.2,
+        725.9
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "b85512ad4d36861ad13fcb5e95f07e56f5ee09122ba2113b4f739b17c8309fdb",
+      "ext": "png",
+      "bytes": 155639,
+      "bbox": [
+        59.5,
+        87.4,
+        576.6,
+        793.8
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "093d116ebae16815d5b1944d72ce2447ef0bb0e798b2cfc0d0107c0c90be9f6d",
+      "ext": "png",
+      "bytes": 227199,
+      "bbox": [
+        48.8,
+        75.7,
+        526.3,
+        766.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
