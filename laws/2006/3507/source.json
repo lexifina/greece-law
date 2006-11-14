@@ -1,0 +1,63 @@
+{
+  "year": 2006,
+  "number": 3507,
+  "url": "https://api.et.gr/apiLAW/1/2006/3507/pdf",
+  "source_sha256": "c5739d71a49d3d895409182eb6e697daef1a8dc61af0e78d4642abc866b77e23",
+  "published": "2006-11-14",
+  "in_force": "2006-11-14",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της απόφασης που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 6 αυτής.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 3,
+      "sha256": "31db0e2d6f8d8303f3c84443577ff613fad4951ce04922530670b6c6857b232b",
+      "ext": "png",
+      "bytes": 43368,
+      "bbox": [
+        113.1,
+        85.7,
+        529.9,
+        400.1
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "90edce433a13464a567fbc73646a17e68ca6acdc9d23f2c68424c5a2658dab8d",
+      "ext": "png",
+      "bytes": 42430,
+      "bbox": [
+        80.5,
+        86.3,
+        464.2,
+        726.7
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "155b21df05db474929f4c56d9520769d86ae295d4660e5c61532ce26eddf3149",
+      "ext": "png",
+      "bytes": 36060,
+      "bbox": [
+        117.0,
+        86.3,
+        412.4,
+        735.3
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "907766cbfc64b20992ac874291b126d219208d554c6a9d654347c0c51fe278a5",
+      "ext": "png",
+      "bytes": 42303,
+      "bbox": [
+        82.6,
+        85.6,
+        464.8,
+        676.7
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
