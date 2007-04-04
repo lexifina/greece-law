@@ -1,0 +1,51 @@
+{
+  "year": 2007,
+  "number": 3553,
+  "url": "https://api.et.gr/apiLAW/1/2007/3553/pdf",
+  "source_sha256": "baf4e64937ccef1e4c70907c195c080c2bc5957e188f30e7a5439d0a949e9640",
+  "published": "2007-04-04",
+  "in_force": "2007-04-04",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 2 αυτής.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 2,
+      "sha256": "4fe7ca291277e8d3d4b0d78254a8782a488ccc2083bbfa8453494994fca2704d",
+      "ext": "png",
+      "bytes": 117814,
+      "bbox": [
+        76.5,
+        82.9,
+        500.5,
+        755.0
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "4b2e753047dbe8bc417b7b646f83a8e7702a3a70d5c343fdd451b23a36dd9e36",
+      "ext": "png",
+      "bytes": 128822,
+      "bbox": [
+        109.4,
+        82.9,
+        534.4,
+        735.8
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "ba2cb8f7a09dbe25b677652023fce18b1cf4b512b45136ae4d50c40813033e47",
+      "ext": "png",
+      "bytes": 112723,
+      "bbox": [
+        75.8,
+        83.1,
+        499.8,
+        736.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
