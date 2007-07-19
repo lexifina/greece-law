@@ -1,0 +1,39 @@
+{
+  "year": 2007,
+  "number": 3594,
+  "url": "https://api.et.gr/apiLAW/1/2007/3594/pdf",
+  "source_sha256": "2c470137f87c5c9c38d4b64ddbd7198fd69b89029acba9ec8cf59e632f3e26fa",
+  "published": "2007-07-19",
+  "in_force": "2007-07-19",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Μνημονίου που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 7 αυτού.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 2,
+      "sha256": "400f6ee8930a8520b846f59ba428947f8d9da76b82c1acf0b9b6c34df07e3831",
+      "ext": "png",
+      "bytes": 129297,
+      "bbox": [
+        48.8,
+        86.6,
+        526.3,
+        766.6
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "706e303f4144bd6b42569ada478b08c5b646ca196a244d3dfc08a0f1cedb4bd6",
+      "ext": "png",
+      "bytes": 115977,
+      "bbox": [
+        77.4,
+        84.2,
+        560.6,
+        766.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
