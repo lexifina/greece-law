@@ -1,0 +1,39 @@
+{
+  "act": "π.δ. 133/2007",
+  "year": 2007,
+  "number": 133,
+  "url": "https://api.et.gr/apiLAW/2/2007/133/pdf",
+  "source_sha256": "c30785cf56ccf1692e4c7ac94e057baabc37586f7e0e217110d20550c6779307",
+  "published": "2007-07-31",
+  "in_force": "2007-07-31",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 12,
+  "images": [
+    {
+      "page": 6,
+      "sha256": "7e195a74fb7bc336103855bcbae263f6826743d66d248766bb32deb283f68ed6",
+      "ext": "png",
+      "bytes": 707,
+      "bbox": [
+        253.7,
+        130.9,
+        321.9,
+        173.7
+      ]
+    },
+    {
+      "page": 8,
+      "sha256": "7e195a74fb7bc336103855bcbae263f6826743d66d248766bb32deb283f68ed6",
+      "ext": "png",
+      "bytes": 707,
+      "bbox": [
+        251.6,
+        87.5,
+        321.3,
+        128.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
