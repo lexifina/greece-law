@@ -1,0 +1,39 @@
+{
+  "act": "π.δ. 144/2007",
+  "year": 2007,
+  "number": 144,
+  "url": "https://api.et.gr/apiLAW/2/2007/144/pdf",
+  "source_sha256": "5d4d6fbda993948db53a075c7c3ff6d0905921b4ac676d3383c4122da69ef29f",
+  "published": "2007-08-02",
+  "in_force": "2007-08-02",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 12,
+  "images": [
+    {
+      "page": 6,
+      "sha256": "4259dc7f2e23c6a8eb7b46d14af1a69c4f6bcc2cf27eac455f4d1c5809ebad88",
+      "ext": "png",
+      "bytes": 30954,
+      "bbox": [
+        48.8,
+        84.2,
+        522.4,
+        237.0
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "7c9e2c5a5df6e3289da22581edfbf4f667dd741310a37a56a7dc8e9db4e5f0b6",
+      "ext": "png",
+      "bytes": 30816,
+      "bbox": [
+        83.0,
+        512.4,
+        559.0,
+        738.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
