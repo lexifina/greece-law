@@ -1,0 +1,28 @@
+{
+  "year": 2007,
+  "number": 3612,
+  "url": "https://api.et.gr/apiLAW/1/2007/3612/pdf",
+  "source_sha256": "40f396a545df93b6c2fc0583f7e077ce11d84a9c4526a75b5c1f5d7cbfa3261a",
+  "published": "2007-11-23",
+  "in_force": "2007-11-23",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 2,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "f8e95563896b96d64b0ae938b643ea9f6a899db0d69d2aba355833aa2e5ba3e8",
+      "ext": "png",
+      "bytes": 108159,
+      "bbox": [
+        78.9,
+        403.5,
+        561.3,
+        742.8
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
