@@ -1,0 +1,39 @@
+{
+  "year": 2007,
+  "number": 3619,
+  "url": "https://api.et.gr/apiLAW/1/2007/3619/pdf",
+  "source_sha256": "b15d5e68be2bd715b4e3f2882086d78fe866b57918696a06501348d4f668033d",
+  "published": "2007-12-06",
+  "in_force": "2007-12-06",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευση του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 6 αυτής.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 2,
+      "sha256": "66d2b66d187c8abedb939a6315e0cf5504f48be64fe9895e288f3345c8dc8978",
+      "ext": "png",
+      "bytes": 6304,
+      "bbox": [
+        59.8,
+        671.3,
+        251.6,
+        768.7
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "66d2b66d187c8abedb939a6315e0cf5504f48be64fe9895e288f3345c8dc8978",
+      "ext": "png",
+      "bytes": 6304,
+      "bbox": [
+        343.7,
+        132.8,
+        535.4,
+        230.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
