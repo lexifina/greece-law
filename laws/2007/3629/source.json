@@ -1,0 +1,40 @@
+{
+  "year": 2007,
+  "number": 3629,
+  "url": "https://api.et.gr/apiLAW/1/2007/3629/pdf",
+  "source_sha256": "60607b02dea38a89cdffe31c03c50e077dbad888fdebddfa578252167e05643d",
+  "published": "2007-12-24",
+  "in_force": "2007-12-24",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 4,
+  "images": [
+    {
+      "page": 2,
+      "sha256": "711ded07735854d5bf0975dcce6910c6080fd331afa3cc6b08e9c54d49870fa7",
+      "ext": "png",
+      "bytes": 59789,
+      "bbox": [
+        13.4,
+        127.7,
+        552.2,
+        633.2
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "98cf27bd6b127ffa03c970b6748f52229d67dbba7fcb3471f72092e2aca0e17a",
+      "ext": "png",
+      "bytes": 57043,
+      "bbox": [
+        66.1,
+        144.4,
+        587.2,
+        501.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
