@@ -1,0 +1,51 @@
+{
+  "year": 2008,
+  "number": 3645,
+  "url": "https://api.et.gr/apiLAW/1/2008/3645/pdf",
+  "source_sha256": "8ac523265db1efdfa6730a5d4c769b8238703e908a424d08df7c1acac3753d66",
+  "published": "2008-02-14",
+  "in_force": "2008-02-14",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Μνημονίου που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 6 παράγραφος (α) αυτού.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 3,
+      "sha256": "cc91866e672d43580df0647dc99f6c6c8769a02a20891a504057a9941fc021d6",
+      "ext": "png",
+      "bytes": 123179,
+      "bbox": [
+        83.1,
+        85.3,
+        560.6,
+        766.6
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "06b74904a549c2f1608bebae57b948239578d10002d25eae190e731de6c22843",
+      "ext": "png",
+      "bytes": 115513,
+      "bbox": [
+        48.8,
+        86.1,
+        526.3,
+        766.6
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "a0cdb72891cc064295cabb0f5cb57825dde9b7de5af2a604e57d99d703e6fef2",
+      "ext": "png",
+      "bytes": 90775,
+      "bbox": [
+        83.1,
+        85.5,
+        560.6,
+        766.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
