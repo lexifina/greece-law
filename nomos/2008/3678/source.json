@@ -1,0 +1,75 @@
+{
+  "year": 2008,
+  "number": 3678,
+  "url": "https://api.et.gr/apiLAW/1/2008/3678/pdf",
+  "source_sha256": "c274dbe1f5d985d469a624a8f7c2fc5bd3349a57f9e535842d56b2222879068d",
+  "published": "2008-07-11",
+  "in_force": "2008-07-11",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Μνημονίου που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 5 αυτού.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 2,
+      "sha256": "45999e3677efbdd67cad030fcf859c206d3c30f496d97ce2c961a11ee3e830c9",
+      "ext": "png",
+      "bytes": 9291,
+      "bbox": [
+        293.6,
+        326.1,
+        407.8,
+        400.2
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "147ca8243c480efc62d52c6d7d39b07145c776d2779bef9b883274cacaee07d3",
+      "ext": "png",
+      "bytes": 70826,
+      "bbox": [
+        48.8,
+        423.8,
+        526.3,
+        726.9
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "62fc1eac66e852704e0001a4083d3aa8e4a677316f1174a65d82395dadb3afa6",
+      "ext": "png",
+      "bytes": 9259,
+      "bbox": [
+        407.8,
+        326.1,
+        526.3,
+        400.7
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "faea4e227bef45480b8e806b7e1fd05e6d443082fd900852449c21a97a6521ae",
+      "ext": "png",
+      "bytes": 82036,
+      "bbox": [
+        83.1,
+        84.2,
+        560.6,
+        439.8
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "056d2ea70e3474246426138f4690ca50286b0d38075def77b96eea7fc2125659",
+      "ext": "png",
+      "bytes": 66801,
+      "bbox": [
+        85.1,
+        444.7,
+        560.6,
+        766.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
