@@ -1,0 +1,52 @@
+{
+  "year": 2008,
+  "number": 3720,
+  "url": "https://api.et.gr/apiLAW/1/2008/3720/pdf",
+  "source_sha256": "ef34576056944899b1d0b9e0973dc430f177212430098ace402a92e1bf8db0ed",
+  "published": "2008-11-26",
+  "in_force": "2008-11-26",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "a2d56d3c91c61a90d3297b37e00b1985e516f06c0ae479056d5cdab90d6bfecb",
+      "ext": "png",
+      "bytes": 44667,
+      "bbox": [
+        83.1,
+        458.5,
+        562.0,
+        666.2
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "c4c8e52486911a2d1cef6a80dbf4b3a110ad0d85f229775cc88b1c612f499b8a",
+      "ext": "png",
+      "bytes": 82810,
+      "bbox": [
+        46.7,
+        92.3,
+        527.0,
+        624.5
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "27bb721297f5a5c82d5b6de6957561277dc3280a4a39163944a66b24ac8e2c57",
+      "ext": "png",
+      "bytes": 84135,
+      "bbox": [
+        83.1,
+        91.6,
+        559.1,
+        766.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
