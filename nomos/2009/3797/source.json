@@ -1,0 +1,39 @@
+{
+  "year": 2009,
+  "number": 3797,
+  "url": "https://api.et.gr/apiLAW/1/2009/3797/pdf",
+  "source_sha256": "be1c2c1ef12923515f75ed67dafb6643447575e80dc42be2ce72132a5cda0da8",
+  "published": "2009-09-04",
+  "in_force": "2009-09-04",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και του Μνημονίου που κυρώνεται, από την πλήρωση των προϋποθέσεων του Άρθρου 6 αυτού.",
+  "in_force_general_day": true,
+  "pages": 4,
+  "images": [
+    {
+      "page": 2,
+      "sha256": "ea2e5badf658300bce4bb41ba649c754db7c13ad98d51239b45310ca178c9d06",
+      "ext": "png",
+      "bytes": 111510,
+      "bbox": [
+        48.8,
+        83.8,
+        526.3,
+        766.6
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "5817fb962d19ed84639e9463ce5a2c1163a0f38f5faf0b1b393681f0932d7417",
+      "ext": "png",
+      "bytes": 97779,
+      "bbox": [
+        83.1,
+        83.5,
+        560.6,
+        766.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
