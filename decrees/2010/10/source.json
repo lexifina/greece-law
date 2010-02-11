@@ -1,0 +1,39 @@
+{
+  "act": "π.δ. 10/2010",
+  "year": 2010,
+  "number": 10,
+  "url": "https://api.et.gr/apiLAW/2/2010/10/pdf",
+  "source_sha256": "83798f5870e29a2803874062183ebba71e0d154a8c076a3163bcb961f00fcf15",
+  "published": "2010-02-11",
+  "in_force": "2010-02-11",
+  "in_force_basis": "Η ισχύς του παρόντος διατάγματος αρχίζει από την δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 4,
+  "images": [
+    {
+      "page": 2,
+      "sha256": "e49f8dde19b59c672669e87e5290c86ad3bd5c35ae4056a8f0bfa7bf3729e5b2",
+      "ext": "png",
+      "bytes": 53431,
+      "bbox": [
+        76.5,
+        127.5,
+        499.1,
+        687.2
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "5ea3f25969d7bccb0f37496545389e4075c76ba4a8a6c7191a0a9f7564168e73",
+      "ext": "png",
+      "bytes": 22575,
+      "bbox": [
+        107.2,
+        87.4,
+        537.1,
+        479.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
