@@ -1,0 +1,76 @@
+{
+  "year": 2010,
+  "number": 3829,
+  "url": "https://api.et.gr/apiLAW/1/2010/3829/pdf",
+  "source_sha256": "7f1e70aa264875c4685ad9fcbdc95de0ce01913b02f4aaeb2dbefecc4b63f0f1",
+  "published": "2010-02-25",
+  "in_force": "2010-02-25",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "ace1ee430451d9e428aa42827fef25d4bd2b08ea60c6678d6f257cfb83320262",
+      "ext": "png",
+      "bytes": 27893,
+      "bbox": [
+        88.8,
+        429.5,
+        555.6,
+        603.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "61e360a3b8657f3d8cf60274ce13ead326f91a2cedd071744bff69fc8ae13310",
+      "ext": "png",
+      "bytes": 65297,
+      "bbox": [
+        52.4,
+        88.2,
+        523.4,
+        513.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "68e96708ed4b3a067fb364f8708cd3fe557785f01c19daa66c334d42f5b05caf",
+      "ext": "png",
+      "bytes": 26431,
+      "bbox": [
+        53.9,
+        516.5,
+        526.3,
+        714.7
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "fefdf5b1b20c17afb75496e15486883df54380c493fce163f28c8b69eadfb2e7",
+      "ext": "png",
+      "bytes": 63413,
+      "bbox": [
+        86.7,
+        86.6,
+        553.4,
+        632.0
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "06eb93a2ce8ef8b24b5d59fa02883722367b5ee3e673a5d5747a0a6b179ad968",
+      "ext": "png",
+      "bytes": 13778,
+      "bbox": [
+        85.7,
+        633.0,
+        553.9,
+        731.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
