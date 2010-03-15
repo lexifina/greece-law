@@ -1,0 +1,40 @@
+{
+  "year": 2010,
+  "number": 3833,
+  "url": "https://api.et.gr/apiLAW/1/2010/3833/pdf",
+  "source_sha256": "a65fa35d6e1363ee77939c6ec084ab9c2ced7ac38649a4789735df8a47add4e1",
+  "published": "2010-03-15",
+  "in_force": "2010-03-15",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 16,
+  "images": [
+    {
+      "page": 9,
+      "sha256": "877797ae63eda19017a3bb19d726a0494c736b3bab2c667ce2cecd6fe6c256d5",
+      "ext": "png",
+      "bytes": 191462,
+      "bbox": [
+        83.1,
+        82.2,
+        560.6,
+        766.6
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "df70d078bd41e7c4bd550f2a5f86fe9e42ee95571096abf3b1524559c206e626",
+      "ext": "png",
+      "bytes": 216417,
+      "bbox": [
+        48.8,
+        82.2,
+        526.3,
+        777.3
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
