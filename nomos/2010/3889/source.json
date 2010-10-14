@@ -1,0 +1,39 @@
+{
+  "year": 2010,
+  "number": 3889,
+  "url": "https://api.et.gr/apiLAW/1/2010/3889/pdf",
+  "source_sha256": "102596083b84a501e3c5fbfad35f386e502bc84c522ffe6c312dc7e450e12ebf",
+  "published": "2010-10-14",
+  "in_force": "2010-10-14",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά σε επί μέρους διατάξεις του.",
+  "in_force_general_day": true,
+  "pages": 24,
+  "images": [
+    {
+      "page": 19,
+      "sha256": "fc8712893614ec330b8242dcdeb8023d6cdbff7ab1282d9712ed8b17c62160f7",
+      "ext": "jpeg",
+      "bytes": 489326,
+      "bbox": [
+        88.7,
+        390.1,
+        556.6,
+        705.6
+      ]
+    },
+    {
+      "page": 20,
+      "sha256": "1a80bcf1540fa9664b4ebe06c836ae6c2cd2130195bb7c96ed32acf64d8a1399",
+      "ext": "png",
+      "bytes": 78485,
+      "bbox": [
+        53.7,
+        453.7,
+        522.7,
+        751.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
