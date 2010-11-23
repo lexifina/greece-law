@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Ι0ΨΗ-5",
+  "subject": "Παράταση προθεσμιών που ορίζονται στην παράγραφο 1 του άρθρου 58 του ν.3842/2010 και στην παράγραφο 6 του άρθρου 17 του ν.3091/2002",
+  "protocol_number": "ΠΟΛ.1158/2010",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "04",
+    "40"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2010,
+      "aa": "1810"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2010-11-16",
+  "posted": "2010-11-23",
+  "publish_timestamp_ms": 1290502143000,
+  "version_id": "a8acb58d-f9f7-45dd-8f3f-29cef53a0507",
+  "in_force": "2010-11-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%990%CE%A8%CE%97-5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%990%CE%A8%CE%97-5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%990%CE%A8%CE%97-5",
+  "listing_sha256": "e1769121fe5a6d2613278a24bdef86868a89652d988e6a738b70f892fd0d00be",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
