@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Ι0ΨΘΩΠ-Κ",
+  "subject": "Διορισμός Γενικού Γραμματέα του Υπουργείου Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων",
+  "protocol_number": "104073",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "70711"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_fektype_AEEPPE",
+      "issueyear": 2010,
+      "aa": "335"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2010-10-14",
+  "posted": "2010-11-23",
+  "publish_timestamp_ms": 1290513922000,
+  "version_id": "581570a0-2492-46aa-bb77-9b2d248bcc00",
+  "in_force": "2010-11-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%990%CE%A8%CE%98%CE%A9%CE%A0-%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%990%CE%A8%CE%98%CE%A9%CE%A0-%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%990%CE%A8%CE%98%CE%A9%CE%A0-%CE%9A",
+  "listing_sha256": "197708052bdcc5271c6ab066554036d757cfdbcf8370dab4b499cb31f00f160d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
