@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΙΦΖΗ-ΝΞ",
+  "subject": "Συμπλήρωση των διατάξεων της απόφασής μας με αριθ. ΠΟΛ 1057/11-5-2010 (ΦΕΚ 712/Β΄/26-5-2010)",
+  "protocol_number": "Δ16 1141777/ΕΞ/2010",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2010,
+      "aa": "1705"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2010-10-27",
+  "posted": "2010-12-17",
+  "publish_timestamp_ms": 1292580419000,
+  "version_id": "aae83407-fff8-4aa9-bbd6-945358837829",
+  "in_force": "2010-12-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%99%CE%A6%CE%96%CE%97-%CE%9D%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%99%CE%A6%CE%96%CE%97-%CE%9D%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%99%CE%A6%CE%96%CE%97-%CE%9D%CE%9E",
+  "listing_sha256": "3fbc1808fac718a4533270cba5daef73d30ff8df78842b5731f0bedfad3eb579",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
