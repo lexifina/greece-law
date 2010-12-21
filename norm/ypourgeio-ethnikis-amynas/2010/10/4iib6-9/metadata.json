@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΙΙΒ6-9",
+  "subject": "ΑΠΟΣΠΑΣΗ ΥΠΑΛΛΗΛΟΥ",
+  "protocol_number": "Φ. 471.33/59/10/Σ.35566//11.10.10/ΥΠΕΘΑ/ΓΕΝ/Β5-ΙΙ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2010-10-11",
+  "posted": "2010-12-21",
+  "publish_timestamp_ms": 1292919216000,
+  "version_id": "df729bc8-47bc-4b34-9810-05831a46f39c",
+  "in_force": "2010-12-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%99%CE%99%CE%926-9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%99%CE%99%CE%926-9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%99%CE%99%CE%926-9",
+  "listing_sha256": "429dacad939b5c5270faabce81add03e2fab880a538f2a7bcc18d972a05f0c70",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
