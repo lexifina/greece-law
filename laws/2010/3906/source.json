@@ -1,0 +1,28 @@
+{
+  "year": 2010,
+  "number": 3906,
+  "url": "https://api.et.gr/apiLAW/1/2010/3906/pdf",
+  "source_sha256": "21b6ab023e2f8f496343b000928dce38cdfce3850b4f09192096fc7848564cbf",
+  "published": "2010-12-23",
+  "in_force": "2010-12-23",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 2,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "17eaf660c2b151f1ef89c8aac143bd13ede2e5e9ab7889ca1312de84a15f1bbf",
+      "ext": "png",
+      "bytes": 47285,
+      "bbox": [
+        83.1,
+        417.6,
+        560.6,
+        766.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
