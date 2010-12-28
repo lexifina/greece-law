@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΙΙΕΕ2-Ν",
+  "subject": "ΕΓΚΡΙΣΗ ΔΙΑΘΕΣΗΣ ΠΙΣΤΩΣΗΣ",
+  "protocol_number": "24517",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "365",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΙΟΝΙΩΝ ΝΗΣΩΝ (ΠΑΛΑΙΑ ΚΡΑΤΙΚΗ)",
+    "category": "LOCAL_AUTHORITY"
+  },
+  "unit_ids": [
+    "70155"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2010-12-27",
+  "posted": "2010-12-28",
+  "publish_timestamp_ms": 1293523546000,
+  "version_id": "e93f5057-eac5-47a1-95bd-1314ebc623cb",
+  "in_force": "2010-12-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%99%CE%99%CE%95%CE%952-%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%99%CE%99%CE%95%CE%952-%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%99%CE%99%CE%95%CE%952-%CE%9D",
+  "listing_sha256": "1cf6d2155e45e18773c6e563ccaea45d44a22093d06bdcd5e11a9d0827cd78c1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
