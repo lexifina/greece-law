@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α9ΞΗ-Ο",
+  "subject": "Αναγνώριση της γεωγραφικής ένδειξης «Βόλου» ή «Βολιώτικο» ως συμπληρωματικής της επωνυμίας πώλησης «ούζο».",
+  "protocol_number": "3025366/3989/0029",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "60"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2010,
+      "aa": "2024"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4Α9ΞΗ-Φ"
+      }
+    ]
+  },
+  "issued": "2010-12-27",
+  "posted": "2011-01-05",
+  "publish_timestamp_ms": 1294221032000,
+  "version_id": "c748b3aa-d31a-42f5-8823-d7e27900601f",
+  "in_force": "2011-01-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%919%CE%9E%CE%97-%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%919%CE%9E%CE%97-%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%919%CE%9E%CE%97-%CE%9F",
+  "listing_sha256": "1cf6d2155e45e18773c6e563ccaea45d44a22093d06bdcd5e11a9d0827cd78c1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
