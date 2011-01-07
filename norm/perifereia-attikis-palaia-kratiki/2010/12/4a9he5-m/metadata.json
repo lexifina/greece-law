@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α9ΗΕ5-Μ",
+  "subject": "Ακύρωση της αριθμ. 120/2010 απόφασης του Διοικητικού Συμβουλίου του Δ.Σ του Δ.Λ.Τ. Αίγινας",
+  "protocol_number": "07/ΔΤΑ/9671",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "368",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΑΤΤΙΚΗΣ (ΠΑΛΑΙΑ ΚΡΑΤΙΚΗ)",
+    "category": "LOCAL_AUTHORITY"
+  },
+  "unit_ids": [
+    "70295"
+  ],
+  "thematic_category_ids": [
+    "48",
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2010-12-31",
+  "posted": "2011-01-07",
+  "publish_timestamp_ms": 1294403458000,
+  "version_id": "b711073e-f7ab-4885-8a7f-1f9e567f785d",
+  "in_force": "2011-01-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%919%CE%97%CE%955-%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%919%CE%97%CE%955-%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%919%CE%97%CE%955-%CE%9C",
+  "listing_sha256": "1170a976ca001ac53a189fc76bcfddfeadec157d9eea4c0084a45e83b4f901f8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
