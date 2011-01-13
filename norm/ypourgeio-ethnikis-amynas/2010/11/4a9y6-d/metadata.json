@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α9Υ6-Δ",
+  "subject": "Μετατάξεις 9 Μ.Υ σε Ανώτερη Κατηγορία",
+  "protocol_number": "958871",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2010,
+      "aa": "1212"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2010-11-23",
+  "posted": "2011-01-13",
+  "publish_timestamp_ms": 1294905167000,
+  "version_id": "6715d10a-8937-4656-a496-6cea38b3f863",
+  "in_force": "2011-01-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%919%CE%A56-%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%919%CE%A56-%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%919%CE%A56-%CE%94",
+  "listing_sha256": "42251aabb5cefca9c236dfd1b0c7c91c10c6a3c9cdb90bdfb00871a65cb333f4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
