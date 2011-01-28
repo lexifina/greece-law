@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΡ4Η-Ξ",
+  "subject": "ΠΑΡΟΧΗ ΟΔΗΓΙΩΝ",
+  "protocol_number": "ΔΜΒ 1014511 ΕΞ 2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "74250"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-01-27",
+  "posted": "2011-01-28",
+  "publish_timestamp_ms": 1296196557000,
+  "version_id": "4c1c09c0-7cf9-477a-a275-0361e5d64afd",
+  "in_force": "2011-01-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A14%CE%97-%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A14%CE%97-%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%A14%CE%97-%CE%9E",
+  "listing_sha256": "b946e89f3705ea05e3f8ef4b8c007832a8daeea7ba7ea117101be0c81fdbc983",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
