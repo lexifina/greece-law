@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΛΗΙΑ1-9",
+  "subject": "ΚΑΤΑΡΓΗΣΗ ΝΠ ΜΕ ΤΗΝ ΕΠΩΝΥΜΙΑ \\\"ΣΧΟΛΙΚΗ ΕΠΙΤΡΟΠΗ 4ου (ΠΡΩΗΝ 11ου) ΝΗΠΙΑΓΩΓΕΙΟΥ ΝΕΑΣ ΙΩΝΙΑΣ\\\" ΜΑΓΝΗΣΙΑΣ",
+  "protocol_number": "13619/201682",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "22896",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ (ΠΑΛΑΙΑ ΚΡΑΤΙΚΗ)",
+    "category": "LOCAL_AUTHORITY"
+  },
+  "unit_ids": [
+    "70215"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2010,
+      "aa": "2238"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2010-12-30",
+  "posted": "2011-02-09",
+  "publish_timestamp_ms": 1297234079000,
+  "version_id": "aedd9a67-bff5-4823-9d99-2ca312bee924",
+  "in_force": "2011-02-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%9B%CE%97%CE%99%CE%911-9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%9B%CE%97%CE%99%CE%911-9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%9B%CE%97%CE%99%CE%911-9",
+  "listing_sha256": "22182bd16bbca68d67beb69d72d7a46cecf7b7e9c47540be3cf672bf4a721659",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
