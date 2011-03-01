@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α1Ω6-Θ",
+  "subject": "ΕΠΑΝΑΦΟΡΑ ΣΤΗΝ ΕΝΕΡΓΕΙΑ ΕΠ.ΟΠ.",
+  "protocol_number": "144731",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70157"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2011,
+      "aa": "89"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-01-24",
+  "posted": "2011-03-01",
+  "publish_timestamp_ms": 1298970179000,
+  "version_id": "e91feed6-1fff-4fd1-88d7-b15926c42a75",
+  "in_force": "2011-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%911%CE%A96-%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%911%CE%A96-%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%911%CE%A96-%CE%98",
+  "listing_sha256": "f65916c258b8b2aa8cf3ac621c14961e3039cd0bacd5c30cbd2e7eba3457e10d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
