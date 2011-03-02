@@ -1,0 +1,63 @@
+{
+  "year": 2011,
+  "number": 3918,
+  "url": "https://api.et.gr/apiLAW/1/2011/3918/pdf",
+  "source_sha256": "b8e055f1d495d05f944ed8adfd4d52560662cc95a64b8a410658788fb8eb36bf",
+  "published": "2011-03-02",
+  "in_force": "2011-03-02",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά σε επί μέρους διατάξεις του.",
+  "in_force_general_day": true,
+  "pages": 56,
+  "images": [
+    {
+      "page": 19,
+      "sha256": "ff9b77cf3da221e7989dfc237840787833b003cd1fa806ed012e5ca554501e02",
+      "ext": "png",
+      "bytes": 32311,
+      "bbox": [
+        83.1,
+        78.1,
+        560.6,
+        305.1
+      ]
+    },
+    {
+      "page": 19,
+      "sha256": "2b5feaa223e26e89bfe384b69b9a57edb8b36128cfe5c46d7b44c58fc2e0d764",
+      "ext": "png",
+      "bytes": 47746,
+      "bbox": [
+        83.1,
+        347.2,
+        560.6,
+        766.6
+      ]
+    },
+    {
+      "page": 50,
+      "sha256": "72659efe04893b89bf1126e4425403fa251f3e8dd3927b9ce42e4822ce2007ca",
+      "ext": "png",
+      "bytes": 42639,
+      "bbox": [
+        48.8,
+        553.8,
+        488.1,
+        773.1
+      ]
+    },
+    {
+      "page": 51,
+      "sha256": "07ae1c8f8f8aec31ff7ff8696c82a41a293aa08cbab3e15d1fac6de0ccdfe50f",
+      "ext": "png",
+      "bytes": 176068,
+      "bbox": [
+        57.8,
+        83.5,
+        595.2,
+        792.8
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
