@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α11Η-Θ7",
+  "subject": ":  Σύσταση, συγκρότηση και καθορισμός αμοιβής της Ομάδας Εργασίας για το Έργο APEnet (European Archives Gateway - Internet Portal for documents and archives in Europe) του Προγράμματος eContentplus της Ευρωπαϊκής Επιτροπής (Commission of the European Communities – Directorate General Information Society and Media).",
+  "protocol_number": "2/6541/0022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_fektype_AEEPPE",
+      "issueyear": 2011,
+      "aa": "34"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-02-02",
+  "posted": "2011-03-10",
+  "publish_timestamp_ms": 1299744545000,
+  "version_id": "db40abad-b190-40c0-8d4f-88d6646aad60",
+  "in_force": "2011-03-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9111%CE%97-%CE%987",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9111%CE%97-%CE%987/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%9111%CE%97-%CE%987",
+  "listing_sha256": "a2dab2374f899af4344c817ea2818d5fa372aff7e9c41ac3cbb95a1c080335ec",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
