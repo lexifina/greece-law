@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α1ΥΗ-Γ",
+  "subject": "«Απόφαση επανέκδοσης (reopening) των τριών ειδικών ομολογιακών δανείων για\r\nτην ανάληψη από το Ελληνικό Δημόσιο οφειλών των νοσοκομείων προς τους\r\nπρομηθευτές τους, στις 24-1-2011».",
+  "protocol_number": "2/7248/0023Α",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2011,
+      "aa": "276"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-01-21",
+  "posted": "2011-03-17",
+  "publish_timestamp_ms": 1300347734000,
+  "version_id": "904583dd-623e-4583-a298-80d8a43c84c6",
+  "in_force": "2011-03-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%911%CE%A5%CE%97-%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%911%CE%A5%CE%97-%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%911%CE%A5%CE%97-%CE%93",
+  "listing_sha256": "7b7d79972a7984747ae8ed88d286a3daae74d045c71a7da979dbf1a383166045",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
