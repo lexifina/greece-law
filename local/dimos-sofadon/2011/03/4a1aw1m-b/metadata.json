@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α1ΑΩ1Μ-Β",
+  "subject": "Συζήτηση και λήψη απόφασης επί δυο θεμάτων προ ημερήσιας διάταξης",
+  "protocol_number": "4632",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6285",
+    "label": "ΔΗΜΟΣ ΣΟΦΑΔΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79873"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-03-22",
+  "posted": "2011-03-23",
+  "publish_timestamp_ms": 1300866780000,
+  "version_id": "3f28a5bc-5fd7-428a-94eb-2dda02e6009a",
+  "in_force": "2011-03-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%911%CE%91%CE%A91%CE%9C-%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%911%CE%91%CE%A91%CE%9C-%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%911%CE%91%CE%A91%CE%9C-%CE%92",
+  "listing_sha256": "6352464c9a498b51e6525fb6619a7087ae9afc85cfc88cf5a9e170f3dfedfe89",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
