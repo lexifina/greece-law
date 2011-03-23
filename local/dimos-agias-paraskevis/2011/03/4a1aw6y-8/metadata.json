@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α1ΑΩ6Υ-8",
+  "subject": "ΛΗΨΗ ΑΠΟΦΑΣΗΣ ΓΙΑ ΤΗΝ ΑΚΥΡΩΣΗ Ή ΜΗ ΤΟΥ Χ.Β.Κ 330/2010",
+  "protocol_number": "8899",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6005",
+    "label": "ΔΗΜΟΣ ΑΓΙΑΣ ΠΑΡΑΣΚΕΥΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79681"
+  ],
+  "thematic_category_ids": [],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-03-22",
+  "posted": "2011-03-23",
+  "publish_timestamp_ms": 1300868633000,
+  "version_id": "35f21442-51c5-4ea0-bf9c-7b0630b5d2c6",
+  "in_force": "2011-03-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%911%CE%91%CE%A96%CE%A5-8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%911%CE%91%CE%A96%CE%A5-8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%911%CE%91%CE%A96%CE%A5-8",
+  "listing_sha256": "6352464c9a498b51e6525fb6619a7087ae9afc85cfc88cf5a9e170f3dfedfe89",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
