@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α1Ζ7ΛΛ-ΙΣ",
+  "subject": "Έγκριση προϋπολογισμού χρήσεως 2011",
+  "protocol_number": "394",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5009",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80386"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-03-29",
+  "posted": "2011-03-29",
+  "publish_timestamp_ms": 1301399060000,
+  "version_id": "cf706734-e93d-46cb-8056-09fa198a9d77",
+  "in_force": "2011-03-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%911%CE%967%CE%9B%CE%9B-%CE%99%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%911%CE%967%CE%9B%CE%9B-%CE%99%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%911%CE%967%CE%9B%CE%9B-%CE%99%CE%A3",
+  "listing_sha256": "84bd7ca9298dd8f1537c76efeb346c297e7c8a0ffc6cffd5893dd9f85cdac7e2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
