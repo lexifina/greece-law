@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΓ9ΩΕΞ-Ν",
+  "subject": "Ορισμός Υπεύθυνου Ναυτικού - Σπαγγαλιευτικού Μουσείου Καλύμνου",
+  "protocol_number": "77",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6133",
+    "label": "ΔΗΜΟΣ ΚΑΛΥΜΝΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81323"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-04-02",
+  "posted": "2011-04-06",
+  "publish_timestamp_ms": 1302085056000,
+  "version_id": "81104e4a-8891-4bd7-bd04-c68c98122c37",
+  "in_force": "2011-04-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%939%CE%A9%CE%95%CE%9E-%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%939%CE%A9%CE%95%CE%9E-%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%939%CE%A9%CE%95%CE%9E-%CE%9D",
+  "listing_sha256": "5c5ca99cacf8c625eacf7ef9b6dbc49c5f2675fe48a7d4cf375ac65c89fef3ed",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
