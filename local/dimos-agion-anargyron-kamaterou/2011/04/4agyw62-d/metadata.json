@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΓΥΩ62-Δ",
+  "subject": "ΑΠΟΦΑΣΗ ΕΚΤΕΛΕΣΤΙΚΗΣ ΕΠΙΤΡΟΠΗΣ 21-2011",
+  "protocol_number": "21/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6009",
+    "label": "ΔΗΜΟΣ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78154"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-04-06",
+  "posted": "2011-04-19",
+  "publish_timestamp_ms": 1303207859000,
+  "version_id": "a3c319f1-038e-4c1a-8b63-ab57356f99f5",
+  "in_force": "2011-04-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%93%CE%A5%CE%A962-%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%93%CE%A5%CE%A962-%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%93%CE%A5%CE%A962-%CE%94",
+  "listing_sha256": "f932d134b2ab68a20b86d6059c91de91d56e5a22bf87f05d773cddfc7851adab",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
