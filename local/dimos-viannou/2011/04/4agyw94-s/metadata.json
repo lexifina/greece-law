@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΓΥΩ94-Σ",
+  "subject": "Απόφαση Δ.Σ. 81/2011 \\\"Διόρθωση της 57/2011 απόφασης του Δημοτικού Συμβουλίου περί: \\\"Συγχώνευσης Ν.Π.Δ.Δ. του  Δήμου Βιάννου και σύσταση νέου Ν.Π.Δ.Δ. κατά τις διατάξεις του Ν. 3852/10 (άρθρο 103 παρ. 4 του Ν. 3852/2010)\\\"",
+  "protocol_number": "3292",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6054",
+    "label": "ΔΗΜΟΣ ΒΙΑΝΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81442"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-04-19",
+  "posted": "2011-04-19",
+  "publish_timestamp_ms": 1303210319000,
+  "version_id": "cb431bb0-ebfa-4c4e-9374-c7ee4cfcb661",
+  "in_force": "2011-04-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%93%CE%A5%CE%A994-%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%93%CE%A5%CE%A994-%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%93%CE%A5%CE%A994-%CE%A3",
+  "listing_sha256": "9b8949b2ba88fe6d7231072388d415b3d9912e5fc0e32017e5fd847eb936bfd7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
