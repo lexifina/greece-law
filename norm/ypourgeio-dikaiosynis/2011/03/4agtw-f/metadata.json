@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΓΤΩ-Φ",
+  "subject": "ΜΕΤΑΘΕΣΕΙΣ ΕΙΡΗΝΟΔΙΚΩΝ, ΟΛΓΑ ΚΑΝΕΛΛΟΠΟΥΛΟΥ-ΠΕΤΡΑΚΗ, ΕΛΕΝΗ ΔΑΣΚΑΛΟΠΟΥΛΟΥ",
+  "protocol_number": "27073",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70909"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "12"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2011,
+      "aa": "255"
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-03-15",
+  "posted": "2011-04-20",
+  "publish_timestamp_ms": 1303286808000,
+  "version_id": "73b8172f-28e2-48af-a31d-04a452558142",
+  "in_force": "2011-04-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%93%CE%A4%CE%A9-%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%93%CE%A4%CE%A9-%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%93%CE%A4%CE%A9-%CE%A6",
+  "listing_sha256": "9de4b9fead44057011e5d253f253972da885db7042992492cf35ea558c19f3b3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
