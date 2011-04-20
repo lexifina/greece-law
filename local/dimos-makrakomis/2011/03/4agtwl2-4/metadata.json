@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΓΤΩΛ2-4",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜ.ΣΥΜΒΟΥΛΙΟΥ \\\"Έγκριση τεχνικού προγράμματος 2011\\\"-ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ",
+  "protocol_number": "88",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6179",
+    "label": "ΔΗΜΟΣ ΜΑΚΡΑΚΩΜΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81840"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-03-23",
+  "posted": "2011-04-20",
+  "publish_timestamp_ms": 1303287128000,
+  "version_id": "177f7869-7331-4525-abef-41b92c4d0097",
+  "in_force": "2011-04-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%93%CE%A4%CE%A9%CE%9B2-4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%93%CE%A4%CE%A9%CE%9B2-4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%93%CE%A4%CE%A9%CE%9B2-4",
+  "listing_sha256": "eb100c359e9b7a62ef1ff30cf67a283ad530570be8851ae731c700db421d6f46",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
