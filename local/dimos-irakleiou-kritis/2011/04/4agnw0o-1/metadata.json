@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΓΝΩ0Ο-1",
+  "subject": "Τριμηνιαία έκθεση εκτέλεσης προϋπολογισμού έτους 2011",
+  "protocol_number": "73/11",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81432"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-04-27",
+  "posted": "2011-04-28",
+  "publish_timestamp_ms": 1303987338000,
+  "version_id": "e85789b4-a074-4e15-9b92-cf9ea6b93c65",
+  "in_force": "2011-04-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%93%CE%9D%CE%A90%CE%9F-1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%93%CE%9D%CE%A90%CE%9F-1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%93%CE%9D%CE%A90%CE%9F-1",
+  "listing_sha256": "861e2976a7fb84c01b3c6353b58bcfe54af2e8f0423658fd6aa599a476d059cc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
