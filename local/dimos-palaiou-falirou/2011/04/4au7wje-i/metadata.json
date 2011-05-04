@@ -1,0 +1,51 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΘ7ΩΞΕ-Ι",
+  "subject": "ΕΓΚΡΙΣΗ ΟΡΩΝ ΑΝΟΙΧΤΟΥ ΔΙΑΓΩΝΙΣΜΟΥ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΚΑΥΣΙΜΩΝ ΑΥΤ/ΤΩΝ & ΜΗΧ/ΤΩΝ",
+  "protocol_number": "105/12.04.2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6232",
+    "label": "ΔΗΜΟΣ ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83226"
+  ],
+  "thematic_category_ids": [
+    "24",
+    "68"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_DDS",
+      "issueyear": 2011,
+      "aa": "125"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4Α18ΩΞΕ-Ρ"
+      },
+      {
+        "relatedDecisionsADA": "4ΑΓΝΩΞΕ-Ρ"
+      }
+    ]
+  },
+  "issued": "2011-04-21",
+  "posted": "2011-05-04",
+  "publish_timestamp_ms": 1304509556000,
+  "version_id": "75c98d06-3b7d-4278-90a3-cda0d36b7088",
+  "in_force": "2011-05-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%987%CE%A9%CE%9E%CE%95-%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%987%CE%A9%CE%9E%CE%95-%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%987%CE%A9%CE%9E%CE%95-%CE%99",
+  "listing_sha256": "badb9f03cfbe0d58ca6b5fea606fffd1fc245ea8527994f2c7126afa5a616aed",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
