@@ -1,0 +1,50 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΘΔΗ-3Ε",
+  "subject": "Τροποποίηση ΚΥΑ 2/86009/0041Γ \\\\\\\"Οργάνωση και λειτουργία της Αρχής Πιστοποίησης και της Αρχής Ελέγχου των τεσσάρων (4) Ταμείων που συστάθηκαν, ως μέρος του γενικού προγράμματος \\\\\\'Αλληλεγγύη και Διαχείριση των Μεταναστευτικών Ροών\\\\\\' της Ε.Ε. (ΦΕΚ 2509/10.12.2008, τ.Β\\\\\\')\\\\\\\"",
+  "protocol_number": "2/40113/0041Γ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "08"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2011,
+      "aa": "1012"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4ΙΙ4Η-2Ω"
+      },
+      {
+        "relatedDecisionsADA": "4ΙΦΦΗ-3Ν"
+      }
+    ]
+  },
+  "issued": "2011-05-20",
+  "posted": "2011-05-24",
+  "publish_timestamp_ms": 1306226749000,
+  "version_id": "d7f8ed63-cc66-4aaf-88ef-5df97cf54be7",
+  "in_force": "2011-05-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%98%CE%94%CE%97-3%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%98%CE%94%CE%97-3%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%98%CE%94%CE%97-3%CE%95",
+  "listing_sha256": "50f1b0d85c9082395a3093ae7925b860f3a7f09da78362932e13283420b940b0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
