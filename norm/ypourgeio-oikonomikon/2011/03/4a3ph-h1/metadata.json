@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α3ΠΗ-Η1",
+  "subject": "«Προαγορά τίτλων του Ελληνικού Δημοσίου στις 30/03/2011»",
+  "protocol_number": "2/26633/0023Α",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2011,
+      "aa": "642"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-03-28",
+  "posted": "2011-06-02",
+  "publish_timestamp_ms": 1307014456000,
+  "version_id": "e3d44c70-8cbb-4d7b-9392-f54c847a8378",
+  "in_force": "2011-06-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A0%CE%97-%CE%971",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A0%CE%97-%CE%971/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%913%CE%A0%CE%97-%CE%971",
+  "listing_sha256": "41976b62b9adef885169798604739429f9ae4d0196e301e73f0bdc11e98d96d4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
