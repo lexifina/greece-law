@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α3ΩΩΡΞ-Δ",
+  "subject": "ΣΥΓΧΩΝΕΥΣΗ ΝΟΜΙΚΩΝ ΠΡΟΣΩΠΩΝ ΔΗΜΟΣΙΟΥ ΔΙΚΑΙΟΥ ΣΥΓΧΩΝΕΥΘΕΝΤΩΝ ΟΤΑ ΚΑΙ ΣΥΣΤΑΣΗ ΝΕΟΥ ΝΠ.Δ.Δ ΚΑΤΑ ΤΙΣ ΔΙΑΤΑΞΕΙΣ ΤΟΥ Ν. 3852/10",
+  "protocol_number": "62",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6099",
+    "label": "ΔΗΜΟΣ ΖΑΓΟΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2011,
+      "aa": "786"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-03-01",
+  "posted": "2011-06-07",
+  "publish_timestamp_ms": 1307441739000,
+  "version_id": "1af46c8a-ba88-4dbe-bc03-825dc4f0554a",
+  "in_force": "2011-06-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A9%CE%A9%CE%A1%CE%9E-%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A9%CE%A9%CE%A1%CE%9E-%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%913%CE%A9%CE%A9%CE%A1%CE%9E-%CE%94",
+  "listing_sha256": "ae9b899d00f2da7eda092215ef72ea29ef4e03cffbfaab360615f357179bab82",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
