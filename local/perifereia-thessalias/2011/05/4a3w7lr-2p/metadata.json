@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α3Ω7ΛΡ-2Π",
+  "subject": "ΔΕΣΜΕΥΣΗ ΠΙΣΤΩΣΗΣ ΓΙΑ ΤΟΥΡΙΣΤΙΚΗ ΠΡΟΒΟΛΗ",
+  "protocol_number": "1939",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81793"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-05-27",
+  "posted": "2011-06-07",
+  "publish_timestamp_ms": 1307439775000,
+  "version_id": "a08bb322-9bd3-46e9-88bf-10706159070a",
+  "in_force": "2011-06-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A97%CE%9B%CE%A1-2%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A97%CE%9B%CE%A1-2%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%913%CE%A97%CE%9B%CE%A1-2%CE%A0",
+  "listing_sha256": "5cfdf9c44e38587b953fbac142fc6a9da3a2da183eab3bfcb1e0dfa979a3f240",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
