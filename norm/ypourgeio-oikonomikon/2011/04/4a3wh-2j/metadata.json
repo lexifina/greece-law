@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α3ΩΗ-2Ξ",
+  "subject": "ΤΥΠΟΣ ΚΑΙ ΠΕΡΙΕΧΟΜΕΝΟ ΤΗΣ ΟΡΙΣΤΙΚΗΣ ΔΗΛΩΣΗΣ ΑΠΟΔΟΣΗΣ ΦΟΡΟΥ ΜΙΣΘΩΤΩΝ ΥΠΗΡΕΣΙΩΝ (Φ.Μ.Υ - ΕΝΤΥΠΟ Ε12-Φ-01.015Α) ΑΠΟ ΑΜΟΙΒΕΣ ΠΟΥ ΚΑΤΑΒΛΗΘΗΚΑΝ ΣΕ ΑΞΙΩΜΑΤΙΚΟΥΣ ΚΑΙ ΜΕΛΗ ΚΑΤΩΤΕΡΟΥ ΠΛΗΡΩΜΑΤΟΣ ΠΛΟΙΟΥ.",
+  "protocol_number": "1091",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-04-26",
+  "posted": "2011-06-07",
+  "publish_timestamp_ms": 1307435027000,
+  "version_id": "9f8fd247-cd48-4750-bb2c-92009ec9fb1b",
+  "in_force": "2011-06-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A9%CE%97-2%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A9%CE%97-2%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%913%CE%A9%CE%97-2%CE%9E",
+  "listing_sha256": "abcd635393024abf55e8854afb5f7246d3752d36da501b5465a0cd0d193d5c3d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
