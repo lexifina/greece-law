@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α3ΩΗ-Φ7",
+  "subject": "Καθορισμός αμοιβής Γενικού Γραμματέα του Ελληνικού Οργανισμού Τουρισμού.",
+  "protocol_number": "2/30277/0022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_fektype_AEEPPE",
+      "issueyear": 2011,
+      "aa": "157"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-05-05",
+  "posted": "2011-06-07",
+  "publish_timestamp_ms": 1307439696000,
+  "version_id": "a3c2739f-fd70-4727-87f3-f64ef9065959",
+  "in_force": "2011-06-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A9%CE%97-%CE%A67",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A9%CE%97-%CE%A67/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%913%CE%A9%CE%97-%CE%A67",
+  "listing_sha256": "9481aff28c7c5d9d509c012d41e5b8eba3a4f821c110de150a7f18f4f61b5bb5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
