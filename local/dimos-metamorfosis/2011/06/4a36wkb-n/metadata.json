@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α36ΩΚΒ-Ν",
+  "subject": "Εγκριση Δαπανων και ψηφιση διαφορων πιστωσεων",
+  "protocol_number": "419",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6191",
+    "label": "ΔΗΜΟΣ ΜΕΤΑΜΟΡΦΩΣΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85942"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-06-02",
+  "posted": "2011-06-08",
+  "publish_timestamp_ms": 1307517249000,
+  "version_id": "0e1204c1-370a-4258-aa68-45210c58f18d",
+  "in_force": "2011-06-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9136%CE%A9%CE%9A%CE%92-%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9136%CE%A9%CE%9A%CE%92-%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%9136%CE%A9%CE%9A%CE%92-%CE%9D",
+  "listing_sha256": "690cbd0e0ce90609f44cc556d0dbddca725b60c9a87e3124f69622d8c51890a8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
