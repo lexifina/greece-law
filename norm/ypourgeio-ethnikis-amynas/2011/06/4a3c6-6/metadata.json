@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α3Ψ6-6",
+  "subject": "Αποστρατεία Αξιωματικών του Πολεμικού Ναυτικού, μετά από αίτησή τους.",
+  "protocol_number": "Φ.414.3/40/11/ Σ.26604",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2011,
+      "aa": "347"
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-06-02",
+  "posted": "2011-06-09",
+  "publish_timestamp_ms": 1307606883000,
+  "version_id": "9019e1e6-0e2d-4d02-b70e-6d4af050f718",
+  "in_force": "2011-06-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A86-6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A86-6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%913%CE%A86-6",
+  "listing_sha256": "690cbd0e0ce90609f44cc556d0dbddca725b60c9a87e3124f69622d8c51890a8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
