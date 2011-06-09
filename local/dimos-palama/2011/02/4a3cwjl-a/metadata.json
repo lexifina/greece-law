@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α3ΨΩΞΛ-Α",
+  "subject": "Συζήτηση και λήψη απόφασης σχετικά με την συγχώνευση των Κοινωφελών Επιχειρήσεων του Δήμου Παλαμά σε μία Κοινωφελή Επιχείρηση",
+  "protocol_number": "ΑΔΣ/69/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6233",
+    "label": "ΔΗΜΟΣ ΠΑΛΑΜΑ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85004"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2011,
+      "aa": "946"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-02-28",
+  "posted": "2011-06-09",
+  "publish_timestamp_ms": 1307610521000,
+  "version_id": "e9f3f25c-4878-4024-acf8-79c0b34a3b4f",
+  "in_force": "2011-06-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A8%CE%A9%CE%9E%CE%9B-%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A8%CE%A9%CE%9E%CE%9B-%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%913%CE%A8%CE%A9%CE%9E%CE%9B-%CE%91",
+  "listing_sha256": "faec8662233ed5ce4ff5f33132bc2c2d8517187e3a536f7ce7a3eb71df59323d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
