@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α39ΩΚΚ-Ξ",
+  "subject": "Περί αναμορφώσεως του δημοτικού προϋπολογισμού, οικονομικού έτους 2011, για την εγγραφή του ποσού 579.600,00 €,\r\nπροερχομένων από το Υπουργείου Εσωτερικών Αποκ/σης & Ηλ.Διακυβέρνησης , για την κάλυψη δαπανών λειτουργίας του εργοστασίου\r\nαφαλάτωσης ύδατος,σύμφωνα με τον Νόμο 2503/97.",
+  "protocol_number": "75",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6200",
+    "label": "ΔΗΜΟΣ ΜΥΚΟΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81046"
+  ],
+  "thematic_category_ids": [
+    "24",
+    "20",
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-05-31",
+  "posted": "2011-06-10",
+  "publish_timestamp_ms": 1307696369000,
+  "version_id": "01ed965d-fcef-4277-9128-eded65816dbe",
+  "in_force": "2011-06-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9139%CE%A9%CE%9A%CE%9A-%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9139%CE%A9%CE%9A%CE%9A-%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%9139%CE%A9%CE%9A%CE%9A-%CE%9E",
+  "listing_sha256": "3b2cb07061410c2da938fc4c0e7c62a56c6d8b09f7901fc017fd93f413c77fba",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
