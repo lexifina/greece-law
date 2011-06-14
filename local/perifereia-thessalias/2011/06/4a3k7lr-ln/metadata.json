@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α3Κ7ΛΡ-ΛΝ",
+  "subject": "ΔΕΣΜΕΥΣΗ ΠΙΣΤΩΣΗΣ ΓΙΑ ΜΕΤΑΚΙΝΗΣΗ",
+  "protocol_number": "2347",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81793"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-06-14",
+  "posted": "2011-06-14",
+  "publish_timestamp_ms": 1308044858000,
+  "version_id": "0e782270-6e40-4f7e-b93f-ebb435f7e4ee",
+  "in_force": "2011-06-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%9A7%CE%9B%CE%A1-%CE%9B%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%9A7%CE%9B%CE%A1-%CE%9B%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%913%CE%9A7%CE%9B%CE%A1-%CE%9B%CE%9D",
+  "listing_sha256": "80d49495f9c049f5744a7a81a52e6b7fec5727bb7eed1e4aca5f97df1b5c4f64",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
