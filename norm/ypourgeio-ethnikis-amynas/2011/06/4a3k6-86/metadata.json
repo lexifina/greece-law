@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α3Κ6-86",
+  "subject": "Απόφαση Έκδοσης Χρηματικού Εντάλματος  \r\nΠροπληρωμής ΕΥΡΩ 1.550,00 για Προμήθεια Ανταλλακτικών \r\nΠολεμικών Πλοίων και Αποστολή Εμβάσματος στον Ακόλουθο \r\nΆμυνας της Ελλάδας στο Βερολίνο.",
+  "protocol_number": "604.2.B/1/11",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "73319"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-06-09",
+  "posted": "2011-06-14",
+  "publish_timestamp_ms": 1308036871000,
+  "version_id": "b28dfa61-c21f-4c3f-b546-e9f8bd7a4c0f",
+  "in_force": "2011-06-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%9A6-86",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%9A6-86/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%913%CE%9A6-86",
+  "listing_sha256": "6450c923120c9248d850fb5789e85d9e116745736bdf0744b33e220c8ebddb2e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
