@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α31Ω62-Υ",
+  "subject": "Δημισίευση Περίληψης Διακήρυξης της Δημοπρασίας για την εκτέλεση του έργου «Καθαρισμός Ακαλύπτων Χώρων» (Α.Μ.12/11)",
+  "protocol_number": "25544",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6009",
+    "label": "ΔΗΜΟΣ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78642"
+  ],
+  "thematic_category_ids": [
+    "40",
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4ΑΘ3Ω62-Λ"
+      },
+      {
+        "relatedDecisionsADA": "4Α3ΠΩ62-Η"
+      }
+    ]
+  },
+  "issued": "2011-06-14",
+  "posted": "2011-06-16",
+  "publish_timestamp_ms": 1308213355000,
+  "version_id": "8d43f9d7-2386-4336-b6a8-a05e1d3740d1",
+  "in_force": "2011-06-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9131%CE%A962-%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9131%CE%A962-%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%9131%CE%A962-%CE%A5",
+  "listing_sha256": "80d49495f9c049f5744a7a81a52e6b7fec5727bb7eed1e4aca5f97df1b5c4f64",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
