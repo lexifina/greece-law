@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α31Ω6Α-Τ",
+  "subject": "Έγκριση Α.Π.Ε. έργων",
+  "protocol_number": "6633",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6011",
+    "label": "ΔΗΜΟΣ ΑΓΡΑΦΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84838"
+  ],
+  "thematic_category_ids": [],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-06-14",
+  "posted": "2011-06-16",
+  "publish_timestamp_ms": 1308233020000,
+  "version_id": "5ff38228-994b-4a1d-83c9-1bc89d891065",
+  "in_force": "2011-06-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9131%CE%A96%CE%91-%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9131%CE%A96%CE%91-%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%9131%CE%A96%CE%91-%CE%A4",
+  "listing_sha256": "80d49495f9c049f5744a7a81a52e6b7fec5727bb7eed1e4aca5f97df1b5c4f64",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
