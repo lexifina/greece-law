@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α31Η-ΧΜ",
+  "subject": "«Προαγορά εντόκων γραμματίων του Ελληνικού Δημοσίου με\r\nημερομηνία διακανονισμού 16/05/2011»",
+  "protocol_number": "2/37511/0023Α",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2011,
+      "aa": "964"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-05-12",
+  "posted": "2011-06-16",
+  "publish_timestamp_ms": 1308217948000,
+  "version_id": "bf1190b1-628c-42ad-952d-10fd7a4fe446",
+  "in_force": "2011-06-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9131%CE%97-%CE%A7%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9131%CE%97-%CE%A7%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%9131%CE%97-%CE%A7%CE%9C",
+  "listing_sha256": "b35d80a3b077cccc42c851bc0ab291dbaf974781774e5a29d322c5679bc6a181",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
