@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α3ΗΩΡΡ-2",
+  "subject": "Απόφαση Δημάρχου για πρόσληψη προσωπικού",
+  "protocol_number": "7547",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6095",
+    "label": "ΔΗΜΟΣ ΕΡΜΙΟΝΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81515"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-06-16",
+  "posted": "2011-06-17",
+  "publish_timestamp_ms": 1308307871000,
+  "version_id": "42a75862-e96c-4b04-87b6-fbf55a83c0af",
+  "in_force": "2011-06-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%97%CE%A9%CE%A1%CE%A1-2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%97%CE%A9%CE%A1%CE%A1-2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%913%CE%97%CE%A9%CE%A1%CE%A1-2",
+  "listing_sha256": "1fe2d0f12bc634391bec6372e2e4fa1662c79413cc8736a007cd78b4803fad49",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
