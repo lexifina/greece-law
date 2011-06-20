@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α3Φ7Λ6-Ν2",
+  "subject": "λειτουργια πρατηριων θερινο ωραριο",
+  "protocol_number": "73619/1724",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5004",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78402"
+  ],
+  "thematic_category_ids": [],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-06-20",
+  "posted": "2011-06-20",
+  "publish_timestamp_ms": 1308555751000,
+  "version_id": "f968d54e-0e46-4d05-ad1a-ccdc1ddffd85",
+  "in_force": "2011-06-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A67%CE%9B6-%CE%9D2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A67%CE%9B6-%CE%9D2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%913%CE%A67%CE%9B6-%CE%9D2",
+  "listing_sha256": "d8017f6a30d7c24a6ad1d6077ef0259dbc5d6eab130128d41c4d9868655c86a9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
