@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α3ΥΟΡ10-ΧΚ",
+  "subject": "Έγκριση της αριθμ. 20/2011 απόφασης του Δημοτικού Συμβουλίου του Δήμου Αγιάς, της αριθμ. 63/2011 απόφασης του Δημοτικού Συμβουλίου του Δήμου Κιλελέρ και της αριθμ. 156/2011 απόφασης του Δημοτικού Συμβουλίου του Δήμου Τεμπών",
+  "protocol_number": "10380/61528",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76991"
+  ],
+  "thematic_category_ids": [],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4ΑΘΞΩΗ7-Β"
+      }
+    ]
+  },
+  "issued": "2011-06-22",
+  "posted": "2011-06-23",
+  "publish_timestamp_ms": 1308823592000,
+  "version_id": "93ba40a5-980f-42b5-bf59-26323f7bfc58",
+  "in_force": "2011-06-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A5%CE%9F%CE%A110-%CE%A7%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%913%CE%A5%CE%9F%CE%A110-%CE%A7%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%913%CE%A5%CE%9F%CE%A110-%CE%A7%CE%9A",
+  "listing_sha256": "526b77f9fc70d2e551ee9ad5ebfcfe0bed4d338d7a2c5196ee36714e7327dc70",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
