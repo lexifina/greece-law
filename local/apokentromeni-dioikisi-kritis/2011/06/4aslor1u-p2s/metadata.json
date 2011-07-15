@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΣΛΟΡ1Θ-Π2Σ",
+  "subject": "Κατάργηση Νομικών Προσώπου του Δήμου Χανίων",
+  "protocol_number": "5092",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76519"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "12"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2011,
+      "aa": "1390"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-06-02",
+  "posted": "2011-07-15",
+  "publish_timestamp_ms": 1310712882000,
+  "version_id": "215391ed-af5b-4d10-bc8d-f3c0f54af7c0",
+  "in_force": "2011-07-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A3%CE%9B%CE%9F%CE%A11%CE%98-%CE%A02%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A3%CE%9B%CE%9F%CE%A11%CE%98-%CE%A02%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%A3%CE%9B%CE%9F%CE%A11%CE%98-%CE%A02%CE%A3",
+  "listing_sha256": "04ecbfd9bc0c56abe111c7f4e0dbc7a61849da019a2744138b714418f76f124e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
