@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΣ1ΩΚΠ-ΖΧΥ",
+  "subject": "Άπόφαση 196/2011 Δημοτικού Συμβουλίου \"Παράταση δωρεάν παραχώρησης στο Ν.Π.Δ.Δ. «Αγ. Παρασκευής Μεγάρων» του Κ.Φ. 195 σχεδίου Κινέττας για ανέγερση Ιερού Ναού\".",
+  "protocol_number": "196/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6188",
+    "label": "ΔΗΜΟΣ ΜΕΓΑΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80561"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-06-30",
+  "posted": "2011-07-18",
+  "publish_timestamp_ms": 1310989047000,
+  "version_id": "c04870de-db2d-49b5-9a28-1a168f867b27",
+  "in_force": "2011-07-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A31%CE%A9%CE%9A%CE%A0-%CE%96%CE%A7%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A31%CE%A9%CE%9A%CE%A0-%CE%96%CE%A7%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%A31%CE%A9%CE%9A%CE%A0-%CE%96%CE%A7%CE%A5",
+  "listing_sha256": "99a2f36c374cecec5be095db61e874d3f1f4468c543e547029652b3aafab70b3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
