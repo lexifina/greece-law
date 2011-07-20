@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΣ0ΩΛΨ-Θ5Χ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ (225/2011) ΜΕ ΘΕΜΑ : Επαναδημοπράτηση θέσης στάθμευσης κινητής καντίνας εμβαδού 40 τ.μ. στην παραλία του Χαλκού",
+  "protocol_number": "225-2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6161",
+    "label": "ΔΗΜΟΣ ΚΥΘΗΡΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83168"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-07-05",
+  "posted": "2011-07-20",
+  "publish_timestamp_ms": 1311145297000,
+  "version_id": "fe43472f-4de4-4da1-b00e-117b82e1780c",
+  "in_force": "2011-07-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A30%CE%A9%CE%9B%CE%A8-%CE%985%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A30%CE%A9%CE%9B%CE%A8-%CE%985%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%A30%CE%A9%CE%9B%CE%A8-%CE%985%CE%A7",
+  "listing_sha256": "ecc9ea3013c0ba2a06a08360c3be2b3ffc4011377b17f5779cf1f280cdb6e88d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
