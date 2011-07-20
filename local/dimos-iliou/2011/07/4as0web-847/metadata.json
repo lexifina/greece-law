@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΣ0ΩΕΒ-847",
+  "subject": "απαγόρευση στάσης και στάθμευσης όλων των οχημάτων επί της οδού Αλαμάνας από την οδό Α. Παπανδρέου έως την οδό Μεσσηνίας Ο.Τ. 565-564 (εξαιρούνται οι υδροφόρες του Δήμου).",
+  "protocol_number": "36790",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6123",
+    "label": "ΔΗΜΟΣ ΙΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78734"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4ΑΣ1ΩΕΒ-ΑΔΔ"
+      }
+    ]
+  },
+  "issued": "2011-07-18",
+  "posted": "2011-07-20",
+  "publish_timestamp_ms": 1311154294000,
+  "version_id": "ac5fbc05-0cf3-4c5c-9da7-fc323bcce535",
+  "in_force": "2011-07-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A30%CE%A9%CE%95%CE%92-847",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A30%CE%A9%CE%95%CE%92-847/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%A30%CE%A9%CE%95%CE%92-847",
+  "listing_sha256": "8d4bb8697efe62ac1acf0dfbf9f5aa67374a95592f775450daf30fc546826f4d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
