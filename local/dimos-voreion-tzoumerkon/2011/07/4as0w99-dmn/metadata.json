@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΣ0Ω99-ΔΜΝ",
+  "subject": "Έγκριση Προϋπολογισμού οικονομικού έτους 2011 Οργανισμού πολιτισμού Άθλησης και Παιδικής Μέριμνας Δήμου Βορείων Τζουμέρκων",
+  "protocol_number": "Αρ. Αποφ. Δ.Σ. 142/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6060",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΩΝ ΤΖΟΥΜΕΡΚΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4ΑΣ0ΟΚ66-ΡΓΔ"
+      },
+      {
+        "relatedDecisionsADA": "4ΑΣ0ΟΚ66-Α47"
+      }
+    ]
+  },
+  "issued": "2011-07-17",
+  "posted": "2011-07-20",
+  "publish_timestamp_ms": 1311150763000,
+  "version_id": "dc7d5724-dcf2-416c-97af-a566f631f21c",
+  "in_force": "2011-07-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A30%CE%A999-%CE%94%CE%9C%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A30%CE%A999-%CE%94%CE%9C%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%A30%CE%A999-%CE%94%CE%9C%CE%9D",
+  "listing_sha256": "39a50bfdd4309185e71bf058b2fe456021023ca8869f55eed927e01c1cf677bf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
