@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΣΦΩΞ4-9ΟΩ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ ΜΕ ΘΕΜΑ \"Υποβολή αιτήματος προς το Δήμο Καλαμάτας για την υποστήριξη του Δήμου Οιχαλίας σε θέματα Πολεοδομίας\"",
+  "protocol_number": "128/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6224",
+    "label": "ΔΗΜΟΣ ΟΙΧΑΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81458"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-06-18",
+  "posted": "2011-07-22",
+  "publish_timestamp_ms": 1311351969000,
+  "version_id": "51c4a898-4e63-4afb-a9c6-25cdea6b96ef",
+  "in_force": "2011-07-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A3%CE%A6%CE%A9%CE%9E4-9%CE%9F%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A3%CE%A6%CE%A9%CE%9E4-9%CE%9F%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%A3%CE%A6%CE%A9%CE%9E4-9%CE%9F%CE%A9",
+  "listing_sha256": "0eea864da50c906f417f9ec06bcf508716618bf06d4448027017576d0cade4cd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
