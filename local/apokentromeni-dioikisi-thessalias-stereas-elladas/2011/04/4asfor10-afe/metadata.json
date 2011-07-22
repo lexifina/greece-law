@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΣΦΟΡ10-ΑΦΕ",
+  "subject": "ΕΝΤΟΛΗ   ΜΕΤΑΚΙΝΗΣΗΣ   ΕΚΤΟΣ  ΕΔΡΑΣ",
+  "protocol_number": "16279/2747",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77647"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-04-07",
+  "posted": "2011-07-22",
+  "publish_timestamp_ms": 1311327609000,
+  "version_id": "2b54b7ce-09b1-4c30-8093-1ce82055aa41",
+  "in_force": "2011-07-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A3%CE%A6%CE%9F%CE%A110-%CE%91%CE%A6%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A3%CE%A6%CE%9F%CE%A110-%CE%91%CE%A6%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%A3%CE%A6%CE%9F%CE%A110-%CE%91%CE%A6%CE%95",
+  "listing_sha256": "ca49b985c3b828a5324818ab3a7b842dc78c729ba7c686c772b82742a7bdfb2f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
