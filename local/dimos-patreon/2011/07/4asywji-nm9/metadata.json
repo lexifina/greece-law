@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΣΥΩΞΙ-ΝΜ9",
+  "subject": "Αιτηση κατοίκων για την επισκευή της οδού Ολύμπου.",
+  "protocol_number": "17",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6241",
+    "label": "ΔΗΜΟΣ ΠΑΤΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79634"
+  ],
+  "thematic_category_ids": [
+    "68"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-07-04",
+  "posted": "2011-07-25",
+  "publish_timestamp_ms": 1311585375000,
+  "version_id": "bb8e5229-e192-4d9e-a5cb-ec3520fb3ab1",
+  "in_force": "2011-07-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A3%CE%A5%CE%A9%CE%9E%CE%99-%CE%9D%CE%9C9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A3%CE%A5%CE%A9%CE%9E%CE%99-%CE%9D%CE%9C9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%A3%CE%A5%CE%A9%CE%9E%CE%99-%CE%9D%CE%9C9",
+  "listing_sha256": "285436c5df99ab5ee89c089af2e61f1a2fee0c8d6afb4c9f38d0250f559f36d1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
