@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΣΤΗ-ΔΡΚ",
+  "subject": "α) Παράταση της προθεσμίας υποβολής της Οριστικής Δήλωσης Απόδοσης Φόρου Μισθωτών Υπηρεσιών.\r\nβ) Παράταση της προθεσμίας υποβολής της κατάστασης φορολογικής αναμόρφωσης (παραγράφου 9 του άρθρου 17 του ν.3842/2010).",
+  "protocol_number": "ΠΟΛ. 1137",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2011,
+      "aa": "1445"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-06-15",
+  "posted": "2011-07-26",
+  "publish_timestamp_ms": 1311676418000,
+  "version_id": "1e08cf66-5fc9-4863-a3d7-ad3ac01fdf80",
+  "in_force": "2011-07-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A3%CE%A4%CE%97-%CE%94%CE%A1%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A3%CE%A4%CE%97-%CE%94%CE%A1%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%A3%CE%A4%CE%97-%CE%94%CE%A1%CE%9A",
+  "listing_sha256": "c0d0ed7754d28dbf84327dcfa496ceb629d8bd0dec60493a294a1874a298baae",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
