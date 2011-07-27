@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΣ3ΩΚ9-ΣΝ9",
+  "subject": "ΑΠΟΦΑΣΗ ΠΟΛΙΤΙΣΤΙΚΩΝ ΕΚΔΗΛΩΣΕΩΝ ΔΗΜΟΥ",
+  "protocol_number": "229 ΑΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6196",
+    "label": "ΔΗΜΟΣ ΜΟΝΕΜΒΑΣΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-07-15",
+  "posted": "2011-07-27",
+  "publish_timestamp_ms": 1311756786000,
+  "version_id": "a16cd0b0-a4ae-4214-b78e-b01322d92d9a",
+  "in_force": "2011-07-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A33%CE%A9%CE%9A9-%CE%A3%CE%9D9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A33%CE%A9%CE%9A9-%CE%A3%CE%9D9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%A33%CE%A9%CE%9A9-%CE%A3%CE%9D9",
+  "listing_sha256": "9be633d407effb07e499f3aa84c0b74872c52b74b7b6eeaf28b285e402639275",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
