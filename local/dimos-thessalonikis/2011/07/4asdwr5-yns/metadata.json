@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΣΔΩΡ5-ΥΝΣ",
+  "subject": "Προϋποθέσεις παραχώρησης ειδικών θέσεων στάσης ή στάθμευσης για διάφορες κατηγορίες οχημάτων",
+  "protocol_number": "1161/2011 ΑΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80343"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4ΑΣ1ΩΡ5-ΘΘΥ"
+      }
+    ]
+  },
+  "issued": "2011-07-19",
+  "posted": "2011-07-28",
+  "publish_timestamp_ms": 1311857592000,
+  "version_id": "0e3cf986-9813-45d6-ae59-26585a7491cc",
+  "in_force": "2011-07-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A3%CE%94%CE%A9%CE%A15-%CE%A5%CE%9D%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A3%CE%94%CE%A9%CE%A15-%CE%A5%CE%9D%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%A3%CE%94%CE%A9%CE%A15-%CE%A5%CE%9D%CE%A3",
+  "listing_sha256": "02a80a26d0a4589b35530f9131f41aa3d135ade937053e191e594f1e3d406596",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
