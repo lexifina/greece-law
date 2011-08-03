@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α5ΧΩΡΦ-ΟΔΕ",
+  "subject": "ΠΕΡΙΛΗΨΗ ΔΙΑΚΗΡΥΞΗΣ ΔΗΜΟΠΡΑΣΙΑΣ ΕΡΓΟΥ:«ΕΠΙΣΚΕΥΕΣ – ΜΙΚΡΟΚΑΤΑΣΚΕΥΕΣ ΔΗΜΟΤΙΚΩΝ ΚΤΙΡΙΩΝ ΚΑΙ ΕΓΚΑΤΑΣΤΑΣΕΩΝ 2011»",
+  "protocol_number": "10235",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6104",
+    "label": "ΔΗΜΟΣ ΖΩΓΡΑΦΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79645"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_DDS",
+      "issueyear": 2011,
+      "aa": "271/22-7-2011"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-07-14",
+  "posted": "2011-08-03",
+  "publish_timestamp_ms": 1312349142000,
+  "version_id": "21abf204-6af0-45a3-b1d2-7dfa32983e12",
+  "in_force": "2011-08-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%915%CE%A7%CE%A9%CE%A1%CE%A6-%CE%9F%CE%94%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%915%CE%A7%CE%A9%CE%A1%CE%A6-%CE%9F%CE%94%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%915%CE%A7%CE%A9%CE%A1%CE%A6-%CE%9F%CE%94%CE%95",
+  "listing_sha256": "893948503d821cd21846e1987d750f30ec0e2575374387e92a737dc652a664c7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
