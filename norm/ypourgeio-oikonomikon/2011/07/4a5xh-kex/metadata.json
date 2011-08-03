@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α5ΧΗ-ΚΕΧ",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ ΕΛΕΓΚΤΗ",
+  "protocol_number": "950",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "80947"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-07-26",
+  "posted": "2011-08-03",
+  "publish_timestamp_ms": 1312364447000,
+  "version_id": "ea8cf069-2140-4839-8a45-1d0f2358733e",
+  "in_force": "2011-08-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%915%CE%A7%CE%97-%CE%9A%CE%95%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%915%CE%A7%CE%97-%CE%9A%CE%95%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%915%CE%A7%CE%97-%CE%9A%CE%95%CE%A7",
+  "listing_sha256": "2a0dba532d0af6b67408b9baf37f941d7088daa7cd2c99b9431a4f04aa079401",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
