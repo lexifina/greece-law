@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α58Ω13-ΚΡΒ",
+  "subject": "Απόφαση Δημοτικού Συμβουλίου για \"Παράταση μίσθωσης κτιρίου\"",
+  "protocol_number": "230-11",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6279",
+    "label": "ΔΗΜΟΣ ΣΚΙΑΘΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83658"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-07-29",
+  "posted": "2011-08-04",
+  "publish_timestamp_ms": 1312454422000,
+  "version_id": "f0a70512-cd1e-4679-846f-fc77cb62aaa4",
+  "in_force": "2011-08-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9158%CE%A913-%CE%9A%CE%A1%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9158%CE%A913-%CE%9A%CE%A1%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%9158%CE%A913-%CE%9A%CE%A1%CE%92",
+  "listing_sha256": "6721a87dd12a3abb13628b99e4b80a4ec331161db45ab0fa3cd3f882883e11ca",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
