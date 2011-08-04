@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α587ΛΗ-ΘΞΝ",
+  "subject": "ΣΥΣΤΑΣΗ ΕΠΙΤΡΟΠΗΣ",
+  "protocol_number": "54922/7217",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5013",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79130"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-08-02",
+  "posted": "2011-08-04",
+  "publish_timestamp_ms": 1312442311000,
+  "version_id": "f67fbd3f-4fb1-4e76-921f-bb307fe3f7a5",
+  "in_force": "2011-08-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91587%CE%9B%CE%97-%CE%98%CE%9E%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91587%CE%9B%CE%97-%CE%98%CE%9E%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91587%CE%9B%CE%97-%CE%98%CE%9E%CE%9D",
+  "listing_sha256": "84279fdecad54345822a4864682f28c7d914d9dc7837c915d3a6657a186ab1f8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
