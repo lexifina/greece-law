@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α58ΩΞΥ-378",
+  "subject": "Απόφαση πρόσληψης άμισθου Ειδικού Συμβούλου",
+  "protocol_number": "31684",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6243",
+    "label": "ΔΗΜΟΣ ΠΕΙΡΑΙΩΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82561"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-08-01",
+  "posted": "2011-08-04",
+  "publish_timestamp_ms": 1312490158000,
+  "version_id": "c7ee83f3-d792-4d3f-8ab0-1ca250c691ea",
+  "in_force": "2011-08-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9158%CE%A9%CE%9E%CE%A5-378",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9158%CE%A9%CE%9E%CE%A5-378/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%9158%CE%A9%CE%9E%CE%A5-378",
+  "listing_sha256": "021f4218add86277b0e7ad7623a8a7ed84c4be203d3491f433506ef2d214a310",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
