@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΜΒΩΛΕ-ΘΛ0",
+  "subject": "Λήψη απόφασης για την εκμίσθωση ακινήτου στην Αντιμάχεια για την κάλυψη αναγκών της Δημοτικής Κοινότητας και διαβίβαση της απόφασης στο Δημοτικό Συμβούλιο για να προβεί στις απαραίτητες ενέργειες",
+  "protocol_number": "22/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6164",
+    "label": "ΔΗΜΟΣ ΚΩ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83125"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4Α5ΧΩΛΕ-ΘΩΠ"
+      }
+    ]
+  },
+  "issued": "2011-07-26",
+  "posted": "2011-08-09",
+  "publish_timestamp_ms": 1312879090000,
+  "version_id": "9e605f74-ac13-4765-bab1-b037fdf2139f",
+  "in_force": "2011-08-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%9C%CE%92%CE%A9%CE%9B%CE%95-%CE%98%CE%9B0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%9C%CE%92%CE%A9%CE%9B%CE%95-%CE%98%CE%9B0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%9C%CE%92%CE%A9%CE%9B%CE%95-%CE%98%CE%9B0",
+  "listing_sha256": "2a0dba532d0af6b67408b9baf37f941d7088daa7cd2c99b9431a4f04aa079401",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
