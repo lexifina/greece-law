@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΜΓΟΡ1Γ-ΣΤΗ",
+  "subject": "Απαγόρευση κυνηγίου ορισμένου χρόνου",
+  "protocol_number": "25827/1199",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76549"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2011,
+      "aa": "1652"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-06-24",
+  "posted": "2011-08-23",
+  "publish_timestamp_ms": 1314073931000,
+  "version_id": "760256de-767e-4edc-80b2-c0a7908df530",
+  "in_force": "2011-08-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%9C%CE%93%CE%9F%CE%A11%CE%93-%CE%A3%CE%A4%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%9C%CE%93%CE%9F%CE%A11%CE%93-%CE%A3%CE%A4%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%9C%CE%93%CE%9F%CE%A11%CE%93-%CE%A3%CE%A4%CE%97",
+  "listing_sha256": "ee11050b7a26bac6e050629d1948909c5d36c6a1f3e94826a32c120f9faf59fd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
