@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΜΓ7Λ6-6ΕΓ",
+  "subject": "ΕΝΤΟΛΗ ΔΙΕΝΕΡΓΕΙΑΣ ΜΙΚΤΟΥ ΚΛΙΜΑΚΙΟΥ",
+  "protocol_number": "132980/8316",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5004",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78407"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-08-19",
+  "posted": "2011-08-23",
+  "publish_timestamp_ms": 1314086610000,
+  "version_id": "7da2a166-456c-4fd0-b914-bfef83e263f9",
+  "in_force": "2011-08-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%9C%CE%937%CE%9B6-6%CE%95%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%9C%CE%937%CE%9B6-6%CE%95%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%9C%CE%937%CE%9B6-6%CE%95%CE%93",
+  "listing_sha256": "0011631a4ab2b6add1343b24b0c22b45c3d6526493f15a92a7719fc9b2af9098",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
