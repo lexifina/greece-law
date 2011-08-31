@@ -1,0 +1,52 @@
+{
+  "year": 2011,
+  "number": 4003,
+  "url": "https://api.et.gr/apiLAW/1/2011/4003/pdf",
+  "source_sha256": "c5369d03697a47b0fcb1f988ada9b20b8d87dba5a49aaac5e15174fe672fc2c5",
+  "published": "2011-08-31",
+  "in_force": "2011-08-31",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 8,
+  "images": [
+    {
+      "page": 2,
+      "sha256": "bc5a1a1067339bf3dfb6c3c3ca92a49df078fd76df07abc95cb84666aa956017",
+      "ext": "png",
+      "bytes": 216069,
+      "bbox": [
+        48.8,
+        84.2,
+        526.3,
+        766.6
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "eb5daa0240dd9407fbb7a31b65e3f6eba0f5a0d92ca9f916361e04760f840496",
+      "ext": "png",
+      "bytes": 268055,
+      "bbox": [
+        83.1,
+        83.1,
+        560.6,
+        766.6
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "3b357f4b02d2dc3ea86a068a44764507f636069e00b3d9e970f64deaeed63e5a",
+      "ext": "png",
+      "bytes": 233788,
+      "bbox": [
+        48.8,
+        82.9,
+        526.3,
+        766.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή της στην Εφημερίδα της Κυβερνήσεως και του Μνημονίου που κυρώνεται "
+}
