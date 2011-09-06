@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΧ8ΩΨ9-4Ν8",
+  "subject": "Επικαιροποίηση αποφάσεων Δ.Σ. για την επανέγκριση με έκδοση Π.Δ. της Πολεοδομικής Μελέτης της περιοχής «Ελληνική Παιδεία-Βορρέ",
+  "protocol_number": "063059",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78451"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4ΑΣΔΩΨ9-ΑΓ0"
+      }
+    ]
+  },
+  "issued": "2011-09-02",
+  "posted": "2011-09-06",
+  "publish_timestamp_ms": 1315291979000,
+  "version_id": "4f697524-9401-4abc-b0b6-7f2b70eb1fab",
+  "in_force": "2011-09-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A78%CE%A9%CE%A89-4%CE%9D8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A78%CE%A9%CE%A89-4%CE%9D8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%A78%CE%A9%CE%A89-4%CE%9D8",
+  "listing_sha256": "4c780211f19c770e9f59a7a8bee8765122a2eb22164f937ab0f1e207cafadc0f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
