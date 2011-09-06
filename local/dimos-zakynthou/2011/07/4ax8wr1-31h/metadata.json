@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4ΑΧ8ΩΡ1-31Η",
+  "subject": "Απόφαση Δημοτικού Συμβουλίου αριθ. 353/2011 σχετικά με \"Συμπλήρωση της υπ.αριθ. 260/2011 απόφαση του Δημοτικού Συμβουλίου από ένα μέλος της Μειοψηφίας για κάθε Δημοτική Ενότητα  περί «Συγκρότηση Επιτροπών για τον έλεγχο των παραλίων.( αρθ.7 ΦΕΚ 792/29-4-2009 τεύχος ΄Β)».",
+  "protocol_number": "353",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6100",
+    "label": "ΔΗΜΟΣ ΖΑΚΥΝΘΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79743"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-07-21",
+  "posted": "2011-09-06",
+  "publish_timestamp_ms": 1315305939000,
+  "version_id": "058309b7-17dd-456a-9bdb-ebb14f90f927",
+  "in_force": "2011-09-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A78%CE%A9%CE%A11-31%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%91%CE%A78%CE%A9%CE%A11-31%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%91%CE%A78%CE%A9%CE%A11-31%CE%97",
+  "listing_sha256": "77d7d8f32b49d9e13018f7ae9a654c18793017477790c92ee7cf57e6f86e25f8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
