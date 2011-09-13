@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α8Ω6-ΓΒΙ",
+  "subject": "Πλαίσιο συνεργασίας των Νοσοκομείων και Κέντρων Υγείας του ΕΣΥ με τα Στρατιωτικά Νοσοκομεία και τις Υγειονομικές Υπηρεσίες των Ενόπλων\r\nΔυνάμεων",
+  "protocol_number": "83604",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70168"
+  ],
+  "thematic_category_ids": [
+    "44",
+    "04",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2011,
+      "aa": "1948"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-08-31",
+  "posted": "2011-09-13",
+  "publish_timestamp_ms": 1315916748000,
+  "version_id": "a42f62d1-70a8-47bc-9e4f-65191515c15a",
+  "in_force": "2011-09-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%918%CE%A96-%CE%93%CE%92%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%918%CE%A96-%CE%93%CE%92%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%918%CE%A96-%CE%93%CE%92%CE%99",
+  "listing_sha256": "6341ce63d36c2f0be90fdbc711cb53d06b92e17f33ecd5b2e2554ea7efb23c4d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
