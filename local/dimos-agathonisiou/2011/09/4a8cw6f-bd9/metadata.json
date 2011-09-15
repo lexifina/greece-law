@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α8ΨΩ6Φ-ΒΔ9",
+  "subject": "Διάθεση πιστώσεων προυπολογισμού οικ. έτους 2011",
+  "protocol_number": "18/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6002",
+    "label": "ΔΗΜΟΣ ΑΓΑΘΟΝΗΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86996"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-11",
+  "posted": "2011-09-15",
+  "publish_timestamp_ms": 1316086508000,
+  "version_id": "1ce7cd4e-fe40-4366-bb1c-de249441f6d2",
+  "in_force": "2011-09-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%918%CE%A8%CE%A96%CE%A6-%CE%92%CE%949",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%918%CE%A8%CE%A96%CE%A6-%CE%92%CE%949/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%918%CE%A8%CE%A96%CE%A6-%CE%92%CE%949",
+  "listing_sha256": "b103ae3db7d3de7250b6effc77f8d11a94fd9e46947f787ec81c5cd347838983",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
