@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α89ΩΕ1-9Γ8",
+  "subject": "Χορήγηση προέγκρισης άδειας λειτουργίας καντίνας στην Κουκουλά Σοφία",
+  "protocol_number": "7858",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6134",
+    "label": "ΔΗΜΟΣ ΚΑΝΤΑΝΟΥ - ΣΕΛΙΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85159"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-16",
+  "posted": "2011-09-16",
+  "publish_timestamp_ms": 1316166913000,
+  "version_id": "bdb1ae6d-05fa-4c37-a3b5-32cd7b0f96ad",
+  "in_force": "2011-09-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9189%CE%A9%CE%951-9%CE%938",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%9189%CE%A9%CE%951-9%CE%938/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%9189%CE%A9%CE%951-9%CE%938",
+  "listing_sha256": "40a61c516e93dd4d167a6026712a00fcce35d8391e0e8b16db267589388d310b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
