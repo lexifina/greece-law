@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α8ΚΩΞΙ-ΤΣΗ",
+  "subject": "322/2011 απόφαση Δημοτικού Συμβουλίου- Λήψη απόφασης για την έγκριση διενέργειας δημόσιου, φανερού, προφορικού, πλειοδοτικού διαγωνισμού, για την ενοικίαση χώρου εστίασης και αναψυχής, επί του ακινήτου (διατηρητέου κτιρίου-πρώην Αγορά Αργύρη) του Δήμου Πατρέων ευρισκομένου στην Πάτρα στη διασταύρωση των οδών Αγίου Ανδρέου, Αράτου και Καψάλη",
+  "protocol_number": "Δ.Υ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6241",
+    "label": "ΔΗΜΟΣ ΠΑΤΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82479"
+  ],
+  "thematic_category_ids": [
+    "68",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-05-25",
+  "posted": "2011-09-20",
+  "publish_timestamp_ms": 1316505892000,
+  "version_id": "fa618d39-c69d-456a-9445-3d67323d11b1",
+  "in_force": "2011-09-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%918%CE%9A%CE%A9%CE%9E%CE%99-%CE%A4%CE%A3%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%918%CE%9A%CE%A9%CE%9E%CE%99-%CE%A4%CE%A3%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%918%CE%9A%CE%A9%CE%9E%CE%99-%CE%A4%CE%A3%CE%97",
+  "listing_sha256": "f3446dbe675cf8a323b4aec4a8de8a4508a4cd50cea9f2078925a240dac67c66",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
