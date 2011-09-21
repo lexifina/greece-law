@@ -1,0 +1,76 @@
+{
+  "year": 2011,
+  "number": 4014,
+  "url": "https://api.et.gr/apiLAW/1/2011/4014/pdf",
+  "source_sha256": "ef28bc18bfea2e2406c1c48ae2b0759cb5d304cc71c3806ed0709bf7f89a7f22",
+  "published": "2011-09-21",
+  "in_force": "2011-09-21",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 36,
+  "images": [
+    {
+      "page": 32,
+      "sha256": "a260f1a478876cb9333bc0653eb0a19c7e2ae8a061ba0a01e0002a7f0ce470be",
+      "ext": "png",
+      "bytes": 147803,
+      "bbox": [
+        34.3,
+        84.3,
+        528.8,
+        775.4
+      ]
+    },
+    {
+      "page": 33,
+      "sha256": "955252de77e65f1fc9bdc1f695d03f5c56f6e17561d13e53191c721059db71c3",
+      "ext": "png",
+      "bytes": 29004,
+      "bbox": [
+        83.1,
+        80.7,
+        555.8,
+        735.9
+      ]
+    },
+    {
+      "page": 33,
+      "sha256": "0a5e98775d2e355da9fa44e2d0d4fa27c9ccd6940ccf1cf85d010fb265165cc4",
+      "ext": "png",
+      "bytes": 191924,
+      "bbox": [
+        83.6,
+        241.7,
+        540.9,
+        782.1
+      ]
+    },
+    {
+      "page": 34,
+      "sha256": "36c1f1b6296020462c0a9009ee584bd5f48789e1505d0f25f02c6647f5f08fa5",
+      "ext": "png",
+      "bytes": 234746,
+      "bbox": [
+        35.4,
+        80.9,
+        533.8,
+        742.2
+      ]
+    },
+    {
+      "page": 35,
+      "sha256": "f6ef867c085740a6be548ab6a1da45ae6ed26103ccdf67aad304c271172ba99e",
+      "ext": "png",
+      "bytes": 238714,
+      "bbox": [
+        64.2,
+        78.3,
+        564.6,
+        787.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
