@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α8ΗΩΨΧ-Β9Χ",
+  "subject": "ΣΥΓΚΡΟΤΗΣΗ ΣΕ ΣΩΜΑ",
+  "protocol_number": "7",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6049",
+    "label": "ΔΗΜΟΣ ΑΣΤΥΠΑΛΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87886"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-08-01",
+  "posted": "2011-09-23",
+  "publish_timestamp_ms": 1316772132000,
+  "version_id": "f52a897c-d6ef-46f4-bfd8-1868a742f62e",
+  "in_force": "2011-09-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%918%CE%97%CE%A9%CE%A8%CE%A7-%CE%929%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%918%CE%97%CE%A9%CE%A8%CE%A7-%CE%929%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%918%CE%97%CE%A9%CE%A8%CE%A7-%CE%929%CE%A7",
+  "listing_sha256": "021f4218add86277b0e7ad7623a8a7ed84c4be203d3491f433506ef2d214a310",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
