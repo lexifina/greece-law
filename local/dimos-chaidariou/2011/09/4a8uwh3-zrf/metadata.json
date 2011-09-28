@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α8ΘΩΗ3-ΖΡΦ",
+  "subject": "Λήψη εκ νέου απόφασης σχετικά με την απογραφή των πρώην Ν.Π.Δ.Δ. «Παιδικοί και Βρεφονηπιακοί Σταθμοί» & «Κ.Α.Π.Η.», του Δήμου μας.",
+  "protocol_number": "30769",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6313",
+    "label": "ΔΗΜΟΣ ΧΑΙΔΑΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4ΑΣΤΩΗ3-6ΟΟ"
+      },
+      {
+        "relatedDecisionsADA": "4ΑΣΒΩΗ3-ΚΝΡ"
+      },
+      {
+        "relatedDecisionsADA": "4ΑΣ3ΩΗ3-ΗΚΑ"
+      }
+    ]
+  },
+  "issued": "2011-09-26",
+  "posted": "2011-09-28",
+  "publish_timestamp_ms": 1317200308000,
+  "version_id": "a40b08a4-c339-45b2-a66a-fac2a5de85fa",
+  "in_force": "2011-09-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%918%CE%98%CE%A9%CE%973-%CE%96%CE%A1%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%918%CE%98%CE%A9%CE%973-%CE%96%CE%A1%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%918%CE%98%CE%A9%CE%973-%CE%96%CE%A1%CE%A6",
+  "listing_sha256": "ac75d38c2c5a92c8c6352ac12e48dced81faee5e0f9cc8df23d2c4dfe91a20af",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
