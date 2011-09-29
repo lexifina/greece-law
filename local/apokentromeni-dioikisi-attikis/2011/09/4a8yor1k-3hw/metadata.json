@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α8ΥΟΡ1Κ-3ΗΩ",
+  "subject": "ΔΑΣΙΚΗ ΑΠΑΓΟΡΕΥΤΙΚΗ ΔΙΑΤΑΞΗ",
+  "protocol_number": "3673",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50196",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΤΤΙΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76327"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_D",
+      "issueyear": 2011,
+      "aa": "164"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-23",
+  "posted": "2011-09-29",
+  "publish_timestamp_ms": 1317293123000,
+  "version_id": "2d298331-c0f1-4329-a3fe-7ddbbcf378a4",
+  "in_force": "2011-09-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%918%CE%A5%CE%9F%CE%A11%CE%9A-3%CE%97%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%918%CE%A5%CE%9F%CE%A11%CE%9A-3%CE%97%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%918%CE%A5%CE%9F%CE%A11%CE%9A-3%CE%97%CE%A9",
+  "listing_sha256": "8d9725b7402280bc41a08c283cdbfc8d89338c64a34c9583602aa190bf808678",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
