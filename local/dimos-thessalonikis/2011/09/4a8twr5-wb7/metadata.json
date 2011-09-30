@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α8ΤΩΡ5-ΩΒ7",
+  "subject": "Εγκρίνει ομόφωνα την επαναδιατύπωση της υπ’ αρ. 1161/19-7-2011 ΑΔΣ που αφορά στις προϋποθέσεις παραχώρησης ειδικών θέσεων στάσης ή στάθμευσης για διάφορες κατηγορίες οχημάτων, σύμφωνα με το υπ’ αρ. 51476/8-9-2011 έγγραφο της Αποκεντρωμένης Διοίκησης Μακεδονίας – Θράκης.",
+  "protocol_number": "1351/2011 ΑΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80343"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4ΑΣ1ΩΡ5-ΘΘΥ"
+      },
+      {
+        "relatedDecisionsADA": "4ΑΣΔΩΡ5-ΥΝΣ"
+      }
+    ]
+  },
+  "issued": "2011-09-22",
+  "posted": "2011-09-30",
+  "publish_timestamp_ms": 1317367734000,
+  "version_id": "dd413af8-2365-42fc-bf1e-8d6800dfa396",
+  "in_force": "2011-09-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%918%CE%A4%CE%A9%CE%A15-%CE%A9%CE%927",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%918%CE%A4%CE%A9%CE%A15-%CE%A9%CE%927/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%918%CE%A4%CE%A9%CE%A15-%CE%A9%CE%927",
+  "listing_sha256": "68e780c2fbb0c1e89ab3f273aab80be614c7e843004feac7d91d1b7fec607051",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
