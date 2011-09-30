@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4Α8Τ7ΛΗ-Ω29",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ",
+  "protocol_number": "Φ.Α/50",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5013",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "87548"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-28",
+  "posted": "2011-09-30",
+  "publish_timestamp_ms": 1317381521000,
+  "version_id": "de7a131f-84e5-406e-b879-583f9b06c0fc",
+  "in_force": "2011-09-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4%CE%918%CE%A47%CE%9B%CE%97-%CE%A929",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4%CE%918%CE%A47%CE%9B%CE%97-%CE%A929/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4%CE%918%CE%A47%CE%9B%CE%97-%CE%A929",
+  "listing_sha256": "ca8630f398757864b9545cf84c1eab099e5553c716a4835e9d05a6c36a92c6fb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
