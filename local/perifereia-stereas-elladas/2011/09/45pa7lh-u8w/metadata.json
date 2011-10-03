@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΠΑ7ΛΗ-Θ8Ω",
+  "subject": "ΑΔΕΙΑ ΜΕΤΑΦΟΡΑΣ",
+  "protocol_number": "3502",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5013",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79148"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-28",
+  "posted": "2011-10-03",
+  "publish_timestamp_ms": 1317634578000,
+  "version_id": "b789da8e-8195-4acf-a9d0-6e790cd2107f",
+  "in_force": "2011-10-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A0%CE%917%CE%9B%CE%97-%CE%988%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A0%CE%917%CE%9B%CE%97-%CE%988%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A0%CE%917%CE%9B%CE%97-%CE%988%CE%A9",
+  "listing_sha256": "f1cf12d52f9435772d83ffc6a0cbb2e4c9fe8adcb62f4df437de50145fd46609",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
