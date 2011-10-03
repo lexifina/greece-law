@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΠΑΩΕΦ-ΥΝΜ",
+  "subject": "ΕΤΗΣΙΕΣ ΑΠΟΔΟΧΕΣ  ΠΡΟΣΩΠΙΚΟΥ  ΟΡΙΣΜΕΝΟΥ ΧΡΟΝΟΥ ΥΔΡΕΥΣΗΣ - ΑΠΟΧΕΤΕΥΣΗΣ\r\nΕΡΓΟΔΟΤΙΚΕΣ ΕΙΣΦΟΡΕΣ ΙΚΑ - ΤΕΑΜ",
+  "protocol_number": "Δ.Υ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6138",
+    "label": "ΔΗΜΟΣ ΚΑΡΥΣΤΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81137"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-03",
+  "posted": "2011-10-03",
+  "publish_timestamp_ms": 1317638592000,
+  "version_id": "d4f2eedb-3a0b-4c50-add1-b6d63ad924c2",
+  "in_force": "2011-10-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A0%CE%91%CE%A9%CE%95%CE%A6-%CE%A5%CE%9D%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A0%CE%91%CE%A9%CE%95%CE%A6-%CE%A5%CE%9D%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A0%CE%91%CE%A9%CE%95%CE%A6-%CE%A5%CE%9D%CE%9C",
+  "listing_sha256": "a5d4e1e2c931659add7d72ab27f030593b54db272d9e6661cf2f12fcf145d791",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
