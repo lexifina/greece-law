@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΠΑΩ0Ο-4ΧΜ",
+  "subject": "Έγκριση διάθεσης πίστωσης για ενταλματοποίηση δαπανών παρελθόντος οικ. έτους.",
+  "protocol_number": "680/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81430"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-26",
+  "posted": "2011-10-03",
+  "publish_timestamp_ms": 1317636075000,
+  "version_id": "28017c96-df4e-47c3-8e5c-e59ff31481a0",
+  "in_force": "2011-10-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A0%CE%91%CE%A90%CE%9F-4%CE%A7%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A0%CE%91%CE%A90%CE%9F-4%CE%A7%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A0%CE%91%CE%A90%CE%9F-4%CE%A7%CE%9C",
+  "listing_sha256": "6fdec8a3d411c56abb17b1842325799d253fc58260486faffc15330e650ec2ff",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
