@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Π5ΩΞ1-72Δ",
+  "subject": "Έγκριση εκμίσθωσης περιπτέρου",
+  "protocol_number": "29518",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6236",
+    "label": "ΔΗΜΟΣ ΠΑΠΑΓΟΥ - ΧΟΛΑΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81505"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-04",
+  "posted": "2011-10-04",
+  "publish_timestamp_ms": 1317719081000,
+  "version_id": "bf59aacf-c91a-4309-b9dc-6ddbec0b3518",
+  "in_force": "2011-10-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A05%CE%A9%CE%9E1-72%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A05%CE%A9%CE%9E1-72%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A05%CE%A9%CE%9E1-72%CE%94",
+  "listing_sha256": "167b54c544636ae2ae217d5d211a0960046c8fa78c399eef8e80779d813ce8e0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
