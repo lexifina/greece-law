@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Π5Ω1Σ-ΓΣ7",
+  "subject": "107/2011 ΕΓΚΡΙΣΗ ΜΕΛΕΤΗΣ ΥΔΡΟΔΟΤΗΣΗΣ ΠΕΡΙΟΧΗΣ ΠΕΥΚΟΥ",
+  "protocol_number": "107/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6282",
+    "label": "ΔΗΜΟΣ ΣΚΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82022"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-07-05",
+  "posted": "2011-10-04",
+  "publish_timestamp_ms": 1317742561000,
+  "version_id": "a5b1dcfd-5e17-4974-907a-c3203d131726",
+  "in_force": "2011-10-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A05%CE%A91%CE%A3-%CE%93%CE%A37",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A05%CE%A91%CE%A3-%CE%93%CE%A37/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A05%CE%A91%CE%A3-%CE%93%CE%A37",
+  "listing_sha256": "ecc9ea3013c0ba2a06a08360c3be2b3ffc4011377b17f5779cf1f280cdb6e88d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
