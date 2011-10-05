@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΠΜΟΡ1Γ-18Ο",
+  "subject": "Έγκριση υλοτομίας",
+  "protocol_number": "55037/5963",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76552"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-05",
+  "posted": "2011-10-05",
+  "publish_timestamp_ms": 1317798163000,
+  "version_id": "05209a58-1147-48e8-ad07-418f786cc086",
+  "in_force": "2011-10-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A0%CE%9C%CE%9F%CE%A11%CE%93-18%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A0%CE%9C%CE%9F%CE%A11%CE%93-18%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A0%CE%9C%CE%9F%CE%A11%CE%93-18%CE%9F",
+  "listing_sha256": "b64cdd53ae42fe1148a32f6f6ccb784fef9d186c0ca82770b4eecb75ec93c394",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
