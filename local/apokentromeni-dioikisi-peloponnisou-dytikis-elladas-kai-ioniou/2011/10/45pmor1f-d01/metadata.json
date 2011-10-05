@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΠΜΟΡ1Φ-Δ01",
+  "subject": "ΕΛΕΓΧΟΣ ΝΟΜΙΜΟΤΗΤΑΣ ΤΗΣ ΜΕ ΑΡΙΘΜΟ 172 ΑΠΟΦΑΣΗΣ ΟΕ Δ. ΤΡΙΠΟΛΗΣ",
+  "protocol_number": "5068 (ΟΡΘΗ  ΕΠΑΝΑΛΗΨΗ)",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87638"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-04",
+  "posted": "2011-10-05",
+  "publish_timestamp_ms": 1317815429000,
+  "version_id": "ec841d6d-36a1-4319-9481-fcc234c796a1",
+  "in_force": "2011-10-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A0%CE%9C%CE%9F%CE%A11%CE%A6-%CE%9401",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A0%CE%9C%CE%9F%CE%A11%CE%A6-%CE%9401/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A0%CE%9C%CE%9F%CE%A11%CE%A6-%CE%9401",
+  "listing_sha256": "167b54c544636ae2ae217d5d211a0960046c8fa78c399eef8e80779d813ce8e0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
