@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΠΝΩΞΠ-39Θ",
+  "subject": "«Έγκριση δημοπράτησης δημοτικού ακινήτου στην Τ.Κ. Σαρανταπηχιωτίκων»",
+  "protocol_number": "13383/Α.Δ.Σ. 195 /28-6-2011 (Ορθή επανάληψη)",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6222",
+    "label": "ΔΗΜΟΣ ΞΥΛΟΚΑΣΤΡΟΥ - ΕΥΡΩΣΤΙΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87737"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4ΑΣΦΩΞΠ-Λ58"
+      }
+    ]
+  },
+  "issued": "2011-06-28",
+  "posted": "2011-10-06",
+  "publish_timestamp_ms": 1317878977000,
+  "version_id": "35186faa-86ca-4303-ae8a-5d088584d6ac",
+  "in_force": "2011-10-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A0%CE%9D%CE%A9%CE%9E%CE%A0-39%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A0%CE%9D%CE%A9%CE%9E%CE%A0-39%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A0%CE%9D%CE%A9%CE%9E%CE%A0-39%CE%98",
+  "listing_sha256": "71f60a458a10837b130642fca5d7d6103f1c817037ef75bea699e3482cdbb228",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
