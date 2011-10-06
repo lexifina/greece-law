@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΠΝΩ1Λ-Θ1Λ",
+  "subject": "Περί ακύρωσης της απόφασης 31/2011 Οικονομικής Επιτροπής «Περί απευθείας ανάθεση εργασίας Αμοιβή μηχανοργάνωσης συστήματος καταμέτρησης υδρομέτρων»",
+  "protocol_number": "6537",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6267",
+    "label": "ΔΗΜΟΣ ΣΑΜΟΘΡΑΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81766"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4ΑΣΟΩ1Λ-4ΓΠ"
+      }
+    ]
+  },
+  "issued": "2011-09-05",
+  "posted": "2011-10-06",
+  "publish_timestamp_ms": 1317904292000,
+  "version_id": "34b153f8-2447-4a57-b389-9897a20fa975",
+  "in_force": "2011-10-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A0%CE%9D%CE%A91%CE%9B-%CE%981%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A0%CE%9D%CE%A91%CE%9B-%CE%981%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A0%CE%9D%CE%A91%CE%9B-%CE%981%CE%9B",
+  "listing_sha256": "258a830977637ba76b97ef4c12c3997401d638de0f776036a961178c20316c32",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
