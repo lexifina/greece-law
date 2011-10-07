@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΠΧΩΨΦ-6ΓΩ",
+  "subject": "αποφαση ΟΕ περι διάθεσης πιστώσεων προϋπολογισμού",
+  "protocol_number": "14762",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6036",
+    "label": "ΔΗΜΟΣ ΑΝΔΡΙΤΣΑΙΝΑΣ - ΚΡΕΣΤΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81872"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-09",
+  "posted": "2011-10-07",
+  "publish_timestamp_ms": 1317974700000,
+  "version_id": "cce45454-2652-4b22-967e-e4cc5e68f19d",
+  "in_force": "2011-10-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A0%CE%A7%CE%A9%CE%A8%CE%A6-6%CE%93%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A0%CE%A7%CE%A9%CE%A8%CE%A6-6%CE%93%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A0%CE%A7%CE%A9%CE%A8%CE%A6-6%CE%93%CE%A9",
+  "listing_sha256": "22b56dece78d05b678009aa16a19b2d85c61ccd0e43f7baed1692d1569ab88c6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
