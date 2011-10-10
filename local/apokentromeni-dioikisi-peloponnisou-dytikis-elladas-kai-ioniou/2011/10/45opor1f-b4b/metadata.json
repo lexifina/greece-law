@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΟΠΟΡ1Φ-Β4Β",
+  "subject": "Εγκριση πρωτοκόλλου",
+  "protocol_number": "3181",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76469"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-10",
+  "posted": "2011-10-10",
+  "publish_timestamp_ms": 1318232525000,
+  "version_id": "1e9620d9-697b-4e18-9697-bff10af56545",
+  "in_force": "2011-10-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%A0%CE%9F%CE%A11%CE%A6-%CE%924%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%A0%CE%9F%CE%A11%CE%A6-%CE%924%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9F%CE%A0%CE%9F%CE%A11%CE%A6-%CE%924%CE%92",
+  "listing_sha256": "dac13533165c30037fd92d81588682cfe8fb475441c47365e281b6fbf03281e2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
