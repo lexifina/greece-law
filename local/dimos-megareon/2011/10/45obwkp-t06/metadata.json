@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΟΒΩΚΠ-Τ06",
+  "subject": "Απόφαση Συμβουλίου Δημοτικής Κοινότητας Ν. Περάμου 115-2011",
+  "protocol_number": "22058",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6188",
+    "label": "ΔΗΜΟΣ ΜΕΓΑΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80566"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-13",
+  "posted": "2011-10-13",
+  "publish_timestamp_ms": 1318489131000,
+  "version_id": "fd892c01-14a4-4eae-9414-1253a3a29bc8",
+  "in_force": "2011-10-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%92%CE%A9%CE%9A%CE%A0-%CE%A406",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%92%CE%A9%CE%9A%CE%A0-%CE%A406/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9F%CE%92%CE%A9%CE%9A%CE%A0-%CE%A406",
+  "listing_sha256": "17475b6cf06585031abc824287e2d86853f4d3908e17ee9d7987e44f81e14005",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
