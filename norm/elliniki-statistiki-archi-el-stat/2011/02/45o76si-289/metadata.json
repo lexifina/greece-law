@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Ο76ΣΙ-289",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΕΙΣ ΕΚΤΟΣ ΕΔΡΑΣ",
+  "protocol_number": "ΣΤ75",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "7839",
+    "label": "ΕΛΛΗΝΙΚΗ ΣΤΑΤΙΣΤΙΚΗ ΑΡΧΗ (ΕΛ.ΣΤΑΤ.)",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "73839"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-02-17",
+  "posted": "2011-10-14",
+  "publish_timestamp_ms": 1318587538000,
+  "version_id": "2eb3b02c-a71d-4665-9b3c-4ad63dfdbb7a",
+  "in_force": "2011-10-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F76%CE%A3%CE%99-289",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F76%CE%A3%CE%99-289/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9F76%CE%A3%CE%99-289",
+  "listing_sha256": "f6fb6f47bcb648f85c6346035065520ec2995aae202b5de56f442f387af6e548",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
