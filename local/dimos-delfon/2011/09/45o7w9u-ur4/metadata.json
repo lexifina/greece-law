@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Ο7Ω9Θ-ΘΡ4",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ",
+  "protocol_number": "24571",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6072",
+    "label": "ΔΗΜΟΣ ΔΕΛΦΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80632"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-08",
+  "posted": "2011-10-14",
+  "publish_timestamp_ms": 1318572854000,
+  "version_id": "c90a7250-64dd-4612-a149-fc3b210701ad",
+  "in_force": "2011-10-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F7%CE%A99%CE%98-%CE%98%CE%A14",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F7%CE%A99%CE%98-%CE%98%CE%A14/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9F7%CE%A99%CE%98-%CE%98%CE%A14",
+  "listing_sha256": "541f61805303251754816c2286722462da882d148ab21b9f15e572da56d6b440",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
