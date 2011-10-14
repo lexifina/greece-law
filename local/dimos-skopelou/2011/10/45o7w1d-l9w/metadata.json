@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Ο7Ω1Δ-Λ9Ω",
+  "subject": "Κάλυψη εξόδων φιλοξενίας Αντιδημάρχου Γλυφάδας",
+  "protocol_number": "8549",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6280",
+    "label": "ΔΗΜΟΣ ΣΚΟΠΕΛΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79016"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-06",
+  "posted": "2011-10-14",
+  "publish_timestamp_ms": 1318598276000,
+  "version_id": "96f1ab37-c310-4f7a-b73d-c7b86a8788ef",
+  "in_force": "2011-10-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F7%CE%A91%CE%94-%CE%9B9%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F7%CE%A91%CE%94-%CE%9B9%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9F7%CE%A91%CE%94-%CE%9B9%CE%A9",
+  "listing_sha256": "b2420780ad32b663a720a132dceb23c636bb0d4867d6329688d8431c23d89c52",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
