@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΟΕΩ1Σ-Β99",
+  "subject": "161/2011 ΕΠΙΣΤΡΟΦΗ ΑΧΡΕΩΣΤΗΤΩΣ ΕΙΣΠΡΑΧΘΕΝΤΩΝ ΠΟΣΩΝ",
+  "protocol_number": "161/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6282",
+    "label": "ΔΗΜΟΣ ΣΚΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82022"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-08",
+  "posted": "2011-10-20",
+  "publish_timestamp_ms": 1319125281000,
+  "version_id": "5520895e-3235-404a-b4c1-321d3fe490c2",
+  "in_force": "2011-10-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%95%CE%A91%CE%A3-%CE%9299",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%95%CE%A91%CE%A3-%CE%9299/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9F%CE%95%CE%A91%CE%A3-%CE%9299",
+  "listing_sha256": "5ee876a4122cfba5221e59ff81ae214928ff15b58e393b89bd5d99151ebc778b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
