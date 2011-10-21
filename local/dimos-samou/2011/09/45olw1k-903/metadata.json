@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΟΛΩ1Κ-903",
+  "subject": "ΑΔΣ 296/11 Ρύθμιση οφειλών και προστίμων προς τους Δήμους άρθρο 54 του Ν. 3979/2011",
+  "protocol_number": "296/11",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6268",
+    "label": "ΔΗΜΟΣ ΣΑΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80375"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-02",
+  "posted": "2011-10-21",
+  "publish_timestamp_ms": 1319182061000,
+  "version_id": "5ec51ab4-5b45-4bbe-bd50-b66cc42f963e",
+  "in_force": "2011-10-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%9B%CE%A91%CE%9A-903",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%9B%CE%A91%CE%9A-903/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9F%CE%9B%CE%A91%CE%9A-903",
+  "listing_sha256": "c31526746418992937d481c90466dd79a544c228ebb45591af183a789b35457c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
