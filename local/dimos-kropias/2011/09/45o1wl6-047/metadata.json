@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Ο1ΩΛ6-047",
+  "subject": "ΣΥΜΒΑΣΗ ΑΝΑΘΕΣΗΣ ΔΙΚΗΓΟΡΙΚΗΣ ΕΝΤΟΛΗΣ",
+  "protocol_number": "21097",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6160",
+    "label": "ΔΗΜΟΣ ΚΡΩΠΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81447"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-23",
+  "posted": "2011-10-24",
+  "publish_timestamp_ms": 1319450193000,
+  "version_id": "68f81589-fa75-4cb3-b554-ad8be4993019",
+  "in_force": "2011-10-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F1%CE%A9%CE%9B6-047",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F1%CE%A9%CE%9B6-047/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9F1%CE%A9%CE%9B6-047",
+  "listing_sha256": "059faa8b48d69b51414fc6ab0028948a1465c085595f006d5ec895b78f759d9b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
