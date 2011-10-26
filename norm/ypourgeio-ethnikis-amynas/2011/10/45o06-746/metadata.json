@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Ο06-746",
+  "subject": "Απόλυση Μόνιμου εξ Εφεδρείας Αξιωματικού της Πολεμικής Αεροπορίας",
+  "protocol_number": "Φ.415/ΑΔ.506999/Σ.2122/10-10-11/ΓΕΑ/Β1/2α",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-10",
+  "posted": "2011-10-26",
+  "publish_timestamp_ms": 1319630213000,
+  "version_id": "676b691f-96a0-4c86-a592-905008eff0e3",
+  "in_force": "2011-10-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F06-746",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F06-746/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9F06-746",
+  "listing_sha256": "5d5440167d6dc2e3e939f6cc2ad92d39971caf0eafc90f446dc834ed7d0bcde7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
