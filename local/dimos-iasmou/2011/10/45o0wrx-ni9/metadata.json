@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Ο0ΩΡΧ-ΝΙ9",
+  "subject": "Ψήφιση πιστώσεων",
+  "protocol_number": "15131",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6117",
+    "label": "ΔΗΜΟΣ ΙΑΣΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-26",
+  "posted": "2011-10-26",
+  "publish_timestamp_ms": 1319605243000,
+  "version_id": "d93475b9-a3a1-4b3a-8eeb-007ff6ccf7f7",
+  "in_force": "2011-10-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F0%CE%A9%CE%A1%CE%A7-%CE%9D%CE%999",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F0%CE%A9%CE%A1%CE%A7-%CE%9D%CE%999/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9F0%CE%A9%CE%A1%CE%A7-%CE%9D%CE%999",
+  "listing_sha256": "ef8e1bd10a704c7e7e6e3f72f9d7c4910f34a7299912d9bbfb5648232366b29c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
