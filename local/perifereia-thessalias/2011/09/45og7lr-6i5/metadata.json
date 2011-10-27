@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΟΓ7ΛΡ-6Ι5",
+  "subject": "ΥΠΕΡΩΡΙΑΚΗ ΑΠΑΣΧΟΛΗΣΗ ΥΠΑΛΛΗΛΩΝ",
+  "protocol_number": "19270",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81563"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2011,
+      "aa": "2287"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-09",
+  "posted": "2011-10-27",
+  "publish_timestamp_ms": 1319695798000,
+  "version_id": "ab5fabcf-d757-4f51-84d7-5f864ccf2f15",
+  "in_force": "2011-10-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%937%CE%9B%CE%A1-6%CE%995",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%937%CE%9B%CE%A1-6%CE%995/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9F%CE%937%CE%9B%CE%A1-6%CE%995",
+  "listing_sha256": "22b56dece78d05b678009aa16a19b2d85c61ccd0e43f7baed1692d1569ab88c6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
