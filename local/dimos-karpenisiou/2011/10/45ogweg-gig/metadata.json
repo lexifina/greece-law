@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΟΓΩΕΓ-ΓΙΓ",
+  "subject": "Ψήφιση πιστώσεων και ανάθεση των έργων \r\n•Βελτιώσεις δρόμων στην Τ.Κ Παυλοπούλου ποσού 5000,00€    \r\n•Πλακόστρωση βατού δρόμου από οικία Α.Τσιάμη έως Αγγελικής Τσιάμη και πλακόστρωση του δρόμου από οικ.Κων/νου Καντζιου έως πάρκιγκ  Τ.Κ Φιδακίων ποσό 12.633,00€\r\n•Καλλιέργια πηγής και εμπλουτισμός   υδραγωγείου στη θέση Διχαλορέματα Τ.Κ Νοστίμου    Δ.Ε Ποταμιάς ποσό 6000,00€",
+  "protocol_number": "374",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6137",
+    "label": "ΔΗΜΟΣ ΚΑΡΠΕΝΗΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83176"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-18",
+  "posted": "2011-10-27",
+  "publish_timestamp_ms": 1319715444000,
+  "version_id": "e05dcdbd-f6d7-42cc-be6a-86a9f4665ab2",
+  "in_force": "2011-10-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%93%CE%A9%CE%95%CE%93-%CE%93%CE%99%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%93%CE%A9%CE%95%CE%93-%CE%93%CE%99%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9F%CE%93%CE%A9%CE%95%CE%93-%CE%93%CE%99%CE%93",
+  "listing_sha256": "ee98a62b82b2d9cf27bfafbe8ce60321a15a9e7c1cce6bf9f026423cf6cdd7bd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
