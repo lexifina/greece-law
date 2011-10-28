@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΟΦΩΛ4-ΓΘΩ",
+  "subject": "Α.Ο.Ε 112/2011 που αφορά την έγκριση ή όχι πρακτικών δημοπρασίας του έργου με τίτλο «Αντικατάσταση εσωτερικού δικτύου ύδρευσης Δήμου Κόνιτσας» προϋπολογισμού 2.700.000,00 ευρώ",
+  "protocol_number": "11975",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6156",
+    "label": "ΔΗΜΟΣ ΚΟΝΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86969"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-05",
+  "posted": "2011-10-28",
+  "publish_timestamp_ms": 1319803088000,
+  "version_id": "1a5cd72a-e29c-4d68-a8b0-cbbc4a63cdd3",
+  "in_force": "2011-10-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%A6%CE%A9%CE%9B4-%CE%93%CE%98%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%A6%CE%A9%CE%9B4-%CE%93%CE%98%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9F%CE%A6%CE%A9%CE%9B4-%CE%93%CE%98%CE%A9",
+  "listing_sha256": "26ee919524ef03adf0873615f24afeaeeefd4b85d9f76d1f5036dd7f83840ae8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
