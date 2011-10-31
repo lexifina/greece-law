@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΟΥΩ1Ρ-ΘΡ1",
+  "subject": "Έκδοση ψηφίσματος για το θάνατο του\r\nΚΩΝΣΤΑΝΤΙΝΟΥ ΑΝΤΩΝΑ.",
+  "protocol_number": "584",
+  "decision_type": {
+    "uid": "Α.4",
+    "label": "ΓΝΩΜΟΔΟΤΗΣΗ"
+  },
+  "organization": {
+    "uid": "6265",
+    "label": "ΔΗΜΟΣ ΡΟΔΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83734"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-08-30",
+  "posted": "2011-10-31",
+  "publish_timestamp_ms": 1320060708000,
+  "version_id": "4a6827ab-8367-42af-8b51-c6c2e93d1fe0",
+  "in_force": "2011-10-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%A5%CE%A91%CE%A1-%CE%98%CE%A11",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%A5%CE%A91%CE%A1-%CE%98%CE%A11/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9F%CE%A5%CE%A91%CE%A1-%CE%98%CE%A11",
+  "listing_sha256": "b4345bdf6c6f120a2748dfaaf946504dfecb680cf0efe43ad50d1f82e9287b66",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
