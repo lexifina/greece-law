@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΟΥ7ΛΚ-ΣΚΛ",
+  "subject": "ΑΠΟΦΑΣΗ - ΤΡΟΠΟΠΟΙΗΣΗ",
+  "protocol_number": "1007",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81819"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-31",
+  "posted": "2011-10-31",
+  "publish_timestamp_ms": 1320053011000,
+  "version_id": "0217d5cc-17d7-45fe-9aaa-0727dc56eae4",
+  "in_force": "2011-10-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%A57%CE%9B%CE%9A-%CE%A3%CE%9A%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%A57%CE%9B%CE%9A-%CE%A3%CE%9A%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9F%CE%A57%CE%9B%CE%9A-%CE%A3%CE%9A%CE%9B",
+  "listing_sha256": "be99a535a38f06df73080cece5d26c3ea8861a451d89f911d5df94f726e3807a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
