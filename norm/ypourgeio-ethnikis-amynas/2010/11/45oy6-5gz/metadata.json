@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΟΥ6-5ΓΖ",
+  "subject": "Αυτεπάγγελτη αποστρατεία, για λόγους υγείας, Αξιωματικών του Πολεμικού Ναυτικού",
+  "protocol_number": "414.2/11/11/Σ.29284",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2011,
+      "aa": "807"
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2010-11-26",
+  "posted": "2011-10-31",
+  "publish_timestamp_ms": 1320062010000,
+  "version_id": "c0133043-c961-4536-a88a-af281a50469e",
+  "in_force": "2011-10-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%A56-5%CE%93%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9F%CE%A56-5%CE%93%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9F%CE%A56-5%CE%93%CE%96",
+  "listing_sha256": "2e37b6a9d242db81f3fbab5fb7fa70d33952e7f1f9a3294a3858b9102d620606",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
