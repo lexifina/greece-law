@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Β3ΩΛΙ-19Δ",
+  "subject": "Απόφαση Δ.Σ. για έγκριση σχεδίου Στρατηγικού Σχεδιασμού του Δήμου Λευκάδας.",
+  "protocol_number": "377",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6173",
+    "label": "ΔΗΜΟΣ ΛΕΥΚΑΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83492"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-20",
+  "posted": "2011-11-01",
+  "publish_timestamp_ms": 1320145299000,
+  "version_id": "e1ccf451-9476-4884-a0a2-a93f44a0b25a",
+  "in_force": "2011-11-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%923%CE%A9%CE%9B%CE%99-19%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%923%CE%A9%CE%9B%CE%99-19%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%923%CE%A9%CE%9B%CE%99-19%CE%94",
+  "listing_sha256": "9540b2b79042c1e0050b386885ac4a5ef59c4e7997074a6a34ec4747ad0cbf45",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
