@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Β3Ω97-ΡΗΗ",
+  "subject": "Απόφαση ανάληψης υποχρέωσης 309",
+  "protocol_number": "5816",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6056",
+    "label": "ΔΗΜΟΣ ΒΟΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82123"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-03-23",
+  "posted": "2011-11-01",
+  "publish_timestamp_ms": 1320140201000,
+  "version_id": "5a1d05b1-fb7b-4f39-8113-3c63c72695c2",
+  "in_force": "2011-11-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%923%CE%A997-%CE%A1%CE%97%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%923%CE%A997-%CE%A1%CE%97%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%923%CE%A997-%CE%A1%CE%97%CE%97",
+  "listing_sha256": "eb100c359e9b7a62ef1ff30cf67a283ad530570be8851ae731c700db421d6f46",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
