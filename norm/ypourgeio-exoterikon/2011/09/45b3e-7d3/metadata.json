@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Β3Ε-7Δ3",
+  "subject": "ΟΡΙΣΜΟΣ ΜΕΛΩΝ ΤΡΙΜΕΛΟΥΣ ΕΠΙΤΡΟΠΗΣ ΠΡΕΣΒΕΙΑΣ ΤΗΣ ΕΛΛΑΔΑΣ ΣΤΗΝ ΑΣΤΑΝΑ (ΚΑΖΑΚΣΤΑΝ), ΑΡΜΟΔΙΑΣ ΓΙΑ ΓΝΩΜΟΔΟΤΗΣΗ ΣΧΕΤΙΚΑ ΜΕ ΤΗΝ ΙΔΙΟΤΗΤΑ ΩΣ ΟΜΟΓΕΝΩΝ ΠΟΛΙΤΩΝ, ΟΙ ΟΠΟΙΟΙ ΚΑΤΟΙΚΟΥΝ ΣΕ ΧΩΡΕΣ ΠΡΩΗΝ ΣΟΒΙΕΤΙΚΗΣ ΕΝΩΣΗΣ ΚΑΙ ΑΙΤΟΥΝΤΑΙ ΕΛΛΗΝΙΚΗΣ ΙΘΑΓΕΝΕΙΑΣ",
+  "protocol_number": "Π48Γ-ΑΠ 42317",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "75610"
+  ],
+  "thematic_category_ids": [
+    "40",
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_fektype_AEEPPE",
+      "issueyear": 2011,
+      "aa": "362"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-15",
+  "posted": "2011-11-01",
+  "publish_timestamp_ms": 1320153790000,
+  "version_id": "262922be-802f-4051-9b8a-e72377fa5051",
+  "in_force": "2011-11-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%923%CE%95-7%CE%943",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%923%CE%95-7%CE%943/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%923%CE%95-7%CE%943",
+  "listing_sha256": "175b52fe253e801171756aa4fe7d2161b976f57b44a3142366cbbdfb22ed3d9e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
