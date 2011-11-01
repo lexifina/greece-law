@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Β37ΛΛ-ΛΟ3",
+  "subject": "ΕΚΔΗΛΩΣΕΙΣ ΕΠΕΤΕΙΟΥ ΥΠΟΓΡΑΦΗΣ ΑΝΑΚΩΧΗΣ Α' ΠΑΓΚΟΣΜΙΟΥ ΠΟΛΕΜΟΥ",
+  "protocol_number": "456+440",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "5009",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80386"
+  ],
+  "thematic_category_ids": [
+    "64",
+    "32"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-01",
+  "posted": "2011-11-01",
+  "publish_timestamp_ms": 1320131469000,
+  "version_id": "36f0d104-10e9-4e70-a3b3-d459f7dc864c",
+  "in_force": "2011-11-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9237%CE%9B%CE%9B-%CE%9B%CE%9F3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%9237%CE%9B%CE%9B-%CE%9B%CE%9F3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%9237%CE%9B%CE%9B-%CE%9B%CE%9F3",
+  "listing_sha256": "87c51c049359684be6bb23bb284421b929fa3bf65a7d7706a6646b51cf625b2e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
