@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΒΔΗ-ΡΥΚ",
+  "subject": "Μετάθεση ημερομηνίας  πληρωμής 33ης κλήρωσης Λαϊκού Λαχείου",
+  "protocol_number": "5291",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "74532"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-21",
+  "posted": "2011-11-02",
+  "publish_timestamp_ms": 1320222904000,
+  "version_id": "842f2fa2-649f-4e2b-b931-7f69bc33fade",
+  "in_force": "2011-11-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%92%CE%94%CE%97-%CE%A1%CE%A5%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%92%CE%94%CE%97-%CE%A1%CE%A5%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%92%CE%94%CE%97-%CE%A1%CE%A5%CE%9A",
+  "listing_sha256": "2758157ba3d5a421ec35b13ec94858169acb41d831857c2d1d75a30e1da2390d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
