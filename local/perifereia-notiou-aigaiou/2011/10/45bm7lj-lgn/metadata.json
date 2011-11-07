@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΒΜ7ΛΞ-ΛΓΝ",
+  "subject": "ΠΡΑΞΗ ΕΠΙΒΟΛΗΣ ΠΡΟΣΤΙΜΟΥ",
+  "protocol_number": "3068",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5011",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78651"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-12",
+  "posted": "2011-11-07",
+  "publish_timestamp_ms": 1320670785000,
+  "version_id": "42e68a80-0f30-4b10-a22f-fd4f749848db",
+  "in_force": "2011-11-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%92%CE%9C7%CE%9B%CE%9E-%CE%9B%CE%93%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%92%CE%9C7%CE%9B%CE%9E-%CE%9B%CE%93%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%92%CE%9C7%CE%9B%CE%9E-%CE%9B%CE%93%CE%9D",
+  "listing_sha256": "ace807be0b034d23f310e67ca17b037410525d61f75cdfb2f60d054dd984920f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
