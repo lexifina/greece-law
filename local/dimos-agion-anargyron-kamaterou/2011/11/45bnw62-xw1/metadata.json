@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΒΝΩ62-ΧΩ1",
+  "subject": "Δημοσίευση Διακήρυξης της Δημοπρασίας για την εκτέλεση της προμήθειας με τίτλο «Προμήθεια πετρελαίου για τη θέρμανση των κτιρίων των καταργούμενων Νομικών Προσώπων του Δήμου» (Α.Μ.102/11).",
+  "protocol_number": "45105",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6009",
+    "label": "ΔΗΜΟΣ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78642"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "45ΒΝΩ62-ΛΡΣ"
+      }
+    ]
+  },
+  "issued": "2011-11-08",
+  "posted": "2011-11-08",
+  "publish_timestamp_ms": 1320746500000,
+  "version_id": "075ba1f5-c769-4c75-9af0-8aff2215a580",
+  "in_force": "2011-11-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%92%CE%9D%CE%A962-%CE%A7%CE%A91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%92%CE%9D%CE%A962-%CE%A7%CE%A91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%92%CE%9D%CE%A962-%CE%A7%CE%A91",
+  "listing_sha256": "4da13e18fc10d144ca9b207a6e997badfffa50de16b4a7f948f3f35a955e7eb8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
