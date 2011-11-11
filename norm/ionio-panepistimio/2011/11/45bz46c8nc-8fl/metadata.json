@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΒΖ46Ψ8ΝΨ-8ΦΛ",
+  "subject": "ΕΓΚΡΙΣΗ ΔΕΣΜΕΥΣΗΣ ΔΑΠΑΝΗΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΕΝΟΣ Η/Υ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΤΟΥ ΙΟΝΙΟΥ ΠΑΝΕΠΙΣΤΗΜΙΟΥ",
+  "protocol_number": "3998",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99202011",
+    "label": "ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "75383"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "45ΟΒ46Ψ8ΝΨ-4ΑΒ"
+      }
+    ]
+  },
+  "issued": "2011-11-11",
+  "posted": "2011-11-11",
+  "publish_timestamp_ms": 1321009810000,
+  "version_id": "a20639a4-8874-42a0-8202-938926d59c64",
+  "in_force": "2011-11-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%92%CE%9646%CE%A88%CE%9D%CE%A8-8%CE%A6%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%92%CE%9646%CE%A88%CE%9D%CE%A8-8%CE%A6%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%92%CE%9646%CE%A88%CE%9D%CE%A8-8%CE%A6%CE%9B",
+  "listing_sha256": "4a5099e4f5c9b56dbaf51a6d172d284ae8ee01d1fc5a09c1e2581ee2923aeb31",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
