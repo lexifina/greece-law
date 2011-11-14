@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45746-ΒΡ3",
+  "subject": "Μετάταξη Αξιωματικού Νοσηλευτικής στην Ειδικότητα των Οδοντιάτρων.",
+  "protocol_number": "415.6/6/11/Σ.29320",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2011,
+      "aa": "937"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-27",
+  "posted": "2011-11-14",
+  "publish_timestamp_ms": 1321288800000,
+  "version_id": "235efb5d-f80f-44ec-8900-a9e6d58c791e",
+  "in_force": "2011-11-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45746-%CE%92%CE%A13",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45746-%CE%92%CE%A13/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45746-%CE%92%CE%A13",
+  "listing_sha256": "148f2237dcf57ad17519cc6553318a0335eefbf3093b191ce3d7055db2b5bb85",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
