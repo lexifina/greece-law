@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "457Β7ΛΚ-29Ψ",
+  "subject": "Κατανομή χρηματοδότησης σε βάρος της ΣΑΕΠ Κρήτης 002 ποσού € 727.061,37 ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ\r\n(ως προς τον κωδικό των έργων & τα επιμέρους ποσά)",
+  "protocol_number": "97915/40841",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80817"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "45Β87ΛΚ-49Λ"
+      }
+    ]
+  },
+  "issued": "2011-11-09",
+  "posted": "2011-11-15",
+  "publish_timestamp_ms": 1321345377000,
+  "version_id": "9cf336e6-1baf-4568-b9f1-75c0c62127e2",
+  "in_force": "2011-11-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/457%CE%927%CE%9B%CE%9A-29%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/457%CE%927%CE%9B%CE%9A-29%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/457%CE%927%CE%9B%CE%9A-29%CE%A8",
+  "listing_sha256": "f8781c8a47af8b160a1bc4bdd5f2afcfadbc3f06b1410a262212df76db66004a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
