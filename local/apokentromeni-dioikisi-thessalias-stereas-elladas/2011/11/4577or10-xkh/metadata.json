@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4577ΟΡ10-ΧΚΗ",
+  "subject": "Επικύρωση της αριθμ. 79/2011 απόφασης της Οικονομικής Επιτροπής του Δήμου Κύμης- Αλιβερίου",
+  "protocol_number": "61032/3613",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "79808"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "45ΠΧΩΛΡ-Χ4Τ"
+      }
+    ]
+  },
+  "issued": "2011-11-16",
+  "posted": "2011-11-16",
+  "publish_timestamp_ms": 1321448244000,
+  "version_id": "d4422977-bee1-4815-8a29-e820576e4c57",
+  "in_force": "2011-11-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4577%CE%9F%CE%A110-%CE%A7%CE%9A%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4577%CE%9F%CE%A110-%CE%A7%CE%9A%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4577%CE%9F%CE%A110-%CE%A7%CE%9A%CE%97",
+  "listing_sha256": "61247844ac741d25eb9956f76b8c6b6bf965c4f02a444855294edaf8829fb43e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
