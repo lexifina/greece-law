@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4577ΩΚ1-2ΓΕ",
+  "subject": "«Διαγραφή τελών αποχέτευσης»",
+  "protocol_number": "22363",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6202",
+    "label": "ΔΗΜΟΣ ΚΑΜΕΝΩΝ ΒΟΥΡΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81097"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-09",
+  "posted": "2011-11-16",
+  "publish_timestamp_ms": 1321434234000,
+  "version_id": "0841bb8f-7dbd-49c7-b9d8-db97b5de3fb9",
+  "in_force": "2011-11-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4577%CE%A9%CE%9A1-2%CE%93%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4577%CE%A9%CE%9A1-2%CE%93%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4577%CE%A9%CE%9A1-2%CE%93%CE%95",
+  "listing_sha256": "f8781c8a47af8b160a1bc4bdd5f2afcfadbc3f06b1410a262212df76db66004a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
