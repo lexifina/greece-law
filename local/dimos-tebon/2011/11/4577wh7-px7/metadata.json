@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4577ΩΗ7-ΠΧ7",
+  "subject": "ΕΓΚΡΙΣΗ ΤΡΟΠΟΠΟΠΟΙΗΣΗΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ ΔΟΠΑΠΕΠΤ",
+  "protocol_number": "18903",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6294",
+    "label": "ΔΗΜΟΣ ΤΕΜΠΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81319"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-07",
+  "posted": "2011-11-16",
+  "publish_timestamp_ms": 1321425409000,
+  "version_id": "81446149-2b80-4361-a1bd-33d854a54c93",
+  "in_force": "2011-11-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4577%CE%A9%CE%977-%CE%A0%CE%A77",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4577%CE%A9%CE%977-%CE%A0%CE%A77/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4577%CE%A9%CE%977-%CE%A0%CE%A77",
+  "listing_sha256": "8c1f9dc3d1a9b8b70a077f3819043e07deae23c6c1731ede21007d5aa0d51cc7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
