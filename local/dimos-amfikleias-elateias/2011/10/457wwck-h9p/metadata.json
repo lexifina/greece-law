@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "457ΩΩΨΚ-Η9Π",
+  "subject": "Περί χορήγησης άδειας περιπτέρου.",
+  "protocol_number": "217",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6030",
+    "label": "ΔΗΜΟΣ ΑΜΦΙΚΛΕΙΑΣ - ΕΛΑΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83202"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-24",
+  "posted": "2011-11-17",
+  "publish_timestamp_ms": 1321520924000,
+  "version_id": "97e33f92-f1ec-47e4-bad0-8b9c521470f8",
+  "in_force": "2011-11-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/457%CE%A9%CE%A9%CE%A8%CE%9A-%CE%979%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/457%CE%A9%CE%A9%CE%A8%CE%9A-%CE%979%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/457%CE%A9%CE%A9%CE%A8%CE%9A-%CE%979%CE%A0",
+  "listing_sha256": "6333aea9b88b604a00934538eda024f4a2956341b2392e3a9d306a6d7642f984",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
