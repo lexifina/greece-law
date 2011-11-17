@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "457ΩΩΞΖ-ΣΩΙ",
+  "subject": "Ψήφιση πιστώσεων σε βάρος των παρακάτω Κ.Α. των εξόδων των οποίων η πίστωση ενισχύθηκε με την \tαριθ. 253/2011 απόφαση του Δ.Σ. περί τροποποιήσεως του προϋπολογισμού έτους 2011",
+  "protocol_number": "Αριθ. Απόφ: 114/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6255",
+    "label": "ΔΗΜΟΣ ΠΡΟΣΟΤΣΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83360"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-01",
+  "posted": "2011-11-17",
+  "publish_timestamp_ms": 1321515820000,
+  "version_id": "f5063a62-5362-49c9-b9c8-c0ba84dbf781",
+  "in_force": "2011-11-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/457%CE%A9%CE%A9%CE%9E%CE%96-%CE%A3%CE%A9%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/457%CE%A9%CE%A9%CE%9E%CE%96-%CE%A3%CE%A9%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/457%CE%A9%CE%A9%CE%9E%CE%96-%CE%A3%CE%A9%CE%99",
+  "listing_sha256": "77ee0db1dcc6634833c5bed4c0c1d634681ff24f8753148b5dcba98121fd881d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
