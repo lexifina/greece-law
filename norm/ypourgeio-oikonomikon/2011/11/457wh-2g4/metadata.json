@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "457ΩΗ-2Γ4",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ-ΚΑΛΥΜΝΟΣ (ΔΙΚΑΣΤΗΡΙΟ)",
+  "protocol_number": "3275",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "75716"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-01",
+  "posted": "2011-11-17",
+  "publish_timestamp_ms": 1321506586000,
+  "version_id": "81d8f5fd-ec21-4b24-b76c-22e932d7365f",
+  "in_force": "2011-11-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/457%CE%A9%CE%97-2%CE%934",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/457%CE%A9%CE%97-2%CE%934/document",
+  "page": "https://diavgeia.gov.gr/decision/view/457%CE%A9%CE%97-2%CE%934",
+  "listing_sha256": "77ee0db1dcc6634833c5bed4c0c1d634681ff24f8753148b5dcba98121fd881d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
