@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "457ΩΩΨ2-2ΜΞ",
+  "subject": "ΑΑΥ 710/2011",
+  "protocol_number": "32646",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6043",
+    "label": "ΔΗΜΟΣ ΑΡΙΣΤΟΤΕΛΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80788"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-29",
+  "posted": "2011-11-17",
+  "publish_timestamp_ms": 1321511482000,
+  "version_id": "f7c0e50a-8d98-491d-851f-978d0930900e",
+  "in_force": "2011-11-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/457%CE%A9%CE%A9%CE%A82-2%CE%9C%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/457%CE%A9%CE%A9%CE%A82-2%CE%9C%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/457%CE%A9%CE%A9%CE%A82-2%CE%9C%CE%9E",
+  "listing_sha256": "1c7f3edd94a489218a906c2c7d8ea5e47c0e07d16f877afeb0ac1cc4206bdaa5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
