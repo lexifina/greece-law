@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "457ΡΗ-ΒΓΗ",
+  "subject": "Ελεγχος προϊόντος απόσταξης (διημέρων) μικρων αποσταγματοποιών",
+  "protocol_number": "30/077/2888",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "73657"
+  ],
+  "thematic_category_ids": [
+    "60"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4Α1ΞΗ-Ε"
+      }
+    ]
+  },
+  "issued": "2011-11-14",
+  "posted": "2011-11-21",
+  "publish_timestamp_ms": 1321862520000,
+  "version_id": "0e84b749-aac1-4247-ad8d-425f5db89b51",
+  "in_force": "2011-11-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/457%CE%A1%CE%97-%CE%92%CE%93%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/457%CE%A1%CE%97-%CE%92%CE%93%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/457%CE%A1%CE%97-%CE%92%CE%93%CE%97",
+  "listing_sha256": "53659cb8a33f401246380e232700f75e3952987772753d143343ad109fe2a966",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
