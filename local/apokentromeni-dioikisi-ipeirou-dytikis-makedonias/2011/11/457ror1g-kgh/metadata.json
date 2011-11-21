@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "457ΡΟΡ1Γ-ΚΓΗ",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ",
+  "protocol_number": "3491",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76548"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-17",
+  "posted": "2011-11-21",
+  "publish_timestamp_ms": 1321860201000,
+  "version_id": "8db5d1be-83f5-43dc-9eae-3f7242a3d634",
+  "in_force": "2011-11-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/457%CE%A1%CE%9F%CE%A11%CE%93-%CE%9A%CE%93%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/457%CE%A1%CE%9F%CE%A11%CE%93-%CE%9A%CE%93%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/457%CE%A1%CE%9F%CE%A11%CE%93-%CE%9A%CE%93%CE%97",
+  "listing_sha256": "a56d0d7bd4e4ea9173aca85d55025dfaea54fe973084675e4c82869cf52f2b97",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
