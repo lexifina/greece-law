@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "457ΚΩΡ6-7Μ0",
+  "subject": "Προέλεγχος απολογισμού  Δήμου Bερμίου οικ.έτους 2010.",
+  "protocol_number": "198/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6092",
+    "label": "ΔΗΜΟΣ ΕΟΡΔΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85350"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-24",
+  "posted": "2011-11-24",
+  "publish_timestamp_ms": 1322137076000,
+  "version_id": "86e0b4db-d994-48a6-a8eb-6645fbcf2610",
+  "in_force": "2011-11-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/457%CE%9A%CE%A9%CE%A16-7%CE%9C0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/457%CE%9A%CE%A9%CE%A16-7%CE%9C0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/457%CE%9A%CE%A9%CE%A16-7%CE%9C0",
+  "listing_sha256": "64965221121bcbf89e3fa169ff7c2a86ba5deb329ff792e573c7a0d508f9643b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
