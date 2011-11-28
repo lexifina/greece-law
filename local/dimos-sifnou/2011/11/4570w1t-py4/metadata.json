@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4570Ω1Τ-ΠΥ4",
+  "subject": "Απόφαση Δημοτικού Συμβουλίου 231/2011: Ψήφιση διάθεση πίστωσης",
+  "protocol_number": "Δ.Σ. 231/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6278",
+    "label": "ΔΗΜΟΣ ΣΙΦΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83738"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-26",
+  "posted": "2011-11-28",
+  "publish_timestamp_ms": 1322492589000,
+  "version_id": "5bea365b-54ca-4468-8b65-825cf4c1c341",
+  "in_force": "2011-11-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4570%CE%A91%CE%A4-%CE%A0%CE%A54",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4570%CE%A91%CE%A4-%CE%A0%CE%A54/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4570%CE%A91%CE%A4-%CE%A0%CE%A54",
+  "listing_sha256": "1f2d8129cfee9ab78eaa7422f79a4cb9f3c727a670ee8403c9f05d26f97149d0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
