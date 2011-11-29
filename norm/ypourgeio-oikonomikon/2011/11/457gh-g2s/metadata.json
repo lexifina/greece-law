@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "457ΓΗ-Γ2Σ",
+  "subject": "Απόφαση re opening ειδικού ομολογιακού δανείου, ετήσιας διάρκειας, σταθερού επιτοκίου 1%, για την εξόφληση υποχρεώσεων του Ελληνικού Δημοσίου προς τους απολυόμενους του ομίλου ΟΛΥΜΠΙΑΚΗ ΑΕΡΟΠΟΡΙΑ βάσει του αρθρ. 49 παρ. 4 του ν. 3871/2010",
+  "protocol_number": "2/69033/0023Α",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2011,
+      "aa": "2622"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-07",
+  "posted": "2011-11-29",
+  "publish_timestamp_ms": 1322553384000,
+  "version_id": "0df020ff-737b-4a05-a222-18a35e97f780",
+  "in_force": "2011-11-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/457%CE%93%CE%97-%CE%932%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/457%CE%93%CE%97-%CE%932%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/457%CE%93%CE%97-%CE%932%CE%A3",
+  "listing_sha256": "8c1f9dc3d1a9b8b70a077f3819043e07deae23c6c1731ede21007d5aa0d51cc7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
