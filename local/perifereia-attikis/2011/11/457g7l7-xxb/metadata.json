@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "457Γ7Λ7-ΧΧΒ",
+  "subject": "Έγκριση  μετακίνησης  εκτός  έδρας υπαλλήλου",
+  "protocol_number": "2551",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5002",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΑΤΤΙΚΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "88657"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-25",
+  "posted": "2011-11-29",
+  "publish_timestamp_ms": 1322552544000,
+  "version_id": "a8488054-8c8f-430b-90a9-911efe86d26b",
+  "in_force": "2011-11-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/457%CE%937%CE%9B7-%CE%A7%CE%A7%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/457%CE%937%CE%9B7-%CE%A7%CE%A7%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/457%CE%937%CE%9B7-%CE%A7%CE%A7%CE%92",
+  "listing_sha256": "ce56f602edd2b85ff75beec2caecc9053fa22aa4663902e3f65220a0f6aa4808",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
