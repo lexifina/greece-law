@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "456Υ7ΛΗ-011",
+  "subject": "ΣΥΓΚΕΝΤΡΩΤΙΚΗ ΚΑΤΑΣΤΑΣΗ ΠΛΗΡΩΜΗΣ ΟΔΟΙΠΟΡΙΚΩΝ ΕΞΟΔΩΝ",
+  "protocol_number": "21230",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5013",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79133"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-01",
+  "posted": "2011-12-01",
+  "publish_timestamp_ms": 1322734225000,
+  "version_id": "3306c14a-e420-42cc-9e56-5035b455285e",
+  "in_force": "2011-12-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/456%CE%A57%CE%9B%CE%97-011",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/456%CE%A57%CE%9B%CE%97-011/document",
+  "page": "https://diavgeia.gov.gr/decision/view/456%CE%A57%CE%9B%CE%97-011",
+  "listing_sha256": "b1f7f0801774315a380eb53384f4390c4e570b7922b3d7f2f9f04b09e745654e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
