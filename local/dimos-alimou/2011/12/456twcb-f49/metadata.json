@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "456ΤΩΨΒ-Φ49",
+  "subject": "Έγκριση πρότασης ανάληψης υποχρέωσης ποσού 3.632,21 € που αφορά σε τόκους και δικαστικά έξοδα δυνάμει της 7905/11 διαταγής πληρωμής του Μονομελούς Πρωτοδικείου Αθηνών και της από 20/7/2011 επιβληθείσας κατάσχεσης (υπόθεση Παν.Βέττα).",
+  "protocol_number": "214",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82632"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-02",
+  "posted": "2011-12-02",
+  "publish_timestamp_ms": 1322824596000,
+  "version_id": "2ca835d4-e1e8-4612-b410-c1a00acc5351",
+  "in_force": "2011-12-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/456%CE%A4%CE%A9%CE%A8%CE%92-%CE%A649",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/456%CE%A4%CE%A9%CE%A8%CE%92-%CE%A649/document",
+  "page": "https://diavgeia.gov.gr/decision/view/456%CE%A4%CE%A9%CE%A8%CE%92-%CE%A649",
+  "listing_sha256": "317c5ccb03a20c9d2fef050ef365259647168d13857760e6f7a5215670e1d91c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
