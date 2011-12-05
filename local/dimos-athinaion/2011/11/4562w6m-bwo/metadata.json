@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4562Ω6Μ-ΒΩΟ",
+  "subject": "ΑΠΟΔΟΧΗ ΠΡΑΚΤΙΚΩΝ ΤΩΝ Ι΄, ΙΑ΄ ΚΑΙ ΙΔ΄/2011 ΕΠΙΤΡΟΠΩΝ  ΦΟΡΟΛΟΓΙΚΩΝ ΔΙΑΦΟΡΩΝ ΤΟΥ ΔΗΜΟΥ ΜΕ ΣΥΜΒΙΒΑΣΜΟ",
+  "protocol_number": "229377/5-12-2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6013",
+    "label": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78341"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "457ΓΩ6Μ-ΓΚΞ"
+      }
+    ]
+  },
+  "issued": "2011-11-24",
+  "posted": "2011-12-05",
+  "publish_timestamp_ms": 1323087423000,
+  "version_id": "31bc38d6-bc82-4a3a-9d96-e7cebf537754",
+  "in_force": "2011-12-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4562%CE%A96%CE%9C-%CE%92%CE%A9%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4562%CE%A96%CE%9C-%CE%92%CE%A9%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4562%CE%A96%CE%9C-%CE%92%CE%A9%CE%9F",
+  "listing_sha256": "899b7b67a414f15cd9f44b0b6fdb7b9c6e89159cee4eaca5812aa2f50ecdb8c1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
