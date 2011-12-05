@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45627ΛΒ-ΝΚ2",
+  "subject": "ΑΠΟΦΑΣΗ ΑΝΑΛΗΨΗΣ ΥΠΟΧΡΕΩΣΗΣ",
+  "protocol_number": "74461/2310",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5001",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79944"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-05",
+  "posted": "2011-12-05",
+  "publish_timestamp_ms": 1323078215000,
+  "version_id": "ed3d508f-7107-4573-babe-87c8e84ac716",
+  "in_force": "2011-12-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45627%CE%9B%CE%92-%CE%9D%CE%9A2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45627%CE%9B%CE%92-%CE%9D%CE%9A2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45627%CE%9B%CE%92-%CE%9D%CE%9A2",
+  "listing_sha256": "3e7d4ed1dc4e24a53bc9aa05121e18826f0c44d53694602f046e75a85b83656e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
