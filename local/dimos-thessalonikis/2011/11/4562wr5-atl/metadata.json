@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "4562ΩΡ5-ΑΤΛ",
+  "subject": "Εγκρίνει ομόφωνα α) την πεζοδρόμηση της οδού Α΄ Πάροδος Αγ. Πάντων και β) την απαγόρευση στάσης και στάθμευσης όλων των οχημάτων  - για δύο (2) μέτρα - έμπροσθεν της εισόδου οικοδομής επί της οδού Α΄ πάροδος Αγ. Πάντων αρ. 5 μέχρι τη διαμόρφωση αυτής σε πεζόδρομο.",
+  "protocol_number": "1777/2011 ΑΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80343"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "45ΒΝΩΡ5-ΓΣ4"
+      }
+    ]
+  },
+  "issued": "2011-11-21",
+  "posted": "2011-12-05",
+  "publish_timestamp_ms": 1323082124000,
+  "version_id": "dd80d23f-6171-4433-b539-93353d41061a",
+  "in_force": "2011-12-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/4562%CE%A9%CE%A15-%CE%91%CE%A4%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/4562%CE%A9%CE%A15-%CE%91%CE%A4%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/4562%CE%A9%CE%A15-%CE%91%CE%A4%CE%9B",
+  "listing_sha256": "e2e0fabaaa0aacf92658d96420b495217d39aa7585f9be9c89c9c112cc68159e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
