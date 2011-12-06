@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "456ΣΩΨ5-ΕΛΠ",
+  "subject": "ΑΝΑΜΟΡΦΩΣΗ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ",
+  "protocol_number": "13142",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6046",
+    "label": "ΔΗΜΟΣ ΑΡΧΑΙΑΣ ΟΛΥΜΠΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87869"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-20",
+  "posted": "2011-12-06",
+  "publish_timestamp_ms": 1323156722000,
+  "version_id": "c09b8f33-231a-4426-929b-7a97a6975d30",
+  "in_force": "2011-12-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/456%CE%A3%CE%A9%CE%A85-%CE%95%CE%9B%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/456%CE%A3%CE%A9%CE%A85-%CE%95%CE%9B%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/456%CE%A3%CE%A9%CE%A85-%CE%95%CE%9B%CE%A0",
+  "listing_sha256": "3033a5654e9ff4734d9d6d412d769c49a700119e319e39fec8218b1e45e50851",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
