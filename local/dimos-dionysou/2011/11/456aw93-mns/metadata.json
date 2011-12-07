@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "456ΑΩ93-ΜΝΣ",
+  "subject": "Συγχώνευση δομών «Βοήθεια στο σπίτι» Αγίου Στεφάνου και Κρυονερίου",
+  "protocol_number": "223/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6075",
+    "label": "ΔΗΜΟΣ ΔΙΟΝΥΣΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80131"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-14",
+  "posted": "2011-12-07",
+  "publish_timestamp_ms": 1323248707000,
+  "version_id": "150a2f5f-2c9d-4b4c-b381-33751123e2ef",
+  "in_force": "2011-12-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/456%CE%91%CE%A993-%CE%9C%CE%9D%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/456%CE%91%CE%A993-%CE%9C%CE%9D%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/456%CE%91%CE%A993-%CE%9C%CE%9D%CE%A3",
+  "listing_sha256": "0e7a594292c495ed53e898c6982080c8eb27af89db7585708d3387e74041dc28",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
