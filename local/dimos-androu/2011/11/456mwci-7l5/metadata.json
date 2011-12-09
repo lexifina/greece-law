@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "456ΜΩΨΙ-7Λ5",
+  "subject": "Διατήρηση προγράμματος ΟΑΕΔ για τις ειδικές κοινωνικές ομάδες",
+  "protocol_number": "14",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6037",
+    "label": "ΔΗΜΟΣ ΑΝΔΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87797"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-21",
+  "posted": "2011-12-09",
+  "publish_timestamp_ms": 1323424218000,
+  "version_id": "e6eeea4c-f600-403a-be9c-f253d077630c",
+  "in_force": "2011-12-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/456%CE%9C%CE%A9%CE%A8%CE%99-7%CE%9B5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/456%CE%9C%CE%A9%CE%A8%CE%99-7%CE%9B5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/456%CE%9C%CE%A9%CE%A8%CE%99-7%CE%9B5",
+  "listing_sha256": "e2e0fabaaa0aacf92658d96420b495217d39aa7585f9be9c89c9c112cc68159e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
