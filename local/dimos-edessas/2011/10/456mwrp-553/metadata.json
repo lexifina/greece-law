@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "456ΜΩΡΠ-553",
+  "subject": "ΣΥΝΑΨΗ ΔΑΝΕΙΟΥ ΓΙΑ ΕΞΟΦΛΗΣΗ ΧΡΕΩΝ ΠΡΩΗΝ ΔΗΜΩΝ ΈΔΕΣΣΑΣ ΚΑΙ ΒΕΓΟΡΙΤΙΔΑΣ",
+  "protocol_number": "140",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6086",
+    "label": "ΔΗΜΟΣ ΕΔΕΣΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83433"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-27",
+  "posted": "2011-12-09",
+  "publish_timestamp_ms": 1323436487000,
+  "version_id": "5dcec0ef-f02d-4e0c-a4fa-b6855001a863",
+  "in_force": "2011-12-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/456%CE%9C%CE%A9%CE%A1%CE%A0-553",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/456%CE%9C%CE%A9%CE%A1%CE%A0-553/document",
+  "page": "https://diavgeia.gov.gr/decision/view/456%CE%9C%CE%A9%CE%A1%CE%A0-553",
+  "listing_sha256": "148f2237dcf57ad17519cc6553318a0335eefbf3093b191ce3d7055db2b5bb85",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
