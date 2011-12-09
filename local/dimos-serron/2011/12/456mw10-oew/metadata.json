@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "456ΜΩ10-ΟΕΩ",
+  "subject": "ΕΓΚΡΙΣΗ ΔΑΠΑΝΗΣ ΔΗΜΟΣΙΕΥΣΗΣ ΤΗΣ ΑΡΙΘΜ. 69702/15-11-2011 ΑΝΑΚΟΙΝΩΣΗΣ ΤΟΥ ΔΗΜΑΡΧΟΥ ΣΕΡΡΩΝ, ΠΟΥ ΑΦΟΡΑ ΤΗΝ ΔΙΑΤΥΠΩΣΗ ΓΝΩΜΗΣ ΠΕΡΙ ΑΡΣΗΣ ΚΑΙ ΕΠΑΝΑΚΗΡΥΞΗΣ ΑΠΑΛΛΟΤΡΙΩΣΗΣ ΙΔΙΟΚΤΗΣΙΑΣ ΤΩΝ Κ.Κ. ΣΑΡΑΝΤΗ ΣΜΑΡΩΣ, ΜΠΑΛΙΚΤΣΗ ΕΛΕΝΗΣ Κ.Λ.Π. ΕΝΤΟΣ ΤΟΥ ΚΕΝΤΡΙΚΟΥ ΠΑΡΚΟΥ, ΤΟΥ ΔΗΜΟΥ ΣΕΡΡΩΝ.",
+  "protocol_number": "74302",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6272",
+    "label": "ΔΗΜΟΣ ΣΕΡΡΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80725"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-05",
+  "posted": "2011-12-09",
+  "publish_timestamp_ms": 1323430687000,
+  "version_id": "0333c5aa-07b4-426a-84d7-e5dba2f613c8",
+  "in_force": "2011-12-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/456%CE%9C%CE%A910-%CE%9F%CE%95%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/456%CE%9C%CE%A910-%CE%9F%CE%95%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/456%CE%9C%CE%A910-%CE%9F%CE%95%CE%A9",
+  "listing_sha256": "d613be8f1fc5fd6a8d28d039f23e321115436334e111a06fac6a1cafa8f5118c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
