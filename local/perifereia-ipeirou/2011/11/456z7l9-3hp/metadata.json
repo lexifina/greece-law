@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "456Ζ7Λ9-3ΗΠ",
+  "subject": "ΑΠΟΦΑΣΗ ΕΓΚΡΙΣΗΣ ΠΡΩΤΟΚΟΛΛΟΥ  ΠΡΟΣΩΡΙΝΗΣ ΠΑΡΑΛΑΒΗΣ",
+  "protocol_number": "84591/8790",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5006",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81232"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-21",
+  "posted": "2011-12-13",
+  "publish_timestamp_ms": 1323770071000,
+  "version_id": "53091eb0-231d-4971-830c-e2c13911bd0f",
+  "in_force": "2011-12-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/456%CE%967%CE%9B9-3%CE%97%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/456%CE%967%CE%9B9-3%CE%97%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/456%CE%967%CE%9B9-3%CE%97%CE%A0",
+  "listing_sha256": "e2e0fabaaa0aacf92658d96420b495217d39aa7585f9be9c89c9c112cc68159e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
