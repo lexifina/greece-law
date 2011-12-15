@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΨΟΩ0Π-0Γ3",
+  "subject": "Αποδοχή και κατανομή ποσού 113.424,00€ από πιστώσεις ΣΑΤΑ/2011.",
+  "protocol_number": "27700",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6324",
+    "label": "ΔΗΜΟΣ ΩΡΩΠΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84545"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-15",
+  "posted": "2011-12-15",
+  "publish_timestamp_ms": 1323945417000,
+  "version_id": "848bdc08-05aa-4e47-97a0-45e64815d38b",
+  "in_force": "2011-12-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A8%CE%9F%CE%A90%CE%A0-0%CE%933",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A8%CE%9F%CE%A90%CE%A0-0%CE%933/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A8%CE%9F%CE%A90%CE%A0-0%CE%933",
+  "listing_sha256": "460468a17bff910fa6711daa7bf108a1a88302061800641427cc310fb4bf34fa",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
