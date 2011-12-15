@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΨΟΩ0Ο-ΠΦΛ",
+  "subject": "Απόφαση 734/2011 Οικ. Επιτρ. με θέμα: Λήψη απόφασης για μη άσκηση ενδίκου μέσου κατά της με αριθ. 803/2011 Αποφάσεως του Μονομελούς Πρωτοδικείου Ηρακλείου",
+  "protocol_number": "734/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81432"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-15",
+  "posted": "2011-12-15",
+  "publish_timestamp_ms": 1323941580000,
+  "version_id": "32e05d82-f323-4224-aaa3-75cd29f0d407",
+  "in_force": "2011-12-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A8%CE%9F%CE%A90%CE%9F-%CE%A0%CE%A6%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A8%CE%9F%CE%A90%CE%9F-%CE%A0%CE%A6%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A8%CE%9F%CE%A90%CE%9F-%CE%A0%CE%A6%CE%9B",
+  "listing_sha256": "54c6c246a7e84b23075d1cf3c47c03c98b71b28049d19d74d29d09d0e3f64f60",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
