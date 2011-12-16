@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Ψ4ΩΞΕ-ΝΕ2",
+  "subject": "ΑΝΑΚΛΗΣΗ ΑΠΟΦΑΣΗΣ ΔΗΜΑΡΧΟΥ",
+  "protocol_number": "561A/10-11-11",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6232",
+    "label": "ΔΗΜΟΣ ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81017"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "45ΒΜΩΞΕ-Π06"
+      }
+    ]
+  },
+  "issued": "2011-11-10",
+  "posted": "2011-12-16",
+  "publish_timestamp_ms": 1324038394000,
+  "version_id": "d25d1125-d1a5-444a-93f5-dc2b4d5e3581",
+  "in_force": "2011-12-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A84%CE%A9%CE%9E%CE%95-%CE%9D%CE%952",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A84%CE%A9%CE%9E%CE%95-%CE%9D%CE%952/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A84%CE%A9%CE%9E%CE%95-%CE%9D%CE%952",
+  "listing_sha256": "8050b7d081dd961dba2ad4684ac4e2574d405e3bb59db21f24569b166631f94b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
