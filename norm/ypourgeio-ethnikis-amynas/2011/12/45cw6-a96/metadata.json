@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΨΩ6-Α96",
+  "subject": "Κατανομή Χρηματοδότησης ΣΑΕ 137 ποσού 1.000.000,00€ ΠΔΕ/ΥΠΕΘΑ΄Ετους 2011",
+  "protocol_number": "138470",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70167"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-16",
+  "posted": "2011-12-19",
+  "publish_timestamp_ms": 1324278412000,
+  "version_id": "e3d051c1-4e63-49e0-bdb9-a87a053224d9",
+  "in_force": "2011-12-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A8%CE%A96-%CE%9196",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A8%CE%A96-%CE%9196/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A8%CE%A96-%CE%9196",
+  "listing_sha256": "e10eb2419eafba54dea8b211a6092ad567d88639a38417576b449a85c9e356c9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
