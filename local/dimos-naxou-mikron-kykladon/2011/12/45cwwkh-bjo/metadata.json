@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΨΩΩΚΗ-ΒΞΟ",
+  "subject": "ΑΠΟΦΑΣΗ ΠΡΑΓΜΑΤΟΠΟΙΗΣΗΣ ΚΑΙ ΕΠΙΜΕΛΕΙΑ ΤΗΣ ΕΚΔΗΛΩΣΗΣ ΜΟΥΣΙΚΗ ΒΡΑΔΙΑ ΠΟΥ ΘΑ ΓΙΝΕΙ ΣΤΑ ΥΡΙΑ ΣΤΙΣ 13/8/2011",
+  "protocol_number": "Α 540",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6203",
+    "label": "ΔΗΜΟΣ ΝΑΞΟΥ & ΜΙΚΡΩΝ ΚΥΚΛΑΔΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82010"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "45ΨΩΚΗ-Μ3Ζ"
+      }
+    ]
+  },
+  "issued": "2011-12-15",
+  "posted": "2011-12-19",
+  "publish_timestamp_ms": 1324278137000,
+  "version_id": "bc6623f5-674f-4229-8e9b-ae57ec600e88",
+  "in_force": "2011-12-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A8%CE%A9%CE%A9%CE%9A%CE%97-%CE%92%CE%9E%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A8%CE%A9%CE%A9%CE%9A%CE%97-%CE%92%CE%9E%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A8%CE%A9%CE%A9%CE%9A%CE%97-%CE%92%CE%9E%CE%9F",
+  "listing_sha256": "fd5e22bee178128cf7cd6e33ff37674d810780215258f1989643c15aabad0424",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
