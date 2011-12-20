@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Ψ6ΩΛ2-Χ6Ψ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜ.ΣΥΜΒΟΥΛΙΟΥ 305/2011 \"Εγκριση επεκτάσεων δημοτικού φωτισμού\"",
+  "protocol_number": "305/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6179",
+    "label": "ΔΗΜΟΣ ΜΑΚΡΑΚΩΜΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86527"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-10",
+  "posted": "2011-12-20",
+  "publish_timestamp_ms": 1324383532000,
+  "version_id": "0e4cdde9-d4a2-4400-b7bf-835a64c7ef08",
+  "in_force": "2011-12-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A86%CE%A9%CE%9B2-%CE%A76%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A86%CE%A9%CE%9B2-%CE%A76%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A86%CE%A9%CE%9B2-%CE%A76%CE%A8",
+  "listing_sha256": "8050b7d081dd961dba2ad4684ac4e2574d405e3bb59db21f24569b166631f94b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
