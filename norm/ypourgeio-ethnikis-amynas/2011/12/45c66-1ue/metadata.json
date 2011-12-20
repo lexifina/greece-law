@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Ψ66-1ΘΕ",
+  "subject": "Τροποποίηση Αποφάσεως Έκδοσης Χρηματικού Εντάλματος Προπληρωμής για την Πληρωμή Εξόδων Αεροπορικής Μεταφοράς Υλικών ΠΝ από ΗΠΑ προς Ελλάδα",
+  "protocol_number": "604.1.005/2Α/11",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "73319"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "457Ε6-ΔΦΛ"
+      }
+    ]
+  },
+  "issued": "2011-12-19",
+  "posted": "2011-12-20",
+  "publish_timestamp_ms": 1324370430000,
+  "version_id": "25df8ef4-58af-4773-945d-1fbfe8bd74e2",
+  "in_force": "2011-12-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A866-1%CE%98%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A866-1%CE%98%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A866-1%CE%98%CE%95",
+  "listing_sha256": "4732093a2e7f2f18f291a5ef40baedf982e169ba9d20865e14145bf14ca13f39",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
