@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΨΨΩ65-Ο16",
+  "subject": "ΑΔΕΙΑ ΕΚΜΙΣΘΩΣΗΣ ΠΕΡΙΠΤΕΡΟΥ",
+  "protocol_number": "106575",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6012",
+    "label": "ΔΗΜΟΣ ΑΓΡΙΝΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81933"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-21",
+  "posted": "2011-12-21",
+  "publish_timestamp_ms": 1324466916000,
+  "version_id": "dbfb94fc-5091-400e-a518-5ee4a341914c",
+  "in_force": "2011-12-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A8%CE%A8%CE%A965-%CE%9F16",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A8%CE%A8%CE%A965-%CE%9F16/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A8%CE%A8%CE%A965-%CE%9F16",
+  "listing_sha256": "081c97f546fc4382f909a0f8ffed94c1caef997b3d55579133dcb21dc50742b3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
