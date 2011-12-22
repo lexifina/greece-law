@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Ψ9Ω1Θ-1ΙΥ",
+  "subject": "Απόφαση Δημάρχου περί κρίσης του αποτελέσματος πρόχειρου διαγωνισμού για την \"Προμήθεια εκχιονιστικών λεπίδων\"",
+  "protocol_number": "26643",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6276",
+    "label": "ΔΗΜΟΣ ΣΙΚΥΩΝΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "08"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "456ΤΩ1Θ-4Ι3"
+      },
+      {
+        "relatedDecisionsADA": "456ΤΩ1Θ-ΩΑ9"
+      }
+    ]
+  },
+  "issued": "2011-12-21",
+  "posted": "2011-12-22",
+  "publish_timestamp_ms": 1324555678000,
+  "version_id": "451de45b-38cb-486f-8255-8a1df8cea7c0",
+  "in_force": "2011-12-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A89%CE%A91%CE%98-1%CE%99%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A89%CE%A91%CE%98-1%CE%99%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A89%CE%A91%CE%98-1%CE%99%CE%A5",
+  "listing_sha256": "da7e285249b0a34fb4b93407955633f3a4d95c776aa84cabd912088d03b74d5e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
