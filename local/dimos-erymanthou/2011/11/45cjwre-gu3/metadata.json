@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΨΞΩΡΕ-ΓΘ3",
+  "subject": "Περίληψη διακήρυξης Δημοπρασίος για το έργο : \"ΑΠΟΧΕΤΕΥΣΗ ΦΑΡΡΩΝ -ΩΛΕΝΙΑΣ ΠΡΟΣ ΦΑΡΡΕΣ''",
+  "protocol_number": "18429",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6096",
+    "label": "ΔΗΜΟΣ ΕΡΥΜΑΝΘΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81736"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_DDS",
+      "issueyear": 2011,
+      "aa": "570"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-29",
+  "posted": "2011-12-27",
+  "publish_timestamp_ms": 1324974506000,
+  "version_id": "80c50caa-4ef6-4a26-8d07-5c5a29f5ad77",
+  "in_force": "2011-12-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A8%CE%9E%CE%A9%CE%A1%CE%95-%CE%93%CE%983",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A8%CE%9E%CE%A9%CE%A1%CE%95-%CE%93%CE%983/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A8%CE%9E%CE%A9%CE%A1%CE%95-%CE%93%CE%983",
+  "listing_sha256": "3d063533a977cf4d76ffa16424b15dbd1c56ed7fb524f77a3406d909f5a5227f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
