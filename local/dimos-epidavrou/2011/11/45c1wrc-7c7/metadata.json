@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45Ψ1ΩΡΨ-7Ψ7",
+  "subject": "ΚΑΘΟΡΙΣΜΟΣ ΤΟΥ ΣΥΝΤΕΛΕΣΤΗ Τ Α Π",
+  "protocol_number": "191/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6093",
+    "label": "ΔΗΜΟΣ ΕΠΙΔΑΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82874"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-25",
+  "posted": "2011-12-28",
+  "publish_timestamp_ms": 1325064188000,
+  "version_id": "708db044-02de-47fd-a58b-3bbcf1da9f9b",
+  "in_force": "2011-12-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A81%CE%A9%CE%A1%CE%A8-7%CE%A87",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A81%CE%A9%CE%A1%CE%A8-7%CE%A87/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A81%CE%A9%CE%A1%CE%A8-7%CE%A87",
+  "listing_sha256": "ac55c2eea1ec8fbd79c397f2d376870785b22804ba6558e30a6d6ee44dfb560b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
