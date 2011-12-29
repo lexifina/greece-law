@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "45ΨΗΕ-ΛΜΜ",
+  "subject": "ΑΠΟΔΕΣΜΕΥΣΗ ΠΟΣΟΥ",
+  "protocol_number": "Φ.085/ΑΚ/ΣΤΟΥΤ/ΑΣ31538",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70150"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4ΑΡΩΕ-ΞΑ"
+      }
+    ]
+  },
+  "issued": "2011-12-27",
+  "posted": "2011-12-29",
+  "publish_timestamp_ms": 1325194253000,
+  "version_id": "e8190fa6-33bb-43c2-8fb8-dd308af9272c",
+  "in_force": "2011-12-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A8%CE%97%CE%95-%CE%9B%CE%9C%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/45%CE%A8%CE%97%CE%95-%CE%9B%CE%9C%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/45%CE%A8%CE%97%CE%95-%CE%9B%CE%9C%CE%9C",
+  "listing_sha256": "67e5ea9cf4c6f76b25d090ec64e1b3b60b4d7163e13ea959c9736ae46f8cd4ef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
