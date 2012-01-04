@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΝ0ΩΚΒ-ΘΜΛ",
+  "subject": "ΜΟΝΟΔΡΟΜΗΣΗ ΤΩΝ ΟΔΩΝ ΝΑΥΑΡΙΝΟΥ ΚΑΙ ΙΚΑΡΙΑΣ",
+  "protocol_number": "180",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6191",
+    "label": "ΔΗΜΟΣ ΜΕΤΑΜΟΡΦΩΣΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79676"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-04",
+  "posted": "2012-01-04",
+  "publish_timestamp_ms": 1325674863000,
+  "version_id": "90d76811-d416-47a7-8e57-88021a854179",
+  "in_force": "2012-01-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D0%CE%A9%CE%9A%CE%92-%CE%98%CE%9C%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D0%CE%A9%CE%9A%CE%92-%CE%98%CE%9C%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%9D0%CE%A9%CE%9A%CE%92-%CE%98%CE%9C%CE%9B",
+  "listing_sha256": "15d655e7f4f791f9e393b6de78329c2856b10cdd5560759605498c19693152dc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
