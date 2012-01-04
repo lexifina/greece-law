@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΝ0Ε-ΟΡ0",
+  "subject": "ΑΝΑΚΛΗΤΙΚΗ ΑΠΟΦΑΣΗ ΑΝΑΛΗΨΗΣ ΥΠΟΧΡΕΩΣΗΣ ΓΙΑ ΥΠΗΡΕΣΙΕΣ ΤΕΧΝΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ ΤΟΥ ΕΞΟΠΛΙΣΜΟΥ ΤΟΥ ΝΕΟΥ ΣΥΣΤΗΜΑΤΟΣ ΗΛΕΚΤΡΟΝΙΚΗΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΓΓΡΑΦΩΝ (ΣΗΔΕ) ΤΟΥ ΥΠΟΥΡΓΕΙΟΥ ΕΞΩΤΕΡΙΚΩΝ ΑΠΟ 01/01/2011 ΕΩΣ 31/12/2011",
+  "protocol_number": "085.1/0869/ΑΣ 32540",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70950"
+  ],
+  "thematic_category_ids": [
+    "68"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4ΑΓΓΕ-6Ι"
+      }
+    ]
+  },
+  "issued": "2011-12-30",
+  "posted": "2012-01-04",
+  "publish_timestamp_ms": 1325688458000,
+  "version_id": "25efbc01-a865-4339-bb96-6d75a3584c0e",
+  "in_force": "2012-01-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D0%CE%95-%CE%9F%CE%A10",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D0%CE%95-%CE%9F%CE%A10/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%9D0%CE%95-%CE%9F%CE%A10",
+  "listing_sha256": "e8628db14a3f30ccc46da01bfbc48364695971222bd6ae66cd89fb563bbfdea2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
