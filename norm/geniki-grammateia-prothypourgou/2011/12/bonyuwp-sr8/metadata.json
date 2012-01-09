@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΝΥΘΩΠ-ΣΡ8",
+  "subject": "Καθορισμός αρμοδιοτήτων του Αναπληρωτή Υπουργού Εθνικής Άμυνας  Ιωάννη Ραγκούση",
+  "protocol_number": "Υ 28",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "70711"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2011,
+      "aa": "2821"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-12",
+  "posted": "2012-01-09",
+  "publish_timestamp_ms": 1326121740000,
+  "version_id": "e264c26f-3cc1-4212-a03f-3c1473289f60",
+  "in_force": "2012-01-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D%CE%A5%CE%98%CE%A9%CE%A0-%CE%A3%CE%A18",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D%CE%A5%CE%98%CE%A9%CE%A0-%CE%A3%CE%A18/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%9D%CE%A5%CE%98%CE%A9%CE%A0-%CE%A3%CE%A18",
+  "listing_sha256": "fbfef48883da879eb89ea595a6a6a201bbd3c887db9821e8f6b0f16e7a66d5f8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
