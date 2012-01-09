@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΝΥΩΗ8-ΦΙΜ",
+  "subject": "Έγκριση τροποποίησης της υπ’αριθμ. 304/2011 απόφασης του Δημοτικού Συμβουλίου αφορώσης την έγκριση της σύμβασης χρηματοδότησης της ΔΗ.Κ.Ε.ΦΙ.Ψ. από το Δήμο.",
+  "protocol_number": "27365",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6322",
+    "label": "ΔΗΜΟΣ ΦΙΛΟΘΕΗΣ - ΨΥΧΙΚΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80715"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-20",
+  "posted": "2012-01-09",
+  "publish_timestamp_ms": 1326114787000,
+  "version_id": "b8f2e581-bc31-4c67-afc0-db170defce88",
+  "in_force": "2012-01-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D%CE%A5%CE%A9%CE%978-%CE%A6%CE%99%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D%CE%A5%CE%A9%CE%978-%CE%A6%CE%99%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%9D%CE%A5%CE%A9%CE%978-%CE%A6%CE%99%CE%9C",
+  "listing_sha256": "1caa6a0620df4f61c6aef1c7a1e448691c98113039d2f6e90a1009f48c5ec410",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
