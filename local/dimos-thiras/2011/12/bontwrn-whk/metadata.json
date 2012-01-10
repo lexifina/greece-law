@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΝΤΩΡΝ-ΩΗΚ",
+  "subject": "Έγκριση πρακτικών διαγωνισμού του έργου «Επισκευή παιδικής χαράς στο Μεγαλοχώρι  Θήρας».",
+  "protocol_number": "214",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6116",
+    "label": "ΔΗΜΟΣ ΘΗΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83072"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-10",
+  "posted": "2012-01-10",
+  "publish_timestamp_ms": 1326181990000,
+  "version_id": "9dc8c018-2069-48dd-b160-0e3ecec13293",
+  "in_force": "2012-01-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D%CE%A4%CE%A9%CE%A1%CE%9D-%CE%A9%CE%97%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D%CE%A4%CE%A9%CE%A1%CE%9D-%CE%A9%CE%97%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%9D%CE%A4%CE%A9%CE%A1%CE%9D-%CE%A9%CE%97%CE%9A",
+  "listing_sha256": "3ea67b59ff9f1dcc78a63ade4b928d04f4b67b8612cb26e466297e08fc1838e7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
