@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΝΤΩΚ1-Ξ0Ι",
+  "subject": "ΑΔΕΙΑ ΙΔΡΥΣΕΩΣ ΛΕΙΤΟΥΡΓΙΑΣ ΚΑΤΑΣΤΗΜΑΤΟΣ",
+  "protocol_number": "3939",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6202",
+    "label": "ΔΗΜΟΣ ΚΑΜΕΝΩΝ ΒΟΥΡΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81097"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-04-06",
+  "posted": "2012-01-10",
+  "publish_timestamp_ms": 1326194857000,
+  "version_id": "fb2ce2d7-f254-481c-8521-925f87055332",
+  "in_force": "2012-01-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D%CE%A4%CE%A9%CE%9A1-%CE%9E0%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D%CE%A4%CE%A9%CE%9A1-%CE%9E0%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%9D%CE%A4%CE%A9%CE%9A1-%CE%9E0%CE%99",
+  "listing_sha256": "f932d134b2ab68a20b86d6059c91de91d56e5a22bf87f05d773cddfc7851adab",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
