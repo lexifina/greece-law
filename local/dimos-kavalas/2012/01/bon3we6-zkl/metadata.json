@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΝ3ΩΕ6-ΖΚΛ",
+  "subject": "ΤΡΙΩΝ ΙΣΟΓΕΙΩΝ ΚΑΤΟΙΚΙΩΝ ΜΕ ΥΠΟΓΕΙΟ",
+  "protocol_number": "5409/11-8-2011",
+  "decision_type": {
+    "uid": "Α.4",
+    "label": "ΓΝΩΜΟΔΟΤΗΣΗ"
+  },
+  "organization": {
+    "uid": "6126",
+    "label": "ΔΗΜΟΣ ΚΑΒΑΛΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78379"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-11",
+  "posted": "2012-01-11",
+  "publish_timestamp_ms": 1326275464000,
+  "version_id": "5adc9120-5bcc-445f-9090-f239d1960a9c",
+  "in_force": "2012-01-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D3%CE%A9%CE%956-%CE%96%CE%9A%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D3%CE%A9%CE%956-%CE%96%CE%9A%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%9D3%CE%A9%CE%956-%CE%96%CE%9A%CE%9B",
+  "listing_sha256": "79f0b8c996ee732f6d44f6606a7d08519def00d103e0fa1c54f2474b03d7f6d3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
