@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΝ37ΛΚ-3Ξ7",
+  "subject": "Έγκριση 2ης τροποποίησης του Τεχνικού Προγράμματος της Π.Ε. Ηρακλείου για το έτος 2011, από διάφορες πηγές χρηματοδότησης (Κ.Α.Π., ίδια έσοδα, Ο.Σ.Κ., Τ.Ε.Ο. κ.λ.π.)., όπως αυτό έχει εγκριθεί με την αρ. 149/2011 απόφαση του Περιφερειακού Συμβουλίου και τροποποιήθηκε με την αρ. 220/2011 απόφαση και τους συνημμένους σε αυτές πίνακες»",
+  "protocol_number": "231/2011 απόφαση του Περιφερειακού Συμβουλίου (πρακτικό Νο 20/29-12-2011)",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "84340"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4Α8Ι7ΛΚ-6ΗΜ"
+      },
+      {
+        "relatedDecisionsADA": "45Ψ67ΛΚ-ΚΣ5"
+      }
+    ]
+  },
+  "issued": "2011-12-29",
+  "posted": "2012-01-11",
+  "publish_timestamp_ms": 1326265882000,
+  "version_id": "e668545c-5e24-4ab1-92b7-530202579e37",
+  "in_force": "2012-01-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D37%CE%9B%CE%9A-3%CE%9E7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D37%CE%9B%CE%9A-3%CE%9E7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%9D37%CE%9B%CE%9A-3%CE%9E7",
+  "listing_sha256": "07fab9e42330e4a0df1d9f3f18af5945b1ba11dc1051a13a04832f6556f7fc3f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
