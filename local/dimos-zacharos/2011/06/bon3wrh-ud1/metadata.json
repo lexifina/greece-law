@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΝ3ΩΡΗ-ΘΔ1",
+  "subject": "«Λήψη απόφασης επί της αριθ. 1/11  αποφάσεως   του Συμβουλίου Δημοτικής Κοινότητας Ζαχάρως  σχετικά με τις κυκλοφοριακές ρυθμίσεις στο Κέντρο της  πόλεως Ζαχάρως  ».",
+  "protocol_number": "12",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6101",
+    "label": "ΔΗΜΟΣ ΖΑΧΑΡΩΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85980"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-06-24",
+  "posted": "2012-01-11",
+  "publish_timestamp_ms": 1326281350000,
+  "version_id": "65317291-b6f1-4a2e-b4cc-3ac220a54b3c",
+  "in_force": "2012-01-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D3%CE%A9%CE%A1%CE%97-%CE%98%CE%941",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D3%CE%A9%CE%A1%CE%97-%CE%98%CE%941/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%9D3%CE%A9%CE%A1%CE%97-%CE%98%CE%941",
+  "listing_sha256": "ee11050b7a26bac6e050629d1948909c5d36c6a1f3e94826a32c120f9faf59fd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
