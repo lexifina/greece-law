@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΝΔΟΡ1Θ-8Τ2",
+  "subject": "Ελεγχος νομιμότητας της 1125/2011 απόφασης του ΔΣ του Δήμου Χανίων",
+  "protocol_number": "44",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "83476"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-12",
+  "posted": "2012-01-12",
+  "publish_timestamp_ms": 1326364807000,
+  "version_id": "a9c51f0c-fead-468c-ba59-fc9aa658018c",
+  "in_force": "2012-01-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D%CE%94%CE%9F%CE%A11%CE%98-8%CE%A42",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D%CE%94%CE%9F%CE%A11%CE%98-8%CE%A42/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%9D%CE%94%CE%9F%CE%A11%CE%98-8%CE%A42",
+  "listing_sha256": "a6ce1a19d2db5f0d3f0c6a74f3b7247ccc5d70a17664b40fd2d02fbdbda6a698",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
