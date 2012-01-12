@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΝΔΩΡ1-Σ5Δ",
+  "subject": "Η με αριθμ. 308/2011 απόφαση Δημοτικού Συμβουλίου με θέμα «Λήψη Κανονιστικής απόφασης  «Ρυθμίσεις  Κυκλοφορίας  Πεζόδρομων και λοιπών ρυθμίσεων»   ΣΕ ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ",
+  "protocol_number": "308",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6100",
+    "label": "ΔΗΜΟΣ ΖΑΚΥΝΘΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79743"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-06-29",
+  "posted": "2012-01-12",
+  "publish_timestamp_ms": 1326363859000,
+  "version_id": "b22c1135-e07a-46b9-a09f-cb2bc282cbe5",
+  "in_force": "2012-01-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D%CE%94%CE%A9%CE%A11-%CE%A35%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D%CE%94%CE%A9%CE%A11-%CE%A35%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%9D%CE%94%CE%A9%CE%A11-%CE%A35%CE%94",
+  "listing_sha256": "7e0991f607d4bd4e5dc20e5465ea934c05bd5b08a13f665a85f9ef8e9d3d95a8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
