@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΝΔΩΨΚ-ΦΘΗ",
+  "subject": "ΔΙΑΠΙΣΤΩΤΙΚΗ ΠΡΑΞΗ Κατάταξης των υπαλλήλων στα μισθολογικά κλιμάκια του Ν.4024/2011",
+  "protocol_number": "14225",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6030",
+    "label": "ΔΗΜΟΣ ΑΜΦΙΚΛΕΙΑΣ - ΕΛΑΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86109"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-07",
+  "posted": "2012-01-12",
+  "publish_timestamp_ms": 1326354393000,
+  "version_id": "05594f8e-ce10-4732-a7dd-3934c70cbdad",
+  "in_force": "2012-01-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D%CE%94%CE%A9%CE%A8%CE%9A-%CE%A6%CE%98%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D%CE%94%CE%A9%CE%A8%CE%9A-%CE%A6%CE%98%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%9D%CE%94%CE%A9%CE%A8%CE%9A-%CE%A6%CE%98%CE%97",
+  "listing_sha256": "8c1f9dc3d1a9b8b70a077f3819043e07deae23c6c1731ede21007d5aa0d51cc7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
