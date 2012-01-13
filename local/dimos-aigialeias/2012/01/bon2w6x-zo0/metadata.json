@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΝ2Ω6Χ-ΖΟ0",
+  "subject": "Απόφαση Δ.Σ. αριθ.769 \"Έγκριση της υπ’ αριθ. 91/2011 απόφασης της Επιτροπής Ποιότητας Ζωής, με θέμα: «Ανάκληση της υπ’ αριθμ.440/2011 απόφασης του Δ.Σ. Αιγιάλειας, ως προς την παράγραφο (1) που αφορά τη χορήγηση άδειας απαγόρευσης στάσης και στάθμευσης απέναντι από την είσοδο του ιδιωτικού χώρου στάθμευσης της  οικίας του κ. Παπακωνσταντίνου Παναγιώτη, στην οδό Προμηθέως 5, στο  Αίγιο\".",
+  "protocol_number": "1324",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6015",
+    "label": "ΔΗΜΟΣ ΑΙΓΙΑΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80851"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-11",
+  "posted": "2012-01-13",
+  "publish_timestamp_ms": 1326438854000,
+  "version_id": "d5811e4e-3843-4ba3-a7e5-0035074fb088",
+  "in_force": "2012-01-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D2%CE%A96%CE%A7-%CE%96%CE%9F0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D2%CE%A96%CE%A7-%CE%96%CE%9F0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%9D2%CE%A96%CE%A7-%CE%96%CE%9F0",
+  "listing_sha256": "7325e07b6e7998a1178e5ab20456c1d6a90d82122ac8b76d686e7963d21536d2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
