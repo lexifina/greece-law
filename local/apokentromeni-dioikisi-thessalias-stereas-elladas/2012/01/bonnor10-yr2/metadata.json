@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΝΝΟΡ10-ΥΡ2",
+  "subject": "ΝΟΜΙΜΟΠΟΙΗΣΗ ΤΗΣ ΑΡΙΘΜ 785/2011 ΑΠΟΦΑΣΗΣ ΔΣ ΔΗΜΟΥ ΒΟΛΟΥ ΠΕΡΙ ΕΠΑΝΑΚΑΘΟΡΙΣΜΟΥ ΘΕΣΗΣ ΣΤΑΣΗΣ ΟΧΗΜΑΤΟΣ ΑΜΕΑ ΣΤΗΝ ΕΙΣΟΔΟ ΑΓ.ΒΑΣΙΛΕΙΟΥ 46",
+  "protocol_number": "132/6194",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77990"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "45Ψ0Ω96-ΥΥΗ"
+      }
+    ]
+  },
+  "issued": "2012-01-18",
+  "posted": "2012-01-18",
+  "publish_timestamp_ms": 1326888152000,
+  "version_id": "29389987-c28b-4449-96e1-32e1400857db",
+  "in_force": "2012-01-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D%CE%9D%CE%9F%CE%A110-%CE%A5%CE%A12",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%9D%CE%9D%CE%9F%CE%A110-%CE%A5%CE%A12/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%9D%CE%9D%CE%9F%CE%A110-%CE%A5%CE%A12",
+  "listing_sha256": "04c57dc7e08be978a785eae11d50ca4018d2f564de5a988b043e35306c2c313d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
