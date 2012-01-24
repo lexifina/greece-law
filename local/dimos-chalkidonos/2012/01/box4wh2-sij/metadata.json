@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧ4ΩΗ2-ΣΙΞ",
+  "subject": "ΑΟΕ 5/2012\tΑνατροπή αναλήψεων υποχρεώσεων έτους 2011",
+  "protocol_number": "---",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6315",
+    "label": "ΔΗΜΟΣ ΧΑΛΚΗΔΟΝΟΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83015"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-20",
+  "posted": "2012-01-24",
+  "publish_timestamp_ms": 1327397205000,
+  "version_id": "28565a8e-b22b-491e-80dd-4c4f3ff67d03",
+  "in_force": "2012-01-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A74%CE%A9%CE%972-%CE%A3%CE%99%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A74%CE%A9%CE%972-%CE%A3%CE%99%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A74%CE%A9%CE%972-%CE%A3%CE%99%CE%9E",
+  "listing_sha256": "3be277f1b79982f7a9a5d52e7ff50098394fbb0d44bf86b18954a2819d0e1916",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
