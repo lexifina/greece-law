@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧ4Η-ΠΝ5",
+  "subject": "Καθορισμός της διαδικασίας εφαρμογής των ρυθμίσεων της παρ. 4, του άρθρου 28, του ν. 2362/1995",
+  "protocol_number": "2/55258/0026",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2011,
+      "aa": "2992"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-27",
+  "posted": "2012-01-24",
+  "publish_timestamp_ms": 1327405934000,
+  "version_id": "36c22ad2-80da-4148-a482-92862ccd0b0e",
+  "in_force": "2012-01-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A74%CE%97-%CE%A0%CE%9D5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A74%CE%97-%CE%A0%CE%9D5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A74%CE%97-%CE%A0%CE%9D5",
+  "listing_sha256": "67e5ea9cf4c6f76b25d090ec64e1b3b60b4d7163e13ea959c9736ae46f8cd4ef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
