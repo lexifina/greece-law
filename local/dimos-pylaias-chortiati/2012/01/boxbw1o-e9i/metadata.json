@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧΒΩ1Ο-Ε9Ι",
+  "subject": "Αποδοχή πρότασης της Επιτροπής Επίλυσης Φορολογικών διαφορών Δήμου Πυλαίας Χορτιάτη και έγκριση των από 15/12/2011 πρακτικών αυτής.",
+  "protocol_number": "1885",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6257",
+    "label": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80520"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-12",
+  "posted": "2012-01-25",
+  "publish_timestamp_ms": 1327477325000,
+  "version_id": "754f014b-350c-4ad1-b219-6a3299239220",
+  "in_force": "2012-01-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A7%CE%92%CE%A91%CE%9F-%CE%959%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A7%CE%92%CE%A91%CE%9F-%CE%959%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A7%CE%92%CE%A91%CE%9F-%CE%959%CE%99",
+  "listing_sha256": "85e4e3792fecb15275ee04a20ddbf9d460328770481504ecfff245c6afb0e604",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
