@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧΒΩ62-ΟΝΔ",
+  "subject": "Ανάκληση των με αριθ. 521/11, 522/11 και 523/11 αποφάσεων Δημοτικού Συμβουλίου που αφορούν προμήθειες τροφίμων  έτους 2012 για τους Βρεφονηπιακούς Σταθμούς του Δήμου.",
+  "protocol_number": "023/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6009",
+    "label": "ΔΗΜΟΣ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78023"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΟΝΥΩ62-ΜΝΟ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΟΝΥΩ62-Α3Ψ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΟΝΥΩ62-ΥΣΩ"
+      }
+    ]
+  },
+  "issued": "2012-01-19",
+  "posted": "2012-01-25",
+  "publish_timestamp_ms": 1327480144000,
+  "version_id": "a88a5fa8-9a45-4461-acdd-a0460b7e6168",
+  "in_force": "2012-01-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A7%CE%92%CE%A962-%CE%9F%CE%9D%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A7%CE%92%CE%A962-%CE%9F%CE%9D%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A7%CE%92%CE%A962-%CE%9F%CE%9D%CE%94",
+  "listing_sha256": "bcadd9eb81da6ab3c0789a076ea5cc3d923279f9c90839f0c6a93fbdea6de59c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
