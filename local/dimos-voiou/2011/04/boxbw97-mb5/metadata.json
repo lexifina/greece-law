@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧΒΩ97-ΜΒ5",
+  "subject": "Απόφαση ανάληψης υποχρέωσης 278",
+  "protocol_number": "278",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6056",
+    "label": "ΔΗΜΟΣ ΒΟΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82123"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-04-05",
+  "posted": "2012-01-25",
+  "publish_timestamp_ms": 1327497329000,
+  "version_id": "28368aa5-63b0-4a8f-bd43-8897ebf265c5",
+  "in_force": "2012-01-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A7%CE%92%CE%A997-%CE%9C%CE%925",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A7%CE%92%CE%A997-%CE%9C%CE%925/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A7%CE%92%CE%A997-%CE%9C%CE%925",
+  "listing_sha256": "295663414694b685fb5b33eaa13df31872e15465b75e47d2e4ae042f4314d084",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
