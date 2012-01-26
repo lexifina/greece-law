@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧ7ΩΛΓ-95Β",
+  "subject": "Σύσταση επιτροπής με σκοπό την εξέταση και κωδικοποίηση των προτάσεων σχετικά με την ΚΥΑ 31722/04-11-12 (ΦΕΚ 2505/04-11-12).",
+  "protocol_number": "Απόφαση Δημοτικού Συμβουλίου 233/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6171",
+    "label": "ΔΗΜΟΣ ΛΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82887"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-28",
+  "posted": "2012-01-26",
+  "publish_timestamp_ms": 1327564723000,
+  "version_id": "5dc09bf9-d7d5-4d46-876a-1193ab8fc8d8",
+  "in_force": "2012-01-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A77%CE%A9%CE%9B%CE%93-95%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A77%CE%A9%CE%9B%CE%93-95%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A77%CE%A9%CE%9B%CE%93-95%CE%92",
+  "listing_sha256": "61eb455ad7691fd3d375bfab7f70e30759d0feee813cbff541724e368190782d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
