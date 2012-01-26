@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧ7Η-Σ6Η",
+  "subject": "Εφαρμογή των διατάξεων του άρθρου 48 του ν. 3842/2010\r\n(ΦΕΚ 58Α΄/23-4-2010) σχετικά με τις υποχρεώσεις των\r\nσυμβολαιογράφων κατά τη σύνταξη συμβολαιογραφικών εγγράφων για\r\nτη μεταβίβαση ακινήτων με αντάλλαγμα ή με χαριστική αιτία ή τη\r\nδημιουργία εμπραγμάτων δικαιωμάτων σε ακίνητα",
+  "protocol_number": "ΠΟΛ 1265",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2013,
+      "aa": "39"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-30",
+  "posted": "2012-01-26",
+  "publish_timestamp_ms": 1327564176000,
+  "version_id": "fd6b03c2-60d9-4794-b5f6-85f88a9ee9f4",
+  "in_force": "2012-01-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A77%CE%97-%CE%A36%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A77%CE%97-%CE%A36%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A77%CE%97-%CE%A36%CE%97",
+  "listing_sha256": "334489c7f3f8477c8379bf4ee802f0b495162551bbac8f5ba6526fb4625c9a26",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
