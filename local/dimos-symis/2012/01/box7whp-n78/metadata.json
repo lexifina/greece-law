@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧ7ΩΗΠ-Ν78",
+  "subject": "ΑΠΟΦΑΣΗ ΑΝΑΤΡΟΠΗΣ ΑΝΑΛΗΨΗΣ ΥΠΟΧΡΕΩΣΗΣ",
+  "protocol_number": "164",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6290",
+    "label": "ΔΗΜΟΣ ΣΥΜΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78543"
+  ],
+  "thematic_category_ids": [],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-25",
+  "posted": "2012-01-26",
+  "publish_timestamp_ms": 1327561410000,
+  "version_id": "2b71cf5c-ab94-409c-94c8-26c8b00254fb",
+  "in_force": "2012-01-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A77%CE%A9%CE%97%CE%A0-%CE%9D78",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A77%CE%A9%CE%97%CE%A0-%CE%9D78/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A77%CE%A9%CE%97%CE%A0-%CE%9D78",
+  "listing_sha256": "9021a10d073005de4523b4fa24ce3d11b8a085a375fca1c2fd5de5d6fafe0f81",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
