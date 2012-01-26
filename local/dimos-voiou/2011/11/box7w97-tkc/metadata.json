@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧ7Ω97-ΤΚΨ",
+  "subject": "132/2011 ΑΠΟΦΑΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ",
+  "protocol_number": "29394",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6056",
+    "label": "ΔΗΜΟΣ ΒΟΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85504"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-11-16",
+  "posted": "2012-01-26",
+  "publish_timestamp_ms": 1327575035000,
+  "version_id": "97e3b775-d75c-4742-a5d5-fc0fd8450b01",
+  "in_force": "2012-01-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A77%CE%A997-%CE%A4%CE%9A%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A77%CE%A997-%CE%A4%CE%9A%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A77%CE%A997-%CE%A4%CE%9A%CE%A8",
+  "listing_sha256": "73380f253f46e44e8641ecf48e7e89633009e5249ab16ae1cbc8126ef50271fc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
