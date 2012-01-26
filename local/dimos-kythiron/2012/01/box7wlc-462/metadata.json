@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧ7ΩΛΨ-462",
+  "subject": "005-2012 Απόφαση Δ Σ : Μετακίνηση Δημάρχου",
+  "protocol_number": "5/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6161",
+    "label": "ΔΗΜΟΣ ΚΥΘΗΡΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83168"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-19",
+  "posted": "2012-01-26",
+  "publish_timestamp_ms": 1327583469000,
+  "version_id": "247e9625-a7a3-4bbc-91cc-b501aedb6b50",
+  "in_force": "2012-01-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A77%CE%A9%CE%9B%CE%A8-462",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A77%CE%A9%CE%9B%CE%A8-462/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A77%CE%A9%CE%9B%CE%A8-462",
+  "listing_sha256": "8df0a0d6ed48b85d0d2dfe35346fb56133bac094693562c0b4df12e888ead5cc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
