@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧ7Ω1Β-1ΕΔ",
+  "subject": "Απόφαση ανάθεσης ρπομήθειας",
+  "protocol_number": "25214/23-12-2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6259",
+    "label": "ΔΗΜΟΣ ΠΥΛΟΥ - ΝΕΣΤΟΡΟΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-23",
+  "posted": "2012-01-26",
+  "publish_timestamp_ms": 1327576057000,
+  "version_id": "31a1d1b0-ef13-4310-a482-ad191975d61e",
+  "in_force": "2012-01-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A77%CE%A91%CE%92-1%CE%95%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A77%CE%A91%CE%92-1%CE%95%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A77%CE%A91%CE%92-1%CE%95%CE%94",
+  "listing_sha256": "d1a511c1a7c45ea3d7d671b3358d31aa82fc58fe932a628fa45137aaabb8aab8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
