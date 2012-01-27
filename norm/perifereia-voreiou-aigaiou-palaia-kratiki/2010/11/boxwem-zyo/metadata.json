@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧΩΕΜ-ΖΥΟ",
+  "subject": "Κήρυξη αναδασωτέας δημοτικής δασικής έκτασης εμβαδού δέκα οκτώ στρεμμάτων είκοσι επτά χιλιοστών του στρέμματος (18,027 στρ.) στη θέση «Βατούσα-Τράχηλος» περιφέρειας τοπικού διαμερίσματος Καρδαμύλων Δήμου Καρδαμύλων Ν. Χίου.",
+  "protocol_number": "40132/2552",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "369",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ (ΠΑΛΑΙΑ ΚΡΑΤΙΚΗ)",
+    "category": "LOCAL_AUTHORITY"
+  },
+  "unit_ids": [
+    "70030"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_D",
+      "issueyear": 2010,
+      "aa": "646"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2010-11-04",
+  "posted": "2012-01-27",
+  "publish_timestamp_ms": 1327647711000,
+  "version_id": "c0707da0-bbed-4349-aa01-dde8fbe710c1",
+  "in_force": "2012-01-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A7%CE%A9%CE%95%CE%9C-%CE%96%CE%A5%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A7%CE%A9%CE%95%CE%9C-%CE%96%CE%A5%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A7%CE%A9%CE%95%CE%9C-%CE%96%CE%A5%CE%9F",
+  "listing_sha256": "ad97b69788ec7a710e0468527c8c8775635314f3ac5a1b620cef62dacbccb884",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
