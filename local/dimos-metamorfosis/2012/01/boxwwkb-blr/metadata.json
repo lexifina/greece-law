@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧΩΩΚΒ-ΒΛΡ",
+  "subject": "ΕΓΚΡΙΣΗ ΔΑΠΑΝΩΝ ΚΑΙ ΔΙΑΘΕΣΗ ΔΙΑΦΟΡΩΝ ΠΙΣΤΩΣΕΩΝ",
+  "protocol_number": "210",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6191",
+    "label": "ΔΗΜΟΣ ΜΕΤΑΜΟΡΦΩΣΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79680"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-04",
+  "posted": "2012-01-27",
+  "publish_timestamp_ms": 1327667427000,
+  "version_id": "bb432f82-ed84-4dae-a82d-e05b7b74a8be",
+  "in_force": "2012-01-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A7%CE%A9%CE%A9%CE%9A%CE%92-%CE%92%CE%9B%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A7%CE%A9%CE%A9%CE%9A%CE%92-%CE%92%CE%9B%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A7%CE%A9%CE%A9%CE%9A%CE%92-%CE%92%CE%9B%CE%A1",
+  "listing_sha256": "af0879e11d2a5fe1eb3714d40bf9fb661ddabf73f9cfb7938bdc821e31869e08",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
