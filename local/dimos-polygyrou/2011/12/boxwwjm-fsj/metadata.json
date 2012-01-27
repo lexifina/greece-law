@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧΩΩΞΜ-ΦΣΞ",
+  "subject": "Απόφαση δημοτικού συμβουλίου 518-2011-Αγορά ακινήτου Καραμάνου – Γκλάβα για αξιοποίηση ακινήτου Κότσιανου",
+  "protocol_number": "518-2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6251",
+    "label": "ΔΗΜΟΣ ΠΟΛΥΓΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84396"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-21",
+  "posted": "2012-01-27",
+  "publish_timestamp_ms": 1327672549000,
+  "version_id": "d8630e19-30aa-4c91-99eb-f27297508c3b",
+  "in_force": "2012-01-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A7%CE%A9%CE%A9%CE%9E%CE%9C-%CE%A6%CE%A3%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A7%CE%A9%CE%A9%CE%9E%CE%9C-%CE%A6%CE%A3%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A7%CE%A9%CE%A9%CE%9E%CE%9C-%CE%A6%CE%A3%CE%9E",
+  "listing_sha256": "b1a0741c716c5b5bccde44e942e5a157fc74e5c4732fbf4ea04d95a452b1cbef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
