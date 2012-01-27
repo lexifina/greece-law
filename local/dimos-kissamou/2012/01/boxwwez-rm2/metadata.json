@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧΩΩΕΖ-ΡΜ2",
+  "subject": "ΨΗΦΙΣΗ ΠΙΣΤΩΣΗΣ",
+  "protocol_number": "1022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6153",
+    "label": "ΔΗΜΟΣ ΚΙΣΣΑΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78080"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-25",
+  "posted": "2012-01-27",
+  "publish_timestamp_ms": 1327668166000,
+  "version_id": "9675091b-fa85-436b-b647-f614ca795892",
+  "in_force": "2012-01-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A7%CE%A9%CE%A9%CE%95%CE%96-%CE%A1%CE%9C2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A7%CE%A9%CE%A9%CE%95%CE%96-%CE%A1%CE%9C2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A7%CE%A9%CE%A9%CE%95%CE%96-%CE%A1%CE%9C2",
+  "listing_sha256": "9021a10d073005de4523b4fa24ce3d11b8a085a375fca1c2fd5de5d6fafe0f81",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
