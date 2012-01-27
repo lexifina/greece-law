@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧΩΗ-Σ3Η",
+  "subject": "«Τροποποίηση της υπ΄ αριθ. 68/2002 Απόφασης του Ανωτάτου Χημικού Συμβουλίου       (ΦΕΚ 641/Β/23/05.2002) με την οπoία εναρμονίσθηκε  το άρθρο 67 ‘’Μέλι ‘’ του Κώδικα Τροφίμων και Ποτών (ΦΕΚ 788/31-12-87) προς τις διατάξεις της οδηγίας 2001/110/Ε.Κ  του Συμβουλίου (ΕΕ L  10/12.01. 2002)»",
+  "protocol_number": "183/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "19"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-12",
+  "posted": "2012-01-27",
+  "publish_timestamp_ms": 1327655205000,
+  "version_id": "df6d452e-1610-40a5-86c0-f2ef6ea9b416",
+  "in_force": "2012-01-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A7%CE%A9%CE%97-%CE%A33%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A7%CE%A9%CE%97-%CE%A33%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A7%CE%A9%CE%97-%CE%A33%CE%97",
+  "listing_sha256": "85e4e3792fecb15275ee04a20ddbf9d460328770481504ecfff245c6afb0e604",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
