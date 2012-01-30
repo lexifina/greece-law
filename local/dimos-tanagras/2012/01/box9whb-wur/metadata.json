@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧ9ΩΗΒ-ΩΘΡ",
+  "subject": "Έγκριση της τροποποίησης της υπ’ αριθμόν 9916-9668/30-12-10 εγκεκριμένης κυκλοφοριακής σύνδεσης σε Έγκριση «Εισόδου-Εξόδου»  καθώς και αλλαγή φορέα αυτής  από «UNILENER-KNORR A.B.E.E» σε «UNILEVER LOGISTICS A.E.» στη θέση «Ρουθούνια» ή «Δρόμος Χαλκίδας» της Δημοτικής Κοινότητας Σχηματαρίου του Δήμου Τανάγρας.",
+  "protocol_number": "1745",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6293",
+    "label": "ΔΗΜΟΣ ΤΑΝΑΓΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80885"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-30",
+  "posted": "2012-01-30",
+  "publish_timestamp_ms": 1327914857000,
+  "version_id": "fc5033ad-b7a9-4378-b41a-f7f0df02a944",
+  "in_force": "2012-01-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A79%CE%A9%CE%97%CE%92-%CE%A9%CE%98%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A79%CE%A9%CE%97%CE%92-%CE%A9%CE%98%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A79%CE%A9%CE%97%CE%92-%CE%A9%CE%98%CE%A1",
+  "listing_sha256": "6a92810ed418f75e70d135cc244c3909e48aef7320e8b0c0a11373d6f7e162bd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
