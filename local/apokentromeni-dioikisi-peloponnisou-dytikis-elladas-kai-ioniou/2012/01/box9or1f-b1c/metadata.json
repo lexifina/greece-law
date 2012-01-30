@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΧ9ΟΡ1Φ-Β1Ψ",
+  "subject": "ΑΠΟΦΑΣΗ ΑΝΑΚΛΗΣΗΣ ΔΕΣΜΕΥΣΗΣ",
+  "protocol_number": "ΟΙΚ.689/619",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76448"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-17",
+  "posted": "2012-01-30",
+  "publish_timestamp_ms": 1327923635000,
+  "version_id": "0e7c1f9f-8f9d-497b-86d1-441453734dcb",
+  "in_force": "2012-01-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A79%CE%9F%CE%A11%CE%A6-%CE%921%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%A79%CE%9F%CE%A11%CE%A6-%CE%921%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%A79%CE%9F%CE%A11%CE%A6-%CE%921%CE%A8",
+  "listing_sha256": "c33910340319bb2055a7d01eff32d67e6757898b40b79bb7bf28d0bbd93deb0a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
