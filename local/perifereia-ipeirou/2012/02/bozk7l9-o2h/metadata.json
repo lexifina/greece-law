@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖΚ7Λ9-Ο2Η",
+  "subject": "έκδοση εντάλματος προπληρωμής",
+  "protocol_number": "287/91",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5006",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81425"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-02",
+  "posted": "2012-02-02",
+  "publish_timestamp_ms": 1328180480000,
+  "version_id": "b0808de6-e604-4f12-bb6e-10443d9dd51a",
+  "in_force": "2012-02-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%9A7%CE%9B9-%CE%9F2%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%9A7%CE%9B9-%CE%9F2%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%96%CE%9A7%CE%9B9-%CE%9F2%CE%97",
+  "listing_sha256": "77a5855035535fe84406c524c6435bda62f2fdd64c27c30e76c6c806d064a2e2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
