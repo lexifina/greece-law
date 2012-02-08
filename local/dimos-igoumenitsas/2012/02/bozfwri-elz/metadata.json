@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖΦΩΡΙ-ΕΛΖ",
+  "subject": "ΑΠΟΦΑΣΗ ΟΙΚΟΝΟΜΙΚΗΣ 14/2012 «Έγκριση πρακτικών άγονου\r\nδιαγωνισμού για την εκμίσθωση ελαιόκαρπου της Τοπικής Κοινότητας\r\nΚαρτερίου»",
+  "protocol_number": "3112",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6105",
+    "label": "ΔΗΜΟΣ ΗΓΟΥΜΕΝΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81726"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-06",
+  "posted": "2012-02-08",
+  "publish_timestamp_ms": 1328688493000,
+  "version_id": "45056453-841f-4311-9155-0723253fce8e",
+  "in_force": "2012-02-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%A6%CE%A9%CE%A1%CE%99-%CE%95%CE%9B%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%A6%CE%A9%CE%A1%CE%99-%CE%95%CE%9B%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%96%CE%A6%CE%A9%CE%A1%CE%99-%CE%95%CE%9B%CE%96",
+  "listing_sha256": "77a41129df9d3f030f159e553412e62b4046126ec030ae1f6c604580739dd5ff",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
