@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖΙΩΨΑ-Γ6Υ",
+  "subject": "Έγκριση απόφασης του Ν.Π.Δ.Δ. Κ.Κ.Μ.Π.Α.Π.(Πρ/σμός)",
+  "protocol_number": "49/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6045",
+    "label": "ΔΗΜΟΣ ΑΡΤΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83911"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-08",
+  "posted": "2012-02-09",
+  "publish_timestamp_ms": 1328790724000,
+  "version_id": "0e944b08-f897-418e-bdd4-de3dd0500e35",
+  "in_force": "2012-02-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%99%CE%A9%CE%A8%CE%91-%CE%936%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%99%CE%A9%CE%A8%CE%91-%CE%936%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%96%CE%99%CE%A9%CE%A8%CE%91-%CE%936%CE%A5",
+  "listing_sha256": "846aab3462e14b534e9007130092ee1f2033a05efdb5a3041a2991868b3e05d5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
