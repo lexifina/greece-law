@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖ346ΨΖΣΘ-1Ι9",
+  "subject": "Μετακινήσεις εκτός έδρας",
+  "protocol_number": "ΤΟ-1280",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99203044",
+    "label": "ΕΛΛΗΝΙΚΟ ΑΝΟΙΚΤΟ ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-13",
+  "posted": "2012-02-13",
+  "publish_timestamp_ms": 1329138232000,
+  "version_id": "25c792e1-9261-4ca7-b3a8-a8af0d305bfb",
+  "in_force": "2012-02-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96346%CE%A8%CE%96%CE%A3%CE%98-1%CE%999",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96346%CE%A8%CE%96%CE%A3%CE%98-1%CE%999/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%96346%CE%A8%CE%96%CE%A3%CE%98-1%CE%999",
+  "listing_sha256": "c96cab7b50248c9d2491e8d21147d9fd5b51a8093e6c98223001e1f1a984de14",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
