@@ -1,0 +1,39 @@
+{
+  "year": 2012,
+  "number": 4043,
+  "url": "https://api.et.gr/apiLAW/1/2012/4043/pdf",
+  "source_sha256": "cdae3a37eb732e8943bcd053df15b5741d256bab6416e4920e6889f9b3a698a5",
+  "published": "2012-02-13",
+  "in_force": "2012-02-13",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "in_force_general_day": false,
+  "pages": 8,
+  "images": [
+    {
+      "page": 3,
+      "sha256": "1f3e7306a8ca6e05bddd122a3ed53b76336cc52011b05a1d2bae0df5ed9453a7",
+      "ext": "png",
+      "bytes": 330655,
+      "bbox": [
+        82.7,
+        82.9,
+        567.9,
+        803.2
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "2c21954a416f29792eae3ee351520c5e1b07eb8dac9197831f2431c1667068d0",
+      "ext": "png",
+      "bytes": 290706,
+      "bbox": [
+        46.0,
+        83.9,
+        532.3,
+        688.7
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
