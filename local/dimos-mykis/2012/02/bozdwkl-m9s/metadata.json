@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖΔΩΚΛ-Μ9Σ",
+  "subject": "Έγκρισης γνωμοδότησης της Οικ. Επιτροπής για παραίτηση από την ανακοπή που ασκήθηκε κατά της υπ αρ. 199/2011 διαταγής πληρωμής του Μονομελούς Πρωτοδικείου Ξάνθης",
+  "protocol_number": "23",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6199",
+    "label": "ΔΗΜΟΣ ΜΥΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83890"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-13",
+  "posted": "2012-02-14",
+  "publish_timestamp_ms": 1329211564000,
+  "version_id": "98d2b1a5-b735-4a83-8b88-104be0a1ea5b",
+  "in_force": "2012-02-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%94%CE%A9%CE%9A%CE%9B-%CE%9C9%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%94%CE%A9%CE%9A%CE%9B-%CE%9C9%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%96%CE%94%CE%A9%CE%9A%CE%9B-%CE%9C9%CE%A3",
+  "listing_sha256": "c96cab7b50248c9d2491e8d21147d9fd5b51a8093e6c98223001e1f1a984de14",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
