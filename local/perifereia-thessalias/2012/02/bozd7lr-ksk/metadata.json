@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖΔ7ΛΡ-ΚΣΚ",
+  "subject": "ΠΡΟΜΗΘΕΙΑ ,(2) ,ΔΙΤΡΟΧΩΝ ΚΑΡΟΤΣΙΩΝ ΓΙΑ ΤΗΝ ΜΕΤΑΦΟΡΑ ΤΗΣ\r\nΑΛΛΗΛΟΓΡΑΦΙΑΣ ΤΩΝ ΥΠΗΡΕΣΙΩΝ ΤΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΘΕΣΣΑΛΙΑΣ",
+  "protocol_number": "603",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81793"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-01",
+  "posted": "2012-02-14",
+  "publish_timestamp_ms": 1329216470000,
+  "version_id": "92c47846-f71d-4e07-b7aa-37d168e9c2a4",
+  "in_force": "2012-02-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%947%CE%9B%CE%A1-%CE%9A%CE%A3%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%947%CE%9B%CE%A1-%CE%9A%CE%A3%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%96%CE%947%CE%9B%CE%A1-%CE%9A%CE%A3%CE%9A",
+  "listing_sha256": "3b8f1ae18b37a0b941633ab5ef0e07fbe2681af2ce67a6db97363ae599cf4fe1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
