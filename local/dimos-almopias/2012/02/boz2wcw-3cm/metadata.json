@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖ2ΩΨΩ-3ΨΜ",
+  "subject": "Πράξη ανάθεσης σε δικηγόρο, για την εκπροσώπηση του Δήμου Αλμωπίας στην συζήτηση της αγωγής που θα πραγματοποιηθεί στο Πρωτοδικείο\r\nΈδεσσας στις 08-03-2012, ή σε κάθε μετά απο αναβολή δικάσιμο, που αφορά στην υπόθεση της εταιρείας “ΙΜΠΕΞ ΕΜΠΟΡΙΚΗ ΕΙΣΑΓΩΓΙΚΗ\r\nΑ.Β.Ε.Ε.Ε.” κατά του πρώην Δήμου Αριδαίας.",
+  "protocol_number": "17",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6023",
+    "label": "ΔΗΜΟΣ ΑΛΜΩΠΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85011"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-06",
+  "posted": "2012-02-15",
+  "publish_timestamp_ms": 1329311638000,
+  "version_id": "6dfee0f1-7246-4bbf-8c23-bc5b257012c1",
+  "in_force": "2012-02-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%962%CE%A9%CE%A8%CE%A9-3%CE%A8%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%962%CE%A9%CE%A8%CE%A9-3%CE%A8%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%962%CE%A9%CE%A8%CE%A9-3%CE%A8%CE%9C",
+  "listing_sha256": "74866ec45bdcaf7b2ccdab2a793def5e72b040d2c27bbb358693e0ff675eb9da",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
