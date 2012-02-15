@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖ2Ω9Μ-ΤΦΖ",
+  "subject": "Παραλαβή αποτελεσμάτων έκθεσης εκτάκτου διαχειριστικού ελέγχου για τις χρήσεις ετών 2009 και 2010 ΔΕΚΠΟΤΑ – ΔΕΝΑΔ",
+  "protocol_number": "24/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79156"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΟΖ2Ω9Μ-89Ω"
+      }
+    ]
+  },
+  "issued": "2012-02-08",
+  "posted": "2012-02-15",
+  "publish_timestamp_ms": 1329292287000,
+  "version_id": "168ba6a6-5daf-4494-92da-da87f48f3de1",
+  "in_force": "2012-02-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%962%CE%A99%CE%9C-%CE%A4%CE%A6%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%962%CE%A99%CE%9C-%CE%A4%CE%A6%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%962%CE%A99%CE%9C-%CE%A4%CE%A6%CE%96",
+  "listing_sha256": "6c9809cc217e475787d500ab733cd89ca252f96a8fe819e568d1f3616914811e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
