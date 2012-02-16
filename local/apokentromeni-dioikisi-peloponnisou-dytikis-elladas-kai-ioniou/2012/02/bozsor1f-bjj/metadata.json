@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖΣΟΡ1Φ-ΒΞΞ",
+  "subject": "ΕΓΚΡΙΣΗ ΑΠΟΦ. 6/12  ΕΠΙΤΡ. ΑΝ.&ΚΟΙΝ.ΠΟΛ.  ΠΣ ΠΔΕ",
+  "protocol_number": "9167/1765",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76448"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-13",
+  "posted": "2012-02-16",
+  "publish_timestamp_ms": 1329380182000,
+  "version_id": "51e741fa-0feb-47ae-bdac-f8542cd6fe18",
+  "in_force": "2012-02-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%A3%CE%9F%CE%A11%CE%A6-%CE%92%CE%9E%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%A3%CE%9F%CE%A11%CE%A6-%CE%92%CE%9E%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%96%CE%A3%CE%9F%CE%A11%CE%A6-%CE%92%CE%9E%CE%9E",
+  "listing_sha256": "a562dbc729775b1f83652c90db4bb59be1ebbd2cfba6d9889b9f5c0647fad468",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
