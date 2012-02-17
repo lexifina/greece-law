@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖΑΩΡΥ-5ΕΗ",
+  "subject": "Ανατροπές Αποφάσεων Ανάληψης Υποχρέωσης.",
+  "protocol_number": "14/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6107",
+    "label": "ΔΗΜΟΣ ΗΛΙΟΥΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83203"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-07",
+  "posted": "2012-02-17",
+  "publish_timestamp_ms": 1329472298000,
+  "version_id": "e2a7e3b7-c78f-4127-9e4d-ddf98521ee2c",
+  "in_force": "2012-02-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%91%CE%A9%CE%A1%CE%A5-5%CE%95%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%91%CE%A9%CE%A1%CE%A5-5%CE%95%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%96%CE%91%CE%A9%CE%A1%CE%A5-5%CE%95%CE%97",
+  "listing_sha256": "d046247b897a005d1b5d575ed1d36b030f28cf964fead22893137ccef84f5da9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
