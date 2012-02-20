@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖΝ7ΛΛ-ΩΛΧ",
+  "subject": "Απόφαση θεώρησης των επαγγελματικών αδειών που 1) η θεώρηση τους δεν ολοκληρώθηκε μέχρι 31/12/2010 2) εκδόθηκαν το έτος 2009 και 3) εκδόθηκαν το έτος 2008.",
+  "protocol_number": "237",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5009",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80429"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-01",
+  "posted": "2012-02-20",
+  "publish_timestamp_ms": 1329738999000,
+  "version_id": "ac0a9777-a729-45de-8366-7ca6ef2ca130",
+  "in_force": "2012-02-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%9D7%CE%9B%CE%9B-%CE%A9%CE%9B%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%9D7%CE%9B%CE%9B-%CE%A9%CE%9B%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%96%CE%9D7%CE%9B%CE%9B-%CE%A9%CE%9B%CE%A7",
+  "listing_sha256": "3b8f1ae18b37a0b941633ab5ef0e07fbe2681af2ce67a6db97363ae599cf4fe1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
