@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖΝΩΞΕ-ΗΝ2",
+  "subject": "Εγκριση  διενέργειας προμήθειας ειδών κιγκαλερίας",
+  "protocol_number": "60",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6232",
+    "label": "ΔΗΜΟΣ ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81017"
+  ],
+  "thematic_category_ids": [
+    "08"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-20",
+  "posted": "2012-02-20",
+  "publish_timestamp_ms": 1329728625000,
+  "version_id": "56755d7a-a781-4e53-b1f5-0866bb4a1080",
+  "in_force": "2012-02-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%9D%CE%A9%CE%9E%CE%95-%CE%97%CE%9D2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%9D%CE%A9%CE%9E%CE%95-%CE%97%CE%9D2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%96%CE%9D%CE%A9%CE%9E%CE%95-%CE%97%CE%9D2",
+  "listing_sha256": "7eab13c8b8f92819b7a45a25a06bd4a1d1d165bcaae06ac30bc563dd9b3bd84f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
