@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖΝΩΛΦ-ΕΓΞ",
+  "subject": "Έγκριση ανάθεσης εκπόνησης της μελέτης του έργου «Μονάδα επεξεργασίας και διάθεσης λυμάτων οικισμών Δήμου Πέτρας»",
+  "protocol_number": "Δ.Υ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6172",
+    "label": "ΔΗΜΟΣ ΛΕΣΒΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80013"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-05",
+  "posted": "2012-02-20",
+  "publish_timestamp_ms": 1329735557000,
+  "version_id": "bfe43b3e-7a93-49ee-aee7-ab715caf0700",
+  "in_force": "2012-02-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%9D%CE%A9%CE%9B%CE%A6-%CE%95%CE%93%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%9D%CE%A9%CE%9B%CE%A6-%CE%95%CE%93%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%96%CE%9D%CE%A9%CE%9B%CE%A6-%CE%95%CE%93%CE%9E",
+  "listing_sha256": "1a32dc7a5d5051e1714eae50855c178bd810af6cc7399aa39ab117dc088b5519",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
