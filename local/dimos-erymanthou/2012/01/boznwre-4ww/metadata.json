@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖΝΩΡΕ-4ΩΩ",
+  "subject": "1/2012 ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ: «Ανατροπή αναλήψεων υποχρέωσης του οικ. έτους 2011»",
+  "protocol_number": "1102",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6096",
+    "label": "ΔΗΜΟΣ ΕΡΥΜΑΝΘΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81736"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-24",
+  "posted": "2012-02-20",
+  "publish_timestamp_ms": 1329739437000,
+  "version_id": "f5c662f1-2b2e-46bf-b499-14f9e20862f2",
+  "in_force": "2012-02-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%9D%CE%A9%CE%A1%CE%95-4%CE%A9%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%9D%CE%A9%CE%A1%CE%95-4%CE%A9%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%96%CE%9D%CE%A9%CE%A1%CE%95-4%CE%A9%CE%A9",
+  "listing_sha256": "8993255b6b66c49e8d9a3313f938a73180af45ce0ec2c889239aa5afbf42effe",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
