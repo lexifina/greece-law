@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖΝΩΞΑ-0ΜΣ",
+  "subject": "Απόφαση Οικονομικής Επιτροπής 23/2012 Απ’ ευθείας ανάθεση του έργου «Τεχνικά έργα ΔΚ Βαρθολομιού», προϋπολογισμού 6.980,00  €",
+  "protocol_number": "23",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6249",
+    "label": "ΔΗΜΟΣ ΠΗΝΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82172"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-02",
+  "posted": "2012-02-20",
+  "publish_timestamp_ms": 1329731469000,
+  "version_id": "ae23409f-f47a-4102-aba2-23a228a2bef5",
+  "in_force": "2012-02-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%9D%CE%A9%CE%9E%CE%91-0%CE%9C%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%9D%CE%A9%CE%9E%CE%91-0%CE%9C%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%96%CE%9D%CE%A9%CE%9E%CE%91-0%CE%9C%CE%A3",
+  "listing_sha256": "b9a735de4fc595816963c1b3cd8ebeff070cd95b11b4f55824d9a47210c6a2e3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
