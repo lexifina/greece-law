@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖΧΟΡ1Φ-ΠΝ5",
+  "subject": "Μερική ανάκληση απόφασης αναδάσωσης έκτασης στη θέση «Κερασούλα» περιοχής Τοπικής Κοινότητας  Μάλης, Δημοτικής Ενότητας Φιλιατρών, Δήμου Τριφυλίας, Νομού Μεσσηνίας",
+  "protocol_number": "4829 π.ε.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76473"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_D",
+      "issueyear": 2012,
+      "aa": "20"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-10",
+  "posted": "2012-02-21",
+  "publish_timestamp_ms": 1329817017000,
+  "version_id": "4b162009-51f1-4fdd-b1cd-c5d4d25839ca",
+  "in_force": "2012-02-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%A7%CE%9F%CE%A11%CE%A6-%CE%A0%CE%9D5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%96%CE%A7%CE%9F%CE%A11%CE%A6-%CE%A0%CE%9D5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%96%CE%A7%CE%9F%CE%A11%CE%A6-%CE%A0%CE%9D5",
+  "listing_sha256": "a85f731ad84426aff3a2d806bbbead05af29cf2631712cfc1ef23eccaa768a27",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
