@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΟΖ8ΩΡΠ-2Δ8",
+  "subject": "ΠΑΡΟΧΗ ΠΑΓΙΑΣ ΠΡΟΚΑΤΑΒΟΛΗΣ ΓΙΑ ΤΟ ΈΤΟΣ 2012",
+  "protocol_number": "5",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6086",
+    "label": "ΔΗΜΟΣ ΕΔΕΣΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83433"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-06",
+  "posted": "2012-02-22",
+  "publish_timestamp_ms": 1329908680000,
+  "version_id": "3d98e529-720e-405d-b91f-d11ee47b6479",
+  "in_force": "2012-02-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%968%CE%A9%CE%A1%CE%A0-2%CE%948",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9F%CE%968%CE%A9%CE%A1%CE%A0-2%CE%948/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9F%CE%968%CE%A9%CE%A1%CE%A0-2%CE%948",
+  "listing_sha256": "74866ec45bdcaf7b2ccdab2a793def5e72b040d2c27bbb358693e0ff675eb9da",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
