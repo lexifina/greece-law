@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΠΠΩΨΗ-ΟΤΨ",
+  "subject": "19/2012 ΑΟΕ με θέμα: Διάθεση πίστωσης και ανάθεση των εργασιών «Επισκευή & Συντήρηση λιθοστρώτων Τ.Κ. Αρεόπολης & Οιτύλου».",
+  "protocol_number": "19/2012 ΑΟΕ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6033",
+    "label": "ΔΗΜΟΣ ΑΝΑΤΟΛΙΚΗΣ ΜΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85044"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-22",
+  "posted": "2012-02-24",
+  "publish_timestamp_ms": 1330087339000,
+  "version_id": "cfc10097-fd9c-4f69-8009-35cc5591b6c7",
+  "in_force": "2012-02-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A0%CE%A0%CE%A9%CE%A8%CE%97-%CE%9F%CE%A4%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A0%CE%A0%CE%A9%CE%A8%CE%97-%CE%9F%CE%A4%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A0%CE%A0%CE%A9%CE%A8%CE%97-%CE%9F%CE%A4%CE%A8",
+  "listing_sha256": "c759912e66d78bef790143de6d8f1907524baefe5769c7401f54d4028fd15042",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
