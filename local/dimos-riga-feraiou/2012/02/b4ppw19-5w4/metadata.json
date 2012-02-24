@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΠΠΩ19-5Ω4",
+  "subject": "ΠΕΡΙΛΗΨΗ : Ψήφιση πίστωσης ποσού 145,83 € (μαζί με το ΦΠΑ), σε βάρος του Κ.Α.\r\n20-7335.00, για πληρωμή στη ΔΕΗ Βόλου ,της συμμετοχής του Δήμου Ρήγα Φεραίου\r\nστη δαπάνη μετατόπισης παροχής στο Στεφανοβίκειο (Σχετ. έγγραφο ΔΕΗ\r\n50268/14-2-2012)",
+  "protocol_number": "2906",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6264",
+    "label": "ΔΗΜΟΣ ΡΗΓΑ ΦΕΡΑΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82483"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-24",
+  "posted": "2012-02-24",
+  "publish_timestamp_ms": 1330076698000,
+  "version_id": "dac24280-3668-4bde-a25d-94c2e17e5f50",
+  "in_force": "2012-02-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A0%CE%A0%CE%A919-5%CE%A94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A0%CE%A0%CE%A919-5%CE%A94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A0%CE%A0%CE%A919-5%CE%A94",
+  "listing_sha256": "d6323fb502976574fd1831b3b9283c7c455a84b46769613b9fcf071e26bbd7f6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
