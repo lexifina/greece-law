@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΡΩΨΨ-ΤΡ1",
+  "subject": "ΑΠΟΦΑΣΗ Δ.Σ. 172-2011 ΟΡΙΣΜΟΣ ΖΩΝΗΣ ΓΙΑ ΠΡΟΣΔΙΟΡΙΣΜΟ ΤΗΣ ΑΝΤΙΚΕΙΜΕΝΙΚΗΣ  ΑΞΙΑΣ ΑΚΙΝΗΤΟΥ ΓΙΑ ΤΗΝ ΕΠΙΒΟΛΗ ΤΑΠ",
+  "protocol_number": "172-2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6025",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86039"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-27",
+  "posted": "2012-03-01",
+  "publish_timestamp_ms": 1330605960000,
+  "version_id": "6dee7d10-787f-40e4-af8b-af427db435a7",
+  "in_force": "2012-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A1%CE%A9%CE%A8%CE%A8-%CE%A4%CE%A11",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A1%CE%A9%CE%A8%CE%A8-%CE%A4%CE%A11/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%A1%CE%A9%CE%A8%CE%A8-%CE%A4%CE%A11",
+  "listing_sha256": "67e5ea9cf4c6f76b25d090ec64e1b3b60b4d7163e13ea959c9736ae46f8cd4ef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
