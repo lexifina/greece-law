@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΡΩΚ6-56Ι",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ 170/2012, ΟΡΙΣΜΟΣ ΑΝΤΑΠΟΚΡΙΤΩΝ ΕΛΓΑ",
+  "protocol_number": "3951",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6194",
+    "label": "ΔΗΜΟΣ ΜΙΝΩΑ ΠΕΔΙΑΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86394"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-01",
+  "posted": "2012-03-01",
+  "publish_timestamp_ms": 1330604049000,
+  "version_id": "d7d4263a-f1fa-4dd7-bffa-3015e1c2c375",
+  "in_force": "2012-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A1%CE%A9%CE%9A6-56%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A1%CE%A9%CE%9A6-56%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%A1%CE%A9%CE%9A6-56%CE%99",
+  "listing_sha256": "961a9d7d0b1d65b7accdb795a0da72597e3818d9a2250e0eba9f0b7bac09f3da",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
