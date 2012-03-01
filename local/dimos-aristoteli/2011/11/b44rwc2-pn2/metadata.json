@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΡΩΨ2-ΠΝ2",
+  "subject": "Αποδοχή δωρεάς απορριμματοφόρου οχήματος συλλογής ανακυκλώσιμων υλικών ως 2η ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ",
+  "protocol_number": "173/2011 ΑΠΟΦ. Ο.Ε",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6043",
+    "label": "ΔΗΜΟΣ ΑΡΙΣΤΟΤΕΛΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80780"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "45Ψ1ΩΨ2-Φ3Τ"
+      }
+    ]
+  },
+  "issued": "2011-11-30",
+  "posted": "2012-03-01",
+  "publish_timestamp_ms": 1330608121000,
+  "version_id": "61cf82a0-68a3-4009-affa-7fffbbc2cc51",
+  "in_force": "2012-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A1%CE%A9%CE%A82-%CE%A0%CE%9D2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A1%CE%A9%CE%A82-%CE%A0%CE%9D2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%A1%CE%A9%CE%A82-%CE%A0%CE%9D2",
+  "listing_sha256": "7e6440c5624006f4623f42aa5fe44bc5d2e247156a8bb50745ade7dee2a17726",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
