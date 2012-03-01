@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44Ρ6-ΟΝΦ",
+  "subject": "Περίληψη Απόφασης Μετάταξης Μονίμων Αξκών Στο Κοινό Σώμα ΣΣΝΣ",
+  "protocol_number": "Περίληψη της Φ.415/38/80413/Σ.63/31-01-2012 Υπουργικής Απόφασης",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70168"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2012,
+      "aa": "164"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-31",
+  "posted": "2012-03-01",
+  "publish_timestamp_ms": 1330601757000,
+  "version_id": "4a121050-4675-4ca4-b15f-d4ae00073c45",
+  "in_force": "2012-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A16-%CE%9F%CE%9D%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A16-%CE%9F%CE%9D%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%A16-%CE%9F%CE%9D%CE%A6",
+  "listing_sha256": "4ae72e95374444bccc859d55f0620719a8d707d29ccef40383b222ccdfd48e88",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
