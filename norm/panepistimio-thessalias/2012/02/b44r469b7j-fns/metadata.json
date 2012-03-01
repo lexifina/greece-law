@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44Ρ469Β7Ξ-ΦΝΣ",
+  "subject": "Απόφαση της Συγκλήτου για τη διαδικασία εκλογής και εξέλιξης σε θέσεις καθηγητών του Πανεπιστημίου Θεσσαλίας σύμφωνα με το Ν. 4009/2011.",
+  "protocol_number": "1322",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206913",
+    "label": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "73389"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "421"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-02",
+  "posted": "2012-03-01",
+  "publish_timestamp_ms": 1330592510000,
+  "version_id": "5ed3c0bc-085b-4001-ba3c-f027ca8322c0",
+  "in_force": "2012-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A1469%CE%927%CE%9E-%CE%A6%CE%9D%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A1469%CE%927%CE%9E-%CE%A6%CE%9D%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%A1469%CE%927%CE%9E-%CE%A6%CE%9D%CE%A3",
+  "listing_sha256": "b9a735de4fc595816963c1b3cd8ebeff070cd95b11b4f55824d9a47210c6a2e3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
