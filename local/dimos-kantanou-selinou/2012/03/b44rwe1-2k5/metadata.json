@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΡΩΕ1-2Κ5",
+  "subject": "Προσφυγή σε διαπραγμάτευση για τη μεταφορά μαθητών.",
+  "protocol_number": "1487",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6134",
+    "label": "ΔΗΜΟΣ ΚΑΝΤΑΝΟΥ - ΣΕΛΙΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85159"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-01",
+  "posted": "2012-03-01",
+  "publish_timestamp_ms": 1330603302000,
+  "version_id": "ff6b6ea2-a855-400d-9378-7569762d2eeb",
+  "in_force": "2012-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A1%CE%A9%CE%951-2%CE%9A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A1%CE%A9%CE%951-2%CE%9A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%A1%CE%A9%CE%951-2%CE%9A5",
+  "listing_sha256": "aee686548e0c93af55be895d29607abd52aceb0d95a5064f527fe3e4ae2906e8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
