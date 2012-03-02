@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΕΗ-ΓΑ3",
+  "subject": "«Απόφαση βασικών όρων του αναληφθέντος στις 31-12-2011, από το\r\nΥπουργείο Οικονομικών, κοινού ομολογιακού δανείου του Οργανισμού\r\nΑστικών Συγκοινωνιών Αθηνών Α.Ε., ονομαστικής αξίας € 350.000.000,00\r\nέκδοσης 13/07/2009 και λήξης 13/07/2012».",
+  "protocol_number": "2/12191/0023Α",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "481"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-13",
+  "posted": "2012-03-02",
+  "publish_timestamp_ms": 1330696061000,
+  "version_id": "3fd419a7-bfc0-4acf-b56f-3d883176477d",
+  "in_force": "2012-03-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%95%CE%97-%CE%93%CE%913",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%95%CE%97-%CE%93%CE%913/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%95%CE%97-%CE%93%CE%913",
+  "listing_sha256": "a562dbc729775b1f83652c90db4bb59be1ebbd2cfba6d9889b9f5c0647fad468",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
