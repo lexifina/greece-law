@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44Ε7Λ6-ΧΝ8",
+  "subject": "Απόφαση έγκρισης και καταχώρησης εμπόρου ΣΑΩ",
+  "protocol_number": "17342/684",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5004",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78397"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΟΝ87Λ6-Λ71"
+      }
+    ]
+  },
+  "issued": "2012-01-20",
+  "posted": "2012-03-02",
+  "publish_timestamp_ms": 1330681941000,
+  "version_id": "46652621-1d53-4b09-a165-1b9525c4adea",
+  "in_force": "2012-03-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%957%CE%9B6-%CE%A7%CE%9D8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%957%CE%9B6-%CE%A7%CE%9D8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%957%CE%9B6-%CE%A7%CE%9D8",
+  "listing_sha256": "c76899a5388b2906a7a2d7ac1d94a1d7b8eae82222201a7d6323acbd6719aa4a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
