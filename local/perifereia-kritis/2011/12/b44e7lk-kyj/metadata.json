@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44Ε7ΛΚ-ΚΥΞ",
+  "subject": "ΑΔΕΙΑ ΑΣΚΗΣΗΣ ΕΠΑΓΓΕΛΜΑΤΟΣ",
+  "protocol_number": "5223",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80979"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "152"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-27",
+  "posted": "2012-03-02",
+  "publish_timestamp_ms": 1330671824000,
+  "version_id": "ec474e62-ce1a-481d-8280-fa6ae030e546",
+  "in_force": "2012-03-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%957%CE%9B%CE%9A-%CE%9A%CE%A5%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%957%CE%9B%CE%9A-%CE%9A%CE%A5%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%957%CE%9B%CE%9A-%CE%9A%CE%A5%CE%9E",
+  "listing_sha256": "67e5ea9cf4c6f76b25d090ec64e1b3b60b4d7163e13ea959c9736ae46f8cd4ef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
