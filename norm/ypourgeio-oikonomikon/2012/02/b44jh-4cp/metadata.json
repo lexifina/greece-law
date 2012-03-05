@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΞΗ-4ΨΠ",
+  "subject": "Καθορισμός της διαδικασίας απαλλαγής από ΦΠΑ, δασμό, ΕΦΚ,\r\nτέλος ταξινόμησης και ειδικό φόρο πολυτελείας, κατά\r\nπερίπτωση, της αγοράς αγαθών και λήψης υπηρεσιών και της\r\nεισαγωγής αγαθών από την Τράπεζα Εμπορίου και Ανάπτυξης\r\nτου Ευξείνου Πόντου και τα μέλη του αλλοδαπού προσωπικού\r\nαυτής",
+  "protocol_number": "ΠΟΛ: 1044",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "463"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-17",
+  "posted": "2012-03-05",
+  "publish_timestamp_ms": 1330930757000,
+  "version_id": "fd013ae8-079b-4874-85e8-07129770f663",
+  "in_force": "2012-03-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9E%CE%97-4%CE%A8%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9E%CE%97-4%CE%A8%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%9E%CE%97-4%CE%A8%CE%A0",
+  "listing_sha256": "2b3ee638473b90962aa458beda60a23c659db2aa1e8ae70e1792e04e1ddbe03c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
