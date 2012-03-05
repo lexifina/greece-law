@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44Ξ7ΛΕ-ΗΕΟ",
+  "subject": "ΠΑΡΟΧΗ  ΕΞΟΥΣΙΟΔΟΤΗΣΗΣ",
+  "protocol_number": "126",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5008",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΙΟΝΙΩΝ ΝΗΣΩΝ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78241"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2002-02-14",
+  "posted": "2012-03-05",
+  "publish_timestamp_ms": 1330944279000,
+  "version_id": "dba81773-aefa-4e95-a788-a08205debf1a",
+  "in_force": "2012-03-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9E7%CE%9B%CE%95-%CE%97%CE%95%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9E7%CE%9B%CE%95-%CE%97%CE%95%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%9E7%CE%9B%CE%95-%CE%97%CE%95%CE%9F",
+  "listing_sha256": "dac291b12d44e0a5f6ac6c7834836ddb33b6ddb2515154297446a174e9a63efa",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
