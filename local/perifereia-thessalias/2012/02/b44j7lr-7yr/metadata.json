@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44Ξ7ΛΡ-7ΥΡ",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ",
+  "protocol_number": "88",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "82007"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-22",
+  "posted": "2012-03-05",
+  "publish_timestamp_ms": 1330941017000,
+  "version_id": "c0854167-209c-4c42-ae55-d1dae48b3b58",
+  "in_force": "2012-03-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9E7%CE%9B%CE%A1-7%CE%A5%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9E7%CE%9B%CE%A1-7%CE%A5%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%9E7%CE%9B%CE%A1-7%CE%A5%CE%A1",
+  "listing_sha256": "4a8f7be6800dfdac6c9e0a86de4cad48a5bf6de2c0ea4223bbd177bf7f8405bb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
