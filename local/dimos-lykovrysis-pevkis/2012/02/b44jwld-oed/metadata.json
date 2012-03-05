@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΞΩΛΔ-ΟΕΔ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΕΣΜΕΥΣΗΣ ΠΙΣΤΩΣΗΣ ΠΟΣΟΥ ΔΥΟ ΧΙΛΙΑΔΩΝ ΕΞΑΚΟΣΙΩΝ ΠΕΝΗΝΤΑ ΕΥΡΩ (2.650,00) στον ΚΑΕ 10.6462.0001 για δημοσίευση προκηρύξεων του Δήμου",
+  "protocol_number": "1746",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6178",
+    "label": "ΔΗΜΟΣ ΛΥΚΟΒΡΥΣΗΣ - ΠΕΥΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82029"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-28",
+  "posted": "2012-03-05",
+  "publish_timestamp_ms": 1330962836000,
+  "version_id": "3359ab58-b3c5-48f5-b23d-46663d5f1b30",
+  "in_force": "2012-03-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9E%CE%A9%CE%9B%CE%94-%CE%9F%CE%95%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9E%CE%A9%CE%9B%CE%94-%CE%9F%CE%95%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%9E%CE%A9%CE%9B%CE%94-%CE%9F%CE%95%CE%94",
+  "listing_sha256": "1836ff62c10c6260aa414e1bc75df1d09aacec5e0e5a82ba403ea62c268d1173",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
