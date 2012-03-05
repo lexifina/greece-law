@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44Ξ6-ΖΧΨ",
+  "subject": "Μετάθεση Στρατιωτικού Δικαστή του Δικαστικού Σώματος Ενόπλων Δυνάμεων",
+  "protocol_number": "Φ.400/230093/Σ.43/02-03-2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "86278"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2012,
+      "aa": "208/24-02-2012"
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-22",
+  "posted": "2012-03-05",
+  "publish_timestamp_ms": 1330949255000,
+  "version_id": "95bbb962-a17e-4f7d-b6b2-ce434ad2e5b9",
+  "in_force": "2012-03-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9E6-%CE%96%CE%A7%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9E6-%CE%96%CE%A7%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%9E6-%CE%96%CE%A7%CE%A8",
+  "listing_sha256": "4a8f7be6800dfdac6c9e0a86de4cad48a5bf6de2c0ea4223bbd177bf7f8405bb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
