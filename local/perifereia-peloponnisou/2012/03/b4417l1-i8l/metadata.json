@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4417Λ1-Ι8Λ",
+  "subject": "ΕΞΕΤΑΣΕΙΣ ΥΠΟΨΗΦΙΩΝ ΟΔΗΓΩΝ",
+  "protocol_number": "2271",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5012",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80473"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-05",
+  "posted": "2012-03-06",
+  "publish_timestamp_ms": 1331019804000,
+  "version_id": "8b1d4055-46d3-4fbd-b063-510e89f593c9",
+  "in_force": "2012-03-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924417%CE%9B1-%CE%998%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924417%CE%9B1-%CE%998%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924417%CE%9B1-%CE%998%CE%9B",
+  "listing_sha256": "28f23d35834d07f861be3b8e86f9f9525dd528f5dbf4c53ac82fd2ce05b9a9c8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
