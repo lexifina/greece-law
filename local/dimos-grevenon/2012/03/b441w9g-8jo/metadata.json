@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β441Ω9Γ-8ΞΟ",
+  "subject": "Σύνταξη Σχεδίου Προϋπολογισμού του Δήμου Γρεβενών έτους 2012",
+  "protocol_number": "12600",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6069",
+    "label": "ΔΗΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81767"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-05",
+  "posted": "2012-03-06",
+  "publish_timestamp_ms": 1331035419000,
+  "version_id": "ec0611eb-fe45-4a2e-a7fe-7200537fa064",
+  "in_force": "2012-03-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92441%CE%A99%CE%93-8%CE%9E%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92441%CE%A99%CE%93-8%CE%9E%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92441%CE%A99%CE%93-8%CE%9E%CE%9F",
+  "listing_sha256": "28f23d35834d07f861be3b8e86f9f9525dd528f5dbf4c53ac82fd2ce05b9a9c8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
