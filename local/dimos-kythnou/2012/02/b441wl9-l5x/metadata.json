@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β441ΩΛ9-Λ5Χ",
+  "subject": "Έγκριση επιχορήγησης Πολιτιστικών Συλλόγων Χώρας και Δρυοπίδας.",
+  "protocol_number": "44",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6162",
+    "label": "ΔΗΜΟΣ ΚΥΘΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83013"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-24",
+  "posted": "2012-03-06",
+  "publish_timestamp_ms": 1331037132000,
+  "version_id": "05858f65-bef0-4803-b8e6-83fc8b8e8cb8",
+  "in_force": "2012-03-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92441%CE%A9%CE%9B9-%CE%9B5%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92441%CE%A9%CE%9B9-%CE%9B5%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92441%CE%A9%CE%9B9-%CE%9B5%CE%A7",
+  "listing_sha256": "6ba62b442f876c612470cc9922a6ade16dfe983b6483d5fe8323f6b42a9dfe8d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
