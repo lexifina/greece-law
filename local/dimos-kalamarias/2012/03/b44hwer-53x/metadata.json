@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΗΩΕΡ-53Χ",
+  "subject": "Ανάκληση της υπ’ αριθμ. 413/2011 απόφασης του Δ.Σ.",
+  "protocol_number": "87/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6129",
+    "label": "ΔΗΜΟΣ ΚΑΛΑΜΑΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79434"
+  ],
+  "thematic_category_ids": [
+    "68"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-01",
+  "posted": "2012-03-07",
+  "publish_timestamp_ms": 1331104587000,
+  "version_id": "08471322-665c-4ac9-9151-e8ed2d46eef0",
+  "in_force": "2012-03-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%97%CE%A9%CE%95%CE%A1-53%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%97%CE%A9%CE%95%CE%A1-53%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%97%CE%A9%CE%95%CE%A1-53%CE%A7",
+  "listing_sha256": "aa25c09447f3bc1041e38e380e2f19c54f9886b92163e0329edc438f82d58878",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
