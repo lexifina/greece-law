@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β440ΩΡΑ-ΩΤ2",
+  "subject": "Α-211 ΑΑΥ",
+  "protocol_number": "1611",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6113",
+    "label": "ΔΗΜΟΣ ΘΕΡΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81714"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-05",
+  "posted": "2012-03-08",
+  "publish_timestamp_ms": 1331204217000,
+  "version_id": "0075db0d-eb7e-4dbd-95f8-dce706da3e98",
+  "in_force": "2012-03-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92440%CE%A9%CE%A1%CE%91-%CE%A9%CE%A42",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92440%CE%A9%CE%A1%CE%91-%CE%A9%CE%A42/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92440%CE%A9%CE%A1%CE%91-%CE%A9%CE%A42",
+  "listing_sha256": "dc036cbaca2d64b4bdeac350ee3949895af8ca786307e88ccaa06ccc0f1fbea5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
