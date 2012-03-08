@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β440Η-ΨΓ7",
+  "subject": "Αναπλήρωση Προϊσταμένων Διευθύνσεων και Τμημάτων",
+  "protocol_number": "11352/1469",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-08",
+  "posted": "2012-03-08",
+  "publish_timestamp_ms": 1331204604000,
+  "version_id": "a440cad5-1175-4f49-acf8-538f4c3902cd",
+  "in_force": "2012-03-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92440%CE%97-%CE%A8%CE%937",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92440%CE%97-%CE%A8%CE%937/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92440%CE%97-%CE%A8%CE%937",
+  "listing_sha256": "83f90e1a24c2a11e71c2459c43ccd3e9b919a64b107753c309cd1d2e7b0e2eba",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
