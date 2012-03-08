@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4407ΛΕ-ΛΧ5",
+  "subject": "Χορήγηση μισθολογικού κλιμακίου.",
+  "protocol_number": "οικ 11893/4664",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5008",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΙΟΝΙΩΝ ΝΗΣΩΝ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80111"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-07",
+  "posted": "2012-03-08",
+  "publish_timestamp_ms": 1331190288000,
+  "version_id": "6ac4cd4b-db3f-4f43-b933-4b9b6ac32d3a",
+  "in_force": "2012-03-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924407%CE%9B%CE%95-%CE%9B%CE%A75",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924407%CE%9B%CE%95-%CE%9B%CE%A75/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924407%CE%9B%CE%95-%CE%9B%CE%A75",
+  "listing_sha256": "2c0ec0f5175d7a53887735041aa374bd5f8e65da57fc0fb548b7783fe8e0dc8d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
