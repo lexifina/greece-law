@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΓΩ1Σ-Ρ11",
+  "subject": "80/2012 ΑΠΟΦ. ΔΗΜΑΡΧΟΥ ΠΕΡΙ ΔΙΑΘΕΣΗΣ ΠΙΣΤΩΣΗΣ ΤΑΧΥΔΡΟΜΙΚΩΝ ΤΕΛΩΝ",
+  "protocol_number": "80/5-3-12",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6282",
+    "label": "ΔΗΜΟΣ ΣΚΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82022"
+  ],
+  "thematic_category_ids": [
+    "68"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-05",
+  "posted": "2012-03-09",
+  "publish_timestamp_ms": 1331284259000,
+  "version_id": "2ef93fad-1202-450c-b0d6-b3950df4a72f",
+  "in_force": "2012-03-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%93%CE%A91%CE%A3-%CE%A111",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%93%CE%A91%CE%A3-%CE%A111/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%93%CE%A91%CE%A3-%CE%A111",
+  "listing_sha256": "9648d89dd0a3965bc8e8342f7ad8d3fc2b6249f9bd21139ad8f4792d03b3179e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
