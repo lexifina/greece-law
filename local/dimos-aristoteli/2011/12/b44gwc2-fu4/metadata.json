@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΓΩΨ2-ΦΘ4",
+  "subject": "ΑΝΑ 112/2011",
+  "protocol_number": "42219",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6043",
+    "label": "ΔΗΜΟΣ ΑΡΙΣΤΟΤΕΛΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80783"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-30",
+  "posted": "2012-03-09",
+  "publish_timestamp_ms": 1331280416000,
+  "version_id": "3afbca8b-f0c8-4a1a-b27a-ac34a58a23ff",
+  "in_force": "2012-03-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%93%CE%A9%CE%A82-%CE%A6%CE%984",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%93%CE%A9%CE%A82-%CE%A6%CE%984/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%93%CE%A9%CE%A82-%CE%A6%CE%984",
+  "listing_sha256": "334489c7f3f8477c8379bf4ee802f0b495162551bbac8f5ba6526fb4625c9a26",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
