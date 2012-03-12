@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΘΩ1Ο-ΕΣΤ",
+  "subject": "«Ανάθεση σε δικηγόρο της αντίκρουσης της αγωγής Θεόδωρου Θωμά κατά του πρώην Δήμου Χορτιάτη στο Μονομελές Πρωτοδικείο Θεσσαλονίκης»",
+  "protocol_number": "9962",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6257",
+    "label": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80518"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-05",
+  "posted": "2012-03-12",
+  "publish_timestamp_ms": 1331557358000,
+  "version_id": "1bff534c-a242-447b-9b88-ba29e99cd7be",
+  "in_force": "2012-03-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%98%CE%A91%CE%9F-%CE%95%CE%A3%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%98%CE%A91%CE%9F-%CE%95%CE%A3%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%98%CE%A91%CE%9F-%CE%95%CE%A3%CE%A4",
+  "listing_sha256": "9648d89dd0a3965bc8e8342f7ad8d3fc2b6249f9bd21139ad8f4792d03b3179e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
