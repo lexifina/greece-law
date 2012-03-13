@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΥΟΡ1Γ-ΒΘ3",
+  "subject": "ΔΑΔ Βοσκής ΔΤ 2 Κυψέλης",
+  "protocol_number": "11768/1050",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76553"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-12",
+  "posted": "2012-03-13",
+  "publish_timestamp_ms": 1331632701000,
+  "version_id": "8a803a21-b964-4175-b955-e914810a7b2f",
+  "in_force": "2012-03-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A5%CE%9F%CE%A11%CE%93-%CE%92%CE%983",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A5%CE%9F%CE%A11%CE%93-%CE%92%CE%983/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%A5%CE%9F%CE%A11%CE%93-%CE%92%CE%983",
+  "listing_sha256": "748235fa4df33d16c311b5b46f46a780ca9102c50ce547da2ff18fe0cffba361",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
