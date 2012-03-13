@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΥΩΕΦ-208",
+  "subject": "Απόφαση Δημοτικού Συμβουλίου 40-2012 με θέμα \"Αναπροσαρμογή Τελών ύδρευσης Δήμου Καρύστου\"",
+  "protocol_number": "2631/29-2-2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6138",
+    "label": "ΔΗΜΟΣ ΚΑΡΥΣΤΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81908"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-23",
+  "posted": "2012-03-13",
+  "publish_timestamp_ms": 1331636839000,
+  "version_id": "3a9f98c8-fbbe-4ce1-976f-04015e7300c9",
+  "in_force": "2012-03-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A5%CE%A9%CE%95%CE%A6-208",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A5%CE%A9%CE%95%CE%A6-208/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%A5%CE%A9%CE%95%CE%A6-208",
+  "listing_sha256": "3360d42d3ff0bcc6cfcabab280d46782bb36affe206971a96d29cc9808b81d10",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
