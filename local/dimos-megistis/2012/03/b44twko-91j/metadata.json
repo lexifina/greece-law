@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΤΩΚΟ-91Ξ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ 17/2012",
+  "protocol_number": "189",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6189",
+    "label": "ΔΗΜΟΣ ΜΕΓΙΣΤΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81958"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-12",
+  "posted": "2012-03-14",
+  "publish_timestamp_ms": 1331707634000,
+  "version_id": "dc92bf53-588a-439f-b1d3-e8e6f69a623f",
+  "in_force": "2012-03-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A4%CE%A9%CE%9A%CE%9F-91%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%A4%CE%A9%CE%9A%CE%9F-91%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%A4%CE%A9%CE%9A%CE%9F-91%CE%9E",
+  "listing_sha256": "748235fa4df33d16c311b5b46f46a780ca9102c50ce547da2ff18fe0cffba361",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
