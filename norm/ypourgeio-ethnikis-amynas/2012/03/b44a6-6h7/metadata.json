@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44Α6-6Η7",
+  "subject": "Προμήθεια Σαράντα Πέντε (45) Επιβατικών Οχημάτων Μικτής Χρήσης Ωφέλιμου Φορτίου 500 Κgr",
+  "protocol_number": "3365",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4ΑΜ46-ΗΩΨ"
+      }
+    ]
+  },
+  "issued": "2012-03-07",
+  "posted": "2012-03-19",
+  "publish_timestamp_ms": 1332158926000,
+  "version_id": "c154ab0b-76db-49ad-adc5-2ed245d0b4b7",
+  "in_force": "2012-03-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%916-6%CE%977",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%916-6%CE%977/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%916-6%CE%977",
+  "listing_sha256": "2e37aaf85ca088845f45871d5bfd7ea80707e9949a7d036593e7f990e1d68faf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
