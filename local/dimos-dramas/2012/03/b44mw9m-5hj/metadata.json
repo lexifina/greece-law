@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΜΩ9Μ-5ΗΞ",
+  "subject": "Έγκριση ποσού για έκδοση διατακτικών για την ενίσχυση απόρων κατά τις εορτές του Πάσχα 2012",
+  "protocol_number": "120/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79156"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-05",
+  "posted": "2012-03-21",
+  "publish_timestamp_ms": 1332354005000,
+  "version_id": "d748dea0-5568-4cc7-961b-2efabe45b8ba",
+  "in_force": "2012-03-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9C%CE%A99%CE%9C-5%CE%97%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9C%CE%A99%CE%9C-5%CE%97%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%9C%CE%A99%CE%9C-5%CE%97%CE%9E",
+  "listing_sha256": "9648d89dd0a3965bc8e8342f7ad8d3fc2b6249f9bd21139ad8f4792d03b3179e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
