@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΝΩ19-ΥΦ8",
+  "subject": "Ψήφιση πίστωσης ποσού 5.493,71 € για την πληρωμή του 1ου\r\nλογαριασμού του συνεχιζόμενου έργου με τίτλο «Ασφαλτοστρώσεις οδών τ.δ.\r\nΣτεφανοβικείου (Περιφερειακός δρόμος Στεφανοβικείου )",
+  "protocol_number": "5261",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6264",
+    "label": "ΔΗΜΟΣ ΡΗΓΑ ΦΕΡΑΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82483"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-22",
+  "posted": "2012-03-22",
+  "publish_timestamp_ms": 1332414818000,
+  "version_id": "51654fc3-9a14-48b1-93ec-59e4aba5b7ba",
+  "in_force": "2012-03-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9D%CE%A919-%CE%A5%CE%A68",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9D%CE%A919-%CE%A5%CE%A68/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%9D%CE%A919-%CE%A5%CE%A68",
+  "listing_sha256": "94722095916619ffbf7b5e943f8d48bebf80f39296988aa574a92bda9bc1abf1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
