@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44Ν7ΛΗ-ΠΤ6",
+  "subject": "ΧΟΡΗΓΗΣΗ ΑΔΕΙΑΣ ΗΜΕΡΗΣΙΑΣ ΕΚΔΡΟΜΗΣ",
+  "protocol_number": "Δ.Α./ΦΓ1/1432",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5013",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79135"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-22",
+  "posted": "2012-03-22",
+  "publish_timestamp_ms": 1332410147000,
+  "version_id": "dba01cd9-7b1a-454f-a5e8-840ff2b948ed",
+  "in_force": "2012-03-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9D7%CE%9B%CE%97-%CE%A0%CE%A46",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9D7%CE%9B%CE%97-%CE%A0%CE%A46/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%9D7%CE%9B%CE%97-%CE%A0%CE%A46",
+  "listing_sha256": "94722095916619ffbf7b5e943f8d48bebf80f39296988aa574a92bda9bc1abf1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
