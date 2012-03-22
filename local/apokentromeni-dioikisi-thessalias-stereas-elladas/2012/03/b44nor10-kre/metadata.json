@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β44ΝΟΡ10-ΚΡΕ",
+  "subject": "ΕΓΚΙΣΗ ΜΕΛΕΤΗΣ",
+  "protocol_number": "1192//51458",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77154"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-22",
+  "posted": "2012-03-22",
+  "publish_timestamp_ms": 1332406200000,
+  "version_id": "1c0c31be-240d-41ae-a16c-81a42fb6f47a",
+  "in_force": "2012-03-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9D%CE%9F%CE%A110-%CE%9A%CE%A1%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9244%CE%9D%CE%9F%CE%A110-%CE%9A%CE%A1%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9244%CE%9D%CE%9F%CE%A110-%CE%9A%CE%A1%CE%95",
+  "listing_sha256": "66ba1362db3a8692e6b812fde22d91d4d2f63d5f008b93c6973472c4d89b6b5a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
