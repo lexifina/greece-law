@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΒΟΗ-ΥΝ3",
+  "subject": "Τροποποίηση της αριθ.2/53799/0025/29-07-2011 απόφασης του Αναπληρωτή\r\nΥπουργού Οικονομικών περί παροχής της εγγύησης του Ελληνικού Δημοσίου\r\nγια κάλυψη κοινοπρακτικού ομολογιακού δανείου, εκδόσεως της Εταιρείας\r\nΕλληνικά Αμυντικά Συστήματα (Ε.Α.Σ) Α.Β.Ε.Ε. ποσού 30.000.000 ευρώ.",
+  "protocol_number": "2/10725/0025",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "700"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-09",
+  "posted": "2012-03-27",
+  "publish_timestamp_ms": 1332850998000,
+  "version_id": "baaaff33-127c-4d0b-8551-13b7c56c74b3",
+  "in_force": "2012-03-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%92%CE%9F%CE%97-%CE%A5%CE%9D3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%92%CE%9F%CE%97-%CE%A5%CE%9D3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%92%CE%9F%CE%97-%CE%A5%CE%9D3",
+  "listing_sha256": "5790bb84156c914f439665377188c558d45883d6a0381f33853affd2647d4708",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
