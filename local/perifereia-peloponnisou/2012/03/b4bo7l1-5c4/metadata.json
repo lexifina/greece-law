@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΒΟ7Λ1-5Ψ4",
+  "subject": "ΑΝΤΙΚΑΤΑΣΤΑΣΗ ΕΠΑΓΓΕΛΜΑΤΙΚΟΥ ΑΛΙΕΥΤΙΚΟΥ ΣΚΑΦΟΥΣ",
+  "protocol_number": "2218",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5012",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "82324"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-12",
+  "posted": "2012-03-27",
+  "publish_timestamp_ms": 1332837468000,
+  "version_id": "e33e8fdb-79ac-4b8c-8326-fa833427f658",
+  "in_force": "2012-03-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%92%CE%9F7%CE%9B1-5%CE%A84",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%92%CE%9F7%CE%9B1-5%CE%A84/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%92%CE%9F7%CE%9B1-5%CE%A84",
+  "listing_sha256": "cdb53eb90bbad69fcb9c2b6c41570c079225dee7b01dd409e9b4e779689cfb21",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
