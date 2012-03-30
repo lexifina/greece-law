@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Β77ΛΚ-Λ0Υ",
+  "subject": "Δικαστική εκπροσώπηση της Π.Ε. Ρεθύμνου στο Σ.τ.Ε. στη δικάσιμο που έχει οριστεί στις 04-04-2012 κατά την εκδίκαση δύο αιτήσεων ακύρωσης του «Περιβαλλοντικού Συλλόγου Ρεθύμνου» και άλλων πέντε σωματείων κατά αποφάσεων Νομαρχών που αφορούν τον καθορισμό ορίων σε μεγάλο αριθμό οικισμών του Νομού Ρεθύμνου.",
+  "protocol_number": "αριθμ. 145/2012 απόφαση Οικονομικής Επιτροπής (πρακτικό Νο 7/28-03-2012),",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "84337"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-28",
+  "posted": "2012-03-30",
+  "publish_timestamp_ms": 1333097098000,
+  "version_id": "d983afdf-f9d4-457d-826a-5bac6e0af4b0",
+  "in_force": "2012-03-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9277%CE%9B%CE%9A-%CE%9B0%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9277%CE%9B%CE%9A-%CE%9B0%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9277%CE%9B%CE%9A-%CE%9B0%CE%A5",
+  "listing_sha256": "c287e32ad449f9c0d6b74172334a0c76a12c3a4421826149d3e32f66dfbf3d42",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
