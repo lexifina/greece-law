@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Ω97ΛΡ-Ε2Κ",
+  "subject": "ΑΠΟΦΑΣΗ ΠΑΡΑΤΑΣΗΣ",
+  "protocol_number": "8375",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81558"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-29",
+  "posted": "2012-04-02",
+  "publish_timestamp_ms": 1333365264000,
+  "version_id": "1617dad4-c239-4394-b559-b5d6dcc71f63",
+  "in_force": "2012-04-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A997%CE%9B%CE%A1-%CE%952%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A997%CE%9B%CE%A1-%CE%952%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A997%CE%9B%CE%A1-%CE%952%CE%9A",
+  "listing_sha256": "0077d86698abcb12157f25a875d61fbb221cac7412e3c9e2dc8458e17ee37a8a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
