@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Ω9ΩΞΜ-Χ53",
+  "subject": "Απόφαση Δημάρχου Πολυγύρου με θέμα: Ορισμός μέλους στην επιτροπή εκτίμησης και καταμέτρηση ακινήτων που πρόκειται να μισθωθούν για i) τη στέγαση της Τεχνικής Υπηρεσίας του Δήμου Πολυγύρου,ii) τη στέγαση του 4ου Νηπιαγωγείου Πολυγύρου, iii) τη στέγαση της αποθήκης της Δ/νσης Πολεοδομίας(για το αρχείο της), iv) Πάρκινγκ Ορμύλιας και v) Πάρκινγκ Ταξιάρχη.",
+  "protocol_number": "912",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6251",
+    "label": "ΔΗΜΟΣ ΠΟΛΥΓΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80122"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-30",
+  "posted": "2012-04-02",
+  "publish_timestamp_ms": 1333362850000,
+  "version_id": "8fbd0ac5-0e0b-4ced-8396-a456ef27e64a",
+  "in_force": "2012-04-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A99%CE%A9%CE%9E%CE%9C-%CE%A753",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A99%CE%A9%CE%9E%CE%9C-%CE%A753/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A99%CE%A9%CE%9E%CE%9C-%CE%A753",
+  "listing_sha256": "d076f94c666f82bbc689f027683f56b4e63b44f4e259bfe7d90336185a37df01",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
