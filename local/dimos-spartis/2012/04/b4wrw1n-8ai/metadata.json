@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΡΩ1Ν-8ΑΙ",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ",
+  "protocol_number": "15748",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6286",
+    "label": "ΔΗΜΟΣ ΣΠΑΡΤΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "89082"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-02",
+  "posted": "2012-04-03",
+  "publish_timestamp_ms": 1333453982000,
+  "version_id": "7ebaad39-f73d-4b49-958a-3c366d31e7ee",
+  "in_force": "2012-04-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%A1%CE%A91%CE%9D-8%CE%91%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%A1%CE%A91%CE%9D-8%CE%91%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%A1%CE%A91%CE%9D-8%CE%91%CE%99",
+  "listing_sha256": "3164ec096336d8d038696b7bbf2bab50b1c57ad20c60753845f13c9a653c50e7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
