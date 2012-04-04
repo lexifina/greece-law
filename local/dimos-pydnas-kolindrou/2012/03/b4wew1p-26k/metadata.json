@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΕΩ1Π-26Κ",
+  "subject": "ΑΝΑΜΟΡΦΩΣΗ ΠΡΟΫΠΟΛΟΓΙΣΜΟΎ ΕΤΟΥΣ 2012 ΣΥΜΦΩΝΑ ΜΕ ΤΗΝ ΑΡΙΘ. 33/2012 ΑΠΟΦΑΣΗ ΔΗ.ΦΟ.Π.Α.Π.Ο.Υ",
+  "protocol_number": "249/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6256",
+    "label": "ΔΗΜΟΣ ΠΥΔΝΑΣ - ΚΟΛΙΝΔΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85718"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4Ω9ΟΡ1Υ-ΨΤΜ"
+      }
+    ]
+  },
+  "issued": "2012-03-23",
+  "posted": "2012-04-04",
+  "publish_timestamp_ms": 1333524301000,
+  "version_id": "605b302b-207d-4035-8fe7-580bfe39e0f6",
+  "in_force": "2012-04-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%95%CE%A91%CE%A0-26%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%95%CE%A91%CE%A0-26%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%95%CE%A91%CE%A0-26%CE%9A",
+  "listing_sha256": "c0d4ae41bd914b814f0bbe59f9d89da9b27ac2cb7794c57f3979c3dd86f82e28",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
