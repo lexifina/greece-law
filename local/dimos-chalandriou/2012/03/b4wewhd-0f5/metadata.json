@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΕΩΗΔ-0Φ5",
+  "subject": "Έγκριση πίστωσης σε βάρος του Κ.Α. 20.6641.07 Ο.Ε. 2012",
+  "protocol_number": "173/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6314",
+    "label": "ΔΗΜΟΣ ΧΑΛΑΝΔΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79313"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-26",
+  "posted": "2012-04-04",
+  "publish_timestamp_ms": 1333529109000,
+  "version_id": "d085ccf0-2de9-4f90-8e17-aa28101a220a",
+  "in_force": "2012-04-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%95%CE%A9%CE%97%CE%94-0%CE%A65",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%95%CE%A9%CE%97%CE%94-0%CE%A65/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%95%CE%A9%CE%97%CE%94-0%CE%A65",
+  "listing_sha256": "cf2ff85d5969099c7db1ba67ef53af8a6ecdb62eaec0aeea0019d98e65778fe8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
