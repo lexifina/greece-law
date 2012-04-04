@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΕΩΨ7-ΛΚ2",
+  "subject": "Καταχώρηση της απογραφής έναρξης στο βιβλίο απογραφών και ισολογισμών του Δήμου Αλμυρού.",
+  "protocol_number": "6674",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6022",
+    "label": "ΔΗΜΟΣ ΑΛΜΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79081"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-27",
+  "posted": "2012-04-04",
+  "publish_timestamp_ms": 1333527978000,
+  "version_id": "dd5e0d20-187a-4bb1-be24-f82709155e82",
+  "in_force": "2012-04-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%95%CE%A9%CE%A87-%CE%9B%CE%9A2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%95%CE%A9%CE%A87-%CE%9B%CE%9A2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%95%CE%A9%CE%A87-%CE%9B%CE%9A2",
+  "listing_sha256": "ac722014f33a363126cc71dec305e1def17e093269837b55f1ab60485957bcdb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
