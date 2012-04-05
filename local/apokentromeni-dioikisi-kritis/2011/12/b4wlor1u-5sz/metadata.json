@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΛΟΡ1Θ-5ΣΖ",
+  "subject": "Εφαρμογή ιδιωτικού σχεδίου ρυμοτομίας στη θέση \"Μούρος\" ή \"Γυαλός\" (Ακρωτήριο Κριός) του οικισμού 'Αγιοι Θεόδωροι, της τότε κοινότητας Σκλαβοπούλας, Δήμου Καντάνου-Σελίνου, Περιφερειακής Ενότητας Χανίων.",
+  "protocol_number": "5014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76997"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_AAP",
+      "issueyear": 2012,
+      "aa": "100"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-30",
+  "posted": "2012-04-05",
+  "publish_timestamp_ms": 1333610259000,
+  "version_id": "e9f55ad3-e8fa-40e0-924e-aa28c7156c7a",
+  "in_force": "2012-04-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9B%CE%9F%CE%A11%CE%98-5%CE%A3%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9B%CE%9F%CE%A11%CE%98-5%CE%A3%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%9B%CE%9F%CE%A11%CE%98-5%CE%A3%CE%96",
+  "listing_sha256": "d076f94c666f82bbc689f027683f56b4e63b44f4e259bfe7d90336185a37df01",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
