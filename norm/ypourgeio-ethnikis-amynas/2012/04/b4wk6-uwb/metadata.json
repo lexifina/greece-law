@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΚ6-ΘΩΒ",
+  "subject": "Αποστρατεία Αξιωματικού του Πολεμικού Ναυτικού, μετά από αίτησή του, λόγω συμμετοχής του στις Βουλευτικές Εκλογές της 4ης Οκτωβρίου 2009",
+  "protocol_number": "Φ.  414.22/ 26/12 Σ. 25788/",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2012,
+      "aa": "352"
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-05",
+  "posted": "2012-04-06",
+  "publish_timestamp_ms": 1333710500000,
+  "version_id": "9ed1e204-757e-469b-82a2-b1e51b83c4d8",
+  "in_force": "2012-04-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9A6-%CE%98%CE%A9%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9A6-%CE%98%CE%A9%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%9A6-%CE%98%CE%A9%CE%92",
+  "listing_sha256": "8a3c6fc827a826f8f7306f71f88c499fd82586f79fbdbbd8c4cc4131792d80a8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
