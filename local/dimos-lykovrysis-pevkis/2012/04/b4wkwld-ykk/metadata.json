@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΚΩΛΔ-ΥΚΚ",
+  "subject": "Απόφαση δέσμευσης πίστωσης ποσού ΕΞΗ ΧΙΛΙΑΔΩΝ ΠΕΝΤΑΚΟΣΙΩΝ ΕΥΡΩ (6.500,00€) στον ΚΑΕ 00.6714.0002 για την ¨Απόδοση χορήγησης στις Σχολικές Επιτροπές για τους σχολικούς τροχονόμους\"",
+  "protocol_number": "2914",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6178",
+    "label": "ΔΗΜΟΣ ΛΥΚΟΒΡΥΣΗΣ - ΠΕΥΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82029"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-05",
+  "posted": "2012-04-06",
+  "publish_timestamp_ms": 1333698048000,
+  "version_id": "3777f2d1-6351-44de-b2c7-b747b8396b45",
+  "in_force": "2012-04-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9A%CE%A9%CE%9B%CE%94-%CE%A5%CE%9A%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9A%CE%A9%CE%9B%CE%94-%CE%A5%CE%9A%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%9A%CE%A9%CE%9B%CE%94-%CE%A5%CE%9A%CE%9A",
+  "listing_sha256": "8a3c6fc827a826f8f7306f71f88c499fd82586f79fbdbbd8c4cc4131792d80a8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
