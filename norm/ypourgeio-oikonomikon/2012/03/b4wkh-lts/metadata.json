@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΚΗ-ΛΤΣ",
+  "subject": "ΑΠΟΣΠΑΣΗ ΣΕ ΓΡΑΦΕΙΟ ΥΠΟΥΡΓΟΥ",
+  "protocol_number": "2/26653/0004",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_fektype_AEEPPE",
+      "issueyear": 2012,
+      "aa": "149"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-28",
+  "posted": "2012-04-06",
+  "publish_timestamp_ms": 1333688620000,
+  "version_id": "592112cd-8248-4d27-9949-ecdd51461421",
+  "in_force": "2012-04-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9A%CE%97-%CE%9B%CE%A4%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9A%CE%97-%CE%9B%CE%A4%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%9A%CE%97-%CE%9B%CE%A4%CE%A3",
+  "listing_sha256": "60cea3e9d7943cee19479ba1dad97ede8d3940516a46f9490d435a2146bb23da",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
