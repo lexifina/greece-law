@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΗΩΕΨ-ΚΣΣ",
+  "subject": "Καταβολή τρίμηνων αποδοχών στον τέως υπάλληλο του Δήμου Καισαριανής Ροδίτη Αγγελή κλάδου ΥΕ16 Εργατών Καθαριότητας με βαθμό Γ,΄που αποχώρησε από την υπηρεσία του λόγω συνταξιοδότησης.",
+  "protocol_number": "35",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6127",
+    "label": "ΔΗΜΟΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84900"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-07",
+  "posted": "2012-04-09",
+  "publish_timestamp_ms": 1333963035000,
+  "version_id": "507d5c06-9dd5-40cf-a67e-dabd17585c33",
+  "in_force": "2012-04-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%97%CE%A9%CE%95%CE%A8-%CE%9A%CE%A3%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%97%CE%A9%CE%95%CE%A8-%CE%9A%CE%A3%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%97%CE%A9%CE%95%CE%A8-%CE%9A%CE%A3%CE%A3",
+  "listing_sha256": "5a33fe39a873efac657001834f6115ca565ea4fc651114f5e303b535949ae066",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
