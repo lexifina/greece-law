@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΗ7ΛΡ-ΕΥΔ",
+  "subject": "ΔΕΣΜΕΥΣΗ ΠΙΣΤΩΣΗΣ",
+  "protocol_number": "1314",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81793"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β44Υ7ΛΡ-ΤΟ0"
+      }
+    ]
+  },
+  "issued": "2012-03-06",
+  "posted": "2012-04-09",
+  "publish_timestamp_ms": 1333967683000,
+  "version_id": "dc741416-4b0e-4812-ade6-6138a727d1a3",
+  "in_force": "2012-04-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%977%CE%9B%CE%A1-%CE%95%CE%A5%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%977%CE%9B%CE%A1-%CE%95%CE%A5%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%977%CE%9B%CE%A1-%CE%95%CE%A5%CE%94",
+  "listing_sha256": "4bd47c73c4027cf3fe540cf43d4a9fea2566b3c5ffceb57f7dd8eb3125a1d404",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
