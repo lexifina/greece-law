@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΗΩΚΨ-ΩΝΠ",
+  "subject": "ΑΠΟΦΑΣΗ ΜΕΤΑΚΙΝΗΣΗΣ",
+  "protocol_number": "380",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6195",
+    "label": "ΔΗΜΟΣ AΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80772"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-09",
+  "posted": "2012-04-09",
+  "publish_timestamp_ms": 1333976219000,
+  "version_id": "4dcccf2e-20d7-4847-b4a0-5c36e6f52b5e",
+  "in_force": "2012-04-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%97%CE%A9%CE%9A%CE%A8-%CE%A9%CE%9D%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%97%CE%A9%CE%9A%CE%A8-%CE%A9%CE%9D%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%97%CE%A9%CE%9A%CE%A8-%CE%A9%CE%9D%CE%A0",
+  "listing_sha256": "bf6661a1d3b7e378631cc906af2ae4761b505a71958fe893381b2c8b763a3064",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
