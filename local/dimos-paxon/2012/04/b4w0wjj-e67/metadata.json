@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Ω0ΩΞΞ-Ε67",
+  "subject": "Αριθ. Αποφ. 05-39/2012  Δημ. Συμβουλίου  ΠΑΞΩΝ\r\n«Αποδοχή χρηματοδότησης για την Υλοποίηση του έργου  \r\n«Τεχνική Βοήθεια του  Δήμου Παξών»",
+  "protocol_number": "715",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6235",
+    "label": "ΔΗΜΟΣ ΠΑΞΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81027"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "456ΤΩΞΞ-Λ0Θ"
+      }
+    ]
+  },
+  "issued": "2012-04-10",
+  "posted": "2012-04-10",
+  "publish_timestamp_ms": 1334050977000,
+  "version_id": "46cd39a5-60eb-4323-848b-a2c89fe26580",
+  "in_force": "2012-04-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A90%CE%A9%CE%9E%CE%9E-%CE%9567",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A90%CE%A9%CE%9E%CE%9E-%CE%9567/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A90%CE%A9%CE%9E%CE%9E-%CE%9567",
+  "listing_sha256": "33d914fb79e014e55b120f36da5a7ce8370e458cb8a55e6c94d79d30e8731937",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
