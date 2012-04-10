@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Ω0ΟΡ1Γ-Ξ15",
+  "subject": "Απόφαση έγκρισης πρακτικών δημοπρασίας κατασχεθέντων δασικών προϊόντων",
+  "protocol_number": "17445/1276",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76558"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΟΟΡ1Γ-Ν5Κ"
+      }
+    ]
+  },
+  "issued": "2012-04-10",
+  "posted": "2012-04-10",
+  "publish_timestamp_ms": 1334048721000,
+  "version_id": "85be3b29-2ca4-4324-859d-7c43c061dc9f",
+  "in_force": "2012-04-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A90%CE%9F%CE%A11%CE%93-%CE%9E15",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A90%CE%9F%CE%A11%CE%93-%CE%9E15/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A90%CE%9F%CE%A11%CE%93-%CE%9E15",
+  "listing_sha256": "33d914fb79e014e55b120f36da5a7ce8370e458cb8a55e6c94d79d30e8731937",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
