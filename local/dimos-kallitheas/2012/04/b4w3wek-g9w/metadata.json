@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Ω3ΩΕΚ-Γ9Ω",
+  "subject": "Έγκριση δαπάνης και διάθεση πίστωσης κατόπιν Έκθεσης Ανάληψης Υποχρέωσης έτους 2012 συνολικού ποσού 1.500,00 € για έξοδα σύνταξης συμβολαίου.",
+  "protocol_number": "195/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6132",
+    "label": "ΔΗΜΟΣ ΚΑΛΛΙΘΕΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79637"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-09",
+  "posted": "2012-04-17",
+  "publish_timestamp_ms": 1334643662000,
+  "version_id": "55c957d6-588e-476b-b5d7-b66d0da96063",
+  "in_force": "2012-04-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A93%CE%A9%CE%95%CE%9A-%CE%939%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A93%CE%A9%CE%95%CE%9A-%CE%939%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A93%CE%A9%CE%95%CE%9A-%CE%939%CE%A9",
+  "listing_sha256": "06498f9f2a40565126144135f35265fe39de7fe5d2d2c49aee88f33abde7891f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
