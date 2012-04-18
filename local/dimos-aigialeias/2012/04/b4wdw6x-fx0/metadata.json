@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΔΩ6Χ-ΦΧ0",
+  "subject": "απόφαση Δ.Σ. αριθ.146 \"Ανάθεση παροχής υπηρεσίας στην Δ.Ε.Υ.Α. Αιγίου για καταγραφή ενδείξεων υδρομετρητών στις Δημοτικές Ενότητες Ερινεού –Συμπολιτείας έως 31-12-2012",
+  "protocol_number": "15685",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6015",
+    "label": "ΔΗΜΟΣ ΑΙΓΙΑΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80851"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-11",
+  "posted": "2012-04-18",
+  "publish_timestamp_ms": 1334726194000,
+  "version_id": "cf52e0e4-d9d8-4036-9eff-fa3e8146e02e",
+  "in_force": "2012-04-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%94%CE%A96%CE%A7-%CE%A6%CE%A70",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%94%CE%A96%CE%A7-%CE%A6%CE%A70/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%94%CE%A96%CE%A7-%CE%A6%CE%A70",
+  "listing_sha256": "30d5e6f36713a24a4bb6db57f865733db63e00e0f7acc1e6f12532462b186f2b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
