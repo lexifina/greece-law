@@ -1,0 +1,51 @@
+{
+  "act": "π.δ. 44/2012",
+  "year": 2012,
+  "number": 44,
+  "url": "https://api.et.gr/apiLAW/2/2012/44/pdf",
+  "source_sha256": "16d3f4c58c39535190f820c351c843ada644cf10949e5f73029cdf9f13c7c042",
+  "published": "2012-04-19",
+  "in_force": "2012-04-19",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: no commencement clause",
+  "pages": 24,
+  "images": [
+    {
+      "page": 11,
+      "sha256": "64905b95740d23f37c196a36378706811a38a67ce5524f9299de2dfa384c2718",
+      "ext": "png",
+      "bytes": 183430,
+      "bbox": [
+        75.3,
+        196.9,
+        595.2,
+        757.2
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "3850fd809d5dc369ec8886e6c5e76d387ad41d9b1066332639b4e7e3b919a3b4",
+      "ext": "png",
+      "bytes": 257314,
+      "bbox": [
+        38.2,
+        84.2,
+        563.9,
+        721.8
+      ]
+    },
+    {
+      "page": 13,
+      "sha256": "e51a071e0198e562a445013689a634d4ebda11a1d150ecbda2dc0d5039ea079e",
+      "ext": "png",
+      "bytes": 274841,
+      "bbox": [
+        77.5,
+        85.7,
+        586.2,
+        724.9
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
