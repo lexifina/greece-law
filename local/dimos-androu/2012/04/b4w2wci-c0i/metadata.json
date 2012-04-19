@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Ω2ΩΨΙ-Ψ0Ι",
+  "subject": "Συμψηφισμός οφειλών Δήμου Άνδρου στο Ελληνικό Δημόσιο (Δ.Ο.Υ. Άνδρου), με τα προβλεπόμενα στο άρθρο 27 του Ν.3756/2009 (ΦΕΚ Α΄) έσοδα",
+  "protocol_number": "57",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6037",
+    "label": "ΔΗΜΟΣ ΑΝΔΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84416"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-10",
+  "posted": "2012-04-19",
+  "publish_timestamp_ms": 1334827697000,
+  "version_id": "05a44c98-b0a4-4968-8654-96bf99135576",
+  "in_force": "2012-04-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A92%CE%A9%CE%A8%CE%99-%CE%A80%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A92%CE%A9%CE%A8%CE%99-%CE%A80%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A92%CE%A9%CE%A8%CE%99-%CE%A80%CE%99",
+  "listing_sha256": "a654e3094926af5b4b36435aaa1aca343ee690351665715156e2cdf1d85cb2fc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
