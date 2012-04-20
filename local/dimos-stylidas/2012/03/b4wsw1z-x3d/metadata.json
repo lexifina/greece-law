@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΣΩ1Ζ-Χ3Δ",
+  "subject": "Έκδοση χρηματικών ενταλμάτων προπληρωμής – ορισμός υπολόγων",
+  "protocol_number": "48",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6289",
+    "label": "ΔΗΜΟΣ ΣΤΥΛΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79640"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-26",
+  "posted": "2012-04-20",
+  "publish_timestamp_ms": 1334909774000,
+  "version_id": "224c69d6-f77b-4359-b543-b09c1def6875",
+  "in_force": "2012-04-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%A3%CE%A91%CE%96-%CE%A73%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%A3%CE%A91%CE%96-%CE%A73%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%A3%CE%A91%CE%96-%CE%A73%CE%94",
+  "listing_sha256": "cf2ff85d5969099c7db1ba67ef53af8a6ecdb62eaec0aeea0019d98e65778fe8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
