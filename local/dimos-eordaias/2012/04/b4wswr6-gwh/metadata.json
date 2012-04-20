@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΣΩΡ6-ΓΩΗ",
+  "subject": "Έγκριση έκδοσης εντάλματος προπληρωμής (ανταλλακτικά οχημάτων) και ορισμός υπολόγου.",
+  "protocol_number": "190/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6092",
+    "label": "ΔΗΜΟΣ ΕΟΡΔΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85350"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-20",
+  "posted": "2012-04-20",
+  "publish_timestamp_ms": 1334905063000,
+  "version_id": "5a17b5cc-8243-4b77-81b5-623682c1ec39",
+  "in_force": "2012-04-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%A3%CE%A9%CE%A16-%CE%93%CE%A9%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%A3%CE%A9%CE%A16-%CE%93%CE%A9%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%A3%CE%A9%CE%A16-%CE%93%CE%A9%CE%97",
+  "listing_sha256": "1b6dcbf3f92914092ff961958342d8d7c2739772ce4b32f7e63c89d72f542793",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
