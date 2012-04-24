@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΝΩΞΜ-ΡΞΥ",
+  "subject": "Απόφαση τοπικής κοινότητας Δουμπιών - Απόφαση για να περάσει στη δικαιοδοσία του Δήμου το αρδευτικό δίκτυο, μετά τη συγχώνευση των Αγροτικών Συνεταιρισμών με τις πρώην Ενώσεις Α.Σ",
+  "protocol_number": "8/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6251",
+    "label": "ΔΗΜΟΣ ΠΟΛΥΓΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84557"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-16",
+  "posted": "2012-04-24",
+  "publish_timestamp_ms": 1335251037000,
+  "version_id": "89ecd0f8-74f2-4440-a332-47f2056ce0fc",
+  "in_force": "2012-04-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9D%CE%A9%CE%9E%CE%9C-%CE%A1%CE%9E%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9D%CE%A9%CE%9E%CE%9C-%CE%A1%CE%9E%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%9D%CE%A9%CE%9E%CE%9C-%CE%A1%CE%9E%CE%A5",
+  "listing_sha256": "9de510b4fbe8a040da199285c2ff34adc72cdbf816787b745a4da35a2dc928f4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
