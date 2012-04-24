@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΝΩΨ8-Ν2Ζ",
+  "subject": "Ψήφιση πίστωσης συνολικού ποσού 11.300,38 € ήτοι: Α) ποσό 10.814,10€ το οποίο αποτελεί το Κεφάλαιο, Β) ποσό 190,00 € για δικαστικά έξοδα, Γ) ποσό 216,28 € για αμοιβή Δικηγόρου, και Δ) ποσό 80,00€ για τόκους υπερημερίας, στο όνομα του Χαράλαμπου Δαμάσκου του Σπυρίδωνος για αποζημίωση από απαλλοτρίωση λόγω ρυμοτομίας του ακινήτου του στην Π.Ε. Μπόσκιζα στο Ο.Τ. Γ 2305 με Κ.Α. 342208",
+  "protocol_number": "35730",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6050",
+    "label": "ΔΗΜΟΣ ΑΧΑΡΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82108"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24",
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-12",
+  "posted": "2012-04-24",
+  "publish_timestamp_ms": 1335271889000,
+  "version_id": "5cd56adc-741e-42f6-83e8-52ed655572ae",
+  "in_force": "2012-04-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9D%CE%A9%CE%A88-%CE%9D2%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9D%CE%A9%CE%A88-%CE%9D2%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%9D%CE%A9%CE%A88-%CE%9D2%CE%96",
+  "listing_sha256": "9714921f594e1be0e132c9d60e3711e49f4fe305bed9ad5f77a76b9a55b698d6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
