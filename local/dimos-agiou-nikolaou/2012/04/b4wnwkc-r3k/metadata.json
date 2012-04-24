@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΝΩΚΨ-Ρ3Κ",
+  "subject": "Έγκριση της αριθμ. 44/2011 απόφασης \r\n\t   Δημοτικής Κοινότητας Κριτσάς η οποία \r\n\t   αφορά ¨Πρόταση επί αιτήσεως \r\n\t   Πολιτιστικού Συλλόγου Κριτσάς για \r\n\t   παραχώρηση του παλιού σχολείου για \r\n\t   δημιουργία Λαογραφικού Μουσείου¨",
+  "protocol_number": "7212",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6195",
+    "label": "ΔΗΜΟΣ AΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82087"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4Ω0ΩΚΨ-ΕΗ6"
+      }
+    ]
+  },
+  "issued": "2012-04-05",
+  "posted": "2012-04-24",
+  "publish_timestamp_ms": 1335251247000,
+  "version_id": "3f7c47fa-c170-441e-8f85-c014c1aa90c0",
+  "in_force": "2012-04-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9D%CE%A9%CE%9A%CE%A8-%CE%A13%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9D%CE%A9%CE%9A%CE%A8-%CE%A13%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%9D%CE%A9%CE%9A%CE%A8-%CE%A13%CE%9A",
+  "listing_sha256": "b11b1bb5b37de21dfd86a18047726337c4f78d035ac0624ed889b3d3254fecd1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
