@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΝΩΨ8-ΩΧΕ",
+  "subject": "Ψήφιση πίστωσης ποσού 149.806,76 € , ήτοι Α) ποσό 144.792,00 €  το οποίο αποτελεί το σύνολο Κεφαλαίου αποζημίωσης  του κ. Βησσαράκη Αλέξανδρου για  απαλλοτρίωση των ακινήτων του  στην Π.Ε.Χαραυγή Β α) στο  Ο.Τ. 2052 με  Κ.Α. 293708, και β) στο ΟΤ Γ 2054 με Κ.Α. 293720, Β) ποσό 671,00 € για  δικαστικά έξοδα και 2) ποσό 4.343,76 €  για αμοιβή Δικηγόρου",
+  "protocol_number": "34725",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6050",
+    "label": "ΔΗΜΟΣ ΑΧΑΡΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82108"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24",
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-12",
+  "posted": "2012-04-24",
+  "publish_timestamp_ms": 1335264472000,
+  "version_id": "c0c2d864-5124-4350-9cc9-d8e9a34cc4c7",
+  "in_force": "2012-04-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9D%CE%A9%CE%A88-%CE%A9%CE%A7%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9D%CE%A9%CE%A88-%CE%A9%CE%A7%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%9D%CE%A9%CE%A88-%CE%A9%CE%A7%CE%95",
+  "listing_sha256": "9714921f594e1be0e132c9d60e3711e49f4fe305bed9ad5f77a76b9a55b698d6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
