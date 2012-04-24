@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΝΩ94-ΔΑΩ",
+  "subject": "72/2012 απόφαση Ο.Ε. ( μελέτη αποχέτευσης οικισμού Αφρατίου)",
+  "protocol_number": "3632",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6054",
+    "label": "ΔΗΜΟΣ ΒΙΑΝΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81442"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-24",
+  "posted": "2012-04-24",
+  "publish_timestamp_ms": 1335261763000,
+  "version_id": "458ef256-a69b-4273-9f48-008fafe8a8a1",
+  "in_force": "2012-04-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9D%CE%A994-%CE%94%CE%91%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9D%CE%A994-%CE%94%CE%91%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%9D%CE%A994-%CE%94%CE%91%CE%A9",
+  "listing_sha256": "b3941ce8c40e0031e13f4ae1e3ed168007c58856aa04ce8d64e49e03565dd7fd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
