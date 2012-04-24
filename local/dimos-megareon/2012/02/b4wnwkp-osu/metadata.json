@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΝΩΚΠ-ΟΣΘ",
+  "subject": "Απόφαση 24/2012 Δημοτικού Σ/λίου Δήμου Μεγαρέων:Περί της καθιέρωσης κατ’ εξαίρεση ωρών λειτουργίας της Δ/νσης Καθαριότητος και Ανακύκλωσης, Πρασίνου και Εξωτερικών Συνεργείων και του Τμήματος Ύδρευσης – Αποχέτευσης της Δ/νσης Τεχνικών Υπηρεσιών.",
+  "protocol_number": "24/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6188",
+    "label": "ΔΗΜΟΣ ΜΕΓΑΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80561"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "768/15-3-2012"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-08",
+  "posted": "2012-04-24",
+  "publish_timestamp_ms": 1335262238000,
+  "version_id": "00c5bdce-a3cb-4e19-8937-6265913de769",
+  "in_force": "2012-04-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9D%CE%A9%CE%9A%CE%A0-%CE%9F%CE%A3%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%9D%CE%A9%CE%9A%CE%A0-%CE%9F%CE%A3%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%9D%CE%A9%CE%9A%CE%A0-%CE%9F%CE%A3%CE%98",
+  "listing_sha256": "7e787a3f03a11805ecf885ade35fad1f664459499ac079b99dba6cf2704c5278",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
