@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΧ6-Κ6Ω",
+  "subject": "Μετάταξη Μονίμου Πολιτικού Υπαλλήλου σε Κλάδο Ανώτερης Κατηγορίας.",
+  "protocol_number": "Φ.471.62/12/12/Σ.32822/14-3-2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2012,
+      "aa": "328"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-14",
+  "posted": "2012-04-25",
+  "publish_timestamp_ms": 1335342863000,
+  "version_id": "08640265-195e-4aac-958d-61702a20fde2",
+  "in_force": "2012-04-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%A76-%CE%9A6%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%A76-%CE%9A6%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%A76-%CE%9A6%CE%A9",
+  "listing_sha256": "2ffaf89ca7508c31ee41fe1cd8e39e3e7c5fba97f2069f974436b3c87850862f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
