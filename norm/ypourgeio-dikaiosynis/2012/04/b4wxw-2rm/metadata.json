@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΧΩ-2ΡΜ",
+  "subject": "Συγκρότηση της Ελληνικής Αρχής Αποζημίωσης.",
+  "protocol_number": "33460",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_fektype_AEEPPE",
+      "issueyear": 2012,
+      "aa": "199"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-18",
+  "posted": "2012-04-25",
+  "publish_timestamp_ms": 1335340178000,
+  "version_id": "1657f165-9879-44cb-af88-9f233a43637c",
+  "in_force": "2012-04-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%A7%CE%A9-2%CE%A1%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%A7%CE%A9-2%CE%A1%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%A7%CE%A9-2%CE%A1%CE%9C",
+  "listing_sha256": "7fd91c746f046efff37953f3a5ce429b3398d75a808d7b471281a4b79530c791",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
