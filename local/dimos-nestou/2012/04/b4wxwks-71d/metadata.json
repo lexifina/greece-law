@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΧΩΚΣ-71Δ",
+  "subject": "Προσαρμογή Διαχειριστικής Επάρκειαςτου Δήμου Νέστου",
+  "protocol_number": "11897",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6214",
+    "label": "ΔΗΜΟΣ ΝΕΣΤΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80073"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-25",
+  "posted": "2012-04-25",
+  "publish_timestamp_ms": 1335344509000,
+  "version_id": "814c569a-95ba-44bc-b72c-907e6465955d",
+  "in_force": "2012-04-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%A7%CE%A9%CE%9A%CE%A3-71%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%A7%CE%A9%CE%9A%CE%A3-71%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%A7%CE%A9%CE%9A%CE%A3-71%CE%94",
+  "listing_sha256": "e7ec8cc5d4f57da15e796b77f8dd20bddc320a3ceb35e83e1168380f10ccc9d4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
