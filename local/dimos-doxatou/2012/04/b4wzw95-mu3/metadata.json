@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΩΖΩ95-ΜΘ3",
+  "subject": "Καθορισμός αμοιβής δικηγόρου και ψήφιση πίστωσης",
+  "protocol_number": "48/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6080",
+    "label": "ΔΗΜΟΣ ΔΟΞΑΤΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80769"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-17",
+  "posted": "2012-04-27",
+  "publish_timestamp_ms": 1335526624000,
+  "version_id": "3a071eb7-e8b5-4d53-9a9e-3dd6085aad26",
+  "in_force": "2012-04-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%96%CE%A995-%CE%9C%CE%983",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A9%CE%96%CE%A995-%CE%9C%CE%983/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A9%CE%96%CE%A995-%CE%9C%CE%983",
+  "listing_sha256": "f9be111c62ce22749192c0f5cc3574f2c05a4564cf1947f736cc6908b61ba178",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
