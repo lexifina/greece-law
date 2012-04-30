@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4646-ΠΔ5",
+  "subject": "Διαμόρφωση - Εκτέλεση Προϋπολογισμού ΥΠΕΘΑ Έτους 2012\r\n(Μεταφορά Πιστώσεων Π/Υ ΓΕΝ (11-300) ποσού 66.648 €)",
+  "protocol_number": "129107",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70167"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-27",
+  "posted": "2012-04-30",
+  "publish_timestamp_ms": 1335761911000,
+  "version_id": "29adedbb-9eb1-4464-9dc0-6f3da8860d8a",
+  "in_force": "2012-04-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924646-%CE%A0%CE%945",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924646-%CE%A0%CE%945/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924646-%CE%A0%CE%945",
+  "listing_sha256": "964accdfe7a1238fd1365f89efb87d73922f6149a0b44c3872c1d0203423f4c6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
