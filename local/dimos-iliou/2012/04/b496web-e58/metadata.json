@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β496ΩΕΒ-Ε58",
+  "subject": "ΈΓΚΡΙΣΗ ΕΚΘΕΣΗΣ ΕΣΟΔΩΝ – ΕΞΟΔΩΝ Α’ ΤΡΙΜΗΝΟΥ ΤΟΥ ΕΤΟΥΣ 2012",
+  "protocol_number": "18796",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6123",
+    "label": "ΔΗΜΟΣ ΙΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78734"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β496ΩΕΒ-ΘΗ2"
+      }
+    ]
+  },
+  "issued": "2012-04-24",
+  "posted": "2012-05-02",
+  "publish_timestamp_ms": 1335945787000,
+  "version_id": "232b4da9-024b-48a5-8664-91197f17169d",
+  "in_force": "2012-05-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92496%CE%A9%CE%95%CE%92-%CE%9558",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92496%CE%A9%CE%95%CE%92-%CE%9558/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92496%CE%A9%CE%95%CE%92-%CE%9558",
+  "listing_sha256": "2ef77d3698c6028f893d0d812c916c9a9e3570912e2749e56a15a42c954d9716",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
