@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4967ΛΒ-0ΗΠ",
+  "subject": "ΑΠΟΦΑΣΗ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΗ ΠΛΗΡΩΜΗΣ ΔΙΑΤΡΟΦΙΚΟΥ ΕΠΙΔΟΜΑΤΟΣ ΝΕΦΡΟΠΑΘΩΝ ΜΗΝΩΝ ΜΑΡΤΙΟΥ - ΑΠΡΙΛΙΟΥ 2012",
+  "protocol_number": "1700",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5001",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79978"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΩΔ7ΛΒ-Ι4Ρ"
+      }
+    ]
+  },
+  "issued": "2012-04-19",
+  "posted": "2012-05-02",
+  "publish_timestamp_ms": 1335938545000,
+  "version_id": "226b0ccc-541a-47b6-9b87-a25a3d8995bd",
+  "in_force": "2012-05-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924967%CE%9B%CE%92-0%CE%97%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924967%CE%9B%CE%92-0%CE%97%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924967%CE%9B%CE%92-0%CE%97%CE%A0",
+  "listing_sha256": "394df52b1c3f6185a8b0ba7ccbfa7026245b240070bab734bec4f7483b26eb57",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
