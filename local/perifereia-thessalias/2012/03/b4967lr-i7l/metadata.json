@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4967ΛΡ-Ι7Λ",
+  "subject": "ΑΠΟΦΑΣΗ ΕΠΟ",
+  "protocol_number": "2452",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "82221"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-23",
+  "posted": "2012-05-02",
+  "publish_timestamp_ms": 1335941261000,
+  "version_id": "df154fc4-5b77-4efc-9feb-113d509aa3e3",
+  "in_force": "2012-05-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924967%CE%9B%CE%A1-%CE%997%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924967%CE%9B%CE%A1-%CE%997%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924967%CE%9B%CE%A1-%CE%997%CE%9B",
+  "listing_sha256": "c0d4ae41bd914b814f0bbe59f9d89da9b27ac2cb7794c57f3979c3dd86f82e28",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
