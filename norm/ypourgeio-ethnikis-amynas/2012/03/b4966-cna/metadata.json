@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4966-ΨΝΑ",
+  "subject": "ΜΕΤΑΚΙΝΗΣΗ ΥΠΑΛΛΗΛΟΥ",
+  "protocol_number": "Φ. 471.3/4/12/Σ.32890//26.3.12",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-26",
+  "posted": "2012-05-02",
+  "publish_timestamp_ms": 1335944084000,
+  "version_id": "5b0a1523-3b5d-44ee-8722-a563a1785a59",
+  "in_force": "2012-05-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924966-%CE%A8%CE%9D%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924966-%CE%A8%CE%9D%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924966-%CE%A8%CE%9D%CE%91",
+  "listing_sha256": "cf2ff85d5969099c7db1ba67ef53af8a6ecdb62eaec0aeea0019d98e65778fe8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
