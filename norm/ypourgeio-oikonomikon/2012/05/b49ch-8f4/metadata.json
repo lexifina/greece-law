@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΨΗ-8Φ4",
+  "subject": "ΑΝΑΓΚΑΣΤΙΚΗ ΑΠΑΛΛΟΤΡΙΩΣΗ ΓΙΑ ΤΗΝ ΚΑΤΑΣΚΕΥΗ ΤΗΣ ΝΕΑΣ ΣΙΔΗΡΟΔΡΟΜΙΚΗΣ ΓΡΑΜΜΗΣ ΚΑΝΟΝΙΚΟΥ ΠΛΑΤΟΥΣ ΚΑΙ ΥΨΗΛΩΝ ΤΑΧΥΤΗΤΩΝ ΜΕΤΑΞΥ \r\nΚΟΡΙΝΘΟΥ  ΠΑΤΡΩΝ ΣΤΟ ΤΜΗΜΑ ΑΠΟ χ.θ 75+520  ΒΟΥΡΑΙΚΟΣ ΠΟΤΑΜΟΣ  χ.θ 79+ 800  ΝΕΑ χ,θ 80+500 ΚΕΡΥΝΙΤΗΣ ΠΟΤΑΜΟΣ ΣΤΟ ΔΗΜΟ ΔΙΑΚΟΠΤΟΥ\r\n Ν.ΑΧΑΙΑΣ",
+  "protocol_number": "1004456/154/Δ0010",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-03",
+  "posted": "2012-05-03",
+  "publish_timestamp_ms": 1336041625000,
+  "version_id": "154aee0d-d5d2-46f5-b69c-cb5250711438",
+  "in_force": "2012-05-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A8%CE%97-8%CE%A64",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A8%CE%97-8%CE%A64/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%A8%CE%97-8%CE%A64",
+  "listing_sha256": "e1c3a3099b0f8c643d482aa9fa75f9f230e35e218b2400a71ea22b45e8ec5ba8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
