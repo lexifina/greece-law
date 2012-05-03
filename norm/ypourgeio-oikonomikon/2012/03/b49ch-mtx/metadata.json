@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΨΗ-ΜΤΧ",
+  "subject": "Μισθολογικό Σύστημα του Εθνικού Οργανισμού Πιστοποίησης Προσόντων και Επαγγελματικού Προσανατολισμού (Ε.Ο.Π.Π.Ε.Π.)",
+  "protocol_number": "2/18920/0022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "678"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-06",
+  "posted": "2012-05-03",
+  "publish_timestamp_ms": 1336040017000,
+  "version_id": "930041df-652b-4d4f-ad35-5cab41eb7c96",
+  "in_force": "2012-05-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A8%CE%97-%CE%9C%CE%A4%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A8%CE%97-%CE%9C%CE%A4%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%A8%CE%97-%CE%9C%CE%A4%CE%A7",
+  "listing_sha256": "4bd47c73c4027cf3fe540cf43d4a9fea2566b3c5ffceb57f7dd8eb3125a1d404",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
