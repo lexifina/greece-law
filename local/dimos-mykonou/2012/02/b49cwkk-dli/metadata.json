@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΨΩΚΚ-ΔΛΙ",
+  "subject": "ΑΑΥ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΓΡΑΦΙΚΗΣ ΥΛΗΣ ΚΑΙ ΛΟΙΠΩΝ ΥΛΙΚΩΝ ΓΡΑΦΕΙΟΥ, ΕΝΤΥΠΩΝ ΥΛΙΚΩΝ ΜΗΧΑΝΟΓΡΑΦΗΣΗΣ & ΠΟΛΛΑΠΛΩΝ ΕΚΤΥΠΩΣΕΩΝ ΕΤΟΥΣ 2012 (10-6612).",
+  "protocol_number": "ΟΕ 15",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6200",
+    "label": "ΔΗΜΟΣ ΜΥΚΟΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81044"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-02-21",
+  "posted": "2012-05-03",
+  "publish_timestamp_ms": 1336037474000,
+  "version_id": "6eac5f04-9032-4bd3-a2b3-13947625f461",
+  "in_force": "2012-05-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A8%CE%A9%CE%9A%CE%9A-%CE%94%CE%9B%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A8%CE%A9%CE%9A%CE%9A-%CE%94%CE%9B%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%A8%CE%A9%CE%9A%CE%9A-%CE%94%CE%9B%CE%99",
+  "listing_sha256": "c43e56377f67f380cbb135666633b0640da8c758fb40cb3e3f31664c9b56f962",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
