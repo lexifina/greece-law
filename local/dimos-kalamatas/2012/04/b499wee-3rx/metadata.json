@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β499ΩΕΕ-3ΡΧ",
+  "subject": "Σύσταση παγίας προκαταβολής έτους 2012 σε Δημοτικές και Τοπικές Κοινότητες Δήμου Καλαμάτας.",
+  "protocol_number": "128/2012_ΟΕ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6130",
+    "label": "ΔΗΜΟΣ ΚΑΛΑΜΑΤΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82262"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΩΚΩΕΕ-ΣΜΣ"
+      }
+    ]
+  },
+  "issued": "2012-04-27",
+  "posted": "2012-05-04",
+  "publish_timestamp_ms": 1336115982000,
+  "version_id": "48ff74b1-a90c-452e-bb3f-20e8bb0adcd8",
+  "in_force": "2012-05-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92499%CE%A9%CE%95%CE%95-3%CE%A1%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92499%CE%A9%CE%95%CE%95-3%CE%A1%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92499%CE%A9%CE%95%CE%95-3%CE%A1%CE%A7",
+  "listing_sha256": "6eaf1719c790e588c0d8ff258356097334f05b077d545b94940d2c6cb4356891",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
