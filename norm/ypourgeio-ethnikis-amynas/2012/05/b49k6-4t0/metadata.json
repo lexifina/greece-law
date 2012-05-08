@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49Κ6-4Τ0",
+  "subject": "Ανοικτός Δσμός για τον Καθαρισμό των Χώρων Α/Β Δεκελείας (Δ. 57/11)",
+  "protocol_number": "Φ.831/ΑΔ. 2515/Σ. 572/4-5-2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "77043"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "45Ψ66-Ζ6Δ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΟΖΛ6-Θ4Η"
+      }
+    ]
+  },
+  "issued": "2012-05-04",
+  "posted": "2012-05-08",
+  "publish_timestamp_ms": 1336473389000,
+  "version_id": "dfe50f27-c19c-4bae-ae9a-e028ad4c77d7",
+  "in_force": "2012-05-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%9A6-4%CE%A40",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%9A6-4%CE%A40/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%9A6-4%CE%A40",
+  "listing_sha256": "10a0be710297499f5672b54ca32231650e9c07ecde25b33aa271a4149fb6a40f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
