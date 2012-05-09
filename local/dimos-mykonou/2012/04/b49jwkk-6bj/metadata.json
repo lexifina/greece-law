@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΞΩΚΚ-6ΒΞ",
+  "subject": "Περί επιστροφής ποσού ευρώ 137,24 ως αχρεωστήτως καταβληθέντων",
+  "protocol_number": "25",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6200",
+    "label": "ΔΗΜΟΣ ΜΥΚΟΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81046"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-28",
+  "posted": "2012-05-09",
+  "publish_timestamp_ms": 1336550678000,
+  "version_id": "04b82937-c245-4562-93a4-1ed1cc93aed0",
+  "in_force": "2012-05-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%9E%CE%A9%CE%9A%CE%9A-6%CE%92%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%9E%CE%A9%CE%9A%CE%9A-6%CE%92%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%9E%CE%A9%CE%9A%CE%9A-6%CE%92%CE%9E",
+  "listing_sha256": "34095713d589dd768041b3226aaab1b3e4f173cf1991de2490612f14fb1b2eb5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
