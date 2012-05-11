@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΗΩΨ8-9Ξ8",
+  "subject": "Ψήφιση πίστωσης ποσού 49.061,02 €, Α) 47.340,80 € το οποίο αποτελεί το σύνολο Κεφαλαίου αποζημίωσης της κας. Στεφανίδου Σοφίας το γένος Αναστασίου Τεπελίδη λόγω απαλλοτρίωσης του ακινήτου της στην Π.Ε. Λαθέα Α στο ΟΤ Γ 1452 με Κ.Α. 311410, Β) 300,00 € για δικαστικά έξοδα και Γ) 1.420,22 € για αμοιβή Δικηγόρου",
+  "protocol_number": "41942",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6050",
+    "label": "ΔΗΜΟΣ ΑΧΑΡΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82108"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24",
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-09",
+  "posted": "2012-05-11",
+  "publish_timestamp_ms": 1336745888000,
+  "version_id": "5338efbb-7787-4824-b3a2-c47f3be37488",
+  "in_force": "2012-05-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%97%CE%A9%CE%A88-9%CE%9E8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%97%CE%A9%CE%A88-9%CE%9E8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%97%CE%A9%CE%A88-9%CE%9E8",
+  "listing_sha256": "b97ebdcfe64a9b3e55bc61f07c18cedc210c04b02ceab27c21b9ddca75871474",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
