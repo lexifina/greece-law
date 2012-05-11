@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΗΩ6Χ-ΤΑ7",
+  "subject": "Απόφαση Δ.Σ. Αιγιαλείας αριθ.195/2012 με θέμα : \"Έγκριση της υπ'αριθ.22/2012 απόφασης της Ε.Π.Ζ. για απόρριψη αιτήματος για απαγόρευση στάθμευσης στη Μητροπόλεως\".",
+  "protocol_number": "16367",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6015",
+    "label": "ΔΗΜΟΣ ΑΙΓΙΑΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80851"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-19",
+  "posted": "2012-05-11",
+  "publish_timestamp_ms": 1336731518000,
+  "version_id": "61797bfb-e83c-4273-9331-f626a0851690",
+  "in_force": "2012-05-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%97%CE%A96%CE%A7-%CE%A4%CE%917",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%97%CE%A96%CE%A7-%CE%A4%CE%917/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%97%CE%A96%CE%A7-%CE%A4%CE%917",
+  "listing_sha256": "394df52b1c3f6185a8b0ba7ccbfa7026245b240070bab734bec4f7483b26eb57",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
