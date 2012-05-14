@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΦΩΨ8-ΛΛ9",
+  "subject": "Ψήφιση πίστωσης συνολικού ποσού 13.244,94 € ήτοι: Α) ποσό 11.898,00€ το οποίο αποτελεί το υπόλοιπο Κεφαλαίου, Β) ποσό 720,00 € για δικαστικά έξοδα και Γ) ποσό 626,94 € για αμοιβή Δικηγόρου, στο όνομα της Σταυρούλας συζ. Βασιλείου Βεργινάδη για αποζημίωση από απαλλοτρίωση λόγω ρυμοτομίας του ακινήτου της στην Π.Ε. Νεάπολη στο Ο.Τ. 89 με Κ.Α. 175205",
+  "protocol_number": "41935",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6050",
+    "label": "ΔΗΜΟΣ ΑΧΑΡΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82108"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24",
+    "04",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-09",
+  "posted": "2012-05-14",
+  "publish_timestamp_ms": 1336986956000,
+  "version_id": "43884a8c-aa39-4333-b06f-4b5e7391bb25",
+  "in_force": "2012-05-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A6%CE%A9%CE%A88-%CE%9B%CE%9B9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A6%CE%A9%CE%A88-%CE%9B%CE%9B9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%A6%CE%A9%CE%A88-%CE%9B%CE%9B9",
+  "listing_sha256": "b97ebdcfe64a9b3e55bc61f07c18cedc210c04b02ceab27c21b9ddca75871474",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
