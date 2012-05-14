@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΦΩΨ8-ΝΨ1",
+  "subject": "Ψήφιση πίστωσης συνολικού ποσού 1.050,20.€, το οποίο αποτελεί το σύνολο του Κεφαλαίου αποζημίωσης απαλλοτρίωσης λόγω ρυμοτομίας στο όνομα των κ.κ. 1) Κωνσταντοπούλου Κωνσταντίνου με ποσό 525,10€ και 2) Κωνσταντοπούλου Σταυρούλα το γένος Κομινάκη με ποσό 525,10 €, του ακινήτου τους στη Π.Ε. Χαραυγή Α στο Ο.Τ. 734 και με Κ.Α. 291524",
+  "protocol_number": "41928",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6050",
+    "label": "ΔΗΜΟΣ ΑΧΑΡΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82108"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24",
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-09",
+  "posted": "2012-05-14",
+  "publish_timestamp_ms": 1336977033000,
+  "version_id": "17493456-78c0-499a-a912-7ac2454a84be",
+  "in_force": "2012-05-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A6%CE%A9%CE%A88-%CE%9D%CE%A81",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A6%CE%A9%CE%A88-%CE%9D%CE%A81/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%A6%CE%A9%CE%A88-%CE%9D%CE%A81",
+  "listing_sha256": "b97ebdcfe64a9b3e55bc61f07c18cedc210c04b02ceab27c21b9ddca75871474",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
