@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΙΩΚΓ-ΒΜ5",
+  "subject": "Απόφαση 143/2012 Ο.Ε. με θέμα: Έγκριση πρακτικών δημοπρασίας για προμήθεια κάδων μηχανικής αποκομιδής στο  Δήμο Ναυπακτίας.",
+  "protocol_number": "143/2012 Ο.Ε.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6205",
+    "label": "ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78825"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-02",
+  "posted": "2012-05-15",
+  "publish_timestamp_ms": 1337057676000,
+  "version_id": "d99750a3-627d-4d0c-9a01-6efa49a16dfe",
+  "in_force": "2012-05-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%99%CE%A9%CE%9A%CE%93-%CE%92%CE%9C5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%99%CE%A9%CE%9A%CE%93-%CE%92%CE%9C5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%99%CE%A9%CE%9A%CE%93-%CE%92%CE%9C5",
+  "listing_sha256": "63cbc482a6aebc37145de2cf987209a182e57c1400baea36122c20db57fa4d42",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
