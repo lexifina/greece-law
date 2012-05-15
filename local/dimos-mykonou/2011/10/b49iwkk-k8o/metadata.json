@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΙΩΚΚ-Κ8Ο",
+  "subject": "ΑΑΥ ΓΙΑ ΤΙΣ ΧΩΜΑΤΟΥΡΓΙΚΕΣ ΕΡΓΑΣΙΕΣ ΚΛΠ. ΠΟΥ ΕΚΤΕΛΕΣΘΗΚΑΝ ΛΟΓΩ ΤΩΝ ΑΚΡΑΙΩΝ ΚΑΙΡΙΚΩΝ ΦΑΙΝΟΜΕΝΩΝ ΣΤΟ ΔΗΜΟ ΜΥΚΟΝΟΥ.",
+  "protocol_number": "OE 09/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6200",
+    "label": "ΔΗΜΟΣ ΜΥΚΟΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81046"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-05",
+  "posted": "2012-05-15",
+  "publish_timestamp_ms": 1337070093000,
+  "version_id": "66d78db4-73f9-4956-8f6b-b1a98cfff319",
+  "in_force": "2012-05-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%99%CE%A9%CE%9A%CE%9A-%CE%9A8%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%99%CE%A9%CE%9A%CE%9A-%CE%9A8%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%99%CE%A9%CE%9A%CE%9A-%CE%9A8%CE%9F",
+  "listing_sha256": "26ee919524ef03adf0873615f24afeaeeefd4b85d9f76d1f5036dd7f83840ae8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
