@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΙΩΗΤ-6Ξ3",
+  "subject": "ΑΠΟΦΑΣΗ ΟΡΙΣΜΟΥ ΕΠΙΤΡΟΠΗΣ ΕΠΙΣΚΕΥΗΣ ΚΑΙ ΣΥΝΤΗΡΗΣΗΣ ΟΧΗΜΑΤΩΝ ΕΤΟΥΣ 2012 ΤΟΥ ΔΗΜΟΥ ΦΥΛΗΣ",
+  "protocol_number": "96",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6312",
+    "label": "ΔΗΜΟΣ ΦΥΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81116"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-11",
+  "posted": "2012-05-15",
+  "publish_timestamp_ms": 1337083809000,
+  "version_id": "ee905a2d-e1a4-4bd3-bdac-4e83d1cc8e6f",
+  "in_force": "2012-05-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%99%CE%A9%CE%97%CE%A4-6%CE%9E3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%99%CE%A9%CE%97%CE%A4-6%CE%9E3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%99%CE%A9%CE%97%CE%A4-6%CE%9E3",
+  "listing_sha256": "b5d0229b8b86771c9d6f1eb9d469364e10fb91c65d3aa96565afa135290ab6c5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
