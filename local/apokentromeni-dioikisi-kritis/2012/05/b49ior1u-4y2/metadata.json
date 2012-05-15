@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΙΟΡ1Θ-4Υ2",
+  "subject": "Έγκριση κατ’ εξαίρεση άδειας οδήγησης αυτοκινήτου του Πανεπιστημίου Κρήτης.",
+  "protocol_number": "2064",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-10",
+  "posted": "2012-05-15",
+  "publish_timestamp_ms": 1337075222000,
+  "version_id": "fb780488-f962-429c-9099-5ae072fb1ed3",
+  "in_force": "2012-05-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%99%CE%9F%CE%A11%CE%98-4%CE%A52",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%99%CE%9F%CE%A11%CE%98-4%CE%A52/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%99%CE%9F%CE%A11%CE%98-4%CE%A52",
+  "listing_sha256": "71699221ce79ae4420d255178433b93e987850e03fd639a2d32f777b90184ce6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
