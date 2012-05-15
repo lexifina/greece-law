@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΙΩ0Ο-ΠΟΒ",
+  "subject": "309/2012 Έγκριση διάθεσης πίστωσης ποσού με την πάγια προκαταβολή Τοπικής Κοινότητας Aγίου Μύρωνα",
+  "protocol_number": "309/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81432"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-15",
+  "posted": "2012-05-15",
+  "publish_timestamp_ms": 1337065580000,
+  "version_id": "2fd1d704-7fce-4e28-8d6b-52893654e07c",
+  "in_force": "2012-05-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%99%CE%A90%CE%9F-%CE%A0%CE%9F%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%99%CE%A90%CE%9F-%CE%A0%CE%9F%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%99%CE%A90%CE%9F-%CE%A0%CE%9F%CE%92",
+  "listing_sha256": "cc3876978c4f73442903214f66548950a3c3f3536e550cc4a61e9a7976bc2d7a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
