@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΘΩ1Σ-ΛΛΔ",
+  "subject": "ΨΗΦΙΣΗ ΠΙΣΤΩΣΗΣ ΓΙΑ ΑΜΟΙΒΗ ΔΙΚΗΓΟΡΟΥ ΞΑΝΘΟΥΛΗ ΓΕΩΡΓΙΟΥ ΓΙΑ ΧΕΙΡΙΣΜΟ ΤΗΣ ΥΠΟΘΕΣΗΣ ΤΩΝ ΑΝΕΜΟΓΓΕΝΗΤΡΙΩΝ ΓΙΑ ΤΟ ΕΤΟΣ 2011 ΚΑΙ 2012",
+  "protocol_number": "42/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6282",
+    "label": "ΔΗΜΟΣ ΣΚΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85753"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-15",
+  "posted": "2012-05-16",
+  "publish_timestamp_ms": 1337153328000,
+  "version_id": "c605d625-3db6-4214-9a2e-a5b524c1aaa2",
+  "in_force": "2012-05-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%98%CE%A91%CE%A3-%CE%9B%CE%9B%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%98%CE%A91%CE%A3-%CE%9B%CE%9B%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%98%CE%A91%CE%A3-%CE%9B%CE%9B%CE%94",
+  "listing_sha256": "5015c36ac06532ab745014f995f5a1c14d3cd9bf1b9d70d72d02e8b58ab3e69e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
