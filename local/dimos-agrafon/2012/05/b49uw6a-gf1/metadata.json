@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΘΩ6Α-ΓΦ1",
+  "subject": "ΔΙΑΠΙΣΤΩΤΙΚΗ ΥΠΑΛΛΗΛΩΝ ΔΗΜΟΥ ΑΓΡΑΦΩΝ",
+  "protocol_number": "1927",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6011",
+    "label": "ΔΗΜΟΣ ΑΓΡΑΦΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83964"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-16",
+  "posted": "2012-05-16",
+  "publish_timestamp_ms": 1337163909000,
+  "version_id": "1fe0669e-4279-4cd3-89c1-65aa6e534177",
+  "in_force": "2012-05-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%98%CE%A96%CE%91-%CE%93%CE%A61",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%98%CE%A96%CE%91-%CE%93%CE%A61/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%98%CE%A96%CE%91-%CE%93%CE%A61",
+  "listing_sha256": "d324aa736126729f35126cb6a512e415afe3e9459e93ca4cecb6b2508b7f1d59",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
