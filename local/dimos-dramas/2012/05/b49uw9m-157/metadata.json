@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΘΩ9Μ-157",
+  "subject": "Έγκριση πρόσληψης υδρονομέα",
+  "protocol_number": "28980",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88532"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-15",
+  "posted": "2012-05-16",
+  "publish_timestamp_ms": 1337150165000,
+  "version_id": "3b2b6962-fc48-4e49-b6b5-a09822633d75",
+  "in_force": "2012-05-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%98%CE%A99%CE%9C-157",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%98%CE%A99%CE%9C-157/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%98%CE%A99%CE%9C-157",
+  "listing_sha256": "5015c36ac06532ab745014f995f5a1c14d3cd9bf1b9d70d72d02e8b58ab3e69e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
