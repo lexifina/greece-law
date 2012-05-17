@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΥΗ-0Ξ0",
+  "subject": "Παράταση προθεσμίας υποβολής δήλωσης φορολογίας εισοδήματος οικονομικού έτους 2012 για τους υπόχρεους της παραγράφου 4 του άρθρου 2 και για τα νομικά πρόσωπα της παραγράφου 2 του άρθρου 101 του ΚΦΕ.",
+  "protocol_number": "ΠΟΛ 1107",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "1436"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-26",
+  "posted": "2012-05-17",
+  "publish_timestamp_ms": 1337246655000,
+  "version_id": "f1e60ede-c37d-401b-909f-336c0b90a6ec",
+  "in_force": "2012-05-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A5%CE%97-0%CE%9E0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A5%CE%97-0%CE%9E0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%A5%CE%97-0%CE%9E0",
+  "listing_sha256": "b76d27002af453f0fa2bf385452d6e47ef85334dab9e548d46f27870079264f7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
