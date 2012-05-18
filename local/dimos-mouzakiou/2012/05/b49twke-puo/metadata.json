@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΤΩΚΕ-ΠΘΟ",
+  "subject": "ΟΡΙΣΜΟΣ ΥΠΟΛΟΓΟΥ",
+  "protocol_number": "ΑΔ/112/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6198",
+    "label": "ΔΗΜΟΣ ΜΟΥΖΑΚΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "77916"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-04",
+  "posted": "2012-05-18",
+  "publish_timestamp_ms": 1337338895000,
+  "version_id": "8e37437c-9ba9-4324-b03b-2f0bfc34a8d1",
+  "in_force": "2012-05-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A4%CE%A9%CE%9A%CE%95-%CE%A0%CE%98%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A4%CE%A9%CE%9A%CE%95-%CE%A0%CE%98%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%A4%CE%A9%CE%9A%CE%95-%CE%A0%CE%98%CE%9F",
+  "listing_sha256": "50a30ba277395914dd055861d82f9937d5ffb467937030216926e42bf8bfe7c7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
