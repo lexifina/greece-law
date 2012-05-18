@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΤΩΡΑ-ΔΞΚ",
+  "subject": "ΑΠΟΣΤΟΛΗ ΤΗΣ ΑΡΙΘ. 104/2012 Α.Δ.Σ.: ΟΡΙΣΜΟΣ ΠΡΟΣΩΡΙΝΗΣ ΔΙΟΙΚΟΥΣΑΣ ΕΠΙΤΡΟΠΉΣ ( Π. Δ. Ε. ) ΑΡΔΕΥΤΙΚΟΥ ΕΡΓΟΥ ΤΟΠΙΚΗΣ ΚΟΙΝΟΤΗΤΑΣ ΜΥΡΤΙΑΣ.",
+  "protocol_number": "3025",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6113",
+    "label": "ΔΗΜΟΣ ΘΕΡΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81712"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-11",
+  "posted": "2012-05-18",
+  "publish_timestamp_ms": 1337336678000,
+  "version_id": "68d348e9-ee90-4f55-aec7-9e5e9b70057d",
+  "in_force": "2012-05-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A4%CE%A9%CE%A1%CE%91-%CE%94%CE%9E%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A4%CE%A9%CE%A1%CE%91-%CE%94%CE%9E%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%A4%CE%A9%CE%A1%CE%91-%CE%94%CE%9E%CE%9A",
+  "listing_sha256": "2fbf89ca0a1abbd907d123a01946d9a644ce990431958dc93309a0641132ec25",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
