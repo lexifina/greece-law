@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΤΩΡΑ-ΕΒΔ",
+  "subject": "ΑΠΟΣΤΟΛΗ ΤΗΣ ΑΡΙΘ. 96/2012 Α.Δ.Σ.:ΑΠΟΔΟΧΗ ΤΗΣ ΕΝΤΑΞΗΣ ΤΗΣ ΠΡΑΞΗΣ \"ΤΕΧΝΙΚΗ ΒΟΗΘΕΙΑ ΔΗΜΟΥ ΘΕΡΜΟΥ ΝΟΜΟΥ ΑΙΤΩΛ/ΝΙΑΣ \" ΜΕ ΚΩΔΙΚΟ MIS 374721 ΣΤΟ ΕΠΙΧΕΙΡΗΣΙΑΚΟ ΠΡΌΓΡΑΜΜΑ \"ΤΕΧΝΙΚΗ ΥΠΟΣΤΗΡΙΞΗ ΕΦΑΡΜΟΓΗΣ \" ΤΗΣ ΜΟΝΑΔΑΣ ΟΡΓΑΝΩΣΗΣ ΔΙΟΙΚΗΣΗΣ (Μ.Ο.Δ.) Α.Ε.",
+  "protocol_number": "2995",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6113",
+    "label": "ΔΗΜΟΣ ΘΕΡΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81712"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-08",
+  "posted": "2012-05-18",
+  "publish_timestamp_ms": 1337340045000,
+  "version_id": "51c49e04-96a9-4aab-ad0f-0f661e7065e7",
+  "in_force": "2012-05-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A4%CE%A9%CE%A1%CE%91-%CE%95%CE%92%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A4%CE%A9%CE%A1%CE%91-%CE%95%CE%92%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%A4%CE%A9%CE%A1%CE%91-%CE%95%CE%92%CE%94",
+  "listing_sha256": "e7eeeb58d39909fa42b7d99ae77e5a93e5b7d394ff46a6adc6aa84ee1977d01e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
