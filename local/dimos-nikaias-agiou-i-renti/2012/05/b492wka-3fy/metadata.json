@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β492ΩΚΑ-3ΦΥ",
+  "subject": "Έγκριση για άσκηση ή μη ενδίκων μέσων κατά της υπ’ αρ. Α 4160/2011 απόφασης του Διοικητικού Πρωτοδικείου Πειραιά που αφορά στην αγωγή των Κου Κολτσίδα Ανδρέα και Κας Κολτσίδα Βασιλικής για την καταβολή αποζημίωσης έπειτα από αντιδικία με την Διεύθυνση Πολεοδομίας του Δήμου Νίκαιας – Αγ. Ι. Ρέντη.",
+  "protocol_number": "184",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6215",
+    "label": "ΔΗΜΟΣ ΝΙΚΑΙΑΣ - ΑΓΙΟΥ Ι. ΡΕΝΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81950"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-17",
+  "posted": "2012-05-21",
+  "publish_timestamp_ms": 1337586955000,
+  "version_id": "a44c4683-f96f-40d5-a1c2-3eadedd066c5",
+  "in_force": "2012-05-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92492%CE%A9%CE%9A%CE%91-3%CE%A6%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92492%CE%A9%CE%9A%CE%91-3%CE%A6%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92492%CE%A9%CE%9A%CE%91-3%CE%A6%CE%A5",
+  "listing_sha256": "c394640861856fd51c76b9b7517204c0b46ac3c5305f0f67ed26d6af002a5c7f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
