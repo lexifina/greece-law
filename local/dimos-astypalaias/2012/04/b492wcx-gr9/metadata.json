@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β492ΩΨΧ-ΓΡ9",
+  "subject": "ΑΠΟΦΑΣΗ Δ.Σ. ΜΕ ΘΕΜΑ «ΨΗΦΙΣΜΑ Δ.Σ. ΓΙΑ ΤΟ ΚΛΕΙΣΙΜΟ ΤΟΥ ΦΑΡΜΑΚΕΙΟΥ»",
+  "protocol_number": "77",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6049",
+    "label": "ΔΗΜΟΣ ΑΣΤΥΠΑΛΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81543"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-23",
+  "posted": "2012-05-21",
+  "publish_timestamp_ms": 1337590276000,
+  "version_id": "cd6e8585-e601-4919-b20a-9767cbf2f22f",
+  "in_force": "2012-05-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92492%CE%A9%CE%A8%CE%A7-%CE%93%CE%A19",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92492%CE%A9%CE%A8%CE%A7-%CE%93%CE%A19/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92492%CE%A9%CE%A8%CE%A7-%CE%93%CE%A19",
+  "listing_sha256": "1a7bc4a2c4fe182d4403be9287ed75495c4c3e5c19deb80cf4a01c6fafe89351",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
