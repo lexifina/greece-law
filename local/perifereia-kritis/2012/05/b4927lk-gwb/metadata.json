@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4927ΛΚ-ΓΩΒ",
+  "subject": "Έγκριση αποτελέσματος της από 24-04-2012 δημοπρασίας για την ανάδειξη αναδόχου του έργου: «ΒΕΛΤΙΩΣΗ & ΣΥΝΤΗΡΗΣΗ ΤΟΥ Ε.Ο.Δ. ΚΡΗΤΗΣ» 3ο ΥΠΟΕΡΓΟ: «ΒΕΛΤΙΩΣΗ & ΣΥΝΤΗΡΗΣΗ ΟΡΙΖΟΝΤΙΑΣ ΚΑΙ ΚΑΤΑΚΟΡΥΦΗΣ ΣΗΜΑΝΣΗΣ ΤΟΥ Ε.Ο.Δ. ΚΡΗΤΗΣ»  προϋπολογισμού 615.000 €",
+  "protocol_number": "221/2012 απόφαση Οικονομικής Επιτροπής (πρακτικό Νο 10/14-05-2012)",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "84337"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΒΒ7ΛΚ-ΒΙΙ"
+      }
+    ]
+  },
+  "issued": "2012-05-14",
+  "posted": "2012-05-21",
+  "publish_timestamp_ms": 1337578171000,
+  "version_id": "19d6d6c5-03a8-4b47-aea0-7772d6a94bb0",
+  "in_force": "2012-05-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924927%CE%9B%CE%9A-%CE%93%CE%A9%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924927%CE%9B%CE%9A-%CE%93%CE%A9%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924927%CE%9B%CE%9A-%CE%93%CE%A9%CE%92",
+  "listing_sha256": "06be008801b117a79f3e1ae7489b8e46712686707825e2ca876e7ff452ebf783",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
