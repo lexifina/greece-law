@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΣΗ-ΧΕ5",
+  "subject": "Ρύθμιση θεμάτων Κ.Β.Σ. σε περίπτωση μη λειτουργίας των Δ.Ο.Υ. συνέπεια γεγονότων ανωτέρας βίας ή απρόβλεπτων καταστάσεων.",
+  "protocol_number": "ΠΟΛ.1122",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "1660"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-15",
+  "posted": "2012-05-22",
+  "publish_timestamp_ms": 1337686304000,
+  "version_id": "6e6d6871-6c0b-438d-83dd-0494adf38952",
+  "in_force": "2012-05-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A3%CE%97-%CE%A7%CE%955",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A3%CE%97-%CE%A7%CE%955/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%A3%CE%97-%CE%A7%CE%955",
+  "listing_sha256": "d5c6a1811ffcaf8de6c8e72178e5e232ea0fc6d250abf1d0c52e1ee5732f47a7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
