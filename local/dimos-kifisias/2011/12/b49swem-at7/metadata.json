@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΣΩΕΜ-ΑΤ7",
+  "subject": "ΔΙΑΠΙΣΤΩΣΗ ΚΕΝΩΝ ΟΡΓΑΝΙΚΩΝ ΘΕΣΕΩΝ ΤΟΥ Ν.Π.Δ.Δ. \"ΚΑΠΗ Ν. ΕΡΥΘΡΑΙΑΣ\" ΠΟΥ ΥΠΕΡΒΑΙΝΟΥΝ ΤΟΥ 60% ΤΩΝ ΠΡΟΒΛΕΠΟΜΕΝΩΝ ΣΤΟΝ ΟΙΚΕΙΟ ΟΡΓΑΝΙΣΜΟ ΟΡΓΑΝΙΚΩΝ ΘΕΣΕΩΝ, ΚΑΤ΄ ΕΦΑΡΜΟΓΗ ΤΗΣ ΠΑΡ. 1α ΤΟΥ ΑΡΘΡΟΥ 33 ΤΟΥ Ν. 4024/2011",
+  "protocol_number": "56836",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6149",
+    "label": "ΔΗΜΟΣ ΚΗΦΙΣΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83471"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "818"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-19",
+  "posted": "2012-05-22",
+  "publish_timestamp_ms": 1337671086000,
+  "version_id": "43dd357b-61e9-49e4-86db-7ea069ac9188",
+  "in_force": "2012-05-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A3%CE%A9%CE%95%CE%9C-%CE%91%CE%A47",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A3%CE%A9%CE%95%CE%9C-%CE%91%CE%A47/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%A3%CE%A9%CE%95%CE%9C-%CE%91%CE%A47",
+  "listing_sha256": "050fd9dd678f92f253a813596a87af08bc43527f6d25274332e9f73f822f57d6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
