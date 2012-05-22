@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΣΘΩΠ-Ο4Κ",
+  "subject": "Καθορισμός αρμοδιοτήτων του Υπουργού Επικρατείας  Αντωνίου Αργυρού",
+  "protocol_number": "Y 4",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "70711"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "1720"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-18",
+  "posted": "2012-05-22",
+  "publish_timestamp_ms": 1337670893000,
+  "version_id": "f22b8517-68b7-443c-9ea2-f0d7f9c59cd3",
+  "in_force": "2012-05-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A3%CE%98%CE%A9%CE%A0-%CE%9F4%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A3%CE%98%CE%A9%CE%A0-%CE%9F4%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%A3%CE%98%CE%A9%CE%A0-%CE%9F4%CE%9A",
+  "listing_sha256": "16f4d3d3aea29b5b0b4c77e9053d42fbb36662130521a1850c5731ddd03012fb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
