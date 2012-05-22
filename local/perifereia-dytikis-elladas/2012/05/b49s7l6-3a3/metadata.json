@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49Σ7Λ6-3Α3",
+  "subject": "Διαγραφή Δικαιούχου από το μέτρο της πρόωρης συνταξιοδότησης των αγροτών  χωρίς επιστροφή αχρεωστήτως καταβληθέντων",
+  "protocol_number": "113657/5927",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5004",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78067"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β49Σ7Λ6-Α39"
+      }
+    ]
+  },
+  "issued": "2012-05-15",
+  "posted": "2012-05-22",
+  "publish_timestamp_ms": 1337672045000,
+  "version_id": "5c0948bd-0d24-4ed8-b977-cbf52b0e4e6c",
+  "in_force": "2012-05-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A37%CE%9B6-3%CE%913",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%A37%CE%9B6-3%CE%913/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%A37%CE%9B6-3%CE%913",
+  "listing_sha256": "d5c6a1811ffcaf8de6c8e72178e5e232ea0fc6d250abf1d0c52e1ee5732f47a7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
