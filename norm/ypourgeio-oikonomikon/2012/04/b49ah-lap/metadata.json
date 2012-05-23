@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΑΗ-ΛΑΠ",
+  "subject": "Έγκριση σύστασης του κοινωφελούς ιδρύματος με την επωνυμία «ΙΔΡΥΜΑ ΤΕΚΝΩΝ ΕΜΜΑΝΟΥΗΛ ΚΑΛΟΓΕΡΑΚΗ» και κύρωση του οργανισμού αυτού.",
+  "protocol_number": "ΤΟ ΑΠΟ 25-4-2012 Π.Δ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "1536"
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-25",
+  "posted": "2012-05-23",
+  "publish_timestamp_ms": 1337767848000,
+  "version_id": "98df79dd-18de-469b-8aa9-e946f1574f52",
+  "in_force": "2012-05-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%91%CE%97-%CE%9B%CE%91%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%91%CE%97-%CE%9B%CE%91%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%91%CE%97-%CE%9B%CE%91%CE%A0",
+  "listing_sha256": "ab7e1053d2ccdefe161504c3696484c831ba3e6c71e83c752b549e5225fa6076",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
