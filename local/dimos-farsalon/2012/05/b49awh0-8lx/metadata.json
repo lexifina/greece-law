@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΑΩΗ0-8ΛΧ",
+  "subject": "Απόφαση Δ.Σ. υπ' αριθ. 170/2012 περί: «Εκπροσώπησης του Δήμου Φαρσάλων στην αστική μη κερδοσκοπική εταιρεία με την επωνυμία ΑΝΑΠΤΥΞΙΑΚΗ ΣΥΜΠΡΑΞΗ “ΜΠΟΥΚΙ».",
+  "protocol_number": "10231",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6306",
+    "label": "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82050"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-23",
+  "posted": "2012-05-23",
+  "publish_timestamp_ms": 1337753561000,
+  "version_id": "e0d51535-f180-4f24-9ac4-7a25149fb872",
+  "in_force": "2012-05-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%91%CE%A9%CE%970-8%CE%9B%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%91%CE%A9%CE%970-8%CE%9B%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%91%CE%A9%CE%970-8%CE%9B%CE%A7",
+  "listing_sha256": "d45d9598e92e0e5b4832bd7810ce1b1fe6d431fecf1f3e7f2876812dee827cc0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
