@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49Μ6-Δ86",
+  "subject": "Προσωπικό - Διοικητικά",
+  "protocol_number": "347131",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-24",
+  "posted": "2012-05-25",
+  "publish_timestamp_ms": 1337922858000,
+  "version_id": "5c33a9d6-5512-4b5c-bfc4-8afff6f20577",
+  "in_force": "2012-05-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%9C6-%CE%9486",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%9C6-%CE%9486/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%9C6-%CE%9486",
+  "listing_sha256": "1a8b3e7cb34ff6d370bf7f2425e7c304d4aa27287ea08233c5b788537b1d95aa",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
