@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΖΩΚΩ-1ΒΣ",
+  "subject": "ΑΑΥ 164 ΕΞΟΔΑ ΜΕΤΑΚΙΝΗΣΗΣ ΜΕΛΩΝ ΕΠΙΤΡΟΠΩΝ ΚΑΙ ΑΙΡΕΤΩΝ ΣΤΙΣ ΕΚΘΕΣΕΙΣ ΒΙΤ 2012 ΣΤΟ ΒΕΡΟΛΙΝΟ, ΜΙΤΤ 2012 ΣΤΗ ΜΟΣΧΑ, NEXUS ΣΤΗΝ ΑΘΗΝΑ",
+  "protocol_number": "164",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6193",
+    "label": "ΔΗΜΟΣ ΜΗΛΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-29",
+  "posted": "2012-05-29",
+  "publish_timestamp_ms": 1338283570000,
+  "version_id": "f1dfcbd8-c04c-4422-9916-3bfc5c2700b8",
+  "in_force": "2012-05-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%96%CE%A9%CE%9A%CE%A9-1%CE%92%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%96%CE%A9%CE%9A%CE%A9-1%CE%92%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%96%CE%A9%CE%9A%CE%A9-1%CE%92%CE%A3",
+  "listing_sha256": "24700940696f24552a9694e170b22ef6cee1bd4efd63b2d18bc2afe26db5005d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
