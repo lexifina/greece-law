@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΖΟΡ1Κ-ΚΩΕ",
+  "subject": "Λειτουργία λαϊκής αγοράς Δραπετσώνα της περιοχής Α΄ Πειραιά",
+  "protocol_number": "47966/44792/11",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50196",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΤΤΙΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76308"
+  ],
+  "thematic_category_ids": [
+    "68"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "266"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-01-19",
+  "posted": "2012-05-29",
+  "publish_timestamp_ms": 1338292843000,
+  "version_id": "2ef8c5b1-16cb-40ad-a99b-b34fb13bf968",
+  "in_force": "2012-05-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%96%CE%9F%CE%A11%CE%9A-%CE%9A%CE%A9%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%96%CE%9F%CE%A11%CE%9A-%CE%9A%CE%A9%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%96%CE%9F%CE%A11%CE%9A-%CE%9A%CE%A9%CE%95",
+  "listing_sha256": "8df0a0d6ed48b85d0d2dfe35346fb56133bac094693562c0b4df12e888ead5cc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
