@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49Ζ6-7ΞΟ",
+  "subject": "ΑΝΑΘΕΣΗ ΚΑΘΗΚΟΝΤΩΝ",
+  "protocol_number": "Φ. 471/11/12/Σ.33182//10.4.12",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-10",
+  "posted": "2012-05-29",
+  "publish_timestamp_ms": 1338276929000,
+  "version_id": "bcb33a25-84cf-42d9-8b95-b8c3274cc2dd",
+  "in_force": "2012-05-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%966-7%CE%9E%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%966-7%CE%9E%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%966-7%CE%9E%CE%9F",
+  "listing_sha256": "1c2490facd7084745261716506dac0ab0db2ecd21c4e6252bfcb56ad04fd1f6a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
