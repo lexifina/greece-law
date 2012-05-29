@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β49ΖΩΡ1-ΡΚΒ",
+  "subject": "Διάθεση πιστώσεων.",
+  "protocol_number": "168",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6100",
+    "label": "ΔΗΜΟΣ ΖΑΚΥΝΘΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79743"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-14",
+  "posted": "2012-05-29",
+  "publish_timestamp_ms": 1338275810000,
+  "version_id": "ca66c80d-5c33-4bca-af4d-44191409c86b",
+  "in_force": "2012-05-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%96%CE%A9%CE%A11-%CE%A1%CE%9A%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9249%CE%96%CE%A9%CE%A11-%CE%A1%CE%9A%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9249%CE%96%CE%A9%CE%A11-%CE%A1%CE%9A%CE%92",
+  "listing_sha256": "06be008801b117a79f3e1ae7489b8e46712686707825e2ca876e7ff452ebf783",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
