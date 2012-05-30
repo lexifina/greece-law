@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΡΠΩΛΟ-ΛΞΕ",
+  "subject": "ΠΕΡΙΛΗΨΗ ΔΙΑΚΗΡΥΞΗΣ",
+  "protocol_number": "28245/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6155",
+    "label": "ΔΗΜΟΣ ΚΟΜΟΤΗΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "89344"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_DDS",
+      "issueyear": 2012,
+      "aa": "283"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-16",
+  "posted": "2012-05-30",
+  "publish_timestamp_ms": 1338367529000,
+  "version_id": "91485ac6-394b-40ae-9b65-5144eb923b28",
+  "in_force": "2012-05-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A1%CE%A0%CE%A9%CE%9B%CE%9F-%CE%9B%CE%9E%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A1%CE%A0%CE%A9%CE%9B%CE%9F-%CE%9B%CE%9E%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A1%CE%A0%CE%A9%CE%9B%CE%9F-%CE%9B%CE%9E%CE%95",
+  "listing_sha256": "c611d45db955c00b5a4d4e91f88057db10478ee466b4e2124424177d5a67c22a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
