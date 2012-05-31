@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΡΟΩ1Π-Ρ9Ε",
+  "subject": "ΑΠΟΦΑΣΗ Δ. Σ. Εξέταση της αιτήσεως του Μηνούδη Πασχάλη του Γεωργίου, με την οποία ζητάει τη διαγραφή ποσού 95,60 €, από το βεβαιωτικό κατάλογο ύδρευσης Πύδνας 2012",
+  "protocol_number": "142",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6256",
+    "label": "ΔΗΜΟΣ ΠΥΔΝΑΣ - ΚΟΛΙΝΔΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "77979"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-25",
+  "posted": "2012-05-31",
+  "publish_timestamp_ms": 1338455927000,
+  "version_id": "31baafff-cbf5-4598-828f-37bb1b388547",
+  "in_force": "2012-05-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A1%CE%9F%CE%A91%CE%A0-%CE%A19%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A1%CE%9F%CE%A91%CE%A0-%CE%A19%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A1%CE%9F%CE%A91%CE%A0-%CE%A19%CE%95",
+  "listing_sha256": "b2e69ef4bd52639ebf60c957287458603eabc7d9db126438a2988c7368c4980a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
