@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΡΟΩΚΠ-Θ2Λ",
+  "subject": "Απόφαση 143/2012 Δημοτικού Συμβουλίου Δήμου Μεγαρέων περί:Αναμόρφωσης πρ/σμού Δήμου οικ. έτους 2012",
+  "protocol_number": "143/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6188",
+    "label": "ΔΗΜΟΣ ΜΕΓΑΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80561"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-22",
+  "posted": "2012-05-31",
+  "publish_timestamp_ms": 1338449508000,
+  "version_id": "bf833fbf-6ca4-4638-8909-8fdb931cd2b1",
+  "in_force": "2012-05-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A1%CE%9F%CE%A9%CE%9A%CE%A0-%CE%982%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A1%CE%9F%CE%A9%CE%9A%CE%A0-%CE%982%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A1%CE%9F%CE%A9%CE%9A%CE%A0-%CE%982%CE%9B",
+  "listing_sha256": "a3bb1ae723b800f66320bd8a1efab2ceb2fdaf3a3e9c1540b4de7f9d858fbbdf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
