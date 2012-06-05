@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΛΨΩΕΘ-ΛΡΣ",
+  "subject": "Λήψη απόφασης για την ψήφιση Οργανισμού Εσωτερικών Υπηρεσιών Δήμου Κασσάνδρας. (Ο.Ε.Υ. )  (215/2011)",
+  "protocol_number": "215/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6140",
+    "label": "ΔΗΜΟΣ ΚΑΣΣΑΝΔΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81286"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2011,
+      "aa": "2160"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-06-10",
+  "posted": "2012-06-05",
+  "publish_timestamp_ms": 1338886015000,
+  "version_id": "c3b73056-4cca-4fd2-b8a5-f0c35c28acef",
+  "in_force": "2012-06-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%A8%CE%A9%CE%95%CE%98-%CE%9B%CE%A1%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%A8%CE%A9%CE%95%CE%98-%CE%9B%CE%A1%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9B%CE%A8%CE%A9%CE%95%CE%98-%CE%9B%CE%A1%CE%A3",
+  "listing_sha256": "cd1967102df41edf28485fa7da913cf23f386c4e0237e6090c9a463c9771aaf4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
