@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΛΡΩ90-ΖΒΖ",
+  "subject": "123 ΑΟΕ Ψήφιση πίστωσης 6.000,00€ «Καθαρισμός και Μέτρα Προστασίας ΧΑΔΑ Δ.Ε. Τροπαίων Δήμου Γορτυνίας».",
+  "protocol_number": "123/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6068",
+    "label": "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82015"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-16",
+  "posted": "2012-06-07",
+  "publish_timestamp_ms": 1339062889000,
+  "version_id": "bef3ce65-6ddb-46eb-9537-a9904af324bb",
+  "in_force": "2012-06-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%A1%CE%A990-%CE%96%CE%92%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%A1%CE%A990-%CE%96%CE%92%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9B%CE%A1%CE%A990-%CE%96%CE%92%CE%96",
+  "listing_sha256": "c611d45db955c00b5a4d4e91f88057db10478ee466b4e2124424177d5a67c22a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
