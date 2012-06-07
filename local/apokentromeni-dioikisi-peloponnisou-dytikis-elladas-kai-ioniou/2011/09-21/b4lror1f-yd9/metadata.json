@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΛΡΟΡ1Φ-ΥΔ9",
+  "subject": "Ακύρωση της υπ΄ αριθμ. 96/11 Απόφασης της Λιμενικής Επιτροπής του Λιμενικού Ταμείου Νομού Κεφαλληνίας.",
+  "protocol_number": "9931",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76450"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-21",
+  "posted": "2012-06-07",
+  "publish_timestamp_ms": 1339059555000,
+  "version_id": "f2c33098-3779-4fc2-ac3d-5fee71afe704",
+  "in_force": "2012-06-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%A1%CE%9F%CE%A11%CE%A6-%CE%A5%CE%949",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%A1%CE%9F%CE%A11%CE%A6-%CE%A5%CE%949/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9B%CE%A1%CE%9F%CE%A11%CE%A6-%CE%A5%CE%949",
+  "listing_sha256": "2758157ba3d5a421ec35b13ec94858169acb41d831857c2d1d75a30e1da2390d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
