@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΛΕΩ9Π-3ΗΛ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ 229/2012 ΑΝΑΘΕΣΗ ΠΡΟΜΗΘΕΙΑΣ",
+  "protocol_number": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ 229/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6052",
+    "label": "ΔΗΜΟΣ ΒΕΛΟΥ - ΒΟΧΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80846"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-06-08",
+  "posted": "2012-06-08",
+  "publish_timestamp_ms": 1339141949000,
+  "version_id": "56e8ec42-d03d-4135-b635-61599863cd50",
+  "in_force": "2012-06-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%95%CE%A99%CE%A0-3%CE%97%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%95%CE%A99%CE%A0-3%CE%97%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9B%CE%95%CE%A99%CE%A0-3%CE%97%CE%9B",
+  "listing_sha256": "f83cff49199076d804b6ebd573f091da4b400f3d1a46d644304c2779c582373c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
