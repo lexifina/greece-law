@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Λ1Ω6Ι-ΖΟΚ",
+  "subject": "Τροποποίηση της υπ’αριθμ.86/2012 απόφασης του Δημοτικού Συμβουλίου και συμπλήρωση (2η) της υπ’ αριθμ.64/2012 απόφασης του Δημοτικού Συμβουλίου με τίτλο: «Καθορισμός τρόπου χρήσης δημοτικών βοσκοτόπων και επιβολή δικαιώματος βοσκής για το έτος 2012».",
+  "protocol_number": "124/2012 ΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6003",
+    "label": "ΔΗΜΟΣ ΑΓΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80383"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΩΦΩ6Ι-Ζ5Γ"
+      },
+      {
+        "relatedDecisionsADA": "Β49ΛΩ6Ι-ΩΜ9"
+      }
+    ]
+  },
+  "issued": "2012-05-29",
+  "posted": "2012-06-12",
+  "publish_timestamp_ms": 1339524637000,
+  "version_id": "20ad1586-399c-43d8-9cb3-fb63594f70ba",
+  "in_force": "2012-06-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B1%CE%A96%CE%99-%CE%96%CE%9F%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B1%CE%A96%CE%99-%CE%96%CE%9F%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9B1%CE%A96%CE%99-%CE%96%CE%9F%CE%9A",
+  "listing_sha256": "0640548501202ec64b95792f8aaf6ca5d8f326c23d515fa9dce185d9363a6d0b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
