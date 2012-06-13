@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΛΗΗ-8ΔΗ",
+  "subject": "Απόφαση του Υπουργού Οικονομικών επί του αιτήματος της επιχείρησης ΑΣΚΟ ΒΙΟΜΗΧΑΝΙΚΗ, ΒΙΟΤΕΧΝΙΚΗ, ΤΕΧΝΙΚΗ, ΕΜΠΟΡΙΚΗ ΕΤΑΙΡΕΙΑ ΜΕΤΑΛΛΙΚΩΝ ΣΧΑΡΩΝ ΚΑΙ ΛΟΙΠΩΝ ΜΕΤΑΛΛΙΚΩΝ ΠΡΟΙΟΝΤΩΝ, δ.τ. ΑΣΚΟ ΑΕ για αποδοχή εκ μέρους του Ελληνικού Δημοσίου πρότασης της για την κατάρτιση συμφωνίας πιστωτών σύμφωνα με τις διατάξεις των άρθρων 99 επόμενα του Ν. 3588/2007",
+  "protocol_number": "2/36932/0025",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "1476"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-03",
+  "posted": "2012-06-13",
+  "publish_timestamp_ms": 1339571143000,
+  "version_id": "2cd6ad5c-7726-4080-8f08-1211853c6398",
+  "in_force": "2012-06-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%97%CE%97-8%CE%94%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%97%CE%97-8%CE%94%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9B%CE%97%CE%97-8%CE%94%CE%97",
+  "listing_sha256": "284b00ca683715cf029e298646f408fb39da2aa4c529cc8332c608e2e5e25187",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
