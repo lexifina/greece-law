@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΛΓΩΞ0-0ΒΓ",
+  "subject": "Συγκρότηση Εθνικών Εκλογικών Συνεργείων",
+  "protocol_number": "80",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6238",
+    "label": "ΔΗΜΟΣ ΠΑΡΓΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81773"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-30",
+  "posted": "2012-06-15",
+  "publish_timestamp_ms": 1339749520000,
+  "version_id": "6366d558-8816-4389-8efe-3ba93f6ba14d",
+  "in_force": "2012-06-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%93%CE%A9%CE%9E0-0%CE%92%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%93%CE%A9%CE%9E0-0%CE%92%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9B%CE%93%CE%A9%CE%9E0-0%CE%92%CE%93",
+  "listing_sha256": "ef989f5a51f0bda2074974596be4bd9f69529af2c4e365fe396f5f3792801641",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
