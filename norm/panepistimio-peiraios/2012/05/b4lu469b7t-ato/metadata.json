@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΛΘ469Β7Τ-ΑΤΟ",
+  "subject": "Κανονιστική απόφαση της Συγκλήτου του Πανεπιστημίου Πειραιώς, κατά τις διατάξεις του Ν. 4009/2011",
+  "protocol_number": "20123299",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206922",
+    "label": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "73053"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "1818"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-29",
+  "posted": "2012-06-18",
+  "publish_timestamp_ms": 1340007616000,
+  "version_id": "6e642a12-2c1c-41ff-a1b6-a11e660b3e35",
+  "in_force": "2012-06-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%98469%CE%927%CE%A4-%CE%91%CE%A4%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%98469%CE%927%CE%A4-%CE%91%CE%A4%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9B%CE%98469%CE%927%CE%A4-%CE%91%CE%A4%CE%9F",
+  "listing_sha256": "6cfac75ae3a02311a2c04f55acf70feaaeb6f73bbfedfd61cb4cd64e2657240b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
