@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΛΘ7Λ6-80Λ",
+  "subject": "ΒΕΒΑΙΩΣΗ ΤΗΡΗΣΗΣ ΥΠΟΧΡΕΩΣΕΩΝ ΤΕΛΙΚΟΥ ΔΙΚΑΙΟΥΧΟΥ",
+  "protocol_number": "2555",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5004",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "87026"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-06-15",
+  "posted": "2012-06-18",
+  "publish_timestamp_ms": 1340019057000,
+  "version_id": "fd2722f7-41d2-4ca6-ab54-51e84ff83e55",
+  "in_force": "2012-06-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%987%CE%9B6-80%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%987%CE%9B6-80%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9B%CE%987%CE%9B6-80%CE%9B",
+  "listing_sha256": "c388a16ff76958212f075fedd36c65c153e04c577dea598eb53009db25fd1c01",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
