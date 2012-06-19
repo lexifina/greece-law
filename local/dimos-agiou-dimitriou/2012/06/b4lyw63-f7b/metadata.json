@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΛΥΩ63-Φ7Β",
+  "subject": "Λήψη απόφασης για έκτακτη οικονομική ενίσχυση ποσού 500,00€ στα Δημοτικά 9ο , 3ο και 2ο στο καθένα .",
+  "protocol_number": "120/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6007",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86785"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-06-18",
+  "posted": "2012-06-19",
+  "publish_timestamp_ms": 1340093865000,
+  "version_id": "8d62d3c2-8b18-4199-8e53-7dd9d060fa0c",
+  "in_force": "2012-06-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%A5%CE%A963-%CE%A67%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%A5%CE%A963-%CE%A67%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9B%CE%A5%CE%A963-%CE%A67%CE%92",
+  "listing_sha256": "2663e4bb3182d20ce5e2368de205a317a8045e209a0ef842803a9eae05a217df",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
