@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΛΥΩΡ5-3Ρ0",
+  "subject": "Έλεγχος ετησίων δηλώσεων περιουσιακής κατάστασης 2012",
+  "protocol_number": "53739",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80344"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-06-14",
+  "posted": "2012-06-19",
+  "publish_timestamp_ms": 1340085809000,
+  "version_id": "bb592f6b-fa0d-4998-9c34-57b8333a607f",
+  "in_force": "2012-06-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%A5%CE%A9%CE%A15-3%CE%A10",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%A5%CE%A9%CE%A15-3%CE%A10/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9B%CE%A5%CE%A9%CE%A15-3%CE%A10",
+  "listing_sha256": "664588f7675d5c29b6a2994e624df460fcf40179e9fa0334e12cda20492b6a31",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
