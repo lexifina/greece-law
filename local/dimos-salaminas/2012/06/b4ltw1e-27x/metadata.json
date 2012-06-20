@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΛΤΩ1Ε-27Χ",
+  "subject": "ΠΕΡΙΛΗΨΗ ΔΙΑΚΥΡΗΞΗΣ  ΓΙΑ ΑΝΤΙΠΥΡΙΚΗ ΠΡΟΣΤΑΣΙΑ",
+  "protocol_number": "18528",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6266",
+    "label": "ΔΗΜΟΣ ΣΑΛΑΜΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82820"
+  ],
+  "thematic_category_ids": [
+    "66",
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-06-20",
+  "posted": "2012-06-20",
+  "publish_timestamp_ms": 1340189547000,
+  "version_id": "63aa6217-677c-4860-9b70-c3dfa24f0c14",
+  "in_force": "2012-06-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%A4%CE%A91%CE%95-27%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%A4%CE%A91%CE%95-27%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9B%CE%A4%CE%A91%CE%95-27%CE%A7",
+  "listing_sha256": "166e6010fa136eb5b5399b483eea6e109ef021b6dcd059c5ac6ac3b21db6d752",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
