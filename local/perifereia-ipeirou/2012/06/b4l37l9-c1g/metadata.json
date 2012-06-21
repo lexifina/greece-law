@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Λ37Λ9-Ψ1Γ",
+  "subject": "ΣΥΓΚΡΟΤΗΣΗ ΚΛΙΜΑΚΙΩΝ ΕΛΕΓΧΟΥ",
+  "protocol_number": "2432",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5006",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81251"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-06-21",
+  "posted": "2012-06-21",
+  "publish_timestamp_ms": 1340256223000,
+  "version_id": "bc05131f-0475-4d66-b40b-6b182210cbaa",
+  "in_force": "2012-06-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B37%CE%9B9-%CE%A81%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B37%CE%9B9-%CE%A81%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9B37%CE%9B9-%CE%A81%CE%93",
+  "listing_sha256": "3dad1ddd2895e6054c3aff478ddb400beea37cfe3bba0e0197da7a316cc50c97",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
