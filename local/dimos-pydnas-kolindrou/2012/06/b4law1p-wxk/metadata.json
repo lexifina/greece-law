@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΛΑΩ1Π-ΩΧΚ",
+  "subject": "Αποδοχή ποσού 608,10 € ως επιστροφή χρημάτων από το Ι.Κ.Α  και αναμόρφωση προϋπολογισμού σύμφωνα με την αριθ. 63/2012 απόφαση Δ.Σ του ΔΗ,ΦΟ,Π,Α,Π,Ο,Υ.",
+  "protocol_number": "379/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6256",
+    "label": "ΔΗΜΟΣ ΠΥΔΝΑΣ - ΚΟΛΙΝΔΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85718"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-06-18",
+  "posted": "2012-06-25",
+  "publish_timestamp_ms": 1340641840000,
+  "version_id": "b6da465d-8c07-45f3-a43d-08fbd4e07064",
+  "in_force": "2012-06-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%91%CE%A91%CE%A0-%CE%A9%CE%A7%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%91%CE%A91%CE%A0-%CE%A9%CE%A7%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9B%CE%91%CE%A91%CE%A0-%CE%A9%CE%A7%CE%9A",
+  "listing_sha256": "2663e4bb3182d20ce5e2368de205a317a8045e209a0ef842803a9eae05a217df",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
