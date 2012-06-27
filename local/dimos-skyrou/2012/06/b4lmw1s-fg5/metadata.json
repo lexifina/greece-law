@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΛΜΩ1Σ-ΦΓ5",
+  "subject": "ΨΗΦΙΣΗ ΠΙΣΤΩΣΕΩΝ - ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ",
+  "protocol_number": "8/2011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6282",
+    "label": "ΔΗΜΟΣ ΣΚΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88658"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΟΝ3Ω1Σ-4Ι1"
+      }
+    ]
+  },
+  "issued": "2012-06-27",
+  "posted": "2012-06-27",
+  "publish_timestamp_ms": 1340774012000,
+  "version_id": "fb84ed89-e83e-45d9-80e4-8711d7cd2818",
+  "in_force": "2012-06-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%9C%CE%A91%CE%A3-%CE%A6%CE%935",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B%CE%9C%CE%A91%CE%A3-%CE%A6%CE%935/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9B%CE%9C%CE%A91%CE%A3-%CE%A6%CE%935",
+  "listing_sha256": "77ed353400fcaf2916441a71588a00cc588757d8312dfcdd4f65b6c9156b2e43",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
