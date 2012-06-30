@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Λ8Ω1Ρ-ΛΞ4",
+  "subject": "Λήψη απόφασης περί της παράτασης συμβάσεως μίσθωσης Δημοτικού Ακινήτου στο χώρο Αγίου Σουλά της Δ.Κ. Σορωνής. \r\nΑπόσπασμα πρακτικού αριθ. 215/2012",
+  "protocol_number": "215/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6265",
+    "label": "ΔΗΜΟΣ ΡΟΔΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83009"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-06-25",
+  "posted": "2012-06-30",
+  "publish_timestamp_ms": 1341060740000,
+  "version_id": "b70806d0-926d-4d0c-92c6-ad54e88767f0",
+  "in_force": "2012-06-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B8%CE%A91%CE%A1-%CE%9B%CE%9E4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9B8%CE%A91%CE%A1-%CE%9B%CE%9E4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9B8%CE%A91%CE%A1-%CE%9B%CE%9E4",
+  "listing_sha256": "67ad071dcff337ab7bcd3fa8c5ef52b10fb92b155ef19c976326e99d3a1e2eb7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
