@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β414ΩΞ2-ΙΑ6",
+  "subject": "ΕΚΘΕΣΗ ΕΠΙΚΙΝΔΥΝΟΥ Ε1/12 (ΟΔΟΣ ΧΙΟΥ 10)",
+  "protocol_number": "1465",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78051"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-06-29",
+  "posted": "2012-07-02",
+  "publish_timestamp_ms": 1341214950000,
+  "version_id": "81e47b1e-aba3-415e-b4a2-054ae2f08e46",
+  "in_force": "2012-07-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92414%CE%A9%CE%9E2-%CE%99%CE%916",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92414%CE%A9%CE%9E2-%CE%99%CE%916/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92414%CE%A9%CE%9E2-%CE%99%CE%916",
+  "listing_sha256": "7c1f63b9435772d8fc84940a9b764917424461cab774e9f57fee470720e6eeef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
