@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΒΩ1Ε-ΠΗΩ",
+  "subject": "ΑΠΟΔΟΣΗ ΛΟΓΑΡΙΑΣΜΟΥ ΤΟΥ ΥΠ' ΑΡΙΘΜΟ 44/2012 ΧΡΗΜΑΤΙΚΟΥ ΕΝΤΑΛΜΑΤΟΣ ΠΡΟΠΛΗΡΩΜΗΣ ΠΟΣΟΥ 6.000,00€ ΠΟΥ ΑΦΟΡΑ ΕΚΔΟΣΗ ΚΑΡΤΑΣ ΚΤΕΟ ΟΧΗΜΑΤΩΝ ΤΟΥ ΔΗΜΟΥ ΣΑΛΑΜΙΝΑΣ 2012",
+  "protocol_number": "317/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6266",
+    "label": "ΔΗΜΟΣ ΣΑΛΑΜΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82820"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-02",
+  "posted": "2012-07-03",
+  "publish_timestamp_ms": 1341306105000,
+  "version_id": "6e0f5d8b-0e19-4787-a08f-492c749ba15d",
+  "in_force": "2012-07-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%92%CE%A91%CE%95-%CE%A0%CE%97%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%92%CE%A91%CE%95-%CE%A0%CE%97%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%92%CE%A91%CE%95-%CE%A0%CE%97%CE%A9",
+  "listing_sha256": "9a3ca6995ef99970129bb5b3ce8cadd735636781d4bec3af5acaebb2fe8ac1b3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
