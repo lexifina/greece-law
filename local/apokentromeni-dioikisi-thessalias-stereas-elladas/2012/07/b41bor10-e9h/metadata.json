@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΒΟΡ10-Ε9Η",
+  "subject": "Έγκριση της με αριθμό 456/2012 απόφασης της Οικονομικής Επιτροπής της Περιφέρειας Θεσσαλίας \"Έγκριση για την περιοδεία στην Δ.& Κ. Μακεδονία της Περιφέρειας Θεσσαλίας με λεωφορείο\"",
+  "protocol_number": "10515/114269",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76991"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-03",
+  "posted": "2012-07-03",
+  "publish_timestamp_ms": 1341297010000,
+  "version_id": "12ed6812-f86c-4584-9ff7-ccd32153be34",
+  "in_force": "2012-07-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%92%CE%9F%CE%A110-%CE%959%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%92%CE%9F%CE%A110-%CE%959%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%92%CE%9F%CE%A110-%CE%959%CE%97",
+  "listing_sha256": "1775f272cad1d1083db2ec02cd0d99b4b5d4770fc823b94bf3c21ba9a0ac46d3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
