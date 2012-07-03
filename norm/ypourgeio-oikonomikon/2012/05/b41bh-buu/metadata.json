@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΒΗ-ΒΘΘ",
+  "subject": "ΑΠΟΦΑΣΗ ΑΝΑΛΗΨΗ ΥΠΟΧΡΕΩΣΗΣ",
+  "protocol_number": "2335",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "83452"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-21",
+  "posted": "2012-07-03",
+  "publish_timestamp_ms": 1341308118000,
+  "version_id": "50330417-2c51-46c3-ae92-1da38cf6dc2e",
+  "in_force": "2012-07-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%92%CE%97-%CE%92%CE%98%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%92%CE%97-%CE%92%CE%98%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%92%CE%97-%CE%92%CE%98%CE%98",
+  "listing_sha256": "4895561866f0468df9aec686e2f702c5137223833f902000256311cb3b9b3353",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
