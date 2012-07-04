@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β417ΩΡΔ-9Χ6",
+  "subject": "Περί συγκρότησης επιτροπής παραλαβής χημικών τουαλετών.",
+  "protocol_number": "11976",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6110",
+    "label": "ΔΗΜΟΣ ΘΑΣΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81526"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-03",
+  "posted": "2012-07-04",
+  "publish_timestamp_ms": 1341378257000,
+  "version_id": "9f65166b-99b4-4331-9ab1-71d8d80db665",
+  "in_force": "2012-07-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92417%CE%A9%CE%A1%CE%94-9%CE%A76",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92417%CE%A9%CE%A1%CE%94-9%CE%A76/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92417%CE%A9%CE%A1%CE%94-9%CE%A76",
+  "listing_sha256": "9e05969a2e500d14097d915b169e4e4545c12ac2b83754a24ccd950204671f62",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
