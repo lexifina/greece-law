@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΩΩ9Γ-Η5Ζ",
+  "subject": "Έγκριση δαπάνης και διάθεση πίστωσης ποσού 26.000,00€ για μερική εξόφληση της 1ης Πιστοποίησης Πληρωμής της μελέτης : “ Σχέδιο χωρικής και οικιστικής οργάνωσης ανοικτής πόλης (ΣΧΟΟΑΠ) Κοινότητας Σμίξης”.",
+  "protocol_number": "28.432",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6069",
+    "label": "ΔΗΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81761"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-05",
+  "posted": "2012-07-05",
+  "publish_timestamp_ms": 1341471755000,
+  "version_id": "ac6160b4-5625-4015-9633-adb3f0ce657a",
+  "in_force": "2012-07-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A9%CE%A99%CE%93-%CE%975%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A9%CE%A99%CE%93-%CE%975%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%A9%CE%A99%CE%93-%CE%975%CE%96",
+  "listing_sha256": "e13a2515584dab134e69fa887891a6c9b5d9066fb36c02440bfe3fdfab677ffd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
