@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΡΩΞΔ-ΠΔΟ",
+  "subject": "ΠΕΡΙΛΗΨΗ ΔΙΑΚΗΡΥΞΗΣ",
+  "protocol_number": "8250/6582",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6246",
+    "label": "ΔΗΜΟΣ ΠΕΡΑΜΑΤΟΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81283"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-06",
+  "posted": "2012-07-09",
+  "publish_timestamp_ms": 1341829203000,
+  "version_id": "860792ad-54a9-48fc-9907-6b172ed25508",
+  "in_force": "2012-07-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A1%CE%A9%CE%9E%CE%94-%CE%A0%CE%94%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A1%CE%A9%CE%9E%CE%94-%CE%A0%CE%94%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%A1%CE%A9%CE%9E%CE%94-%CE%A0%CE%94%CE%9F",
+  "listing_sha256": "0666669034c1f114595ea6c36f0f4041061835593f7d7452c1c02eb14d03f8b6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
