@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΕΩΡ4-Θ5Μ",
+  "subject": "ΑΔΣ 46/2012 ΠΡΟΣΛΗΨΗ ΕΚΤΑΚΤΟΥ ΠΡΟΣΩΠΙΚΟΥ ΚΑΘΑΡΙΟΤΗΤΑΣ",
+  "protocol_number": "ΑΔΣ 46]2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6088",
+    "label": "ΔΗΜΟΣ ΕΛΑΦΟΝΗΣΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81992"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-06",
+  "posted": "2012-07-10",
+  "publish_timestamp_ms": 1341915811000,
+  "version_id": "e3b2d968-00de-4238-8113-de6c38f738f9",
+  "in_force": "2012-07-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%95%CE%A9%CE%A14-%CE%985%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%95%CE%A9%CE%A14-%CE%985%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%95%CE%A9%CE%A14-%CE%985%CE%9C",
+  "listing_sha256": "8bdfd18c08e7d4fc5650ab20b0dfd495b2d13a18e3e31448666c7037f012fe0f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
