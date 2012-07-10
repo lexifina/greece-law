@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41Ε7ΛΚ-Κ1Ξ",
+  "subject": "Έγκριση δαπάνης 7.000,00 € για τη δημιουργία ντοκιμαντέρ αφιερωμένου στη Κρήτη, από το γνωστό Ιταλικό κανάλι “MARCOPOLO TV” με τίτλο “Diario di Viaggio”",
+  "protocol_number": "Απόφ. 289/2012 Οικονομικής Επιτροπής (Πρακτ. Νο 13/13-6-2012)",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "84337"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-06-13",
+  "posted": "2012-07-10",
+  "publish_timestamp_ms": 1341904426000,
+  "version_id": "b5d9d161-e67b-4cc9-ba7c-9d76b3a547e7",
+  "in_force": "2012-07-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%957%CE%9B%CE%9A-%CE%9A1%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%957%CE%9B%CE%9A-%CE%9A1%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%957%CE%9B%CE%9A-%CE%9A1%CE%9E",
+  "listing_sha256": "c01e7c0db23ef0736eaff0ba4c8097766f92b11b94c8d9fa0f73849ab5048788",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
