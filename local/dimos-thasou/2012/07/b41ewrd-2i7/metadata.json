@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΕΩΡΔ-2Ι7",
+  "subject": "Περί συγκρότησης επιτροπής παραλαβής γεφυροπλάστιγγας οχημάτων",
+  "protocol_number": "12.249",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6110",
+    "label": "ΔΗΜΟΣ ΘΑΣΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81526"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-05",
+  "posted": "2012-07-10",
+  "publish_timestamp_ms": 1341904366000,
+  "version_id": "579e6444-8b7b-4db4-9c0b-67c15df938e2",
+  "in_force": "2012-07-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%95%CE%A9%CE%A1%CE%94-2%CE%997",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%95%CE%A9%CE%A1%CE%94-2%CE%997/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%95%CE%A9%CE%A1%CE%94-2%CE%997",
+  "listing_sha256": "097a85caec18b40325b43d347c6347eba1a81ae6946950210c421e4f73684e20",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
