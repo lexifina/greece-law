@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΕΩΕΔ-Δ5Π",
+  "subject": "Εξέταση – απόφαση επί ενστάσεων πολιτών για υπερβολική κατανάλωση χρεώσεων υδρομετρητών",
+  "protocol_number": "112",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6144",
+    "label": "ΔΗΜΟΣ ΚΕΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83519"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-09",
+  "posted": "2012-07-10",
+  "publish_timestamp_ms": 1341912504000,
+  "version_id": "18b309a7-62c5-4f90-a8f6-48e134a2f0fd",
+  "in_force": "2012-07-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%95%CE%A9%CE%95%CE%94-%CE%945%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%95%CE%A9%CE%95%CE%94-%CE%945%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%95%CE%A9%CE%95%CE%94-%CE%945%CE%A0",
+  "listing_sha256": "d4716764a8f526559521aaf4577e04288c2fbc53ab7daf9ae51395aa2a785f55",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
