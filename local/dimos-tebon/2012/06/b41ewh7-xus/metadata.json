@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΕΩΗ7-ΧΘΣ",
+  "subject": "ΕΠΙ ΑΠΟΦΑΣΕΩΣ ΔΟΠΑΠΕΠΤ ΠΕΡΙ ΚΑΘΟΡΙΣΜΟΥ ΔΙΔΑΚΤΡΩΝ ΜΟΥΣΙΚΗΣ ΣΧΟΛΗΣ  ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ",
+  "protocol_number": "12761",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6294",
+    "label": "ΔΗΜΟΣ ΤΕΜΠΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81319"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β42ΡΩΗ7-67Λ"
+      }
+    ]
+  },
+  "issued": "2012-06-29",
+  "posted": "2012-07-10",
+  "publish_timestamp_ms": 1341901865000,
+  "version_id": "a6a0bce0-86e6-4f7a-8a9c-868eaa76b011",
+  "in_force": "2012-07-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%95%CE%A9%CE%977-%CE%A7%CE%98%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%95%CE%A9%CE%977-%CE%A7%CE%98%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%95%CE%A9%CE%977-%CE%A7%CE%98%CE%A3",
+  "listing_sha256": "2e1c5925e70bede1ac7d7f0a36471de247549f26fe77fa1d4da4c8e04bc18044",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
