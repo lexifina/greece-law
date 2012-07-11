@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΛΩΨΠ-Ε33",
+  "subject": "Λήψη απόφασης περί της αυξανόμενης παραβατικότητας στο Δήμο Αλεξάνδρειας",
+  "protocol_number": "6018_4",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6018",
+    "label": "ΔΗΜΟΣ ΑΛΕΞΑΝΔΡΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79585"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-06-26",
+  "posted": "2012-07-11",
+  "publish_timestamp_ms": 1341986618000,
+  "version_id": "ef6d1079-04e2-4851-beaa-c8a922087087",
+  "in_force": "2012-07-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%9B%CE%A9%CE%A8%CE%A0-%CE%9533",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%9B%CE%A9%CE%A8%CE%A0-%CE%9533/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%9B%CE%A9%CE%A8%CE%A0-%CE%9533",
+  "listing_sha256": "7f3b93f3dfa9133cac76f3d3675a924234bfc50e1ab8f54195903c43f2bbe235",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
