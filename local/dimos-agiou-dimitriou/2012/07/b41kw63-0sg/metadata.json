@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΚΩ63-0ΣΓ",
+  "subject": "Λήψη απόφασης για έγκριση και διάθεση πίστωσης ποσού 20.000,00€ σε βάρος του ΚΑ 00.6492 με τίτλο “Δικαστικά έξοδα και έξοδα εκτέλεσης δικαστικών αποφάσεων ή συμβιβαστικών πράξεων” προϋπολογισμού οικονομικού έτους 2012.",
+  "protocol_number": "329",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6007",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81194"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-10",
+  "posted": "2012-07-12",
+  "publish_timestamp_ms": 1342091779000,
+  "version_id": "e590f3b7-1162-4620-853c-0e761da876ec",
+  "in_force": "2012-07-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%9A%CE%A963-0%CE%A3%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%9A%CE%A963-0%CE%A3%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%9A%CE%A963-0%CE%A3%CE%93",
+  "listing_sha256": "51b76fe821bfb078cff09048e833b08af15f0993d9cc4d918add85ac624c038a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
