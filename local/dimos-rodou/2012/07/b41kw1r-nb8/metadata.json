@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΚΩ1Ρ-ΝΒ8",
+  "subject": "Έγκριση της αρ.74/2012 Απόφασης\r\nΕπιτροπής Ποιότητας Ζωής που αφορά «έγκριση της\r\nαρ.122/2012 απόφασης του Συμβουλίου της Δημοτικής\r\nΚοινότητας Ρόδου που αφορά σε αιτήματα κατάληψης\r\nκοινόχρηστου χώρου (πολεοδομικού σχεδισμού) στις\r\nοδούς Ακτή Κανάρη, Μανδηλαρά, Σοφ.Βενιζέλου,\r\nΚ.Παλαμά και Αυστραλίας.",
+  "protocol_number": "390",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6265",
+    "label": "ΔΗΜΟΣ ΡΟΔΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83734"
+  ],
+  "thematic_category_ids": [
+    "68"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-06",
+  "posted": "2012-07-12",
+  "publish_timestamp_ms": 1342082739000,
+  "version_id": "b3624b74-359f-4396-8bc1-0fb9ab1508dc",
+  "in_force": "2012-07-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%9A%CE%A91%CE%A1-%CE%9D%CE%928",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%9A%CE%A91%CE%A1-%CE%9D%CE%928/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%9A%CE%A91%CE%A1-%CE%9D%CE%928",
+  "listing_sha256": "8bdfd18c08e7d4fc5650ab20b0dfd495b2d13a18e3e31448666c7037f012fe0f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
