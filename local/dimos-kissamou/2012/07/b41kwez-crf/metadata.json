@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΚΩΕΖ-ΨΡΦ",
+  "subject": "ΧΟΡΗΓΗΣΗ ΑΔΕΙΑΣ ΠΑΡΑΓΩΓΟΥ ΠΩΛΗΤΗ",
+  "protocol_number": "10109",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6153",
+    "label": "ΔΗΜΟΣ ΚΙΣΣΑΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86026"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-12",
+  "posted": "2012-07-12",
+  "publish_timestamp_ms": 1342069623000,
+  "version_id": "a842420d-a03b-4260-a9f8-727e889b7857",
+  "in_force": "2012-07-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%9A%CE%A9%CE%95%CE%96-%CE%A8%CE%A1%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%9A%CE%A9%CE%95%CE%96-%CE%A8%CE%A1%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%9A%CE%A9%CE%95%CE%96-%CE%A8%CE%A1%CE%A6",
+  "listing_sha256": "aa7f40655e564c0aa60afdf1fad8bd26279761867eb607d408ec6441b08d3697",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
