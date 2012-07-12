@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΚΩ1Ε-8ΒΝ",
+  "subject": "ΑΠΟΦΑΣΗ 325/2012  ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ ΔΗΜΟΥ ΣΑΛΑΜΙΝΑΣ ΠΟΥ ΑΦΟΡΑ  «Έγκριση πρακτικού Δημοπρασίας που αφορά ¨Ασφάλιστρα αυτοκινήτων Δήμου Σαλαμίνος¨».",
+  "protocol_number": "325/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6266",
+    "label": "ΔΗΜΟΣ ΣΑΛΑΜΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82820"
+  ],
+  "thematic_category_ids": [
+    "08"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-12",
+  "posted": "2012-07-12",
+  "publish_timestamp_ms": 1342082113000,
+  "version_id": "2553afe4-c548-4988-87df-9d56d9220a9b",
+  "in_force": "2012-07-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%9A%CE%A91%CE%95-8%CE%92%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%9A%CE%A91%CE%95-8%CE%92%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%9A%CE%A91%CE%95-8%CE%92%CE%9D",
+  "listing_sha256": "aa7f40655e564c0aa60afdf1fad8bd26279761867eb607d408ec6441b08d3697",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
