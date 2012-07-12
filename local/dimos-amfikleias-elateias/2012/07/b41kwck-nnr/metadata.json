@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΚΩΨΚ-ΝΝΡ",
+  "subject": "Περί έγκρισης δαπανών μεταβίβασης αυτοκινήτου δωρεάς Κοντρώση.",
+  "protocol_number": "157",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6030",
+    "label": "ΔΗΜΟΣ ΑΜΦΙΚΛΕΙΑΣ - ΕΛΑΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83202"
+  ],
+  "thematic_category_ids": [
+    "24",
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-04",
+  "posted": "2012-07-12",
+  "publish_timestamp_ms": 1342085587000,
+  "version_id": "2dcd73fd-82d0-4ff4-9eed-2c3d7fa75167",
+  "in_force": "2012-07-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%9A%CE%A9%CE%A8%CE%9A-%CE%9D%CE%9D%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%9A%CE%A9%CE%A8%CE%9A-%CE%9D%CE%9D%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%9A%CE%A9%CE%A8%CE%9A-%CE%9D%CE%9D%CE%A1",
+  "listing_sha256": "63c5445f3389fa0180042352e8887b9ac0b7e92cbafc6e4d194c80b7dc8d34ec",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
