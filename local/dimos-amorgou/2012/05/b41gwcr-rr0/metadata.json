@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΓΩΨΡ-ΡΡ0",
+  "subject": "Έγκριση διάθεσης πίστωσης ποσού 4.195,63 € από τον ΚΑ 8116.03 για πληρωμή οφειλής προς τον κ. Δημήτρη Σκαραμαγκά-υλικά οικοδομών-χωματουργικές εργασίες, για προμήθεια οικοδομικών υλικών",
+  "protocol_number": "85",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6027",
+    "label": "ΔΗΜΟΣ ΑΜΟΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81743"
+  ],
+  "thematic_category_ids": [
+    "16",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-17",
+  "posted": "2012-07-17",
+  "publish_timestamp_ms": 1342525623000,
+  "version_id": "cf598a15-1857-44e7-8e16-7a10ec723163",
+  "in_force": "2012-07-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%93%CE%A9%CE%A8%CE%A1-%CE%A1%CE%A10",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%93%CE%A9%CE%A8%CE%A1-%CE%A1%CE%A10/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%93%CE%A9%CE%A8%CE%A1-%CE%A1%CE%A10",
+  "listing_sha256": "564713b4bd1e7c9ed2ec6d7ebe0c89e391a6b35e8c8b81827248cd01092baaf3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
