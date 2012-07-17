@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΓΩΡΠ-Β3Ι",
+  "subject": "ΕΠΙΚΥΡΩΣΗ ΠΡΑΚΤΙΚΩΝ ΔΗΜΟΠΡΑΣΙΑΣ ΕΝΟΙΚΙΑΣΗΣ ΕΝΟΣ ΑΓΡΟΤΕΜΑΧΙΟΥ ΠΟΥ ΒΡΙΣΚΕΤΑΙ ΣΤΗΝ ΤΚ ΆΡΝΙΣΣΑΣ",
+  "protocol_number": "111",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6086",
+    "label": "ΔΗΜΟΣ ΕΔΕΣΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83436"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-27",
+  "posted": "2012-07-17",
+  "publish_timestamp_ms": 1342509254000,
+  "version_id": "421b845b-2d91-4eda-a844-fd8a82a7156b",
+  "in_force": "2012-07-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%93%CE%A9%CE%A1%CE%A0-%CE%923%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%93%CE%A9%CE%A1%CE%A0-%CE%923%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%93%CE%A9%CE%A1%CE%A0-%CE%923%CE%99",
+  "listing_sha256": "934b2c68304ad5aae35d2792b2fb72086d4b923ea9b260e8c6d3b9c894da1bfb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
