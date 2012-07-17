@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΓΩΞ8-3Θ5",
+  "subject": "ΑΠΟΦΑΣΗ 86/2012 ΔΗΜΑΡΧΟΥ",
+  "protocol_number": "2285",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6254",
+    "label": "ΔΗΜΟΣ ΠΡΕΣΠΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81389"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-20",
+  "posted": "2012-07-17",
+  "publish_timestamp_ms": 1342538443000,
+  "version_id": "cbd56e3f-3682-4cd5-ae28-96675ff640d1",
+  "in_force": "2012-07-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%93%CE%A9%CE%9E8-3%CE%985",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%93%CE%A9%CE%9E8-3%CE%985/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%93%CE%A9%CE%9E8-3%CE%985",
+  "listing_sha256": "4a29d50f2ebe56ab9282ac1c3d6df6feaaf8f71ca828b6933cc170171251b87a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
