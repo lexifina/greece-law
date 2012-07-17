@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΓΩ97-9Ρ6",
+  "subject": "Εντολή μετακίνησης εκτός έδρας",
+  "protocol_number": "20910",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6056",
+    "label": "ΔΗΜΟΣ ΒΟΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82122"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-06-26",
+  "posted": "2012-07-17",
+  "publish_timestamp_ms": 1342523671000,
+  "version_id": "af6ded36-0b54-4922-9a2b-a412cbbd02e0",
+  "in_force": "2012-07-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%93%CE%A997-9%CE%A16",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%93%CE%A997-9%CE%A16/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%93%CE%A997-9%CE%A16",
+  "listing_sha256": "7f3b93f3dfa9133cac76f3d3675a924234bfc50e1ab8f54195903c43f2bbe235",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
