@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΓΩ9Γ-ΒΕΦ",
+  "subject": "Έγκριση δαπάνης και διάθεση πίστωσης ποσού (34.649,44 €),  για την συνέχιση εκτέλεσης του έργου με τίτλο: «ΓΗΠΕΔΟ ΚΙΒΩΤΟΥ »  (Ολική εξόφληση του 5ου λογαριασμού για το ποσό των 34.649,44  €).",
+  "protocol_number": "25.988",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6069",
+    "label": "ΔΗΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81761"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2009-06-18",
+  "posted": "2012-07-17",
+  "publish_timestamp_ms": 1342518172000,
+  "version_id": "641401a8-14bb-4311-8f26-7cca3bf088f5",
+  "in_force": "2012-07-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%93%CE%A99%CE%93-%CE%92%CE%95%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%93%CE%A99%CE%93-%CE%92%CE%95%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%93%CE%A99%CE%93-%CE%92%CE%95%CE%A6",
+  "listing_sha256": "e221f9a9a1aef13dd3717140f574f4cecb52edfe9cbbc8bd96fcb9d833c9de8d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
