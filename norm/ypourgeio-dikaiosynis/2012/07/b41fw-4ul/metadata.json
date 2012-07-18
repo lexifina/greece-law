@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΦΩ-4ΘΛ",
+  "subject": "ΠΡΟΫΠΟΘΕΣΕΙΣ  ΚΡΑΤΗΣΗΣ  ΣΤΙΣ ΑΓΡΟΤΙΚΕΣ  ΦΥΛΑΚΕΣ ΚΑΙ ΣΤΗΝ ΚΕΝΤΡΙΚΗ ΑΠΟΘΗΚΗ ΥΛΙΚΟΥ ΦΥΛΑΚΩΝ",
+  "protocol_number": "63021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70951"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "12"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "2124"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-17",
+  "posted": "2012-07-18",
+  "publish_timestamp_ms": 1342590097000,
+  "version_id": "27b41c01-823a-4ef8-818c-5ac3f31c3238",
+  "in_force": "2012-07-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A6%CE%A9-4%CE%98%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A6%CE%A9-4%CE%98%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%A6%CE%A9-4%CE%98%CE%9B",
+  "listing_sha256": "c26e943d535a434e5dc4ff46153bdee8fe8ef36d372b5a544730eb33d851af34",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
