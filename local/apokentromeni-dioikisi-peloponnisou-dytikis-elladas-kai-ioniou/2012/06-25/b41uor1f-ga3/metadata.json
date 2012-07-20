@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΘΟΡ1Φ-ΓΑ3",
+  "subject": "ΘΕΜΑ: Δημοσίευση (1) μίας  διόρθωσης  σφάλματος στην Εφημερίδα της Κυβερνήσεως",
+  "protocol_number": "55565/1850",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76454"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_D",
+      "issueyear": 2012,
+      "aa": "421"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-06-25",
+  "posted": "2012-07-20",
+  "publish_timestamp_ms": 1342773268000,
+  "version_id": "1830481b-f2e9-45f5-9b78-08e0e9a32a81",
+  "in_force": "2012-07-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%98%CE%9F%CE%A11%CE%A6-%CE%93%CE%913",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%98%CE%9F%CE%A11%CE%A6-%CE%93%CE%913/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%98%CE%9F%CE%A11%CE%A6-%CE%93%CE%913",
+  "listing_sha256": "67ad071dcff337ab7bcd3fa8c5ef52b10fb92b155ef19c976326e99d3a1e2eb7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
