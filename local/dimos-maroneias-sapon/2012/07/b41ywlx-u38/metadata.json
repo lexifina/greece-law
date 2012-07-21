@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΥΩΛΧ-Θ38",
+  "subject": "ΠΑΡΑΛΑΒΗ ΤΗΣ ΜΕΛΕΤΗΣ ΜΕ ΤΙΤΛΟ \"«ΜΕΛΕΤΗ ΕΞΩΤΕΡΙΚΟΥ ΔΙΚΤΥΟΥ ΥΔΡΕΥΣΗΣ ΣΑΠΩΝ\" ΠΟΣΟΥ 29.296,13 € ΠΛΕΟΝ Φ.Π.Α. ΠΟΥ ΣΥΝΕΤΑΞΕ ΤΟ ΜΕΛΕΤΗΤΙΚΟ ΓΡΑΦΕΙΟ «Χ.ΧΙΩΝΗΣ & ΣΙΑ ΣΥΜΒΟΥΛΟΙ ΜΗΧΑΝΙΚΟΙ Ε.Ε.»",
+  "protocol_number": "79",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6185",
+    "label": "ΔΗΜΟΣ ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79101"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "457ΓΩΛΧ-ΑΛΤ"
+      },
+      {
+        "relatedDecisionsADA": "Β4ΩΦΩΛΧ-0Ο9"
+      }
+    ]
+  },
+  "issued": "2012-07-02",
+  "posted": "2012-07-21",
+  "publish_timestamp_ms": 1342877941000,
+  "version_id": "b41d6b9c-dcbb-445d-89b8-2552003b89fe",
+  "in_force": "2012-07-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A5%CE%A9%CE%9B%CE%A7-%CE%9838",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A5%CE%A9%CE%9B%CE%A7-%CE%9838/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%A5%CE%A9%CE%9B%CE%A7-%CE%9838",
+  "listing_sha256": "002e8d5873894d0d88f15e82ba0a08a96a39049b039ad950becf6493834d35a3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
