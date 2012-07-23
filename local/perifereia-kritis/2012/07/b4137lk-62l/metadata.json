@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4137ΛΚ-62Λ",
+  "subject": "Έγκριση μετάβασης εκτός έδρας",
+  "protocol_number": "69913/29396",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80819"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-12",
+  "posted": "2012-07-23",
+  "publish_timestamp_ms": 1343027571000,
+  "version_id": "0202c8ef-de47-45ef-ab15-7974438c6ae5",
+  "in_force": "2012-07-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924137%CE%9B%CE%9A-62%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924137%CE%9B%CE%9A-62%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924137%CE%9B%CE%9A-62%CE%9B",
+  "listing_sha256": "d28e4e0182fdc9107e13907592519b5b200791973459167404092f27fcb5299d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
