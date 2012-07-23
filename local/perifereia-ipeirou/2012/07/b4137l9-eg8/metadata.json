@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4137Λ9-ΕΓ8",
+  "subject": "Έγκριση πρωτοκόλλου προσωρινής και οριστικής παραλαβής",
+  "protocol_number": "66030/6471",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5006",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81232"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-23",
+  "posted": "2012-07-23",
+  "publish_timestamp_ms": 1343037578000,
+  "version_id": "f2be64a9-8322-4524-be6a-e617c02128e7",
+  "in_force": "2012-07-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924137%CE%9B9-%CE%95%CE%938",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924137%CE%9B9-%CE%95%CE%938/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924137%CE%9B9-%CE%95%CE%938",
+  "listing_sha256": "8ef8556286dab0e96762e1e79edcac1ab6ae53c31a8f5557665ea46f6a5781e9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
