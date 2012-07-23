@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β413Η-3ΙΒ",
+  "subject": "ΔΙΟΡΙΣΜΟΣ ΜΕΤΑΚΛΗΤΟΥ ΔΙΟΙΚΗΤΙΚΟΥ ΥΠΑΛΛΗΛΟΥ ΣΤΟ ΠΟΛ. ΓΡΑΦΕΙΟ ΥΠΟΥΡΓΟΥ ΟΙΚΟΝΟΜΙΚΩΝ ΣΤΗ ΘΕΣΗ ΤΟΥ ΔΙΕΥΘΥΝΤΗ.",
+  "protocol_number": "Δ1Α 1104431 ΕΞ 2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_fektype_AEEPPE",
+      "issueyear": 2012,
+      "aa": "334"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-13",
+  "posted": "2012-07-23",
+  "publish_timestamp_ms": 1343033394000,
+  "version_id": "5aa85f78-cc99-4916-9a0a-e5173ed419b3",
+  "in_force": "2012-07-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92413%CE%97-3%CE%99%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92413%CE%97-3%CE%99%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92413%CE%97-3%CE%99%CE%92",
+  "listing_sha256": "f67237b519a533c27da1ee75913f0e54d9c4fb00de876598a55a28b2a50914dd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
