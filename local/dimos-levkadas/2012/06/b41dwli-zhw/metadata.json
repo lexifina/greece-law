@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΔΩΛΙ-ΖΗΩ",
+  "subject": "Απόφαση Δ.Σ. για έγκριση πρωτοκόλλου οριστικής παραλαβής  του έργου: «ΑΣΦΑΛΤΟΣΤΡΩΣΗ ΑΓΡΟΤΙΚΩΝ ΟΔΩΝ ΡΑΧΗΣ» συμβατικού προϋπολογισμού  12.100,00€ .",
+  "protocol_number": "222",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6173",
+    "label": "ΔΗΜΟΣ ΛΕΥΚΑΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83492"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β41ΕΩΛΙ-ΘΙΝ"
+      }
+    ]
+  },
+  "issued": "2012-06-22",
+  "posted": "2012-07-24",
+  "publish_timestamp_ms": 1343109197000,
+  "version_id": "95dd64ad-5226-4762-b014-5493e0a3e5fc",
+  "in_force": "2012-07-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%94%CE%A9%CE%9B%CE%99-%CE%96%CE%97%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%94%CE%A9%CE%9B%CE%99-%CE%96%CE%97%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%94%CE%A9%CE%9B%CE%99-%CE%96%CE%97%CE%A9",
+  "listing_sha256": "e82183096ff1b4324acb5cb8db11482fff1ee088df184f5f6588517dafd92c90",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
