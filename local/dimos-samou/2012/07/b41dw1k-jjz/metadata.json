@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΔΩ1Κ-ΞΞΖ",
+  "subject": "ΜΕΤΑΚΙΝΗΣΗ ΥΠΑΛΛΗΛΟΥ",
+  "protocol_number": "21796",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6268",
+    "label": "ΔΗΜΟΣ ΣΑΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80374"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-23",
+  "posted": "2012-07-24",
+  "publish_timestamp_ms": 1343117571000,
+  "version_id": "233f8fc6-d478-4572-8928-e81c09dd67b7",
+  "in_force": "2012-07-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%94%CE%A91%CE%9A-%CE%9E%CE%9E%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%94%CE%A91%CE%9A-%CE%9E%CE%9E%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%94%CE%A91%CE%9A-%CE%9E%CE%9E%CE%96",
+  "listing_sha256": "b8aad26eb44e91f46a3b994d333a9f2ff505c095179e3aff29bfc4cc66a03857",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
