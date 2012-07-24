@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΔΩΗΒ-ΗΙ3",
+  "subject": "ΑΠΟΦΑΣΗ ΓΙΑ ΤΗΝ ΣΥΝΤΗΡΗΣΗ ΚΑΙ ΕΠΙΣΚΕΥΗ ΤΟΥ ΟΧΗΜ./ΜΗΧΑΝ.ΚΗΥ 6294",
+  "protocol_number": "14155",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6293",
+    "label": "ΔΗΜΟΣ ΤΑΝΑΓΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81324"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-24",
+  "posted": "2012-07-24",
+  "publish_timestamp_ms": 1343113138000,
+  "version_id": "0424f766-34f7-4c4b-abb9-1af5e2d1538d",
+  "in_force": "2012-07-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%94%CE%A9%CE%97%CE%92-%CE%97%CE%993",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%94%CE%A9%CE%97%CE%92-%CE%97%CE%993/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%94%CE%A9%CE%97%CE%92-%CE%97%CE%993",
+  "listing_sha256": "7ad346bb696475a2f2772f0e8e17be88e414e07b59856af72efd128d7917aabe",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
