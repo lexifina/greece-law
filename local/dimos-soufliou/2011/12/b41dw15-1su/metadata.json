@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΔΩ15-1ΣΘ",
+  "subject": "Εγκριση Κανονισμού Καθαριότητας",
+  "protocol_number": "28628/309_2011 ΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6284",
+    "label": "ΔΗΜΟΣ ΣΟΥΦΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83744"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-12-02",
+  "posted": "2012-07-24",
+  "publish_timestamp_ms": 1343156454000,
+  "version_id": "31b89786-fa57-48ad-999d-9ef5443ceda6",
+  "in_force": "2012-07-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%94%CE%A915-1%CE%A3%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%94%CE%A915-1%CE%A3%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%94%CE%A915-1%CE%A3%CE%98",
+  "listing_sha256": "43b7cf2ba150ca5bd56f5874f0a11d30482af40dd3dd4ff9ff330d6d1eb6c5fe",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
