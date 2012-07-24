@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΔΩΡ5-4ΕΠ",
+  "subject": "Εγκρίνει ομόφωνα τον καθορισμό των ωρών ανοίγματος, μεσημβρινής διακοπής και κλεισίματος των φαρμακείων και φαρμακαποθηκών, καθώς και τον καθορισμό του αριθμού των φαρμακείων που διημερεύουν και διανυκτερεύουν για το 2012",
+  "protocol_number": "1172/2012 ΑΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80343"
+  ],
+  "thematic_category_ids": [
+    "28",
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β41ΘΩΡ5-Ν9Χ"
+      }
+    ]
+  },
+  "issued": "2012-07-23",
+  "posted": "2012-07-24",
+  "publish_timestamp_ms": 1343112789000,
+  "version_id": "b493ac3d-9eba-45b1-8968-4c9c169ebef2",
+  "in_force": "2012-07-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%94%CE%A9%CE%A15-4%CE%95%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%94%CE%A9%CE%A15-4%CE%95%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%94%CE%A9%CE%A15-4%CE%95%CE%A0",
+  "listing_sha256": "b8aad26eb44e91f46a3b994d333a9f2ff505c095179e3aff29bfc4cc66a03857",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
