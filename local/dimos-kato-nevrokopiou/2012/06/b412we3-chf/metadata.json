@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β412ΩΕ3-ΨΗΦ",
+  "subject": "Έγκριση των αριθμ. 33/2012 & 39/2012 αποφάσεων του Διοικητικού Συμβουλίου της (Ν.ΠΔ.Δ. του Δήμου Κ.Νευροκοπίου) «Τροποποίηση Προϋπολογισμού οικ. έτους 2012»",
+  "protocol_number": "133-2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6143",
+    "label": "ΔΗΜΟΣ ΚΑΤΩ ΝΕΥΡΟΚΟΠΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79702"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-06-26",
+  "posted": "2012-07-25",
+  "publish_timestamp_ms": 1343212697000,
+  "version_id": "d4e6b21a-30d8-4e9e-97d5-22abb9d57ad2",
+  "in_force": "2012-07-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92412%CE%A9%CE%953-%CE%A8%CE%97%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92412%CE%A9%CE%953-%CE%A8%CE%97%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92412%CE%A9%CE%953-%CE%A8%CE%97%CE%A6",
+  "listing_sha256": "7f3b93f3dfa9133cac76f3d3675a924234bfc50e1ab8f54195903c43f2bbe235",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
