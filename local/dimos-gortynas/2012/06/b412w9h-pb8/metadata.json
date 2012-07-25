@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β412Ω9Η-ΠΒ8",
+  "subject": "Διάθεση πίστωσης 8.751,23 € για την καταβολή ειδικής εκλογικής αποζημίωσης των υπαλλήλων του Δήμου για την προσφερόμενη πρόσθετη εργασία τους στις βουλευτικές εκλογές της 6ης Μαϊου 2012",
+  "protocol_number": "123/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6067",
+    "label": "ΔΗΜΟΣ ΓΟΡΤΥΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "77929"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΛΝΩ9Η-02Ψ"
+      }
+    ]
+  },
+  "issued": "2012-06-26",
+  "posted": "2012-07-25",
+  "publish_timestamp_ms": 1343192274000,
+  "version_id": "2cb704a9-36e7-47ae-a14f-ee6e763cc9ba",
+  "in_force": "2012-07-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92412%CE%A99%CE%97-%CE%A0%CE%928",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92412%CE%A99%CE%97-%CE%A0%CE%928/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92412%CE%A99%CE%97-%CE%A0%CE%928",
+  "listing_sha256": "7f3b93f3dfa9133cac76f3d3675a924234bfc50e1ab8f54195903c43f2bbe235",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
