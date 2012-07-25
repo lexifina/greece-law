@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β412ΘΩΠ-ΤΝΙ",
+  "subject": "Καθορισμός αρμοδιοτήτων του Υπουργού Επικρατείας Δημητρίου Σταμάτη",
+  "protocol_number": "Υ31",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "70711"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "2056"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-06-28",
+  "posted": "2012-07-25",
+  "publish_timestamp_ms": 1343225062000,
+  "version_id": "3e85b94b-ce5c-4ff9-b7d5-24dd0fe13070",
+  "in_force": "2012-07-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92412%CE%98%CE%A9%CE%A0-%CE%A4%CE%9D%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92412%CE%98%CE%A9%CE%A0-%CE%A4%CE%9D%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92412%CE%98%CE%A9%CE%A0-%CE%A4%CE%9D%CE%99",
+  "listing_sha256": "f868f0997d1d41bb0de721763fbf1e05c7edc18b2ecbb11045c055a8e3794126",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
