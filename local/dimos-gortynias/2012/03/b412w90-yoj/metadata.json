@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β412Ω90-ΥΟΞ",
+  "subject": "32/2012 AOE Ψήφιση πίστωσης ποσού 6.765,00€ (5.500+ΦΠΑ) για την εκτέλεση του 1ου σταδίου της εργασίας «Υπηρεσίες συμβούλου για την ετοιμασία φακέλου διαχειριστικής επάρκειας και εφαρμογής ISO»",
+  "protocol_number": "32/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6068",
+    "label": "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82015"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-03-30",
+  "posted": "2012-07-25",
+  "publish_timestamp_ms": 1343201567000,
+  "version_id": "1ad2f9fe-6526-4e47-a5f6-1893b1a10c25",
+  "in_force": "2012-07-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92412%CE%A990-%CE%A5%CE%9F%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92412%CE%A990-%CE%A5%CE%9F%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92412%CE%A990-%CE%A5%CE%9F%CE%9E",
+  "listing_sha256": "5d0d5c1df7c70838e45b5297b02edb41328f947c25d82d7586ad8b4dc6a75406",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
