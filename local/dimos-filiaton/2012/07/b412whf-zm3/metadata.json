@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β412ΩΗΦ-ΖΜ3",
+  "subject": "ΑΠΟΦΑΣΗ 97/2012 ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ",
+  "protocol_number": "97/2012 ΑΠΟΦΑΣΗ Ο.Ε.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6308",
+    "label": "ΔΗΜΟΣ ΦΙΛΙΑΤΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84392"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-17",
+  "posted": "2012-07-25",
+  "publish_timestamp_ms": 1343209732000,
+  "version_id": "6c2a9cb1-fdc6-4784-b41a-2a36974a5c12",
+  "in_force": "2012-07-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92412%CE%A9%CE%97%CE%A6-%CE%96%CE%9C3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92412%CE%A9%CE%97%CE%A6-%CE%96%CE%9C3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92412%CE%A9%CE%97%CE%A6-%CE%96%CE%9C3",
+  "listing_sha256": "5dc879b04b17c7c1d609e154eb6bf50c676cebb3873c02b94d29c9a88e1c90c0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
