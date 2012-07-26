@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΣΟΡ10-Π4Ε",
+  "subject": "ΑΠΟΦΑΣΗ ΑΥΞΗΣΗΣ ΠΙΣΤΩΣΗΣ 470,00 ΕΥΡΩ ΣΤΟΝ ΚΑΕ 073/1712 ΜΕ  ΙΣΟΠΟΣΗ ΜΕΙΩΣΗ ΤΟΥ ΚΑΕ 073/1711.",
+  "protocol_number": "13681/148582",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76995"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-25",
+  "posted": "2012-07-26",
+  "publish_timestamp_ms": 1343287040000,
+  "version_id": "dbb95b63-90f4-4f4c-a16b-db630b74a4ab",
+  "in_force": "2012-07-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A3%CE%9F%CE%A110-%CE%A04%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A3%CE%9F%CE%A110-%CE%A04%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%A3%CE%9F%CE%A110-%CE%A04%CE%95",
+  "listing_sha256": "9ceb3710c8c7e1274858eada4e04d36f0d12b4f0025e52198071edaaac9f19ef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
