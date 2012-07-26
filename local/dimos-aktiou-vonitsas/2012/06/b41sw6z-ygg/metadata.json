@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΣΩ6Ζ-ΥΓΓ",
+  "subject": "Αντιλογισμός ποσού μετά από πράξη του Ελεγκτικού Συνεδρίου",
+  "protocol_number": "178/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6017",
+    "label": "ΔΗΜΟΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-06-01",
+  "posted": "2012-07-26",
+  "publish_timestamp_ms": 1343285125000,
+  "version_id": "df0e0f31-512d-4a81-ba95-bdfc6fe71977",
+  "in_force": "2012-07-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A3%CE%A96%CE%96-%CE%A5%CE%93%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A3%CE%A96%CE%96-%CE%A5%CE%93%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%A3%CE%A96%CE%96-%CE%A5%CE%93%CE%93",
+  "listing_sha256": "9e5ff1aed888ed9e181d9541bf5e6e9c87ba1bb2c584052d4db2ac1408aa2f91",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
