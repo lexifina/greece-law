@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΣΩΕΨ-703",
+  "subject": "Έγκριση απολογισμού και λογιστικών καταστάσεων ισολογισμού οικονομικού έτους 2011.",
+  "protocol_number": "79",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6127",
+    "label": "ΔΗΜΟΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84900"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-25",
+  "posted": "2012-07-26",
+  "publish_timestamp_ms": 1343289000000,
+  "version_id": "3924d293-ed57-4faa-b395-55f4899a6e8f",
+  "in_force": "2012-07-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A3%CE%A9%CE%95%CE%A8-703",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A3%CE%A9%CE%95%CE%A8-703/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%A3%CE%A9%CE%95%CE%A8-703",
+  "listing_sha256": "9ceb3710c8c7e1274858eada4e04d36f0d12b4f0025e52198071edaaac9f19ef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
