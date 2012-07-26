@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΣΩΕΕ-ΡΧΓ",
+  "subject": "Έγκριση ή μη άσκησης έφεσης κατά της υπ’ αριθμ. 10/2012 απόφασης του Ειρηνοδικείου Καλαμάτας (τακτική διαδικασία).",
+  "protocol_number": "209/2012_ΟΕ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6130",
+    "label": "ΔΗΜΟΣ ΚΑΛΑΜΑΤΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82262"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-12",
+  "posted": "2012-07-26",
+  "publish_timestamp_ms": 1343279273000,
+  "version_id": "d63a7946-8316-41d9-b955-b4b64cc22e4e",
+  "in_force": "2012-07-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A3%CE%A9%CE%95%CE%95-%CE%A1%CE%A7%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A3%CE%A9%CE%95%CE%95-%CE%A1%CE%A7%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%A3%CE%A9%CE%95%CE%95-%CE%A1%CE%A7%CE%93",
+  "listing_sha256": "d28e4e0182fdc9107e13907592519b5b200791973459167404092f27fcb5299d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
