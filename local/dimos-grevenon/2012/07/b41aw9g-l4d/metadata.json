@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41ΑΩ9Γ-Λ4Δ",
+  "subject": "Έγκριση διάθεσης πίστωσης για προμήθεια φυτοπαθολογικού υλικού ποσού (2.200,00) €.",
+  "protocol_number": "32.521",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6069",
+    "label": "ΔΗΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81761"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-27",
+  "posted": "2012-07-27",
+  "publish_timestamp_ms": 1343371896000,
+  "version_id": "59ff8063-4c79-43df-81bc-0320a9f06e47",
+  "in_force": "2012-07-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%91%CE%A99%CE%93-%CE%9B4%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%91%CE%A99%CE%93-%CE%9B4%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%91%CE%A99%CE%93-%CE%9B4%CE%94",
+  "listing_sha256": "97009027d9a3f771521854d4f8946752a047ebda8dc5cde21db484b1c130ed96",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
