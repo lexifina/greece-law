@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β41Χ6-ΚΙΝ",
+  "subject": "Δαπάνες Προμηθειών - Επισκευών – Κατασκευών [Αξιοποίηση Υλικού HEAD-UP DISPLAY(HUD) NSN 6610-99-330-2437 και NSN 6605-AA 411-4722(P/N AE 003510-12-02C και AE 003510-13-02C) Α/Φ F-16C/D]",
+  "protocol_number": "10906",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76857"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-25",
+  "posted": "2012-07-31",
+  "publish_timestamp_ms": 1343725491000,
+  "version_id": "6a926ba3-7306-4f80-ab14-f4e874b2b864",
+  "in_force": "2012-07-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A76-%CE%9A%CE%99%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9241%CE%A76-%CE%9A%CE%99%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9241%CE%A76-%CE%9A%CE%99%CE%9D",
+  "listing_sha256": "0a00646e5a812171ce85d80c17f111d94ecdf7a7cdea59452f9c59d2ce294e8c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
