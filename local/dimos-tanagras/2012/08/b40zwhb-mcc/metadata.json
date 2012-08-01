@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β40ΖΩΗΒ-ΜΨΨ",
+  "subject": "Περί λήψης απόφασης για την άσκηση ενδίκων μέσων κατά της αριθμ. 74/2012 απόφασης του Ειρηνοδικείου Θηβών, επί της από 22-8-2011 αγωγής του ΙΩΑΝΝΗ ΚΑΜΙΝΙΩΤΗ κατά του Δήμου Τανάγρας",
+  "protocol_number": "14605",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6293",
+    "label": "ΔΗΜΟΣ ΤΑΝΑΓΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-08-01",
+  "posted": "2012-08-01",
+  "publish_timestamp_ms": 1343809847000,
+  "version_id": "d0cd738d-2003-4564-916f-b5f372af328d",
+  "in_force": "2012-08-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9240%CE%96%CE%A9%CE%97%CE%92-%CE%9C%CE%A8%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9240%CE%96%CE%A9%CE%97%CE%92-%CE%9C%CE%A8%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9240%CE%96%CE%A9%CE%97%CE%92-%CE%9C%CE%A8%CE%A8",
+  "listing_sha256": "61e72ad89224e2f9d039cffa6d9f130316bf7fb317a43fd1ca57da7ac42be555",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
