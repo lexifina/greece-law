@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β40ΖΩΡΘ-ΓΗΖ",
+  "subject": "Eντολή μετακίνησης εκτός έδρας υπαλλήλου\r\nΕγκρίνουμε τη μετακίνηση της Μυλωνά Σοφίας του Παναγιώτη, υπαλλήλου στη Διεύθυνση Τεχνικών Υπηρεσιών του Δήμου Ήλιδας, κλάδου ΤΕ, ειδικότητας Τοπογράφου Μηχανικού με βαθμό Ε’.",
+  "protocol_number": "25032",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6106",
+    "label": "ΔΗΜΟΣ ΗΛΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78297"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-08-01",
+  "posted": "2012-08-01",
+  "publish_timestamp_ms": 1343815283000,
+  "version_id": "c17c9750-ef4a-471f-a6e3-b0e1ee71ead9",
+  "in_force": "2012-08-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9240%CE%96%CE%A9%CE%A1%CE%98-%CE%93%CE%97%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9240%CE%96%CE%A9%CE%A1%CE%98-%CE%93%CE%97%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9240%CE%96%CE%A9%CE%A1%CE%98-%CE%93%CE%97%CE%96",
+  "listing_sha256": "61e72ad89224e2f9d039cffa6d9f130316bf7fb317a43fd1ca57da7ac42be555",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
