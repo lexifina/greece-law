@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β40ΖΘΩΠ-8ΨΨ",
+  "subject": "Καθορισμός αρμοδιοτήτων του Αναπληρωτή Υπουργού Περιβάλλοντος, Ενέργειας και Κλιματικής Αλλαγής Σταύρου Καλαφάτη",
+  "protocol_number": "Υ46",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "70711"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "2101"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-06",
+  "posted": "2012-08-01",
+  "publish_timestamp_ms": 1343827483000,
+  "version_id": "a30a90d4-58eb-4786-a5c2-c3f4a4f0eae8",
+  "in_force": "2012-08-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9240%CE%96%CE%98%CE%A9%CE%A0-8%CE%A8%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9240%CE%96%CE%98%CE%A9%CE%A0-8%CE%A8%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9240%CE%96%CE%98%CE%A9%CE%A0-8%CE%A8%CE%A8",
+  "listing_sha256": "db992551be0648aa08e5b5607d8452e16ddc6738caa1b4da581823b5ad04988a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
