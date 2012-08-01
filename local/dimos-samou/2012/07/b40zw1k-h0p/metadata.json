@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β40ΖΩ1Κ-Η0Π",
+  "subject": "ΑΟΕ 115/12 Έγκριση αποτελέσματος διαπραγμάτευσης προμήθειας καυσίμων ανάθεση προμήθειας",
+  "protocol_number": "115/12",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6268",
+    "label": "ΔΗΜΟΣ ΣΑΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80376"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-02",
+  "posted": "2012-08-01",
+  "publish_timestamp_ms": 1343805577000,
+  "version_id": "309c6d14-04f1-412c-94f0-cda5c4986146",
+  "in_force": "2012-08-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9240%CE%96%CE%A91%CE%9A-%CE%970%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9240%CE%96%CE%A91%CE%9A-%CE%970%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9240%CE%96%CE%A91%CE%9A-%CE%970%CE%A0",
+  "listing_sha256": "002e8d5873894d0d88f15e82ba0a08a96a39049b039ad950becf6493834d35a3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
