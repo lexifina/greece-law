@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΓΠΩΛΙ-ΗΚΗ",
+  "subject": "Απόφαση Οικον. Επιτροπής  για  απόδοση ως “καλώς έχει”  δύο ΧΕΠ προπληρωμής, για α)την κάλυψη των εξόδων μετακίνησης των οδηγών και των μετακινούμενων οχημάτων για επισκευή σε συνεργεία εκτός Νομού ποσού 4.000,00€ και β) για πληρωμή παραβόλων αλλαγής αδειών  κυκλοφορίας των μηχανημάτων των πρώην Δήμων και έλεγχο από το ΚΤΕΟ των οχημάτων του Δήμου ποσού  4.000,00€",
+  "protocol_number": "193",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6173",
+    "label": "ΔΗΜΟΣ ΛΕΥΚΑΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84369"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-31",
+  "posted": "2012-08-02",
+  "publish_timestamp_ms": 1343907172000,
+  "version_id": "67827270-c4b5-46e0-8e56-6b5db89c3741",
+  "in_force": "2012-08-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%93%CE%A0%CE%A9%CE%9B%CE%99-%CE%97%CE%9A%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%93%CE%A0%CE%A9%CE%9B%CE%99-%CE%97%CE%9A%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%93%CE%A0%CE%A9%CE%9B%CE%99-%CE%97%CE%9A%CE%97",
+  "listing_sha256": "557973573378d605aec1258d23a056a8ec5ecb3cd3a80b49260d5cda4d0d4d0a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
