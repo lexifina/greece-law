@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Γ7ΩΕ1-Ο9Ι",
+  "subject": "Μετονομασία σχολικών μονάδων",
+  "protocol_number": "7745",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6134",
+    "label": "ΔΗΜΟΣ ΚΑΝΤΑΝΟΥ - ΣΕΛΙΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85159"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-08-06",
+  "posted": "2012-08-06",
+  "publish_timestamp_ms": 1344236382000,
+  "version_id": "b81db6f3-aa66-4181-8477-4feb227505cb",
+  "in_force": "2012-08-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%937%CE%A9%CE%951-%CE%9F9%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%937%CE%A9%CE%951-%CE%9F9%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%937%CE%A9%CE%951-%CE%9F9%CE%99",
+  "listing_sha256": "b4650e501140ee20ac536121229fda2dd497556b9988f4c471adb2304b07bb89",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
