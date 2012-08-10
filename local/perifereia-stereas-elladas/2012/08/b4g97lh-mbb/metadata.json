@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Γ97ΛΗ-ΜΒΒ",
+  "subject": "εντολή μετακίνησης",
+  "protocol_number": "oik 6695",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5013",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79149"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-08-10",
+  "posted": "2012-08-10",
+  "publish_timestamp_ms": 1344577623000,
+  "version_id": "f40287af-b02b-4432-86dd-3e6698ae6c06",
+  "in_force": "2012-08-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9397%CE%9B%CE%97-%CE%9C%CE%92%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9397%CE%9B%CE%97-%CE%9C%CE%92%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9397%CE%9B%CE%97-%CE%9C%CE%92%CE%92",
+  "listing_sha256": "a4395baad99a28b5ded7b53915d72668bb17e116d8687c480f60181a077087dc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
