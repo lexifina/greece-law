@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΓΛΩΗΕ-ΦΩΝ",
+  "subject": "ΑΝΑΤΡΟΠΗ ΤΗΣ ΥΠ ΑΡΙΘ. ΣΤ/666 ΕΑΔ",
+  "protocol_number": "ΑΝ719",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6300",
+    "label": "ΔΗΜΟΣ ΤΡΙΦΥΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83297"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-08-13",
+  "posted": "2012-08-13",
+  "publish_timestamp_ms": 1344840355000,
+  "version_id": "12f8e30d-d8d9-440e-b532-eb85b5093216",
+  "in_force": "2012-08-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%93%CE%9B%CE%A9%CE%97%CE%95-%CE%A6%CE%A9%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%93%CE%9B%CE%A9%CE%97%CE%95-%CE%A6%CE%A9%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%93%CE%9B%CE%A9%CE%97%CE%95-%CE%A6%CE%A9%CE%9D",
+  "listing_sha256": "f26a355458b031a285a53245c34af1ab5bc0da9b2b157c32dd853d4fbbfcd4ff",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
