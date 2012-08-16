@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Γ1ΩΗΒ-7ΙΝ",
+  "subject": "Υπ'αριθμ. 351/2012 απόφαση Δημάρχου",
+  "protocol_number": "15150",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6293",
+    "label": "ΔΗΜΟΣ ΤΑΝΑΓΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-08-16",
+  "posted": "2012-08-16",
+  "publish_timestamp_ms": 1345120468000,
+  "version_id": "81dc3c83-c9f4-4251-8019-c485ce5d5547",
+  "in_force": "2012-08-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%931%CE%A9%CE%97%CE%92-7%CE%99%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%931%CE%A9%CE%97%CE%92-7%CE%99%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%931%CE%A9%CE%97%CE%92-7%CE%99%CE%9D",
+  "listing_sha256": "a70cacd440b8ba49424197eb0777f7d4e3fea1bdeb3b96f38175c463ba4cf921",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
