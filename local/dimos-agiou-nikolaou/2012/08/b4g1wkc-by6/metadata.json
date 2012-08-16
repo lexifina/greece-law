@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Γ1ΩΚΨ-ΒΥ6",
+  "subject": "Έγκριση χορήγησης άδειας εκμίσθωσης \r\n\t     μοτοποδηλάτων κάτω των 50 cc\r\n\t     συστεγαζόμενα με κατάστημα \r\n\t     μοτοσικλετών ιδιοκτησίας Λασθιωτάκη \r\n\t     Εμμανουήλ στον οικισμό Σίσι της Τ.Κ. \r\n\t     Βραχασίου",
+  "protocol_number": "17340",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6195",
+    "label": "ΔΗΜΟΣ AΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82087"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-08-14",
+  "posted": "2012-08-16",
+  "publish_timestamp_ms": 1345103779000,
+  "version_id": "b54e0647-fc24-48bd-a711-6836afcac940",
+  "in_force": "2012-08-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%931%CE%A9%CE%9A%CE%A8-%CE%92%CE%A56",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%931%CE%A9%CE%9A%CE%A8-%CE%92%CE%A56/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%931%CE%A9%CE%9A%CE%A8-%CE%92%CE%A56",
+  "listing_sha256": "12084024be261a4f0d5752b94eae7fe1636c415d0d14c58514979a48e54be767",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
