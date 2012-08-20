@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΓΦΩΨΧ-Λ2Σ",
+  "subject": "ΑΠΟΦΑΣΗ Δ.Σ. ΜΕ ΘΕΜΑ «ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗ ΜΕΛΕΤΗΣ «ΤΟΠΟΓΡΑΦΙΚΗ ΑΠΟΤΥΠΩΣΗ ΤΜΗΜΑΤΩΝ ΜΟΝΟΠΑΤΙΩΝ ΝΗΣΟΥ ΑΣΤΥΠΑΛΑΙΑΣ»»",
+  "protocol_number": "96",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6049",
+    "label": "ΔΗΜΟΣ ΑΣΤΥΠΑΛΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81543"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-29",
+  "posted": "2012-08-20",
+  "publish_timestamp_ms": 1345448441000,
+  "version_id": "9b14b247-e7ef-4f65-9015-830a8c036a74",
+  "in_force": "2012-08-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%93%CE%A6%CE%A9%CE%A8%CE%A7-%CE%9B2%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%93%CE%A6%CE%A9%CE%A8%CE%A7-%CE%9B2%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%93%CE%A6%CE%A9%CE%A8%CE%A7-%CE%9B2%CE%A3",
+  "listing_sha256": "6cfac75ae3a02311a2c04f55acf70feaaeb6f73bbfedfd61cb4cd64e2657240b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
