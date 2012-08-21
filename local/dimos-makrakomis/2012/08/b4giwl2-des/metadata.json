@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΓΙΩΛ2-ΔΕΣ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜ.ΣΥΜΒΟΥΛΙΟΥ 161/2012 \"Τροποποίηση της υπ’ αριθ. 144/2012 απόφασης του Δ. Σ. περί αποδοχής επιχορήγησης για κάλυψη δράσεων πυροπροστασίας και χρηματοδότηση έργων\"",
+  "protocol_number": "161/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6179",
+    "label": "ΔΗΜΟΣ ΜΑΚΡΑΚΩΜΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86527"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β41ΚΩΛ2-ΨΛΥ"
+      }
+    ]
+  },
+  "issued": "2012-08-03",
+  "posted": "2012-08-21",
+  "publish_timestamp_ms": 1345528580000,
+  "version_id": "70b62a82-2c35-4c3f-9df3-a662be37404b",
+  "in_force": "2012-08-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%93%CE%99%CE%A9%CE%9B2-%CE%94%CE%95%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%93%CE%99%CE%A9%CE%9B2-%CE%94%CE%95%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%93%CE%99%CE%A9%CE%9B2-%CE%94%CE%95%CE%A3",
+  "listing_sha256": "b19e60cf4bcea28ac28155ac23fa2e65561e5bcee3bfb5ee1072cf0ccdab5b60",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
