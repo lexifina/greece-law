@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΓΤΟΡ1Υ-87Δ",
+  "subject": "Έγκριση κίνησης εκτός έδρας υπαλλήλου",
+  "protocol_number": "59750",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77097"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΓΤΟΡΙΥ-2ΕΛ"
+      }
+    ]
+  },
+  "issued": "2012-07-24",
+  "posted": "2012-08-24",
+  "publish_timestamp_ms": 1345801161000,
+  "version_id": "bdf643cf-0762-4321-b0bc-6d3a2755d175",
+  "in_force": "2012-08-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%93%CE%A4%CE%9F%CE%A11%CE%A5-87%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%93%CE%A4%CE%9F%CE%A11%CE%A5-87%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%93%CE%A4%CE%9F%CE%A11%CE%A5-87%CE%94",
+  "listing_sha256": "70e6662039af9cdd332bdb80aa8ee383985b72bf75b1d275fa5d621a152166d6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
