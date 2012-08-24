@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΓΤΩΗΙ-ΨΩ9",
+  "subject": "Σχετικά με ανάθεση εκτέλεσης του έργου «Κατασκευή πεζοδρομίων στη περιοχή του Νοσοκομείου Φλώρινας», προ/σμού 12.200,00€ (ΣΑΤΑ 2012).",
+  "protocol_number": "32110",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84862"
+  ],
+  "thematic_category_ids": [
+    "64",
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-08-24",
+  "posted": "2012-08-24",
+  "publish_timestamp_ms": 1345798308000,
+  "version_id": "3c1dc9d8-aab6-49e4-b193-a5346f67884e",
+  "in_force": "2012-08-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%93%CE%A4%CE%A9%CE%97%CE%99-%CE%A8%CE%A99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%93%CE%A4%CE%A9%CE%97%CE%99-%CE%A8%CE%A99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%93%CE%A4%CE%A9%CE%97%CE%99-%CE%A8%CE%A99",
+  "listing_sha256": "79b57c28ce272497ed43015009fcd64d746b275e2b28149fc5a5a2d1e73b239a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
