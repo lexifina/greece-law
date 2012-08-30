@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Γ5ΩΨ9-6ΙΨ",
+  "subject": "Συμπλήρωση - Τροποποίηση της υπ'αριθ.336/11 απόφασης Δημοτικού Συμβουλίου σχετικά με την περιοχή Σωρός",
+  "protocol_number": "067557",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78451"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β414ΩΨ9-Ρ2Υ"
+      },
+      {
+        "relatedDecisionsADA": "45Ο4ΩΨ9-147"
+      },
+      {
+        "relatedDecisionsADA": "4Α8ΞΩΨ9-ΝΤ8"
+      }
+    ]
+  },
+  "issued": "2012-08-28",
+  "posted": "2012-08-30",
+  "publish_timestamp_ms": 1346310907000,
+  "version_id": "cbac914b-e3c6-4f74-b505-b01e82072fe3",
+  "in_force": "2012-08-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%935%CE%A9%CE%A89-6%CE%99%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%935%CE%A9%CE%A89-6%CE%99%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%935%CE%A9%CE%A89-6%CE%99%CE%A8",
+  "listing_sha256": "32da94476626162f7dc7ab71020252825290f2034e5d810b9b5375af070d58ab",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
