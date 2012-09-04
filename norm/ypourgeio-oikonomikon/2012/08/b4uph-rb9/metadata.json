@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΘΠΗ-ΡΒ9",
+  "subject": "ΕΓΚΡΙΣΗ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ",
+  "protocol_number": "10381",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "73747"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-08-31",
+  "posted": "2012-09-04",
+  "publish_timestamp_ms": 1346739625000,
+  "version_id": "680bb33c-9929-49f4-a5ba-01c114b70c80",
+  "in_force": "2012-09-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%98%CE%A0%CE%97-%CE%A1%CE%929",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%98%CE%A0%CE%97-%CE%A1%CE%929/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%98%CE%A0%CE%97-%CE%A1%CE%929",
+  "listing_sha256": "3c7c1ff7551f8f4d98f4edbc4be70bb1641efd9745c73d3db6c9131d7187dfea",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
