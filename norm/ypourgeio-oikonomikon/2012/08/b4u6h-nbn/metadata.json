@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Θ6Η-ΝΒΝ",
+  "subject": "ΚΑΘΟΡΙΣΜΟΣ ΑΠΟΖΗΜΙΩΣΗΣ ΤΩΝ ΠΡΟΣΩΠΩΝ ΠΟΥ ΠΡΟΣΦΕΡΟΥΝ ΥΠΗΡΕΣΊΕΣ ΣΤΟ ΠΛΑΣΙΟ ΤΟΥ ΣΥΣΤΗΜΑΤΟΣ ΠΑΡΟΧΗΣ ΝΟΜΙΚΗΣ ΒΟΗΘΕΙΑΣ.\r\nΚΑΘΟΡΙΣΜΟΣ ΤΗς ΔΙΑΔΙΚΑΣΙΑΣ ΕΚΚΑΘΑΡΙΣΗΣ ΚΑΙ ΤΩΝ ΔΙΚΑΙΟΛΟΓΗΤΙΚΩΝ ΠΟΥ ΑΠΑΙΤΟΥΝΤΑΙ ΓΙΑ ΤΗΝ ΑΠΟΖΗΜΙΩΣΗ ΤΩΝ ΔΙΚΗΓΟΡΩΝ, ΥΠΗΡΕΣΙΑΣ, ΣΥΜΒΟΛΑΙΟΓΡΑΦΩΝ, ΔΙΚΑΣΤΙΚΩΝ ΕΠΙΜΕΛΗΤΩΝ ΚΑΙ ΑΛΛΩΝ ΠΡΟΣΩΠΩΝ ΠΟΥ ΠΑΡΕΧΟΥΝ ΥΠΗΡΕΣΙΕΣ ΣΤΟ ΠΛΑΙΣΙΟ ΤΗΣ ΠΑΡΟΧΗΣ ΝΟΜΙΚΗΣ ΒΟΗΘΕΙΑΣ.",
+  "protocol_number": "67506",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "2333/17.8.2012"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΓΣΩ-ΒΘΩ"
+      }
+    ]
+  },
+  "issued": "2012-08-08",
+  "posted": "2012-09-10",
+  "publish_timestamp_ms": 1347275307000,
+  "version_id": "305fea0a-0655-4ac2-8580-28d924a76335",
+  "in_force": "2012-09-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%986%CE%97-%CE%9D%CE%92%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%986%CE%97-%CE%9D%CE%92%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%986%CE%97-%CE%9D%CE%92%CE%9D",
+  "listing_sha256": "c993b16ddf6fdc06200ab7779597696c1ae9c590002c34c8a8ef1fab1476daba",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
