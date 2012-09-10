@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Θ6ΩΛΝ-ΠΘΥ",
+  "subject": "Λήψη απόφασης για αίτημα ακυρώσεως των υπ’ αριθμ. 346/2011, 107/2012, 108/2012 αποφάσεων του Δήμου Μαρκοπούλου και των σχετικών Πρακτικών 1, 2, 3, 4 της Επιτροπής Διαγωνισμού από την εταιρεία VRN S.A.",
+  "protocol_number": "12438",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6184",
+    "label": "ΔΗΜΟΣ ΜΑΡΚΟΠΟΥΛΟΥ ΜΕΣΟΓΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "04",
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "45ΒΝΩΛΝ-ΩΧΓ"
+      },
+      {
+        "relatedDecisionsADA": "Β4ΩΗΩΛΝ-ΨΤΔ"
+      },
+      {
+        "relatedDecisionsADA": "Β4ΩΗΩΛΝ-ΨΤΔ"
+      }
+    ]
+  },
+  "issued": "2012-08-07",
+  "posted": "2012-09-10",
+  "publish_timestamp_ms": 1347262797000,
+  "version_id": "7cb52c4c-3c99-4779-ac4f-68efc26703d3",
+  "in_force": "2012-09-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%986%CE%A9%CE%9B%CE%9D-%CE%A0%CE%98%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%986%CE%A9%CE%9B%CE%9D-%CE%A0%CE%98%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%986%CE%A9%CE%9B%CE%9D-%CE%A0%CE%98%CE%A5",
+  "listing_sha256": "430d9f9db4deed2850e358c7b89d6fa97e937b6679db979be0666c2ad101379e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
