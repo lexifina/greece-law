@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΘΨΩΛΔ-0ΨΚ",
+  "subject": "Απόφαση δέσμευσης πίστωσης ποσού ΕΠΤΑ ΧΙΛΙΑΔΩΝ ΟΚΤΑΚΟΣΙΩΝ ΠΕΝΗΝΤΑ ΕΥΡΩ (7.850,00€) στον ΚΑΕ 00.6722 για κάλυψη δαπάνης για \"Εισφορά υπέρ ΣΒΑΑ\"",
+  "protocol_number": "6996",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6178",
+    "label": "ΔΗΜΟΣ ΛΥΚΟΒΡΥΣΗΣ - ΠΕΥΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82029"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-09-11",
+  "posted": "2012-09-11",
+  "publish_timestamp_ms": 1347361597000,
+  "version_id": "04d06627-e9e7-49fc-9165-438705246864",
+  "in_force": "2012-09-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%98%CE%A8%CE%A9%CE%9B%CE%94-0%CE%A8%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%98%CE%A8%CE%A9%CE%9B%CE%94-0%CE%A8%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%98%CE%A8%CE%A9%CE%9B%CE%94-0%CE%A8%CE%9A",
+  "listing_sha256": "a6470dd4e1457c8f8d24e9b0dc004b62393f774e60a8a6394e6c88a35734be3b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
