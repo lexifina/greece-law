@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Θ9ΩΡΥ-ΛΣΩ",
+  "subject": "Επιστροφές αχρεωστήτως εισπραχθέντων ποσών.",
+  "protocol_number": "298/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6107",
+    "label": "ΔΗΜΟΣ ΗΛΙΟΥΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83203"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-09-11",
+  "posted": "2012-09-12",
+  "publish_timestamp_ms": 1347429398000,
+  "version_id": "29bda91a-acdc-47ab-8441-e18629120494",
+  "in_force": "2012-09-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%989%CE%A9%CE%A1%CE%A5-%CE%9B%CE%A3%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%989%CE%A9%CE%A1%CE%A5-%CE%9B%CE%A3%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%989%CE%A9%CE%A1%CE%A5-%CE%9B%CE%A3%CE%A9",
+  "listing_sha256": "73deeffa0411fb65acd31b2e2f7e3981247eed475c1499268a1b9faa5cbf53d8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
