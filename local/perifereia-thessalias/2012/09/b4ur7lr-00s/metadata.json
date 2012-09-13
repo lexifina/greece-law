@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΘΡ7ΛΡ-00Σ",
+  "subject": "μ ε ρ ι κ ή α ν ά κ λ η σ η δέσμευσης πίστωσης ύψους ενενήντα τρείς\r\nχιλιάδες εκατό ευρώ (93.100,00 €) για την πληρωμή ισόποσης δαπάνης",
+  "protocol_number": "4996",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81793"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-09-04",
+  "posted": "2012-09-13",
+  "publish_timestamp_ms": 1347528012000,
+  "version_id": "b2ae181a-98fc-4886-aeaa-6a93985562d4",
+  "in_force": "2012-09-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%98%CE%A17%CE%9B%CE%A1-00%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%98%CE%A17%CE%9B%CE%A1-00%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%98%CE%A17%CE%9B%CE%A1-00%CE%A3",
+  "listing_sha256": "936708f855f1c579673f0d55d9704e229f031b51cd677afa0cc54ccd59782015",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
