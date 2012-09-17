@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΘΞΗ-ΨΒΔ",
+  "subject": "ΥΠΕΡΩΡΙΕΣ",
+  "protocol_number": "8076",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "75278"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-31",
+  "posted": "2012-09-17",
+  "publish_timestamp_ms": 1347860359000,
+  "version_id": "8ea1d984-a075-4134-9aaf-dde945185281",
+  "in_force": "2012-09-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%98%CE%9E%CE%97-%CE%A8%CE%92%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%98%CE%9E%CE%97-%CE%A8%CE%92%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%98%CE%9E%CE%97-%CE%A8%CE%92%CE%94",
+  "listing_sha256": "862224f230b6f07ec9f547cf215e98fdcdce4fd073839edda9bdc31caa36d1a7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
