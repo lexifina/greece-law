@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Θ1Ω97-Σ56",
+  "subject": "Απευθείας ανάθεση διδασκαλίας χορωδίας γυναικών ωδείου Βοϊου.",
+  "protocol_number": "186",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6056",
+    "label": "ΔΗΜΟΣ ΒΟΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87630"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-01",
+  "posted": "2012-09-18",
+  "publish_timestamp_ms": 1347954012000,
+  "version_id": "15ebbb59-f24d-4807-9188-9f97f3766a99",
+  "in_force": "2012-09-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%981%CE%A997-%CE%A356",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%981%CE%A997-%CE%A356/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%981%CE%A997-%CE%A356",
+  "listing_sha256": "18c9611ec075d80b7f163920320c53bfbf97ec9aa6a5ca2195d164df0c694666",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
