@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΘΗΩΗΕ-Δ1Λ",
+  "subject": "ΑΠΟΦΑΣΗ ΑΝΑΤΡΟΠΗΣ ΣΤ 527/2011 ΕΑΔ",
+  "protocol_number": "ΑΝ580",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6300",
+    "label": "ΔΗΜΟΣ ΤΡΙΦΥΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83297"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-09-19",
+  "posted": "2012-09-19",
+  "publish_timestamp_ms": 1348034508000,
+  "version_id": "eceae1ea-c5d2-470c-ab64-e5823457529d",
+  "in_force": "2012-09-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%98%CE%97%CE%A9%CE%97%CE%95-%CE%941%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%98%CE%97%CE%A9%CE%97%CE%95-%CE%941%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%98%CE%97%CE%A9%CE%97%CE%95-%CE%941%CE%9B",
+  "listing_sha256": "690f7d934d3fbf2dbd328abec50004d442b4846c24e0d9a5076f8f00378e501b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
