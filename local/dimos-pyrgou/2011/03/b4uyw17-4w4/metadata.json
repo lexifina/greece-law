@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΘΥΩ17-4Ω4",
+  "subject": "Επέκταση της περιοχής αρμοδιότητας της ΔΕΥΑΠ στον τομέα ύδρευσης εντός των γεωγραφικών ορίων της Δημοτικής Ενότητας Ωλένης",
+  "protocol_number": "10294",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6260",
+    "label": "ΔΗΜΟΣ ΠΥΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80106"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2011,
+      "aa": "1712"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-03-30",
+  "posted": "2012-09-25",
+  "publish_timestamp_ms": 1348570663000,
+  "version_id": "960f6ee2-18c6-41ba-b92d-f7eb582289f8",
+  "in_force": "2012-09-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%98%CE%A5%CE%A917-4%CE%A94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%98%CE%A5%CE%A917-4%CE%A94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%98%CE%A5%CE%A917-4%CE%A94",
+  "listing_sha256": "c76ea5fccee17195baf68b14ad20fd0de17ac8581352c5a9ef4b7f62e56e36ed",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
