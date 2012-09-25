@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΘΥΩΞΙ-ΣΧΣ",
+  "subject": "460/2012 απόφαση Δημοτικού Συμβουλίου- Μεταφορά δράσεων Πολιτισμού (Ορχήστρα Πατρών, Ορχήστρα Νυκτών Εγχόρδων, Πινακοθήκη, Διεθνές Φεστιβάλ Πάτρας, Εικαστικό Εργαστήρι ΚΔΕΠΟΠ, Εικαστικό Εργαστήρι και Δημοτικό Ωδείο ΔΕΠΑΡ) και πλεονάζοντος προσωπικού, με σχέση εργασίας Ιδιωτικού Δικαίου Αορίστου χρόνου, της Κοινωφελούς Επιχείρησης του Δήμου Πατρέων- Καρναβάλι Πάτρας, προς το Ν.Π.Δ.Δ. «Δημοτική Βιβλιοθήκη- Πολιτιστικός Οργανισμός Δήμου Πατρέων»",
+  "protocol_number": "Δ.Υ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6241",
+    "label": "ΔΗΜΟΣ ΠΑΤΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82479"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "2378"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-07-09",
+  "posted": "2012-09-25",
+  "publish_timestamp_ms": 1348562297000,
+  "version_id": "4ad1e958-185f-45d5-8072-c629cb1ea173",
+  "in_force": "2012-09-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%98%CE%A5%CE%A9%CE%9E%CE%99-%CE%A3%CE%A7%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%98%CE%A5%CE%A9%CE%9E%CE%99-%CE%A3%CE%A7%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%98%CE%A5%CE%A9%CE%9E%CE%99-%CE%A3%CE%A7%CE%A3",
+  "listing_sha256": "96917eaa8f37e26e57f45c062fc47d600b7c68cd7b3c93d9ce29a4b3792511b0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
