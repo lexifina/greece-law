@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΤΝΩΨΡ-ΕΣΔ",
+  "subject": "Απευθείας ανάθεση της προμήθειας λαμπτήρων στην ΕΜΠΟΡΟΟΙΚΟΔΟΜΙΚΗ ΑΜΟΡΓΟΥ (ΓΑΒΑΛΑΣ ΜΙΧΑΗΛ-ΓΙΑΝΝΑΚΟΣ ΝΙΚΗΤΑΣ-ΝΟΜΙΚΟΣ ΝΙΚΟΛΑΟΣ Ο.Ε)",
+  "protocol_number": "140",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6027",
+    "label": "ΔΗΜΟΣ ΑΜΟΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81742"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-25",
+  "posted": "2012-10-02",
+  "publish_timestamp_ms": 1349158473000,
+  "version_id": "71e2ee9c-3676-4af1-9e0d-c9550c6c7d2f",
+  "in_force": "2012-10-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A4%CE%9D%CE%A9%CE%A8%CE%A1-%CE%95%CE%A3%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A4%CE%9D%CE%A9%CE%A8%CE%A1-%CE%95%CE%A3%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A4%CE%9D%CE%A9%CE%A8%CE%A1-%CE%95%CE%A3%CE%94",
+  "listing_sha256": "ab7e1053d2ccdefe161504c3696484c831ba3e6c71e83c752b549e5225fa6076",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
