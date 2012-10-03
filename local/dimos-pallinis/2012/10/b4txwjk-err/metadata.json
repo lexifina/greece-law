@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΤΧΩΞΚ-ΕΡΡ",
+  "subject": "Τροποποίηση της αρ.οικ.5736/24-7-2012 Απόφασης μας περι \"Συγκρότησης επιτροπής για τον προσδιορισμό της αξίας των ακινήτων και επικειμένων για τις περιοχές αρμοδιότητας του Δήμου Παλλήνης Αττικής\"",
+  "protocol_number": "7146",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6234",
+    "label": "ΔΗΜΟΣ ΠΑΛΛΗΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81487"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-03",
+  "posted": "2012-10-03",
+  "publish_timestamp_ms": 1349247876000,
+  "version_id": "be797e33-f3f4-48d3-84d1-5fabef9ea0ca",
+  "in_force": "2012-10-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A4%CE%A7%CE%A9%CE%9E%CE%9A-%CE%95%CE%A1%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A4%CE%A7%CE%A9%CE%9E%CE%9A-%CE%95%CE%A1%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A4%CE%A7%CE%A9%CE%9E%CE%9A-%CE%95%CE%A1%CE%A1",
+  "listing_sha256": "e67c5ccfa8eba9c13d0d3b953d75dcb6946cdebc4164f32e54706e7eb2d9b486",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
