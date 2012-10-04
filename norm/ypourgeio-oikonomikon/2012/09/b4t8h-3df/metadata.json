@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Τ8Η-3ΔΦ",
+  "subject": "Mεταβίβαση κατά κυριότητα στην εταιρία «Ταμείο Αξιοποίησης Ιδιωτικής Περιουσίας του Δημοσίου Α.Ε.» μετοχών ποσοστού 4% στην εταιρία ΟΠΑΠ Α.Ε., οι οποίες ανήκουν στο Ελληνικό Δημόσιο.",
+  "protocol_number": "219",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "2625"
+    },
+    "kanonistikipraxitype": "Διυπουργική Απόφαση (ΔΕΑΑ)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-09-26",
+  "posted": "2012-10-04",
+  "publish_timestamp_ms": 1349350479000,
+  "version_id": "c968f5d0-4dda-4ef3-b302-f8846c68ea30",
+  "in_force": "2012-10-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A48%CE%97-3%CE%94%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A48%CE%97-3%CE%94%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A48%CE%97-3%CE%94%CE%A6",
+  "listing_sha256": "818b55ccdea78020bbeb49093060e7ba16ff0832fb9232e43ba722722b3690e8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
