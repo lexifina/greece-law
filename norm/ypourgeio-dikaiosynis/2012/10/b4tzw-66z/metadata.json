@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΤΖΩ-66Ζ",
+  "subject": "Aποστολή στη Λευκωσία",
+  "protocol_number": "85638",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-04",
+  "posted": "2012-10-05",
+  "publish_timestamp_ms": 1349425595000,
+  "version_id": "89cc8eed-6c85-4589-875f-0e6a086cd29c",
+  "in_force": "2012-10-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A4%CE%96%CE%A9-66%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A4%CE%96%CE%A9-66%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A4%CE%96%CE%A9-66%CE%96",
+  "listing_sha256": "6e37cbb8ee1a22b8ae70c475a803aa666a247c554e0ef7909edee7e8359c5aad",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
