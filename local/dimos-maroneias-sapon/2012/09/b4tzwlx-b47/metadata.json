@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΤΖΩΛΧ-Β47",
+  "subject": "ΕΓΚΡΙΣΗ Ή ΜΗ ΕΚΤΕΛΕΣΗΣ ΜΕ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗ ΤΟΥ ΕΡΓΟΥ \"ΚΑΤΑΣΚΕΥΗ ΒΑΣΗΣ ΠΡΟΚΑΤΑΣΚΕΥΑΣΜΕΝΟΥ ΟΙΚΙΣΚΟΥ ΣΤΟΝ ΟΙΚΙΣΜΟ ΜΙΡΑΝΩΝ\", ΜΕ ΥΦΙΣΤΑΜΕΝΗ ΠΙΣΤΩΣΗ 5.000,00€",
+  "protocol_number": "114",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6185",
+    "label": "ΔΗΜΟΣ ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79101"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΤΜΩΛΧ-ΦΕΝ"
+      }
+    ]
+  },
+  "issued": "2012-09-26",
+  "posted": "2012-10-05",
+  "publish_timestamp_ms": 1349424220000,
+  "version_id": "b77769f6-16c5-4e86-8b96-e59e8e4dbadc",
+  "in_force": "2012-10-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A4%CE%96%CE%A9%CE%9B%CE%A7-%CE%9247",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A4%CE%96%CE%A9%CE%9B%CE%A7-%CE%9247/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A4%CE%96%CE%A9%CE%9B%CE%A7-%CE%9247",
+  "listing_sha256": "818b55ccdea78020bbeb49093060e7ba16ff0832fb9232e43ba722722b3690e8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
