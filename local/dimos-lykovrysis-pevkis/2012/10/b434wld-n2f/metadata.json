@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β434ΩΛΔ-Ν2Φ",
+  "subject": "Απόφαση δέσμευσης πίστωσης ποσού ΕΝΝΕΑ ΧΙΛ (9.000,00€) στον ΚΑΕ 30.7332.0005 για κάλυψη δαπάνης για Εξωραϊσμό κοινωφελών χώρων",
+  "protocol_number": "6178_16",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6178",
+    "label": "ΔΗΜΟΣ ΛΥΚΟΒΡΥΣΗΣ - ΠΕΥΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82029"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-05",
+  "posted": "2012-10-08",
+  "publish_timestamp_ms": 1349692451000,
+  "version_id": "a6ed5a79-3193-41e8-9264-7e3d67078e2b",
+  "in_force": "2012-10-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92434%CE%A9%CE%9B%CE%94-%CE%9D2%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92434%CE%A9%CE%9B%CE%94-%CE%9D2%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92434%CE%A9%CE%9B%CE%94-%CE%9D2%CE%A6",
+  "listing_sha256": "e66d63099cd8e75fc3743dcd4e922b438554190648bbf8d04db946ab7887ae5a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
