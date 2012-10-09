@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΒΩΨ3-ΤΡΡ",
+  "subject": "Ψήφισης πίστωσης 3.400,00 € για έξοδα πολιτιστικών εκδηλώσεων",
+  "protocol_number": "5075",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6041",
+    "label": "ΔΗΜΟΣ ΑΡΓΙΘΕΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83024"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-08-07",
+  "posted": "2012-10-09",
+  "publish_timestamp_ms": 1349775592000,
+  "version_id": "652f6c26-7aa7-4472-8931-c47bc9ea5c0e",
+  "in_force": "2012-10-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%92%CE%A9%CE%A83-%CE%A4%CE%A1%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%92%CE%A9%CE%A83-%CE%A4%CE%A1%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%92%CE%A9%CE%A83-%CE%A4%CE%A1%CE%A1",
+  "listing_sha256": "430d9f9db4deed2850e358c7b89d6fa97e937b6679db979be0666c2ad101379e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
