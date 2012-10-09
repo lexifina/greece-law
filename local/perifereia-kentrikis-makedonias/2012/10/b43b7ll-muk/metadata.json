@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43Β7ΛΛ-ΜΘΚ",
+  "subject": "ΙΔΙΩΤΙΚΟ ΣΥΜΦΩΝΗΤΙΚΟ",
+  "protocol_number": "371890/6674/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5009",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80410"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-09",
+  "posted": "2012-10-09",
+  "publish_timestamp_ms": 1349781710000,
+  "version_id": "b8996f52-9709-47bd-9aac-8187081a49b0",
+  "in_force": "2012-10-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%927%CE%9B%CE%9B-%CE%9C%CE%98%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%927%CE%9B%CE%9B-%CE%9C%CE%98%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%927%CE%9B%CE%9B-%CE%9C%CE%98%CE%9A",
+  "listing_sha256": "d5c5edc2d49cc3e879245c187e60b69fcd5d4937efffe049720a57e227d8f021",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
