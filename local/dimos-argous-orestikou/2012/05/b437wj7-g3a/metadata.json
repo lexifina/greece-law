@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β437ΩΞ7-Γ3Α",
+  "subject": "Γνωμοδοτήσεις Επιτροπής Ποιότητας Ζωής του Δήμου Ορεστίδος.",
+  "protocol_number": "7669",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6226",
+    "label": "ΔΗΜΟ ΑΡΓΟΥΣ ΟΡΕΣΤΙΚΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85994"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-30",
+  "posted": "2012-10-10",
+  "publish_timestamp_ms": 1349856500000,
+  "version_id": "557be80e-3d11-423a-a5cf-724549d2540c",
+  "in_force": "2012-10-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92437%CE%A9%CE%9E7-%CE%933%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92437%CE%A9%CE%9E7-%CE%933%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92437%CE%A9%CE%9E7-%CE%933%CE%91",
+  "listing_sha256": "ef989f5a51f0bda2074974596be4bd9f69529af2c4e365fe396f5f3792801641",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
