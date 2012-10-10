@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β437ΩΨ9-ΞΚ5",
+  "subject": "Κυκλοφοριακή ρύθμιση με τοποθέτηση νησίδας",
+  "protocol_number": "081922",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78787"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΤΝΩΨ9-Γ8Λ"
+      }
+    ]
+  },
+  "issued": "2012-10-10",
+  "posted": "2012-10-10",
+  "publish_timestamp_ms": 1349860201000,
+  "version_id": "02f0e412-0632-4185-a350-30394976a4ae",
+  "in_force": "2012-10-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92437%CE%A9%CE%A89-%CE%9E%CE%9A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92437%CE%A9%CE%A89-%CE%9E%CE%9A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92437%CE%A9%CE%A89-%CE%9E%CE%9A5",
+  "listing_sha256": "a51e9f537f8422dcf629d53fa77a844fcd1cfbe2d95cfc596fd616d1af8a3fea",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
