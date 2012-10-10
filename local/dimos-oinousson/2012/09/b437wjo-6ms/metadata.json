@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β437ΩΞΟ-6ΜΣ",
+  "subject": "Εγκριση πρωτοκόλλου παραλαβής για προμήθεια φαναριών.",
+  "protocol_number": "81",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6223",
+    "label": "ΔΗΜΟΣ ΟΙΝΟΥΣΣΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83649"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΤΜΩΞΟ-Υ96"
+      }
+    ]
+  },
+  "issued": "2012-09-28",
+  "posted": "2012-10-10",
+  "publish_timestamp_ms": 1349850621000,
+  "version_id": "69771e80-94ae-42e7-b902-a080f5df01eb",
+  "in_force": "2012-10-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92437%CE%A9%CE%9E%CE%9F-6%CE%9C%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92437%CE%A9%CE%9E%CE%9F-6%CE%9C%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92437%CE%A9%CE%9E%CE%9F-6%CE%9C%CE%A3",
+  "listing_sha256": "1d58f8e0d80bd017ee43ad7364208b6f7d67edb20379339c3f4aad2b1aded555",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
