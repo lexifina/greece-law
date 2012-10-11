@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΩΩΨΝ-3Ξ7",
+  "subject": "ΟΡΙΣΜΟΣ ΥΠΑΛΛΗΛΟΥ.",
+  "protocol_number": "39192",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6048",
+    "label": "ΔΗΜΟΣ ΑΣΠΡΟΠΥΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88736"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-11",
+  "posted": "2012-10-11",
+  "publish_timestamp_ms": 1349948188000,
+  "version_id": "88749880-7ef4-4e27-a903-c1d16a0bb64b",
+  "in_force": "2012-10-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%A9%CE%A9%CE%A8%CE%9D-3%CE%9E7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%A9%CE%A9%CE%A8%CE%9D-3%CE%9E7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%A9%CE%A9%CE%A8%CE%9D-3%CE%9E7",
+  "listing_sha256": "d6baaabd09cdcc11916e105119fb5405a3f4df6f1ae39c0a6c8c34f0e6924c7c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
