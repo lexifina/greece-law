@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β436Ω9Γ-ΕΕ5",
+  "subject": "Μετακίνηση υπαλλήλου για εκτέλεση υπηρεσίας εκτός έδρας",
+  "protocol_number": "41509",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6069",
+    "label": "ΔΗΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81761"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-11",
+  "posted": "2012-10-12",
+  "publish_timestamp_ms": 1350029077000,
+  "version_id": "cd2cf7b0-47e0-4b10-8eb6-f2a84d295be5",
+  "in_force": "2012-10-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92436%CE%A99%CE%93-%CE%95%CE%955",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92436%CE%A99%CE%93-%CE%95%CE%955/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92436%CE%A99%CE%93-%CE%95%CE%955",
+  "listing_sha256": "d6baaabd09cdcc11916e105119fb5405a3f4df6f1ae39c0a6c8c34f0e6924c7c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
