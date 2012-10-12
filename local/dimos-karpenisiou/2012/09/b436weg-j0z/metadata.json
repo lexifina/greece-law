@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β436ΩΕΓ-Ξ0Ζ",
+  "subject": "ΑΠΟΦΑΣΗ ΜΕΙΩΣΗΣ ΕΓΓΥΗΣΕΩΝ",
+  "protocol_number": "21777",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6137",
+    "label": "ΔΗΜΟΣ ΚΑΡΠΕΝΗΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83746"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-09-28",
+  "posted": "2012-10-12",
+  "publish_timestamp_ms": 1350018472000,
+  "version_id": "fe4f190f-c323-4f04-97ea-b5b71b40dddf",
+  "in_force": "2012-10-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92436%CE%A9%CE%95%CE%93-%CE%9E0%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92436%CE%A9%CE%95%CE%93-%CE%9E0%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92436%CE%A9%CE%95%CE%93-%CE%9E0%CE%96",
+  "listing_sha256": "1d58f8e0d80bd017ee43ad7364208b6f7d67edb20379339c3f4aad2b1aded555",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
