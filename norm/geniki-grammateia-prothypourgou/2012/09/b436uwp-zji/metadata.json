@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β436ΘΩΠ-ΖΞΙ",
+  "subject": "Τροποποίηση της υπ’ αριθ. Υ64/29.12.2011 απόφασης του Πρωθυπουργού «Αναδιάρθρωση και σύνθεση σε προσωπικό της Γενικής Γραμματείας Πρωθυπουργού»",
+  "protocol_number": "Υ179",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "70711"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "2483"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-09-12",
+  "posted": "2012-10-12",
+  "publish_timestamp_ms": 1350036861000,
+  "version_id": "29067cf8-2ac3-408d-a325-f11770e515c9",
+  "in_force": "2012-10-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92436%CE%98%CE%A9%CE%A0-%CE%96%CE%9E%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92436%CE%98%CE%A9%CE%A0-%CE%96%CE%9E%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92436%CE%98%CE%A9%CE%A0-%CE%96%CE%9E%CE%99",
+  "listing_sha256": "cc093e48502f3a0c36b599538f4f99f6d8bb94c2ed4fec14165d0dd3cbc1e7c6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
