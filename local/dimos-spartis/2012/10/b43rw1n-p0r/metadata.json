@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΡΩ1Ν-Π0Ρ",
+  "subject": "Έλεγχος επικαιροποιημένων δικαιολογητικών ΕΔΕ ΜΠΟΥΣΟΥΛΑ ΕΠΑΜΕΙΝΩΝΔΑ, πρώτου μειοδότη του έργου ΔΗΜΟΤΙΚΗ ΟΔΟΠΟΙΙΑ ΔΗΜΟΤΙΚΗΣ ΕΝΟΤΗΤΑΣ ΜΥΣΤΡΑ",
+  "protocol_number": "47253",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6286",
+    "label": "ΔΗΜΟΣ ΣΠΑΡΤΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΟΝΝΩ1Ν-ΓΔ5"
+      }
+    ]
+  },
+  "issued": "2012-10-15",
+  "posted": "2012-10-15",
+  "publish_timestamp_ms": 1350297902000,
+  "version_id": "a685ce59-11db-48dc-b833-2beb3bbfd978",
+  "in_force": "2012-10-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%A1%CE%A91%CE%9D-%CE%A00%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%A1%CE%A91%CE%9D-%CE%A00%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%A1%CE%A91%CE%9D-%CE%A00%CE%A1",
+  "listing_sha256": "0c39bf1262e95f9eaf966e6ffed187fea79e5bee140a113b34e2f8078e5f4bc2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
