@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΡΩ90-9ΒΙ",
+  "subject": "299/2012 AOE Έγκριση μελέτης, ψήφιση πίστωσης και καθορισμός τρόπου εκτέλεσης του έργου “Τσιμεντοστρώσεις – χαλικοστρώσεις αγροτικών δρόμων σε δύσβατα σημεία Τ.Κ. Τριποταμιάς” ποσού 10.644,81 €",
+  "protocol_number": "299/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6068",
+    "label": "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82015"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-08-29",
+  "posted": "2012-10-15",
+  "publish_timestamp_ms": 1350287877000,
+  "version_id": "c35ca642-1c04-4375-b842-a64dfaaac332",
+  "in_force": "2012-10-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%A1%CE%A990-9%CE%92%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%A1%CE%A990-9%CE%92%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%A1%CE%A990-9%CE%92%CE%99",
+  "listing_sha256": "25aac0546e9eb29f05a7e52f100cb0e24ca3409e2dde90c6e341ff310a84aeb4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
