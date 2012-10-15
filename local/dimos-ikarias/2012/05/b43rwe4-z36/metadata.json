@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΡΩΕ4-Ζ36",
+  "subject": "ΣΥΜΒΑΣΗ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ",
+  "protocol_number": "6087",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6122",
+    "label": "ΔΗΜΟΣ ΙΚΑΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-16",
+  "posted": "2012-10-15",
+  "publish_timestamp_ms": 1350290949000,
+  "version_id": "54aa7b52-237b-4f69-b8cc-6fdae46ddc68",
+  "in_force": "2012-10-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%A1%CE%A9%CE%954-%CE%9636",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%A1%CE%A9%CE%954-%CE%9636/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%A1%CE%A9%CE%954-%CE%9636",
+  "listing_sha256": "c611d45db955c00b5a4d4e91f88057db10478ee466b4e2124424177d5a67c22a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
