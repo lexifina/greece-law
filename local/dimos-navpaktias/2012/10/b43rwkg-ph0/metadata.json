@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΡΩΚΓ-ΠΗ0",
+  "subject": "Απόφαση 427/2012 Δ.Σ. με θέμα: Παραχώρηση  εργαστηρίου ελέγχου ποιότητας ύδατος του Δήμου Ναυπακτίας Δ.Ε. Αποδοτίας στην ΔΕΥΑΝ.",
+  "protocol_number": "427/2012 Δ.Σ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6205",
+    "label": "ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78825"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-07",
+  "posted": "2012-10-15",
+  "publish_timestamp_ms": 1350284517000,
+  "version_id": "87058860-e89f-433f-bcf8-d077a4145484",
+  "in_force": "2012-10-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%A1%CE%A9%CE%9A%CE%93-%CE%A0%CE%970",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%A1%CE%A9%CE%9A%CE%93-%CE%A0%CE%970/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%A1%CE%A9%CE%9A%CE%93-%CE%A0%CE%970",
+  "listing_sha256": "3a8e007555427691f1e6c294f9c722bb9a62ebc42d0ab3ee1fe3b4660fd64d6a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
