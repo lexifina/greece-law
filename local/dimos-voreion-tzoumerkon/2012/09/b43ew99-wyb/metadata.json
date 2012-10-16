@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΕΩ99-ΩΥΒ",
+  "subject": "ΕΝΤΟΛΗ ΜΑΤΕΚΙΝΗΣΗΣ (ΖΙΩΓΑΣ ΙΩΣΗΦ) για την 10/09/2012",
+  "protocol_number": "11913/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6060",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΩΝ ΤΖΟΥΜΕΡΚΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-09-10",
+  "posted": "2012-10-16",
+  "publish_timestamp_ms": 1350378999000,
+  "version_id": "eaed0b12-7d09-4d52-9fae-52d595bac9ba",
+  "in_force": "2012-10-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%95%CE%A999-%CE%A9%CE%A5%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%95%CE%A999-%CE%A9%CE%A5%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%95%CE%A999-%CE%A9%CE%A5%CE%92",
+  "listing_sha256": "795112c1a03846f44bc7e839bfb9ed9747702e597021123910bfce1d8c656c68",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
