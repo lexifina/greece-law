@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΕΟΡ10-62Ξ",
+  "subject": "Έγκριση της υπ’ αριθμ. 213/2012 απόφασης του Περιφερειακού Συμβουλίου της Περιφέρειας Θεσσαλίας",
+  "protocol_number": "17751/201423",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76991"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΤΧ7ΛΡ-ΑΣΒ"
+      }
+    ]
+  },
+  "issued": "2012-10-16",
+  "posted": "2012-10-16",
+  "publish_timestamp_ms": 1350380462000,
+  "version_id": "6231c857-f41f-4720-8fd4-c14c60eb6f84",
+  "in_force": "2012-10-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%95%CE%9F%CE%A110-62%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%95%CE%9F%CE%A110-62%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%95%CE%9F%CE%A110-62%CE%9E",
+  "listing_sha256": "ce79c791f6becc406b7e227cc5df304394ec5cc9ed4f74c7ceb8b3fb995aebe6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
