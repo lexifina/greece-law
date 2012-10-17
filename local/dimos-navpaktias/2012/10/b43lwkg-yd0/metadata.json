@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΛΩΚΓ-ΥΔ0",
+  "subject": "Απόφαση οριστικής διακοπής χρέωσης τροφείων σε ορισμένα νήπια των 1ου, 2ου, 3ου Παιδικών Σταθμών Ναυπάκτου",
+  "protocol_number": "35520",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6205",
+    "label": "ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "89560"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-09",
+  "posted": "2012-10-17",
+  "publish_timestamp_ms": 1350454780000,
+  "version_id": "b8cb1368-7fc4-4b36-af9d-af6bc86a3a75",
+  "in_force": "2012-10-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%9B%CE%A9%CE%9A%CE%93-%CE%A5%CE%940",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%9B%CE%A9%CE%9A%CE%93-%CE%A5%CE%940/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%9B%CE%A9%CE%9A%CE%93-%CE%A5%CE%940",
+  "listing_sha256": "d62f87c88f1dd1a549134e9de76b15c4cbe4b1528663139acc931cf705c47a67",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
