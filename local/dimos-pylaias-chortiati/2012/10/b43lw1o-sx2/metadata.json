@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΛΩ1Ο-ΣΧ2",
+  "subject": "ΨΗΦΙΣΗ ΠΙΣΤΩΣΗΣ ΠΟΣΟΥ 14.830,00€ ΓΙΑ ΤΗΝ ΜΕΤΑΛΛΙΚΗΣ ΚΑΤΑΣΚΕΥΗΣ ΜΕ ΟΛΟ ΤΟΝ ΑΠΑΡΑΙΤΗΤΟ ΕΞΟΠΛΙΣΜΟ ΓΙΑ ΔΗΜΙΟΥΡΓΙΑ ΣΗΜΕΙΟΥ ΑΣΥΡΜΑΤΗΣ ΣΥΝΔΕΣΗΣ ΣΤΟ ΔΙΑΔΙΚΤΥΟ",
+  "protocol_number": "50134",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6257",
+    "label": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80518"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-15",
+  "posted": "2012-10-17",
+  "publish_timestamp_ms": 1350465745000,
+  "version_id": "5530fbbf-0077-40fd-9762-c357c908498d",
+  "in_force": "2012-10-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%9B%CE%A91%CE%9F-%CE%A3%CE%A72",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%9B%CE%A91%CE%9F-%CE%A3%CE%A72/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%9B%CE%A91%CE%9F-%CE%A3%CE%A72",
+  "listing_sha256": "0c39bf1262e95f9eaf966e6ffed187fea79e5bee140a113b34e2f8078e5f4bc2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
