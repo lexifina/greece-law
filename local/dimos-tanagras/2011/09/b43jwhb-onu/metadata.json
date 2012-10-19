@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΞΩΗΒ-ΟΝΘ",
+  "subject": "ΠΕΡΙΛΗΨΗ ΔΙΑΚΗΡΥΞΗΣ ΔΗΜΑΡΧΟΥ",
+  "protocol_number": "17078",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6293",
+    "label": "ΔΗΜΟΣ ΤΑΝΑΓΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80657"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-09-20",
+  "posted": "2012-10-19",
+  "publish_timestamp_ms": 1350640329000,
+  "version_id": "9ff038e2-6d2d-4353-94c8-861cbd522d9d",
+  "in_force": "2012-10-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%9E%CE%A9%CE%97%CE%92-%CE%9F%CE%9D%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%9E%CE%A9%CE%97%CE%92-%CE%9F%CE%9D%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%9E%CE%A9%CE%97%CE%92-%CE%9F%CE%9D%CE%98",
+  "listing_sha256": "3033a5654e9ff4734d9d6d412d769c49a700119e319e39fec8218b1e45e50851",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
