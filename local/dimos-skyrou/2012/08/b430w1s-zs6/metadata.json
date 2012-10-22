@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β430Ω1Σ-ΖΣ6",
+  "subject": "τροποποίηση προϋπολογισμού",
+  "protocol_number": "24ΑΠΟΦΑΣΗ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6282",
+    "label": "ΔΗΜΟΣ ΣΚΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88436"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-08-16",
+  "posted": "2012-10-22",
+  "publish_timestamp_ms": 1350903851000,
+  "version_id": "e866cc23-ebe9-4173-bd86-f116b5f07af1",
+  "in_force": "2012-10-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92430%CE%A91%CE%A3-%CE%96%CE%A36",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92430%CE%A91%CE%A3-%CE%96%CE%A36/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92430%CE%A91%CE%A3-%CE%96%CE%A36",
+  "listing_sha256": "a70cacd440b8ba49424197eb0777f7d4e3fea1bdeb3b96f38175c463ba4cf921",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
