@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4307Λ6-ΝΧ7",
+  "subject": "Εντολή Κατανομής ποσού από την ΣΑΜΠ 001 της Περιφέρειας Δυτικής Ελλάδας",
+  "protocol_number": "253837/3832",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5004",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78382"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-22",
+  "posted": "2012-10-22",
+  "publish_timestamp_ms": 1350904879000,
+  "version_id": "50016cb2-c4ba-4cb1-8cf1-c4bcdf057599",
+  "in_force": "2012-10-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924307%CE%9B6-%CE%9D%CE%A77",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924307%CE%9B6-%CE%9D%CE%A77/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924307%CE%9B6-%CE%9D%CE%A77",
+  "listing_sha256": "9144fa95b1405bcba46bd531a5b682267229000f2e146f18cec9a850b7fe7607",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
