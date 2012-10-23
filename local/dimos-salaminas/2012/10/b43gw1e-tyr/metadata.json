@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΓΩ1Ε-ΤΥΡ",
+  "subject": "ΑΠΟΦΑΣΗ  443/2012  ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ ΔΗΜΟΥ ΣΑΛΑΜΙΝΑΣ  ΠΟΥ ΑΦΟΡΑ «Απόδοση λογ/σμού του υπ’ αρίθμ. 359/2012 χρημ. εντάλματος προπληρωμής, ποσού 4.000,00 €, που αφορά  έκδοση κάρτας ΚΤΕΟ οχημάτων του Δήμου Σαλαμίνας 2012».",
+  "protocol_number": "443/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6266",
+    "label": "ΔΗΜΟΣ ΣΑΛΑΜΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82820"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-23",
+  "posted": "2012-10-23",
+  "publish_timestamp_ms": 1350987823000,
+  "version_id": "2c1fff34-245e-4f3d-9984-2d7ea157c2d7",
+  "in_force": "2012-10-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%93%CE%A91%CE%95-%CE%A4%CE%A5%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%93%CE%A91%CE%95-%CE%A4%CE%A5%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%93%CE%A91%CE%95-%CE%A4%CE%A5%CE%A1",
+  "listing_sha256": "cf5ff7c3beab6f4843788dc8d2bc5539868a33027c4262c931829ad8c094a775",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
