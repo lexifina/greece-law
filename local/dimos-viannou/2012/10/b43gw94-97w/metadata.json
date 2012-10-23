@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΓΩ94-97Ω",
+  "subject": "Πρόσκληση Ο.Ε. της 29-10-2012",
+  "protocol_number": "9195",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6054",
+    "label": "ΔΗΜΟΣ ΒΙΑΝΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81442"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-23",
+  "posted": "2012-10-23",
+  "publish_timestamp_ms": 1350978369000,
+  "version_id": "68333b87-b0c2-4dc6-8b77-f854c1eb015b",
+  "in_force": "2012-10-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%93%CE%A994-97%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%93%CE%A994-97%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%93%CE%A994-97%CE%A9",
+  "listing_sha256": "cf5ff7c3beab6f4843788dc8d2bc5539868a33027c4262c931829ad8c094a775",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
