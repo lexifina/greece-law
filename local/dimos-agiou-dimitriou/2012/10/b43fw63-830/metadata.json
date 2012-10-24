@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΦΩ63-830",
+  "subject": "Λήψη απόφασης για διάθεση εργαστηρίου σχεδιαστήριο-ΕΠΑΛ Αγίου Δημητρίου.",
+  "protocol_number": "96/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6007",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86785"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-10",
+  "posted": "2012-10-24",
+  "publish_timestamp_ms": 1351066857000,
+  "version_id": "14d0d2b2-b66f-45d4-8ebe-93df53377f36",
+  "in_force": "2012-10-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%A6%CE%A963-830",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%A6%CE%A963-830/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%A6%CE%A963-830",
+  "listing_sha256": "07302f90e56245e320b93280c2b82349b11e117aa7e26f3c19a1b733c6c889ad",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
