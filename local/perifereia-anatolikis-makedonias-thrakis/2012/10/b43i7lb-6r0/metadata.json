@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43Ι7ΛΒ-6Ρ0",
+  "subject": "Κατανομή χρηματοδότησης της ΣΑΜΠ 031/3 ποσού 123.611,24 €",
+  "protocol_number": "92891/3805",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5001",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79944"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-25",
+  "posted": "2012-10-25",
+  "publish_timestamp_ms": 1351157102000,
+  "version_id": "ef81e932-d410-42b2-9433-4ee0b2eee073",
+  "in_force": "2012-10-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%997%CE%9B%CE%92-6%CE%A10",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%997%CE%9B%CE%92-6%CE%A10/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%997%CE%9B%CE%92-6%CE%A10",
+  "listing_sha256": "8cf1cd1d1683963c2baed19c6b79fbce375efbe0326c702b2fd35eb2fe2bb777",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
