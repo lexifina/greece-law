@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΘΩΨΙ-ΘΥΗ",
+  "subject": "Περί έγκρισης εξόφλησης οφειλών των σχολείων A/θμιας Εκπαίδευσης",
+  "protocol_number": "13",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6037",
+    "label": "ΔΗΜΟΣ ΑΝΔΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88050"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-19",
+  "posted": "2012-10-26",
+  "publish_timestamp_ms": 1351237102000,
+  "version_id": "a6ea30d8-21b4-4cbb-88be-67cdb88de916",
+  "in_force": "2012-10-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%98%CE%A9%CE%A8%CE%99-%CE%98%CE%A5%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%98%CE%A9%CE%A8%CE%99-%CE%98%CE%A5%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%98%CE%A9%CE%A8%CE%99-%CE%98%CE%A5%CE%97",
+  "listing_sha256": "67819fe1f2f7d411f325785ce1ee3f9760c94809e68a9076547d53fcfd570eb2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
