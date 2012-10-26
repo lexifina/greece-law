@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΘΗ-Θ77",
+  "subject": "ΕΓΚΡΙΣΗ ΜΕΤΑΚΙΝΗΣΗΣ ΕΕ ΣΤΟ ΠΑΡΙΣΙ ΤΗΣ ΔΗΜΗΤΡΟΠΟΥΛΟΥ Γ 24/10-26/10/21012",
+  "protocol_number": "1148042",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70115"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-26",
+  "posted": "2012-10-26",
+  "publish_timestamp_ms": 1351245402000,
+  "version_id": "db7faca6-076a-4e79-9eb3-2998eada7166",
+  "in_force": "2012-10-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%98%CE%97-%CE%9877",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%98%CE%97-%CE%9877/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%98%CE%97-%CE%9877",
+  "listing_sha256": "52c639c4639cb6f0093eaedf8a56ace307c65a36ebae9112f6ea9f28312b7884",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
