@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4337ΛΒ-ΩΑΡ",
+  "subject": "ΑΠΟΦΑΣΗ ΟΡΙΣΜΟΥ ΥΠΟΛΟΓΟΥ",
+  "protocol_number": "95035/3866",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5001",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79962"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-29",
+  "posted": "2012-10-29",
+  "publish_timestamp_ms": 1351498660000,
+  "version_id": "1b596ac7-5c04-4d03-8f36-290f50ffbe2c",
+  "in_force": "2012-10-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924337%CE%9B%CE%92-%CE%A9%CE%91%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924337%CE%9B%CE%92-%CE%A9%CE%91%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924337%CE%9B%CE%92-%CE%A9%CE%91%CE%A1",
+  "listing_sha256": "c27b95e1f9d7b5aeeed94d0880b91d13196f65b2bf3e4b0fc5c1b961ec498780",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
