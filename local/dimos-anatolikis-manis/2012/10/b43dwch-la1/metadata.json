@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β43ΔΩΨΗ-ΛΑ1",
+  "subject": "332/2012 ΑΟΕ με θέμα: Κατάρτιση τεχνικής περιγραφής των εργασιών και ανταλλακτικών που απαιτούνται για τη συντήρηση και επισκευή του ΚΗΥ 2413 οχήματος του Δήμου.",
+  "protocol_number": "332/2012 ΑΟΕ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6033",
+    "label": "ΔΗΜΟΣ ΑΝΑΤΟΛΙΚΗΣ ΜΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85044"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-26",
+  "posted": "2012-10-30",
+  "publish_timestamp_ms": 1351601927000,
+  "version_id": "2c29accb-aeff-462b-b95c-3992b53fee45",
+  "in_force": "2012-10-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%94%CE%A9%CE%A8%CE%97-%CE%9B%CE%911",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9243%CE%94%CE%A9%CE%A8%CE%97-%CE%9B%CE%911/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9243%CE%94%CE%A9%CE%A8%CE%97-%CE%9B%CE%911",
+  "listing_sha256": "062300824d62902babd0309f08c2b01d627d28b9137901aa797e6f64310f30a6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
