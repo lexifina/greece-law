@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β42ΑΩΚΨ-Η3Λ",
+  "subject": "Έγκριση πρακτικού δημοπρασίας για την εκτέλεση της εργασίας ‘’ «Μεταφορά Μαθητών   πρωτοβάθμιας και δευτεροβάθμιας   εκπαίδευσης Δήμου Αγίου Νικολάου έτος 2012-2013»",
+  "protocol_number": "22652",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6195",
+    "label": "ΔΗΜΟΣ AΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81923"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_DDS",
+      "issueyear": 2012,
+      "aa": "514"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΓΛΩΚΨ-Π6Π"
+      }
+    ]
+  },
+  "issued": "2012-10-30",
+  "posted": "2012-11-01",
+  "publish_timestamp_ms": 1351768148000,
+  "version_id": "5fcf7871-8ded-49fa-a31e-84b4ea7938b9",
+  "in_force": "2012-11-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9242%CE%91%CE%A9%CE%9A%CE%A8-%CE%973%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9242%CE%91%CE%A9%CE%9A%CE%A8-%CE%973%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9242%CE%91%CE%A9%CE%9A%CE%A8-%CE%973%CE%9B",
+  "listing_sha256": "aea3d9a9ee57ee2ceea2cdaedd78bc06e8f3e4fca7b5d73984a2ba4be608fff7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
