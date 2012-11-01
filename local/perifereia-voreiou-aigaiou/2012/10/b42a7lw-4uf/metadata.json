@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β42Α7ΛΩ-4ΘΦ",
+  "subject": "Έγκριση τροποποίησης της σύμβασης για την προμήθεια των υγρών καυσίμων",
+  "protocol_number": "ΟΕ686/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5003",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "84889"
+  ],
+  "thematic_category_ids": [
+    "08"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΟΖΑ7ΛΩ-Ν6Φ"
+      }
+    ]
+  },
+  "issued": "2012-10-30",
+  "posted": "2012-11-01",
+  "publish_timestamp_ms": 1351753615000,
+  "version_id": "7bc7fccf-4821-4fff-8cd9-f1aa9de3eb1d",
+  "in_force": "2012-11-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9242%CE%917%CE%9B%CE%A9-4%CE%98%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9242%CE%917%CE%9B%CE%A9-4%CE%98%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9242%CE%917%CE%9B%CE%A9-4%CE%98%CE%A6",
+  "listing_sha256": "aea3d9a9ee57ee2ceea2cdaedd78bc06e8f3e4fca7b5d73984a2ba4be608fff7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
