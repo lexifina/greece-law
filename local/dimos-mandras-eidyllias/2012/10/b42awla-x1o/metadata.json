@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β42ΑΩΛΑ-Χ1Ο",
+  "subject": "ΑΠΟΦΑΣΗ 873/2012 Ο. Ε    Έγκριση δαπάνης και διάθεση πίστωσης ποσού 6.000,00€ από τον ΚΑ  30.7311.0011 με τίτλο : «Συντηρήσεις κτιρίων δημοτικής ευθύνης ΔΕ Ερυθρών »",
+  "protocol_number": "22000",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6181",
+    "label": "ΔΗΜΟΣ ΜΑΝΔΡΑΣ - ΕΙΔΥΛΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83442"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-22",
+  "posted": "2012-11-01",
+  "publish_timestamp_ms": 1351753067000,
+  "version_id": "7cf0cd5d-86bc-4aa7-bedc-66bb86247dbd",
+  "in_force": "2012-11-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9242%CE%91%CE%A9%CE%9B%CE%91-%CE%A71%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9242%CE%91%CE%A9%CE%9B%CE%91-%CE%A71%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9242%CE%91%CE%A9%CE%9B%CE%91-%CE%A71%CE%9F",
+  "listing_sha256": "ebc43d48d70684c03de6df10a3ac2ea9873b4eac140b43477a4dc2c3c20c2651",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
