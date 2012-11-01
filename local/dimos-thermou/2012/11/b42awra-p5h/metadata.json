@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β42ΑΩΡΑ-Π5Η",
+  "subject": "ΑΠΟΣΤΟΛΗ 295/2012 ΑΔΣ:«Προτάσεις Συμβουλίου Τοπικής Κοινότητας Σιταραλώνων»",
+  "protocol_number": "6569",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6113",
+    "label": "ΔΗΜΟΣ ΘΕΡΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81712"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-01",
+  "posted": "2012-11-01",
+  "publish_timestamp_ms": 1351768237000,
+  "version_id": "79bf3222-87d5-49e1-8038-305dfe16774e",
+  "in_force": "2012-11-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9242%CE%91%CE%A9%CE%A1%CE%91-%CE%A05%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9242%CE%91%CE%A9%CE%A1%CE%91-%CE%A05%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9242%CE%91%CE%A9%CE%A1%CE%91-%CE%A05%CE%97",
+  "listing_sha256": "6527679220026e8be5c80978250caf05910f0eb571f3c5842aafd83c8eb96b10",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
