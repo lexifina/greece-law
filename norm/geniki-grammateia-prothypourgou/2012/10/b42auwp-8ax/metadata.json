@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β42ΑΘΩΠ-8ΑΧ",
+  "subject": "Αυτοδίκαια άρση απόσπασης Ειδικής Συμβούλου στη Γενική Γραμματεία Πρωθυπουργού",
+  "protocol_number": "Υ 202",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "70711"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_fektype_AEEPPE",
+      "issueyear": 2012,
+      "aa": "496"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-24",
+  "posted": "2012-11-01",
+  "publish_timestamp_ms": 1351763844000,
+  "version_id": "3cb3b369-049e-4f29-9327-4a3f5e88c9e9",
+  "in_force": "2012-11-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9242%CE%91%CE%98%CE%A9%CE%A0-8%CE%91%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9242%CE%91%CE%98%CE%A9%CE%A0-8%CE%91%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9242%CE%91%CE%98%CE%A9%CE%A0-8%CE%91%CE%A7",
+  "listing_sha256": "d8e8751f0795cb5586329296a0892dfd046b2c97d37cbd10f406a97fd6384d08",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
