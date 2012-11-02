@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β425ΩΚΡ-0ΨΞ",
+  "subject": "Λήψη απόφασης για την προέγκριση άδειας ίδρυσης και λειτουργίας καταστήματος ως > νομίμως εκπροσωπουμένης από τον κ. ΚΑΤΣΑΝΤΟΥΛΑ ΠΑΝΤΕΛΗ κειμένου επί της οδού Λαμίας 4, στον Ταύρο.",
+  "protocol_number": "30060",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6197",
+    "label": "ΔΗΜΟΣ ΜΟΣΧΑΤΟΥ - ΤΑΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83359"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β425ΩΚΡ-2Σ3"
+      }
+    ]
+  },
+  "issued": "2012-11-02",
+  "posted": "2012-11-02",
+  "publish_timestamp_ms": 1351866740000,
+  "version_id": "d50d9fdc-bcfd-4290-bbdb-39d158536170",
+  "in_force": "2012-11-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92425%CE%A9%CE%9A%CE%A1-0%CE%A8%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92425%CE%A9%CE%9A%CE%A1-0%CE%A8%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92425%CE%A9%CE%9A%CE%A1-0%CE%A8%CE%9E",
+  "listing_sha256": "1341190f446ca86d1080f1aa3146c01bf5ce7c48d2b3bf0036df6be203f69017",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
