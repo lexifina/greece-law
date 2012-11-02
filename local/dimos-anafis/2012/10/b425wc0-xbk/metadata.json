@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β425ΩΨ0-ΧΒΚ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ",
+  "protocol_number": "977",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6034",
+    "label": "ΔΗΜΟΣ ΑΝΑΦΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-18",
+  "posted": "2012-11-02",
+  "publish_timestamp_ms": 1351843195000,
+  "version_id": "1265b076-521b-40dc-8920-ce1b6e3804a3",
+  "in_force": "2012-11-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92425%CE%A9%CE%A80-%CE%A7%CE%92%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92425%CE%A9%CE%A80-%CE%A7%CE%92%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92425%CE%A9%CE%A80-%CE%A7%CE%92%CE%9A",
+  "listing_sha256": "9f80f880738b063116a961a61efaab1f01bd82264c36408f813050fc688ccb6e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
