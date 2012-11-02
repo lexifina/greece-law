@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β425Η-ΥΗΡ",
+  "subject": "ΑΠΟΦΑΣΗ ΕΓΚΡΙΣΗΣ ΔΑΠΑΝΗΣ",
+  "protocol_number": "5931",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "73510"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-01",
+  "posted": "2012-11-02",
+  "publish_timestamp_ms": 1351844221000,
+  "version_id": "2a5bbab7-2097-40b0-baf8-c4be9fff349b",
+  "in_force": "2012-11-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92425%CE%97-%CE%A5%CE%97%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92425%CE%97-%CE%A5%CE%97%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92425%CE%97-%CE%A5%CE%97%CE%A1",
+  "listing_sha256": "6527679220026e8be5c80978250caf05910f0eb571f3c5842aafd83c8eb96b10",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
