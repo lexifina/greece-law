@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β425ΩΗΝ-Β5Η",
+  "subject": "Απόφαση Οικονομικής Επιτροπής 975/2012 Απόδοση λογαριασμού εκδοθέντων ΧΕΠ",
+  "protocol_number": "53060",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84252"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-02",
+  "posted": "2012-11-02",
+  "publish_timestamp_ms": 1351856594000,
+  "version_id": "8a01261b-2d77-4069-b6c1-aaac700637c4",
+  "in_force": "2012-11-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92425%CE%A9%CE%97%CE%9D-%CE%925%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92425%CE%A9%CE%97%CE%9D-%CE%925%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92425%CE%A9%CE%97%CE%9D-%CE%925%CE%97",
+  "listing_sha256": "1341190f446ca86d1080f1aa3146c01bf5ce7c48d2b3bf0036df6be203f69017",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
