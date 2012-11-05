@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β42ΧΟΡ1Υ-ΝΦ3",
+  "subject": "Έγκριση Πρακτικού Παραλαβής Εκτελεσθείσης Εργασίας",
+  "protocol_number": "23721",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77400"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-02",
+  "posted": "2012-11-05",
+  "publish_timestamp_ms": 1352118652000,
+  "version_id": "2f976b0a-e1a8-48cf-b339-56791fa23398",
+  "in_force": "2012-11-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9242%CE%A7%CE%9F%CE%A11%CE%A5-%CE%9D%CE%A63",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9242%CE%A7%CE%9F%CE%A11%CE%A5-%CE%9D%CE%A63/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9242%CE%A7%CE%9F%CE%A11%CE%A5-%CE%9D%CE%A63",
+  "listing_sha256": "6e874dcdc28b270f7ac2d5fc4759a54cefc439d7acfd2cd5e678345b3578e79b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
