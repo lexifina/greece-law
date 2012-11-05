@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β42ΧΩΞΖ-ΘΙΦ",
+  "subject": "Αίτημα της κας. Κοντεσίδου Δήμητρας για την μείωση έκτασης δημοτικών αγροτεμαχίων τα οποία ενοικιάζει από τον Δήμο στην Τ.Κ. Μεγαλοκάμπου.",
+  "protocol_number": "Αριθ. Απόφ: 129/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6255",
+    "label": "ΔΗΜΟΣ ΠΡΟΣΟΤΣΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83903"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-10-27",
+  "posted": "2012-11-05",
+  "publish_timestamp_ms": 1352109141000,
+  "version_id": "f073205a-4056-4741-a501-99981364ccc6",
+  "in_force": "2012-11-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9242%CE%A7%CE%A9%CE%9E%CE%96-%CE%98%CE%99%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9242%CE%A7%CE%A9%CE%9E%CE%96-%CE%98%CE%99%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9242%CE%A7%CE%A9%CE%9E%CE%96-%CE%98%CE%99%CE%A6",
+  "listing_sha256": "148f2237dcf57ad17519cc6553318a0335eefbf3093b191ce3d7055db2b5bb85",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
