@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β42ΧΗ-4ΑΣ",
+  "subject": "Έγκριση αναπροσαρμογής τελών ύδρευσης της εταιρείας Οργανισμός Λιμένα Ραφήνας Α.Ε. (Ο.Λ.Ρ. Α.Ε.)  για το έτος 2012.",
+  "protocol_number": "41338/ΔΕΚΟ 1713",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "2747"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-09-28",
+  "posted": "2012-11-05",
+  "publish_timestamp_ms": 1352111452000,
+  "version_id": "e63720f1-0e2a-48f4-9db8-ef530668fc73",
+  "in_force": "2012-11-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9242%CE%A7%CE%97-4%CE%91%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9242%CE%A7%CE%97-4%CE%91%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9242%CE%A7%CE%97-4%CE%91%CE%A3",
+  "listing_sha256": "2ccaf3e1dc001c9b69021f6f5ee0efd7434cc185ce7b77cc80f4c76d3166f464",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
