@@ -1,0 +1,40 @@
+{
+  "year": 2012,
+  "number": 4092,
+  "url": "https://api.et.gr/apiLAW/1/2012/4092/pdf",
+  "source_sha256": "eff7a4ee83c6d94bf9309426bee78abb2be03d8e10b7329437f40f46c982acb4",
+  "published": "2012-11-08",
+  "in_force": "2012-11-08",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 16,
+  "images": [
+    {
+      "page": 12,
+      "sha256": "293f3c65c3882582d1745d1e7d7582e430a36e5beae89b98bab0b08725c79181",
+      "ext": "png",
+      "bytes": 88,
+      "bbox": [
+        43.7,
+        83.4,
+        531.3,
+        516.4
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "fe4bec79efb6ee1510f170d483f37d029c6d4c64504078fe9473fe85b3888f82",
+      "ext": "png",
+      "bytes": 76887,
+      "bbox": [
+        43.7,
+        83.4,
+        531.3,
+        516.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: qualified commencement: Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επί μέρους διατάξεις του. 5514 ΕΦΗΜΕΡΙΣ"
+}
