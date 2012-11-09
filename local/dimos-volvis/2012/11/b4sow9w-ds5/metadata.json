@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΟΩ9Ω-ΔΣ5",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ 486/2012 - Απόφαση περί έγκρισης της με αριθμό 38/2012 μελέτης προεκτίμησης αμοιβής με τίτλο «Ανάδειξη αξιοθέατων και μνημείων των Δ.Δ. του Δήμου Βόλβης μέσω της χαρτογραφικής απεικόνισης τους, της προβολής τους σε πινακίδες έκθεσης και της αναπαραγωγής τους σε ενημερωτικό-πληροφοριακό υλικό – Χαρτογραφική μελέτη» προϋπολογισμού 3.690,00 € (με Φ.Π.Α.)",
+  "protocol_number": "486/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6057",
+    "label": "ΔΗΜΟΣ ΒΟΛΒΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78101"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-09",
+  "posted": "2012-11-09",
+  "publish_timestamp_ms": 1352447413000,
+  "version_id": "931b17cb-90b1-43e0-8e0e-c4eb20759e5c",
+  "in_force": "2012-11-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%9F%CE%A99%CE%A9-%CE%94%CE%A35",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%9F%CE%A99%CE%A9-%CE%94%CE%A35/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%9F%CE%A99%CE%A9-%CE%94%CE%A35",
+  "listing_sha256": "50bc642a1137a386f09a25eb8efe42b894fa0210d11dd0f3bf60920ef495c969",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
