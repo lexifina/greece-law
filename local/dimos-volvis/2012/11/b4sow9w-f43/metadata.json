@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΟΩ9Ω-Φ43",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ 482/2012 - Απόφαση περί αποδοχής της υπ’αριθ. 7727/02-10-2012 Απόφασης Αναπληρωτή Περιφερειάρχη Κεντρικής Μακεδονίας περί Ένταξης της Πράξης ‘’Υλοποίηση μελέτης δικτύου παρεμβάσεων για την αξιοποίηση της φυσικής και πολιτιστικής κληρονομιάς στην ευρύτερη περιοχή του Δήμου Βόλβης ’’ με κωδικό MIS 380864 στο Επιχειρησιακό Πρόγραμμα ‘’Μακεδονία – Θράκη’’.",
+  "protocol_number": "482/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6057",
+    "label": "ΔΗΜΟΣ ΒΟΛΒΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78101"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-09",
+  "posted": "2012-11-09",
+  "publish_timestamp_ms": 1352444648000,
+  "version_id": "0e1e4a9b-6f05-4a18-bd76-1f19c1129fc0",
+  "in_force": "2012-11-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%9F%CE%A99%CE%A9-%CE%A643",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%9F%CE%A99%CE%A9-%CE%A643/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%9F%CE%A99%CE%A9-%CE%A643",
+  "listing_sha256": "7f6b0912ff6b937018b56cdd028f8f74c02080477769bc5144e42e17e8565160",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
