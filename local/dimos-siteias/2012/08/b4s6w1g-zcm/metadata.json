@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Σ6Ω1Γ-ΖΨΜ",
+  "subject": "ΥΠΟΘΕΣΗ  ΚΛΗΡΟΝΟΜΩΝ  ΒΑΣΙΛΑΚΗ",
+  "protocol_number": "ΑΝΕΥ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6273",
+    "label": "ΔΗΜΟΣ ΣΗΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87959"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-08-30",
+  "posted": "2012-11-14",
+  "publish_timestamp_ms": 1352886163000,
+  "version_id": "ad5817eb-d1b0-42ed-9ee4-6f5f6d8384ee",
+  "in_force": "2012-11-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A36%CE%A91%CE%93-%CE%96%CE%A8%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A36%CE%A91%CE%93-%CE%96%CE%A8%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A36%CE%A91%CE%93-%CE%96%CE%A8%CE%9C",
+  "listing_sha256": "2f6abd17cb15d6bbe4303ad0321f3e0874965498ae75cb6dd7d63a0d14bf1b43",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
