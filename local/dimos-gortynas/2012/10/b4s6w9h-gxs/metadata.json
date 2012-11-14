@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Σ6Ω9Η-ΓΧΣ",
+  "subject": "Ανάθεση και διάθεση πίστωσης ποσού 9.222,01 € για την εκπόνηση της  μελέτης >",
+  "protocol_number": "200/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6067",
+    "label": "ΔΗΜΟΣ ΓΟΡΤΥΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "77929"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β43ΛΩ9Η-ΙΥΝ"
+      }
+    ]
+  },
+  "issued": "2012-10-05",
+  "posted": "2012-11-14",
+  "publish_timestamp_ms": 1352874022000,
+  "version_id": "97c6b4b8-e192-4afb-acb1-3dd5bf024925",
+  "in_force": "2012-11-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A36%CE%A99%CE%97-%CE%93%CE%A7%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A36%CE%A99%CE%97-%CE%93%CE%A7%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A36%CE%A99%CE%97-%CE%93%CE%A7%CE%A3",
+  "listing_sha256": "027561b2dd43d3fe5e8b6f9c88d9ab9172990e146c88d14638ab7b5ba45c2485",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
