@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΨΩΨΙ-Γ2Ε",
+  "subject": "Έγκριση απόφασης Κοινωφελούς Επιχείρησης Δήμου Άνδρου",
+  "protocol_number": "155",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6037",
+    "label": "ΔΗΜΟΣ ΑΝΔΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84416"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-10-24",
+  "posted": "2012-11-15",
+  "publish_timestamp_ms": 1352982328000,
+  "version_id": "95af5a30-ac72-47bd-a7a9-5a22e4b1b262",
+  "in_force": "2012-11-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%A8%CE%A9%CE%A8%CE%99-%CE%932%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%A8%CE%A9%CE%A8%CE%99-%CE%932%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%A8%CE%A9%CE%A8%CE%99-%CE%932%CE%95",
+  "listing_sha256": "4252696dfdfb6363641a9d378ddec3d99219be1d8b8e5d17a7e9f0e7a670d08e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
