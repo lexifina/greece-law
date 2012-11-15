@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΨΩΚΖ-Ν3Ψ",
+  "subject": "ΑΠΟΦΑΣΗ 176/2012 ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ ΠΕΡΙ \"Λήψη απόφασης για την αποκομιδή απορριμμάτων της Δ.Ε. Αστακού και για την\r\nπαράταση των συμβάσεων αποκομιδής απορριμμάτων στην ανωτέρω Δημοτική Ενότητα\".",
+  "protocol_number": "16791",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6221",
+    "label": "ΔΗΜΟΣ ΞΗΡΟΜΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88039"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΩΛΩΚΖ-ΠΘΡ"
+      }
+    ]
+  },
+  "issued": "2012-11-08",
+  "posted": "2012-11-15",
+  "publish_timestamp_ms": 1352976980000,
+  "version_id": "337b3fab-ef04-403c-b7b4-d9af60b50a4b",
+  "in_force": "2012-11-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%A8%CE%A9%CE%9A%CE%96-%CE%9D3%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%A8%CE%A9%CE%9A%CE%96-%CE%9D3%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%A8%CE%A9%CE%9A%CE%96-%CE%9D3%CE%A8",
+  "listing_sha256": "e3efb950269587b81c6808946ef5ffafadd57586a1a816afac692d71b8a8faf4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
