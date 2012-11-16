@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Σ9Η-8ΦΛ",
+  "subject": "«Απόφαση έκδοσης Εντόκων Γραμματίων του Ελληνικού Δημοσίου διάρκειας 26\r\nεβδομάδων στις 9/11/2012 μέσω δημοπρασίας και διάθεσης σε φυσικά πρόσωπα\r\nμετά την ημερομηνία διακανονισμού.»",
+  "protocol_number": "2/81072/0023Α",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "2992"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-06",
+  "posted": "2012-11-16",
+  "publish_timestamp_ms": 1353061256000,
+  "version_id": "1229e332-19fa-4da9-8a7b-72f5775551e5",
+  "in_force": "2012-11-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A39%CE%97-8%CE%A6%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A39%CE%97-8%CE%A6%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A39%CE%97-8%CE%A6%CE%9B",
+  "listing_sha256": "7ffcefc72d0f07577ff56266d6cc7eaedbe08e228de7291090908e7c5b2909a1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
