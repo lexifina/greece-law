@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Σ9ΩΡΚ-ΥΔΕ",
+  "subject": "Απόφαση ΟΕ περί  ορισμού πληρεξούσιου δικηγόρου για άσκηση ένδικων μέσων σύμφωνα με την 231/2012 απόφαση  του Δήμου Ζαγοράς-Μουρεσίου",
+  "protocol_number": "13296",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6098",
+    "label": "ΔΗΜΟΣ ΖΑΓΟΡΑΣ - ΜΟΥΡΕΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83397"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-15",
+  "posted": "2012-11-16",
+  "publish_timestamp_ms": 1353050419000,
+  "version_id": "eb497ef2-5254-42cf-a002-c53a73a12b70",
+  "in_force": "2012-11-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A39%CE%A9%CE%A1%CE%9A-%CE%A5%CE%94%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A39%CE%A9%CE%A1%CE%9A-%CE%A5%CE%94%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A39%CE%A9%CE%A1%CE%9A-%CE%A5%CE%94%CE%95",
+  "listing_sha256": "89fe9b55ee064e3ddb55b3112ebf8dd19690a78381ac87e7d8544364bb92d1b6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
