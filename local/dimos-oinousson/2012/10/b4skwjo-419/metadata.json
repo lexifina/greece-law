@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΚΩΞΟ-419",
+  "subject": "Διορισμός δικηγόρου για εκπροσώπηση του Δήμου Οινουσσών στην από 9-5-2012 και υπ. αρ.καταθέσεως 796/Ειδ.Μον./103/2012 αγωγής του Ευθυμίου Καραπιπέρη του Ανδρέα κατά τη δικάσιμο της 28-11-2012 ή σε κάθε μεταναβολή.",
+  "protocol_number": "41",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6223",
+    "label": "ΔΗΜΟΣ ΟΙΝΟΥΣΣΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83187"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β43ΚΩΞΟ-7ΦΠ"
+      }
+    ]
+  },
+  "issued": "2012-10-15",
+  "posted": "2012-11-20",
+  "publish_timestamp_ms": 1353404487000,
+  "version_id": "15c242f8-7ffa-4618-b87a-a3be0cd04736",
+  "in_force": "2012-11-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%9A%CE%A9%CE%9E%CE%9F-419",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%9A%CE%A9%CE%9E%CE%9F-419/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%9A%CE%A9%CE%9E%CE%9F-419",
+  "listing_sha256": "082642f2fd7a61f60048d4fb1c90c10ae4247ad977998aed82d4dc23aed3c1da",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
