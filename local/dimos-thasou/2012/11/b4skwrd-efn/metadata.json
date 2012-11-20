@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΚΩΡΔ-ΕΦΝ",
+  "subject": "Εξετάσεως αιτήσεως της μεταλλοβιομηχανίας Ν.Πέτσιος και Υιοί Α.Ε",
+  "protocol_number": "20515",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6110",
+    "label": "ΔΗΜΟΣ ΘΑΣΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81526"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-15",
+  "posted": "2012-11-20",
+  "publish_timestamp_ms": 1353389074000,
+  "version_id": "026a1f58-9a49-4d7a-b493-aa00e11c1570",
+  "in_force": "2012-11-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%9A%CE%A9%CE%A1%CE%94-%CE%95%CE%A6%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%9A%CE%A9%CE%A1%CE%94-%CE%95%CE%A6%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%9A%CE%A9%CE%A1%CE%94-%CE%95%CE%A6%CE%9D",
+  "listing_sha256": "6a33fb112fd6f77c5b4801187a1235d6a204c65e945af67980a399ea7013dc3b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
