@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΞΩΗ7-5Ι8",
+  "subject": "ΔΙΑΘΕΣΗ ΠΙΣΤΩΣΕΩΝ",
+  "protocol_number": "20045",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6294",
+    "label": "ΔΗΜΟΣ ΤΕΜΠΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81342"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-21",
+  "posted": "2012-11-21",
+  "publish_timestamp_ms": 1353477020000,
+  "version_id": "c26073b7-f38b-4989-8d40-e6bba8bad7a1",
+  "in_force": "2012-11-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%9E%CE%A9%CE%977-5%CE%998",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%9E%CE%A9%CE%977-5%CE%998/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%9E%CE%A9%CE%977-5%CE%998",
+  "listing_sha256": "8d7287862383d617831e4ec71340b97498d7a43d5ce2def250557257f1728327",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
