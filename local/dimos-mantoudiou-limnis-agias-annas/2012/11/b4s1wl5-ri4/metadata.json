@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Σ1ΩΛ5-ΡΙ4",
+  "subject": "ΔΙΑΤΑΓΗ ΠΟΡΕΙΑΣ-ΔΕΛΤΙΟ ΚΙΝΗΣΗΣ ΑΥΤΟΚΙΝΗΤΟΥ",
+  "protocol_number": "14611",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6182",
+    "label": "ΔΗΜΟΣ ΜΑΝΤΟΥΔΙΟΥ - ΛΙΜΝΗΣ - ΑΓΙΑΣ ΑΝΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-21",
+  "posted": "2012-11-22",
+  "publish_timestamp_ms": 1353567466000,
+  "version_id": "69b7a430-04d5-4b50-a475-1b50bd71d2c0",
+  "in_force": "2012-11-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A31%CE%A9%CE%9B5-%CE%A1%CE%994",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A31%CE%A9%CE%9B5-%CE%A1%CE%994/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A31%CE%A9%CE%9B5-%CE%A1%CE%994",
+  "listing_sha256": "22857cf73053e1722bf1dbac89fe20bb92115d045c500d6708d4f1ea0a00087a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
