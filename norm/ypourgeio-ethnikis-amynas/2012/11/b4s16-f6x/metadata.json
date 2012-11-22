@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Σ16-Φ6Χ",
+  "subject": "ΚΥΡΩΣΗ ΠΙΝΑΚΩΝ ΕΚΤΑΚΤΗΣ ΚΡΙΣΗΣ ΕΤΟΥΣ 2012 ΚΑΙ ΠΡΟΑΓΩΓΗ ΑΞΙΩΜΑΤΙΚΩΝ ΤΟΥ ΠΟΛΕΜΙΚΟΥ ΝΑΥΤΙΚΟΥ, ΟΙ ΟΠΟΙΟΙ ΑΠΕΒΙΩΣΑΝ ΕΥΡΙΣΚΟΜΕΝΟΙΣΤΗΝ ΕΝΕΡΓΟ ΥΠΗΡΕΣΙΑ.",
+  "protocol_number": "Φ.414.2/12/12/Σ.30412",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2012,
+      "aa": "1213"
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-20",
+  "posted": "2012-11-22",
+  "publish_timestamp_ms": 1353571716000,
+  "version_id": "dedca619-fb13-4efe-85af-e9d67d48bb1c",
+  "in_force": "2012-11-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A316-%CE%A66%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A316-%CE%A66%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A316-%CE%A66%CE%A7",
+  "listing_sha256": "81326ff7d42021791df7f6bd0fcbb7d922c4fc8267b9b132bcf21b450831b2af",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
