@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Σ1ΟΡ1Ι-Φ63",
+  "subject": "ΑΠΟΦΑΣΗ ΕΓΚΡΙΣΗΣ 1875/2012 ΑΠΟΦ. ΔΣ ΔΕΥΑΝΧ",
+  "protocol_number": "53537/1875",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76701"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-22",
+  "posted": "2012-11-22",
+  "publish_timestamp_ms": 1353585054000,
+  "version_id": "b3635285-a628-4103-8b5b-5306b85c8e3f",
+  "in_force": "2012-11-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A31%CE%9F%CE%A11%CE%99-%CE%A663",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A31%CE%9F%CE%A11%CE%99-%CE%A663/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A31%CE%9F%CE%A11%CE%99-%CE%A663",
+  "listing_sha256": "ca8f84ea9e2e61fdeb1d5a74c3ff83d5e5ed96a2511c437a135b0812e4e692d0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
