@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΗΩΗΕ-7ΜΞ",
+  "subject": "ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΕΠΙΣΚΕΥΗΣ ΚΗΗ 3839",
+  "protocol_number": "478 A",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6300",
+    "label": "ΔΗΜΟΣ ΤΡΙΦΥΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81686"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-05-26",
+  "posted": "2012-11-23",
+  "publish_timestamp_ms": 1353672374000,
+  "version_id": "94a20560-be86-49ab-bb09-adc71fff6aa4",
+  "in_force": "2012-11-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%97%CE%A9%CE%97%CE%95-7%CE%9C%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%97%CE%A9%CE%97%CE%95-7%CE%9C%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%97%CE%A9%CE%97%CE%95-7%CE%9C%CE%9E",
+  "listing_sha256": "30f59bf9bbc8e668b553197083a37dc1173b2f54b06dd97ca862d0df5d41d28d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
