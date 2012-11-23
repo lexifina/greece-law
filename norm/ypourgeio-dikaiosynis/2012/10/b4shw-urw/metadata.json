@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΗΩ-ΘΡΩ",
+  "subject": "ΣΥΜΠΛΗΡΩΣΗ ΤΗΣ ΚΥΑ ΓΙΑ ΤΟΝ ΚΑΘΟΡΙΣΜΟ ΑΜΟΙΒΗΣ ΑΣΚΟΥΜΕΝΩΝ ΔΙΚΗΓΟΡΩΝ",
+  "protocol_number": "2/67227/0022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71084"
+  ],
+  "thematic_category_ids": [
+    "12",
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "3067"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4Σ1Η-ΡΒΚ"
+      }
+    ]
+  },
+  "issued": "2012-10-30",
+  "posted": "2012-11-23",
+  "publish_timestamp_ms": 1353650992000,
+  "version_id": "d9089dd2-fab9-45a2-9402-ffa5ff512086",
+  "in_force": "2012-11-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%97%CE%A9-%CE%98%CE%A1%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%97%CE%A9-%CE%98%CE%A1%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%97%CE%A9-%CE%98%CE%A1%CE%A9",
+  "listing_sha256": "cf207ed94725df4b848a26bbd5bfc497359d5e96e81314cfc6ac70c6a767fe96",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
