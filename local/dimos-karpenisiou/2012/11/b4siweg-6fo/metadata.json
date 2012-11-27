@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΙΩΕΓ-6ΦΟ",
+  "subject": "Συμφωνητικό ποσού €26.270,00 (με ΦΠΑ 23%)  Εσωτερική οδοποιία ΤΚ Καταβόθρας",
+  "protocol_number": "24255",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6137",
+    "label": "ΔΗΜΟΣ ΚΑΡΠΕΝΗΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83746"
+  ],
+  "thematic_category_ids": [
+    "08"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-02",
+  "posted": "2012-11-27",
+  "publish_timestamp_ms": 1354013708000,
+  "version_id": "5dbce91c-021a-4bbb-803f-c83c9435df46",
+  "in_force": "2012-11-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%99%CE%A9%CE%95%CE%93-6%CE%A6%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%99%CE%A9%CE%95%CE%93-6%CE%A6%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%99%CE%A9%CE%95%CE%93-6%CE%A6%CE%9F",
+  "listing_sha256": "871c55a18c3e17f712f6d13d6dd4bdcd7ec24a9829b8d30098ef0d6b5a9eafd0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
