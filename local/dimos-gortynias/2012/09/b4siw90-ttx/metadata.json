@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΙΩ90-ΤΤΧ",
+  "subject": "328/2012 AOE Ψήφιση πίστωσης και καθορισμός του τρόπου εκτέλεσης του έργου «Κατασκευή στηθαίου αντιστήριξης κεντρικού δρόμου εντός οικισμού Τ.Κ. Πρασίνου» ποσού 7.218,13 €",
+  "protocol_number": "328/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6068",
+    "label": "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82015"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-09-25",
+  "posted": "2012-11-27",
+  "publish_timestamp_ms": 1354006892000,
+  "version_id": "d0ef1a09-ea84-40af-9645-c630b1df4299",
+  "in_force": "2012-11-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%99%CE%A990-%CE%A4%CE%A4%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%99%CE%A990-%CE%A4%CE%A4%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%99%CE%A990-%CE%A4%CE%A4%CE%A7",
+  "listing_sha256": "8096bfc220cc23f5237ce1ced488d228310eb367e92965bfe84a24ed935b377f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
