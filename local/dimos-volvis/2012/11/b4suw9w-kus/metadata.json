@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΘΩ9Ω-ΚΘΣ",
+  "subject": "ΑΠΟΦΑΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ 553/2012 - Ορισμός δικαστικού επιμελητή για την επίδοση της δικαστικής απόφασης που αφορά το δημοτικό αναψυκτήριο «Ωκεανός",
+  "protocol_number": "553/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6057",
+    "label": "ΔΗΜΟΣ ΒΟΛΒΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78095"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-28",
+  "posted": "2012-11-28",
+  "publish_timestamp_ms": 1354098203000,
+  "version_id": "f1bff7d4-a32e-4c73-9a1d-9898772c7a71",
+  "in_force": "2012-11-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%98%CE%A99%CE%A9-%CE%9A%CE%98%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%98%CE%A99%CE%A9-%CE%9A%CE%98%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%98%CE%A99%CE%A9-%CE%9A%CE%98%CE%A3",
+  "listing_sha256": "969c82ae645f1d141deb94776e3652b121d03954786f4b7fd9413521e3530bf0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
