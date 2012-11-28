@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΘΩΞ8-ΜΕΗ",
+  "subject": "Διάθεση πιστώσεων για πληρωμές υποχρεώσεων λειτουργικών και επενδυτικών δαπανών τρέχοντος έτους.",
+  "protocol_number": "6441",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6254",
+    "label": "ΔΗΜΟΣ ΠΡΕΣΠΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81679"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4Σ6ΩΞ8-Α66"
+      }
+    ]
+  },
+  "issued": "2012-11-12",
+  "posted": "2012-11-28",
+  "publish_timestamp_ms": 1354097889000,
+  "version_id": "f4348fc6-c85d-43da-9133-97ad3646ea88",
+  "in_force": "2012-11-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%98%CE%A9%CE%9E8-%CE%9C%CE%95%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%98%CE%A9%CE%9E8-%CE%9C%CE%95%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%98%CE%A9%CE%9E8-%CE%9C%CE%95%CE%97",
+  "listing_sha256": "d3f1c85d3f240a7cf43d0fc114cb298cc4f7f0985235f7795d3404a3d029886d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
