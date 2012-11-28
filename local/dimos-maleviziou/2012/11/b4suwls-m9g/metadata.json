@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΘΩΛΣ-Μ9Γ",
+  "subject": "Ταμειακή - Λογιστική τακτοποίηση του Ταμείου ,μετά την κατάσχεση ποσού 33.428.63 € από την εταιρία με την επωνυμία Γ. ΣΤΑΥΡΑΚΑΝΤΩΝΑΚΗΣ ΑΕΒΕ.",
+  "protocol_number": "439/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6180",
+    "label": "ΔΗΜΟΣ ΜΑΛΕΒΙΖΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81414"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-23",
+  "posted": "2012-11-28",
+  "publish_timestamp_ms": 1354095656000,
+  "version_id": "dbb7611d-b11a-4513-8449-12e8d2621806",
+  "in_force": "2012-11-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%98%CE%A9%CE%9B%CE%A3-%CE%9C9%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%98%CE%A9%CE%9B%CE%A3-%CE%9C9%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%98%CE%A9%CE%9B%CE%A3-%CE%9C9%CE%93",
+  "listing_sha256": "ca6ce5f58adb746a7404cbaa5e174a52750f07bdb354ed0a813e479f4e61c61d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
