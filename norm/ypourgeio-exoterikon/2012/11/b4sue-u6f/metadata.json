@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΘΕ-Θ6Φ",
+  "subject": "ΑΝΑΚΛΗΣΗ ΠΟΣΟΥ",
+  "protocol_number": "ΜΕ.2/085/0874/120.7570",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70150"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-23",
+  "posted": "2012-11-28",
+  "publish_timestamp_ms": 1354098132000,
+  "version_id": "e16fa5a1-ef2b-4f3b-9f27-abd8a3704ed9",
+  "in_force": "2012-11-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%98%CE%95-%CE%986%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%98%CE%95-%CE%986%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%98%CE%95-%CE%986%CE%A6",
+  "listing_sha256": "ca6ce5f58adb746a7404cbaa5e174a52750f07bdb354ed0a813e479f4e61c61d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
