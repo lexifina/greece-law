@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΥΩ-Δ4Κ",
+  "subject": "ΠΑΡΑΙΤΗΣΗ ΑΡΧΟΝΤΟΥΛΑΣ ΣΑΡΑΝΤΙΔΟΥ, ΕΙΡΗΝΟΔΙΚΗ Α΄ΤΑΞΗΣ ΓΙΑΝΝΙΤΣΩΝ",
+  "protocol_number": "99365",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70909"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "12"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2012,
+      "aa": "1262"
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-13",
+  "posted": "2012-11-29",
+  "publish_timestamp_ms": 1354201764000,
+  "version_id": "7d8807ee-5027-4bd5-9b28-8dccd51487f6",
+  "in_force": "2012-11-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%A5%CE%A9-%CE%944%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%A5%CE%A9-%CE%944%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%A5%CE%A9-%CE%944%CE%9A",
+  "listing_sha256": "eefd01de325e9b7582717b79c7f0b324172b583526c6bdbe4469beb07e2bc253",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
