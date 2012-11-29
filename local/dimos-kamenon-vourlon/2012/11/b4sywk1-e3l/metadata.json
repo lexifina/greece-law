@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΥΩΚ1-Ε3Λ",
+  "subject": "ΤΕΧΝΙΚΟ ΠΡΟΓΡΑΜΜΑ Απόφασης 20.236 ΔΣ ΓΙΑ 2013  8 11 2012",
+  "protocol_number": "20 236ΔΣ ΤΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6202",
+    "label": "ΔΗΜΟΣ ΚΑΜΕΝΩΝ ΒΟΥΡΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81097"
+  ],
+  "thematic_category_ids": [
+    "64",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-21",
+  "posted": "2012-11-29",
+  "publish_timestamp_ms": 1354175953000,
+  "version_id": "db03f8da-1a77-48d5-b2c8-430c69477acf",
+  "in_force": "2012-11-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%A5%CE%A9%CE%9A1-%CE%953%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%A5%CE%A9%CE%9A1-%CE%953%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%A5%CE%A9%CE%9A1-%CE%953%CE%9B",
+  "listing_sha256": "ae8fd50024b47b4b24c98ee35e9d49e2695475809eb7da59cf24a3d2f0c40001",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
