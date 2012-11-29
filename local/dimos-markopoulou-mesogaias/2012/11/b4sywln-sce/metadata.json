@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΥΩΛΝ-ΣΨΕ",
+  "subject": "Λήψη απόφασης για έγκριση δαπάνης\r\nγια Χριστουγεννιάτικες εκδηλώσεις στην\r\nΚεντρική Πλατεία Μαρκοπούλου.",
+  "protocol_number": "-",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6184",
+    "label": "ΔΗΜΟΣ ΜΑΡΚΟΠΟΥΛΟΥ ΜΕΣΟΓΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86705"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-20",
+  "posted": "2012-11-29",
+  "publish_timestamp_ms": 1354174513000,
+  "version_id": "7e07a4b4-1ca8-40bc-b031-8c20fc00c23a",
+  "in_force": "2012-11-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%A5%CE%A9%CE%9B%CE%9D-%CE%A3%CE%A8%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%A5%CE%A9%CE%9B%CE%9D-%CE%A3%CE%A8%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%A5%CE%A9%CE%9B%CE%9D-%CE%A3%CE%A8%CE%95",
+  "listing_sha256": "87563e5e1e0c6f01c9992eb7873bbba6712ab93be4ab52ab9ace0543e8bac499",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
