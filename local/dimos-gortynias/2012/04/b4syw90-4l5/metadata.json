@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΥΩ90-4Λ5",
+  "subject": "92/2012 AOE Ψήφιση πίστωσης 2ου λογαριασμού του έργου: «Ανάπλαση – φωτισμός στην είσοδο του οικισμού Δημητσάνας» ποσού 15.014,64€",
+  "protocol_number": "92/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6068",
+    "label": "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82015"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-27",
+  "posted": "2012-11-29",
+  "publish_timestamp_ms": 1354187782000,
+  "version_id": "3c53dd6c-686f-40c4-bb35-51c80467896f",
+  "in_force": "2012-11-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%A5%CE%A990-4%CE%9B5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%A5%CE%A990-4%CE%9B5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%A5%CE%A990-4%CE%9B5",
+  "listing_sha256": "934b2c68304ad5aae35d2792b2fb72086d4b923ea9b260e8c6d3b9c894da1bfb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
