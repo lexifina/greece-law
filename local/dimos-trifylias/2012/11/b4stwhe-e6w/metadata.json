@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΣΤΩΗΕ-Ε6Ω",
+  "subject": "ΑΝΑΤΡΟΠΗ ΤΗΣ ΣΤ42 ΕΑΔ",
+  "protocol_number": "ΑΝ583",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6300",
+    "label": "ΔΗΜΟΣ ΤΡΙΦΥΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83297"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-30",
+  "posted": "2012-11-30",
+  "publish_timestamp_ms": 1354261911000,
+  "version_id": "d32de217-b0b4-42a6-af36-553ee3f3d827",
+  "in_force": "2012-11-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%A4%CE%A9%CE%97%CE%95-%CE%956%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%A3%CE%A4%CE%A9%CE%97%CE%95-%CE%956%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%A3%CE%A4%CE%A9%CE%97%CE%95-%CE%956%CE%A9",
+  "listing_sha256": "e5a33fd4a19cfbf7139a4c38ab49273a2379263cba54c466a87868b83255164e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
