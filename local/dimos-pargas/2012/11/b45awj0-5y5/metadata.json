@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β45ΑΩΞ0-5Υ5",
+  "subject": "Α.Δ.Σ για την αναμόρφωση του Προϋπολογισμού οικ. έτους 2012 από το αποθεματικό μεταφέρει πίστωση ποσού 692,09 Ε για πληρωμή κοινόχρηστων στο ΚΑ: 8115.003",
+  "protocol_number": "231",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6238",
+    "label": "ΔΗΜΟΣ ΠΑΡΓΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88660"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-14",
+  "posted": "2012-12-03",
+  "publish_timestamp_ms": 1354522860000,
+  "version_id": "e128dcbd-d79a-400a-aff5-59ff48a847a1",
+  "in_force": "2012-12-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9245%CE%91%CE%A9%CE%9E0-5%CE%A55",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9245%CE%91%CE%A9%CE%9E0-5%CE%A55/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9245%CE%91%CE%A9%CE%9E0-5%CE%A55",
+  "listing_sha256": "a2cb280af34f0780bdb1f49298ca9d776eb86fcad01dd6197144ad2504fe7e8d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
