@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β455Ω1Ζ-4Μ9",
+  "subject": "ΟΡΙΣΜΟΣ ΠΛΗΡΕΞΟΥΣΙΟΥ ΔΙΚΗΓΟΡΟΥ",
+  "protocol_number": "180",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6289",
+    "label": "ΔΗΜΟΣ ΣΤΥΛΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79640"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-03",
+  "posted": "2012-12-04",
+  "publish_timestamp_ms": 1354617464000,
+  "version_id": "87c19aab-7d64-4780-9a54-54e3cfb6a78a",
+  "in_force": "2012-12-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92455%CE%A91%CE%96-4%CE%9C9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92455%CE%A91%CE%96-4%CE%9C9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92455%CE%A91%CE%96-4%CE%9C9",
+  "listing_sha256": "8151598900186b19541c52f5abf99475a939c6d0c8f9cc56d63ce58e9f215226",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
