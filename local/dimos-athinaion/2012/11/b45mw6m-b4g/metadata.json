@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β45ΜΩ6Μ-Β4Γ",
+  "subject": "33H ΣΥΝΕΔΡΙΑΣΗ ΣΧΕΤΙΚΑ ΜΕ ΑΠΟΚΑΤΑΣΤΑΣΗ ΠΡΟΒΛΗΜΑΤΟΣ ΕΙΣΟΔΟΥ - ΕΞΟΔΟΥ ΑΥΤΟΚΙΝΗΤΟΥ ΣΕ ΥΠΟΓΕΙΟ ΠΑΡΚΙΝΓ ΠΟΛΥΚΑΤΟΙΚΙΑΣ \r\nΜΕ ΕΙΣΟΔΟ ΕΠΙ ΤΗΣ ΟΔΟΥ ΣΩΣΣΟΥ",
+  "protocol_number": "240",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6013",
+    "label": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84655"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-08",
+  "posted": "2012-12-05",
+  "publish_timestamp_ms": 1354697935000,
+  "version_id": "27a3683b-60d2-4dc6-a669-d72187f0b164",
+  "in_force": "2012-12-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9245%CE%9C%CE%A96%CE%9C-%CE%924%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9245%CE%9C%CE%A96%CE%9C-%CE%924%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9245%CE%9C%CE%A96%CE%9C-%CE%924%CE%93",
+  "listing_sha256": "e3efb950269587b81c6808946ef5ffafadd57586a1a816afac692d71b8a8faf4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
