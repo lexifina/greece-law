@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β45ΜΩ12-Ε21",
+  "subject": "ΑΠΟΦΑΣΗ ΟΡΙΣΜΟΥ ΑΝΤΙΔΗΜΑΡΧΩΝ",
+  "protocol_number": "22299",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6281",
+    "label": "ΔΗΜΟΣ ΣΚΥΔΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83463"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-05",
+  "posted": "2012-12-05",
+  "publish_timestamp_ms": 1354706945000,
+  "version_id": "14008eb6-6960-4b32-ac2a-5a4045ba7f17",
+  "in_force": "2012-12-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9245%CE%9C%CE%A912-%CE%9521",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9245%CE%9C%CE%A912-%CE%9521/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9245%CE%9C%CE%A912-%CE%9521",
+  "listing_sha256": "a7d7b32b5f66a70a278ceefa3b79e0258fc87df5ceb4831ed9ca63d5a1c89997",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
