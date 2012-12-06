@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β45ΝΩΕΤ-ΦΛΗ",
+  "subject": "Καθιέρωση υπερωριακής (απογευματινής) εργασίας για το προσωπικό του Δήμου Κατερίνης με σύμβαση εργασίας ιδιωτικού δικαίου αορίστου χρόνου, έτους 2012",
+  "protocol_number": "39193",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6142",
+    "label": "ΔΗΜΟΣ ΚΑΤΕΡΙΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80751"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2012,
+      "aa": "3149"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-22",
+  "posted": "2012-12-06",
+  "publish_timestamp_ms": 1354775905000,
+  "version_id": "780bf9c5-4407-4db1-bb6a-032a48fc3260",
+  "in_force": "2012-12-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9245%CE%9D%CE%A9%CE%95%CE%A4-%CE%A6%CE%9B%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9245%CE%9D%CE%A9%CE%95%CE%A4-%CE%A6%CE%9B%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9245%CE%9D%CE%A9%CE%95%CE%A4-%CE%A6%CE%9B%CE%97",
+  "listing_sha256": "a3bb1ae723b800f66320bd8a1efab2ceb2fdaf3a3e9c1540b4de7f9d858fbbdf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
