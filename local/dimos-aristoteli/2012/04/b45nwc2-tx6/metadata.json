@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β45ΝΩΨ2-ΤΧ6",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ",
+  "protocol_number": "18310",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6043",
+    "label": "ΔΗΜΟΣ ΑΡΙΣΤΟΤΕΛΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80790"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-25",
+  "posted": "2012-12-06",
+  "publish_timestamp_ms": 1354801167000,
+  "version_id": "8753f374-9690-40c1-840d-c7b654d504e6",
+  "in_force": "2012-12-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9245%CE%9D%CE%A9%CE%A82-%CE%A4%CE%A76",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9245%CE%9D%CE%A9%CE%A82-%CE%A4%CE%A76/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9245%CE%9D%CE%A9%CE%A82-%CE%A4%CE%A76",
+  "listing_sha256": "ab7e1053d2ccdefe161504c3696484c831ba3e6c71e83c752b549e5225fa6076",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
