@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β45ΧΩ6Α-ΛΓΤ",
+  "subject": "αποστολή απόφασης 73/2012 Ο.Ε. με θέμα «Έκδοση Εντάλματος Προπληρωμής Επέκταση Δημοτικού Φωτισμού»",
+  "protocol_number": "17922",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6011",
+    "label": "ΔΗΜΟΣ ΑΓΡΑΦΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83514"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-06",
+  "posted": "2012-12-07",
+  "publish_timestamp_ms": 1354874560000,
+  "version_id": "056a0a3f-7734-4bf4-a5a2-62b90414f001",
+  "in_force": "2012-12-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9245%CE%A7%CE%A96%CE%91-%CE%9B%CE%93%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9245%CE%A7%CE%A96%CE%91-%CE%9B%CE%93%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9245%CE%A7%CE%A96%CE%91-%CE%9B%CE%93%CE%A4",
+  "listing_sha256": "9e4894f353f5dc7dc4a3524e57e943ddd2c6055f982db1adcdc46b0560aa17d4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
