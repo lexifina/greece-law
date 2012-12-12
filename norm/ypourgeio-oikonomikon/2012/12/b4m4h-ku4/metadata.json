@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Μ4Η-ΚΘ4",
+  "subject": "ΕΓΚΡΙΣΗ ΑΝΑΛΗΨΗΣ ΥΠΟΧΡΕΩΣΗΣ ΓΙΑ ΤΟ 2013",
+  "protocol_number": "Δ5Α 1167615 ΕΞ 2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72011"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-05",
+  "posted": "2012-12-12",
+  "publish_timestamp_ms": 1355301502000,
+  "version_id": "a1eb87e2-db31-4fb6-93c0-a107206759b6",
+  "in_force": "2012-12-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C4%CE%97-%CE%9A%CE%984",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C4%CE%97-%CE%9A%CE%984/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9C4%CE%97-%CE%9A%CE%984",
+  "listing_sha256": "06817b34fae794a42dae504babf4ca3c170457d1bfc31c49a7ebd5347dc0fd38",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
