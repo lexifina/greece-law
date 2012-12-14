@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Μ7ΩΨ9-Ξ2Γ",
+  "subject": "Επικαιροποίηση της από Σεπτεμβρίου 2010 μελέτης οργάνωσης ελεγχόμενης στάθμευσης στο Δήμο Αμαρουσίου",
+  "protocol_number": "099472",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78787"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β443ΩΨ9-ΝΗΕ"
+      }
+    ]
+  },
+  "issued": "2012-12-14",
+  "posted": "2012-12-14",
+  "publish_timestamp_ms": 1355489554000,
+  "version_id": "aa73a039-a9d7-419e-ba31-04761cffd7da",
+  "in_force": "2012-12-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C7%CE%A9%CE%A89-%CE%9E2%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C7%CE%A9%CE%A89-%CE%9E2%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9C7%CE%A9%CE%A89-%CE%9E2%CE%93",
+  "listing_sha256": "825ece6a047bda395c94e056d991db8608b58f8472fae8ea03bdae31e1547f7b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
