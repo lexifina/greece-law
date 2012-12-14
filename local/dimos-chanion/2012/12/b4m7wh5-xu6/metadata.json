@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Μ7ΩΗ5-ΧΘ6",
+  "subject": "ΑΠΟΦΑΣΗ ΕΠΙΣΤΡΟΦΗΣ ΤΟΥ ΣΥΝΟΛΟΥ ΤΗΣ ΕΓΓΥΗΣΗΣ ΚΑΛΗΣ ΕΚΤΕΛΕΣΗΣ ΤΟΥ ΕΡΓΟΥ \"ΑΠΟΚΑΤΑΣΤΑΣΗ ΝΕΩΡΙΟΥ ΠΡΟΣ ΧΡΗΣΗ ΙΣΤΙΟΠΛΟΙΚΟΥ ΚΕΝΤΡΟΥ\" ΔΗΜΟΥ ΧΑΝΙΩΝ",
+  "protocol_number": "98311",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6318",
+    "label": "ΔΗΜΟΣ ΧΑΝΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81060"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-14",
+  "posted": "2012-12-14",
+  "publish_timestamp_ms": 1355470250000,
+  "version_id": "a93c2c26-5509-40f9-99db-b8a226115d55",
+  "in_force": "2012-12-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C7%CE%A9%CE%975-%CE%A7%CE%986",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C7%CE%A9%CE%975-%CE%A7%CE%986/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9C7%CE%A9%CE%975-%CE%A7%CE%986",
+  "listing_sha256": "afabef8b3f85c4a4dc340f13546d5b2e0606933dea01dc3af1d1ab470fc2c0be",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
