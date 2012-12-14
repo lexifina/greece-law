@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Μ77ΛΩ-90Ξ",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ",
+  "protocol_number": "Φ.590/10227",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5003",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79791"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-04",
+  "posted": "2012-12-14",
+  "publish_timestamp_ms": 1355468989000,
+  "version_id": "75eb6b22-fe06-4c31-bc8d-fe14c36a7aa9",
+  "in_force": "2012-12-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C77%CE%9B%CE%A9-90%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C77%CE%9B%CE%A9-90%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9C77%CE%9B%CE%A9-90%CE%9E",
+  "listing_sha256": "1529f682aafa9979fdbdee1fbca86491ada63d0e5f48fc8e1758c9e3e332fe65",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
