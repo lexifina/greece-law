@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΜΨΟΡ1Υ-0ΜΦ",
+  "subject": "ΔΑΣΙΚΗ ΑΠΑΓΟΡΕΥΤΙΚΗ ΔΙΑΤΑΞΗ ΒΟΣΚΗΣ",
+  "protocol_number": "29013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77264"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_D",
+      "issueyear": 2012,
+      "aa": "661"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-17",
+  "posted": "2012-12-17",
+  "publish_timestamp_ms": 1355731845000,
+  "version_id": "c474ad5c-6673-40a3-83b7-19d623c0031b",
+  "in_force": "2012-12-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C%CE%A8%CE%9F%CE%A11%CE%A5-0%CE%9C%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C%CE%A8%CE%9F%CE%A11%CE%A5-0%CE%9C%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9C%CE%A8%CE%9F%CE%A11%CE%A5-0%CE%9C%CE%A6",
+  "listing_sha256": "5e01dba7de18e6345c93e9e2929424479915e13d00b7fc2c55ae1d5e73ace22c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
