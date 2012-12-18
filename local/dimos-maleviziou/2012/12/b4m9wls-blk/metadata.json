@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Μ9ΩΛΣ-ΒΛΚ",
+  "subject": "Έγκριση και παραλαβή της οριστικής μελέτης «Αντιπλημμυρική Προστασία ευρύτερης περιοχής Γαζίου». Αρ. Μελ. 681/1999.",
+  "protocol_number": "499/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6180",
+    "label": "ΔΗΜΟΣ ΜΑΛΕΒΙΖΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81414"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΜΨΩΛΣ-4ΜΕ"
+      }
+    ]
+  },
+  "issued": "2012-12-13",
+  "posted": "2012-12-18",
+  "publish_timestamp_ms": 1355826854000,
+  "version_id": "ea873cb8-f9a4-46cf-9726-9894b8ee1e7f",
+  "in_force": "2012-12-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C9%CE%A9%CE%9B%CE%A3-%CE%92%CE%9B%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C9%CE%A9%CE%9B%CE%A3-%CE%92%CE%9B%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9C9%CE%A9%CE%9B%CE%A3-%CE%92%CE%9B%CE%9A",
+  "listing_sha256": "f04ccc54baee9e6360aa1bb6e91b3fea01c3dc00810b610d12518d3e1059afcf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
