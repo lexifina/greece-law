@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΜΕΩ16-ΕΦ5",
+  "subject": "Λήψη απόφασης χρηματικού εντάλματος προπληρωμής για ταχυδρομικά τέλη αποστολής λογαριασμών ύδρευσης 2ου τετράμηνου 2012.",
+  "protocol_number": "11253",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6262",
+    "label": "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80928"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-04",
+  "posted": "2012-12-20",
+  "publish_timestamp_ms": 1355985414000,
+  "version_id": "650742a9-eda7-4470-8e24-1782f748c054",
+  "in_force": "2012-12-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C%CE%95%CE%A916-%CE%95%CE%A65",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C%CE%95%CE%A916-%CE%95%CE%A65/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9C%CE%95%CE%A916-%CE%95%CE%A65",
+  "listing_sha256": "1529f682aafa9979fdbdee1fbca86491ada63d0e5f48fc8e1758c9e3e332fe65",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
