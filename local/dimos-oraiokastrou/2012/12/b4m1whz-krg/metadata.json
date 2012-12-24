@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4Μ1ΩΗΖ-ΚΡΓ",
+  "subject": "(ΑΔΣ 287/2012) Έγκριση της μελέτης: «Μελέτη ενεργειακής απόδοσης (ΚΕΝΑΚ) \r\nτου 2ου Δημοτικού Σχολείου Παλαιοκάστρου του Δήμου Ωραιοκάστρου», που εκπονήθηκε από την μελετήτρια κα Χριστίνα Αργυροπούλου \r\nμε βάση την υπ’ αριθμ. 9/2012 μελέτη προεκτίμησης αμοιβής , όπως προκύπτει από την από 30-10-2012  βεβαίωση παραλαβής  της τεχνικής υπηρεσίας του Δήμου μας .",
+  "protocol_number": "287",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6323",
+    "label": "ΔΗΜΟΣ ΩΡΑΙΟΚΑΣΤΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83567"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4Γ2ΩΗΖ-ΧΚ7"
+      }
+    ]
+  },
+  "issued": "2012-12-11",
+  "posted": "2012-12-24",
+  "publish_timestamp_ms": 1356335654000,
+  "version_id": "15029304-b8d4-45e0-bc3b-72aab075128a",
+  "in_force": "2012-12-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C1%CE%A9%CE%97%CE%96-%CE%9A%CE%A1%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C1%CE%A9%CE%97%CE%96-%CE%9A%CE%A1%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9C1%CE%A9%CE%97%CE%96-%CE%9A%CE%A1%CE%93",
+  "listing_sha256": "fa82a1f26b7577a3250a7d179b1ece3e29b39a2d35a015fdf1bbab3f77138b02",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
