@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΜΓΩΕΓ-Ξ4Δ",
+  "subject": "Ανάκληση εκμίσθωσης άδειας εκμετάλλευσης περιπτερου",
+  "protocol_number": "27047",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6137",
+    "label": "ΔΗΜΟΣ ΚΑΡΠΕΝΗΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-20",
+  "posted": "2012-12-27",
+  "publish_timestamp_ms": 1356588599000,
+  "version_id": "a51ef2b9-2b05-472d-a00d-5ed18a6b5ba5",
+  "in_force": "2012-12-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C%CE%93%CE%A9%CE%95%CE%93-%CE%9E4%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C%CE%93%CE%A9%CE%95%CE%93-%CE%9E4%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9C%CE%93%CE%A9%CE%95%CE%93-%CE%9E4%CE%94",
+  "listing_sha256": "eade1fd51a47a82321416e67dfbd61485d20fb2a84fe838107abc9ff6b1e2969",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
