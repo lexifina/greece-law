@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΜΥ7ΛΡ-ΖΩΡ",
+  "subject": "ΕΚΤΕΛΕΣΗ ΔΙΚΑΣΤΙΚΗΣ ΑΠΟΦΑΣΗΣ 435/2012 ΤΟΥ ΜΟΝΟΜΕΛΟΥΣ ΠΡΩΤΟΔΙΚΕΙΟΥ ΛΑΡΙΣΑΣ (ΤΣΑΤΣΑΡΗ ΘΕΟΧ. ΕΛΠΙΝΙΚΗ).",
+  "protocol_number": "7850",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81793"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-27",
+  "posted": "2012-12-31",
+  "publish_timestamp_ms": 1356950374000,
+  "version_id": "8b2f8c61-1fb4-4697-84ea-ee9040a941c9",
+  "in_force": "2012-12-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C%CE%A57%CE%9B%CE%A1-%CE%96%CE%A9%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C%CE%A57%CE%9B%CE%A1-%CE%96%CE%A9%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9C%CE%A57%CE%9B%CE%A1-%CE%96%CE%A9%CE%A1",
+  "listing_sha256": "2aef4a590268fecc4cabec264c18cd72e43a73b9edcaa5b60acb160c4421ae46",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
