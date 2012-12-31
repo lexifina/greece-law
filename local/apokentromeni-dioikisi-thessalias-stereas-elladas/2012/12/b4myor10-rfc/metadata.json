@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β4ΜΥΟΡ10-ΡΦΨ",
+  "subject": "ΜΕΤΑΦΟΡΑ ΠΙΣΤΩΣΗΣ",
+  "protocol_number": "23683/271363",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76995"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-27",
+  "posted": "2012-12-31",
+  "publish_timestamp_ms": 1356947439000,
+  "version_id": "31fe4f4c-6a6e-4941-8702-a7d0b7180549",
+  "in_force": "2012-12-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C%CE%A5%CE%9F%CE%A110-%CE%A1%CE%A6%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%924%CE%9C%CE%A5%CE%9F%CE%A110-%CE%A1%CE%A6%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%924%CE%9C%CE%A5%CE%9F%CE%A110-%CE%A1%CE%A6%CE%A8",
+  "listing_sha256": "2aef4a590268fecc4cabec264c18cd72e43a73b9edcaa5b60acb160c4421ae46",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
