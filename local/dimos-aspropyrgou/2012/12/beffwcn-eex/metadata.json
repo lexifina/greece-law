@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΦΦΩΨΝ-ΕΕΧ",
+  "subject": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΤΣΙΜΕΝΤΟΠΟΙΙΑΣ.",
+  "protocol_number": "OIK.901",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6048",
+    "label": "ΔΗΜΟΣ ΑΣΠΡΟΠΥΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88736"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-31",
+  "posted": "2013-01-02",
+  "publish_timestamp_ms": 1357114725000,
+  "version_id": "ce9702b1-9ec0-4139-a20d-ebbcfdd2f218",
+  "in_force": "2013-01-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A6%CE%A6%CE%A9%CE%A8%CE%9D-%CE%95%CE%95%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A6%CE%A6%CE%A9%CE%A8%CE%9D-%CE%95%CE%95%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A6%CE%A6%CE%A9%CE%A8%CE%9D-%CE%95%CE%95%CE%A7",
+  "listing_sha256": "8de18ddb0d16cfabef25391ddc9bfd4d89f1ae66715c8cb4ada3e8dae73b299c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
