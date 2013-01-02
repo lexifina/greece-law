@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΦΦΩΕΒ-Ι5Τ",
+  "subject": "Έκφραση σύμφωνης γνώμης επί της Αποφάσεως του ΟΑΣΑ με την υπ’ αριθμ. πρωτ. 9998/ΓΕΣΕ/ΙΣΛ/27-11-2012 που αφορά προσωρινές κυκλοφοριακές ρυθμίσεις στο Δήμο μας, λόγω των έργων στην οδό Δωδεκανήσου",
+  "protocol_number": "63303",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6123",
+    "label": "ΔΗΜΟΣ ΙΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78734"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΜΛΩΕΒ-ΖΩΞ"
+      }
+    ]
+  },
+  "issued": "2012-12-20",
+  "posted": "2013-01-02",
+  "publish_timestamp_ms": 1357129903000,
+  "version_id": "9cfb7cd5-bc4e-4525-bde4-2921b4133f32",
+  "in_force": "2013-01-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A6%CE%A6%CE%A9%CE%95%CE%92-%CE%995%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A6%CE%A6%CE%A9%CE%95%CE%92-%CE%995%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A6%CE%A6%CE%A9%CE%95%CE%92-%CE%995%CE%A4",
+  "listing_sha256": "ec75fa0d60ff1f48b4b06020acba25ec23f9a812e6c365e0ebfe243c90ea4148",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
