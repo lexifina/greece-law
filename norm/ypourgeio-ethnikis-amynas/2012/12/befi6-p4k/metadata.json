@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΦΙ6-Π4Κ",
+  "subject": "Σύμβαση 011Β/01 για Προμήθεια Στρατιωτικού Εξοπλισμού.",
+  "protocol_number": "17488",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-22",
+  "posted": "2013-01-03",
+  "publish_timestamp_ms": 1357200717000,
+  "version_id": "b2bbda5c-aa47-47be-8a02-3b2b3413421b",
+  "in_force": "2013-01-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A6%CE%996-%CE%A04%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A6%CE%996-%CE%A04%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A6%CE%996-%CE%A04%CE%9A",
+  "listing_sha256": "3fe179326bd7a7fc11fe0c707e4069201c362bfc98db68aeeaa2f61ab0672336",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
