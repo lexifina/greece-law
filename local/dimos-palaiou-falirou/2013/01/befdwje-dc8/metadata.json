@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΦΔΩΞΕ-ΔΨ8",
+  "subject": "ΜΑΤΑΙΩΣΗ ΑΠΟΤΕΛΕΣΜΑΤΩΝ ΑΝΟΙΚΤΟΥ ΔΙΑΓΩΝΙΣΜΟΥ",
+  "protocol_number": "631/27.12.2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6232",
+    "label": "ΔΗΜΟΣ ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83226"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΟΖ8ΩΞΕ-ΟΩΚ"
+      },
+      {
+        "relatedDecisionsADA": "Β49ΦΩΞΕ-Ι0Ρ"
+      }
+    ]
+  },
+  "issued": "2013-01-08",
+  "posted": "2013-01-08",
+  "publish_timestamp_ms": 1357625896000,
+  "version_id": "6f1136dc-7a65-41e5-8f5d-feaf794189cf",
+  "in_force": "2013-01-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A6%CE%94%CE%A9%CE%9E%CE%95-%CE%94%CE%A88",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A6%CE%94%CE%A9%CE%9E%CE%95-%CE%94%CE%A88/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A6%CE%94%CE%A9%CE%9E%CE%95-%CE%94%CE%A88",
+  "listing_sha256": "240da8345bdc05dac3027e9ae128f4d33f3ba8ceeebaa652982ff7ff1658e81b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
