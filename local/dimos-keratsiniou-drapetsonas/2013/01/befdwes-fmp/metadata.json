@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΦΔΩΕΣ-ΦΜΠ",
+  "subject": "Απόφαση 1/20123Δημοτικού Συμβουλίου Δήμου Κερατσινίου-Δραπετσώνας:Εκλογή νέου Προ΄έδρου Δ.Σ., σύμφωνα με τις διατάξεις του άρθρου 64 παρ. 2 του Ν. 3852/2010",
+  "protocol_number": "1568",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6146",
+    "label": "ΔΗΜΟΣ ΚΕΡΑΤΣΙΝΙΟΥ - ΔΡΑΠΕΤΣΩΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79797"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-01-08",
+  "posted": "2013-01-08",
+  "publish_timestamp_ms": 1357640101000,
+  "version_id": "eb3d36d7-bd92-4e4a-9d2e-6d5b30fbfdc3",
+  "in_force": "2013-01-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A6%CE%94%CE%A9%CE%95%CE%A3-%CE%A6%CE%9C%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A6%CE%94%CE%A9%CE%95%CE%A3-%CE%A6%CE%9C%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A6%CE%94%CE%A9%CE%95%CE%A3-%CE%A6%CE%9C%CE%A0",
+  "listing_sha256": "9fc2e89f501d7e47b5ebeae6483f8a15f1ef3003cd1525411ddf59152ff0910e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
