@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΦΔΩΗΖ-Β5Ξ",
+  "subject": "(ΑΔΣ 294/2012) Εγγραφή του Δήμου Ωραιοκάστρου ως μέλος στην Μη Κερδοσκοπική Εταιρεία \r\nμε την επωνυμία «ΕΘΝΙΚΟ ΔΙΑΔΗΜΟΤΙΚΟ ΔΙΚΤΥΟ ΥΓΙΩΝ ΠΟΛΕΩΝ-ΠΡΟΑΓΩΓΗΣ ΥΓΕΙΑΣ»",
+  "protocol_number": "294",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6323",
+    "label": "ΔΗΜΟΣ ΩΡΑΙΟΚΑΣΤΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83567"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-01-08",
+  "posted": "2013-01-08",
+  "publish_timestamp_ms": 1357629561000,
+  "version_id": "c5adf629-e239-4cc8-8ed2-fd6aec9b7087",
+  "in_force": "2013-01-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A6%CE%94%CE%A9%CE%97%CE%96-%CE%925%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A6%CE%94%CE%A9%CE%97%CE%96-%CE%925%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A6%CE%94%CE%A9%CE%97%CE%96-%CE%925%CE%9E",
+  "listing_sha256": "9fc2e89f501d7e47b5ebeae6483f8a15f1ef3003cd1525411ddf59152ff0910e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
