@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΦ2ΩΡ5-ΓΔΒ",
+  "subject": "Εγκρίνει ομόφωνα τον καθορισμό των ωρών ανοίγματος, μεσημβρινής διακοπής και κλεισίματος των φαρμακείων και φαρμακαποθηκών, καθώς και τον καθορισμό του αριθμού των φαρμακείων που διημερεύουν και διανυκτερεύουν για το 2013.",
+  "protocol_number": "2060/2012 ΑΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80343"
+  ],
+  "thematic_category_ids": [
+    "28",
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β41ΔΩΡ5-4ΕΠ"
+      },
+      {
+        "relatedDecisionsADA": "Β41ΘΩΡ5-Ν9Χ"
+      }
+    ]
+  },
+  "issued": "2012-12-17",
+  "posted": "2013-01-09",
+  "publish_timestamp_ms": 1357713962000,
+  "version_id": "8d11015d-7d97-4625-bff5-e9578ad6b4d6",
+  "in_force": "2013-01-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A62%CE%A9%CE%A15-%CE%93%CE%94%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A62%CE%A9%CE%A15-%CE%93%CE%94%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A62%CE%A9%CE%A15-%CE%93%CE%94%CE%92",
+  "listing_sha256": "5d8033de1ceeb3a9cade685eed712f12d4e567185f6b3bf87b09ae79466813ab",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
