@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΦ2Ω9Μ-ΩΚΟ",
+  "subject": "Εξέταση αιτήματος διαγραφής ποσού από χρηματικό κατάλογο από τέλος 2% επί των ακαθαρίστων εσόδων κέντρων διασκέδασης, εστιατορίων και συναφών καταστημάτων , οικ. έτους 2006",
+  "protocol_number": "634/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79156"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΦΦΩ9Μ-Ζ46"
+      }
+    ]
+  },
+  "issued": "2012-12-28",
+  "posted": "2013-01-09",
+  "publish_timestamp_ms": 1357734790000,
+  "version_id": "f0f8a480-442b-4909-ab87-5849d922b218",
+  "in_force": "2013-01-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A62%CE%A99%CE%9C-%CE%A9%CE%9A%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A62%CE%A99%CE%9C-%CE%A9%CE%9A%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A62%CE%A99%CE%9C-%CE%A9%CE%9A%CE%9F",
+  "listing_sha256": "1d487cde30768e453b89043f41c6c48c97900a90a9bcbe9ecab6496fa1d608f4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
