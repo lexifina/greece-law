@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΦΧΩΡΣ-ΤΚΩ",
+  "subject": "Εφαρμογή ελεγχόμενης στάθμευσης στο κέντρο του οικισμού Θέρμης (Αριθμ. Απόφ. 581/2012)",
+  "protocol_number": "----------------",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6112",
+    "label": "ΔΗΜΟΣ ΘΕΡΜΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79898"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-27",
+  "posted": "2013-01-15",
+  "publish_timestamp_ms": 1358256023000,
+  "version_id": "6089d0f3-8b6a-4198-9c22-f532a19d1c0e",
+  "in_force": "2013-01-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A6%CE%A7%CE%A9%CE%A1%CE%A3-%CE%A4%CE%9A%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A6%CE%A7%CE%A9%CE%A1%CE%A3-%CE%A4%CE%9A%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A6%CE%A7%CE%A9%CE%A1%CE%A3-%CE%A4%CE%9A%CE%A9",
+  "listing_sha256": "c62b46a7eba81f2a36025308f70087bb176de1346686ea7b6f0b1bcdd6041037",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
