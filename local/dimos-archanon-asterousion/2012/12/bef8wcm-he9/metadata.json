@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΦ8ΩΨΜ-ΗΕ9",
+  "subject": "Απόφαση 455/2012 δημοτικού συμβουλίου :Έγκριση 1ου Α. Π. Έργου  «Κέντρο Σεμιναρίου και Εκπαίδευσης στο πλαίσιο Τουρισμός και Υγεία»",
+  "protocol_number": "455/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6047",
+    "label": "ΔΗΜΟΣ ΑΡΧΑΝΩΝ - ΑΣΤΕΡΟΥΣΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80058"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-21",
+  "posted": "2013-01-16",
+  "publish_timestamp_ms": 1358325368000,
+  "version_id": "e527b6da-95e5-4495-98d1-118cb21506cf",
+  "in_force": "2013-01-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A68%CE%A9%CE%A8%CE%9C-%CE%97%CE%959",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A68%CE%A9%CE%A8%CE%9C-%CE%97%CE%959/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A68%CE%A9%CE%A8%CE%9C-%CE%97%CE%959",
+  "listing_sha256": "f1c1d1be01205c38ee52ee2b6bb5362e927d6762ee0a716ff03c0255871e5fa6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
