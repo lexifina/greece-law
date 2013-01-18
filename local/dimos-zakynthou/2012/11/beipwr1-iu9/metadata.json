@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΙΠΩΡ1-ΙΘ9",
+  "subject": "Έγκριση της υπ’ αριθ. 14/2012 απόφασης του Τοπικού Συμβουλίου  της Δημοτικής Κοινότητας Λιθακιάς, με θέμα «Ανανέωση ενοικίασης αθλητικού χώρου του Σκοπευτικού ομίλου Ζακύνθου ¨Σμπάρο¨",
+  "protocol_number": "440",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6100",
+    "label": "ΔΗΜΟΣ ΖΑΚΥΝΘΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79743"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-21",
+  "posted": "2013-01-18",
+  "publish_timestamp_ms": 1358504683000,
+  "version_id": "fbc28470-566b-41ae-96bb-54ecf21845b3",
+  "in_force": "2013-01-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%99%CE%A0%CE%A9%CE%A11-%CE%99%CE%989",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%99%CE%A0%CE%A9%CE%A11-%CE%99%CE%989/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%99%CE%A0%CE%A9%CE%A11-%CE%99%CE%989",
+  "listing_sha256": "825d7dc4d2342a8ef990a862c125461af3ce38f49dbe34f47b822cef590d802b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
