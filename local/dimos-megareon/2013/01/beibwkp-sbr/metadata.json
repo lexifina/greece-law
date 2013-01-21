@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΙΒΩΚΠ-ΣΒΡ",
+  "subject": "Απόφαση Δημάρχου Δήμου Μεγαρέων 38/2013 περί ορισμού κ. Ζάλη Αθανασίου, ως Αντιδημάρχου Μεγαρέων χωρίς αντιμισθία από 21/1/2013 έως 31/8/2014",
+  "protocol_number": "1261",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6188",
+    "label": "ΔΗΜΟΣ ΜΕΓΑΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "89979"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-01-21",
+  "posted": "2013-01-21",
+  "publish_timestamp_ms": 1358765611000,
+  "version_id": "c84e3b25-fe2b-4b99-be70-82d9c4edbded",
+  "in_force": "2013-01-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%99%CE%92%CE%A9%CE%9A%CE%A0-%CE%A3%CE%92%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%99%CE%92%CE%A9%CE%9A%CE%A0-%CE%A3%CE%92%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%99%CE%92%CE%A9%CE%9A%CE%A0-%CE%A3%CE%92%CE%A1",
+  "listing_sha256": "28ea7145c0fe2d6a34a97abfcf189d6c66ef5dbfed49ce7ada773e36b98733d5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
