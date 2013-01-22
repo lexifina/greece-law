@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΙ7Η-ΚΛΡ",
+  "subject": "ΕΓΚΡΙΣΗ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ ΠΡΟΪΣΤΑΜΕΝΗΣ ΚΤΗΜΑΤΙΚΗΣ ΥΠΗΡΕΣΙΑΣ Ν. ΖΑΚΥΝΘΟΥ-ΑΓΓΕΛΙΚΗΣ ΖΟΥΡΜΠΑΝΟΥ",
+  "protocol_number": "232",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "83452"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΙΠΗ-Η8Κ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΕΙΒΗ-8ΘΓ"
+      }
+    ]
+  },
+  "issued": "2013-01-17",
+  "posted": "2013-01-22",
+  "publish_timestamp_ms": 1358840253000,
+  "version_id": "a9a9c07d-5370-4c3a-80d1-01c69a382a94",
+  "in_force": "2013-01-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%997%CE%97-%CE%9A%CE%9B%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%997%CE%97-%CE%9A%CE%9B%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%997%CE%97-%CE%9A%CE%9B%CE%A1",
+  "listing_sha256": "a7e86ee3b7316d6e294e0d610d01e6bf70f4b2dd9f903d64930542c9d57c734d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
