@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΙ7ΩΚΚ-ΠΤΒ",
+  "subject": "Περί έγκρισης εισήγησης της Οικονομικής Υπηρεσίας περί του Τέλους αποχέτευσης και βιολογικού καθαρισμού  Δήμου Μυκόνου",
+  "protocol_number": "117",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6200",
+    "label": "ΔΗΜΟΣ ΜΥΚΟΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81046"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-15",
+  "posted": "2013-01-22",
+  "publish_timestamp_ms": 1358857264000,
+  "version_id": "b1622b2c-1b7f-4bfb-b8fd-594b2b1c1414",
+  "in_force": "2013-01-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%997%CE%A9%CE%9A%CE%9A-%CE%A0%CE%A4%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%997%CE%A9%CE%9A%CE%9A-%CE%A0%CE%A4%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%997%CE%A9%CE%9A%CE%9A-%CE%A0%CE%A4%CE%92",
+  "listing_sha256": "1e216bf6dc1c30505f380bd12512c2643230aa519fdc48f8360137f013c7a845",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
