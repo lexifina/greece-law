@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΙΩΕ-ΤΣΚ",
+  "subject": "ΥΠΟΥΡΓΙΚΗ ΑΠΟΦΑΣΗ ΣΧΕΤΙΚΑ ΜΕ ΑΠΟΦΑΣΗ 2078 (2012) ΣΥΜΒΟΥΛΙΟΥ ΑΣΦΑΛΕΙΑΣ ΟΗΕ ΓΙΑ Λ.Δ. ΚΟΝΓΚΟ.",
+  "protocol_number": "3400.15/ΑΣ 55833",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72603"
+  ],
+  "thematic_category_ids": [
+    "08"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_A",
+      "issueyear": 2013,
+      "aa": "12"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-01-02",
+  "posted": "2013-01-23",
+  "publish_timestamp_ms": 1358938326000,
+  "version_id": "e203b13b-8e67-447c-ac3e-1c06b69d55f2",
+  "in_force": "2013-01-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%99%CE%A9%CE%95-%CE%A4%CE%A3%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%99%CE%A9%CE%95-%CE%A4%CE%A3%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%99%CE%A9%CE%95-%CE%A4%CE%A3%CE%9A",
+  "listing_sha256": "fef916915f734b5618ca66fe25089c9ddaf68247535ba8d46916467e1e7c5b2d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
