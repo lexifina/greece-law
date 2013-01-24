@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΙ6ΩΨ2-ΣΨ6",
+  "subject": "Απόφαση Δημοτικού Συμβουλίου 269/2012",
+  "protocol_number": "-",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6043",
+    "label": "ΔΗΜΟΣ ΑΡΙΣΤΟΤΕΛΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80785"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΣΟΩΨ2-ΡΦΖ"
+      }
+    ]
+  },
+  "issued": "2012-10-05",
+  "posted": "2013-01-24",
+  "publish_timestamp_ms": 1359025076000,
+  "version_id": "7e4d5e5a-5142-4494-b0a2-0944558cfe0b",
+  "in_force": "2013-01-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%996%CE%A9%CE%A82-%CE%A3%CE%A86",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%996%CE%A9%CE%A82-%CE%A3%CE%A86/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%996%CE%A9%CE%A82-%CE%A3%CE%A86",
+  "listing_sha256": "027561b2dd43d3fe5e8b6f9c88d9ab9172990e146c88d14638ab7b5ba45c2485",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
