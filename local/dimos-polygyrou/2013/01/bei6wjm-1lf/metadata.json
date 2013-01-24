@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΙ6ΩΞΜ-1ΛΦ",
+  "subject": "Απόφαση δημοτικού συμβουλίου 34-2013-Έγκριση πρωτοκόλλου προσωρινής και οριστικής παραλαβής του έργου με τίτλο “Ύδρευση Πολυγύρου- Εξωτερικό Υδραγωγείο” με αριθ. Μελ. 197/1997",
+  "protocol_number": "34-2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6251",
+    "label": "ΔΗΜΟΣ ΠΟΛΥΓΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84396"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-01-21",
+  "posted": "2013-01-24",
+  "publish_timestamp_ms": 1359028686000,
+  "version_id": "1da1c1d1-a07a-44ab-bb48-b3a3e991141e",
+  "in_force": "2013-01-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%996%CE%A9%CE%9E%CE%9C-1%CE%9B%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%996%CE%A9%CE%9E%CE%9C-1%CE%9B%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%996%CE%A9%CE%9E%CE%9C-1%CE%9B%CE%A6",
+  "listing_sha256": "32a6e41ee855f5a264b6b20c79d27da5a130829a2499a9a9b64930f34872877d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
