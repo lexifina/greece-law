@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΙΨΩ98-Ε89",
+  "subject": "ΠΑΡΑΤΑΣΗ ΣΥΝΕΡΓΑΣΙΑΣ",
+  "protocol_number": "808/2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6084",
+    "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-01-23",
+  "posted": "2013-01-25",
+  "publish_timestamp_ms": 1359106323000,
+  "version_id": "b2ced739-1f80-4406-9f9f-aee626f57382",
+  "in_force": "2013-01-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%99%CE%A8%CE%A998-%CE%9589",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%99%CE%A8%CE%A998-%CE%9589/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%99%CE%A8%CE%A998-%CE%9589",
+  "listing_sha256": "1ece6be6e8de2283d4ea60370e93cc273d72b32a24e1be5c9f626afd8a5b1c92",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
