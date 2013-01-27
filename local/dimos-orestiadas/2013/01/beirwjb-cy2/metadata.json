@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΙΡΩΞΒ-ΨΥ2",
+  "subject": "ΔΙΑΚΟΠΗ ΜΑΘΗΜΑΤΩΝ ΣΕ ΣΧΟΛΕΙΑ ΠΡΩΤΟΒΑΘΜΙΑΣ ΚΑΙ ΔΕΥΤΕΡΟΒΑΘΜΙΑΣ ΕΚΠΑΙΔΕΥΣΗΣ ΛΟΓΩ ΕΚΤΑΚΤΩΝ ΚΑΙΡΙΚΩΝ ΦΑΙΝΟΜΕΝΩΝ.",
+  "protocol_number": "4190",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6225",
+    "label": "ΔΗΜΟΣ ΟΡΕΣΤΙΑΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "90113"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-01-27",
+  "posted": "2013-01-27",
+  "publish_timestamp_ms": 1359287840000,
+  "version_id": "16290796-ae2c-408c-9d7d-4db621b94ecc",
+  "in_force": "2013-01-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%99%CE%A1%CE%A9%CE%9E%CE%92-%CE%A8%CE%A52",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%99%CE%A1%CE%A9%CE%9E%CE%92-%CE%A8%CE%A52/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%99%CE%A1%CE%A9%CE%9E%CE%92-%CE%A8%CE%A52",
+  "listing_sha256": "0e914953eecce40bb60017a221a9f8756adc1d11539229215c937757ecfa9040",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
