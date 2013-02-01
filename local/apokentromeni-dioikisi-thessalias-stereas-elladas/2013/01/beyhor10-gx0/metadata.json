@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΥΗΟΡ10-ΓΧ0",
+  "subject": "Επικύρωση της αριθμ. 15/2012 απόφασης του Διοικητικού Συμβουλίου του Ινστιτούτου Τεκμηρίωσης Πληροφόρησης και Έρευνας του Καρκίνου-Γεώργιος Ν. Παπανικολάου",
+  "protocol_number": "4715/259792",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "79808"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-01-31",
+  "posted": "2013-02-01",
+  "publish_timestamp_ms": 1359702455000,
+  "version_id": "17b351f1-11aa-4ab7-9696-8981dbbbcd20",
+  "in_force": "2013-02-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A5%CE%97%CE%9F%CE%A110-%CE%93%CE%A70",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A5%CE%97%CE%9F%CE%A110-%CE%93%CE%A70/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A5%CE%97%CE%9F%CE%A110-%CE%93%CE%A70",
+  "listing_sha256": "8aa135c653be010d9b114b69dc70c6ffd356664996186e44434f3f8a80b35a67",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
