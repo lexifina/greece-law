@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΥΘΩΚΧ-ΤΘΞ",
+  "subject": "495/2012 Έγκριση συμψηφισμού από την Περιφέρεια Θεσσαλίας για λογαριασμό της Β΄ Δ.Ο.Υ. Βόλου.",
+  "protocol_number": "495",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6219",
+    "label": "ΔΗΜΟΣ ΝΟΤΙΟΥ ΠΗΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-01-08",
+  "posted": "2013-02-06",
+  "publish_timestamp_ms": 1360151454000,
+  "version_id": "a3a7575d-9a64-4a22-8fb6-604f2a63bb9d",
+  "in_force": "2013-02-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A5%CE%98%CE%A9%CE%9A%CE%A7-%CE%A4%CE%98%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A5%CE%98%CE%A9%CE%9A%CE%A7-%CE%A4%CE%98%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A5%CE%98%CE%A9%CE%9A%CE%A7-%CE%A4%CE%98%CE%9E",
+  "listing_sha256": "bb3efa497f41d361b481914f3cc14cabd991fa5f6c19581f04f55ac3e6f2e725",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
