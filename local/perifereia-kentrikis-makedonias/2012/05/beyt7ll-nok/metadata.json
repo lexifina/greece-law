@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΥΤ7ΛΛ-ΝΟΚ",
+  "subject": "ΜΕΤΑΚΙΝΗΣΗ ΕΚΤΟΣ ΕΔΡΑΣ",
+  "protocol_number": "193612/5784",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5009",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80416"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-28",
+  "posted": "2013-02-08",
+  "publish_timestamp_ms": 1360311786000,
+  "version_id": "2ac7b98b-00f3-4722-8bd1-f0f0b35220cd",
+  "in_force": "2013-02-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A5%CE%A47%CE%9B%CE%9B-%CE%9D%CE%9F%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A5%CE%A47%CE%9B%CE%9B-%CE%9D%CE%9F%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A5%CE%A47%CE%9B%CE%9B-%CE%9D%CE%9F%CE%9A",
+  "listing_sha256": "b4c438a1e8879d73c2b2ae4c918f82e2138850df5058b1aeb75f25bd52b9c1e7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
