@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΥΤΗ-ΥΓ3",
+  "subject": "AΠΟΦΑΣΗ ΕΠΙΧΟΡΗΓΗΣΗΣ ΤΟΥ Ο.Δ.ΔΗ.Χ. ΓΙΑ ΤΟ ΕΤΟΣ 2013",
+  "protocol_number": "2/13776",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-02-08",
+  "posted": "2013-02-08",
+  "publish_timestamp_ms": 1360310730000,
+  "version_id": "86850711-6a44-4157-bda6-ebe4157d8fe6",
+  "in_force": "2013-02-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A5%CE%A4%CE%97-%CE%A5%CE%933",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A5%CE%A4%CE%97-%CE%A5%CE%933/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A5%CE%A4%CE%97-%CE%A5%CE%933",
+  "listing_sha256": "900b8353a6d9b8767a2a712eaaeb4283e58f9b40c8f9015d642c3dbf2657fcc8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
