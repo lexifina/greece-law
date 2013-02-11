@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΥ2ΩΛΑ-4ΒΞ",
+  "subject": "ΑΠΟΦΑΣΗ 1146/2012 Ο. Ε   Έγκριση δαπάνης και διάθεση πίστωσης ποσού 161,74€ από τον ΚΑ   20.6672.0001 με τίτλο : «Ανταλλακτικά μηχανημάτων έργου ΜΕ 57291 »",
+  "protocol_number": "26103",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6181",
+    "label": "ΔΗΜΟΣ ΜΑΝΔΡΑΣ - ΕΙΔΥΛΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83442"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-21",
+  "posted": "2013-02-11",
+  "publish_timestamp_ms": 1360566090000,
+  "version_id": "3aa035a0-d8cb-4fdc-98ed-c12d4e5e2a24",
+  "in_force": "2013-02-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A52%CE%A9%CE%9B%CE%91-4%CE%92%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A52%CE%A9%CE%9B%CE%91-4%CE%92%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A52%CE%A9%CE%9B%CE%91-4%CE%92%CE%9E",
+  "listing_sha256": "f1c1d1be01205c38ee52ee2b6bb5362e927d6762ee0a716ff03c0255871e5fa6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
