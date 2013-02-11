@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΥ27ΛΛ-787",
+  "subject": "ΜΕΤΑΚΙΝΗΣΗ ΕΚΤΟΣ ΕΔΡΑΣ",
+  "protocol_number": "434166/12521",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5009",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80416"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-11-29",
+  "posted": "2013-02-11",
+  "publish_timestamp_ms": 1360589480000,
+  "version_id": "b63f5fe1-28f9-4e7b-8ce2-dc3ee3629c32",
+  "in_force": "2013-02-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A527%CE%9B%CE%9B-787",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A527%CE%9B%CE%9B-787/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A527%CE%9B%CE%9B-787",
+  "listing_sha256": "4b6df4a4dd50a1771432e38b9c82789f509f2c444f432149563305da6028c4c0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
