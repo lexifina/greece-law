@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΥ5ΩΡΒ-Δ3Ρ",
+  "subject": "« Επικαιροποίηση της υπ.αριθμ. 299/12 απόφασης του Δημοτικού Συμβουλίου »",
+  "protocol_number": "8-13",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6089",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΣΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80043"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-01-29",
+  "posted": "2013-02-14",
+  "publish_timestamp_ms": 1360828978000,
+  "version_id": "e7440a30-20bd-4941-a240-0f3b6e5813d3",
+  "in_force": "2013-02-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A55%CE%A9%CE%A1%CE%92-%CE%943%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A55%CE%A9%CE%A1%CE%92-%CE%943%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A55%CE%A9%CE%A1%CE%92-%CE%943%CE%A1",
+  "listing_sha256": "2a892c6324284f8ebb65d8fc03ab5d29159e47aba751e7fb79575e3d08cb9eee",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
