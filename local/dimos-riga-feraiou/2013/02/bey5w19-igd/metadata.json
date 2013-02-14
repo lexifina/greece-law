@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΥ5Ω19-ΙΓΔ",
+  "subject": "Υποβολή πρότασης προς το Υπουργείο Αγροτικής Ανάπτυξης & Τροφίμων,\r\nγια επιδότηση ψεκασμών σε αγροτικές καλλιέργειες που προσβάλλονται από\r\nέντομα & παθογόνα, όταν έχει εξακριβωθεί από δημόσιες υπηρεσίες ότι υπάρχει\r\nπανδημία",
+  "protocol_number": "1692",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6264",
+    "label": "ΔΗΜΟΣ ΡΗΓΑ ΦΕΡΑΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82481"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-02-14",
+  "posted": "2013-02-14",
+  "publish_timestamp_ms": 1360833864000,
+  "version_id": "01cd7dcb-926e-4396-9f47-62d4f24fe5b8",
+  "in_force": "2013-02-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A55%CE%A919-%CE%99%CE%93%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A55%CE%A919-%CE%99%CE%93%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A55%CE%A919-%CE%99%CE%93%CE%94",
+  "listing_sha256": "55015ed44b717fc61bd2f0647d830fec1fc256a3bd0854996fa21fb8f182d924",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
