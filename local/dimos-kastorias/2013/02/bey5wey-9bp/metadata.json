@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΥ5ΩΕΥ-9ΒΠ",
+  "subject": "323/12 απόφαση Οικονομικής Επιτροπής: Εξέταση της από 19-12-2012 επιστολής της Τεχνικής Εταιρείας «ΧΡΗΣΤΟΣ ΜΙΝΤΖΙΑΣ ΚΑΙ ΣΙΑ ΕΕ»",
+  "protocol_number": "4701",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6141",
+    "label": "ΔΗΜΟΣ ΚΑΣΤΟΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82868"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-02-14",
+  "posted": "2013-02-14",
+  "publish_timestamp_ms": 1360829058000,
+  "version_id": "24b00145-ac16-469e-a533-31b52a2093b3",
+  "in_force": "2013-02-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A55%CE%A9%CE%95%CE%A5-9%CE%92%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A55%CE%A9%CE%95%CE%A5-9%CE%92%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A55%CE%A9%CE%95%CE%A5-9%CE%92%CE%A0",
+  "listing_sha256": "55015ed44b717fc61bd2f0647d830fec1fc256a3bd0854996fa21fb8f182d924",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
