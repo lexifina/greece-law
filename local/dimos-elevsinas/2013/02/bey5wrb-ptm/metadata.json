@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΥ5ΩΡΒ-ΠΤΜ",
+  "subject": "« Kαθιέρωση υπερωριακής εργασίας με αμοιβή κατά τις Κυριακές και\r\nεξαιρέσιμες ημέρες ή κατά τις νυχτερινές ώρες προς συμπλήρωση της\r\nυποχρεωτικής εβδομαδιαίας εργασίας είτε καθ’ υπέρβαση αυτής, σε μονίμους\r\nυπαλλήλους που ανήκουν σε υπηρεσίες που λειτουργούν, βάσει νόμου, όλες τις\r\nημέρες του μήνα ή σε 12ωρη βάση για το έτος 2013. »",
+  "protocol_number": "23-13",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6089",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΣΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80043"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-02-12",
+  "posted": "2013-02-14",
+  "publish_timestamp_ms": 1360834405000,
+  "version_id": "1ee04455-dfb3-43fb-9dfa-31b35d40657d",
+  "in_force": "2013-02-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A55%CE%A9%CE%A1%CE%92-%CE%A0%CE%A4%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A55%CE%A9%CE%A1%CE%92-%CE%A0%CE%A4%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A55%CE%A9%CE%A1%CE%92-%CE%A0%CE%A4%CE%9C",
+  "listing_sha256": "d9a0bd89e85b40491ddd393588f61a3075618d719473458b9889a1ba00fbfe41",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
