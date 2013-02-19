@@ -1,0 +1,64 @@
+{
+  "year": 2013,
+  "number": 4123,
+  "url": "https://api.et.gr/apiLAW/1/2013/4123/pdf",
+  "source_sha256": "25dc66544f6688f3ca28514be7a443f159ab3db8cf84f954dc4b0bf4ccf8980c",
+  "published": "2013-02-19",
+  "in_force": "2013-02-19",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 16,
+  "images": [
+    {
+      "page": 11,
+      "sha256": "3bfec0adb3da61a6d9a66b3b3f58e9c375803a0f1bb6e69d0a4185249be380e7",
+      "ext": "png",
+      "bytes": 167453,
+      "bbox": [
+        95.1,
+        83.4,
+        559.2,
+        752.6
+      ]
+    },
+    {
+      "page": 12,
+      "sha256": "76a3968d309383cc0efff234036a9bc28e70b7a9b6b7b2d5ef7f1ce2f46de0cd",
+      "ext": "png",
+      "bytes": 176842,
+      "bbox": [
+        63.4,
+        84.9,
+        525.3,
+        765.3
+      ]
+    },
+    {
+      "page": 13,
+      "sha256": "6c5bb40ec52ff980d0fda7896fa9b7b294b6e03e5b35be430e3ad1f6f44a743b",
+      "ext": "png",
+      "bytes": 205623,
+      "bbox": [
+        97.1,
+        82.4,
+        560.5,
+        751.5
+      ]
+    },
+    {
+      "page": 14,
+      "sha256": "3b03551fd7ae9c339bd50c5a03ded88e9e05a93f574a1e41e3abd83661e4cb0b",
+      "ext": "png",
+      "bytes": 35179,
+      "bbox": [
+        60.5,
+        83.4,
+        515.0,
+        204.5
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: qualified commencement: Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν άλλως ορίζεται στις επί μέρους διατάξεις του."
+}
