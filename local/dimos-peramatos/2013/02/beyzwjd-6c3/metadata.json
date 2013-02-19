@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΥΖΩΞΔ-6Ψ3",
+  "subject": "Έγκριση διάθεσης πίστωσης ποσού 1.775,00€ συμπεριλαμβανομένου ΦΠΑ με χρέωση του Κ.Α.Ε. 10-6261 προϋπολογισμού 2013, για τη συντήρηση- τεχνική υποστήριξη των δύο (2) ανελκυστήρων του Δήμου.",
+  "protocol_number": "4245/1775",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6246",
+    "label": "ΔΗΜΟΣ ΠΕΡΑΜΑΤΟΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81285"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-02-11",
+  "posted": "2013-02-19",
+  "publish_timestamp_ms": 1361269555000,
+  "version_id": "08299da0-c7f4-4041-bd86-18152b733ab0",
+  "in_force": "2013-02-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A5%CE%96%CE%A9%CE%9E%CE%94-6%CE%A83",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A5%CE%96%CE%A9%CE%9E%CE%94-6%CE%A83/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A5%CE%96%CE%A9%CE%9E%CE%94-6%CE%A83",
+  "listing_sha256": "94e04faba4a50ee2363fc69d2a83ab848184e4d1e4bb1e5fd78317d54fa5e0d3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
