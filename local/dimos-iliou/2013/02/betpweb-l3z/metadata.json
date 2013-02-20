@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΤΠΩΕΒ-Λ3Ζ",
+  "subject": "Λήψη απόφασης για επιβολή προστίμου στην εταιρεία ΑΛΚΑΦΟΝ Α.Ε., για ρύπανση από υπαίθρια διαφήμιση, σύμφωνα με το άρθρο 22 § 1 του Κανονισμού Προστασίας του Περιβάλλοντος",
+  "protocol_number": "6932",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6123",
+    "label": "ΔΗΜΟΣ ΙΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78734"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-02-11",
+  "posted": "2013-02-20",
+  "publish_timestamp_ms": 1361360637000,
+  "version_id": "3803abf3-638e-4fa0-b183-ca1001f7e04b",
+  "in_force": "2013-02-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A4%CE%A0%CE%A9%CE%95%CE%92-%CE%9B3%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A4%CE%A0%CE%A9%CE%95%CE%92-%CE%9B3%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A4%CE%A0%CE%A9%CE%95%CE%92-%CE%9B3%CE%96",
+  "listing_sha256": "94e04faba4a50ee2363fc69d2a83ab848184e4d1e4bb1e5fd78317d54fa5e0d3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
