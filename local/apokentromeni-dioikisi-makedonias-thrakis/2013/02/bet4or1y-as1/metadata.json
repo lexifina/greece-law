@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΤ4ΟΡ1Υ-ΑΣ1",
+  "subject": "Απ’ ευθείας εκποίηση του Α.Β.Κ.2290 Δημοσίου κτήματος, σύμφωνα με τις διατάξεις του Ν.719/77 όπως ισχύει σήμερα.",
+  "protocol_number": "2260",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77837"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΜΠΟΡ1Υ-Ω4Χ"
+      }
+    ]
+  },
+  "issued": "2013-02-22",
+  "posted": "2013-02-22",
+  "publish_timestamp_ms": 1361527489000,
+  "version_id": "1fd389bb-d6dc-4ae4-99e6-f6d5672c19a9",
+  "in_force": "2013-02-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A44%CE%9F%CE%A11%CE%A5-%CE%91%CE%A31",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A44%CE%9F%CE%A11%CE%A5-%CE%91%CE%A31/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A44%CE%9F%CE%A11%CE%A5-%CE%91%CE%A31",
+  "listing_sha256": "076a311cbfecc668b758becdd790db62a49d0c797fab6d15bf7d2017b7b390f5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
