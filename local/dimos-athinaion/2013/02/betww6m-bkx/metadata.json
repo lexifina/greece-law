@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΤΩΩ6Μ-ΒΚΧ",
+  "subject": "\"Διακοπή Λειτουργίας στις 21-2-2013 και 22-2-2013 των μαθημάτων των 19ου και 111 Νηπιαγωγείων Αθηνών λόγω εργασιών επισκευής\"",
+  "protocol_number": "041772",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6013",
+    "label": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΥΜΩ6Μ-ΘΓ9"
+      }
+    ]
+  },
+  "issued": "2013-02-21",
+  "posted": "2013-02-25",
+  "publish_timestamp_ms": 1361777805000,
+  "version_id": "f577cf6f-2645-4945-8044-69fc484e30f7",
+  "in_force": "2013-02-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A4%CE%A9%CE%A96%CE%9C-%CE%92%CE%9A%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A4%CE%A9%CE%A96%CE%9C-%CE%92%CE%9A%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A4%CE%A9%CE%A96%CE%9C-%CE%92%CE%9A%CE%A7",
+  "listing_sha256": "96585d67e3836b9fd6682f02807382bb67a2816da582cd904fc47abde17d2dfd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
