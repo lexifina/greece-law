@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΤΨΩΛΧ-ΥΣΓ",
+  "subject": "ΕΓΚΡΙΣΗ Ή ΜΗ ΤΟΥ ΠΡΑΚΤΙΚΟΥ ΤΟΥ 2ΟΥ ΣΤΑΔΙΟΥ ΤΟΥ ΔΙΑΓΩΝΙΣΜΟΥ ΓΙΑ ΤΗΝ ΑΝΑΔΕΙΞΗ ΑΝΑΔΟΧΟΥ ΤΗΣ \"ΠΡΟΜΗΘΕΙΑΣ ΦΩΤΙΣΤΙΚΩΝ ΣΩΜΑΤΩΝ ΟΙΚΟΝΟΜΙΚΗΣ ΚΑΤΑΝΑΛΩΣΗΣ ΓΙΑ ΑΝΤΙΚΑΤΑΣΤΑΣΗ ΠΑΛΑΙΩΝ ΕΝΕΡΓΟΒΟΡΟΥ ΚΑΤΑΝΑΛΩΣΗΣ\"",
+  "protocol_number": "9",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6185",
+    "label": "ΔΗΜΟΣ ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79101"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β417ΩΛΧ-ΑΧΦ"
+      },
+      {
+        "relatedDecisionsADA": "Β41ΚΩΛΧ-Θ6Ξ"
+      },
+      {
+        "relatedDecisionsADA": "Β42ΑΩΛΧ-16Ο"
+      }
+    ]
+  },
+  "issued": "2013-02-11",
+  "posted": "2013-02-27",
+  "publish_timestamp_ms": 1361961466000,
+  "version_id": "f54f36d3-8b45-47aa-8076-3ef8eb804722",
+  "in_force": "2013-02-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A4%CE%A8%CE%A9%CE%9B%CE%A7-%CE%A5%CE%A3%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A4%CE%A8%CE%A9%CE%9B%CE%A7-%CE%A5%CE%A3%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A4%CE%A8%CE%A9%CE%9B%CE%A7-%CE%A5%CE%A3%CE%93",
+  "listing_sha256": "94e04faba4a50ee2363fc69d2a83ab848184e4d1e4bb1e5fd78317d54fa5e0d3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
