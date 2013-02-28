@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΤ9ΩΨ9-ΘΝ8",
+  "subject": "Έγκριση ή μη της υπ'αριθ.12/13 απόφασης Επιτροπής Ποιότητας Ζωής που αφορά \"Έγκριση διαμόρφωσης υφιστάμενου περιπτέρου (υποθ. Αντωνίου Ρέλλα)",
+  "protocol_number": "017023",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78451"
+  ],
+  "thematic_category_ids": [
+    "64"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΥ8ΩΨ9-ΣΨ8"
+      }
+    ]
+  },
+  "issued": "2013-02-28",
+  "posted": "2013-02-28",
+  "publish_timestamp_ms": 1362048471000,
+  "version_id": "c92718a8-7c49-4235-b637-cb2d33375dd2",
+  "in_force": "2013-02-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A49%CE%A9%CE%A89-%CE%98%CE%9D8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A49%CE%A9%CE%A89-%CE%98%CE%9D8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A49%CE%A9%CE%A89-%CE%98%CE%9D8",
+  "listing_sha256": "24f41ab55cafc769f43c6bc7a36f84ad591babfd0070525a624b49f2cac788d5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
