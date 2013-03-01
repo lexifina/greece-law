@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΔΞΩΗΙ-ΝΥΧ",
+  "subject": "ΑΔΣ 49/2013 «Χορήγηση Νέων αδειών Υπαιθρίου Πλανοδίου και Στάσιμου Εμπορίου που θα παραχωρηθούν από το Δήμο Φλώρινας για το έτος 2013».",
+  "protocol_number": "142",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82904"
+  ],
+  "thematic_category_ids": [
+    "40",
+    "20",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-03-01",
+  "posted": "2013-03-01",
+  "publish_timestamp_ms": 1362141584000,
+  "version_id": "43e69217-d698-479e-8fe2-f5984cb1dcdc",
+  "in_force": "2013-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%9E%CE%A9%CE%97%CE%99-%CE%9D%CE%A5%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%9E%CE%A9%CE%97%CE%99-%CE%9D%CE%A5%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%94%CE%9E%CE%A9%CE%97%CE%99-%CE%9D%CE%A5%CE%A7",
+  "listing_sha256": "7c876c41fedd114079998061247d140ec05cf513ce357758fc81ae16ccdbcdde",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
