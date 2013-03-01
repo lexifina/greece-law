@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΔΞΟΡ1Φ-Α79",
+  "subject": "Έλεγχος Νομιμότητας της με αριθμό 1950/2012 Απόφασης Ο.Ε. Περιφέρειας Πελοποννήσου",
+  "protocol_number": "2026/639",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87638"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-02-11",
+  "posted": "2013-03-01",
+  "publish_timestamp_ms": 1362137740000,
+  "version_id": "1fa7f2fc-c6ee-46ea-a24a-1628451bc07b",
+  "in_force": "2013-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%9E%CE%9F%CE%A11%CE%A6-%CE%9179",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%9E%CE%9F%CE%A11%CE%A6-%CE%9179/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%94%CE%9E%CE%9F%CE%A11%CE%A6-%CE%9179",
+  "listing_sha256": "94e04faba4a50ee2363fc69d2a83ab848184e4d1e4bb1e5fd78317d54fa5e0d3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
