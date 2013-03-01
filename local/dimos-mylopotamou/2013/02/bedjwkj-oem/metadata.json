@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΔΞΩΚΞ-ΟΕΜ",
+  "subject": "Έγκριση διενέργειας της προμήθειας με τίτλο «Προμήθεια παρελκόμενου μηχανήματος (καταστροφέα)», ποσού 5.000,00 € του προϋπολογισμού οικονομικού έτους 2013 και καθορισμό τρόπου εκτέλεσης αυτής.",
+  "protocol_number": "24",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6201",
+    "label": "ΔΗΜΟΣ ΜΥΛΟΠΟΤΑΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79241"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-02-20",
+  "posted": "2013-03-01",
+  "publish_timestamp_ms": 1362142516000,
+  "version_id": "4490f6a3-33f8-464f-a238-d3ccaa28b076",
+  "in_force": "2013-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%9E%CE%A9%CE%9A%CE%9E-%CE%9F%CE%95%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%9E%CE%A9%CE%9A%CE%9E-%CE%9F%CE%95%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%94%CE%9E%CE%A9%CE%9A%CE%9E-%CE%9F%CE%95%CE%9C",
+  "listing_sha256": "7175c1c42af2d417df88b44d9232d0244b416e6e9b3fab80ae6af57aabb97143",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
