@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΔ1ΩΡΚ-ΜΓ3",
+  "subject": "Απόφαση έγκρισης πληρωμής προμήθειας υλικών στεγανοποίησης  στέγης για την κάλυψη αναγκών  του  Νηπιαγωγείων  Ζαγοράς",
+  "protocol_number": "61",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6098",
+    "label": "ΔΗΜΟΣ ΖΑΓΟΡΑΣ - ΜΟΥΡΕΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85503"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-02-22",
+  "posted": "2013-03-02",
+  "publish_timestamp_ms": 1362223187000,
+  "version_id": "d86e1d66-58ca-41a4-b8ee-600b14b0beeb",
+  "in_force": "2013-03-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%941%CE%A9%CE%A1%CE%9A-%CE%9C%CE%933",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%941%CE%A9%CE%A1%CE%9A-%CE%9C%CE%933/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%941%CE%A9%CE%A1%CE%9A-%CE%9C%CE%933",
+  "listing_sha256": "44ce472798db8be1a3c8d05781f890544ec9a81beec41f0d9f98c5e59b9d8f41",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
