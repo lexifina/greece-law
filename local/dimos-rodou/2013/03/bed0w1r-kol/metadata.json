@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΔ0Ω1Ρ-ΚΟΛ",
+  "subject": "Απόφαση ανάθεσης εκτέλεσης του έργου που αφορά την  κατασκευή του έργου «Αντικατάσταση παλιών κουφωμάτων\r\nστις τουαλέτες του 2ο Δημοτικό Σχολείο Αφάντου»",
+  "protocol_number": "4/1-3-2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6265",
+    "label": "ΔΗΜΟΣ ΡΟΔΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87888"
+  ],
+  "thematic_category_ids": [
+    "32",
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-03-04",
+  "posted": "2013-03-04",
+  "publish_timestamp_ms": 1362387493000,
+  "version_id": "1dd159f2-b68c-4b72-9730-520e74c28cbf",
+  "in_force": "2013-03-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%940%CE%A91%CE%A1-%CE%9A%CE%9F%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%940%CE%A91%CE%A1-%CE%9A%CE%9F%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%940%CE%A91%CE%A1-%CE%9A%CE%9F%CE%9B",
+  "listing_sha256": "f392bb2893d25c7ce10720d90dd86ba784e25ee09ceeb3ae03fd8055d96d0fe3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
