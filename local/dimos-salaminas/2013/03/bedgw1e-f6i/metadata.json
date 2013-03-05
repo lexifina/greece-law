@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΔΓΩ1Ε-Φ6Ι",
+  "subject": "ΑΠΟΦΑΣΗ 64/2013 ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ ΔΗΜΟΥ ΣΑΛΑΜΙΝΑΣ \"ΨΗΦΙΣΗ ΠΙΣΤΩΣΗΣ  ΠΟΣΟΥ 18.450,00€ ΠΟΥ ΑΦΟΡΑ ΤΗΝ ΤΕΧΝΙΚΗ ΥΠΟΣΤΗΡΙΞΗ ΤΟΥ ΔΗΜΟΥ ΣΑΛΑΜΙΝΑΣ ΓΙΑ ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΓΙΑ ΤΗΝ ΩΡΙΜΑΝΣΗ ΤΟΥ ΕΡΓΟΥ : ΑΝΑΠΛΑΣΗ ΠΛΑΤΕΙΑΣ ΠΑΝΘΕΑΣ ΣΤΟ Δ.Δ.ΣΕΛΗΝΙΩΝ\".",
+  "protocol_number": "64/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6266",
+    "label": "ΔΗΜΟΣ ΣΑΛΑΜΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82820"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-03-05",
+  "posted": "2013-03-05",
+  "publish_timestamp_ms": 1362491440000,
+  "version_id": "f077e7e7-d540-4046-933b-46a63a42d4f5",
+  "in_force": "2013-03-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%93%CE%A91%CE%95-%CE%A66%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%93%CE%A91%CE%95-%CE%A66%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%94%CE%93%CE%A91%CE%95-%CE%A66%CE%99",
+  "listing_sha256": "ca0e55d5a936730d39d214b7480c9e580ef74cea167a163fad1e5af3de0518e2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
