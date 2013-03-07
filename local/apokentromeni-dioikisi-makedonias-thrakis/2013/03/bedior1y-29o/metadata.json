@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΔΙΟΡ1Υ-29Ο",
+  "subject": "Επικύρωση της αριθ.121/2012 απόφασης του Διοικητικού Συμβουλίου του ΝΠ ΚΟΙΝΩΝΙΚΗ ΦΡΟΝΤΙΔΑ & ΠΡΟΣΧΟΛΙΚΗ ΑΓΩΓΗ Δήμου Παγγαίου",
+  "protocol_number": "4423",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77837"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β49ΜΟΡ1Υ-8ΩΖ"
+      }
+    ]
+  },
+  "issued": "2013-03-07",
+  "posted": "2013-03-07",
+  "publish_timestamp_ms": 1362641151000,
+  "version_id": "9aafc961-1789-4bf3-abef-57c157e6ceb7",
+  "in_force": "2013-03-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%99%CE%9F%CE%A11%CE%A5-29%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%99%CE%9F%CE%A11%CE%A5-29%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%94%CE%99%CE%9F%CE%A11%CE%A5-29%CE%9F",
+  "listing_sha256": "023a2b7cdcde1ee9e5e0103d6a33b73dc136a038b39b2e609e420e6f4251087c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
