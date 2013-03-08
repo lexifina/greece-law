@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΔΘΩΞΑ-ΟΟΗ",
+  "subject": "Απόφαση Δημοτικού Συμβουλίου 73/2013 Ορισμός ορκωτού λογιστή για τη χρήση 2013",
+  "protocol_number": "73",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6249",
+    "label": "ΔΗΜΟΣ ΠΗΝΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82172"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-02-12",
+  "posted": "2013-03-08",
+  "publish_timestamp_ms": 1362735972000,
+  "version_id": "530b77ea-eafc-4a67-ba74-a100be2e7d6a",
+  "in_force": "2013-03-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%98%CE%A9%CE%9E%CE%91-%CE%9F%CE%9F%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%98%CE%A9%CE%9E%CE%91-%CE%9F%CE%9F%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%94%CE%98%CE%A9%CE%9E%CE%91-%CE%9F%CE%9F%CE%97",
+  "listing_sha256": "d37fcaaae290949e0dcb5f4ef999bfc7b4bfc61d7bf0907b0ff968ffbb7657d8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
