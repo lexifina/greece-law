@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΔΔΩΞΒ-ΠΒΞ",
+  "subject": "ΕΓΚΡΙΣΗ ΠΡΑΚΤΙΚΟΥ ΔΣ 3/6-3-2013 ΤΟΥ Τ.Ο.Ε.Β Β.Π.ΑΡΔΑ",
+  "protocol_number": "11638",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6225",
+    "label": "ΔΗΜΟΣ ΟΡΕΣΤΙΑΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83922"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-03-11",
+  "posted": "2013-03-12",
+  "publish_timestamp_ms": 1363092223000,
+  "version_id": "2d5cdbb7-e236-49cb-aa62-7e69343243cf",
+  "in_force": "2013-03-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%94%CE%A9%CE%9E%CE%92-%CE%A0%CE%92%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%94%CE%A9%CE%9E%CE%92-%CE%A0%CE%92%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%94%CE%94%CE%A9%CE%9E%CE%92-%CE%A0%CE%92%CE%9E",
+  "listing_sha256": "0d3e589bf44a1e17d37b8a4518214f1c0c8a4336953a359c6bd4693baaf2720a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
