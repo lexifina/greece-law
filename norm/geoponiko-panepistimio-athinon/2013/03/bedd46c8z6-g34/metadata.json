@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΔΔ46Ψ8Ζ6-Γ34",
+  "subject": "Τροποποίηση ανάρτησης",
+  "protocol_number": "3805",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99202112",
+    "label": "ΓΕΩΠΟΝΙΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "73234"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΔΦ46Ψ8Ζ6-ΜΣ4"
+      }
+    ]
+  },
+  "issued": "2013-03-11",
+  "posted": "2013-03-12",
+  "publish_timestamp_ms": 1363081010000,
+  "version_id": "80d1687b-aa0b-49d1-9b2e-2b6899f435c2",
+  "in_force": "2013-03-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%9446%CE%A88%CE%966-%CE%9334",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%9446%CE%A88%CE%966-%CE%9334/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%94%CE%9446%CE%A88%CE%966-%CE%9334",
+  "listing_sha256": "0d3e589bf44a1e17d37b8a4518214f1c0c8a4336953a359c6bd4693baaf2720a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
