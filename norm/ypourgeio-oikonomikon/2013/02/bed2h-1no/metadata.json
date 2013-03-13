@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΔ2Η-1ΝΟ",
+  "subject": "Καθορισμός των ωρών απογευματινής υπερωριακής και νυχτερινής απασχόλησης εργασίμων ημερών και νυχτερινής και ημερήσιας απασχόλησης κατά τις Κυριακές και Εξαιρέσιμες ημέρες για το χρονικό διάστημα από τη δημοσίευση της παρούσας και μέχρι 31-12-2013, προς συμπλήρωση της υποχρεωτικής εβδομαδιαίας εργασίας και καθ’ υπέρβαση της εβδομαδιαίας υποχρεωτικής εργασίας για το προσωπικό που υπηρετεί στις Υπηρεσιακές μονάδες των Τελωνείων",
+  "protocol_number": "2/14291/0022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "543"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-02-27",
+  "posted": "2013-03-13",
+  "publish_timestamp_ms": 1363171875000,
+  "version_id": "e50a2da2-2bc3-419f-b03e-4d1e804203bd",
+  "in_force": "2013-03-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%942%CE%97-1%CE%9D%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%942%CE%97-1%CE%9D%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%942%CE%97-1%CE%9D%CE%9F",
+  "listing_sha256": "a97f7dd0fb3287b6578d68015ece767f0387f455037f14e02875b6d6e7dfdce7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
