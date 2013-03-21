@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΔΖΩΡΓ-ΩΓΘ",
+  "subject": "Λήψη Απόφασης ως προς την αποδοχή ή\r\nόχι της Απόφασης Προέγκρισης\r\nΔημοπράτησης και καθορισμός του τρόπου\r\nδημοπράτησης του Υποέργου «Υπηρεσίες\r\nΔικτύου Κοινωνικής Φροντίδας «e-Βοήθεια\r\nστο Σπίτι» της Πράξης (327578) «Δημιουργία\r\nΚέντρου Τηλεπρόνοιας & Ανάπτυξη\r\nΨηφιακών Υπηρεσιών Κοινωνικής & Ιατρικής\r\nΦροντίδας».",
+  "protocol_number": "89/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6103",
+    "label": "ΔΗΜΟΣ ΖΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81886"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-03-14",
+  "posted": "2013-03-21",
+  "publish_timestamp_ms": 1363850388000,
+  "version_id": "25af56d7-9d60-400d-b84e-a7086880cd58",
+  "in_force": "2013-03-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%96%CE%A9%CE%A1%CE%93-%CE%A9%CE%93%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%94%CE%96%CE%A9%CE%A1%CE%93-%CE%A9%CE%93%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%94%CE%96%CE%A9%CE%A1%CE%93-%CE%A9%CE%93%CE%98",
+  "listing_sha256": "70e7472cb8de00946da18545bf680b092703cd035d5b5745afc336fd2f572084",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
