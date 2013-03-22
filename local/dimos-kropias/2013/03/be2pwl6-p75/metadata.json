@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕ2ΠΩΛ6-Π75",
+  "subject": "Αποδοχή ποσού 34.169,75 € ως μέρος  της  E΄δόσης 2013,στο πλαίσιο εξόφλησης των πάσης  φύσεως οφειλών του Ελληνικού Δημοσίου,\r\nσύμφωνα με το άρθρο 27 του ν. 3756/2009",
+  "protocol_number": "84 9η/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6160",
+    "label": "ΔΗΜΟΣ ΚΡΩΠΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81453"
+  ],
+  "thematic_category_ids": [
+    "24",
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-03-19",
+  "posted": "2013-03-22",
+  "publish_timestamp_ms": 1363948947000,
+  "version_id": "6e8a7fd5-3ded-4067-919b-b369144f883b",
+  "in_force": "2013-03-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%952%CE%A0%CE%A9%CE%9B6-%CE%A075",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%952%CE%A0%CE%A9%CE%9B6-%CE%A075/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%952%CE%A0%CE%A9%CE%9B6-%CE%A075",
+  "listing_sha256": "93686d321eb2f4a2a4f99dfab394236a712e76b9b7c664f774912afd8217fc9f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
