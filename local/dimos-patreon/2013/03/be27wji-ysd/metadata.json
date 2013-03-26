@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕ27ΩΞΙ-ΥΣΔ",
+  "subject": "158/2013 Απόφαση Δημοτικού Συμβουλίου Συζήτηση επί ερωτήσεων σχετικά με: α) την μη καταβολή των προνοιακών επιδομάτων σε διαβητικούς, β) τις προσκλήσεις και τα e-mail των εισηγήσεων των συνεδριάσεων της Οικονομικής Επιτροπής, γ) το πρόβλημα της διακοπής υδροδότησης στην περιοχή της Αγίας Σοφίας και δ) την απόφαση του ΦΟ.Δ.Σ.Α. για αίτηση παραχώρησης 16,5 στρεμμάτων για Σ.Μ.Α.",
+  "protocol_number": "Δ.Υ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6241",
+    "label": "ΔΗΜΟΣ ΠΑΤΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82479"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-03-21",
+  "posted": "2013-03-26",
+  "publish_timestamp_ms": 1364302579000,
+  "version_id": "8bb01f00-d2a4-407c-90ba-f72cc05469b9",
+  "in_force": "2013-03-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9527%CE%A9%CE%9E%CE%99-%CE%A5%CE%A3%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9527%CE%A9%CE%9E%CE%99-%CE%A5%CE%A3%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9527%CE%A9%CE%9E%CE%99-%CE%A5%CE%A3%CE%94",
+  "listing_sha256": "db2483b9bd115517bd82f2ccfbc1d3a0b0999747606aedf3377c5ddb2ec12987",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
