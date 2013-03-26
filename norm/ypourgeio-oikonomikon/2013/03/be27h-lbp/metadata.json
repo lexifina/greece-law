@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕ27Η-ΛΒΠ",
+  "subject": "Τροποποιήσεις της ΠΟΛ 1041/2013 αναφορικά με παρατάσεις προθεσμιών υποβολής των συγκεντρωτικών δηλώσεων των ημεδαπών ή αλλοδαπών διαχειριστριών εταιρειών που είναι εγκατεστημένες στην Ελλάδα με βάση το άρθρο 25 του Ν.27/1975 και των δηλώσεων φορολογίας πλοίων με ξένη σημαία έτους 2013.",
+  "protocol_number": "ΠΟΛ 1050",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "600"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-03-14",
+  "posted": "2013-03-26",
+  "publish_timestamp_ms": 1364298308000,
+  "version_id": "ace37a9f-3cb6-40af-b57d-81dd209a0464",
+  "in_force": "2013-03-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9527%CE%97-%CE%9B%CE%92%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9527%CE%97-%CE%9B%CE%92%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9527%CE%97-%CE%9B%CE%92%CE%A0",
+  "listing_sha256": "7ed3f5e624cf2f7d438cb226e35ed4108e65a3c1ea3567106af71f6a0d7429de",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
