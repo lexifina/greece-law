@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕ27ΩΞΙ-ΜΒΥ",
+  "subject": "109/2013 Απόφαση Δημοτικού Συμβουλίου Μονοδρόμηση τμήματος της οδού Δαβάκη, Τοπικής Κοινότητας Αραχωβιτίκων (εγκρίθηκε σύμφωνα με την υπ. αρ. 25093/3210/15-3-2013 Απόφαση του Γενικού Γραμματέα της Α.Δ.Π.Δ.Ε.&Ι.)",
+  "protocol_number": "Δ.Υ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6241",
+    "label": "ΔΗΜΟΣ ΠΑΤΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82479"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΔΖΟΡ1Φ-ΖΩΡ"
+      }
+    ]
+  },
+  "issued": "2013-02-27",
+  "posted": "2013-03-26",
+  "publish_timestamp_ms": 1364305460000,
+  "version_id": "adb5e823-f8c3-4875-940a-acdf4f9ef116",
+  "in_force": "2013-03-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9527%CE%A9%CE%9E%CE%99-%CE%9C%CE%92%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9527%CE%A9%CE%9E%CE%99-%CE%9C%CE%92%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9527%CE%A9%CE%9E%CE%99-%CE%9C%CE%92%CE%A5",
+  "listing_sha256": "48843dbe95f2b6ac0d31cf6fa41db0a95ce31f4b6b958b74ebbb17756bf27a1d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
