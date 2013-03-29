@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕ2ΨΩ9Ξ-ΟΜΟ",
+  "subject": "Απόφαση 23/2013 Οικ. Επιτ. με θέμα \"Συγκρότηση επιτροπής διενέργειας διαγωνισμών και αξιολόγηση προσφορών ΕΚΠΟΤΑ για το έτος 2013\".",
+  "protocol_number": "23",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6065",
+    "label": "ΔΗΜΟΣ ΓΕΩΡΓΙΟΥ ΚΑΡΑΙΣΚΑΚΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85152"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-03-21",
+  "posted": "2013-03-29",
+  "publish_timestamp_ms": 1364554594000,
+  "version_id": "ea0f5043-b62d-4493-9f07-75b75822d72c",
+  "in_force": "2013-03-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%952%CE%A8%CE%A99%CE%9E-%CE%9F%CE%9C%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%952%CE%A8%CE%A99%CE%9E-%CE%9F%CE%9C%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%952%CE%A8%CE%A99%CE%9E-%CE%9F%CE%9C%CE%9F",
+  "listing_sha256": "ad33c54b1d01216a2d0084629e2fa09eeef6eee49c7469a946b482674b9849dc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
