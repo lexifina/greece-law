@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕ2ΨΩΕΒ-04Μ",
+  "subject": "Έγκριση καθιέρωσης υπερωριακής εργασίας απογευματινών ωρών για τους υπαλλήλους του Δήμου Ιλίου",
+  "protocol_number": "3426",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6123",
+    "label": "ΔΗΜΟΣ ΙΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78732"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "628"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-01-23",
+  "posted": "2013-03-29",
+  "publish_timestamp_ms": 1364553945000,
+  "version_id": "e62efa67-bd80-49f2-a751-02efddf40f4b",
+  "in_force": "2013-03-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%952%CE%A8%CE%A9%CE%95%CE%92-04%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%952%CE%A8%CE%A9%CE%95%CE%92-04%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%952%CE%A8%CE%A9%CE%95%CE%92-04%CE%9C",
+  "listing_sha256": "64200fb6050cf5357431622f86d04d8cef72aed43105e609c2ad9198deb59352",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
