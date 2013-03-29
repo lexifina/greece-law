@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕ2Ψ6-Ο5Υ",
+  "subject": "ΜΕΤΑΘΕΣΗ ΥΠΑΛΛΗΛΟΥ",
+  "protocol_number": "Φ. 471.32/34/13/Σ.134325/ΥΠΕΘΑ/ΓΕΝ/Β5-ΙΙ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-02-26",
+  "posted": "2013-03-29",
+  "publish_timestamp_ms": 1364544172000,
+  "version_id": "44c80730-c031-413d-b39d-5e4ccf295ed3",
+  "in_force": "2013-03-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%952%CE%A86-%CE%9F5%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%952%CE%A86-%CE%9F5%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%952%CE%A86-%CE%9F5%CE%A5",
+  "listing_sha256": "3af52a46061c9c0cda8b95cb0e17a2f899cb2c0f02f6ba8f457e3e9bcbfda8df",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
