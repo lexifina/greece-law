@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΑΛΩ1Γ-7Α3",
+  "subject": "Έγκριση παράτασης της μίσθωσης του ακινήτου στο οποίο στεγάζεται το γραφείο της τ.κ. Πεύκων.",
+  "protocol_number": "69/013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6273",
+    "label": "ΔΗΜΟΣ ΣΗΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80115"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΤΧΩ1Γ-ΕΝΔ"
+      }
+    ]
+  },
+  "issued": "2013-03-19",
+  "posted": "2013-04-01",
+  "publish_timestamp_ms": 1364798728000,
+  "version_id": "99cc4270-b6cd-4f11-9046-c082730e42c0",
+  "in_force": "2013-04-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%9B%CE%A91%CE%93-7%CE%913",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%9B%CE%A91%CE%93-7%CE%913/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%91%CE%9B%CE%A91%CE%93-7%CE%913",
+  "listing_sha256": "acbd88e689461cd373e3fa8dd20560c62ed4b98a54a8e2f5c49db80e72ee3860",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
