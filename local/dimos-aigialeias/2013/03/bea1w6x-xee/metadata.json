@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΑ1Ω6Χ-ΧΕΕ",
+  "subject": "Απόφαση Δ.Σ. αριθ.101 «Επικύρωση της υπ΄ αριθ.525/2012 απόφασης του Δ.Σ. σχετικά με την τροποποίηση του ρυμοτομικού σχεδίου Αιγίου\r\nστο Ο.Τ. 92 του Δήμου Αιγίου (Ν. Αχαΐας), κατόπιν της υπ΄ αρ.68/10/17-03-11 Πράξης Γνωμοδότησης του Κ.Σ.Χ.Ο.Π.».",
+  "protocol_number": "10742",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6015",
+    "label": "ΔΗΜΟΣ ΑΙΓΙΑΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80851"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-03-29",
+  "posted": "2013-04-04",
+  "publish_timestamp_ms": 1365071066000,
+  "version_id": "e5a45c91-ac76-4566-8c00-fc1ed60de4d2",
+  "in_force": "2013-04-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%911%CE%A96%CE%A7-%CE%A7%CE%95%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%911%CE%A96%CE%A7-%CE%A7%CE%95%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%911%CE%A96%CE%A7-%CE%A7%CE%95%CE%95",
+  "listing_sha256": "578430e27c4b654d076bbd49364bfc55a3f165a4324342b2461564e373f001c0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
