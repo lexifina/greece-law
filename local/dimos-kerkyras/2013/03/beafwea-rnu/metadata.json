@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΑΦΩΕΑ-ΡΝΘ",
+  "subject": "Λήψη Αποφάσεως περί αποδοχής χρηματοδότησης της Πράξης «ΣΧΟΛΙΚΟ ΚΕΝΤΡΟ ΣΤΑ ΒΡΑΓΚΑΝΙΩΤΙΚΑ Δ.Ε. ΜΕΛΙΤΕΙΕΩΝ ΚΕΡΚΥΡΑΣ",
+  "protocol_number": "7-67",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6147",
+    "label": "ΔΗΜΟΣ ΚΕΡΚΥΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83170"
+  ],
+  "thematic_category_ids": [
+    "64"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-03-20",
+  "posted": "2013-04-08",
+  "publish_timestamp_ms": 1365431179000,
+  "version_id": "a948c132-8c48-4a96-87e7-e21bbd93ee30",
+  "in_force": "2013-04-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%A6%CE%A9%CE%95%CE%91-%CE%A1%CE%9D%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%A6%CE%A9%CE%95%CE%91-%CE%A1%CE%9D%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%91%CE%A6%CE%A9%CE%95%CE%91-%CE%A1%CE%9D%CE%98",
+  "listing_sha256": "2e7281cd979e6ad2d615f7d192c11cc03ae3a097bca1fc0b1bce795c4c413c3e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
