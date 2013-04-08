@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΑΦΩΡ5-ΛΙΙ",
+  "subject": "Εγκρίνει κατά πλειοψηφία τον καθορισμό του αριθμού και των ειδικοτήτων προσωπικού με σχέση εργασίας ιδιωτικού δικαίου ορισμένου χρόνου για την αντιμετώπιση περιοδικών και πρόσκαιρων αναγκών του Ιδρύματος για το έτος 2012, σύμφωνα με τις διατάξεις του άρθρου 21 του Ν. 2190/1994, όπως ισχύει, του άρθρου 9 του Ν. 3812/2009, όπως ισχύει, του άρθρου 205 του Ν. 2584/2007 και του άρθρου ένατου παρ. 20 α του Ν. 4075/2012 όπως ισχύει.",
+  "protocol_number": "512/2013 ΑΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91706"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΤΩ4691ΗΩ-579"
+      }
+    ]
+  },
+  "issued": "2013-03-28",
+  "posted": "2013-04-08",
+  "publish_timestamp_ms": 1365403996000,
+  "version_id": "8372475c-1323-4eab-a620-a7eb775c3c13",
+  "in_force": "2013-04-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%A6%CE%A9%CE%A15-%CE%9B%CE%99%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%A6%CE%A9%CE%A15-%CE%9B%CE%99%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%91%CE%A6%CE%A9%CE%A15-%CE%9B%CE%99%CE%99",
+  "listing_sha256": "94281c82bca7421dac4eaa457dfc6ff4bfbab1c05f4e1b35619b3acf21ca1306",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
