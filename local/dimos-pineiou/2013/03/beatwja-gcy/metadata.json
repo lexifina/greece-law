@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΑΤΩΞΑ-ΓΨΥ",
+  "subject": "ΑΟΕ 45/2013 \"ΕΓΚΡΙΣΗ ΠΡΑΚΤΙΚΟΥ ΔΗΜΟΠΡΑΣΙΑΣ: Α) ΑΝΤΙΠΥΡΙΚΗ ΛΩΡΙΔΑ - ΔΡΟΜΟΣ ΚΑΛΥΒΙΩΝ , ΣΥΝΟΛΙΚΟΥ ΜΗΚΟΥΣ 2+623 ΧΛΜ. Β) ΑΓΡΟΤΙΚΗ ΠΕΡΙΟΧΗ ΚΑΛΥΒΙΩΝ-ΠΑΛΙΟΚΟΠΡΙ, ΣΥΝΟΛΙΚΟΥ ΜΗΚΟΥΣ 0+989 ΧΛΜ. Γ) ΠΑΛΙΟΚΟΠΡΙ - ΠΑΡΑΛΙΑΚΟ ΜΟΝΟΠΑΤΙ, ΣΥΝΟΛΙΚΟΥ ΜΗΚΟΥΣ 0+989 ΧΛΜ. , ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ 535.199,40 ΕΥΡΩ\"",
+  "protocol_number": "45/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6249",
+    "label": "ΔΗΜΟΣ ΠΗΝΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83529"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-03-29",
+  "posted": "2013-04-12",
+  "publish_timestamp_ms": 1365758497000,
+  "version_id": "eb2fd057-717b-4b52-8701-5a7ba58f8684",
+  "in_force": "2013-04-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%A4%CE%A9%CE%9E%CE%91-%CE%93%CE%A8%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%A4%CE%A9%CE%9E%CE%91-%CE%93%CE%A8%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%91%CE%A4%CE%A9%CE%9E%CE%91-%CE%93%CE%A8%CE%A5",
+  "listing_sha256": "578430e27c4b654d076bbd49364bfc55a3f165a4324342b2461564e373f001c0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
