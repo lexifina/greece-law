@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΑΤΩΞΑ-ΧΛΡ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ 84/2013 \"ΛΗΨΗ ΑΠΟΦΑΣΗΣ ΠΕΡΙ ΕΠΙΒΟΛΗΣ ΤΕΛΟΥΣ ΕΠΙ ΤΩΝ ΑΚΑΘΑΡΙΣΤΩΝ ΕΣΟΔΩΝ ΤΩΝ ΚΕΝΤΡΩΝ ΔΙΑΣΚΕΔΑΣΗΣ, ΕΣΤΙΑΤΟΡΙΩΝ ΚΑΙ ΣΥΝΑΦΩΝ ΚΑΤΑΣΤΗΜΑΤΩΝ ΣΕ ΠΕΡΙΟΧΕΣ Ή ΤΜΗΜΑ ΤΟΥ ΔΗΜΟΥ ΠΟΥ ΔΕΝ ΕΧΕΙ ΕΠΙΒΛΗΘΕΙ\"",
+  "protocol_number": "84/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6249",
+    "label": "ΔΗΜΟΣ ΠΗΝΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82172"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-02-12",
+  "posted": "2013-04-12",
+  "publish_timestamp_ms": 1365760098000,
+  "version_id": "8368f3ac-a833-4228-b9dc-661d490858b6",
+  "in_force": "2013-04-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%A4%CE%A9%CE%9E%CE%91-%CE%A7%CE%9B%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%A4%CE%A9%CE%9E%CE%91-%CE%A7%CE%9B%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%91%CE%A4%CE%A9%CE%9E%CE%91-%CE%A7%CE%9B%CE%A1",
+  "listing_sha256": "d37fcaaae290949e0dcb5f4ef999bfc7b4bfc61d7bf0907b0ff968ffbb7657d8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
