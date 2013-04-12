@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΑΤΩΚΨ-6ΑΦ",
+  "subject": "ΠΕΡΙΛΗΠΤΙΚΗ ΔΙΑΚΥΡΗΞΗ ΠΡΟΧΕΙΡΟΥ ΔΙΑΓΩΝΙΣΜΟΥ ΓΙΑ ΤΗΝ ΑΣΦΑΛΙΣΗ ΤΩΝ ΑΥΤΟΚΙΝΗΤΩΝ ΤΟΥ ΔΗΜΟΥ",
+  "protocol_number": "6646",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6195",
+    "label": "ΔΗΜΟΣ AΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80772"
+  ],
+  "thematic_category_ids": [
+    "68"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_DDS",
+      "issueyear": 2013,
+      "aa": "227"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-09",
+  "posted": "2013-04-12",
+  "publish_timestamp_ms": 1365753126000,
+  "version_id": "6ce97eb1-b33f-4307-84c9-7b92fbcce2dc",
+  "in_force": "2013-04-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%A4%CE%A9%CE%9A%CE%A8-6%CE%91%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%A4%CE%A9%CE%9A%CE%A8-6%CE%91%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%91%CE%A4%CE%A9%CE%9A%CE%A8-6%CE%91%CE%A6",
+  "listing_sha256": "a506917bb9983e67fda6c4fe2c994c1a0d6bdf564b67cca5973c8f90302a69a7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
