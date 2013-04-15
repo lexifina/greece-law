@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΑ2ΩΨΜ-ΠΩΗ",
+  "subject": "Απόφαση Οικονομικής Επιτροπής (105/2012) σε ορθή επανάληψη:\"Έγκριση πρακτικού πρόχειρου διαγωνισμού για την \"Προμήθεια εξοπλισμού για τα τμήματα ένταξης δημοτικών σχολείων του Δήμου Αρχανών-Αστερουσίων: 1ο ΔΣ Αρχανών, 2ο ΔΣ Αρχανών, ΔΣ Πύργου, ΔΣ Αγιών Παρασκιών (υποέργο 2:  \"προμήθεια επίπλων, εξοπλισμού γυμναστικής και λοιπού εξοπλισμού \")",
+  "protocol_number": "105",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6047",
+    "label": "ΔΗΜΟΣ ΑΡΧΑΝΩΝ - ΑΣΤΕΡΟΥΣΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80138"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-05-15",
+  "posted": "2013-04-15",
+  "publish_timestamp_ms": 1366026675000,
+  "version_id": "d900e190-aa37-4f1f-b297-980c2232fd8d",
+  "in_force": "2013-04-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%912%CE%A9%CE%A8%CE%9C-%CE%A0%CE%A9%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%912%CE%A9%CE%A8%CE%9C-%CE%A0%CE%A9%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%912%CE%A9%CE%A8%CE%9C-%CE%A0%CE%A9%CE%97",
+  "listing_sha256": "dbce2bda194e1d1496be80f01ce9f36d332009637dc8024c520037859634e527",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
