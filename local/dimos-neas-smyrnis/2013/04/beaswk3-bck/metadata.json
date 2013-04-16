@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΑΣΩΚ3-ΒΨΚ",
+  "subject": "Έγκριση & διάθεση πίστωσης ποσού #180,00# € για συμμετοχή δύο υπαλλήλων σε σεμινάριο",
+  "protocol_number": "65",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6211",
+    "label": "ΔΗΜΟΣ ΝΕΑΣ ΣΜΥΡΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81586"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-12",
+  "posted": "2013-04-16",
+  "publish_timestamp_ms": 1366108203000,
+  "version_id": "97b13fc4-98f9-468e-b8c8-c8a8bde2da82",
+  "in_force": "2013-04-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%A3%CE%A9%CE%9A3-%CE%92%CE%A8%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%A3%CE%A9%CE%9A3-%CE%92%CE%A8%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%91%CE%A3%CE%A9%CE%9A3-%CE%92%CE%A8%CE%9A",
+  "listing_sha256": "e69c2c9c3b109240e36ee0e41a224fa18c72b53ddc8f76b669e3c0d34e60bd82",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
