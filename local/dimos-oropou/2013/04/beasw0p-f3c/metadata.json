@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΑΣΩ0Π-Φ3Ψ",
+  "subject": "ΑΠΟΦΑΣΗ Δ.Σ. 34/2013 ΕΓΚΡΙΣΗ ΔΕΣΜΕΥΣΗ ΠΙΣΤΩΣΗΣ ΚΑΙ ΑΝΑΘΕΣΗΣ ΔΑΠΑΝΗΣ ΓΙΑ ΤΗΝ ΑΠΟΛΥΜΑΝΣΗ ΤΩΝ ΠΑΙΔΙΚΩΝ ΣΤΑΘΜΩΝ",
+  "protocol_number": "34",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6324",
+    "label": "ΔΗΜΟΣ ΩΡΩΠΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87327"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-09",
+  "posted": "2013-04-16",
+  "publish_timestamp_ms": 1366111762000,
+  "version_id": "9e656731-ad52-4fd8-88e7-45259dd921ee",
+  "in_force": "2013-04-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%A3%CE%A90%CE%A0-%CE%A63%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%A3%CE%A90%CE%A0-%CE%A63%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%91%CE%A3%CE%A90%CE%A0-%CE%A63%CE%A8",
+  "listing_sha256": "a506917bb9983e67fda6c4fe2c994c1a0d6bdf564b67cca5973c8f90302a69a7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
