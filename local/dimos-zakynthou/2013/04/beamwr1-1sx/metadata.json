@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΑΜΩΡ1-1ΣΧ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ 666/2013",
+  "protocol_number": "666",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6100",
+    "label": "ΔΗΜΟΣ ΖΑΚΥΝΘΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79749"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-18",
+  "posted": "2013-04-19",
+  "publish_timestamp_ms": 1366371051000,
+  "version_id": "37d43599-f69b-4fa6-96c7-436dcd3fcc26",
+  "in_force": "2013-04-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%9C%CE%A9%CE%A11-1%CE%A3%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%9C%CE%A9%CE%A11-1%CE%A3%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%91%CE%9C%CE%A9%CE%A11-1%CE%A3%CE%A7",
+  "listing_sha256": "20eee8553fa466fc3fc3611e9ed59f5278760374a5abb1d6f72cbc1de8b4b917",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
