@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΑ8ΩΕΓ-ΩΓΖ",
+  "subject": "Συμφωνητικό του έργου «Συνέχιση εργασιών δημοτικού κτιρίου στη θέση Αλώνια στην ΤΚ Νόστιμου» ΔΕ Ποταμιάς ποσού 10.000,00 ευρώ",
+  "protocol_number": "6805",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6137",
+    "label": "ΔΗΜΟΣ ΚΑΡΠΕΝΗΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83746"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-16",
+  "posted": "2013-04-22",
+  "publish_timestamp_ms": 1366624868000,
+  "version_id": "38d528b5-c6f9-4865-a555-c72f12e22082",
+  "in_force": "2013-04-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%918%CE%A9%CE%95%CE%93-%CE%A9%CE%93%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%918%CE%A9%CE%95%CE%93-%CE%A9%CE%93%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%918%CE%A9%CE%95%CE%93-%CE%A9%CE%93%CE%96",
+  "listing_sha256": "0b64943df8e85c9f0e7c27946b8887fab25cc10ca043dd5448e47a85e61c265e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
