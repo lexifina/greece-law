@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΑ8ΟΡ10-0ΧΞ",
+  "subject": "Επικύρωση της 101/2013 απόφαση του Δημοτικού Συμβουλίου του Δήμου Χαλκιδέων περί αναμόρφωσης προϋπολογισμού και τεχνικού προγράμματος",
+  "protocol_number": "1069/53850",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "79808"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΔΑΩΗΑ-42Κ"
+      }
+    ]
+  },
+  "issued": "2013-04-15",
+  "posted": "2013-04-22",
+  "publish_timestamp_ms": 1366624325000,
+  "version_id": "65cbcdb3-2ecf-40e4-8418-ed526ad1ee91",
+  "in_force": "2013-04-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%918%CE%9F%CE%A110-0%CE%A7%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%918%CE%9F%CE%A110-0%CE%A7%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%918%CE%9F%CE%A110-0%CE%A7%CE%9E",
+  "listing_sha256": "b63a9d57656d364ede07216fe7688e3957d87694e978e5aa2e14043832870761",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
