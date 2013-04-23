@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΑΖΗ-ΙΚΤ",
+  "subject": "ΕΓΚΡΙΣΗ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ",
+  "protocol_number": "5879",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "73747"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-23",
+  "posted": "2013-04-23",
+  "publish_timestamp_ms": 1366719541000,
+  "version_id": "f2e6aee2-0c43-4f7d-ab06-2d367b6878c2",
+  "in_force": "2013-04-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%96%CE%97-%CE%99%CE%9A%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%91%CE%96%CE%97-%CE%99%CE%9A%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%91%CE%96%CE%97-%CE%99%CE%9A%CE%A4",
+  "listing_sha256": "c4c5e9d956f70304de080cf9c2b42c8eb7ce793f7b048cd7be93e05ce54e7964",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
