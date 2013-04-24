@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕ5ΠΩΡΜ-0ΩΟ",
+  "subject": "Έγκριση Κανονισμού Λειτουργίας Δημοτικών Κοιμητηρίων Δήμου Θηβαίων (σχετ. οι υπ’ αιρθ. 55/2012 και 8/2013 αποφάσεις της Επιτροπής Ποιότητας Ζωής).",
+  "protocol_number": "94/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6115",
+    "label": "ΔΗΜΟΣ ΘΗΒΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79827"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-03-27",
+  "posted": "2013-04-24",
+  "publish_timestamp_ms": 1366803088000,
+  "version_id": "1c4363fa-ccb2-4d38-abda-ee5a5d89d657",
+  "in_force": "2013-04-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%955%CE%A0%CE%A9%CE%A1%CE%9C-0%CE%A9%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%955%CE%A0%CE%A9%CE%A1%CE%9C-0%CE%A9%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%955%CE%A0%CE%A9%CE%A1%CE%9C-0%CE%A9%CE%9F",
+  "listing_sha256": "0396deeb5015a08e6e6073faf60b6ec606392acff0cd0e425e4c809cb217e292",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
