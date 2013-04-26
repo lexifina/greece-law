@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕ54ΩΨΩ-ΜΑΝ",
+  "subject": "ΚΑΘΙΕΡΩΣΗ ΥΠΕΡΩΡΙΑΚΗΣ (ΑΠΟΓΕΥΜΑΤΙΝΗΣ) ΕΡΓΑΣΙΑΣ ΓΙΑ ΤΟ ΜΟΝΙΜΟ ΠΡΟΣΩΠΙΚΟ ΤΟΥ ΔΗΜΟΥ ΑΛΜΩΠΙΑΣ, ΕΤΟΥΣ 2013.",
+  "protocol_number": "1440",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6023",
+    "label": "ΔΗΜΟΣ ΑΛΜΩΠΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87519"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "478"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-01-22",
+  "posted": "2013-04-26",
+  "publish_timestamp_ms": 1366964065000,
+  "version_id": "d3a524f0-13de-4449-9b16-e749e306ae2e",
+  "in_force": "2013-04-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9554%CE%A9%CE%A8%CE%A9-%CE%9C%CE%91%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9554%CE%A9%CE%A8%CE%A9-%CE%9C%CE%91%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9554%CE%A9%CE%A8%CE%A9-%CE%9C%CE%91%CE%9D",
+  "listing_sha256": "2c038ac44c2a417383bd2f82d396aca22d9734909758bd4af6898792d891fbb2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
