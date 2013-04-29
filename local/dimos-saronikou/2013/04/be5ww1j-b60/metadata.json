@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕ5ΩΩ1Ξ-Β60",
+  "subject": "Λήψη απόφασης περί διενέργειας προμηθειών \r\n                  Δήμου Σαρωνικού.",
+  "protocol_number": "112",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6269",
+    "label": "ΔΗΜΟΣ ΣΑΡΩΝΙΚΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83914"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-18",
+  "posted": "2013-04-29",
+  "publish_timestamp_ms": 1367236221000,
+  "version_id": "e2e59ae5-346b-4405-90ef-bddc1f0f0518",
+  "in_force": "2013-04-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%955%CE%A9%CE%A91%CE%9E-%CE%9260",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%955%CE%A9%CE%A91%CE%9E-%CE%9260/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%955%CE%A9%CE%A91%CE%9E-%CE%9260",
+  "listing_sha256": "c44ff398e7c8d542cc7154aa780ddc9198564d2be2cba1a7b048c128fe855b1d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
