@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕ5ΩΩ9Ξ-472",
+  "subject": "Απόφαση Επισκευή και Συντήρηση του με αριθ. κυκλ. ΚΗΙ 7971 οχήματος",
+  "protocol_number": "3885",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6065",
+    "label": "ΔΗΜΟΣ ΓΕΩΡΓΙΟΥ ΚΑΡΑΙΣΚΑΚΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91242"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-19",
+  "posted": "2013-04-29",
+  "publish_timestamp_ms": 1367218790000,
+  "version_id": "31edd018-0b26-46b3-8814-24a7601d0099",
+  "in_force": "2013-04-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%955%CE%A9%CE%A99%CE%9E-472",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%955%CE%A9%CE%A99%CE%9E-472/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%955%CE%A9%CE%A99%CE%9E-472",
+  "listing_sha256": "0e7d38f00bbdd490d39406423bae30dabef9d3a388c29336812389eeb45e3b11",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
