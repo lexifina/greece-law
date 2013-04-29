@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕ5ΩΩΡ5-4ΔΕ",
+  "subject": "KΑΤΑΡΓΗΣΗ ΘΕΣΕΩΣ ΠΕΡΙΠΤΕΡΟΥ",
+  "protocol_number": "1218/34128",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91710"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-22",
+  "posted": "2013-04-29",
+  "publish_timestamp_ms": 1367219612000,
+  "version_id": "0e352b56-c900-458c-b064-835b6b3c4a29",
+  "in_force": "2013-04-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%955%CE%A9%CE%A9%CE%A15-4%CE%94%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%955%CE%A9%CE%A9%CE%A15-4%CE%94%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%955%CE%A9%CE%A9%CE%A15-4%CE%94%CE%95",
+  "listing_sha256": "093fef19a16edeff248dcfbaf28664e15bfb47b87980288eb3f6aacfea1b5977",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
