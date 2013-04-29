@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕ5ΩΩΡ1-ΥΤ7",
+  "subject": "Έγκριση δαπάνης για την συναυλία Μίλτου Λογιάδη",
+  "protocol_number": "165",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6100",
+    "label": "ΔΗΜΟΣ ΖΑΚΥΝΘΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79743"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-03",
+  "posted": "2013-04-29",
+  "publish_timestamp_ms": 1367210507000,
+  "version_id": "f4679760-bec4-4f81-89f3-8358e1b34d43",
+  "in_force": "2013-04-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%955%CE%A9%CE%A9%CE%A11-%CE%A5%CE%A47",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%955%CE%A9%CE%A9%CE%A11-%CE%A5%CE%A47/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%955%CE%A9%CE%A9%CE%A11-%CE%A5%CE%A47",
+  "listing_sha256": "a076d0405ff5eba92d4106b1c77c579a9d726bd2e82225876cb32ba4d1c75a74",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
