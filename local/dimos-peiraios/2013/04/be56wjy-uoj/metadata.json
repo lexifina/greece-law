@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕ56ΩΞΥ-ΘΟΞ",
+  "subject": "ΣΥΝΕΧΙΣΗ ΟΙΚΟΔΟΜΙΚΩΝ ΕΡΓΑΣΙΩΝ ΣΤΗΝ ΟΙΚΟΔΟΜΗ ΕΠΙ ΤΗΣ ΟΔΟΥ ΜΑΥΡΟΚΟΡΔΑΤΟΥ 85 , ΣΤΟΝ ΠΕΙΡΑΙΑ",
+  "protocol_number": "3164/ 879",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6243",
+    "label": "ΔΗΜΟΣ ΠΕΙΡΑΙΩΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82173"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-29",
+  "posted": "2013-04-30",
+  "publish_timestamp_ms": 1367305527000,
+  "version_id": "d2070c46-3959-4fde-b41d-4c1f07e212a0",
+  "in_force": "2013-04-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9556%CE%A9%CE%9E%CE%A5-%CE%98%CE%9F%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9556%CE%A9%CE%9E%CE%A5-%CE%98%CE%9F%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9556%CE%A9%CE%9E%CE%A5-%CE%98%CE%9F%CE%9E",
+  "listing_sha256": "ecc7ed6e89d0ee3d248ce23001d20e3411f9629357e75f4b90703e406a2b55ac",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
