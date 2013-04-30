@@ -1,0 +1,51 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕ566-82Δ",
+  "subject": "Αποδοχή Προσφορών Πρόχειρου Μειοδοτικού Διαγωνισμού υπ’ αριθμ.2/2013 για την Διαχείριση Επικίνδυνων Ιατρικών Αποβλήτων (ΕΙΑ) του 251 ΓΝΑ",
+  "protocol_number": "6966",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "83478"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΔΓ6-Χ6Ξ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΕΑΤ6-ΑΛΤ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΕΑ56-09Ω"
+      },
+      {
+        "relatedDecisionsADA": "ΒΕ5Π6-4ΨΖ"
+      }
+    ]
+  },
+  "issued": "2013-04-29",
+  "posted": "2013-04-30",
+  "publish_timestamp_ms": 1367298709000,
+  "version_id": "b0309cb6-5245-4ae2-be46-7416de763b09",
+  "in_force": "2013-04-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95566-82%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95566-82%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95566-82%CE%94",
+  "listing_sha256": "ecc7ed6e89d0ee3d248ce23001d20e3411f9629357e75f4b90703e406a2b55ac",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
