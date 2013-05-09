@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝΓΩΗ1-ΧΗΗ",
+  "subject": "ΑΡ.ΑΠΟΦ.124/2013 Ψήφιση πίστωσης για την πληρωμή του  λογαριασμού του έργου «ΔΙΑΓΡΑΜΜΙΣΗ ΟΔΟΣΤΡΩΜΑΤΟΣ ΔΗΜΟΤΙΚΩΝ ΔΡΟΜΩΝ ΤΗΣ ΔΗΜΟΤΙΚΗΣ ΕΝΟΤΗΤΑΣ ΜΟΙΡΩΝ» .",
+  "protocol_number": "10533",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6304",
+    "label": "ΔΗΜΟΣ ΦΑΙΣΤΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84960"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-02",
+  "posted": "2013-05-09",
+  "publish_timestamp_ms": 1368085769000,
+  "version_id": "81177084-32b5-4339-91a6-95c6f0815f14",
+  "in_force": "2013-05-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%93%CE%A9%CE%971-%CE%A7%CE%97%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%93%CE%A9%CE%971-%CE%A7%CE%97%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D%CE%93%CE%A9%CE%971-%CE%A7%CE%97%CE%97",
+  "listing_sha256": "6525c85f726bf9aa633e97df64543039ce99f8dc36b92ee0c710760dfd214e0a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
