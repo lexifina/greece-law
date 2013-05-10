@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝΦΩΕΗ-ΚΩΠ",
+  "subject": "Ορισμός του δικηγόρου Δ.Σ.Α κ. Ηλ. Σπινάσα, ως πληρεξουσίου δικηγόρου του Δήμου Καρδίτσας για την υποστήριξη της υπ'αριθμ. 12/2009 έφεσης του πρώην Δήμου Ιτάμου κατά του πρώην Δήμου Φουρνά Ευρυτανίας και της υπ'αριθμ. 85/2009 οριστικής απόφασης του Μονομελούς Πρωτοδικείου Ευρυτανίας ενώπιον του Εφετείου Λαμίας και έγκριση των μέχρι τώρα ενεργειών του",
+  "protocol_number": "11144",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6135",
+    "label": "ΔΗΜΟΣ ΚΑΡΔΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82120"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-10",
+  "posted": "2013-05-10",
+  "publish_timestamp_ms": 1368177537000,
+  "version_id": "917cd858-1e6f-4be9-8526-33f976676dad",
+  "in_force": "2013-05-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%A6%CE%A9%CE%95%CE%97-%CE%9A%CE%A9%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%A6%CE%A9%CE%95%CE%97-%CE%9A%CE%A9%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D%CE%A6%CE%A9%CE%95%CE%97-%CE%9A%CE%A9%CE%A0",
+  "listing_sha256": "7459dc7716295c85d17972fc4d9833f99e0fead565891dd886869aecb01b34e9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
