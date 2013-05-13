@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝΥ7ΛΛ-Α3Φ",
+  "subject": "ΜΕΤΑΦΟΡΑ ΠΙΣΤΩΣΕΩΝ Κ.Α.Π. ΣΕ ΤΡΑΠΕΖΙΚΟΥΣ ΛΟΓΑΡΙΑΣΜΟΥΣ ΠΕΡΙΦΕΡΕΙΑΚΩΝ ΕΝΟΤΗΤΩΝ ΤΗΣ Π.Κ.Μ. - ΠΟΣΟΥ 476.075,00 €",
+  "protocol_number": "178741 (5708)",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5009",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80403"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-13",
+  "posted": "2013-05-13",
+  "publish_timestamp_ms": 1368447651000,
+  "version_id": "ab884163-8ffa-4e27-86ee-930f65aa2458",
+  "in_force": "2013-05-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%A57%CE%9B%CE%9B-%CE%913%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%A57%CE%9B%CE%9B-%CE%913%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D%CE%A57%CE%9B%CE%9B-%CE%913%CE%A6",
+  "listing_sha256": "f05c97181b7da81f3dcaa9bdb56d762a5d5d3b3227596925409c689d5c3fbf0c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
