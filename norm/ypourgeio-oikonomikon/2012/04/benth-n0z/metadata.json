@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝΤΗ-Ν0Ζ",
+  "subject": "Έγκριση Κανονισμού Λειτουργίας των Διευθύνσεων της Γενικής Διεύθυνσης Δημοσιονομικών Ελέγχων (Γ.Δ.Δ.Ε.) (παρ. 1 του άρθρου 6 του ν. 3492/2006)",
+  "protocol_number": "2/40366/ΔΥΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "1075"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-04-19",
+  "posted": "2013-05-14",
+  "publish_timestamp_ms": 1368531897000,
+  "version_id": "bfff95a2-1637-477c-bf79-334f671849bf",
+  "in_force": "2013-05-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%A4%CE%97-%CE%9D0%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%A4%CE%97-%CE%9D0%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D%CE%A4%CE%97-%CE%9D0%CE%96",
+  "listing_sha256": "394df52b1c3f6185a8b0ba7ccbfa7026245b240070bab734bec4f7483b26eb57",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
