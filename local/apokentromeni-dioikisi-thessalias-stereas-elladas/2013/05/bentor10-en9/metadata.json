@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝΤΟΡ10-ΕΝ9",
+  "subject": "ΔΙΑΠΙΣΤΩΤΙΚΟΥ ΧΑΡΑΚΤΗΡΑ ΑΠΟΦΑΣΗ ΓΙΑ ΤΗΝ ΤΕΚΜΑΙΡΟΜΕΝΗ ΝΟΜΙΜΟΤΗΤΑ ΤΗΣ ΑΡΙΘΜ 181/2013 ΑΠΟΦΑΣΗΣ ΔΣ ΔΗΜΟΥ ΒΟΛΟΥ",
+  "protocol_number": "977/60501",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77990"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕ26Ω96-ΒΕΔ"
+      }
+    ]
+  },
+  "issued": "2013-05-14",
+  "posted": "2013-05-14",
+  "publish_timestamp_ms": 1368522522000,
+  "version_id": "74d28663-c465-4faa-b11d-620484d9e709",
+  "in_force": "2013-05-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%A4%CE%9F%CE%A110-%CE%95%CE%9D9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%A4%CE%9F%CE%A110-%CE%95%CE%9D9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D%CE%A4%CE%9F%CE%A110-%CE%95%CE%9D9",
+  "listing_sha256": "fdf80e1fbb29ed47f6e33d7dc5a650faf573d381346745153703bfc31ef31455",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
