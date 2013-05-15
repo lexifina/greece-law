@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝ3Η-1ΡΠ",
+  "subject": "ΕΠΙΛΟΓΗ ΤΩΝ ΠΡΟΣ ΕΛΕΓΧΟ ΠΑΡΑΓΡΑΦΟΜΕΝΩΝ ΥΠΟΘΕΣΕΩΝ",
+  "protocol_number": "ΔΕΣ Α 1077518 ΕΞ 2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70116"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "1136"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-10",
+  "posted": "2013-05-15",
+  "publish_timestamp_ms": 1368620328000,
+  "version_id": "b0adb1fe-fc1c-4792-861d-4bf75b07b66a",
+  "in_force": "2013-05-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D3%CE%97-1%CE%A1%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D3%CE%97-1%CE%A1%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D3%CE%97-1%CE%A1%CE%A0",
+  "listing_sha256": "e9ef9bc11a0748c5d8d38c417c26cddf1b4dd5f85807fd44af0347d7592dad81",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
