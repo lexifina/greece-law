@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝ36-ΑΣΡ",
+  "subject": "Συγκρότηση Συλλογικών Οργάνων Πρόχειρου Μειοδοτικού Διαγωνισμού υπ’ αριθμ. 7/2013 για την Προμήθεια Υγρού Οξυγόνου και Μίσθωση Δεξαμενών 251 ΓΝΑ",
+  "protocol_number": "7407",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "83478"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΝΕ6-43Κ"
+      }
+    ]
+  },
+  "issued": "2013-05-10",
+  "posted": "2013-05-15",
+  "publish_timestamp_ms": 1368600042000,
+  "version_id": "7ad43a03-5eac-46a8-8eff-0e364a364493",
+  "in_force": "2013-05-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D36-%CE%91%CE%A3%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D36-%CE%91%CE%A3%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D36-%CE%91%CE%A3%CE%A1",
+  "listing_sha256": "e9ef9bc11a0748c5d8d38c417c26cddf1b4dd5f85807fd44af0347d7592dad81",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
