@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝΔΩΛΟ-8ΚΞ",
+  "subject": "ΚΑΘΟΡΙΣΜΟΣ ΑΝΩΤΑΤΟΥ ΟΡΙΟΥ ΕΠΙΤΡΕΠΟΜΕΝΩΝ ΗΜΕΡΩΝ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ ΥΠΑΛΛΗΛΩΝ ΤΟΥ ΔΗΜΟΥ ΚΟΜΟΤΗΝΗΣ ΕΤΟΥΣ 2013",
+  "protocol_number": "4299",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6155",
+    "label": "ΔΗΜΟΣ ΚΟΜΟΤΗΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "89346"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "527"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-01-31",
+  "posted": "2013-05-16",
+  "publish_timestamp_ms": 1368703293000,
+  "version_id": "332fbd83-67ab-402c-8885-6f24dafea44d",
+  "in_force": "2013-05-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%94%CE%A9%CE%9B%CE%9F-8%CE%9A%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%94%CE%A9%CE%9B%CE%9F-8%CE%9A%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D%CE%94%CE%A9%CE%9B%CE%9F-8%CE%9A%CE%9E",
+  "listing_sha256": "eec347dcbab563ec8c5652920752cb7df2c7f98a265427b09a8a6e685746f79d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
