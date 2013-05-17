@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝ2ΩΚΤ-ΞΩ8",
+  "subject": "ΠΕΡΙΛΗΠΤΙΚΗ ΔΙΑΚΗΡΥΞΗ ΜΕΛΕΤΗΣ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ ΓΙΑ ΤΗΝ ΝΑΥΑΓΟΣΩΣΤΙΚΗ ΚΑΛΥΨΗ ΤΟΥ ΔΗΜΟΥ Ν.ΠΡΟΠΟΝΤΙΔΑΣ 2013",
+  "protocol_number": "13274",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6210",
+    "label": "ΔΗΜΟΣ ΝΕΑΣ ΠΡΟΠΟΝΤΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81830"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_DDS",
+      "issueyear": 2013,
+      "aa": "288"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-14",
+  "posted": "2013-05-17",
+  "publish_timestamp_ms": 1368793811000,
+  "version_id": "308b44eb-1c99-40fc-84f7-32ca7b986c49",
+  "in_force": "2013-05-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D2%CE%A9%CE%9A%CE%A4-%CE%9E%CE%A98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D2%CE%A9%CE%9A%CE%A4-%CE%9E%CE%A98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D2%CE%A9%CE%9A%CE%A4-%CE%9E%CE%A98",
+  "listing_sha256": "608239f94fb63e427c9dde0edaaf6e2b92ae8361c6587ebec428a04e54dc8475",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
