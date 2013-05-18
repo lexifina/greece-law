@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝΣΩΨΜ-ΙΤΔ",
+  "subject": "Παράρτημα ΙΙ συνημένο στην 103/2013 απόφαση της Οικονομικής Επιτροπής",
+  "protocol_number": "103",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6047",
+    "label": "ΔΗΜΟΣ ΑΡΧΑΝΩΝ - ΑΣΤΕΡΟΥΣΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80138"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΝΣΩΨΜ-05Χ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΕΝΣΩΨΜ-Α2Π"
+      }
+    ]
+  },
+  "issued": "2013-04-22",
+  "posted": "2013-05-18",
+  "publish_timestamp_ms": 1368875975000,
+  "version_id": "e7ce54fa-7ab5-42c9-8bc3-81a301b7e623",
+  "in_force": "2013-05-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%A3%CE%A9%CE%A8%CE%9C-%CE%99%CE%A4%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%A3%CE%A9%CE%A8%CE%9C-%CE%99%CE%A4%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D%CE%A3%CE%A9%CE%A8%CE%9C-%CE%99%CE%A4%CE%94",
+  "listing_sha256": "0e224710ce764b64f9b81a966c268bb29aef53c07b292bb5431a2db131f9527e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
