@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝ5Ω1Ο-ΗΞΛ",
+  "subject": "Επιβολή ή μη προστίμου σχετικά με την καταγγελόμενη παράβαση Κανονισμού Καθαριότητας (Ρίψης  Μπαζών) .",
+  "protocol_number": "11583",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6257",
+    "label": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80520"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-03-15",
+  "posted": "2013-05-20",
+  "publish_timestamp_ms": 1369031890000,
+  "version_id": "e145eca9-2d22-4aeb-bc92-ecb5d769380a",
+  "in_force": "2013-05-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D5%CE%A91%CE%9F-%CE%97%CE%9E%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D5%CE%A91%CE%9F-%CE%97%CE%9E%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D5%CE%A91%CE%9F-%CE%97%CE%9E%CE%9B",
+  "listing_sha256": "5d407a9ac624dfc28103d2183fe1bc62d1e074d2269674fd55863cecc865f121",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
