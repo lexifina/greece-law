@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝΜΗ-ΒΣΞ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΙΕΝΕΡΓΕΙΑΣ ΕΛΕΓΧΟΥ ΜΙΣΘΟΔΟΣΙΑΣ",
+  "protocol_number": "2/49534/ΔΕΦΥΥ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70121"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-21",
+  "posted": "2013-05-21",
+  "publish_timestamp_ms": 1369138706000,
+  "version_id": "9f275add-9a18-45d9-a1cb-22e3bb8c7f4c",
+  "in_force": "2013-05-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%9C%CE%97-%CE%92%CE%A3%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%9C%CE%97-%CE%92%CE%A3%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D%CE%9C%CE%97-%CE%92%CE%A3%CE%9E",
+  "listing_sha256": "dfca42dd615b66058874e15b2b922443fd7827f1095ab00600972eeaa56f086e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
