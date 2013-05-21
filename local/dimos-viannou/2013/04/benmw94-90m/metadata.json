@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝΜΩ94-90Μ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ Αρ.79/2013 περί «Προμήθεια εξαρτημάτων ύδρευσης»",
+  "protocol_number": "3200",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6054",
+    "label": "ΔΗΜΟΣ ΒΙΑΝΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81442"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-11",
+  "posted": "2013-05-21",
+  "publish_timestamp_ms": 1369131082000,
+  "version_id": "8c8d37de-2706-43ee-b38e-cd7cbc5d3b31",
+  "in_force": "2013-05-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%9C%CE%A994-90%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%9C%CE%A994-90%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D%CE%9C%CE%A994-90%CE%9C",
+  "listing_sha256": "d92bf168f29c26a2ce242a1b9c596b0478ecb84370586507a47cd0f16c4e4b11",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
