@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝΝ7ΛΞ-ΘΚ9",
+  "subject": "ΕΓΚΡΙΣΗ ΑΣΚΗΣΗΣ ΕΜΠΟΡΙΑΣ ΓΕΩΡΓΙΚΩΝ ΦΑΡΜΑΚΩΝ",
+  "protocol_number": "2247",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5011",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78539"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-21",
+  "posted": "2013-05-22",
+  "publish_timestamp_ms": 1369209949000,
+  "version_id": "5261fc37-b26d-4d57-9e6d-aef8a55a11c9",
+  "in_force": "2013-05-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%9D7%CE%9B%CE%9E-%CE%98%CE%9A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%9D7%CE%9B%CE%9E-%CE%98%CE%9A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D%CE%9D7%CE%9B%CE%9E-%CE%98%CE%9A9",
+  "listing_sha256": "2a1751e749a580a646221583316cf254b5cb78bae643cffb3087aafa84062374",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
