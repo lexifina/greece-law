@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝΝ7ΛΞ-ΦΩ6",
+  "subject": "Έγκριση μετακίνησης εκτός έδρας στην Κέα",
+  "protocol_number": "1458",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5011",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "88708"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-24",
+  "posted": "2013-05-22",
+  "publish_timestamp_ms": 1369207546000,
+  "version_id": "7f013be5-ad50-44db-957b-00c825a84b7a",
+  "in_force": "2013-05-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%9D7%CE%9B%CE%9E-%CE%A6%CE%A96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%9D7%CE%9B%CE%9E-%CE%A6%CE%A96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D%CE%9D7%CE%9B%CE%9E-%CE%A6%CE%A96",
+  "listing_sha256": "7f56cdadea020b86d6639309d948b0a9f1ebd7081cedcbcc5b2a4912ea4639ee",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
