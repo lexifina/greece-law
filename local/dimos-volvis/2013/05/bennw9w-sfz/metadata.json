@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝΝΩ9Ω-ΣΦΖ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ 169/2013 - Εκμίσθωση Δημοτικής έκτασης Δ.Κ. Ασπροβάλτας, για εγκατάσταση συγκροτήματος  ΛΟΥΝΑ ΠΑΡΚ.",
+  "protocol_number": "169-2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6057",
+    "label": "ΔΗΜΟΣ ΒΟΛΒΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78101"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-22",
+  "posted": "2013-05-22",
+  "publish_timestamp_ms": 1369219196000,
+  "version_id": "e2e4e264-14b3-41e4-b6b6-e4ed8b190a2f",
+  "in_force": "2013-05-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%9D%CE%A99%CE%A9-%CE%A3%CE%A6%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%9D%CE%A99%CE%A9-%CE%A3%CE%A6%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D%CE%9D%CE%A99%CE%A9-%CE%A3%CE%A6%CE%96",
+  "listing_sha256": "1868c3f42069ca25c4bfe8f9008680aaca08fdf2a76aa0254ecb46359f6f9ae4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
