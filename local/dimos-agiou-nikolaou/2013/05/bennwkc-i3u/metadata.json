@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝΝΩΚΨ-Ι3Θ",
+  "subject": "Περί γνωμοδότησης της επιτροπής του άρθρου 46 του ΕΚΠΟΤΑ  σχετικά  με την εκτέλεση της  «Προμήθεια καυσίμων-  λιπαντικών έτους 2013 Ιδρυμάτων- Νομικών Προσώπων Δήμου Αγίου Νικολάου»",
+  "protocol_number": "8831",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6195",
+    "label": "ΔΗΜΟΣ AΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81923"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_DDS",
+      "issueyear": 2013,
+      "aa": "203"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΝΝΩΚΨ-ΘΟΦ"
+      }
+    ]
+  },
+  "issued": "2013-05-13",
+  "posted": "2013-05-22",
+  "publish_timestamp_ms": 1369223395000,
+  "version_id": "419d2bc7-f30e-4f30-b82d-902333d4df6e",
+  "in_force": "2013-05-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%9D%CE%A9%CE%9A%CE%A8-%CE%993%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%9D%CE%A9%CE%9A%CE%A8-%CE%993%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D%CE%9D%CE%A9%CE%9A%CE%A8-%CE%993%CE%98",
+  "listing_sha256": "31164ba05629b876c1cafed315cdae15c6b1a32b2dee8f7bd516cce711367944",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
