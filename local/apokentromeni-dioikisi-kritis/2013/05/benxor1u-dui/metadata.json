@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝΧΟΡ1Θ-ΔΘΙ",
+  "subject": "Ελεγχος νομιμότητας της 339/2013 απόφασης του ΔΣ του Δήμου Χανίων",
+  "protocol_number": "1209",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "83476"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-22",
+  "posted": "2013-05-23",
+  "publish_timestamp_ms": 1369283159000,
+  "version_id": "9d2800bc-72aa-41bb-a2c3-b7ae95730985",
+  "in_force": "2013-05-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%A7%CE%9F%CE%A11%CE%98-%CE%94%CE%98%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%A7%CE%9F%CE%A11%CE%98-%CE%94%CE%98%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D%CE%A7%CE%9F%CE%A11%CE%98-%CE%94%CE%98%CE%99",
+  "listing_sha256": "1868c3f42069ca25c4bfe8f9008680aaca08fdf2a76aa0254ecb46359f6f9ae4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
