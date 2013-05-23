@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝΧΩ9Γ-Ν2Γ",
+  "subject": "Απολογισμός πεπραγμένων Δημοτικής Αρχής Δήμου Γρεβενών για το έτος 2012",
+  "protocol_number": "17885",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6069",
+    "label": "ΔΗΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85454"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-23",
+  "posted": "2013-05-23",
+  "publish_timestamp_ms": 1369295989000,
+  "version_id": "35aff2a5-7fd3-4554-b4b1-b5970b63818c",
+  "in_force": "2013-05-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%A7%CE%A99%CE%93-%CE%9D2%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D%CE%A7%CE%A99%CE%93-%CE%9D2%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D%CE%A7%CE%A99%CE%93-%CE%9D2%CE%93",
+  "listing_sha256": "b26c89d31fd2db93cffd008acd1e724f9dee29dcd69fa8e84e6719afa9119a4c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
