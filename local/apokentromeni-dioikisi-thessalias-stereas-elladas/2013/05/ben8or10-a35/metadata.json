@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΝ8ΟΡ10-Α35",
+  "subject": "Επικύρωση της αριθμ. 44/2013 απόφασης του Δημοτικού Συμβουλίου του Δήμου Καρύστου περί Ψήφισης του Επιχειρησιακού Προγράμματος του Δήμου Καρύστου",
+  "protocol_number": "814/39841",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "79808"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΤΩΩΕΦ-Τ6Ε"
+      },
+      {
+        "relatedDecisionsADA": "ΒΕΤΩΩΕΦ-8ΕΒ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΕΤΩΩΕΦ-ΔΜΑ"
+      }
+    ]
+  },
+  "issued": "2013-05-22",
+  "posted": "2013-05-24",
+  "publish_timestamp_ms": 1369397347000,
+  "version_id": "050a2ba2-cc3e-4171-bbaf-57ea064669e1",
+  "in_force": "2013-05-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D8%CE%9F%CE%A110-%CE%9135",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9D8%CE%9F%CE%A110-%CE%9135/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9D8%CE%9F%CE%A110-%CE%9135",
+  "listing_sha256": "91cb01b1a2f53bbabba2f6244b879dea03deb5a634701b95a8ffceee1556b1fa",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
