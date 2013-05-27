@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΧΟ6-ΩΚΧ",
+  "subject": "Αποζημίωση Εκπαιδευτικού Προσωπικού (Καθορισμός Ωριαίας Αντιμισθίας Στρκων Εκπαιδευτών)",
+  "protocol_number": "128132",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70167"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "1108"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-18",
+  "posted": "2013-05-27",
+  "publish_timestamp_ms": 1369646548000,
+  "version_id": "d7ca61e7-98b2-4840-b56f-7d73786ee2eb",
+  "in_force": "2013-05-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A7%CE%9F6-%CE%A9%CE%9A%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A7%CE%9F6-%CE%A9%CE%9A%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A7%CE%9F6-%CE%A9%CE%9A%CE%A7",
+  "listing_sha256": "1d9d3f84c05f8d04d598c278e0aa3e1b0dc18b00e1e10cf7624832e77d95700d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
