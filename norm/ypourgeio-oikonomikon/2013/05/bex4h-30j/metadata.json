@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΧ4Η-30Ξ",
+  "subject": "Διαδικασίες λειτουργίας της διαδικτυακής εφαρμογής ενημέρωσης της εκκαθάρισης του Φόρου Ακίνητης Περιουσίας φυσικών προσώπων έτους 2010, εκτύπωση των εκκαθαριστικών σημειωμάτων-δηλώσεων και ημερομηνία ανάρτησης των σημειωμάτων αυτών",
+  "protocol_number": "ΠΟΛ 1108",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "1238"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-15",
+  "posted": "2013-05-28",
+  "publish_timestamp_ms": 1369721049000,
+  "version_id": "92d66acd-153e-4a71-a5d7-f9fe57a751c9",
+  "in_force": "2013-05-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A74%CE%97-30%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A74%CE%97-30%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A74%CE%97-30%CE%9E",
+  "listing_sha256": "b3211080ffaa042d5cc97251d76ae861cea9977850d0a8939806a91bbf77d365",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
