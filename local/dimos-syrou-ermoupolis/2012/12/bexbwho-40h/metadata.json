@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΧΒΩΗΟ-40Η",
+  "subject": "ΑΠΟΣΠΑΣΗ ΜΟΝΙΜΩΝ ΥΠΑΛΛΗΛΩΝ ΤΟΥ ΔΗΜΟΥ ΣΥΡΟΥ-ΕΡΜΟΥΠΟΛΗΣ ΣΤΗ ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΣΥΡΟΥ (Δ.Ε.Υ.Α.Σ.)",
+  "protocol_number": "ΔΥ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6291",
+    "label": "ΔΗΜΟΣ ΣΥΡΟΥ - ΕΡΜΟΥΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81006"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-31",
+  "posted": "2013-05-29",
+  "publish_timestamp_ms": 1369821257000,
+  "version_id": "9e6bf3b2-367a-4e5b-a346-3e138b914e18",
+  "in_force": "2013-05-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A7%CE%92%CE%A9%CE%97%CE%9F-40%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A7%CE%92%CE%A9%CE%97%CE%9F-40%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A7%CE%92%CE%A9%CE%97%CE%9F-40%CE%97",
+  "listing_sha256": "82b3f3de143e2159b48d0bfed39f5d34e26bc3fb6e30d160e8540c3e06481925",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
