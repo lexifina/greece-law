@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΧΒΩΞΠ-ΗΣΗ",
+  "subject": "Tροποποίηση προυπολογισμού",
+  "protocol_number": "8584 (απόφαση ΔΣ 61/27.3.2013)ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6222",
+    "label": "ΔΗΜΟΣ ΞΥΛΟΚΑΣΤΡΟΥ - ΕΥΡΩΣΤΙΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87737"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-23",
+  "posted": "2013-05-29",
+  "publish_timestamp_ms": 1369808552000,
+  "version_id": "f273a0c8-1b68-434c-9371-efa24e21c7d0",
+  "in_force": "2013-05-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A7%CE%92%CE%A9%CE%9E%CE%A0-%CE%97%CE%A3%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A7%CE%92%CE%A9%CE%9E%CE%A0-%CE%97%CE%A3%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A7%CE%92%CE%A9%CE%9E%CE%A0-%CE%97%CE%A3%CE%97",
+  "listing_sha256": "f431bf2f5f91d8e8428b5f4cc51efe684b2830c186ae07f01ea74b0180fa64da",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
