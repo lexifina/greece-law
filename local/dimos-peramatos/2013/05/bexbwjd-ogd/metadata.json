@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΧΒΩΞΔ-ΟΓΔ",
+  "subject": "Εκδίκαση ενστάσεων κατά του πρακτικού δημοπρασίας του έργου : « Κατασκευή αποχέτευσης ακαθάρτων περιοχών του Δήμου Περάματος» και απόφαση έγκρισής του.",
+  "protocol_number": "12207/4939",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6246",
+    "label": "ΔΗΜΟΣ ΠΕΡΑΜΑΤΟΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82509"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-13",
+  "posted": "2013-05-29",
+  "publish_timestamp_ms": 1369828741000,
+  "version_id": "5fce7ca2-0be9-44ac-8f70-a3b2b1a5d40b",
+  "in_force": "2013-05-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A7%CE%92%CE%A9%CE%9E%CE%94-%CE%9F%CE%93%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A7%CE%92%CE%A9%CE%9E%CE%94-%CE%9F%CE%93%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A7%CE%92%CE%A9%CE%9E%CE%94-%CE%9F%CE%93%CE%94",
+  "listing_sha256": "31164ba05629b876c1cafed315cdae15c6b1a32b2dee8f7bd516cce711367944",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
