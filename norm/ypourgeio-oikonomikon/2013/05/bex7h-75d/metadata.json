@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΧ7Η-75Δ",
+  "subject": "Απόφαση Έκδοσης Επιμελημένων Σειρών Ελληνικών Κερμάτων Ευρώ έτους 2013, σε συσκευασία Απλού Εντύπου Blister.",
+  "protocol_number": "2/46504/0025",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "1183"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-13",
+  "posted": "2013-05-30",
+  "publish_timestamp_ms": 1369890335000,
+  "version_id": "17c6a423-2999-4e41-8cb1-22dc0c70def4",
+  "in_force": "2013-05-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A77%CE%97-75%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A77%CE%97-75%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A77%CE%97-75%CE%94",
+  "listing_sha256": "31164ba05629b876c1cafed315cdae15c6b1a32b2dee8f7bd516cce711367944",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
