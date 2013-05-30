@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΧ7ΩΗΠ-Ι7Μ",
+  "subject": "106-2013 Μερική αναμόρφωση προϋπολογισμού.",
+  "protocol_number": "1995",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6290",
+    "label": "ΔΗΜΟΣ ΣΥΜΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78543"
+  ],
+  "thematic_category_ids": [
+    "24",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-30",
+  "posted": "2013-05-30",
+  "publish_timestamp_ms": 1369891207000,
+  "version_id": "fc4d171d-ab41-439b-8a93-8662f078ad16",
+  "in_force": "2013-05-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A77%CE%A9%CE%97%CE%A0-%CE%997%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%A77%CE%A9%CE%97%CE%A0-%CE%997%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%A77%CE%A9%CE%97%CE%A0-%CE%997%CE%9C",
+  "listing_sha256": "ef12eda87ba3dd8d50b9181ca387d8ad50f8155886100d47a42d2b4ddbbc3281",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
