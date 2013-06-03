@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖΡΩΨ9-Ψ27",
+  "subject": "Έγκριση ή μη της υπ'αριθ.79/13 απόφασης Επιτροπής Ποιότητας Ζωής με τίτλο \"Μη έγκριση τοποθέτησης θέσης περιπτέρου (υποθ.Κων/νος Σκολαρίκης)\"",
+  "protocol_number": "046380",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78451"
+  ],
+  "thematic_category_ids": [
+    "64"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-06-03",
+  "posted": "2013-06-03",
+  "publish_timestamp_ms": 1370259927000,
+  "version_id": "2a2a33ad-06dc-4a51-bd3f-0d911d1a8c80",
+  "in_force": "2013-06-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%A1%CE%A9%CE%A89-%CE%A827",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%A1%CE%A9%CE%A89-%CE%A827/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%96%CE%A1%CE%A9%CE%A89-%CE%A827",
+  "listing_sha256": "1e96b9fad7bf287a6e535b8c439d84df3d4299765f9739e8a70445bdeba46deb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
