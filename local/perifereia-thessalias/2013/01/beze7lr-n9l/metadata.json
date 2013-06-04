@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖΕ7ΛΡ-Ν9Λ",
+  "subject": "ΠΛΗΡΩΜΗ ΜΕΤΑΦΡΑΣΤΡΙΑΣ ΓΙΑ ΟΛΕΣ ΤΙΣ ΗΜΕΡΕΣ ΤΗΣ ΕΚΘΕΣΗΣ ΤΗΣ ΟΥΤΡΕΧΤΗΣ ΑΠΟ 08-01 ΕΩΣ 13-01-2013 / Δ/ΝΣΗ ΔΙΑ ΒΙΟΥ ΜΑΘΗΣΗΣ, ΑΠΑΣΧΟΛΗΣΗΣ, ΕΜΠΟΡΙΟΥ ΚΑΙ ΤΟΥΡΙΣΜΟΥ & ΜΕΡΟΣ ΤΩΝ ΔΑΠΑΝΩΝ ΤΩΝ ΕΚΘΕΣΕΩΝ ΣΤΗ ΣΟΦΙΑ ΚΑΙ ΣΤΟ ΒΕΛΙΓΡΑΔΙ.",
+  "protocol_number": "29",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81793"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-01-03",
+  "posted": "2013-06-04",
+  "publish_timestamp_ms": 1370337750000,
+  "version_id": "2d14d7cc-8776-44c3-9089-71bcb17badcd",
+  "in_force": "2013-06-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%957%CE%9B%CE%A1-%CE%9D9%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%957%CE%9B%CE%A1-%CE%9D9%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%96%CE%957%CE%9B%CE%A1-%CE%9D9%CE%9B",
+  "listing_sha256": "d759465cde86e2baf37800773b2bd2aca51c2ba7c05ca715239b35916c8c05e4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
