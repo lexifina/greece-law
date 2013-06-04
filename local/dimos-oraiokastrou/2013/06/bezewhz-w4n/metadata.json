@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖΕΩΗΖ-Ω4Ν",
+  "subject": "(ΑΔΣ      186/2013) Διόρθωση της υπ΄αριθ. 313/2012 απόφασης Δ.Σ ως προς τον ΚΑ , από τον ΚΑ 00.6711.1002 \r\nμε τίτλο «Απόδοση στη Σχολική Επιτροπή Πρωτοβάθμιας Εκπαίδευσης Δήμου Ωραιοκάστρου» στο σωστό 00.6711.1004 με τίτλο «Απόδοση \r\nστην Σχολική Επιτροπή Πρωτοβάθμιας Εκπαίδευσης Δήμου Ωραιοκάστρου (Αποζημίωση σχολικών τροχονόμων)» και  Ψήφιση πίστωσης ποσού 1.054,42€ \r\n στον ΚΑ 80.8117.1001 με τίτλο «Λοιπά έξοδα προηγούμενων χρήσεων (ΠΟΕ χρήσης 2011&2012)» για αποζημίωση σχολικών τροχονόμων για το διάστημα\r\n Απρίλιος – Ιούνιος 2012 σύμφωνα με την παραπάνω απόφαση του Δ.Σ.",
+  "protocol_number": "186",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6323",
+    "label": "ΔΗΜΟΣ ΩΡΑΙΟΚΑΣΤΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83567"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΙΨΩΗΖ-4ΔΤ"
+      }
+    ]
+  },
+  "issued": "2013-06-04",
+  "posted": "2013-06-04",
+  "publish_timestamp_ms": 1370345591000,
+  "version_id": "74387afc-4aa9-4f21-8b60-d7debb049d96",
+  "in_force": "2013-06-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%95%CE%A9%CE%97%CE%96-%CE%A94%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%95%CE%A9%CE%97%CE%96-%CE%A94%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%96%CE%95%CE%A9%CE%97%CE%96-%CE%A94%CE%9D",
+  "listing_sha256": "093c01d69bfab67dcbabc1d0f78e848ab25c4b90af04e3ad06c98f4fd1f80cc7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
