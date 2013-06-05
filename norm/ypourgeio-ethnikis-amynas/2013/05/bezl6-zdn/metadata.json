@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖΛ6-ΖΔΝ",
+  "subject": "Πρόσκληση Στρατευσίμων 2013 Δ/ΕΣΣΟ",
+  "protocol_number": "740309",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΑΜ6-1ΥΝ"
+      }
+    ]
+  },
+  "issued": "2013-05-29",
+  "posted": "2013-06-05",
+  "publish_timestamp_ms": 1370456389000,
+  "version_id": "f0b05790-0829-4fc2-9aaa-87be3fa1ec44",
+  "in_force": "2013-06-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%9B6-%CE%96%CE%94%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%9B6-%CE%96%CE%94%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%96%CE%9B6-%CE%96%CE%94%CE%9D",
+  "listing_sha256": "539be75325198b16435b0aacee15758d53803bb5edb5f2571a008650a4b4d6ad",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
