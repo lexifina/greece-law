@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖΛΩ1Τ-7Μ0",
+  "subject": "Απόφαση Δημοτικού Συμβουλίου Σίφνου 65.2013: Σχετικά με την τιμολόγηση της αποχέτευσης του Πλατύ Γιαλού",
+  "protocol_number": "Απόφαση Δημοτικού Συμβουλίου Σίφνου 65.2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6278",
+    "label": "ΔΗΜΟΣ ΣΙΦΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83738"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-29",
+  "posted": "2013-06-05",
+  "publish_timestamp_ms": 1370437292000,
+  "version_id": "9385031a-b8e1-430d-8120-08012a321862",
+  "in_force": "2013-06-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%9B%CE%A91%CE%A4-7%CE%9C0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%9B%CE%A91%CE%A4-7%CE%9C0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%96%CE%9B%CE%A91%CE%A4-7%CE%9C0",
+  "listing_sha256": "89a59d2906a7eaed1037ce9b441c8b2e83660fd73a8182c1a700209e12ac183a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
