@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖΛΩΛΧ-ΦΦ9",
+  "subject": "Εγκριση ή μη των πρακτικών δημοπρασίας για την εκμίσθωση του δημοτικού ακινήτου «Τουριστικό Περίπτερο Ιμέρου» στη θέση παραλία Ιμέρου του Δήμου Μαρωνείας – Σαπών.",
+  "protocol_number": "49",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6185",
+    "label": "ΔΗΜΟΣ ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79101"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΑΙΩΛΧ-ΘΩΖ"
+      }
+    ]
+  },
+  "issued": "2013-05-31",
+  "posted": "2013-06-05",
+  "publish_timestamp_ms": 1370424640000,
+  "version_id": "46f92960-4d59-431d-95dc-d72e910eb22d",
+  "in_force": "2013-06-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%9B%CE%A9%CE%9B%CE%A7-%CE%A6%CE%A69",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%9B%CE%A9%CE%9B%CE%A7-%CE%A6%CE%A69/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%96%CE%9B%CE%A9%CE%9B%CE%A7-%CE%A6%CE%A69",
+  "listing_sha256": "93f9d863982be56e25601705086acc543577486790f2c2219291707182dec45c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
