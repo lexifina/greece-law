@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖΘΩΨΒ-Φ7Φ",
+  "subject": "Έγκριση πρότασης ανάληψης υποχρέωσης ποσού 522,52 € για την \r\nκαταβολή στην Μπόλη Φωτεινή τόκων υπερημερίας επί κεφαλαίου 2.932,34 €\r\nπεριόδου από 19-6-2010 (επομένη της Ημ. Επίδοσης αγωγής)\r\nέως 7-6-2013 (Ημ. Έκδοσης Χ.Ε.)\r\nδυνάμει της 2096/2011 Απόφασης του Ειρηνοδικείου Αθηνών",
+  "protocol_number": "169",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82632"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-06-14",
+  "posted": "2013-06-14",
+  "publish_timestamp_ms": 1371198497000,
+  "version_id": "f9e2d5e5-6cc3-4d48-8dd2-e0f06bbd21ed",
+  "in_force": "2013-06-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%98%CE%A9%CE%A8%CE%92-%CE%A67%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%98%CE%A9%CE%A8%CE%92-%CE%A67%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%96%CE%98%CE%A9%CE%A8%CE%92-%CE%A67%CE%A6",
+  "listing_sha256": "1d15ce845e975e4fb7e5add972f079cbdac8495aa8f6e6c708c0fa59c226bed9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
