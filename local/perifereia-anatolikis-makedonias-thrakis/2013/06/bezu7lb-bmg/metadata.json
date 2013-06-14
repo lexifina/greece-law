@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖΘ7ΛΒ-ΒΜΓ",
+  "subject": "Απόφαση Έγκρισης κίνησης υπηρεσιακού αυτοκινήτου της Περιφέρειας Ανατολικής Μακεδονίας – Θράκης στο Εσωτερικό",
+  "protocol_number": "οικ.2362",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5001",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79931"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-06-14",
+  "posted": "2013-06-14",
+  "publish_timestamp_ms": 1371191903000,
+  "version_id": "3a19f681-31f8-4f33-a55a-eaad37deffa1",
+  "in_force": "2013-06-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%987%CE%9B%CE%92-%CE%92%CE%9C%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%987%CE%9B%CE%92-%CE%92%CE%9C%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%96%CE%987%CE%9B%CE%92-%CE%92%CE%9C%CE%93",
+  "listing_sha256": "f7b986b6768df5802d3d5929fa748bb91fa510ab017405ef23d8761346bf2f32",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
