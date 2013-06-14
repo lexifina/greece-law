@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖΘΗ-662",
+  "subject": "ΤΡΟΠΟΠΟΙΗΣΗ ΤΗΣ ΥΠ' ΑΡΙΘΜ, ΟΙΚ.02/11.6.2013 ΚΟΙΝΗΣ ΑΠΟΦΑΣΗΣ ΤΟΥ ΥΦΥΠΟΥΡΓΟΥ ΣΤΟΝ ΠΡΩΘΥΠΟΥΡΓΟ ΚΑΙ ΤΟΥ ΥΠΟΥΡΓΟΥ ΟΙΚΟΝΟΜΙΚΩΝ (Β΄ 1414) ΣΧΕΤΙΚΑ ΜΕ ΤΗΝ ΚΑΤΑΡΓΗΣΗ ΤΗΣ ΔΗΜΟΣΙΑΣ ΕΠΙΧΕΙΡΗΣΗΣ \"ΕΛΛΗΝΙΚΗ ΡΑΔΙΟΦΩΝΙΑ - ΤΗΛΕΟΡΑΣΗ, ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ (ΕΡΤ - Α.Ε.)\".",
+  "protocol_number": "ΟΙΚ.03",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "1423"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-06-12",
+  "posted": "2013-06-14",
+  "publish_timestamp_ms": 1371216526000,
+  "version_id": "bb76dd68-4c72-4eb4-aea8-c8f8099f02d8",
+  "in_force": "2013-06-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%98%CE%97-662",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%98%CE%97-662/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%96%CE%98%CE%97-662",
+  "listing_sha256": "d4f815e1562ff153b254a8ba093649579215b3cc206012e389df04b7a7733284",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
