@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖ37ΛΡ-ΔΑ2",
+  "subject": "Έκδοση χρηματικού εντάλματος προπληρωμής πληρωμής διοδίων για τα α) ΚΗΥ 8141 και β) ΚΗΗ 1402 υπηρεσιακά οχήματα Περιφέρειας Θεσσαλίας",
+  "protocol_number": "3839",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81793"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-06-06",
+  "posted": "2013-06-17",
+  "publish_timestamp_ms": 1371448434000,
+  "version_id": "86d25035-2474-410c-bc18-36557b8b0e17",
+  "in_force": "2013-06-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9637%CE%9B%CE%A1-%CE%94%CE%912",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%9637%CE%9B%CE%A1-%CE%94%CE%912/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%9637%CE%9B%CE%A1-%CE%94%CE%912",
+  "listing_sha256": "bfaf3ba5f10782e944fa5a5879ea5ba787e524ed580262ec91303da9a6bc018f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
