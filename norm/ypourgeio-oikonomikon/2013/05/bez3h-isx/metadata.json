@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖ3Η-ΙΣΧ",
+  "subject": "Τροποποίηση της υπ’ αριθμ. 2/34287/ΔΥΕΠ/2-4-2013 κοινής υπουργικής απόφασης Αναπληρωτή Υπουργού Οικονομικών και Υπουργού Παιδείας και Θρησκευμάτων, Πολιτισμού και Αθλητισμού με τίτλο «Καθορισμός φορέων του Υπουργείου Παιδείας και Θρησκευμάτων, Πολιτισμού και Αθλητισμού ελεγχόμενων από τη Γενική Διεύθυνση Δημοσιονομικών Ελέγχων (Γ.Δ.Δ.Ε.) του Υπουργείου Οικονομικών» (ΦΕΚ 911/Β/15-4-2013).",
+  "protocol_number": "2/52141/ΔΥΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "1370"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΑΜΗ-ΓΑΚ"
+      }
+    ]
+  },
+  "issued": "2013-05-28",
+  "posted": "2013-06-17",
+  "publish_timestamp_ms": 1371461270000,
+  "version_id": "314ec9d9-a09c-4814-86eb-e6bb2274cf32",
+  "in_force": "2013-06-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%963%CE%97-%CE%99%CE%A3%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%963%CE%97-%CE%99%CE%A3%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%963%CE%97-%CE%99%CE%A3%CE%A7",
+  "listing_sha256": "38bf3634324b53cd40f120077fc883bf491fc591ed750bbcacec844c5385803c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
