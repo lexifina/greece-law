@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖΔΩΨ9-ΕΙΑ",
+  "subject": "Έγκριση της υπ\\'αριθ. 82/13 απόφασης Oικονομικής Επιτροπής με τίτλο \\\"Επιβολή τελών ελεγχόμενης στάθμευσης\\\"",
+  "protocol_number": "053289",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78451"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΝΜΩΨ9-ΝΒΓ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΕΝΜΩΨ9-1ΡΒ"
+      }
+    ]
+  },
+  "issued": "2013-06-18",
+  "posted": "2013-06-18",
+  "publish_timestamp_ms": 1371555225000,
+  "version_id": "1c073398-01c9-4790-abc8-8b3fb7de3e2b",
+  "in_force": "2013-06-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%94%CE%A9%CE%A89-%CE%95%CE%99%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%94%CE%A9%CE%A89-%CE%95%CE%99%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%96%CE%94%CE%A9%CE%A89-%CE%95%CE%99%CE%91",
+  "listing_sha256": "c981873cd810207982da6105bc6fae597827abda97a24720cc89654d52a74d3c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
