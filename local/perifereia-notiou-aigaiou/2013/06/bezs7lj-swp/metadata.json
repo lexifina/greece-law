@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖΣ7ΛΞ-ΣΩΠ",
+  "subject": "ΧΟΡΗΓΗΣΗ ΑΔΕΙΑΣ ΜΗΧΑΝΟΛΟΓΙΚΗΣ ΕΓΚΑΤΑΣΤΑΣΗΣ  ΜΟΝΑΔΟΣ ΑΦΑΛΑΤΩΣΗΣ, ΣΥΝΟΛΙΚΗΣ ΔΥΝΑΜΙΚΟΤΗΤΑΣ 250 ΚΥΒΙΚΩΝ ΜΕΤΡΩΝ  ΗΜΕΡΗΣΙΩΣ.",
+  "protocol_number": "3683",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5011",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "86928"
+  ],
+  "thematic_category_ids": [
+    "68"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-06-19",
+  "posted": "2013-06-20",
+  "publish_timestamp_ms": 1371712386000,
+  "version_id": "d148f6f7-e224-42e5-af9b-29eabcc65901",
+  "in_force": "2013-06-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%A37%CE%9B%CE%9E-%CE%A3%CE%A9%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%A37%CE%9B%CE%9E-%CE%A3%CE%A9%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%96%CE%A37%CE%9B%CE%9E-%CE%A3%CE%A9%CE%A0",
+  "listing_sha256": "785d6246ac119ff92af4024595ff94180a8775a76f5e42ca681350d073ec40a6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
