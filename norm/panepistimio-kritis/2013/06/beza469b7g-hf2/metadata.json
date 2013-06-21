@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖΑ469Β7Γ-ΗΦ2",
+  "subject": "ΑΠΟΦΑΣΗ ΠΡΥΤΑΝΗ (9231/2013): ΚΑΤΗΓΟΡΙΕΣ ΔΑΠΑΝΩΝ ΓΙΑ ΤΙΣ ΟΠΟΙΕΣ ΠΡΟΑΠΑΙΤΕΙΤΑΙ ΑΠΟΦΑΣΗ ΠΡΥΤΑΝΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ.",
+  "protocol_number": "9231",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206917",
+    "label": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΚΡΗΤΗΣ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "75712"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-06-21",
+  "posted": "2013-06-21",
+  "publish_timestamp_ms": 1371812493000,
+  "version_id": "18c2d4f7-4109-4915-87f6-0071742c04e1",
+  "in_force": "2013-06-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%91469%CE%927%CE%93-%CE%97%CE%A62",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%91469%CE%927%CE%93-%CE%97%CE%A62/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%96%CE%91469%CE%927%CE%93-%CE%97%CE%A62",
+  "listing_sha256": "f151a93582f75bc0479b190af4b0cb7669d538cca432aea745f0512e0c5de66b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
