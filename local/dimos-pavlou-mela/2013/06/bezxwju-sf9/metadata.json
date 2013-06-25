@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖΧΩΞΘ-ΣΦ9",
+  "subject": "Νομιμοποίηση υπολόγου",
+  "protocol_number": "358",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6242",
+    "label": "ΔΗΜΟΣ ΠΑΥΛΟΥ ΜΕΛΑ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80287"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-06-19",
+  "posted": "2013-06-25",
+  "publish_timestamp_ms": 1372147635000,
+  "version_id": "c32f618f-e208-4f83-a7be-bdf4d922ea67",
+  "in_force": "2013-06-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%A7%CE%A9%CE%9E%CE%98-%CE%A3%CE%A69",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%A7%CE%A9%CE%9E%CE%98-%CE%A3%CE%A69/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%96%CE%A7%CE%A9%CE%9E%CE%98-%CE%A3%CE%A69",
+  "listing_sha256": "2940fe296f683dcecef0f5dc9b61d01ab3def6313e7594467f373bd93a428d14",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
