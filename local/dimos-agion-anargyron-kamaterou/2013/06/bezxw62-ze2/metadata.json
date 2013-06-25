@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖΧΩ62-ΖΕ2",
+  "subject": "Έγκριση  αποφάσεων ανάληψης υποχρέωσης.",
+  "protocol_number": "164/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6009",
+    "label": "ΔΗΜΟΣ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78024"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-06-21",
+  "posted": "2013-06-25",
+  "publish_timestamp_ms": 1372151893000,
+  "version_id": "20432abd-1240-409a-b515-23d2032ede57",
+  "in_force": "2013-06-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%A7%CE%A962-%CE%96%CE%952",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%96%CE%A7%CE%A962-%CE%96%CE%952/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%96%CE%A7%CE%A962-%CE%96%CE%952",
+  "listing_sha256": "6649ceb47c99ac526229a7ce0cfe4ec7bac8f004981816434fe62ffc51cb06ca",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
