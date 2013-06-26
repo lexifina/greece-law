@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΕΖ8ΘΩΠ-Κ0Χ",
+  "subject": "Αποδοχή παραίτησης Υπουργών, Αναπληρωτών Υπουργών και\r\nΥφυπουργών",
+  "protocol_number": "117",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "70711"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_A",
+      "issueyear": 2013,
+      "aa": "151"
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-06-25",
+  "posted": "2013-06-26",
+  "publish_timestamp_ms": 1372233500000,
+  "version_id": "e9d05093-4e4b-4fea-8e54-b4e67cff2188",
+  "in_force": "2013-06-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%968%CE%98%CE%A9%CE%A0-%CE%9A0%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%95%CE%968%CE%98%CE%A9%CE%A0-%CE%9A0%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%95%CE%968%CE%98%CE%A9%CE%A0-%CE%9A0%CE%A7",
+  "listing_sha256": "274352044635f0e4e686d8e15e8c09e2a9c076ea868a664696bcba82399ac106",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
