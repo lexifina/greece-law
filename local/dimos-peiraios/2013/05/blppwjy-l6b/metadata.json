@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΠΠΩΞΥ-Λ6Β",
+  "subject": "ΔΗΜΟΣΙΕΥΣΗ ΠΡΟΣΚΛΗΣΕΩΣ ΠΡΟΣ ΑΓΝΩΣΤΟ ΙΔΙΟΚΤΗΤΗ ΟΙΚΟΔΟΜΗΣ Η ΟΠΟΙΑ ΕΧΕΙ ΚΡΙΘΕΙ ΕΠΙΚΙΝΔΥΝΗ (ΨΑΡΡΩΝ 158 , ΠΕΙΡΑΙΑΣ)",
+  "protocol_number": "3934 / 1035",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6243",
+    "label": "ΔΗΜΟΣ ΠΕΙΡΑΙΩΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82173"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-29",
+  "posted": "2013-06-28",
+  "publish_timestamp_ms": 1372395205000,
+  "version_id": "624b78d8-23ee-413e-bed1-de5ba344d63b",
+  "in_force": "2013-06-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A0%CE%A0%CE%A9%CE%9E%CE%A5-%CE%9B6%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A0%CE%A0%CE%A9%CE%9E%CE%A5-%CE%9B6%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A0%CE%A0%CE%A9%CE%9E%CE%A5-%CE%9B6%CE%92",
+  "listing_sha256": "5f8295d772fa0be8abe14ac43608813a615918db8a42516a24e8b1b66ab9e226",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
