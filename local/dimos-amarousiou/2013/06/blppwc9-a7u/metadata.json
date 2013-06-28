@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΠΠΩΨ9-Α7Θ",
+  "subject": "Παρακατάθεση απευθείας στο Ταμείο Παρακαταθηκών και Δανείων αποζημιώσεως δικαστικώς καθορισθείσας με βάση την  υπ. αρ. 652/2012 απόφαση Μονομελούς Πρωτοδικείου Αθηνών (Ειδική Διαδικασία Απαλλοτριώσεων) που αφορά καθορισμό προσωρινής τιμής μονάδος αποζημίωσης λόγω ρυμοτομίας ακινήτου με κτημ. αρ. 012335 στο Ο.Τ. 909 της περιοχής \"Σωρός Λάκκα Κόττου\" του Δήμου Αμαρουσίου. (υπόθεση  Εγγλέζος Δημήτριος κλπ- Διάνοιξη οδού Ωκεανιδών) Φ. 2250",
+  "protocol_number": "057619",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78451"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΖΦΩΨ9-ΙΓΘ"
+      }
+    ]
+  },
+  "issued": "2013-06-28",
+  "posted": "2013-06-28",
+  "publish_timestamp_ms": 1372421049000,
+  "version_id": "a7e80315-ff52-400c-ae63-a9a151c32fcb",
+  "in_force": "2013-06-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A0%CE%A0%CE%A9%CE%A89-%CE%917%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A0%CE%A0%CE%A9%CE%A89-%CE%917%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A0%CE%A0%CE%A9%CE%A89-%CE%917%CE%98",
+  "listing_sha256": "681797051644bc30a7a3cc51b4bba2536190c5f37ad6720dd3689d1883df5bb3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
