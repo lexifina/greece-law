@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ46Ε-32Ε",
+  "subject": "ΠΡΟΕΔΡΙΚΟ ΔΙΑΤΑΓΜΑ 111/2013 ΠΕΡΙ ΕΦΑΡΜΟΓΗΣ ΑΠΟΦΑΣΗΣ 1952 (2010) ΣΥΜΒΟΥΛΙΟΥ ΑΣΦΑΛΕΙΑΣ ΟΗΕ ΓΙΑ Λ.Δ. ΚΟΝΓΚΟ",
+  "protocol_number": "3400.15/ΑΣ 28807",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72603"
+  ],
+  "thematic_category_ids": [
+    "08"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_A",
+      "issueyear": 2013,
+      "aa": "145"
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-06-13",
+  "posted": "2013-07-02",
+  "publish_timestamp_ms": 1372752909000,
+  "version_id": "2fd9fe6e-f204-4eae-8856-471ffe1c1265",
+  "in_force": "2013-07-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B46%CE%95-32%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B46%CE%95-32%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B46%CE%95-32%CE%95",
+  "listing_sha256": "76356f8ecad659046151114f6712ea264a6872c2e3cbdf93e154a50c7c205abe",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
