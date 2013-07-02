@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ46ΩΚ4-8ΦΚ",
+  "subject": "162/2013 ΑΠΟΦΑΣΗ ΟΙΚΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ ΜΕ ΘΕΜΑ \"Τροποποίηση διόρθωση της υπ αριθ. 142/2013 ΑΟΕ περί: Έγκριση πινακίων αμοιβής Δικηγόρου.\"",
+  "protocol_number": "23398",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6190",
+    "label": "ΔΗΜΟΣ ΜΕΣΣΗΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80668"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΖ2ΩΚ4-ΨΝ7"
+      }
+    ]
+  },
+  "issued": "2013-07-02",
+  "posted": "2013-07-02",
+  "publish_timestamp_ms": 1372749586000,
+  "version_id": "be3074f3-cbb4-46a2-97b9-17b9e4d72c2f",
+  "in_force": "2013-07-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B46%CE%A9%CE%9A4-8%CE%A6%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B46%CE%A9%CE%9A4-8%CE%A6%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B46%CE%A9%CE%9A4-8%CE%A6%CE%9A",
+  "listing_sha256": "f2431a78bf6fffbb3d20bead0debccaa83d2ebf82d263a8e6ac1002414608dc1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
