@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ46Ε-Ζ2Ρ",
+  "subject": "ΥΠΟΥΡΓΙΚΗ ΑΠΟΦΑΣΗ ΓΙΑ ΑΠΟΦΑΣΗ 2095 (2013) ΣΥΜΒΟΥΛΙΟΥ ΑΣΦΑΛΕΙΑΣ ΟΗΕ ΣΧΕΤΙΚΑ ΜΕ ΤΗ ΛΙΒΥΗ",
+  "protocol_number": "3440/ΑΣ 20757",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72603"
+  ],
+  "thematic_category_ids": [
+    "08"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_A",
+      "issueyear": 2013,
+      "aa": "110"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-25",
+  "posted": "2013-07-02",
+  "publish_timestamp_ms": 1372751792000,
+  "version_id": "d1250a53-8f90-4514-9c76-346c07619d00",
+  "in_force": "2013-07-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B46%CE%95-%CE%962%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B46%CE%95-%CE%962%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B46%CE%95-%CE%962%CE%A1",
+  "listing_sha256": "ef1b468381edaedcf31b87e330155e072b3221597b3803188174b05ce3f708e5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
