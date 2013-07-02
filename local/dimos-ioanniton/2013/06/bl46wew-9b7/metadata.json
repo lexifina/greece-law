@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ46ΩΕΩ-9Β7",
+  "subject": "Τροποποίηση της αριθμ. 244/2013 Απόφασης της Οικονομικής Επιτροπής.",
+  "protocol_number": "313/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6125",
+    "label": "ΔΗΜΟΣ ΙΩΑΝΝΙΤΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81325"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΔΦΩΕΩ-ΖΙΣ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΕΧ7ΩΕΩ-Υ12"
+      },
+      {
+        "relatedDecisionsADA": "ΒΕΖ3ΩΕΩ-ΔΟΦ"
+      }
+    ]
+  },
+  "issued": "2013-06-26",
+  "posted": "2013-07-02",
+  "publish_timestamp_ms": 1372765376000,
+  "version_id": "8941aed6-0b48-4a30-8b58-17497f6faa5a",
+  "in_force": "2013-07-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B46%CE%A9%CE%95%CE%A9-9%CE%927",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B46%CE%A9%CE%95%CE%A9-9%CE%927/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B46%CE%A9%CE%95%CE%A9-9%CE%927",
+  "listing_sha256": "9765e7c3d74d93b6635243130c8a665c8df7fea4c7a5c00d0d507c5079c7b7dc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
