@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ49Ω9Ι-Β0Δ",
+  "subject": "Χαρακτηρισμός θέματος, μη συμπεριλαμβανομένου στην ημερήσια διάταξης ως κατεπείγοντος, για «Άσκηση ή μη ενδίκων μέσων (Ανακοπής και Αίτησης Αναστολής Εκτέλεσης) του Δήμου Δέλτα κατά της υπ’ αρίθμ.1937/2013 διαταγής πληρωμής που εκδόθηκε από το Ειρηνοδικείο Θεσσαλονίκης (υπόθεση Κάλφα Ν. Θεοφανούς).",
+  "protocol_number": "ΑΟΕ 132/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6071",
+    "label": "ΔΗΜΟΣ ΔΕΛΤΑ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83112"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-04",
+  "posted": "2013-07-04",
+  "publish_timestamp_ms": 1372916085000,
+  "version_id": "df9304cd-0fca-40f1-9681-e1ee0265f3cf",
+  "in_force": "2013-07-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B49%CE%A99%CE%99-%CE%920%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B49%CE%A99%CE%99-%CE%920%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B49%CE%A99%CE%99-%CE%920%CE%94",
+  "listing_sha256": "4cee035b2e52284c8263f5ec982ac74189d08d402a5353b4c57d6f77276f9cdd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
