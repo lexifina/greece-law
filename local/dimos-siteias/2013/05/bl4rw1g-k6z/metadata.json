@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ4ΡΩ1Γ-Κ6Ζ",
+  "subject": "Παράταση ισχύος προγραμματικής σύμβασης με τη ΔΕΥΑΣ για την εκτέλεση του έργου: Αντικατάσταση δικτύων ύδρευσης τοπικών διαμερισμάτων.",
+  "protocol_number": "151/013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6273",
+    "label": "ΔΗΜΟΣ ΣΗΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80115"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4Α8ΟΩ1Γ-ΚΣΓ"
+      }
+    ]
+  },
+  "issued": "2013-05-28",
+  "posted": "2013-07-05",
+  "publish_timestamp_ms": 1373006646000,
+  "version_id": "f706a4a2-d462-4b12-a117-a26f2a6b7978",
+  "in_force": "2013-07-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B4%CE%A1%CE%A91%CE%93-%CE%9A6%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B4%CE%A1%CE%A91%CE%93-%CE%9A6%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B4%CE%A1%CE%A91%CE%93-%CE%9A6%CE%96",
+  "listing_sha256": "38bf3634324b53cd40f120077fc883bf491fc591ed750bbcacec844c5385803c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
