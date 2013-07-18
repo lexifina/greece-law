@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ4Τ6-ΧΗΣ",
+  "subject": "Αποχώρηση από την υπηρεσία του Προέδρου και του Εισαγγελέα του Αναθεωρητικού Δικαστηρίου",
+  "protocol_number": "230419",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "86278"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2013,
+      "aa": "736"
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-17",
+  "posted": "2013-07-18",
+  "publish_timestamp_ms": 1374129659000,
+  "version_id": "c78e607e-3bbc-427e-be38-fae6331ae0f6",
+  "in_force": "2013-07-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B4%CE%A46-%CE%A7%CE%97%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B4%CE%A46-%CE%A7%CE%97%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B4%CE%A46-%CE%A7%CE%97%CE%A3",
+  "listing_sha256": "03febea0ef99acd130aa6ed1ce3a9a952f77c8fd390dd9a1c17ac919fe5b0fa5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
