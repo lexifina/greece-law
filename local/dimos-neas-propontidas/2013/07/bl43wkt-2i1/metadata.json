@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ43ΩΚΤ-2Ι1",
+  "subject": "περίληψη διακηρυξης \"Εναπόθεση Ογκωδών υλικών\"",
+  "protocol_number": "21320",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6210",
+    "label": "ΔΗΜΟΣ ΝΕΑΣ ΠΡΟΠΟΝΤΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81830"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_DDS",
+      "issueyear": 2013,
+      "aa": "450"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-11",
+  "posted": "2013-07-19",
+  "publish_timestamp_ms": 1374227305000,
+  "version_id": "35453743-4fd9-4331-bcdd-e30e58731220",
+  "in_force": "2013-07-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B43%CE%A9%CE%9A%CE%A4-2%CE%991",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B43%CE%A9%CE%9A%CE%A4-2%CE%991/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B43%CE%A9%CE%9A%CE%A4-2%CE%991",
+  "listing_sha256": "94a3506ca63fd706b56791b6f2b580110d690d9ffe686493d1e463e007189d2c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
