@@ -1,0 +1,35 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ4ΑΩΚΧ-1ΦΒ",
+  "subject": "πραξη ορισμου αναπληρωτη προισταμενου",
+  "protocol_number": "14358",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6219",
+    "label": "ΔΗΜΟΣ ΝΟΤΙΟΥ ΠΗΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-22",
+  "posted": "2013-07-23",
+  "publish_timestamp_ms": 1374575855000,
+  "version_id": "f965892b-9d4e-4790-a29a-f4d4991121c5",
+  "in_force": "2013-07-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B4%CE%91%CE%A9%CE%9A%CE%A7-1%CE%A6%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B4%CE%91%CE%A9%CE%9A%CE%A7-1%CE%A6%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B4%CE%91%CE%A9%CE%9A%CE%A7-1%CE%A6%CE%92",
+  "listing_sha256": "41f5f7da35be6e542aa63570664d46bbdc5f47a00fb0cbf55aada4f1058f01a4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
