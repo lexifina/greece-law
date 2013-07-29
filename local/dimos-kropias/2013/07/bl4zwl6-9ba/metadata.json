@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ4ΖΩΛ6-9ΒΑ",
+  "subject": "ΠΑΡΑΛΑΒΗ Α ΚΑΙ Β ΦΑΣΗΣ ΤΗΣ ΜΕΛΕΤΗΣ : \"ΠΡΑΞΗ ΕΦΑΡΜΟΓΗΣ ΤΗΣ ΠΟΛΕΟΔΟΜΙΚΗΣ ΜΕΛΕΤΗΣ ΠΕΡΙΟΧΩΝ Β΄ ΚΑΤΟΙΚΙΑΣ ΑΓΙΑΣ ΜΑΡΙΝΑΣ ΔΗΜΟΥ ΚΡΩΠΙΑΣ\"",
+  "protocol_number": "221 17/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6160",
+    "label": "ΔΗΜΟΣ ΚΡΩΠΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81453"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-15",
+  "posted": "2013-07-29",
+  "publish_timestamp_ms": 1375081363000,
+  "version_id": "210b3b61-d18f-44f9-a2fb-8b020aa633dc",
+  "in_force": "2013-07-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B4%CE%96%CE%A9%CE%9B6-9%CE%92%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B4%CE%96%CE%A9%CE%9B6-9%CE%92%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B4%CE%96%CE%A9%CE%9B6-9%CE%92%CE%91",
+  "listing_sha256": "0abb8c2e6122654d4c377fad0d1e746f8e8c9ea62be82d1e61e3d869721a1527",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
