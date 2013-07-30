@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΒΠΟΡ1Κ-Τ0Β",
+  "subject": "Έλεγχος νομιμότητας της υπ’ αριθ. 275/2013 απόφασης του Δημοτικού Συμβουλίου του\r\nΔήμου Πειραιά, που αφορά καθιέρωση χώρου στάθμευσης για τις ανάγκες του 9ου\r\nΓυμνασίου, επί της οδού Σηραγγείου έναντι του αριθμού 5",
+  "protocol_number": "31611/26259",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50196",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΤΤΙΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76308"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΖΡΩΞΥ-Φ9Α"
+      }
+    ]
+  },
+  "issued": "2013-07-30",
+  "posted": "2013-07-30",
+  "publish_timestamp_ms": 1375180758000,
+  "version_id": "9f1b4d34-e669-4375-87bc-73aadaa81183",
+  "in_force": "2013-07-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%92%CE%A0%CE%9F%CE%A11%CE%9A-%CE%A40%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%92%CE%A0%CE%9F%CE%A11%CE%9A-%CE%A40%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%92%CE%A0%CE%9F%CE%A11%CE%9A-%CE%A40%CE%92",
+  "listing_sha256": "02786f6ed21daa98d594b202d15febd24ad2f4bc18c543c04617517fdcf09b27",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
