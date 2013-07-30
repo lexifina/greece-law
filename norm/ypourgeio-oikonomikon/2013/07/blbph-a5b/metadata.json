@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΒΠΗ-Α5Β",
+  "subject": "Καθιέρωση απογευματινής υπερωριακής εργασίας υπαλλήλων στο Γραφείο του Προέδρου του Συμβουλίου Οικονομικών Εμπειρογνωμόνων (Σ.Ο.Ε.) του Υπουργείου Οικονομικών",
+  "protocol_number": "2/57330/0022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70102"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "1697"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-05",
+  "posted": "2013-07-30",
+  "publish_timestamp_ms": 1375173665000,
+  "version_id": "e61d6415-65b0-48c8-aad0-5f2732965fb8",
+  "in_force": "2013-07-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%92%CE%A0%CE%97-%CE%915%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%92%CE%A0%CE%97-%CE%915%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%92%CE%A0%CE%97-%CE%915%CE%92",
+  "listing_sha256": "59fa1b2c85754340c97fe04e9c34ea6822ead80656afa444730c8ad4aa1feef2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
