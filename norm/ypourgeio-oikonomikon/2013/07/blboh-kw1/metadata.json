@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΒΟΗ-ΚΩ1",
+  "subject": "Απόφαση τροποποίησης και συμπλήρωσης της υπ’αρ. Δ5Β 1098815 ΕΞ 2013/18-6-2013 απόφασης έγκρισης πρακτικών αξιολόγησης οικονομικών προσφορών και ελέγχου δικαιολογητικών κατακύρωσης του ανοικτού διαγωνισμού για τη μεταφορά των ημερησίων εισπράξεων των Δ.Ο.Υ. και Τελωνείων και τον χρηματικό εφοδιασμό τους",
+  "protocol_number": "Δ5Β 1121004 ΕΞ 2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70115"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΖΑΗ-6ΧΟ"
+      }
+    ]
+  },
+  "issued": "2013-07-31",
+  "posted": "2013-07-31",
+  "publish_timestamp_ms": 1375274385000,
+  "version_id": "46338285-5d6d-4ced-b189-c9b88c00d8e0",
+  "in_force": "2013-07-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%92%CE%9F%CE%97-%CE%9A%CE%A91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%92%CE%9F%CE%97-%CE%9A%CE%A91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%92%CE%9F%CE%97-%CE%9A%CE%A91",
+  "listing_sha256": "f6283812c99e4d8a557ebe44c6863e74f53f6869e1a98de8ab45e2a59c773d50",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
