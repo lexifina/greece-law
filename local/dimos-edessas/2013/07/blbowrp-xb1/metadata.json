@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΒΟΩΡΠ-ΧΒ1",
+  "subject": "ΑΝΑΚΛΗΣΗ ΤΗΣ ΥΠ’ ΑΡΙΘΜ. 71δ ΑΠΟΦΑΣΗΣ ΤΗΣ ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ ΠΟΥ ΑΦΟΡΑ ΤΗΝ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗ ΤΟΥ ΕΡΓΟΥ: «ΚΑΤΑΣΚΕΥΗ ΒΑΣΗΣ ΟΔΟΣΤΡΩΣΙΑΣ ΑΡΝΙΣΣΑΣ» ΚΑΙ ΕΚ ΝΕΟΥ ΑΝΑΘΕΣΗ ΣΕ ΑΛΛΟ ΑΝΑΔΟΧΟ",
+  "protocol_number": "115",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6086",
+    "label": "ΔΗΜΟΣ ΕΔΕΣΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83433"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΖΓΩΡΠ-2ΗΞ"
+      }
+    ]
+  },
+  "issued": "2013-07-31",
+  "posted": "2013-07-31",
+  "publish_timestamp_ms": 1375270865000,
+  "version_id": "231aea83-8431-40f4-9668-ad39326629d4",
+  "in_force": "2013-07-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%92%CE%9F%CE%A9%CE%A1%CE%A0-%CE%A7%CE%921",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%92%CE%9F%CE%A9%CE%A1%CE%A0-%CE%A7%CE%921/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%92%CE%9F%CE%A9%CE%A1%CE%A0-%CE%A7%CE%921",
+  "listing_sha256": "f6283812c99e4d8a557ebe44c6863e74f53f6869e1a98de8ab45e2a59c773d50",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
