@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩΒΩΨΝ-76Θ",
+  "subject": "ΔΙΑΘΕΣΗ ΠΙΣΤΩΣΕΩΣ ΠΟΣΟΥ 370.000,00 ΕΥΡΩ ΜΕ ΤΙΤΛΟ «ΕΞΟΦΛΗΣΗ ΑΣΦΑΛΙΣΤΙΚΩΝ ΕΙΣΦΟΡΩΝ ΛΟΓΩ ΣΥΜΨΗΦΙΣΜΟΥ ΒΑΣΕΙ ΤΟΥ ΑΡ.2, ΠΑΡ. 5, Ν.4079/2012» ΣΥΜΦΩΝΑ ΜΕ ΤΗΝ ΑΠΟ 25/07/2013 ΕΙΣΗΓΗΣΗ ΤΟΥ ΕΚΤ. ΧΡΕΗ Δ/ΝΤΗ ΤΗΣ ΟΙΚΟΝΟΜΙΚΗΣ ΥΠΗΡΕΣΙΑΣ.",
+  "protocol_number": "28534",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6048",
+    "label": "ΔΗΜΟΣ ΑΣΠΡΟΠΥΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80148"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-31",
+  "posted": "2013-08-01",
+  "publish_timestamp_ms": 1375338970000,
+  "version_id": "3c0b85a1-b77b-4669-bf57-88edd6d6c78f",
+  "in_force": "2013-08-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%92%CE%A9%CE%A8%CE%9D-76%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%92%CE%A9%CE%A8%CE%9D-76%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A9%CE%92%CE%A9%CE%A8%CE%9D-76%CE%98",
+  "listing_sha256": "ba3024dd4570063d960962cefb9b68618523138e65f57ac072d326abc668788d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
