@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩΒΩΨΡ-7ΛΛ",
+  "subject": "Έγκριση διάθεσης πίστωσης για πληρωμή οφειλής για συντήρηση-επισκευή οχήματος του Δήμου",
+  "protocol_number": "121",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6027",
+    "label": "ΔΗΜΟΣ ΑΜΟΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81743"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-23",
+  "posted": "2013-08-01",
+  "publish_timestamp_ms": 1375347206000,
+  "version_id": "036c8130-1e80-4b6a-852f-f8a25654383e",
+  "in_force": "2013-08-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%92%CE%A9%CE%A8%CE%A1-7%CE%9B%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%92%CE%A9%CE%A8%CE%A1-7%CE%9B%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A9%CE%92%CE%A9%CE%A8%CE%A1-7%CE%9B%CE%9B",
+  "listing_sha256": "d9669b1b4ad5cebff0cae22ba87bd9dd98247f2e4eb3873b7c5e8aa54a8b8d7c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
