@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩ7ΩΗΗ-ΣΒ2",
+  "subject": "Αριθ. 91/2013 απόφαση οικ. επιτροπής Περί άσκησης ή μη ένδικου μέσου κατα της αριθ. 676/2013 διαταγή πληρωμής του Ειρηνοδικείου Τρικάλων",
+  "protocol_number": "12383",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6305",
+    "label": "ΔΗΜΟΣ ΦΑΡΚΑΔΟΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "90084"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-26",
+  "posted": "2013-08-02",
+  "publish_timestamp_ms": 1375422891000,
+  "version_id": "472377d9-714f-49a4-ac4c-d4d5055492e7",
+  "in_force": "2013-08-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A97%CE%A9%CE%97%CE%97-%CE%A3%CE%922",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A97%CE%A9%CE%97%CE%97-%CE%A3%CE%922/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A97%CE%A9%CE%97%CE%97-%CE%A3%CE%922",
+  "listing_sha256": "6475cc038cc6654d9247233503f4ac00e95e6f86d45b1c0a2ec807701a309888",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
