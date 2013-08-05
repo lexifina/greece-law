@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩΨΩΞΜ-Ρ4Γ",
+  "subject": "Απόφαση Δημοτικού Συμβουλίου Πολυγύρου- Καθορισμός ωραρίου εργασίας υπαλλήλων στις υπηρεσίες καθαριότητας και ύδρευσης.",
+  "protocol_number": "240/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6251",
+    "label": "ΔΗΜΟΣ ΠΟΛΥΓΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84396"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛΩΨΩΞΜ-Ζ47"
+      }
+    ]
+  },
+  "issued": "2013-06-04",
+  "posted": "2013-08-05",
+  "publish_timestamp_ms": 1375694698000,
+  "version_id": "7df6ab3a-8568-4cd3-9bdd-98a9ef8375c2",
+  "in_force": "2013-08-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%A8%CE%A9%CE%9E%CE%9C-%CE%A14%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%A8%CE%A9%CE%9E%CE%9C-%CE%A14%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A9%CE%A8%CE%A9%CE%9E%CE%9C-%CE%A14%CE%93",
+  "listing_sha256": "6967bfceb7797c7c1a85d67bea0c599f84518d90dc5b941f07c9f9b0ef044b28",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
