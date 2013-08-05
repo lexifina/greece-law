@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩΨΗ-ΡΨΣ",
+  "subject": "ΕΓΚΡΙΣΗ ΤΗΣ ΣΥΝΑΦΘΕΙΣΑΣ ΣΥΜΒΑΣΗΣ ΧΡΗΜΑΤΟΔΟΤΗΣΗΣ ΜΕΤΑΞΥ ΤΗΣ \"SIEMENS A.E. ΗΛΕΚΤΡΟΤΕΧΝΙΚΩΝ ΕΡΓΩΝ ΚΑΙ ΠΡΟΪΟΝΤΩΝ\" ΚΑΙ ΤΟΥ \"ΙΔΡΥΜΑΤΟΣ ΚΡΑΤΙΚΩΝ ΥΠΟΤΡΟΦΙΩΝ\", ΣΥΜΦΩΝΑ ΜΕ ΤΟΝ ΟΡΟ ΙΙΙ.2.(4) ΤΗΣ ΑΠΟ 22 ΑΥΓΟΥΣΤΟΥ 2012 ΣΥΜΦΩΝΙΑΣ ΣΥΜΒΙΒΑΣΜΟΥ ΜΕΤΑΞΥ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΔΗΜΟΚΡΑΤΙΑΣ, ΤΗΣ SIEMENS A.G. ΚΑΙ ΤΗΣ SIEMENS A.E.",
+  "protocol_number": "2/71343",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "1830"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-24",
+  "posted": "2013-08-05",
+  "publish_timestamp_ms": 1375695790000,
+  "version_id": "0acec964-7f74-4764-a85f-ce02278f0cd0",
+  "in_force": "2013-08-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%A8%CE%97-%CE%A1%CE%A8%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%A8%CE%97-%CE%A1%CE%A8%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A9%CE%A8%CE%97-%CE%A1%CE%A8%CE%A3",
+  "listing_sha256": "8afce100921e9e518ae9fb8cc967746fc2e3e42e382fda9e6556b410f9072b88",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
