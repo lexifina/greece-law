@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩΕΩ18-82Γ",
+  "subject": "ΑΔΕΙΑ ΚΑΤΑΛΗΨΗΣ ΚΟΙΝΟΧΡΗΣΤΟΥ ΧΩΡΟΥ",
+  "protocol_number": "249/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6288",
+    "label": "ΔΗΜΟΣ ΣΠΕΤΣΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86929"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-08-07",
+  "posted": "2013-08-08",
+  "publish_timestamp_ms": 1375965835000,
+  "version_id": "54aa28a1-2413-498a-a776-171e06c73e06",
+  "in_force": "2013-08-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%95%CE%A918-82%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%95%CE%A918-82%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A9%CE%95%CE%A918-82%CE%93",
+  "listing_sha256": "8cc0894efce94c80a1cad9c335e0738c452e5a9c347ea50fb2c023feaa111f4d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
