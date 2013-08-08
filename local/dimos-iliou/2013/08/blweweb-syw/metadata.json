@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩΕΩΕΒ-ΣΥΩ",
+  "subject": "Έγκριση 1ης αναμόρφωσης του Ολοκληρωμένου Πλαισίου Δράσης (Ο.Π.Δ) του Δήμου μας, σύμφωνα με το άρθρο 3 της ΚΥΑ 7261/22.2.13",
+  "protocol_number": "41430",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6123",
+    "label": "ΔΗΜΟΣ ΙΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78734"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛΩΡΩΕΒ-ΛΓΦ"
+      }
+    ]
+  },
+  "issued": "2013-08-05",
+  "posted": "2013-08-08",
+  "publish_timestamp_ms": 1375962134000,
+  "version_id": "7dc0ba92-dfaf-4a05-a294-47b0a4e4e213",
+  "in_force": "2013-08-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%95%CE%A9%CE%95%CE%92-%CE%A3%CE%A5%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%95%CE%A9%CE%95%CE%92-%CE%A3%CE%A5%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A9%CE%95%CE%A9%CE%95%CE%92-%CE%A3%CE%A5%CE%A9",
+  "listing_sha256": "1405868b8721412511f7e4b1bbee0220ceefc3fed95a967429606ba4fa05d6c0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
