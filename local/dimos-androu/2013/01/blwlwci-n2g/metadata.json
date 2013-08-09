@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩΛΩΨΙ-Ν2Γ",
+  "subject": "Υπερωριακή απασχόληση υπαλλήλων",
+  "protocol_number": "30(α)",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6037",
+    "label": "ΔΗΜΟΣ ΑΝΔΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82076"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-01-23",
+  "posted": "2013-08-09",
+  "publish_timestamp_ms": 1376055540000,
+  "version_id": "8a0a5682-7a10-4db1-b0d4-8b99f0eea48c",
+  "in_force": "2013-08-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%9B%CE%A9%CE%A8%CE%99-%CE%9D2%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%9B%CE%A9%CE%A8%CE%99-%CE%9D2%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A9%CE%9B%CE%A9%CE%A8%CE%99-%CE%9D2%CE%93",
+  "listing_sha256": "64200fb6050cf5357431622f86d04d8cef72aed43105e609c2ad9198deb59352",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
