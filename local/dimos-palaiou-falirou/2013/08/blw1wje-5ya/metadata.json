@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩ1ΩΞΕ-5ΥΑ",
+  "subject": "ΕΠΑΝΑΛΗΠΤΙΚΗ ΔΗΜΟΠΡΑΣΙΑ ΕΚΜΙΣΘΩΣΗΣ ΑΚΙΝΗΤΟΥ",
+  "protocol_number": "401/08.08.2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6232",
+    "label": "ΔΗΜΟΣ ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83226"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛ4ΩΩΞΕ-Η5Υ"
+      }
+    ]
+  },
+  "issued": "2013-08-12",
+  "posted": "2013-08-12",
+  "publish_timestamp_ms": 1376302784000,
+  "version_id": "15861709-23d5-4c39-a0d0-3808da3dcd44",
+  "in_force": "2013-08-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A91%CE%A9%CE%9E%CE%95-5%CE%A5%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A91%CE%A9%CE%9E%CE%95-5%CE%A5%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A91%CE%A9%CE%9E%CE%95-5%CE%A5%CE%91",
+  "listing_sha256": "0ae8815dd8943d0dcbca1fd0356a42d6927880dd018ee978d8b556fa5dd2a6e6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
