@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩΗΩΨΓ-02Β",
+  "subject": "Ψήφιση πίστωσης για την πληρωμή οφειλόμενης δαπάνης για την τεχνική υποστήριξη πληροφοριακού συστήματος του Συνδέσμου που εγγράφηκε με αναμόρφωση του προϋπολογισμού",
+  "protocol_number": "104",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6035",
+    "label": "ΔΗΜΟΣ ΑΝΔΡΑΒΙΔΑΣ - ΚΥΛΛΗΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91093"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-12",
+  "posted": "2013-08-13",
+  "publish_timestamp_ms": 1376387249000,
+  "version_id": "f0cdb823-d018-4d8e-bbaf-41e62653271e",
+  "in_force": "2013-08-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%97%CE%A9%CE%A8%CE%93-02%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%97%CE%A9%CE%A8%CE%93-02%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A9%CE%97%CE%A9%CE%A8%CE%93-02%CE%92",
+  "listing_sha256": "52a50722b4cb8dab57118dc2f03b5d7adde2029fce1c058de3977606b144b632",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
