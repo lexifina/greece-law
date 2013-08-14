@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩ0ΩΨΡ-6ΧΗ",
+  "subject": "Τρόπος πληρωμής της προμήθειας ΄΄Φορητή μονάδα αφαλάτωσης τύπου αντίστροφης ώσμωσης ελάχιστης παραγωγής 450 μ3 ημερησίως για το Δ.Δ. Αιγιάλης΄΄",
+  "protocol_number": "108",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6027",
+    "label": "ΔΗΜΟΣ ΑΜΟΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81741"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-08-02",
+  "posted": "2013-08-14",
+  "publish_timestamp_ms": 1376469784000,
+  "version_id": "0c4b276e-7ae7-4b01-bd14-3d1c2e388c46",
+  "in_force": "2013-08-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A90%CE%A9%CE%A8%CE%A1-6%CE%A7%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A90%CE%A9%CE%A8%CE%A1-6%CE%A7%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A90%CE%A9%CE%A8%CE%A1-6%CE%A7%CE%97",
+  "listing_sha256": "b24b8df3a2c070ab14bcc370e6fa95ada74ea21832d7c1052c832470fe3928c4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
