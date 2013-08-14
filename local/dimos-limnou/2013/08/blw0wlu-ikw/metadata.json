@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩ0ΩΛΘ-ΙΚΩ",
+  "subject": "Απαλλαγή υπολόγου και έγκριση απόδοσης λογαριασμού.",
+  "protocol_number": "185/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6174",
+    "label": "ΔΗΜΟΣ ΛΗΜΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81214"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-08-08",
+  "posted": "2013-08-14",
+  "publish_timestamp_ms": 1376468334000,
+  "version_id": "2a49730e-3902-4617-947e-a0b72922f9d8",
+  "in_force": "2013-08-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A90%CE%A9%CE%9B%CE%98-%CE%99%CE%9A%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A90%CE%A9%CE%9B%CE%98-%CE%99%CE%9A%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A90%CE%A9%CE%9B%CE%98-%CE%99%CE%9A%CE%A9",
+  "listing_sha256": "4ca227feb228220680a0ecd907490c03a2cf2ecfa00a15650cc78120473cc618",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
