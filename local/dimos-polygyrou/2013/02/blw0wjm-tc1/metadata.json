@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩ0ΩΞΜ-ΤΨ1",
+  "subject": "Απόφαση από το πρακτικό 2/2013 της συνεδρίασης της Τοπικής Κοινότητας Βραστάμων του Δήμου Πολυγύρου με θέμα: Καθαρισμός δρόμου Βραστάμων  - Ορμύλιας",
+  "protocol_number": "2/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6251",
+    "label": "ΔΗΜΟΣ ΠΟΛΥΓΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84565"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-02-22",
+  "posted": "2013-08-14",
+  "publish_timestamp_ms": 1376471625000,
+  "version_id": "f2ac7217-71c3-4d59-98d2-bd44e5a3c5f5",
+  "in_force": "2013-08-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A90%CE%A9%CE%9E%CE%9C-%CE%A4%CE%A81",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A90%CE%A9%CE%9E%CE%9C-%CE%A4%CE%A81/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A90%CE%A9%CE%9E%CE%9C-%CE%A4%CE%A81",
+  "listing_sha256": "0318a4f690099a8efa610131a7ad2c5d1620a84ee6a7493af52004a07fe91ce5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
