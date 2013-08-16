@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩΦΩΞ2-ΥΧ0",
+  "subject": "ΠΡΟΜΗΘΕΙΑ   ΕΝΤΥΠΩΝ  &  ΥΛΙΚΩΝ  ΜΗΧΑΝΟΓΡΑΦΗΣΗΣ   &    ΠΟΛΛΑΠΛΩΝ   ΕΚΤΥΠΩΣΕΩΝ",
+  "protocol_number": "259",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78092"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-08-01",
+  "posted": "2013-08-16",
+  "publish_timestamp_ms": 1376645405000,
+  "version_id": "ed6e479f-654a-4958-8365-a31a6d1d5101",
+  "in_force": "2013-08-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%A6%CE%A9%CE%9E2-%CE%A5%CE%A70",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%A6%CE%A9%CE%9E2-%CE%A5%CE%A70/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A9%CE%A6%CE%A9%CE%9E2-%CE%A5%CE%A70",
+  "listing_sha256": "bcf3692d063d9eda94a1ebaa3de64d82f7c2d1f32be67809bf90e1a0ab1cd3ed",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
