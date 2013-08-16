@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩΦΗ-ΛΒΟ",
+  "subject": "\"ΚΑΤΑΝΟΜΗ ΤΩΝ ΘΕΣΕΩΝ ΕΛΕΓΚΤΩΝ ΒΕΒΑΙΩΣΗΣ ΚΑΙ ΑΝΑΓΚΑΣΤΙΚΗΣ ΕΙΣΠΡΑΞΗΣ ΤΩΝ ΕΣΟΔΩΝ ΤΟΥ ΚΡΑΤΟΥΣ ΤΗΣ ΕΙΔΙΚΗΣ ΓΡΑΜΜΑΤΕΙΑΣ ΤΟΥ ΣΩΜΑΤΟΣ ΔΙΩΞΗΣ ΟΙΚΟΝΟΜΙΚΟΥ ΕΓΚΛΗΜΑΤΟΣ (Σ.Δ.Ο.Ε.) ΣΤΙΣ ΕΠΙΧΕΙΡΗΣΙΑΚΕΣ ΚΑΙ ΣΤΙΣ ΠΕΡΙΦΕΡΕΙΑΚΕΣ ΔΙΕΥΘΥΝΣΕΙΣ ΑΥΤΗΣ\".",
+  "protocol_number": "Δ6Α 1124384 ΕΞ 2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "1998"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-08-07",
+  "posted": "2013-08-16",
+  "publish_timestamp_ms": 1376647979000,
+  "version_id": "5836bbbd-ae7f-45cc-9b3a-561c5a3a04e1",
+  "in_force": "2013-08-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%A6%CE%97-%CE%9B%CE%92%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%A6%CE%97-%CE%9B%CE%92%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A9%CE%A6%CE%97-%CE%9B%CE%92%CE%9F",
+  "listing_sha256": "d0580cc4ee486b335a77f85e62510ba5cf1e6b2b3618f56345597967158ae45c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
