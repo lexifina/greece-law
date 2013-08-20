@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩΤΩ1Σ-Β00",
+  "subject": "ΠΑΡΑΘΕΣΗ ΔΕΙΠΝΟΥ ΣΤΗΝ ΑΝΤΙΠΡΟΣΩΠΙΑ ΤΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+  "protocol_number": "74",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6282",
+    "label": "ΔΗΜΟΣ ΣΚΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82022"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-03-15",
+  "posted": "2013-08-20",
+  "publish_timestamp_ms": 1376980895000,
+  "version_id": "73a06227-30ab-462c-bc08-d504d9b8572a",
+  "in_force": "2013-08-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%A4%CE%A91%CE%A3-%CE%9200",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%A4%CE%A91%CE%A3-%CE%9200/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A9%CE%A4%CE%A91%CE%A3-%CE%9200",
+  "listing_sha256": "5d407a9ac624dfc28103d2183fe1bc62d1e074d2269674fd55863cecc865f121",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
