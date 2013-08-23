@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩ2ΩΗ4-ΞΡΛ",
+  "subject": "Απόφαση Δημοτικού Συμβουλίου 60/2013 με θέμα: Έγκριση διετούς Προγράμματος Δράσης για τα έτη 2013-2014, της Κοινωφελούς Επιχείρησης Δ.Σφακίων",
+  "protocol_number": "3669",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6292",
+    "label": "ΔΗΜΟΣ ΣΦΑΚΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83896"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-08-13",
+  "posted": "2013-08-23",
+  "publish_timestamp_ms": 1377255713000,
+  "version_id": "3a8f15f7-b089-48c0-b412-88233b9419e2",
+  "in_force": "2013-08-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A92%CE%A9%CE%974-%CE%9E%CE%A1%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A92%CE%A9%CE%974-%CE%9E%CE%A1%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A92%CE%A9%CE%974-%CE%9E%CE%A1%CE%9B",
+  "listing_sha256": "fb41fdf6aaf8d72898026b90b472dc03273db133a843d9a83f20ca79ba3f5ce7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
