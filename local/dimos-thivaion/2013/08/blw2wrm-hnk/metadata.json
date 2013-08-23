@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩ2ΩΡΜ-ΗΝΚ",
+  "subject": "3η Αναμόρφωση του δημοτικού προυπολογισμού οικ. έτους 2013",
+  "protocol_number": "275",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6115",
+    "label": "ΔΗΜΟΣ ΘΗΒΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79827"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-08-01",
+  "posted": "2013-08-23",
+  "publish_timestamp_ms": 1377250065000,
+  "version_id": "1d143bd5-372e-4675-b9d9-caa941e9c30d",
+  "in_force": "2013-08-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A92%CE%A9%CE%A1%CE%9C-%CE%97%CE%9D%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A92%CE%A9%CE%A1%CE%9C-%CE%97%CE%9D%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A92%CE%A9%CE%A1%CE%9C-%CE%97%CE%9D%CE%9A",
+  "listing_sha256": "bcf3692d063d9eda94a1ebaa3de64d82f7c2d1f32be67809bf90e1a0ab1cd3ed",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
