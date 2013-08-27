@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩΜΩΞΘ-00Α",
+  "subject": "Τροποποίηση της υπ΄ αριθμ. 48/2011 απόφασης Δ.Σ. περί συγχώνευσης Ν.Π.Δ.Δ. Κοινωνικής Προστασίας σε ένα Νομικό Πρόσωπο Δημοσίου Δικαίου με την επωνυμία : ''Κοινωνικός Οργανισμός Δήμου Παύλου Μελά” Νομού Θεσσαλονίκης (ΦΕΚ 1186/τ.Β΄/09-06-2011).",
+  "protocol_number": "326",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6242",
+    "label": "ΔΗΜΟΣ ΠΑΥΛΟΥ ΜΕΛΑ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80652"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "1844"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-05-27",
+  "posted": "2013-08-27",
+  "publish_timestamp_ms": 1377582990000,
+  "version_id": "973bd720-76c8-40f7-b602-08918d3ad6d5",
+  "in_force": "2013-08-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%9C%CE%A9%CE%9E%CE%98-00%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A9%CE%9C%CE%A9%CE%9E%CE%98-00%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A9%CE%9C%CE%A9%CE%9E%CE%98-00%CE%91",
+  "listing_sha256": "fa8ad009cecfa5a53f44a6c1f7b7834fe8486830038f21cbf44b2858df87fea7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
