@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩ8Ω94-Ζ6Φ",
+  "subject": "Πρόσκληση  Ο.Ε  της 04-09-2013",
+  "protocol_number": "7977",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6054",
+    "label": "ΔΗΜΟΣ ΒΙΑΝΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81442"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-08-30",
+  "posted": "2013-08-30",
+  "publish_timestamp_ms": 1377860472000,
+  "version_id": "40f9b3b2-7db8-4af4-a391-bdd1afba2f9f",
+  "in_force": "2013-08-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A98%CE%A994-%CE%966%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A98%CE%A994-%CE%966%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A98%CE%A994-%CE%966%CE%A6",
+  "listing_sha256": "1630411eca9caf91663439ba5239f72cf11bcb28c4fe18b6b9232f8bd3c172d4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
