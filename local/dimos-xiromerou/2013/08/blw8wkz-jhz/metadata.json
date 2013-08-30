@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΩ8ΩΚΖ-ΞΗΖ",
+  "subject": "ΑΠΟΦΑΣΗ 96/2013 ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ ΠΕΡΙ \"ΛΗΨΗ ΑΠΟΦΑΣΗΣ ΠΕΡΙ ΣΥΝΝΟΜΗΣ ΛΕΙΤΟΥΡΓΙΑΣ ΣΧΟΛΑΖΟΝΤΟΣ ΠΕΡΙΠΤΕΡΟΥ\r\nΑΠΟΒΙΩΣΑΝΤΟΣ ΔΙΚΑΙΟΥΧΟΥ ΜΑΚΡΗ ΙΩΑΝΝΗ ΤΟΥ ΠΑΝΑΓΙΩΤΗ ΣΤΗΝ ΠΑΡΟΥΣΑ ΘΕΣΗ ΕΠΙ ΤΗΣ ΣΥΜΒΟΛΗΣ ΟΔΩΝ ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ ΚΑΙ ΒΑΣΙΛΕΩΣ  ΚΩΝΣΤΑΝΤΙΝΟΥ ΣΤΟΝ ΑΣΤΑΚΟ ΚΑΙ ΑΝΑΓΚΗ ΜΕΤΑΦΟΡΑΣ ΤΟΥ ΣΕ ΑΛΛΗ ΘΕΣΗ \".",
+  "protocol_number": "13090",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6221",
+    "label": "ΔΗΜΟΣ ΞΗΡΟΜΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88039"
+  ],
+  "thematic_category_ids": [
+    "68"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛ4ΗΩΚΖ-ΙΘΦ"
+      }
+    ]
+  },
+  "issued": "2013-08-29",
+  "posted": "2013-08-30",
+  "publish_timestamp_ms": 1377857149000,
+  "version_id": "b913d8a8-566e-41a4-8347-6eec872f7f82",
+  "in_force": "2013-08-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A98%CE%A9%CE%9A%CE%96-%CE%9E%CE%97%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%A98%CE%A9%CE%9A%CE%96-%CE%9E%CE%97%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%A98%CE%A9%CE%9A%CE%96-%CE%9E%CE%97%CE%96",
+  "listing_sha256": "90a56e6a3057aed780e9cc149c978136b8a8037235cf50570fccd93d0425c109",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
