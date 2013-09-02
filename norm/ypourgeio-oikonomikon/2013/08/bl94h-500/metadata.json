@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ94Η-500",
+  "subject": "Τροποποίηση των αποφάσεων Α.Χ.Σ. 378/94 (ΦΕΚ 705/Β/20.9.1994) και 265/2002 (Φ.Ε.Κ. 1214/Β/19.9.2002) όπως έχουν τροποποιηθεί και ισχύουν, σε εναρμόνιση προς την οδηγία 2013/21/ΕΕ του Συμβουλίου της 13ης Μαΐου 2013 (L 158 της 10.6.2013 σ. 240) \"για την προσαρμογή της οδηγίας 67/548/ΕΟΚ του Συμβουλίου και της οδηγίας 1999/45/ΕΚ του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου στον τομέα του περιβάλλοντος, λόγω της προσχώρησης της Δημοκρατίας της Κροατίας\"",
+  "protocol_number": "182/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "10"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "2127"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-08-07",
+  "posted": "2013-09-02",
+  "publish_timestamp_ms": 1378100759000,
+  "version_id": "ba1e1e6b-1b49-42c9-87a3-e2db8ce2ae79",
+  "in_force": "2013-09-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B94%CE%97-500",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B94%CE%97-500/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B94%CE%97-500",
+  "listing_sha256": "d0580cc4ee486b335a77f85e62510ba5cf1e6b2b3618f56345597967158ae45c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
