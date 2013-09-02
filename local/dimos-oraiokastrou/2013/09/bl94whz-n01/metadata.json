@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ94ΩΗΖ-Ν01",
+  "subject": "(ΑΔΣ   253/2013) Αποδοχή ένταξης της πράξης «Προμήθεια δύο (2) οικολογικών \r\nβυθιζόμενων κάδων διαβαθμισμένης συμπίεσης Δήμου Ωραιοκάστρου» στο χρηματοδοτικό πρόγραμμα\r\n «Αστική Αναζωογόνηση 2012-2015», προϋπολογισμού 123.000,00 €, έγκριση της υπ’ αριθμ. 18/2013 μελέτης,  \r\nέγκριση εκτέλεσης της προμήθειας και εξουσιοδότηση του Δημάρχου για την υπογραφή κάθε σχετικού εγγράφου \r\nγια την υλοποίηση και παρακολούθηση του έργου.",
+  "protocol_number": "253",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6323",
+    "label": "ΔΗΜΟΣ ΩΡΑΙΟΚΑΣΤΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83567"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛΩΥΩΗΖ-Ε56"
+      },
+      {
+        "relatedDecisionsADA": "ΒΕΑ5ΩΗΖ-2ΕΡ"
+      }
+    ]
+  },
+  "issued": "2013-09-02",
+  "posted": "2013-09-02",
+  "publish_timestamp_ms": 1378118237000,
+  "version_id": "8de3f94a-0acb-47b7-b1d9-41ef0cb7c92b",
+  "in_force": "2013-09-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B94%CE%A9%CE%97%CE%96-%CE%9D01",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B94%CE%A9%CE%97%CE%96-%CE%9D01/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B94%CE%A9%CE%97%CE%96-%CE%9D01",
+  "listing_sha256": "2b947fe307402483a534abc825ededc46eae9ed56ae128f32562d0a3cedd1714",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
