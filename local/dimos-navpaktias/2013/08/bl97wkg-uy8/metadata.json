@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ97ΩΚΓ-ΘΥ8",
+  "subject": "Απόφαση 341/2013 Ο.Ε. με θέμα: Εγκριση ή μη των πρακτικών και του αποτελέσματος της  δημοπρασίας  μίσθωσης ακινήτου για την μεταστέγαση του ΚΕΠ Αντιρρίου.",
+  "protocol_number": "341/2013 O.E.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6205",
+    "label": "ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78825"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-08-23",
+  "posted": "2013-09-04",
+  "publish_timestamp_ms": 1378286842000,
+  "version_id": "2531fa84-867a-4c5c-a3ab-f1a3e8f4edef",
+  "in_force": "2013-09-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B97%CE%A9%CE%9A%CE%93-%CE%98%CE%A58",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B97%CE%A9%CE%9A%CE%93-%CE%98%CE%A58/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B97%CE%A9%CE%9A%CE%93-%CE%98%CE%A58",
+  "listing_sha256": "ebfa88ac04bc8802e610e5654b61ac8ce69357c9f35ab2e69741bd5099827fcc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
