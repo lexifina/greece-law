@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ9ΩΩΞΓ-ΞΗΓ",
+  "subject": "Αίτημα Λάμπρου Ιουλίας για μείωση μισθώματος δημοτικού ακινήτου",
+  "protocol_number": "10682",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6239",
+    "label": "ΔΗΜΟΣ ΠΑΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80712"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-31",
+  "posted": "2013-09-05",
+  "publish_timestamp_ms": 1378380761000,
+  "version_id": "f0b186a2-c5af-4894-b6ec-574326983d51",
+  "in_force": "2013-09-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%A9%CE%A9%CE%9E%CE%93-%CE%9E%CE%97%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%A9%CE%A9%CE%9E%CE%93-%CE%9E%CE%97%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B9%CE%A9%CE%A9%CE%9E%CE%93-%CE%9E%CE%97%CE%93",
+  "listing_sha256": "221320787c9d4fb6b21d4b05a3cf330a8645155000bdc616e3094975c0154f98",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
