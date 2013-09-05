@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ9ΩΗ-ΜΔΕ",
+  "subject": "Τροποποίηση της ΑΥΟ ΠΟΛ.1268/11, σχετικά με την απαλλαγή από το\r\nΦΠΑ της παράδοσης αγαθών και παροχής υπηρεσιών που\r\nπραγματοποιούνται στα πλαίσια των ρυθμίσεων των διπλωματικών και\r\nπροξενικών σχέσεων και για τις ανάγκες των αναγνωρισμένων από την\r\nΕλλάδα διεθνών και ευρωπαϊκών οργανισμών ή των μελών του\r\nπροσωπικού τους.",
+  "protocol_number": "ΠΟΛ 1190",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "1926"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-29",
+  "posted": "2013-09-05",
+  "publish_timestamp_ms": 1378371718000,
+  "version_id": "0c679794-960f-4ed8-b015-6a3e674cb714",
+  "in_force": "2013-09-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%A9%CE%97-%CE%9C%CE%94%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%A9%CE%97-%CE%9C%CE%94%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B9%CE%A9%CE%97-%CE%9C%CE%94%CE%95",
+  "listing_sha256": "60a6c8b125cbdf3106605b1dfa769795b3048aa72415364d09ad5ead34bcc5bc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
