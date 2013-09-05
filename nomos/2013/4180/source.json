@@ -1,0 +1,39 @@
+{
+  "year": 2013,
+  "number": 4180,
+  "url": "https://api.et.gr/apiLAW/1/2013/4180/pdf",
+  "source_sha256": "5f4af3ea5f4bbdf0cb4fb937c2239e7a707ab0aa3015e643380a00ad4e86f2d4",
+  "published": "2013-09-05",
+  "in_force": "2013-09-05",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "in_force_general_day": false,
+  "pages": 12,
+  "images": [
+    {
+      "page": 8,
+      "sha256": "982c90d37c05e2273356a1ce6f425c84b7088553d17d1fc5a58f03c343b03c3c",
+      "ext": "png",
+      "bytes": 416771,
+      "bbox": [
+        54.9,
+        84.7,
+        507.3,
+        757.9
+      ]
+    },
+    {
+      "page": 9,
+      "sha256": "5f34222b15c519d4d15243b8adea89aa1baac79d3977df6dc3adf327b095df97",
+      "ext": "png",
+      "bytes": 418368,
+      "bbox": [
+        84.1,
+        85.4,
+        530.5,
+        758.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
