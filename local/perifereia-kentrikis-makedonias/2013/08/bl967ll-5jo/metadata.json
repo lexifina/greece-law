@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ967ΛΛ-5ΞΟ",
+  "subject": "Απόρριψη  αίτησης ως αυτοδικαίως άκυρης για χορήγηση άδειας μεταλλευτικών ερευνών",
+  "protocol_number": "3185",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5009",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80425"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "2174"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-08-09",
+  "posted": "2013-09-06",
+  "publish_timestamp_ms": 1378466746000,
+  "version_id": "b35f8f21-0a9c-4884-89a1-bcd97567d45f",
+  "in_force": "2013-09-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B967%CE%9B%CE%9B-5%CE%9E%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B967%CE%9B%CE%9B-5%CE%9E%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B967%CE%9B%CE%9B-5%CE%9E%CE%9F",
+  "listing_sha256": "1648478b099ebb57473548a3cd859f4b5f7d0936e447026f4d6eb428787e4b26",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
