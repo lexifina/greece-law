@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ9ΕΟΡ1Κ-Ι3Χ",
+  "subject": "Έγκριση της υπ’ αρ. 170/2013 απόφασης του Δημοτικού Συμβουλίου Αιγάλεω περί σύστασης\r\nπροσωποπαγών θέσεων με σχέση εργασίας ιδιωτικού δικαίου αορίστου χρόνου στον ΟΕΥ του Δήμου Αιγάλεω,\r\nσε συμμόρφωση τελεσίδικης δικαστικής απόφασης",
+  "protocol_number": "43704/36013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50196",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΤΤΙΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76308"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "2174"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-08-20",
+  "posted": "2013-09-10",
+  "publish_timestamp_ms": 1378815103000,
+  "version_id": "e0dc11dd-89be-4b04-86bb-eb4c061e01e9",
+  "in_force": "2013-09-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%95%CE%9F%CE%A11%CE%9A-%CE%993%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%95%CE%9F%CE%A11%CE%9A-%CE%993%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B9%CE%95%CE%9F%CE%A11%CE%9A-%CE%993%CE%A7",
+  "listing_sha256": "7e73e11d4f3feffe4fa8bc61563660314c601ef0a5e434fe00e81b4c4a444d0a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
