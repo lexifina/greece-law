@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ9ΚΗ-ΥΩ8",
+  "subject": "Παράταση των προθεσμιών υποβολής της Οριστικής Δήλωσης Απόδοσης Φόρου Μισθωτών Υπηρεσιών (Φ.Μ.Υ. - Έντυπο Ε7-Φ-01.015), της Οριστικής Δήλωσης Απόδοσης Φόρου Μισθωτών Υπηρεσιών (Φ.Μ.Υ. - Έντυπο Ε12-Φ-01.015Α), από αμοιβές που καταβλήθηκαν σε αξιωματικούς και μέλη του κατώτερου πληρώματος πλοίου και της βεβαίωσης αποδοχών ή συντάξεων.",
+  "protocol_number": "ΠΟΛ 1181",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "1880"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-19",
+  "posted": "2013-09-12",
+  "publish_timestamp_ms": 1378987676000,
+  "version_id": "70a89df1-5630-404e-b39c-ee52024e7c04",
+  "in_force": "2013-09-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%9A%CE%97-%CE%A5%CE%A98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%9A%CE%97-%CE%A5%CE%A98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B9%CE%9A%CE%97-%CE%A5%CE%A98",
+  "listing_sha256": "f49a21ab0c509869cf14a36a0c194fe6fc3824a1db1efac653e4ec0c790c6020",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
