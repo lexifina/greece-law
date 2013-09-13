@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ9Ξ7ΛΕ-ΑΥΧ",
+  "subject": "ΑΝΑΚΟΙΝΩΣΗ - ΒΕΒΑΙΩΣΗ ΓΙΑ ΑΔΕΙΑ ΣΚΗΣΗΣ ΙΑΤΡΟΥ ΤΟΥ ΕΜΑΝΟΥΗΛ ΑΝΤΩΝΑΚΗ ΤΟΥ ΣΠΥΡΙΔΩΝΟΣ",
+  "protocol_number": "47592/18512",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5008",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΙΟΝΙΩΝ ΝΗΣΩΝ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78247"
+  ],
+  "thematic_category_ids": [
+    "44",
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-09-10",
+  "posted": "2013-09-13",
+  "publish_timestamp_ms": 1379047321000,
+  "version_id": "7f38e0b0-8a61-4853-890b-872189b02433",
+  "in_force": "2013-09-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%9E7%CE%9B%CE%95-%CE%91%CE%A5%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%9E7%CE%9B%CE%95-%CE%91%CE%A5%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B9%CE%9E7%CE%9B%CE%95-%CE%91%CE%A5%CE%A7",
+  "listing_sha256": "4d3168fc67e313b3fcebc2b8a236b39b3a42cb2af3fe85622ce9164049df84cd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
