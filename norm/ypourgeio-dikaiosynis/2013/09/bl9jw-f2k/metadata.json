@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ9ΞΩ-Φ2Κ",
+  "subject": "ΠΡΟΑΓΩΓΕΣ ΔΙΚΑΣΤΙΚΩΝ ΛΕΙΤΟΥΡΓΩΝ ΤΟΥ Σ.τ.Ε",
+  "protocol_number": "76345",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70909"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "12"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2013,
+      "aa": "1020"
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-09-03",
+  "posted": "2013-09-13",
+  "publish_timestamp_ms": 1379058487000,
+  "version_id": "52e44be0-9f6a-4eba-a3e5-1bb7bf0ae786",
+  "in_force": "2013-09-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%9E%CE%A9-%CE%A62%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%9E%CE%A9-%CE%A62%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B9%CE%9E%CE%A9-%CE%A62%CE%9A",
+  "listing_sha256": "1739d809d3dde48595c50ec0008c9b5661620e92b93536afecdd65baff48902e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
