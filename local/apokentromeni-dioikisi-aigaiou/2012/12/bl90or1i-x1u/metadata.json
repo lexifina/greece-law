@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ90ΟΡ1Ι-Χ1Θ",
+  "subject": "ΑΠΟΦΑΣΗ ΑΝΑΚΛΗΣΗΣ",
+  "protocol_number": "οικ. 60572/13151",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76746"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2012-12-27",
+  "posted": "2013-09-16",
+  "publish_timestamp_ms": 1379327962000,
+  "version_id": "473803d9-6d96-4dc6-853c-a297996b022f",
+  "in_force": "2013-09-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B90%CE%9F%CE%A11%CE%99-%CE%A71%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B90%CE%9F%CE%A11%CE%99-%CE%A71%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B90%CE%9F%CE%A11%CE%99-%CE%A71%CE%98",
+  "listing_sha256": "c62b46a7eba81f2a36025308f70087bb176de1346686ea7b6f0b1bcdd6041037",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
