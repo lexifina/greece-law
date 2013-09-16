@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ90ΩΨΒ-Ι99",
+  "subject": "Συζήτηση και λήψη απόφασης για την άσκηση, ενώπιον του Διοικητικού Εφετείου Πειραιώς, αίτησης ακύρωσης και αίτησης αναστολής εκτέλεσης συνοδευόμενη από το αίτημα περί χορήγησης προσωρινής διαταγής κατά του υπ΄αριθμ. 12/Φ.784/04.07.2013 πρωτοκόλλου κατεδάφισης του Υπουργείου Οικονομικών- Κτηματική Υπηρεσία Πειραιά- Τμήμα Αιγιαλού και Παραλίας, το οποίο αφορά κατασκευές στο Μικρό Λιμανάκι.",
+  "protocol_number": "269",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82632"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-09-16",
+  "posted": "2013-09-16",
+  "publish_timestamp_ms": 1379322287000,
+  "version_id": "d0201a17-629f-4098-b495-fdf4d2598eb8",
+  "in_force": "2013-09-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B90%CE%A9%CE%A8%CE%92-%CE%9999",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B90%CE%A9%CE%A8%CE%92-%CE%9999/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B90%CE%A9%CE%A8%CE%92-%CE%9999",
+  "listing_sha256": "3552317564567a799579659f161737987a2846586a0dd13ea9e3613a97bba136",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
