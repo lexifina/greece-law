@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ90ΩΨΒ-Ο7Υ",
+  "subject": "Πρόταση ανάληψης υποχρέωσης ποσού 18.849,35 € \r\nγια την καταβολή τόκων υπερημερίας 6% ποσού 17.004,35 € \r\nκαι δικαστικών εξόδων ποσού 1.845,00 € σε εκτέλεση των \r\n9980/13, 9981/13, 9982/13, 14837/13, 14838/13, 71726/12 διαταγών πληρωμής \r\nτου Ειρηνοδικείου Αθηνών \r\n(υποθέσεις Γεννάτος Θεοφάνης και Γεννάτος Θεοφάνης & Σία Ε.Ε.)",
+  "protocol_number": "272",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82632"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-09-16",
+  "posted": "2013-09-16",
+  "publish_timestamp_ms": 1379323189000,
+  "version_id": "889119ee-ecee-4bd6-80e1-f2ad117b74ae",
+  "in_force": "2013-09-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B90%CE%A9%CE%A8%CE%92-%CE%9F7%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B90%CE%A9%CE%A8%CE%92-%CE%9F7%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B90%CE%A9%CE%A8%CE%92-%CE%9F7%CE%A5",
+  "listing_sha256": "3552317564567a799579659f161737987a2846586a0dd13ea9e3613a97bba136",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
