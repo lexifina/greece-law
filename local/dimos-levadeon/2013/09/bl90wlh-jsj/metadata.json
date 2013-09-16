@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ90ΩΛΗ-ΞΣΞ",
+  "subject": "Απόφαση έγκρισης Α Σταδίου της «ΜΕΛΕΤΗΣ ΣΧΕΔΙΟΥ ΧΩΡΟΤΑΞΙΚΗΣ ΚΑΙ ΟΙΚΙΣΤΙΚΗΣ ΟΡΓΑΝΩΣΗΣ ΑΝΟΙΚΤΗΣ ΠΟΛΗΣ ΔΗΜΟΥ ΧΑΙΡΩΝΕΙΑΣ».",
+  "protocol_number": "25943",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6169",
+    "label": "ΔΗΜΟΣ ΛΕΒΑΔΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78282"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-09-12",
+  "posted": "2013-09-16",
+  "publish_timestamp_ms": 1379322951000,
+  "version_id": "dba0d6ec-c70e-4ecd-a1f2-2447830735d1",
+  "in_force": "2013-09-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B90%CE%A9%CE%9B%CE%97-%CE%9E%CE%A3%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B90%CE%A9%CE%9B%CE%97-%CE%9E%CE%A3%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B90%CE%A9%CE%9B%CE%97-%CE%9E%CE%A3%CE%9E",
+  "listing_sha256": "6c5a2ee8916b65f8f690d48848ffa1f70c4492ab366356689ceb952d4cf474ed",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
