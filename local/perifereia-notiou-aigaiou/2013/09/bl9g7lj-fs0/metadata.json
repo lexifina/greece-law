@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ9Γ7ΛΞ-ΦΣ0",
+  "subject": "Συγκρότηση επιτροπής παράδοσης παραλαβής υπηρεσιακών φακέλων οχημάτων ΦΔΧ, ΛΔΧ, ΕΤΛΔΧ ΠΕ Καλύμνου",
+  "protocol_number": "18617",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5011",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78656"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΥΖ7ΛΞ-ΠΣΜ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΕ2Π7ΛΞ-ΛΤ8"
+      }
+    ]
+  },
+  "issued": "2013-09-17",
+  "posted": "2013-09-17",
+  "publish_timestamp_ms": 1379416580000,
+  "version_id": "88105372-22ed-4f82-826a-f0d6c4a8198a",
+  "in_force": "2013-09-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%937%CE%9B%CE%9E-%CE%A6%CE%A30",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%937%CE%9B%CE%9E-%CE%A6%CE%A30/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B9%CE%937%CE%9B%CE%9E-%CE%A6%CE%A30",
+  "listing_sha256": "59cf09e89ca8131d2e5489fe2b19558de40c5e8cc45fd4baa4e913b92e0dfd15",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
