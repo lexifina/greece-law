@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ93Ω1Υ-ΒΒ4",
+  "subject": "«Ανάθεση εργασιών σε δικηγόρο του Πρωτοδικείου Αθηνών για τον χειρισμό δικαστικής υπόθεσης του Δήμου Σιντικής (η με αριθμό κατάθεσης δικογράφου 149034/26-8-2010 αγωγή των 1. Τυριλιώμη Χρυσάνθης, 2. Γεωργιάδου Όλγας και 3. Κοκκινίδου Κυριακής κατά του Δήμου Σιντικής, ως καθολικού διαδόχου του άλλοτε Δήμου Σιδηροκάστρου και κατά του ΟΑΕΔ Τράχωνες Αλίμου Αττικής) και εξουσιοδότηση για παράσταση ενώπιον του Μονομελούς Πρωτοδικείου Αθηνών κατά τη δικάσιμο της 23ης-9-2013 ή σε οποιαδήποτε αναβολή και δέσμευση αντίστοιχης πίστωσης για την αμοιβή της»",
+  "protocol_number": "142",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6277",
+    "label": "ΔΗΜΟΣ ΣΙΝΤΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81769"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-09-20",
+  "posted": "2013-09-23",
+  "publish_timestamp_ms": 1379930508000,
+  "version_id": "25f8f84a-8bf4-4f53-9d6d-2f91e38e8f8a",
+  "in_force": "2013-09-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B93%CE%A91%CE%A5-%CE%92%CE%924",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B93%CE%A91%CE%A5-%CE%92%CE%924/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B93%CE%A91%CE%A5-%CE%92%CE%924",
+  "listing_sha256": "87a346dda90e204b23529f717de96674631e9c7e1b5fc3eff80fd72663ab9a19",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
