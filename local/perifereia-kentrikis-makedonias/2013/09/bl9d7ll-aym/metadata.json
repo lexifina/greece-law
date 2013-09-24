@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ9Δ7ΛΛ-ΑΥΜ",
+  "subject": "ΤΡΟΠΟΠΟΙΗΣΗ ΚΑΙ ΣΥΜΠΛΗΡΩΣΗ ΤΗΣ ΥΠ' ΑΡΙΘΜ. 985/20-03-2013 ΑΠΟΦΑΣΗΣ ΤΟΥ ΠΕΡΙΦΕΡΕΙΑΡΧΗ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ (ΦΕΚ 687/Β'/26-03-2013) ΠΕΡΙ ΜΕΤΑΒΙΒΑΣΗΣ ΑΣΚΗΣΗΣ ΑΡΜΟΔΙΟΤΗΤΩΝ ΕΠΙ ΑΠΟΦΑΣΕΩΝ, ΕΓΓΡΑΦΩΝ ΚΑΙ ΑΛΛΩΝ ΠΡΑΞΕΩΝ ΣΤΟΥΣ ΑΝΤΙΠΕΡΙΦΕΡΕΙΑΡΧΕΣ ΚΑΙ ΣΤΟΥΣ ΠΕΡΙΦΕΡΕΙΑΚΟΥΣ ΣΥΜΒΟΥΛΟΥΣ ΤΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ.",
+  "protocol_number": "Γ.Π.Κ.Μ./οικ. 3652",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5009",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80386"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "2367"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-09-19",
+  "posted": "2013-09-24",
+  "publish_timestamp_ms": 1380022667000,
+  "version_id": "494ea1ad-86e6-4efb-9e11-5b1aa6e48034",
+  "in_force": "2013-09-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%947%CE%9B%CE%9B-%CE%91%CE%A5%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%947%CE%9B%CE%9B-%CE%91%CE%A5%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B9%CE%947%CE%9B%CE%9B-%CE%91%CE%A5%CE%9C",
+  "listing_sha256": "88d600421f27ac5efb0ab3bb7c024f06b2dda0c61180ab9545d463f623dc2d5e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
