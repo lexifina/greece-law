@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ9ΣΩ1Γ-Σ9Ν",
+  "subject": "Τροποποίηση της 164/013 απόφασης. Έγκριση εκδήλωσης εορτασμού της παγκόσμιας ημέρας Τουρισμού. Έγκριση προμήθειας αγαθών.",
+  "protocol_number": "236/013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6273",
+    "label": "ΔΗΜΟΣ ΣΗΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80115"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛ4ΩΩ1Γ-Ρ7Υ"
+      }
+    ]
+  },
+  "issued": "2013-09-23",
+  "posted": "2013-09-26",
+  "publish_timestamp_ms": 1380185352000,
+  "version_id": "b59e47ad-f5d5-4a86-a6f8-0738ce665d6f",
+  "in_force": "2013-09-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%A3%CE%A91%CE%93-%CE%A39%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%A3%CE%A91%CE%93-%CE%A39%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B9%CE%A3%CE%A91%CE%93-%CE%A39%CE%9D",
+  "listing_sha256": "9d2939a04d401483ba80b01333867270fc31a7f2f4f64e36afe9ecb9995ce8ac",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
