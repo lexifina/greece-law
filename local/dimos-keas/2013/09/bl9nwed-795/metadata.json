@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ9ΝΩΕΔ-795",
+  "subject": "Έγκριση προϋπολογισμού έτους 2014 του Δήμου Κέας.",
+  "protocol_number": "222",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6144",
+    "label": "ΔΗΜΟΣ ΚΕΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83519"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-09-28",
+  "posted": "2013-09-30",
+  "publish_timestamp_ms": 1380538765000,
+  "version_id": "4c61e183-ca54-42ed-bde8-f08f1cd2ef3a",
+  "in_force": "2013-09-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%9D%CE%A9%CE%95%CE%94-795",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B9%CE%9D%CE%A9%CE%95%CE%94-795/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B9%CE%9D%CE%A9%CE%95%CE%94-795",
+  "listing_sha256": "09ee5687d296d09fea05a1a3fe6fcc97f45b264035ada3ed2a86bebabe5b5e6f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
