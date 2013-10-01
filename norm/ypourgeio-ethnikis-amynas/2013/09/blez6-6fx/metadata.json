@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΕΖ6-6ΦΧ",
+  "subject": "ΜΕΡΙΚΗ ΑΝΑΚΛΗΣΗ Π.ΔΙΑΤΑΓΜΑΤΩΝ ΚΑΙ ΔΙΟΙΚΗΤΙΚΗ ΑΠΟΚΑΤΑΣΤΑΣΗ ΑΞΙΩΜΑΤΙΚΩΝ ΤΟΥ ΠΟΛΕΜΙΚΟΥ ΝΑΥΤΙΚΟΥ",
+  "protocol_number": "Φ.416.44/12/6738/Σ.50238",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2013,
+      "aa": "1054"
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-09-30",
+  "posted": "2013-10-01",
+  "publish_timestamp_ms": 1380618688000,
+  "version_id": "513dea9b-d777-4c80-ad07-79de8f506064",
+  "in_force": "2013-10-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%95%CE%966-6%CE%A6%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%95%CE%966-6%CE%A6%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%95%CE%966-6%CE%A6%CE%A7",
+  "listing_sha256": "2b5d33e6471640a604f70941a5cfcb3c2389ded9f0144806515f817afc1f2bd5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
