@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛΟΘΩΠ-436",
+  "subject": "Παύση και διορισμός Αντιπροέδρου της Κεντρικής Νομοπαρασκευαστικής Επιτροπής",
+  "protocol_number": "Υ 389",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "91380"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_fektype_AEEPPE",
+      "issueyear": 2013,
+      "aa": "458"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-09-19",
+  "posted": "2013-10-03",
+  "publish_timestamp_ms": 1380792200000,
+  "version_id": "f80ce816-7529-45ef-bde6-1d3cf655e5f3",
+  "in_force": "2013-10-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%9F%CE%98%CE%A9%CE%A0-436",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%9F%CE%98%CE%A9%CE%A0-436/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B%CE%9F%CE%98%CE%A9%CE%A0-436",
+  "listing_sha256": "88d600421f27ac5efb0ab3bb7c024f06b2dda0c61180ab9545d463f623dc2d5e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
