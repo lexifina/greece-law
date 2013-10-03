@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛΟΩΗ0-ΔΡ0",
+  "subject": "Απόφαση Δ.Σ. με αριθμό 224/2013 περί: “Έγκρισης της με αριθμό 49/2013 απόφασης του Δ.Σ. της  ΔΕΥΑΦ με θέμα: “Έγκριση αιτήματος ανέργων οικοδόμων για μείωση του τιμολογίου ύδρευσης κατά 50%”.",
+  "protocol_number": "18787",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6306",
+    "label": "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82050"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-10-03",
+  "posted": "2013-10-03",
+  "publish_timestamp_ms": 1380781200000,
+  "version_id": "03d3b638-6c2a-452f-837e-2c635cf8130d",
+  "in_force": "2013-10-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%9F%CE%A9%CE%970-%CE%94%CE%A10",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%9F%CE%A9%CE%970-%CE%94%CE%A10/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B%CE%9F%CE%A9%CE%970-%CE%94%CE%A10",
+  "listing_sha256": "538d39dd1f43307c2a4adbbaf117f2995ba029fa4a38d6224993cba2d56edd1b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
