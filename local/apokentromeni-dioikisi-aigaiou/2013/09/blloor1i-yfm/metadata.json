@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛΟΟΡ1Ι-ΥΦΜ",
+  "subject": "Έλεγχος νομιμότητας της με αριθμό 298/2013 απόφασης της Οικονομικής     Επιτροπής της Περιφέρειας Νοτίου Αιγαίου .",
+  "protocol_number": "46537/10187",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76758"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-09-27",
+  "posted": "2013-10-03",
+  "publish_timestamp_ms": 1380785263000,
+  "version_id": "e0727b1b-3216-49a1-bc82-19ba709ab319",
+  "in_force": "2013-10-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%9F%CE%9F%CE%A11%CE%99-%CE%A5%CE%A6%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%9F%CE%9F%CE%A11%CE%99-%CE%A5%CE%A6%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B%CE%9F%CE%9F%CE%A11%CE%99-%CE%A5%CE%A6%CE%9C",
+  "listing_sha256": "f947882425780422dd959806bbfce994ea250bd0ed5c416f1f32cd6462182368",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
