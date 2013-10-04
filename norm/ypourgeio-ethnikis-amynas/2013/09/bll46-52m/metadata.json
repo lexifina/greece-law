@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛ46-52Μ",
+  "subject": "«Τροποποίηση της υπ’ αριθμ. Φ.400/ 254513/ Σ.2635/ 19-07-2013 (ΦΕΚ 1818, τ. Β’) απόφασης Αναπληρωτή Υπουργού Εθνικής Άμυνας ‘’Συγκρότηση της Διακλαδικής Επιτροπής Κοινωνικών Προβλημάτων (ΔΕΚΠ) των Ενόπλων Δυνάμεων, καθορισμός των αρμοδιοτήτων της και κάθε άλλης αναγκαίας λεπτομέρειας’’»",
+  "protocol_number": "Φ.400/ 255072/ Σ.3190/ 11-09-2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "2146"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛΩΨ6-Ι9Δ"
+      }
+    ]
+  },
+  "issued": "2013-09-11",
+  "posted": "2013-10-04",
+  "publish_timestamp_ms": 1380870433000,
+  "version_id": "760d291b-47ad-4035-a944-3f1d97f4e444",
+  "in_force": "2013-10-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B46-52%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B46-52%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B46-52%CE%9C",
+  "listing_sha256": "c8c39cd44f75246f8df177f61bfaff07673ae402eada1827bbd5f329e606281d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
