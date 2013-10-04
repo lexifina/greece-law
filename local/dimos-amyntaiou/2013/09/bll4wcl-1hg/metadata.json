@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛ4ΩΨΛ-1ΗΓ",
+  "subject": "΄Εγκριση της με αριθμό 53/2013 απόφασης του διοικητικού συμβουλίου\r\nτης Δημοτικής Κοινωφελούς Επιχείρησης Δήμου Αμυνταίου που αφορά την\r\n«Τροποποίηση προϋπολογισμού και δημιουργία νέων κωδικών».",
+  "protocol_number": "24309",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6029",
+    "label": "ΔΗΜΟΣ ΑΜΥΝΤΑΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79551"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-09-30",
+  "posted": "2013-10-04",
+  "publish_timestamp_ms": 1380879163000,
+  "version_id": "2b6c7966-508e-4e5b-8553-7ad554174585",
+  "in_force": "2013-10-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B4%CE%A9%CE%A8%CE%9B-1%CE%97%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B4%CE%A9%CE%A8%CE%9B-1%CE%97%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B4%CE%A9%CE%A8%CE%9B-1%CE%97%CE%93",
+  "listing_sha256": "dcd5dc7a1d7e3fe5ade16913a63ed0bb02069d1415b4264f5907dfd0b1389b0f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
