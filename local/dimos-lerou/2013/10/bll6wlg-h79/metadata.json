@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛ6ΩΛΓ-Η79",
+  "subject": "Αντικατάσταση μελών Διοικητικού Συμβουλίου Οργανισμού Δευτεροβάθμιας Σχολικής Επιτροπής Δήμου Λέρου.",
+  "protocol_number": "Απόφαση Δημοτικού Συμβουλίου 153/2013 (ορθή επανάληψη)",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6171",
+    "label": "ΔΗΜΟΣ ΛΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82887"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-10-01",
+  "posted": "2013-10-08",
+  "publish_timestamp_ms": 1381226156000,
+  "version_id": "ba95c8ba-f821-4312-b99f-0d48d6f03615",
+  "in_force": "2013-10-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B6%CE%A9%CE%9B%CE%93-%CE%9779",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B6%CE%A9%CE%9B%CE%93-%CE%9779/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B6%CE%A9%CE%9B%CE%93-%CE%9779",
+  "listing_sha256": "dd3ffcf748b46c7bd4745030ea7b03e5c25c99d269bc62b412bdbf10d62c895f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
