@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛΨΩ62-ΔΘΨ",
+  "subject": "Μερική τροποποίηση ΑΟΕ 041/2013 περί ανάληψης υποχρεώσεων ΠΟΕ κατόπιν αναμόρφωσης (ΑΔΣ 361/2013).",
+  "protocol_number": "232/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6009",
+    "label": "ΔΗΜΟΣ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78024"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΔ0Ω62-19Ζ"
+      }
+    ]
+  },
+  "issued": "2013-10-08",
+  "posted": "2013-10-09",
+  "publish_timestamp_ms": 1381318665000,
+  "version_id": "8ede7174-d50e-4893-be8f-7fb59f1323c8",
+  "in_force": "2013-10-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%A8%CE%A962-%CE%94%CE%98%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%A8%CE%A962-%CE%94%CE%98%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B%CE%A8%CE%A962-%CE%94%CE%98%CE%A8",
+  "listing_sha256": "82aa9ef6ea8823879f85b9b6905ca376c646c308122779886d046905c52b0ae6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
