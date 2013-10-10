@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛ9ΩΚΑ-ΟΑΠ",
+  "subject": "Απόφαση σχετικά με την αποδοχή ή μη εξώδικου συμβιβασμού μεταξύ του Δήμου Νίκαιας-Αγ. Ι. Ρέντη και της εταιρείας «ΑΤΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ ΟΧΗΜΑΤΩΝ ΚΑΙ ΜΗΧΑΝΗΜΑΤΩΝ Α.Β.Ε.Τ.Ε» και με το διακριτικό τίτλο “ABO DEMAN A.B.E.E.” επί αρχικής απαίτησης ποσού ύψους € 84.989,35.",
+  "protocol_number": "361",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6215",
+    "label": "ΔΗΜΟΣ ΝΙΚΑΙΑΣ - ΑΓΙΟΥ Ι. ΡΕΝΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81950"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-10-09",
+  "posted": "2013-10-10",
+  "publish_timestamp_ms": 1381383034000,
+  "version_id": "1b33cf7f-01ff-455f-b29c-01dfb733e90b",
+  "in_force": "2013-10-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B9%CE%A9%CE%9A%CE%91-%CE%9F%CE%91%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B9%CE%A9%CE%9A%CE%91-%CE%9F%CE%91%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B9%CE%A9%CE%9A%CE%91-%CE%9F%CE%91%CE%A0",
+  "listing_sha256": "9eb409bdf98434e6ca2da0f3581292403cd0758e4cedc69415ef445bfe8ed5f9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
