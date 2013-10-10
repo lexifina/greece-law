@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛ9ΘΩΠ-ΟΑΝ",
+  "subject": "Έγκριση μετακίνησης",
+  "protocol_number": "209",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "91380"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-02-08",
+  "posted": "2013-10-10",
+  "publish_timestamp_ms": 1381397199000,
+  "version_id": "1bd4d244-8cdd-4ec8-b447-f1a2f4bcab8c",
+  "in_force": "2013-10-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B9%CE%98%CE%A9%CE%A0-%CE%9F%CE%91%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B9%CE%98%CE%A9%CE%A0-%CE%9F%CE%91%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B9%CE%98%CE%A9%CE%A0-%CE%9F%CE%91%CE%9D",
+  "listing_sha256": "826ad6b8366513676eaf14440d2dc836b898c932f672de729d972809d67c7c32",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
