@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛΛΩ6Μ-4ΒΗ",
+  "subject": "ΕΓΚΡΙΣΗ ΚΑΙ ΔΙΑΘΕΣΗ ΔΑΠΑΝΗΣ ΠΟΣΟΥ 2.000,00 € ΣΥΜΠ/ΝΟΥ ΦΠΑ 23% ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ  CATERING ΠΟΥ ΑΦΟΡΑ ΔΕΞΙΩΣΗ ΠΡΟΣ ΤΙΜΗΝ ΤΩΝ ΠΡΕΣΒΕΩΝ ΤΩΝ ΞΕΝΩΝ ΧΩΡΩΝ ΤΗΣ ΚΕΝΤΡΙΚΗΣ ΚΑΙ ΝΟΤΙΟΑΝΑΤΟΛΙΚΗΣ ΕΥΡΩΠΗΣ ΣΤΗΝ ΕΛΛΑΔΑ.",
+  "protocol_number": "225419/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6013",
+    "label": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78341"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛ45Ω6Μ-ΟΒΟ"
+      }
+    ]
+  },
+  "issued": "2013-07-11",
+  "posted": "2013-10-13",
+  "publish_timestamp_ms": 1381653048000,
+  "version_id": "e555f64e-393f-4e27-b77b-381251e0243d",
+  "in_force": "2013-10-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%9B%CE%A96%CE%9C-4%CE%92%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%9B%CE%A96%CE%9C-4%CE%92%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B%CE%9B%CE%A96%CE%9C-4%CE%92%CE%97",
+  "listing_sha256": "a7d05ad3cf08b75e8c347a345b46f9fe54854dcfd4df99694a5665d6fd233de8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
