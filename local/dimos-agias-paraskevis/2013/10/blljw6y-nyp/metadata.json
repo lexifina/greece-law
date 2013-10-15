@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛΞΩ6Υ-ΝΥΠ",
+  "subject": "ΠΕΡΙΛΗΨΗ ΔΙΑΚΗΡΥΞΗΣ ΤΟΥ ΕΡΓΟΥ ΚΑΤΑΣΚΕΥΗ ΑΓΩΓΩΝ ΟΜΒΡΙΩΝ ΕΤΟΥΣ 2012",
+  "protocol_number": "38794",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6005",
+    "label": "ΔΗΜΟΣ ΑΓΙΑΣ ΠΑΡΑΣΚΕΥΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84928"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_DDS",
+      "issueyear": 2013,
+      "aa": "651"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-10-09",
+  "posted": "2013-10-15",
+  "publish_timestamp_ms": 1381833610000,
+  "version_id": "4d6445fe-6413-4273-8600-0d6aaeba5549",
+  "in_force": "2013-10-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%9E%CE%A96%CE%A5-%CE%9D%CE%A5%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%9E%CE%A96%CE%A5-%CE%9D%CE%A5%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B%CE%9E%CE%A96%CE%A5-%CE%9D%CE%A5%CE%A0",
+  "listing_sha256": "fc3613e4807365e64a6a40a3d7151f400185feb1429c69ed8a417a549f224ca3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
