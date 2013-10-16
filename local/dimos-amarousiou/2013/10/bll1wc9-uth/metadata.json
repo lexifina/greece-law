@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛ1ΩΨ9-ΘΤΗ",
+  "subject": "Έγκριση ή μη της υπ'αριθ.165/13 απόφασης Επιτροπής Ποιότητας Ζωής με τίτλο \"Έγκριση ή μη χωροθέτησης περιπτέρου (υποθ. Κόκλα-Βενετικού, στη συμβολή των οδών Άρεως & Μακεδονίας στο Μαρούσι)",
+  "protocol_number": "082873",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78451"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛΛΠΩΨ9-Μ22"
+      }
+    ]
+  },
+  "issued": "2013-10-16",
+  "posted": "2013-10-16",
+  "publish_timestamp_ms": 1381918674000,
+  "version_id": "26762de8-c547-401f-901c-8d4694eebc81",
+  "in_force": "2013-10-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B1%CE%A9%CE%A89-%CE%98%CE%A4%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B1%CE%A9%CE%A89-%CE%98%CE%A4%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B1%CE%A9%CE%A89-%CE%98%CE%A4%CE%97",
+  "listing_sha256": "7c5c23eb39314898ef03bb5e6941ae39a48f835a9bbf0b3fa41f76a8e083baa4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
