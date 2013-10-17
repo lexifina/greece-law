@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛΗΩ1Π-ΤΗ3",
+  "subject": "ΑΠΟΦΑΣΗ Ο.Ε. 114/2013 \" ΥΠΟΒΟΛΗ ΕΚΘΕΣΗΣ ΤΗΣ Ο.Ε. ΕΣΟΔΩΝ - ΕΞΟΔΩΝ ΓΙΑ ΤΟ Γ' ΤΡΙΜΗΝΟ 2013 \" .",
+  "protocol_number": "0000",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6256",
+    "label": "ΔΗΜΟΣ ΠΥΔΝΑΣ - ΚΟΛΙΝΔΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "77979"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-10-14",
+  "posted": "2013-10-17",
+  "publish_timestamp_ms": 1382007977000,
+  "version_id": "0e12972f-d07c-4a82-a3a2-9beb25693a4f",
+  "in_force": "2013-10-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%97%CE%A91%CE%A0-%CE%A4%CE%973",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%97%CE%A91%CE%A0-%CE%A4%CE%973/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B%CE%97%CE%A91%CE%A0-%CE%A4%CE%973",
+  "listing_sha256": "d5b94153d552035f3b00a990a15e2e1058dd84f860484458d8b1d884df69f8a1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
