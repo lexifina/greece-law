@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛ06-3ΣΟ",
+  "subject": "ΑΚΥΡΩΣΗ ΠΡΟΧΕΙΡΟΥ ΔΙΑΓΩΝΙΣΜΟΥ ΓΙΑ ΤΗΝ ΔΙΕΝΕΡΓΕΙΑ ΣΕΜΙΝΑΡΙΩΝ ΠΙΣΤΟΠΟΙΗΣΗΣ ΤΕΧΝΙΚΩΝ ΑΣΦΑΛΕΙΑΣ",
+  "protocol_number": "Φ.900/06/0205/Σ.3744",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "94061"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛΛ96-ΖΟ9"
+      }
+    ]
+  },
+  "issued": "2013-10-17",
+  "posted": "2013-10-18",
+  "publish_timestamp_ms": 1382096404000,
+  "version_id": "3674ac4a-f360-422e-8380-862e4e984dff",
+  "in_force": "2013-10-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B06-3%CE%A3%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B06-3%CE%A3%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B06-3%CE%A3%CE%9F",
+  "listing_sha256": "4ed816c9ad9cb26a958dafdc34f98185f3417472b42812a8f5d71940a511c14c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
