@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛΙΗ-ΛΨ9",
+  "subject": "«Διάθεση ειδικών τίτλων του Ελληνικού Δημοσίου ν. 3723/08\r\nστην ΕΘΝΙΚΗ ΤΡΑΠΕΖΑ της ΕΛΛΑΔΟΣ»",
+  "protocol_number": "2/82514 /0023Α",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "2512"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-09-13",
+  "posted": "2013-10-21",
+  "publish_timestamp_ms": 1382335836000,
+  "version_id": "35248ec4-e5f3-42ce-bc6a-4bdb5dc4bc5f",
+  "in_force": "2013-10-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%99%CE%97-%CE%9B%CE%A89",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%99%CE%97-%CE%9B%CE%A89/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B%CE%99%CE%97-%CE%9B%CE%A89",
+  "listing_sha256": "b971a3b28a38e241d06b716aa80c32848cf68299a2c76e809a7cb88948c1c475",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
