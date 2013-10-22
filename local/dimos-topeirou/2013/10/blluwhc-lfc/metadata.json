@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛΘΩΗΨ-ΛΦΨ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ 257/2013 \"ΚΑΘΟΡΙΣΜΟΣ ΤΟΥ ΥΨΟΥΣ, ΤΗΣ ΔΙΑΔΙΚΑΣΙΑΣ ΚΑΙ ΤΟΥ ΤΡΟΠΟΥ ΚΑΤΑΒΟΛΗΣ ΚΑΙ ΕΙΣΠΡΑΞΗΣ ΤΟΥ ΗΜΕΡΗΣΙΟΥ ΑΝΤΑΠΟΔΟΤΙΚΟΥ ΤΕΛΟΥΣ ΑΠΟ ΤΟΥΣ ΠΡΟΣΕΡΧΟΜΕΝΟΥΣ ΣΤΟΥΣ ΧΩΡΟΥΣ ΤΩΝ ΛΑΪΚΩΝ ΑΓΟΡΩΝ ΤΟΥ ΔΗΜΟΥ, ΠΩΛΗΤΕΣ (ΕΠΑΓΓΕΛΜΑΤΙΕΣ-ΠΑΡΑΓΩΓΟΥΣ)\"",
+  "protocol_number": "14524",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6297",
+    "label": "ΔΗΜΟΣ ΤΟΠΕΙΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78500"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-10-22",
+  "posted": "2013-10-22",
+  "publish_timestamp_ms": 1382432991000,
+  "version_id": "ec7a633e-e83f-4357-b26d-4addff47d632",
+  "in_force": "2013-10-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%98%CE%A9%CE%97%CE%A8-%CE%9B%CE%A6%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B%CE%98%CE%A9%CE%97%CE%A8-%CE%9B%CE%A6%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B%CE%98%CE%A9%CE%97%CE%A8-%CE%9B%CE%A6%CE%A8",
+  "listing_sha256": "107251d4fb21193f8cdfdf847b8ed5d0f85fa94080a8fab829ef4c14619e7367",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
