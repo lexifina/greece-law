@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΛ5ΩΞΔ-1ΜΙ",
+  "subject": "Έγκριση διάθεσης πίστωσης ποσού 399,30 € με χρέωση του ΚΑ 00-6221 και έγκριση έκδοσης Χ.Ε. προπληρωμής στο όνομα του υπολόγου υπαλλήλου Σαργιαννίδη Γεωργίου για αγορά γραμματοσήμων",
+  "protocol_number": "26776/9903/30-10-2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6246",
+    "label": "ΔΗΜΟΣ ΠΕΡΑΜΑΤΟΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82509"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-10-23",
+  "posted": "2013-10-30",
+  "publish_timestamp_ms": 1383120581000,
+  "version_id": "a7c2bf75-d67b-4a89-9ba0-2514cc708362",
+  "in_force": "2013-10-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B5%CE%A9%CE%9E%CE%94-1%CE%9C%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%9B5%CE%A9%CE%9E%CE%94-1%CE%9C%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%9B5%CE%A9%CE%9E%CE%94-1%CE%9C%CE%99",
+  "listing_sha256": "cad40d33777cb37cbb59bc02aec6941bb967078f8f608a042719fa537b852ab8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
