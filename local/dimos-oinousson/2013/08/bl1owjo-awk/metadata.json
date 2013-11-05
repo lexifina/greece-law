@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ1ΟΩΞΟ-ΑΩΚ",
+  "subject": "Ψήφιση πίστωσης για την φιλοξενία ομάδος φοιτητών για την αρχειοθέτηση και ταξινόμηση των αρχείων του Δ. Οινουσσών.",
+  "protocol_number": "59α",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6223",
+    "label": "ΔΗΜΟΣ ΟΙΝΟΥΣΣΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83649"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-08-17",
+  "posted": "2013-11-05",
+  "publish_timestamp_ms": 1383637826000,
+  "version_id": "0c3aa1e6-0b76-4da8-842a-23cc6f607e2f",
+  "in_force": "2013-11-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B1%CE%9F%CE%A9%CE%9E%CE%9F-%CE%91%CE%A9%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B1%CE%9F%CE%A9%CE%9E%CE%9F-%CE%91%CE%A9%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B1%CE%9F%CE%A9%CE%9E%CE%9F-%CE%91%CE%A9%CE%9A",
+  "listing_sha256": "2fb4f979fd5d6b1d1e5b9f3a06c8bdf7168ba0dd8c60c40b77084b35df1b407e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
