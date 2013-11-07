@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ1ΒΩΕΤ-ΡΣΩ",
+  "subject": "Καθορισμός χρήσης κοινόχρηστων χώρων, πλατειών, πεζοδρομίων, πεζόδρομων, αιγιαλού κλπ Δήμου Κατερίνης",
+  "protocol_number": "563/2013 ΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6142",
+    "label": "ΔΗΜΟΣ ΚΑΤΕΡΙΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "92716"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-07",
+  "posted": "2013-11-07",
+  "publish_timestamp_ms": 1383806592000,
+  "version_id": "46373b2d-29c7-4739-ab4c-5b760fd40929",
+  "in_force": "2013-11-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B1%CE%92%CE%A9%CE%95%CE%A4-%CE%A1%CE%A3%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B1%CE%92%CE%A9%CE%95%CE%A4-%CE%A1%CE%A3%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B1%CE%92%CE%A9%CE%95%CE%A4-%CE%A1%CE%A3%CE%A9",
+  "listing_sha256": "e34f4bcb6f4ab08156a9dbc7015d096e505528349920ff26e9405d07c079f877",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
