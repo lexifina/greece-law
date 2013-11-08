@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ17ΩΞΩ-Ψ54",
+  "subject": "ΣΥΜΦΩΝΗΤΙΚΟ ΜΕ ΤΗΛΕΜΑΧΟΣ Α.Ε. ΓΙΑ ΤΟ ΟΧΗΜΑ ΚΗΥ 4783",
+  "protocol_number": "5586",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6227",
+    "label": "ΔΗΜΟΣ ΟΡΟΠΕΔΙΟΥ ΛΑΣΙΘΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82465"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-05",
+  "posted": "2013-11-08",
+  "publish_timestamp_ms": 1383906611000,
+  "version_id": "26aa8a85-8ba4-49d3-aa91-d421466ad440",
+  "in_force": "2013-11-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B17%CE%A9%CE%9E%CE%A9-%CE%A854",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B17%CE%A9%CE%9E%CE%A9-%CE%A854/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B17%CE%A9%CE%9E%CE%A9-%CE%A854",
+  "listing_sha256": "8a5b72653359b58d66c533d021452f49ce509c219afb14df8f962238cd6b7d12",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
