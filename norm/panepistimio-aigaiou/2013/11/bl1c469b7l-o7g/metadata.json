@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ1Ψ469Β7Λ-Ο7Γ",
+  "subject": "Συγκρότηση Επιτροπής Διεξαγωγής και Αξιολόγησης του Πρόχειρου Μειοδοτικού Διαγωνισμού Προμήθειας Η/Υ, λογισμικού και λοιπού συναφούς εξοπλισμού (CPVS 30231100-8, 30213000-5, 30231000-7, 30232110-8, 30232120-1, 30213100-6, 31154000-0, 38652120-7, 3010000-0, 30216110-0 και 48331000-7)",
+  "protocol_number": "640",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206911",
+    "label": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΙΓΑΙΟΥ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛΛΙ469Β7Λ-Δ7Π"
+      }
+    ]
+  },
+  "issued": "2013-11-05",
+  "posted": "2013-11-11",
+  "publish_timestamp_ms": 1384163534000,
+  "version_id": "efb78580-49ed-4aa6-902a-82d9c224c613",
+  "in_force": "2013-11-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B1%CE%A8469%CE%927%CE%9B-%CE%9F7%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B1%CE%A8469%CE%927%CE%9B-%CE%9F7%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B1%CE%A8469%CE%927%CE%9B-%CE%9F7%CE%93",
+  "listing_sha256": "8a5b72653359b58d66c533d021452f49ce509c219afb14df8f962238cd6b7d12",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
