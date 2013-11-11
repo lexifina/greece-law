@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ1ΨΩΕΩ-2Δ8",
+  "subject": "«Εξέταση ένστασης του Τόλη Γεωργίου κατά του πρακτικού της Επιτροπής Διαγωνισμού για την προμήθεια ανταλλακτικών κάδων απορριμμάτων & ανάκληση της 512/2013 Απόφασης της Οικονομικής Επιτροπής»",
+  "protocol_number": "561/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6125",
+    "label": "ΔΗΜΟΣ ΙΩΑΝΝΙΤΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81325"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛ49ΩΕΩ-Β67"
+      },
+      {
+        "relatedDecisionsADA": "ΒΛ9ΕΩΕΩ-09Μ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΛ90ΩΕΩ-ΨΓΝ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΛ90ΩΕΩ-ΙΗΜ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΛ1ΒΩΕΩ-ΦΩΓ"
+      }
+    ]
+  },
+  "issued": "2013-10-30",
+  "posted": "2013-11-11",
+  "publish_timestamp_ms": 1384153416000,
+  "version_id": "640ea81b-f1d2-421a-8295-03ac72fdf08c",
+  "in_force": "2013-11-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B1%CE%A8%CE%A9%CE%95%CE%A9-2%CE%948",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B1%CE%A8%CE%A9%CE%95%CE%A9-2%CE%948/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B1%CE%A8%CE%A9%CE%95%CE%A9-2%CE%948",
+  "listing_sha256": "262981593882547a428e0879a7e9edf4e7cfad42c5b4c61e90c9de42c2644277",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
