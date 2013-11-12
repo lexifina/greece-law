@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ19ΟΡ10-657",
+  "subject": "Έλεγχος νομιμότητας της αριθ.1187/2013 απόφασης της Οικονομικής Επιτροπής της Περιφέρειας Στερεάς Ελλάδας",
+  "protocol_number": "8882/213366",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77978"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛΛΘ7ΛΗ-Θ5Ν"
+      },
+      {
+        "relatedDecisionsADA": "ΒΛ457ΛΗ-ΒΕΠ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΛ4Μ7ΛΗ-ΘΜΕ"
+      }
+    ]
+  },
+  "issued": "2013-11-12",
+  "posted": "2013-11-12",
+  "publish_timestamp_ms": 1384239134000,
+  "version_id": "d5014fc7-7bec-46c7-8c52-b0908ab4c270",
+  "in_force": "2013-11-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B19%CE%9F%CE%A110-657",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B19%CE%9F%CE%A110-657/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B19%CE%9F%CE%A110-657",
+  "listing_sha256": "b419ef0932c9c2511b9292788de43773ab0bf250af0dda4ba3c6c5b5c3db5f88",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
