@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ19ΩΗΙ-03Μ",
+  "subject": "Μίσθωση άδειας Περιπτέρου",
+  "protocol_number": "41141",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91521"
+  ],
+  "thematic_category_ids": [
+    "44",
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-12",
+  "posted": "2013-11-12",
+  "publish_timestamp_ms": 1384253188000,
+  "version_id": "bfbecd19-4f35-42ce-8573-e44a5ad0374b",
+  "in_force": "2013-11-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B19%CE%A9%CE%97%CE%99-03%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B19%CE%A9%CE%97%CE%99-03%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B19%CE%A9%CE%97%CE%99-03%CE%9C",
+  "listing_sha256": "dd3865bf0d511742d3f7c8f30a00c1ff5ddb7a308685760efe100af2a462476f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
