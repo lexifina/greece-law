@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ19ΩΨ9-ΖΚ0",
+  "subject": "Εγκριση ή μη της απόφασης της Επιτροπής Ποιότητας Ζωής που αφορά: \"Έγκριση ή μη της πράξης με τίτλο \"Βιοκλιματική Αναβάθμιση Γειτονιών του Δήμου Αμαρουσίου μέσω Δημιουργίας Διαδρομής Πεζών - Ποδηλάτων\" και της οριστικής μελέτης του Υποέργου 1",
+  "protocol_number": "089583",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78451"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛ1ΠΩΨ9-95Ξ"
+      }
+    ]
+  },
+  "issued": "2013-11-12",
+  "posted": "2013-11-12",
+  "publish_timestamp_ms": 1384251880000,
+  "version_id": "765aaa39-e1a8-4c87-9138-d41b72688e6a",
+  "in_force": "2013-11-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B19%CE%A9%CE%A89-%CE%96%CE%9A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B19%CE%A9%CE%A89-%CE%96%CE%9A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B19%CE%A9%CE%A89-%CE%96%CE%9A0",
+  "listing_sha256": "dd3865bf0d511742d3f7c8f30a00c1ff5ddb7a308685760efe100af2a462476f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
