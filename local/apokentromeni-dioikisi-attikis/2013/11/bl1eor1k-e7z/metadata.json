@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ1ΕΟΡ1Κ-Ε7Ζ",
+  "subject": "ΑΚΥΡΩΣΗ ΥΠ’ΑΡ. 15738/24-4-2013 ΑΔΕΙΑΣ ΙΔΡΥΣΗΣ & ΛΕΙΤΟΥΡΓΙΑΣ ΚΥΕ ΚΑΤΟΠΙΝ ΠΡΟΣΦΥΓΗΣ ΜΕΤΑΞΑ ΓΕΩΡΓΙΟΥ",
+  "protocol_number": "55200/45165",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50196",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΤΤΙΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76308"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛΛΑΟΡ1Κ-8ΤΟ"
+      }
+    ]
+  },
+  "issued": "2013-11-14",
+  "posted": "2013-11-14",
+  "publish_timestamp_ms": 1384433357000,
+  "version_id": "1433e6c8-d89a-40c8-92f5-8fd766951fbb",
+  "in_force": "2013-11-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B1%CE%95%CE%9F%CE%A11%CE%9A-%CE%957%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B1%CE%95%CE%9F%CE%A11%CE%9A-%CE%957%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B1%CE%95%CE%9F%CE%A11%CE%9A-%CE%957%CE%96",
+  "listing_sha256": "283dd0a36914723c8a6f11772135e22f87e74b8e6b7cd77f04786cce3fb1ecb5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
