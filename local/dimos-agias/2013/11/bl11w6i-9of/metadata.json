@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ11Ω6Ι-9ΟΦ",
+  "subject": "Έγκριση της υπ’ αριθμ. 35/2013 απόφασης της Κοινωφελούς Επιχείρησης «Καλυψώ» Δήμου Αγιάς, με θέμα: «Αναμόρφωση προϋπολογισμού εσόδων – εξόδων οικονομικού Έτους 2013»",
+  "protocol_number": "204/2013 Δημοτικού Συμβουλίου",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6003",
+    "label": "ΔΗΜΟΣ ΑΓΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80383"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛ14ΟΚ6Σ-1ΤΤ"
+      }
+    ]
+  },
+  "issued": "2013-11-13",
+  "posted": "2013-11-18",
+  "publish_timestamp_ms": 1384775156000,
+  "version_id": "f9d23912-be5f-475c-a651-a1eda5cfbf05",
+  "in_force": "2013-11-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B11%CE%A96%CE%99-9%CE%9F%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B11%CE%A96%CE%99-9%CE%9F%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B11%CE%A96%CE%99-9%CE%9F%CE%A6",
+  "listing_sha256": "4c27591ccdf809359cc78e4baaf0ed5cb71891c399db5acd2cf647a382077e97",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
