@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ11ΟΡ1Γ-Β02",
+  "subject": "Ακύρωση της 143/2013 απόφασης του Δημοτικού Συμβουλίου του Δήμου Ιωαννιτών, με θέμα «Αντικατάσταση μέλους του Δ.Σ. του Ν.Π.Δ.Δ. “Σπήλαιο Περάματος Ιωαννίνων»",
+  "protocol_number": "61291/12600",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76529"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-07",
+  "posted": "2013-11-18",
+  "publish_timestamp_ms": 1384780125000,
+  "version_id": "248c5049-e082-489d-a365-ca1116811424",
+  "in_force": "2013-11-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B11%CE%9F%CE%A11%CE%93-%CE%9202",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B11%CE%9F%CE%A11%CE%93-%CE%9202/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B11%CE%9F%CE%A11%CE%93-%CE%9202",
+  "listing_sha256": "81f571dc2b0b5d40d93391da8ab1f6d2197ec0239e080f8876bbf6194dd84458",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
