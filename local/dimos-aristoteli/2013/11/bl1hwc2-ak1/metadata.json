@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ1ΗΩΨ2-ΑΚ1",
+  "subject": "Απόφαση Δημοτικού Συμβουλίου 284/2013",
+  "protocol_number": "-",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6043",
+    "label": "ΔΗΜΟΣ ΑΡΙΣΤΟΤΕΛΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80785"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-15",
+  "posted": "2013-11-19",
+  "publish_timestamp_ms": 1384853559000,
+  "version_id": "c7eed54b-4f26-4da1-9009-262458df01d9",
+  "in_force": "2013-11-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B1%CE%97%CE%A9%CE%A82-%CE%91%CE%9A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B1%CE%97%CE%A9%CE%A82-%CE%91%CE%9A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B1%CE%97%CE%A9%CE%A82-%CE%91%CE%9A1",
+  "listing_sha256": "fe0c844bae172ad75a3960ff5aefe4001904159ee9d6fbbe1c46ce926e54c6e1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
