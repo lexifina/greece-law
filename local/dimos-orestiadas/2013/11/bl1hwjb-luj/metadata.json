@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ1ΗΩΞΒ-ΛΘΞ",
+  "subject": "Υποκατάσταση προμηθευτών, λόγω αδυναμίας.",
+  "protocol_number": "511/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6225",
+    "label": "ΔΗΜΟΣ ΟΡΕΣΤΙΑΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79399"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-12",
+  "posted": "2013-11-19",
+  "publish_timestamp_ms": 1384857055000,
+  "version_id": "bc65db85-91f6-4013-a5b8-3f38720dc706",
+  "in_force": "2013-11-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B1%CE%97%CE%A9%CE%9E%CE%92-%CE%9B%CE%98%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B1%CE%97%CE%A9%CE%9E%CE%92-%CE%9B%CE%98%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B1%CE%97%CE%A9%CE%9E%CE%92-%CE%9B%CE%98%CE%9E",
+  "listing_sha256": "f1bae6c0c153a87593df7d6472bee037c5bb141b76e54c87efd548533ecd0ae6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
