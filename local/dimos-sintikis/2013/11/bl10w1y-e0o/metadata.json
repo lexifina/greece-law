@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ10Ω1Υ-Ε0Ο",
+  "subject": "«Λήψη απόφασης για την άσκηση ή μη ενδίκων μέσων κατά της υπ’ αριθμ. 305/2013 απόφασης του Ειρηνοδικείου Σιντικής που αφορά στην υπόθεση του Παντελή Κωνσταντινίδη»",
+  "protocol_number": "163",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6277",
+    "label": "ΔΗΜΟΣ ΣΙΝΤΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81769"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-08",
+  "posted": "2013-11-20",
+  "publish_timestamp_ms": 1384937037000,
+  "version_id": "e025b773-0fa4-43f4-a8ea-37342d8caaaa",
+  "in_force": "2013-11-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B10%CE%A91%CE%A5-%CE%950%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B10%CE%A91%CE%A5-%CE%950%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B10%CE%A91%CE%A5-%CE%950%CE%9F",
+  "listing_sha256": "6c5d1a9772f57205bdb7c5336107c43eb0f228df3968653519c63c76062a10ec",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
