@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ10Ω6Υ-7ΜΓ",
+  "subject": "Διαγραφή ή μη συνολικού ποσού των 27.632,85 € από τους Xρηματικούς Βεβαιωτικούς Καταλόγους (Χ.Β.Κ.) 112, 113, 114, 348, 349, 350, 351, 352, 471, 472, 479, 491, 511, 512, 521, 623, 751, 830, 831, 832, 857, 859, 861, 862 & 863/13, οι οποίοι αφορούν οφειλές από: α) πρόστιμα από παραβάσεις ΚΟΚ, β) πρόστιμο από πολεοδομικές παραβάσεις, γ) τέλη κοιμητηρίου, δ) δημοτικά τέλη και φόρο, ε) εισφορά σε χρήμα και μετατροπή εισφοράς και στ) δαπάνη κατασκευής αποχετευτικού αγωγού.",
+  "protocol_number": "44568",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6005",
+    "label": "ΔΗΜΟΣ ΑΓΙΑΣ ΠΑΡΑΣΚΕΥΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79681"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-20",
+  "posted": "2013-11-20",
+  "publish_timestamp_ms": 1384934182000,
+  "version_id": "76f942b2-23c1-47dd-9506-15cc63d59ba0",
+  "in_force": "2013-11-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B10%CE%A96%CE%A5-7%CE%9C%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B10%CE%A96%CE%A5-7%CE%9C%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B10%CE%A96%CE%A5-7%CE%9C%CE%93",
+  "listing_sha256": "31d5e872e02d6ec863124675c057de295ef7b99e0fe6f527c63e6a499141b979",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
