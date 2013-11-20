@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ10ΩΚΗ-Ρ5Β",
+  "subject": "ΠΡΟΜΗΘΕΙΑ ΑΝΑΛΩΣΙΜΩΝ ΕΡΓΑΣΤΗΡΙΟΥ",
+  "protocol_number": "527",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6203",
+    "label": "ΔΗΜΟΣ ΝΑΞΟΥ & ΜΙΚΡΩΝ ΚΥΚΛΑΔΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82010"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-20",
+  "posted": "2013-11-20",
+  "publish_timestamp_ms": 1384934205000,
+  "version_id": "91e36493-bf86-4e51-9a69-b3b8baea483b",
+  "in_force": "2013-11-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B10%CE%A9%CE%9A%CE%97-%CE%A15%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B10%CE%A9%CE%9A%CE%97-%CE%A15%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B10%CE%A9%CE%9A%CE%97-%CE%A15%CE%92",
+  "listing_sha256": "31d5e872e02d6ec863124675c057de295ef7b99e0fe6f527c63e6a499141b979",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
