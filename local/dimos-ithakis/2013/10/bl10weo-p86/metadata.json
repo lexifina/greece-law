@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ10ΩΕΟ-Π86",
+  "subject": "Ανάκληση της αρ. 32/2013 απόφασης της Οικονομικής Επιτροπής περί  ψήφισης  και διάθεσης πιστώσεων του προϋπολογισμού οικ. έτους 2013.",
+  "protocol_number": "127",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6121",
+    "label": "ΔΗΜΟΣ ΙΘΑΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91785"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΝΝΩΕΟ-Ζ1Ν"
+      }
+    ]
+  },
+  "issued": "2013-10-25",
+  "posted": "2013-11-20",
+  "publish_timestamp_ms": 1384941546000,
+  "version_id": "058f45ed-e4c1-4818-ae2d-5172242f0052",
+  "in_force": "2013-11-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B10%CE%A9%CE%95%CE%9F-%CE%A086",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B10%CE%A9%CE%95%CE%9F-%CE%A086/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B10%CE%A9%CE%95%CE%9F-%CE%A086",
+  "listing_sha256": "d3d761a7d7a6e9dc68a451e14a6a1b10a9c4c8d5cbf572af38fcb2d8c0dc1ea0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
