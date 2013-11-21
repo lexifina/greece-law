@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ1Γ7ΛΡ-ΞΓ1",
+  "subject": "ΕΝΤΟΛΗ ΚΑΤΑΝΟΜΗΣ ΕΞΟΥΣΙΟΔΟΤΗΣΗΣ ΠΛΗΡΩΜΗΣ 265.000€ ΤΗΣ ΣΑΕΠ017/2013 ΠΕΡΙΦΕΡΕΙΑΣ ΘΕΣΣΑΛΙΑΣ ΜΕ ΥΠΟΛΟΓΟ ΔΙΑΧΕΙΡΙΣΤΗ ΤΟ ΠΕΡΙΦΕΡΕΙΑΚΟ ΤΑΜΕΙΟ ΑΝΑΠΤΥΞΗΣ ΘΕΣΣΑΛΙΑΣ",
+  "protocol_number": "2801",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81789"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-21",
+  "posted": "2013-11-21",
+  "publish_timestamp_ms": 1385016901000,
+  "version_id": "2c4922ff-9fdd-4e67-9185-7ac33bacd06e",
+  "in_force": "2013-11-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B1%CE%937%CE%9B%CE%A1-%CE%9E%CE%931",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B1%CE%937%CE%9B%CE%A1-%CE%9E%CE%931/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B1%CE%937%CE%9B%CE%A1-%CE%9E%CE%931",
+  "listing_sha256": "79583aedde5f62313d84d9382779228a5cec049beceab24c5a70fa73aa554512",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
