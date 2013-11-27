@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ13ΩΡ5-Τ53",
+  "subject": "Απόφαση εξουσιοδότησης υπογραφών για σύνδεση με τα δίκτυα κοινής ωφελείας",
+  "protocol_number": "42766",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91723"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-26",
+  "posted": "2013-11-27",
+  "publish_timestamp_ms": 1385547391000,
+  "version_id": "709d1aab-b8f1-4ea8-b4b1-9538e7187bbe",
+  "in_force": "2013-11-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B13%CE%A9%CE%A15-%CE%A453",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B13%CE%A9%CE%A15-%CE%A453/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B13%CE%A9%CE%A15-%CE%A453",
+  "listing_sha256": "3a23b1d6981dcb50fe78b6c76a10772b4630e4617cb429da6c701a8846f13798",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
