@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛ0ΖΩΚ1-6Γ3",
+  "subject": "«ΑΠΟΦΑΣΗ ΟΡΙΣΜΟΥ ΥΠΕΥΘΥΝΟΥ ΤΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ ΜΕΣΩ ΟΑΕΔ\r\nΓΙΑ ΤΗΝ ΠΡΟΩΘΗΣΗ ΤΗΣ ΑΠΑΣΧΟΛΗΣΗΣ 10.000 ΑΝΕΡΓΩΝ ΕΙΔΙΚΟΤΗΤΑΣ ΥΕ\r\nΓΕΝΙΚΩΝ ΚΑΘΗΚΟΝΤΩΝ ΚΑΙ ΟΡΙΣΜΟΥ ΥΠΕΥΘΥΝΩΝ ΤΗΡΗΣΗΣ\r\nΠΑΡΟΥΣΙΟΛΟΓΙΩΝ ΠΡΟΣΛΗΦΘΕΝΤΩΝ ΑΝΑ ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ»",
+  "protocol_number": "22140",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6202",
+    "label": "ΔΗΜΟΣ ΚΑΜΕΝΩΝ ΒΟΥΡΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81097"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-04",
+  "posted": "2013-12-05",
+  "publish_timestamp_ms": 1386233309000,
+  "version_id": "619cfff2-5185-4f81-a073-94007bddf8a8",
+  "in_force": "2013-12-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B0%CE%96%CE%A9%CE%9A1-6%CE%933",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B0%CE%96%CE%A9%CE%9A1-6%CE%933/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B0%CE%96%CE%A9%CE%9A1-6%CE%933",
+  "listing_sha256": "f619f1b9a889273f6957a52cdbd81773d77b2cce716f65a5875afa8cef9589af",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
