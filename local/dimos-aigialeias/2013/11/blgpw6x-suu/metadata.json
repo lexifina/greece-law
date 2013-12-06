@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΠΩ6Χ-ΣΘΘ",
+  "subject": "ΑΠΟΦΑΣΗ Ο.Ε. 364/2013. (ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ). Λήψη απόφασης για ορισμό πληρεξουσίου δικηγόρου για τον χειρισμό υπόθεσης του Δήμου Αιγιαλείας.",
+  "protocol_number": "50703",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6015",
+    "label": "ΔΗΜΟΣ ΑΙΓΙΑΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84458"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛ1ΤΩ6Χ-3Δ2"
+      }
+    ]
+  },
+  "issued": "2013-11-26",
+  "posted": "2013-12-06",
+  "publish_timestamp_ms": 1386312532000,
+  "version_id": "97c0a937-5a1c-4f87-a4f6-d2fb51d6642b",
+  "in_force": "2013-12-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A0%CE%A96%CE%A7-%CE%A3%CE%98%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A0%CE%A96%CE%A7-%CE%A3%CE%98%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%A0%CE%A96%CE%A7-%CE%A3%CE%98%CE%98",
+  "listing_sha256": "5f5769cdb60c6ebbd941c402b5e42ff405a6d52856b6fe67a1f79f0d34cddfb9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
