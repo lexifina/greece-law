@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΠΩΞΡ-35Ψ",
+  "subject": "«Έγκριση πρόσληψης προσωπικού έκτακτης ανάγκης, με δίμηνη σύμβαση, στο  Ν.Π.Δ.Δ. Υγείας Πρόνοιας Κοινωνικής Προστασίας Αλληλεγγύης Δήμου Παιονίας»",
+  "protocol_number": "105",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6231",
+    "label": "ΔΗΜΟΣ ΠΑΙΟΝΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86375"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΑΛΩΞΡ-ΗΩΝ"
+      }
+    ]
+  },
+  "issued": "2013-11-26",
+  "posted": "2013-12-06",
+  "publish_timestamp_ms": 1386316215000,
+  "version_id": "55a64c09-05ce-434f-9550-fddb1fea11b1",
+  "in_force": "2013-12-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A0%CE%A9%CE%9E%CE%A1-35%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A0%CE%A9%CE%9E%CE%A1-35%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%A0%CE%A9%CE%9E%CE%A1-35%CE%A8",
+  "listing_sha256": "5f5769cdb60c6ebbd941c402b5e42ff405a6d52856b6fe67a1f79f0d34cddfb9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
