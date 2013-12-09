@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΒΩΛΝ-Φ0Π",
+  "subject": "Λήψη απόφασης για συμψηφισμό\r\nτης οφειλόμενης εισφοράς σε χρήμα\r\nμε την οφειλόμενη αποζημίωση\r\nΔήμου στον ιδιοκτήτη του\r\nοικοπέδου στο Ο.Τ. Γ875 με κωδικό\r\nιδιοκτησίας 671126 της 4ης – 5ης Π.Ε.\r\nΠόρτο Ράφτη, σε εφαρμογή της\r\nκυρωμένης πράξης εφαρμογής.",
+  "protocol_number": "23625",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6184",
+    "label": "ΔΗΜΟΣ ΜΑΡΚΟΠΟΥΛΟΥ ΜΕΣΟΓΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100046442"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "04",
+    "52",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-06",
+  "posted": "2013-12-09",
+  "publish_timestamp_ms": 1386580996000,
+  "version_id": "d49dde6b-bb13-4570-83df-de38b0e935f0",
+  "in_force": "2013-12-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%92%CE%A9%CE%9B%CE%9D-%CE%A60%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%92%CE%A9%CE%9B%CE%9D-%CE%A60%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%92%CE%A9%CE%9B%CE%9D-%CE%A60%CE%A0",
+  "listing_sha256": "88e164a0151ab9d551d317b8374c75014be2fe98f94db55a379e8698755385a2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
