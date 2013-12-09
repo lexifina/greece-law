@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΒΩ-2ΤΥ",
+  "subject": "ΑΣΚΗΣΗ ΥΠΟΨΗΦΙΩΝ ΔΙΚΗΓΟΡΩΝ ΣΤΟ ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ, ΔΙΑΦΑΝΕΙΑΣ ΚΑΙ ΑΝΘΡΩΠΙΩΝ ΔΙΚΑΙΩΜΑΤΩΝ",
+  "protocol_number": "97994",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70904"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "12"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "3088"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-29",
+  "posted": "2013-12-09",
+  "publish_timestamp_ms": 1386588289000,
+  "version_id": "c0da0319-a60d-4bed-8237-5a9111f43d73",
+  "in_force": "2013-12-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%92%CE%A9-2%CE%A4%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%92%CE%A9-2%CE%A4%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%92%CE%A9-2%CE%A4%CE%A5",
+  "listing_sha256": "44272c6055d6234baa4dc7401e3b71356b4d4b5b2aed3ddf388b871d219acccb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
