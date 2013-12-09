@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΒΩ6Τ-ΨΛΤ",
+  "subject": "Αναπροσαρμογή αποφάσεων περί επιβολής Δημοτικών Τελών",
+  "protocol_number": "15861",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6006",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΒΑΣΙΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83413"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-11",
+  "posted": "2013-12-09",
+  "publish_timestamp_ms": 1386589838000,
+  "version_id": "9b161ac3-bc1f-4e30-ba1d-0110ad48a44f",
+  "in_force": "2013-12-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%92%CE%A96%CE%A4-%CE%A8%CE%9B%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%92%CE%A96%CE%A4-%CE%A8%CE%9B%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%92%CE%A96%CE%A4-%CE%A8%CE%9B%CE%A4",
+  "listing_sha256": "61132e345b78af2820dbf9498823e99969d8d319e28c4f5c3a05dddc30bb28fb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
