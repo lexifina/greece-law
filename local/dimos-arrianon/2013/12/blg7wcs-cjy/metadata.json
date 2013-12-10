@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓ7ΩΨΣ-ΨΞΥ",
+  "subject": "ΔΙΑΚΟΠΗ ΛΕΙΤΟΥΡΓΙΑΣ ΜΕΙΟΝΟΤΙΚΩΝ ΣΧΟΛΕΙΩΝ ΕΣΟΧΗΣ ΚΑΙ ΡΑΓΑΔΑΣ ΣΤΙΣ 10.12.2013 ΛΟΓΩ ΔΙΑΚΟΠΗΣ ΡΕΥΜΑΤΟΣ",
+  "protocol_number": "20391",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6044",
+    "label": "ΔΗΜΟΣ ΑΡΡΙΑΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79549"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-10",
+  "posted": "2013-12-10",
+  "publish_timestamp_ms": 1386660966000,
+  "version_id": "68de6036-04ef-4eb5-9e20-fdf47c6cf547",
+  "in_force": "2013-12-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%937%CE%A9%CE%A8%CE%A3-%CE%A8%CE%9E%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%937%CE%A9%CE%A8%CE%A3-%CE%A8%CE%9E%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%937%CE%A9%CE%A8%CE%A3-%CE%A8%CE%9E%CE%A5",
+  "listing_sha256": "700d3aaf9771ceba6992ce553f5ead46cb1be1ef0a38bbc039abc349057660aa",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
