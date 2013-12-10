@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓ7Η-Β9Ζ",
+  "subject": "Μεταφορά στην ανώνυμη εταιρεία με την επωνυμία «Ταμείο Αξιοποίησης Ιδιωτικής Περιουσίας του Δημοσίου Α.Ε.» περιουσιακών στοιχείων του Δημοσίου κατά τις διατάξεις του ν. 3986/2011 (Α΄ 152) και διευκρίνιση του περιεχομένου της υπ’ αριθμ. 234/25.04.2013 (Β’ 1020) απόφασης ΔΕΑΑ.",
+  "protocol_number": "244",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "3025"
+    },
+    "kanonistikipraxitype": "Διυπουργική Απόφαση (ΔΕΑΑ)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-19",
+  "posted": "2013-12-10",
+  "publish_timestamp_ms": 1386674173000,
+  "version_id": "b7ef8d9e-688d-4681-aac3-a4bd2a372eb3",
+  "in_force": "2013-12-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%937%CE%97-%CE%929%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%937%CE%97-%CE%929%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%937%CE%97-%CE%929%CE%96",
+  "listing_sha256": "aa4fc60656d48e15d682a27071294c359a0da1e9919a2686cd3e98aff771dd26",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
