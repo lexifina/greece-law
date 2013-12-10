@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓ7ΟΡ1Θ-ΗΨΩ",
+  "subject": "ΕΓΚΡΙΣΗ ΥΛΟΤΟΜΙΑΣ ΚΑΡΑΛΑΚΗ ΔΗΜΗΤΡΙΟΥ",
+  "protocol_number": "5123",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76917"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-26",
+  "posted": "2013-12-10",
+  "publish_timestamp_ms": 1386657883000,
+  "version_id": "771c279b-142b-4a0d-a5cd-57d9e98f5cae",
+  "in_force": "2013-12-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%937%CE%9F%CE%A11%CE%98-%CE%97%CE%A8%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%937%CE%9F%CE%A11%CE%98-%CE%97%CE%A8%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%937%CE%9F%CE%A11%CE%98-%CE%97%CE%A8%CE%A9",
+  "listing_sha256": "156e95d28b251f6f77057842249b1da9056f64d63774b1cf40e2eabb19c0df76",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
