@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓ7Η-Γ29",
+  "subject": "ΙΔΙΩΤΙΚΟ ΣΥΜΦΩΝΗΤΙΚΟ ΣΥΜΒΑΣΗΣ",
+  "protocol_number": "5751",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "74847"
+  ],
+  "thematic_category_ids": [
+    "08"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-20",
+  "posted": "2013-12-10",
+  "publish_timestamp_ms": 1386670916000,
+  "version_id": "b0630ea2-1256-465e-8d84-4aa0c810ae88",
+  "in_force": "2013-12-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%937%CE%97-%CE%9329",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%937%CE%97-%CE%9329/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%937%CE%97-%CE%9329",
+  "listing_sha256": "c9f35e073b6d40d0e5994715d0d0229d0f5ca5a32a19e7db7b2e3e5a6aec7a1b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
