@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΩΟΡ1Φ-1ΦΣ",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 412/2013 απόφασης Οικονομικής Επιτροπής Δήμου Ι.Π. Μεσολογγίου",
+  "protocol_number": "148677/8092",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛ1ΤΩΡΖ-ΣΞ2"
+      }
+    ]
+  },
+  "issued": "2013-12-11",
+  "posted": "2013-12-11",
+  "publish_timestamp_ms": 1386751443000,
+  "version_id": "1465cffc-3436-4269-a6df-6d5e93700763",
+  "in_force": "2013-12-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A9%CE%9F%CE%A11%CE%A6-1%CE%A6%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A9%CE%9F%CE%A11%CE%A6-1%CE%A6%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%A9%CE%9F%CE%A11%CE%A6-1%CE%A6%CE%A3",
+  "listing_sha256": "c62af2c6bf8a52fc798c71831df048ea2c1eb24739cd95325b658eda47b67715",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
