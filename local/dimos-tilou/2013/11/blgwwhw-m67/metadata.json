@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΩΩΗΩ-Μ67",
+  "subject": "Απόφαση Δημ.Συμβουλίου 162/2013\r\n\r\n« Σύσταση Ταμιακής Υπηρεσίας και επιλογή τράπεζας για την κατάθεση των χρημάτων του Δήμου ».",
+  "protocol_number": "-",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6295",
+    "label": "ΔΗΜΟΣ ΤΗΛΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86483"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-26",
+  "posted": "2013-12-11",
+  "publish_timestamp_ms": 1386757406000,
+  "version_id": "47f088c9-5162-4935-9301-85606f573a5c",
+  "in_force": "2013-12-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A9%CE%A9%CE%97%CE%A9-%CE%9C67",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A9%CE%A9%CE%97%CE%A9-%CE%9C67/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%A9%CE%A9%CE%97%CE%A9-%CE%9C67",
+  "listing_sha256": "156e95d28b251f6f77057842249b1da9056f64d63774b1cf40e2eabb19c0df76",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
