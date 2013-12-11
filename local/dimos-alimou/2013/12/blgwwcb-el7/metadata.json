@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΩΩΨΒ-ΕΛ7",
+  "subject": "Παροχή πληρεξουσιότητας στις δικηγόρους του Δήμου \r\n(σύνταξη συμβολαιογραφικού πληρεξουσίου)\r\nΑ. για τη συζήτηση της ασκηθείσας αναίρεσης του Δήμου Αλίμου κατά 1. του Ανδρέα Μαργέτη, 2. του Βασιλείου Βλάχου ή Σταματελόπουλου και 3. της υπ’ αριθμ. 6082/2010 οριστικής απόφασης του Εφετείου Αθηνών \r\nΒ. Για τη συζήτηση της αναίρεσης 1. του Ιωάννη Μιχαλοδημητράκη 2. Του Στυλιανού Μιχαλοδημητράκη κλπ κατά 1. του Δήμου Αλίμου 2. της Ζακελίν Διζικιρίκη, 3. Του Παντελή Παπαγεωργίου και 4. της 4513/2010 οριστικής απόφασης του Εφετείου Αθηνών",
+  "protocol_number": "379",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82632"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-04",
+  "posted": "2013-12-11",
+  "publish_timestamp_ms": 1386765036000,
+  "version_id": "82af4ddd-d844-46e8-afd3-0a4d61b30b01",
+  "in_force": "2013-12-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A9%CE%A9%CE%A8%CE%92-%CE%95%CE%9B7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A9%CE%A9%CE%A8%CE%92-%CE%95%CE%9B7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%A9%CE%A9%CE%A8%CE%92-%CE%95%CE%9B7",
+  "listing_sha256": "dd6c6f176efb12eddf100de525ede42a7473cc507b293427f233865df32c2268",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
