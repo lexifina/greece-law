@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΩΩΗΕ-ΩΔΕ",
+  "subject": "324/2013 Απόφαση Δημοτικού Συμβουλίου Τριφυλίας με θέμα \"Διαγραφή ποσού 300,00 € από το Χ.Κ. παραβάσεων Κ.Ο.Κ. του Αναγνωστόπουλου Δημητρίου του Διονυσίου λόγω πληρωμής του\".",
+  "protocol_number": "29433",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6300",
+    "label": "ΔΗΜΟΣ ΤΡΙΦΥΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84901"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-02",
+  "posted": "2013-12-11",
+  "publish_timestamp_ms": 1386749885000,
+  "version_id": "cf23a00c-7f96-46b1-82d0-72b60de7129c",
+  "in_force": "2013-12-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A9%CE%A9%CE%97%CE%95-%CE%A9%CE%94%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A9%CE%A9%CE%97%CE%95-%CE%A9%CE%94%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%A9%CE%A9%CE%97%CE%95-%CE%A9%CE%94%CE%95",
+  "listing_sha256": "e73e5851f260db0ace49b25188741835e45ff2f79aa941f7acfcadea19339d74",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
