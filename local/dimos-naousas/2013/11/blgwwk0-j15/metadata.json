@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΩΩΚ0-Ξ15",
+  "subject": "9o ΠΡΑΚΤΙΚΟ ΕΠΙΤΡΟΠΗΣ ΠΟΛΕΟΔΟΜΙΚΟΥ ΚΑΙ ΑΡΧΙΤΕΚΤΟΝΙΚΟΥ ΕΛΕΓΧΟΥ",
+  "protocol_number": "1080",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6204",
+    "label": "ΔΗΜΟΣ ΝΑΟΥΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85287"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-11-29",
+  "posted": "2013-12-11",
+  "publish_timestamp_ms": 1386769838000,
+  "version_id": "d4620695-682e-4476-9268-39d72dbc1ffa",
+  "in_force": "2013-12-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A9%CE%A9%CE%9A0-%CE%9E15",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A9%CE%A9%CE%9A0-%CE%9E15/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%A9%CE%A9%CE%9A0-%CE%9E15",
+  "listing_sha256": "818c1c5d6d976c3449139e2dff89fc6d2f9c3b56fc5308bc18ebaca0422dc772",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
