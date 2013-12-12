@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓ6ΩΛΠ-ΟΘΥ",
+  "subject": "Τροποποίηση της 211/2012 Α.Δ.Σ όπως τροποποιήθηκε με την 626/2012 Α.Δ.Σ για υλοποίηση δράσης με ίδια μέσα",
+  "protocol_number": "84190",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6154",
+    "label": "ΔΗΜΟΣ ΚΟΖΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81172"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-10",
+  "posted": "2013-12-12",
+  "publish_timestamp_ms": 1386840199000,
+  "version_id": "fe743405-052a-4113-8b58-00eaaeb709a5",
+  "in_force": "2013-12-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%936%CE%A9%CE%9B%CE%A0-%CE%9F%CE%98%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%936%CE%A9%CE%9B%CE%A0-%CE%9F%CE%98%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%936%CE%A9%CE%9B%CE%A0-%CE%9F%CE%98%CE%A5",
+  "listing_sha256": "49790b7f506008bb7e4840e835b6cc9d6f60d452fd3f0d3d93b5a3e27ed9ba17",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
