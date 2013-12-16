@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΕΩΞΓ-ΣΘΞ",
+  "subject": "Λήψη απόφασης περί χορήγησης άδειας ίδρυσης και λειτουργίας \"Επιχείρηση Μαζικής Εστίασης παρασκευής και    διάθεσης πρόχειρου γεύματος (Κυλικείο εντός του 1ου Δημοτικού Σχολείου Παροικίας Πάρου)”.",
+  "protocol_number": "18733",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6239",
+    "label": "ΔΗΜΟΣ ΠΑΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80712"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-12",
+  "posted": "2013-12-16",
+  "publish_timestamp_ms": 1387176426000,
+  "version_id": "6df1c274-a842-4d5d-bf51-9c9138e489bd",
+  "in_force": "2013-12-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%95%CE%A9%CE%9E%CE%93-%CE%A3%CE%98%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%95%CE%A9%CE%9E%CE%93-%CE%A3%CE%98%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%95%CE%A9%CE%9E%CE%93-%CE%A3%CE%98%CE%9E",
+  "listing_sha256": "7fa002da58163392942c36933d24b62b2a1cc46d60f9f16c40924a2340cb08bc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
