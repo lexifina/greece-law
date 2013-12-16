@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΕΩ6Μ-ΠΚ8",
+  "subject": "ΕΓΚΡΙΣΗ ΓΙΑ ΤΗ ΜΗ ΕΠΙΒΟΛΗ ΠΡΟΣΤΙΜΟΥ ΠΟΣΟΥ 600,00€ ΣΥΜΦΩΝΑ ΜΕ ΤΟ Ν. 2946/01 ΣΤΗΝ ΕΤΑΙΡΕΙΑ ΑΦΟΙ ΜΗΛΑ & ΣΙΑ Ο.Ε. ΓΙΑ ΤΗΝ ΔΙΑΦΗΜΙΣΤΙΚΗ ΕΠΙΓΡΑΦΗ ΠΟΥ ΗΤΑΝ ΤΟΠΟΘΕΤΗΜΕΝΗ ΣΕ ΣΤΥΛΟ ΣΤΟ ΠΕΖΟΔΡΟΜΙΟ ΕΠΙ ΤΗΣ ΟΔΟΥ ΚΕΔΡΗΝΟΥ 72",
+  "protocol_number": "282001/16-12-2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6013",
+    "label": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78341"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-05",
+  "posted": "2013-12-16",
+  "publish_timestamp_ms": 1387197738000,
+  "version_id": "2c7ac328-2f69-4f03-8133-f17b088344b5",
+  "in_force": "2013-12-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%95%CE%A96%CE%9C-%CE%A0%CE%9A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%95%CE%A96%CE%9C-%CE%A0%CE%9A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%95%CE%A96%CE%9C-%CE%A0%CE%9A8",
+  "listing_sha256": "bbf0fd69af718542150c5f166eb236489d3de0a7f2869a83640a606e9745055c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
