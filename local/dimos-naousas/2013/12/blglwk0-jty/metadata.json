@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΛΩΚ0-ΞΤΥ",
+  "subject": "ΔΙΑΚΗΡΥΞΗ ΔΗΜΟΠΡΑΣΙΑΣ ΓΙΑ ΤΗΝ  ΕΚΠΟΙΗΣΗ ΔΗΜΟΤΙΚΟΥ ΑΚΙΝΗΤΟΥ  ΣΤΗΝ Τ.Κ. ΜΟΝΟΣΠΙΤΩΝ",
+  "protocol_number": "42498",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6204",
+    "label": "ΔΗΜΟΣ ΝΑΟΥΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80186"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-17",
+  "posted": "2013-12-17",
+  "publish_timestamp_ms": 1387290919000,
+  "version_id": "aca2dee4-e4c2-4b1c-ad90-e5805c66ff06",
+  "in_force": "2013-12-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%9B%CE%A9%CE%9A0-%CE%9E%CE%A4%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%9B%CE%A9%CE%9A0-%CE%9E%CE%A4%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%9B%CE%A9%CE%9A0-%CE%9E%CE%A4%CE%A5",
+  "listing_sha256": "5ddc28b73989a4366411336750367de6d3c5568862e90fd5649cfc4659a1a0ff",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
