@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΚΩ96-ΨΚΨ",
+  "subject": "ΛΗΨΗ ΑΠΟΦΑΣΗΣ ΓΙΑ ΤΗΝ ΥΛΟΠΟΙΗΣΗ ΝΗΣΙΔΑΣ ΠΛΑΤΟΥΣ 1,00 Μ. ΣΤΗΝ ΟΔΟ ΠΟΛΥΜΕΡΗ ΜΠΡΟΣΤΑ ΑΠΟ ΤΟ ΝΟΣΟΚΟΜΕΙΟ ΒΟΛΟΥ.",
+  "protocol_number": "122039/3/10/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6058",
+    "label": "ΔΗΜΟΣ ΒΟΛΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80746"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-10-09",
+  "posted": "2013-12-18",
+  "publish_timestamp_ms": 1387352417000,
+  "version_id": "f3cd6af3-c675-433a-92b5-372e8d24f696",
+  "in_force": "2013-12-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%9A%CE%A996-%CE%A8%CE%9A%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%9A%CE%A996-%CE%A8%CE%9A%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%9A%CE%A996-%CE%A8%CE%9A%CE%A8",
+  "listing_sha256": "aec8447c49173ab7e4dfb033c0bbebf430f1c291fbcaa5a3eb28efe88e1513be",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
