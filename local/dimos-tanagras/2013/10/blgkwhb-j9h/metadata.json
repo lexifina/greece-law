@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΚΩΗΒ-Ξ9Η",
+  "subject": "ΑΠΟΦΑΣΗ 11/2013 ΕΚΤΕΛΕΣΤΙΚΗΣ ΕΠΙΤΡΟΠΗΣ",
+  "protocol_number": "20348",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6293",
+    "label": "ΔΗΜΟΣ ΤΑΝΑΓΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "92581"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-10-23",
+  "posted": "2013-12-18",
+  "publish_timestamp_ms": 1387359597000,
+  "version_id": "d09ee150-a15f-4d4d-8b5a-15e598db2669",
+  "in_force": "2013-12-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%9A%CE%A9%CE%97%CE%92-%CE%9E9%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%9A%CE%A9%CE%97%CE%92-%CE%9E9%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%9A%CE%A9%CE%97%CE%92-%CE%9E9%CE%97",
+  "listing_sha256": "b385371b4c7564cc4a1b4b37738aa515320c8e967c4abac041bb5c520e026028",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
