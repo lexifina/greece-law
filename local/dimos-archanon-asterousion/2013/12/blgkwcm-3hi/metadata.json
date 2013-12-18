@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΚΩΨΜ-3ΗΙ",
+  "subject": "Απόφαση Οικονομικής Επιτροπής (364/2013): \"Ψήφιση πίστωσης δαπάνης συντήρησης κλιματιστικών μηχανημάτων\"",
+  "protocol_number": "364",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6047",
+    "label": "ΔΗΜΟΣ ΑΡΧΑΝΩΝ - ΑΣΤΕΡΟΥΣΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80138"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "68"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-16",
+  "posted": "2013-12-18",
+  "publish_timestamp_ms": 1387357974000,
+  "version_id": "b1c8dd78-3cdc-4306-89e0-944c577203ba",
+  "in_force": "2013-12-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%9A%CE%A9%CE%A8%CE%9C-3%CE%97%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%9A%CE%A9%CE%A8%CE%9C-3%CE%97%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%9A%CE%A9%CE%A8%CE%9C-3%CE%97%CE%99",
+  "listing_sha256": "8f2db2a7918e486cc7d05d4be6837de50b5318f59e1b33aaa2528a3f1e6f6248",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
