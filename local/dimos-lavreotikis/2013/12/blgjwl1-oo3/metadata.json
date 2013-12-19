@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΞΩΛ1-ΟΟ3",
+  "subject": "Η ΥΠ' ΑΡΙΘΜ. 235/2013 ΑΠΟΦΑΣΗ ΔΣ - «Λήψη Συμπληρωματικής, της υπ’ αριθμ. 145/2013, απόφασης του Δημοτικού Συμβουλίου του Δήμου Λαυρεωτικής, για την απόσυρση οχημάτων του Δήμου Λαυρεωτικής, τα οποία δεν έχουν καμία αξία, στον πρώην Ο.Δ.Δ.Υ. και νυν Διεύθυνση Τελωνειακών Διαδικασιών (Δ.Τ.Δ. 19)»",
+  "protocol_number": "28360",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6168",
+    "label": "ΔΗΜΟΣ ΛΑΥΡΕΩΤΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83060"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-19",
+  "posted": "2013-12-19",
+  "publish_timestamp_ms": 1387451052000,
+  "version_id": "139779a9-86df-4e7d-baa1-bced442fed92",
+  "in_force": "2013-12-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%9E%CE%A9%CE%9B1-%CE%9F%CE%9F3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%9E%CE%A9%CE%9B1-%CE%9F%CE%9F3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%9E%CE%A9%CE%9B1-%CE%9F%CE%9F3",
+  "listing_sha256": "c176fab47e55d640775c09bbb829ccaac26ddcccc96b77c6a5e85f6b015cc150",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
