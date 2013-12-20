@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓ1ΩΚΓ-Η1Ρ",
+  "subject": "Η αριθ. 516/2013 απόφαση του Δημοτικού Συμβουλίου Ναυπακτίας με τίτλο: Καθορισμός ειδικοτήτων προσωπικού παιδικών σταθμών.",
+  "protocol_number": "516/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6205",
+    "label": "ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78825"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-16",
+  "posted": "2013-12-20",
+  "publish_timestamp_ms": 1387539411000,
+  "version_id": "2f1832a7-2ee8-439c-a229-5e2d05e8664b",
+  "in_force": "2013-12-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%931%CE%A9%CE%9A%CE%93-%CE%971%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%931%CE%A9%CE%9A%CE%93-%CE%971%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%931%CE%A9%CE%9A%CE%93-%CE%971%CE%A1",
+  "listing_sha256": "8f2db2a7918e486cc7d05d4be6837de50b5318f59e1b33aaa2528a3f1e6f6248",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
