@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓ1ΩΡΤ-1ΒΛ",
+  "subject": "Απόδοση ποσού 14.000,00€ στο Ν.Π.Δ.Δ «ΦΟ.Π.Η» για το μήνα Νοέμβριο για την κάλυψη λειτουργικών αναγκών και μισθοδοσίας προσωπικού",
+  "protocol_number": "29489",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6108",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81892"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-17",
+  "posted": "2013-12-20",
+  "publish_timestamp_ms": 1387521716000,
+  "version_id": "fc5e3892-66b0-489d-966a-d7f7f83256c2",
+  "in_force": "2013-12-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%931%CE%A9%CE%A1%CE%A4-1%CE%92%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%931%CE%A9%CE%A1%CE%A4-1%CE%92%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%931%CE%A9%CE%A1%CE%A4-1%CE%92%CE%9B",
+  "listing_sha256": "564836d08d33cb22c4d33e8d4839cbfe0dbbbf74af5bc834e04b24adaae1e311",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
