@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓ1ΘΩΠ-Π63",
+  "subject": "Έγκριση δέσμευσης πίστωσης ύψους τριακοσίων ευρώ (300,00€) για την πληρωμή ισόποσης δαπάνης σε βάρος της πίστωσης του προϋπολογισμού εξόδων του Πολιτικού Γραφείου του Υπουργού Επικρατείας.",
+  "protocol_number": "ΔΑΠ1250",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "91380"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-13",
+  "posted": "2013-12-20",
+  "publish_timestamp_ms": 1387525630000,
+  "version_id": "0c39120d-22b1-4418-a281-50cf94dbe79b",
+  "in_force": "2013-12-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%931%CE%98%CE%A9%CE%A0-%CE%A063",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%931%CE%98%CE%A9%CE%A0-%CE%A063/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%931%CE%98%CE%A9%CE%A0-%CE%A063",
+  "listing_sha256": "e926f04429bc202c6a2321d3bc2f1a6023613e120de1fc719cdae636161b7d52",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
