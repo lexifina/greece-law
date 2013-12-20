@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓ1Ω6Χ-ΒΑΑ",
+  "subject": "Απόφαση Δ.Σ. αριθ.636 «Στην υπ’αριθ.412/2013 απόφαση της Οικονομικής Επιτροπής Δήμου Αιγιαλείας περί έγκρισης ή μη εξωδικαστικού συμβιβασμού με την «SUPER BETON Α.Ε.».",
+  "protocol_number": "54549",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6015",
+    "label": "ΔΗΜΟΣ ΑΙΓΙΑΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "90069"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-20",
+  "posted": "2013-12-20",
+  "publish_timestamp_ms": 1387541269000,
+  "version_id": "8c250f23-a1ae-428a-ba34-14c10373b494",
+  "in_force": "2013-12-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%931%CE%A96%CE%A7-%CE%92%CE%91%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%931%CE%A96%CE%A7-%CE%92%CE%91%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%931%CE%A96%CE%A7-%CE%92%CE%91%CE%91",
+  "listing_sha256": "3b4e8023f31122f6a9d34a4b04fa7714c8e74b8f12c16ef32948a7b4971814d9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
