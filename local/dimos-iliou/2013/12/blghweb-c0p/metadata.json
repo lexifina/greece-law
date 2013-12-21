@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΗΩΕΒ-Ψ0Π",
+  "subject": "Λήψη απόφασης για τον προσδιορισμό της διαφοράς των εξοφλημένων υποχρεώσεων προς την ΕΥΑΠ σύμφωνα με την ΚΥΑ 38560/26.9.13 (ΦΕΚ 2410/26.9.13)",
+  "protocol_number": "69819",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6123",
+    "label": "ΔΗΜΟΣ ΙΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78734"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-20",
+  "posted": "2013-12-21",
+  "publish_timestamp_ms": 1387617677000,
+  "version_id": "38fdd6fd-37ce-4c94-9f54-1842c0c12279",
+  "in_force": "2013-12-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%97%CE%A9%CE%95%CE%92-%CE%A80%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%97%CE%A9%CE%95%CE%92-%CE%A80%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%97%CE%A9%CE%95%CE%92-%CE%A80%CE%A0",
+  "listing_sha256": "3b4e8023f31122f6a9d34a4b04fa7714c8e74b8f12c16ef32948a7b4971814d9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
