@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΦΩΗΖ-ΓΓ5",
+  "subject": "(ΑΔΣ     410 /2013) Έγκριση του 3ου/2013 Πρακτικού Συνεδρίασης της Κοινής Επιτροπής Παρακολούθησης \r\nΔιετούς Προγραμματικής Σύμβασης της Δημοτικής Κοινωφελούς Επιχείρησης Ωραιοκάστρου με τον Δήμο Ωραιοκάστρου 2012-2013, που πραγματοποιήθηκε\r\n στις 11-12-2013 για την πληρωμή δόσεων περιόδου 1/1/2013 έως 30/11/2013 συνολικού ποσού 189.734,95 €, για τα προγράμματα «Βοήθεια στο σπίτι»,\r\n «Μαζικός Αθλητισμός», «Α.Μ.Ε.Α», «Πλησίον Σύνταξης» και «Διοικητική Ικανότητα».",
+  "protocol_number": "-",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6323",
+    "label": "ΔΗΜΟΣ ΩΡΑΙΟΚΑΣΤΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83567"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΟΝΤΩΗΖ-ΘΨ1"
+      }
+    ]
+  },
+  "issued": "2013-12-19",
+  "posted": "2013-12-24",
+  "publish_timestamp_ms": 1387877965000,
+  "version_id": "47a9b65a-0e95-426a-9338-d3a49685c417",
+  "in_force": "2013-12-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A6%CE%A9%CE%97%CE%96-%CE%93%CE%935",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A6%CE%A9%CE%97%CE%96-%CE%93%CE%935/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%A6%CE%A9%CE%97%CE%96-%CE%93%CE%935",
+  "listing_sha256": "b461eee2f3e7792dcdee1dfbea261c9be3e444751d3765f6a41407507d952656",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
