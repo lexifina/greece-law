@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΦΗ-ΞΞ2",
+  "subject": "ΣΥΣΤΑΣΗ Δ.Ο.Υ., Α' ΤΑΞΕΩΣ, ΣΤΟΝ ΝΟΜΟ ΗΡΑΚΛΕΙΟΥ,ΜΕ ΤΙΤΛΟ \"Δ.Ο.Υ. ΗΡΑΚΛΕΙΟΥ\"",
+  "protocol_number": "Δ6Α1195541ΕΞ2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70116"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "3271"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-20",
+  "posted": "2013-12-24",
+  "publish_timestamp_ms": 1387869753000,
+  "version_id": "2b1b0c87-de51-49e3-9cb8-5bb291c079d5",
+  "in_force": "2013-12-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A6%CE%97-%CE%9E%CE%9E2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%A6%CE%97-%CE%9E%CE%9E2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%A6%CE%97-%CE%9E%CE%9E2",
+  "listing_sha256": "87ee0089909d5dddc6257fa06373619562049a255fcfa744e8dd5c8022217de4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
