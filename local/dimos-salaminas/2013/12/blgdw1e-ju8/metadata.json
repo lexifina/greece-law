@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΔΩ1Ε-ΞΘ8",
+  "subject": "ΑΠΟΦΑΣΗ 486/2013 ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ ΔΗΜΟΥ ΣΑΛΑΜΙΝΑΣ ΠΟΥ ΑΦΟΡΑ : ΨΗΦΙΣΗ ΠΙΣΤΩΣΗΣ ΠΟΣΟΥ 11.766,69 € ΓΙΑ ΛΟΓΙΣΤΙΚΗ ΤΑΚΤΟΠΟΙΗΣΗ.",
+  "protocol_number": "486/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6266",
+    "label": "ΔΗΜΟΣ ΣΑΛΑΜΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82820"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-30",
+  "posted": "2013-12-30",
+  "publish_timestamp_ms": 1388400938000,
+  "version_id": "01b199e2-5597-445f-905b-443db3a410e3",
+  "in_force": "2013-12-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%94%CE%A91%CE%95-%CE%9E%CE%988",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%94%CE%A91%CE%95-%CE%9E%CE%988/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%94%CE%A91%CE%95-%CE%9E%CE%988",
+  "listing_sha256": "154a0973c776f3ae13aede549aa85f79aac616c3656bd392a59fbe52dceb112d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
