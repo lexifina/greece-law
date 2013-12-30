@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓΔΩΡ3-ΗΦΠ",
+  "subject": "Συζήτηση και λήψη απόφασης για την επιλογή χρηματοπιστωτικού ιδρύματος για έντοκη κατάθεση εσόδων του Δήμου μας καθώς και την διενέργεια της μισθοδοσίας του προσωπικού.",
+  "protocol_number": "19144",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79509"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24",
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-30",
+  "posted": "2013-12-30",
+  "publish_timestamp_ms": 1388409646000,
+  "version_id": "331eb26e-20e0-4229-b551-816a3dd27c55",
+  "in_force": "2013-12-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%94%CE%A9%CE%A13-%CE%97%CE%A6%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%93%CE%94%CE%A9%CE%A13-%CE%97%CE%A6%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%93%CE%94%CE%A9%CE%A13-%CE%97%CE%A6%CE%A0",
+  "listing_sha256": "9e6c7da19e04ff41ae947b8b7430ecd5b268098a427bc40dc4df2733605a9609",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
