@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓ2ΩΗΕ-ΛΓ1",
+  "subject": "345/2013 Απόφαση Δημοτικού Συμβουλίου Τριφυλίας με θέμα \"Ανάκληση της αριθ. 227/2013 Α.Δ.Σ. Τριφυλίας με θέμα \"Σύναψη Προγραμματικής Σύμβασης μεταξύ του Δήμου Οιχαλίας και του Δήμου Τριφυλίας, για την υποβολή πρότασης του Δήμου Οιχαλίας στην Πρόσκληση 1.13 για την Ενεργειακή αναβάθμιση των Δημοτικών Καταστημάτων του Δήμου Οιχαλίας\".",
+  "protocol_number": "31676",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6300",
+    "label": "ΔΗΜΟΣ ΤΡΙΦΥΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84901"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-30",
+  "posted": "2013-12-31",
+  "publish_timestamp_ms": 1388486791000,
+  "version_id": "40fd6817-c137-4bfa-a625-4b4ff8c07b16",
+  "in_force": "2013-12-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%932%CE%A9%CE%97%CE%95-%CE%9B%CE%931",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%932%CE%A9%CE%97%CE%95-%CE%9B%CE%931/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%932%CE%A9%CE%97%CE%95-%CE%9B%CE%931",
+  "listing_sha256": "9e6c7da19e04ff41ae947b8b7430ecd5b268098a427bc40dc4df2733605a9609",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
