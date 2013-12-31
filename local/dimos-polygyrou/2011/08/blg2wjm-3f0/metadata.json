@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓ2ΩΞΜ-3Φ0",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ:598/2011",
+  "protocol_number": "598",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6251",
+    "label": "ΔΗΜΟΣ ΠΟΛΥΓΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80119"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2011-08-10",
+  "posted": "2013-12-31",
+  "publish_timestamp_ms": 1388478242000,
+  "version_id": "77526e13-6bc8-499a-ad2c-7e7e9c66459b",
+  "in_force": "2013-12-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%932%CE%A9%CE%9E%CE%9C-3%CE%A60",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%932%CE%A9%CE%9E%CE%9C-3%CE%A60/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%932%CE%A9%CE%9E%CE%9C-3%CE%A60",
+  "listing_sha256": "6bb7fe093e1fde44a3e983032a293e1c319dc29ac45a8ec8e7c7f01085d0893d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
