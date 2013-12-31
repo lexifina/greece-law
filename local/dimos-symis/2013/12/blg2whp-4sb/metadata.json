@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΛΓ2ΩΗΠ-4ΣΒ",
+  "subject": "251-2013 ΔΣ  Αποδοχή ποσού 10.742,10€ από το Υπουργείο Εσωτερικών για την υλοποίηση του προγράμματος Βοήθεια στο σπίτι για το Α’ τρίμηνο 2013.\r\nΣτη",
+  "protocol_number": "6335",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6290",
+    "label": "ΔΗΜΟΣ ΣΥΜΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78543"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-31",
+  "posted": "2013-12-31",
+  "publish_timestamp_ms": 1388481233000,
+  "version_id": "edb11d0f-8c8d-4cb0-91b0-a32a6bd1c294",
+  "in_force": "2013-12-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%932%CE%A9%CE%97%CE%A0-4%CE%A3%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9B%CE%932%CE%A9%CE%97%CE%A0-4%CE%A3%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9B%CE%932%CE%A9%CE%97%CE%A0-4%CE%A3%CE%92",
+  "listing_sha256": "6772827fa55e64da8b5037571e244af874e96ea0558f4249cefd1690055719c2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
