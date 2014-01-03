@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ63ΩΨΠ-ΥΝΔ",
+  "subject": "Λήψη απόφασης για την έγκριση πρακτικών ανοικτού διαγωνισμού του έργου \" ΚΑΤΑΣΚΕΥΗ ΚΑΙ ΑΠΟΚΑΤΑΣΤΑΣΗ ΟΔΟΠΟΙΙΑΣ ΣΤΟ ΔΗΜΟ ΑΛΕΞΑΝΔΡΕΙΑΣ \" (Α.Μ. 76/2013).",
+  "protocol_number": "10/02-01-2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6018",
+    "label": "ΔΗΜΟΣ ΑΛΕΞΑΝΔΡΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88439"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛ0ΝΩΨΠ-ΧΣΤ"
+      }
+    ]
+  },
+  "issued": "2014-01-03",
+  "posted": "2014-01-03",
+  "publish_timestamp_ms": 1388749173000,
+  "version_id": "5911c189-92dc-40b1-81cf-a01c8ca6564a",
+  "in_force": "2014-01-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9963%CE%A9%CE%A8%CE%A0-%CE%A5%CE%9D%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9963%CE%A9%CE%A8%CE%A0-%CE%A5%CE%9D%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9963%CE%A9%CE%A8%CE%A0-%CE%A5%CE%9D%CE%94",
+  "listing_sha256": "89a162c7c732600d2fa69baa17144623742e0ed981b5640b59d42164285223c0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
