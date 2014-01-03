@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ63Ω1Α-ΑΦ1",
+  "subject": "Κατανομή πιστώσεων 29.323,63€ για αντιμετώπιση λειτουργικών αναγκών των σχολικών μονάδων",
+  "protocol_number": "29",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6283",
+    "label": "ΔΗΜΟΣ ΣΟΥΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91318"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-03",
+  "posted": "2014-01-03",
+  "publish_timestamp_ms": 1388736224000,
+  "version_id": "fd8c56df-3410-4cc7-b784-9d094728053c",
+  "in_force": "2014-01-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9963%CE%A91%CE%91-%CE%91%CE%A61",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9963%CE%A91%CE%91-%CE%91%CE%A61/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9963%CE%A91%CE%91-%CE%91%CE%A61",
+  "listing_sha256": "89a162c7c732600d2fa69baa17144623742e0ed981b5640b59d42164285223c0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
