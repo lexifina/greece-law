@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ6ΑΗ-Λ5Ξ",
+  "subject": "Καθορισμός αποζημίωσης των πληγέντων από την πλημμύρα στις  10 Φεβρουαρίου 2010 σε περιοχές του Νομού Χαλκιδικής",
+  "protocol_number": "ΓΔΟΠ000230ΕΞ2013 /Β 2892",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "3207"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-11",
+  "posted": "2014-01-07",
+  "publish_timestamp_ms": 1389093107000,
+  "version_id": "54683c82-b362-48fd-a5ae-10964568afe1",
+  "in_force": "2014-01-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%996%CE%91%CE%97-%CE%9B5%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%996%CE%91%CE%97-%CE%9B5%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%996%CE%91%CE%97-%CE%9B5%CE%9E",
+  "listing_sha256": "46fa5618525e435865b3e88c62bb8c3d774cff4acfe86206f2e55c615eb166e2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
