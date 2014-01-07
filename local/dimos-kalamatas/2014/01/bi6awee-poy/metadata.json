@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ6ΑΩΕΕ-ΠΟΥ",
+  "subject": "Σύσταση παγίας προκαταβολής έτους 2014.",
+  "protocol_number": "4/2014_ΟΕ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6130",
+    "label": "ΔΗΜΟΣ ΚΑΛΑΜΑΤΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82262"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-03",
+  "posted": "2014-01-07",
+  "publish_timestamp_ms": 1389093736000,
+  "version_id": "7d02444d-0d50-4225-a6d6-233802cecdf0",
+  "in_force": "2014-01-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%996%CE%91%CE%A9%CE%95%CE%95-%CE%A0%CE%9F%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%996%CE%91%CE%A9%CE%95%CE%95-%CE%A0%CE%9F%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%996%CE%91%CE%A9%CE%95%CE%95-%CE%A0%CE%9F%CE%A5",
+  "listing_sha256": "89a162c7c732600d2fa69baa17144623742e0ed981b5640b59d42164285223c0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
