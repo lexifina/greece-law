@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ65Ω63-Θ03",
+  "subject": "Λήψη απόφασης για έγκριση της υπ’ αριθμ. 123/2013 απόφασης του Διοικητικού Συμβουλίου του ΝΠΔΔ Οργανισμός Παιδείας Κοινωνικής Αλληλεγγύης και Προστασίας Αγίου Δημητρίου Αττικής που αφορά σε τροποποίηση του Ο.Ε.Υ. του.",
+  "protocol_number": "456/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6007",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78943"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-30",
+  "posted": "2014-01-08",
+  "publish_timestamp_ms": 1389164136000,
+  "version_id": "b040221a-9f5f-40d9-b583-f499604fd37b",
+  "in_force": "2014-01-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9965%CE%A963-%CE%9803",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9965%CE%A963-%CE%9803/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9965%CE%A963-%CE%9803",
+  "listing_sha256": "ceb47097545b29583db3422bb7a84cf3abd26ac1b62cb6bf686f454f0383687e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
