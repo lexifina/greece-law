@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ6ΜΩΡ5-Κ4Χ",
+  "subject": "Εγκρίνει κατά πλειοψηφία την τροποποίηση της υπ’ αρ. 997/2013 ΑΔΣ και της υπ’ αρ. 1198/2013 ορθής επανάληψης αυτής σχετικά με την ανάληψη υποχρέωσης προς το Δημόσιο και τους Ασφαλιστικούς Οργανισμούς από το Δήμο Θεσσαλονίκης της Δημοτικής Κοινωφελούς Επιχείρησης Τεχνών και Άθλησης ΚΕΤΑ του Δήμου Θεσσαλονίκης και συμψηφισμός των οφειλών της σύμφωνα με τα προβλεπόμενα στο άρθρο 27 του Ν. 3756/2009 (ΦΕΚ 53Α) έσοδα",
+  "protocol_number": "2060/2013 ΑΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91706"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛ4ΜΩΡ5-ΑΗΑ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΕΖΣΩΡ5-Ζ1Ε"
+      }
+    ]
+  },
+  "issued": "2013-12-19",
+  "posted": "2014-01-09",
+  "publish_timestamp_ms": 1389268073000,
+  "version_id": "8b6598f0-8341-423c-b6ca-9b8ad821a435",
+  "in_force": "2014-01-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%996%CE%9C%CE%A9%CE%A15-%CE%9A4%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%996%CE%9C%CE%A9%CE%A15-%CE%9A4%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%996%CE%9C%CE%A9%CE%A15-%CE%9A4%CE%A7",
+  "listing_sha256": "090c4ca8cbe1d9573e508a2843251623ce39e86fa07be5c1102cbfacbe74eb50",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
