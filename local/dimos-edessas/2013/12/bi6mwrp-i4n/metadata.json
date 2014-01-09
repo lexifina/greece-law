@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ6ΜΩΡΠ-Ι4Ν",
+  "subject": "ΟΡΙΣΜΟΣ ΥΠΑΛΛΗΛΟΥ ΜΕ ΤΟΝ ΑΝΑΠΛΗΡΩΤΗ ΤΟΥ ΓΙΑ ΤΗ ΣΦΡΑΓΙΣΗ ΚΑΤΑΣΤΗΜΑΤΩΝ ΥΓΕΙΟΝΟΜΙΚΟΥ ΕΝΔΙΑΦΕΡΟΝΤΟΣ",
+  "protocol_number": "382",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6086",
+    "label": "ΔΗΜΟΣ ΕΔΕΣΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83436"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-13",
+  "posted": "2014-01-09",
+  "publish_timestamp_ms": 1389256849000,
+  "version_id": "74a5d332-259b-4c2e-8a97-95cd5174ce61",
+  "in_force": "2014-01-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%996%CE%9C%CE%A9%CE%A1%CE%A0-%CE%994%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%996%CE%9C%CE%A9%CE%A1%CE%A0-%CE%994%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%996%CE%9C%CE%A9%CE%A1%CE%A0-%CE%994%CE%9D",
+  "listing_sha256": "ddddb9f82e05273b01625b3863c74e3d55d81b2c227e3cf1bdfc754127af1767",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
