@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ6ΖΩΨΒ-7ΑΔ",
+  "subject": "Εισήγηση αναφορικά με την άσκηση ή μη προσφυγής \r\nκατά της υπ’ αριθμ. πρωτ. 64103/52238/10.12.2013 Απόφασης\r\nτου Γενικού Γραμματέα Αποκεντρωμένης Διοίκησης Αττικής,\r\nμε την οποία ακυρώθηκε η υπ’ αριθμ. 429/2013 απόφαση\r\nτου Δημοτικού Συμβουλίου του Δήμου Αλίμου\r\n(υπόθεση επιβολής τέλους καθαριότητας στην ΕΤΑ ΑΕ.)",
+  "protocol_number": "6",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82632"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-13",
+  "posted": "2014-01-13",
+  "publish_timestamp_ms": 1389613643000,
+  "version_id": "5bb754f0-76fc-4e27-8241-1e17f7d92a6f",
+  "in_force": "2014-01-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%996%CE%96%CE%A9%CE%A8%CE%92-7%CE%91%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%996%CE%96%CE%A9%CE%A8%CE%92-7%CE%91%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%996%CE%96%CE%A9%CE%A8%CE%92-7%CE%91%CE%94",
+  "listing_sha256": "28174890f0ebadaa9058b8a63bbedb51ff919123b7ccece68c54e85b1c9ac1ba",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
