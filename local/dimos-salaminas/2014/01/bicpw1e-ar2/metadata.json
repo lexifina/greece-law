@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΨΠΩ1Ε-ΑΡ2",
+  "subject": "ΑΠΟΦΑΣΗ  490/2013  ΟΙΟΝΟΜΙΚΗΣ  ΕΠΙΤΡΟΠΗΣ  ΔΗΜΟΥ ΣΑΛΑΜΙΝΑΣ",
+  "protocol_number": "490/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6266",
+    "label": "ΔΗΜΟΣ ΣΑΛΑΜΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82820"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-14",
+  "posted": "2014-01-14",
+  "publish_timestamp_ms": 1389701792000,
+  "version_id": "024d8fa2-00a9-493a-8076-7a1f612cfa61",
+  "in_force": "2014-01-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%A0%CE%A91%CE%95-%CE%91%CE%A12",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%A0%CE%A91%CE%95-%CE%91%CE%A12/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A8%CE%A0%CE%A91%CE%95-%CE%91%CE%A12",
+  "listing_sha256": "9205a51c50d60bf90c796b9f97350c92149d3e29a050a1d527c91eb044cca1a4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
