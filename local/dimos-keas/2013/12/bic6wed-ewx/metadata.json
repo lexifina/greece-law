@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΨ6ΩΕΔ-ΕΩΧ",
+  "subject": "Έγκριση και διάθεση πίστωσης για πληρωμή προμήθειας του διατραπεζικού συστήματος ΔΙΑΣ μέσω της Ενιαίας Αρχής Πληρωμών του Δήμου Κέας.",
+  "protocol_number": "290",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6144",
+    "label": "ΔΗΜΟΣ ΚΕΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83519"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-31",
+  "posted": "2014-01-20",
+  "publish_timestamp_ms": 1390204390000,
+  "version_id": "6f489a8d-7628-4a3e-84d5-76f2fa5b6bbb",
+  "in_force": "2014-01-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A86%CE%A9%CE%95%CE%94-%CE%95%CE%A9%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A86%CE%A9%CE%95%CE%94-%CE%95%CE%A9%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A86%CE%A9%CE%95%CE%94-%CE%95%CE%A9%CE%A7",
+  "listing_sha256": "1785271b7ea1c486241836cd32966276d7964963dcec4eb06f00ab888cc22b98",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
