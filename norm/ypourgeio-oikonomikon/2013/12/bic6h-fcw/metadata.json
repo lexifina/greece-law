@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΨ6Η-ΦΨΩ",
+  "subject": "Εφαρμογή των διατάξεων του άρθρου 63 του ν. 4174/2013 (Ειδική Διοικητική Διαδικασία – Ενδικοφανής προσφυγή), όπως αυτό τροποποιήθηκε και ισχύει από 1/1/2014 και καθορισμός λεπτομερειών για τη λειτουργία της Διεύθυνσης Επίλυσης Διαφορών (πρώην Υπηρεσίας Εσωτερικής Επανεξέτασης) της Γενικής Γραμματείας Δημοσίων Εσόδων, την εφαρμοστέα διαδικασία και τον τρόπο έκδοσης των αποφάσεων αυτής.",
+  "protocol_number": "ΠΟΛ. 1002",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70116"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2014,
+      "aa": "55"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-31",
+  "posted": "2014-01-20",
+  "publish_timestamp_ms": 1390224372000,
+  "version_id": "2a1c3d8a-32ff-420c-8640-7e15012c6c31",
+  "in_force": "2014-01-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A86%CE%97-%CE%A6%CE%A8%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A86%CE%97-%CE%A6%CE%A8%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A86%CE%97-%CE%A6%CE%A8%CE%A9",
+  "listing_sha256": "1785271b7ea1c486241836cd32966276d7964963dcec4eb06f00ab888cc22b98",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
