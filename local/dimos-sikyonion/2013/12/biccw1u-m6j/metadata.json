@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΨΨΩ1Θ-Μ6Ξ",
+  "subject": "Χορήγηση παράτασης προθεσμίας χρόνου παραλαβής της μελέτης με τίτλο:\r\n«Μελέτη οδοποιίας από Τ.Δ. Φενεού έως διασταύρωση Αγ. Νικολάου».",
+  "protocol_number": "512/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6276",
+    "label": "ΔΗΜΟΣ ΣΙΚΥΩΝΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83014"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-30",
+  "posted": "2014-01-21",
+  "publish_timestamp_ms": 1390282932000,
+  "version_id": "b45e8858-b156-4c61-baab-88be47fd43e2",
+  "in_force": "2014-01-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%A8%CE%A91%CE%98-%CE%9C6%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%A8%CE%A91%CE%98-%CE%9C6%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A8%CE%A8%CE%A91%CE%98-%CE%9C6%CE%9E",
+  "listing_sha256": "ac7cd3fe5aafa288b864cffca63a245bc8cfc340a0eac0f99822989b3024b7ce",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
