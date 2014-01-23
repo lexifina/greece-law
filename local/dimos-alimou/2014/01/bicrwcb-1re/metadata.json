@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΨΡΩΨΒ-1ΡΕ",
+  "subject": "Συζήτηση και λήψη απόφασης για την παράσταση \r\nτης δικηγόρου Αννας Μαστροκάλου,\r\nστο Συμβούλιου της Επικρατείας στις 20/1/2014,\r\nπροκειμένου να συζητηθεί η από 25/10/2010 και με αριθμό καταθέσεως 385/2010\r\nαναίρεση του Δήμου Αλίμου κατά της υπ΄αριθμ. 189/2010 απόφασης\r\nτου Διοικητικού Εφετείου Πειραιώς (Στ Τριμελές)",
+  "protocol_number": "10",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82632"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-23",
+  "posted": "2014-01-23",
+  "publish_timestamp_ms": 1390470796000,
+  "version_id": "eeb430c2-361b-4872-902f-522c5f0baf24",
+  "in_force": "2014-01-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%A1%CE%A9%CE%A8%CE%92-1%CE%A1%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%A1%CE%A9%CE%A8%CE%92-1%CE%A1%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A8%CE%A1%CE%A9%CE%A8%CE%92-1%CE%A1%CE%95",
+  "listing_sha256": "482e479ba23a33eebc748077d75e7e0e41e70f100f749c148c5b72efa1e04133",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
