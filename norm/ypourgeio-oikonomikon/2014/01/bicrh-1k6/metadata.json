@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΨΡΗ-1Κ6",
+  "subject": "Καθορισμός των ωρών απασχόλησης πέραν του πενθημέρου για το έτος 2014, καθ’ υπέρβαση της εβδομαδιαίας υποχρεωτικής εργασίας και για εργασία προς συμπλήρωση της εβδομαδιαίας υποχρεωτικής εργασίας για το φυλακτικό προσωπικό με σχέση εργασίας ιδιωτικού δικαίου αορίστου και ορισμένου χρόνου του Οργανισμού Ανέγερσης Νέου Μουσείου Ακρόπολης.",
+  "protocol_number": "2/3866/0022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2014,
+      "aa": "68"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-17",
+  "posted": "2014-01-23",
+  "publish_timestamp_ms": 1390478734000,
+  "version_id": "8f728852-4ed9-49a7-8474-3ce3f104e997",
+  "in_force": "2014-01-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%A1%CE%97-1%CE%9A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%A1%CE%97-1%CE%9A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A8%CE%A1%CE%97-1%CE%9A6",
+  "listing_sha256": "ce10ce949294dbac9a4756b382e0d7cfabbefef41ba46ac1a67a9f1d8a7ea3d4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
