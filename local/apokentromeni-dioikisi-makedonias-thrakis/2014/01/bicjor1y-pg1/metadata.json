@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΨΞΟΡ1Υ-ΠΓ1",
+  "subject": "ΔΑΔ Βοσκής στο ΔΤ 19δ",
+  "protocol_number": "1100",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77657"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-27",
+  "posted": "2014-01-27",
+  "publish_timestamp_ms": 1390810446000,
+  "version_id": "21ca2bc0-d1cf-4a88-b2a9-624eb70ec321",
+  "in_force": "2014-01-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%9E%CE%9F%CE%A11%CE%A5-%CE%A0%CE%931",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%9E%CE%9F%CE%A11%CE%A5-%CE%A0%CE%931/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A8%CE%9E%CE%9F%CE%A11%CE%A5-%CE%A0%CE%931",
+  "listing_sha256": "0aa2b2b872273674bb7cc46003cf49fec3662d07fcf67fc56abeb804d317475e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
