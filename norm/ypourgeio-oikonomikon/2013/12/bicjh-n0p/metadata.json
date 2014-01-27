@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΨΞΗ-Ν0Π",
+  "subject": "Παροχή εγγύησης του Ελληνικού Δημοσίου για κάλυψη ομολογιακού δανείου εκδόσεως της τράπεζας με την επωνυμία «Τράπεζα Πειραιώς» συνολικού ποσού 3.572.100.000 ευρώ.",
+  "protocol_number": "2/103243/0025",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2013,
+      "aa": "3297"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-13",
+  "posted": "2014-01-27",
+  "publish_timestamp_ms": 1390813558000,
+  "version_id": "eb057cb9-f402-45d7-b469-3ec72879ab71",
+  "in_force": "2014-01-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%9E%CE%97-%CE%9D0%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%9E%CE%97-%CE%9D0%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A8%CE%9E%CE%97-%CE%9D0%CE%A0",
+  "listing_sha256": "ddddb9f82e05273b01625b3863c74e3d55d81b2c227e3cf1bdfc754127af1767",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
