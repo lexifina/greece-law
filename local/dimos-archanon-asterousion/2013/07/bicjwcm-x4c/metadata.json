@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΨΞΩΨΜ-Χ4Ψ",
+  "subject": "Απόφαση 293/2013 δημοτικού συμβουλίου :Έγκριση υδροδότησης κτήματος  επισκεψιμότητας  στον οικισμό Στείρωνα- Αλάγνι",
+  "protocol_number": "293/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6047",
+    "label": "ΔΗΜΟΣ ΑΡΧΑΝΩΝ - ΑΣΤΕΡΟΥΣΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80058"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-31",
+  "posted": "2014-01-27",
+  "publish_timestamp_ms": 1390805802000,
+  "version_id": "295e0b1f-3331-498a-87bb-16d2b27e181f",
+  "in_force": "2014-01-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%9E%CE%A9%CE%A8%CE%9C-%CE%A74%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%9E%CE%A9%CE%A8%CE%9C-%CE%A74%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A8%CE%9E%CE%A9%CE%A8%CE%9C-%CE%A74%CE%A8",
+  "listing_sha256": "221320787c9d4fb6b21d4b05a3cf330a8645155000bdc616e3094975c0154f98",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
