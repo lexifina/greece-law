@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΨ1Η-Π9Η",
+  "subject": "ΑΥΞΟΜΕΙΩΣΗ ΠΙΣΤΩΣΗΣ ΑΠΟ ΤΟΝ ΚΑΕ 235.0711 ΣΤΟΝ ΚΑΕ 235.9711 ΥΨΟΥΣ 267,17€",
+  "protocol_number": "310",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "75249"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-28",
+  "posted": "2014-01-28",
+  "publish_timestamp_ms": 1390911720000,
+  "version_id": "c0e6c899-e36d-4f85-8795-43196d433d85",
+  "in_force": "2014-01-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A81%CE%97-%CE%A09%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A81%CE%97-%CE%A09%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A81%CE%97-%CE%A09%CE%97",
+  "listing_sha256": "f05f3245e83548dec7a09e554e5f4a74eb484154f4768424a4ffbc068a97446d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
