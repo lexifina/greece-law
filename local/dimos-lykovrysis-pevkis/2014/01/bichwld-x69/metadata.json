@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΨΗΩΛΔ-Χ69",
+  "subject": "Απόφαση δέσμευσης πίστωσης ποσού ΤΡΙΑΚΟΣΙΩΝ ΕΞΗΝΤΑ ΧΙΛΙΑΔΩΝ  (360.000,00€) στον ΚΑΕ 00.6715.0012 για δαπάνη για \"Απόφαση υπέρ επιχορ/σης στο ίδιο ΝΠ ΠΕΑΠ \"",
+  "protocol_number": "723",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6178",
+    "label": "ΔΗΜΟΣ ΛΥΚΟΒΡΥΣΗΣ - ΠΕΥΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82029"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-21",
+  "posted": "2014-01-29",
+  "publish_timestamp_ms": 1390996765000,
+  "version_id": "41ab0bd8-0bb9-4bd0-b15a-29244028f801",
+  "in_force": "2014-01-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%97%CE%A9%CE%9B%CE%94-%CE%A769",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%97%CE%A9%CE%9B%CE%94-%CE%A769/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A8%CE%97%CE%A9%CE%9B%CE%94-%CE%A769",
+  "listing_sha256": "16ca99c2c1115a389fc6e44e037b32f1dcf6b45a844715cadc40342400eb3406",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
