@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΨΗΩΛΤ-ΣΔ5",
+  "subject": "ΑΑΥ: Εγκρίνουμε τη δέσμευση πίστωσης ύψους ΟΓΔΟΝΤΑ ΧΙΛΙΑΔΕΣ ΕΥΡΩ ( 80.000,00 ) σε βάρος του ΚΑ 25.7412.0005 του\r\nπροϋπολογισμού οικονομικού έτους 2013 για την μελέτη επέκτασης και αναβάθμισης των εγκαταστάσεων επεξεργασίας λυμάτων\r\nΔ.Ε. Μαλεσίνας.",
+  "protocol_number": "21237",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6176",
+    "label": "ΔΗΜΟΣ ΛΟΚΡΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85767"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛ0ΝΩΛΤ-8ΦΚ"
+      }
+    ]
+  },
+  "issued": "2013-11-27",
+  "posted": "2014-01-29",
+  "publish_timestamp_ms": 1390981442000,
+  "version_id": "7151af09-da25-4c9e-a59b-d1af89c01fba",
+  "in_force": "2014-01-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%97%CE%A9%CE%9B%CE%A4-%CE%A3%CE%945",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%97%CE%A9%CE%9B%CE%A4-%CE%A3%CE%945/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A8%CE%97%CE%A9%CE%9B%CE%A4-%CE%A3%CE%945",
+  "listing_sha256": "7b0d2bbb5b9f618c1863e253694bd8414a155d6a92b5a667088ebc6625945543",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
