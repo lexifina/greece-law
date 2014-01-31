@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΨΓΩΡ5-ΚΩΜ",
+  "subject": "Εγκρίνει κατά πλειοψηφία την ανάκληση της υπ’ αρ. 1922/2013 απόφασης του Δημοτικού Συμβουλίου Δ.Θ., λόγω αναμόρφωσης του προϋπολογισμού οικονομικού έτους 2014 του Δημοτικού Βρεφοκομείου Θεσσαλονίκης «Ο Άγιος Στυλιανός», λόγω αναπομπής του και συμμόρφωσης προς τις παρατηρήσεις",
+  "protocol_number": "73/2014 ΑΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91706"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΨ64691ΗΩ-ΣΞΜ"
+      }
+    ]
+  },
+  "issued": "2014-01-27",
+  "posted": "2014-01-31",
+  "publish_timestamp_ms": 1391169263000,
+  "version_id": "ef760200-bad7-41f8-9387-e9880c8b8799",
+  "in_force": "2014-01-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%93%CE%A9%CE%A15-%CE%9A%CE%A9%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A8%CE%93%CE%A9%CE%A15-%CE%9A%CE%A9%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A8%CE%93%CE%A9%CE%A15-%CE%9A%CE%A9%CE%9C",
+  "listing_sha256": "bdbe7969bafd29a96c671afaac03bbeed60f91aa170f795ab62c8eada54bd87a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
