@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡΥΩΨΒ-Θ5Ο",
+  "subject": "Εισήγηση προς έγκριση άσκησης α) ανακοπής, β) αίτησης αναστολής και γ) αίτησης χορήγησης προσωρινής διαταγής για την εξασφάλιση του ανασταλτικού αποτελέσματος μέχρι την εκδίκαση της αναστολής, κατά της υπ’ αριθμ. 59736/2013 Διαταγής πληρωμής του Ειρηνοδικείου Αθηνών και της από 23.12.2013 Επιταγής προς πληρωμή που βρίσκεται παρά πόδας της υπ’ αριθμ. 59736/2013 Διαταγής πληρωμής του Ειρηνοδικείου Αθηνών, και αφορά την υπόθεση καταβολής προς την εταιρεία με την επωνυμία «ΠΕΑΚ ΕΠΕ – Πετρελαιοτεχνικά Εργαστήρια & Ανταλλακτικά Κινητήρων» ποσού 2.095,85€.",
+  "protocol_number": "15",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82632"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-03",
+  "posted": "2014-02-03",
+  "publish_timestamp_ms": 1391416992000,
+  "version_id": "fba8f05e-0a8e-41a7-b2c6-6b71bf505ab6",
+  "in_force": "2014-02-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%A5%CE%A9%CE%A8%CE%92-%CE%985%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%A5%CE%A9%CE%A8%CE%92-%CE%985%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A1%CE%A5%CE%A9%CE%A8%CE%92-%CE%985%CE%9F",
+  "listing_sha256": "2b006c937fde1682915aeecb41ad58925d8177ed5a69336f6adebd5f55c810d9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
