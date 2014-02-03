@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡΥΩΨΦ-468",
+  "subject": "σύσταση πάγιας προκαταβολής",
+  "protocol_number": "1090",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6036",
+    "label": "ΔΗΜΟΣ ΑΝΔΡΙΤΣΑΙΝΑΣ - ΚΡΕΣΤΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81872"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-24",
+  "posted": "2014-02-03",
+  "publish_timestamp_ms": 1391423376000,
+  "version_id": "bc3e46f7-b279-4011-853c-e8830d3d4290",
+  "in_force": "2014-02-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%A5%CE%A9%CE%A8%CE%A6-468",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%A5%CE%A9%CE%A8%CE%A6-468/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A1%CE%A5%CE%A9%CE%A8%CE%A6-468",
+  "listing_sha256": "63499ba9d5ea0b663a32327b46c58a4fe4193fc57cb56e83f713f9a98f96c35a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
