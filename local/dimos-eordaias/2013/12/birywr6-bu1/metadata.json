@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡΥΩΡ6-ΒΘ1",
+  "subject": "΄Εγκριση ανατροπής αποφάσεων ανάληψης υποχρέωσης-δέσμευσης πίστωσης, για τις οποίες η δαπάνη έχει ματαιωθεί για οποιοδήποτε λόγο ή η ανάληψη της υποχρέωσης δεν έχει εκτελεσθεί εν όλω ή εν μέρει μέσα στο οικονομικό έτος 2013.",
+  "protocol_number": "501/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6092",
+    "label": "ΔΗΜΟΣ ΕΟΡΔΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85350"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-31",
+  "posted": "2014-02-03",
+  "publish_timestamp_ms": 1391412365000,
+  "version_id": "183e6434-9db7-40e4-b774-36d8a7ba7afb",
+  "in_force": "2014-02-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%A5%CE%A9%CE%A16-%CE%92%CE%981",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%A5%CE%A9%CE%A16-%CE%92%CE%981/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A1%CE%A5%CE%A9%CE%A16-%CE%92%CE%981",
+  "listing_sha256": "85cebcf8868db3ac776ae63d7cf9b961adc3fdf3e5216710f8227bc382788e49",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
