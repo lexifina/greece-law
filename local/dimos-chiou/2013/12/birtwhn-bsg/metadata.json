@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡΤΩΗΝ-ΒΣΓ",
+  "subject": "Η ΑΡΙΘΜ. 684/2013 ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΧΙΟΥ -ΠΡΟΣΛΗΨΗ ΠΡΟΣΩΠΙΚΟΥ ΙΔΟΧ",
+  "protocol_number": "66455",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78547"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2014,
+      "aa": "119"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-06",
+  "posted": "2014-02-04",
+  "publish_timestamp_ms": 1391512574000,
+  "version_id": "29efb876-f3ed-4a40-b10f-792cf260ba3f",
+  "in_force": "2014-02-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%A4%CE%A9%CE%97%CE%9D-%CE%92%CE%A3%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%A4%CE%A9%CE%97%CE%9D-%CE%92%CE%A3%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A1%CE%A4%CE%A9%CE%97%CE%9D-%CE%92%CE%A3%CE%93",
+  "listing_sha256": "88e164a0151ab9d551d317b8374c75014be2fe98f94db55a379e8698755385a2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
