@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡΤΩΞΧ-433",
+  "subject": "Διάθεση πιστώσεων (για ΔΑΠΑΝΗ ΣΕ ΔΙΑΤΡΑΠΕΖΙΚΑ ΣΥΣΤΗΜΑΤΑ ΑΕ, ΕΙΣΦΟΡΑ \r\n                    ΥΠΕΡ ΣΥΝΔΕΣΜΩΝ, ΕΙΣΦΟΡΑ ΤΕΑΔΥ, τέλη, ασφάλιστρα Ι.Χ., καύσιμα, Χρ.εκδηλ., \r\n                    προμήθειες τραπεζών, συντήρηση κολυμβητηρίου, εισφορές ΙΚΑ)",
+  "protocol_number": "45",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6253",
+    "label": "ΔΗΜΟΣ ΠΡΕΒΕΖΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "92509"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-17",
+  "posted": "2014-02-04",
+  "publish_timestamp_ms": 1391516689000,
+  "version_id": "dd75f89a-b0ad-4358-9581-607dee48b1e3",
+  "in_force": "2014-02-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%A4%CE%A9%CE%9E%CE%A7-433",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%A4%CE%A9%CE%9E%CE%A7-433/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A1%CE%A4%CE%A9%CE%9E%CE%A7-433",
+  "listing_sha256": "8c6f8893ba9577db06e6480073ea57dd3b2d87135af72b4bf8667eb38becab7e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
