@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡΤΩΨΜ-1Β9",
+  "subject": "Απόφαση 136/2013 δημοτικού συμβουλίου : Τροποποίηση προϋπολογισμού οικονομικού έτους 2013 για τη συμπλήρωση και επέκταση δημοτικού φωτισμού Δήμου Αρχανών Αστερουσίων",
+  "protocol_number": "136/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6047",
+    "label": "ΔΗΜΟΣ ΑΡΧΑΝΩΝ - ΑΣΤΕΡΟΥΣΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80058"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-04-18",
+  "posted": "2014-02-04",
+  "publish_timestamp_ms": 1391505189000,
+  "version_id": "ee733e5b-336a-45a7-8a58-2776ba6eb192",
+  "in_force": "2014-02-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%A4%CE%A9%CE%A8%CE%9C-1%CE%929",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%A4%CE%A9%CE%A8%CE%9C-1%CE%929/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A1%CE%A4%CE%A9%CE%A8%CE%9C-1%CE%929",
+  "listing_sha256": "1d9d3f84c05f8d04d598c278e0aa3e1b0dc18b00e1e10cf7624832e77d95700d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
