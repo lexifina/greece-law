@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡ3ΩΚ0-ΜΛ8",
+  "subject": "Ψήφιση –Διάθεση Πιστώσεων Προϋπολογισμού Οικονομικού Έτους 2014 πλην αυτών που αναφέρονται στο άρθρο 158 παρ. 3, 4, 5 του Νόμου 3463/2006",
+  "protocol_number": "13",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6204",
+    "label": "ΔΗΜΟΣ ΝΑΟΥΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80198"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-28",
+  "posted": "2014-02-05",
+  "publish_timestamp_ms": 1391596829000,
+  "version_id": "bc85db36-566f-4d18-9f76-55301be2afbe",
+  "in_force": "2014-02-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A13%CE%A9%CE%9A0-%CE%9C%CE%9B8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A13%CE%A9%CE%9A0-%CE%9C%CE%9B8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A13%CE%A9%CE%9A0-%CE%9C%CE%9B8",
+  "listing_sha256": "6adfdadf7eeadeb0e4f1fbe0a6eaed8280df8cbec8c286c372f5098599219ce3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
