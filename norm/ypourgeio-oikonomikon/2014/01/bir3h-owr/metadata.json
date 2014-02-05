@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡ3Η-ΟΩΡ",
+  "subject": "Eίσπραξη εσόδων υπέρ Τρίτων από τις Δημόσιες Οικονομικές Υπηρεσίες (Δ.Ο.Υ.).",
+  "protocol_number": "ΔΠΕΙΣΑ 1004480  ΕΞ 2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70116"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2014,
+      "aa": "67"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-09",
+  "posted": "2014-02-05",
+  "publish_timestamp_ms": 1391590384000,
+  "version_id": "6d662932-4ecf-4d5e-9ac1-1be274216d89",
+  "in_force": "2014-02-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A13%CE%97-%CE%9F%CE%A9%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A13%CE%97-%CE%9F%CE%A9%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A13%CE%97-%CE%9F%CE%A9%CE%A1",
+  "listing_sha256": "152077117e985802df337938ab0983ee86063584c12c3f32946c31578b86638f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
