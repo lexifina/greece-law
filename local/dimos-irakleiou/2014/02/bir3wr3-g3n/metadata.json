@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡ3ΩΡ3-Γ3Ν",
+  "subject": "Εγκριση δαπάνης και διάθεση πίστωσης ποσού 34.244,60 Ε (συμπεριλαμβανομένου ΦΠΑ) που αναλύεται ως εξής: σε βάρος του ΚΑ 20-6641.001(ποσό 24.245,34) και σε βάρος του ΚΑ 70-6641 (ποσό 9.999,26 Ε)  του προυπολογισμού του Δήμου οικονομικού έτους 2014 για την προμήθεια καυσίμων για κίνηση μεταφορικών μέσων.",
+  "protocol_number": "1728",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79509"
+  ],
+  "thematic_category_ids": [
+    "68",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-05",
+  "posted": "2014-02-05",
+  "publish_timestamp_ms": 1391587389000,
+  "version_id": "cab0c687-1895-4108-a65e-45219c83f165",
+  "in_force": "2014-02-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A13%CE%A9%CE%A13-%CE%933%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A13%CE%A9%CE%A13-%CE%933%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A13%CE%A9%CE%A13-%CE%933%CE%9D",
+  "listing_sha256": "8b8248aa8dfeaa62c212b1449b98d1871481928c833b9dc0ce7c61b8e1ffec87",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
