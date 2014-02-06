@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡΔΩΗΖ-ΝΙ1",
+  "subject": "(5/2014) Ψήφιση πίστωσης ποσού 96.687,04 € σε βάρος του ΚΑ 15.7326.1313 με τίτλο «Ανάπλαση αναβάθμιση και δημιουργία νέων θεματικών πυρήνων πρασίνου, αθλοπαιδιών και αναψυχής στα οικοδομικά τετράγωνα 68,Γ134, Γ119,22,97,100,109, καθώς και στο χώρο δημοτικού γηπέδου του Δ.Δ Ωραιοκάστρου του Δήμου Ωραιοκάστρου». ΠΑΔ 73/22-01-2014",
+  "protocol_number": "5/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6323",
+    "label": "ΔΗΜΟΣ ΩΡΑΙΟΚΑΣΤΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84883"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-28",
+  "posted": "2014-02-06",
+  "publish_timestamp_ms": 1391694854000,
+  "version_id": "039b5be5-775e-4d70-afdb-90068eb65886",
+  "in_force": "2014-02-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%94%CE%A9%CE%97%CE%96-%CE%9D%CE%991",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%94%CE%A9%CE%97%CE%96-%CE%9D%CE%991/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A1%CE%94%CE%A9%CE%97%CE%96-%CE%9D%CE%991",
+  "listing_sha256": "2f9b95c5ef206598f291d5368d81230b35f4bd9030544d8e21137162cefbc50a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
