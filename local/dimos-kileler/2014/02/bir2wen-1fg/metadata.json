@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡ2ΩΕΝ-1ΦΓ",
+  "subject": "17. ΑΠΟΦΑΣΗ Ακύρωση χρηματικών ενταλμάτων λόγω παρέλευσης του Οικονομικού έτους, μη θεώρησης από το Ελεγκτικό Συνέδριο και λόγω μη προσέλευσης για είσπραξη από τον δικαιούχο",
+  "protocol_number": "2377",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6150",
+    "label": "ΔΗΜΟΣ ΚΙΛΕΛΕΡ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80980"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-05",
+  "posted": "2014-02-07",
+  "publish_timestamp_ms": 1391761611000,
+  "version_id": "a074d63c-d9f9-4873-9cbd-b0eebbd8e114",
+  "in_force": "2014-02-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A12%CE%A9%CE%95%CE%9D-1%CE%A6%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A12%CE%A9%CE%95%CE%9D-1%CE%A6%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A12%CE%A9%CE%95%CE%9D-1%CE%A6%CE%93",
+  "listing_sha256": "164b73325f55a41955fc5c66df7e53728c64b28100ec4b6c828cce668e653990",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
