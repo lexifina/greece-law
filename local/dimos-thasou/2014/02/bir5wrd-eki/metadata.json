@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡ5ΩΡΔ-ΕΚΙ",
+  "subject": "Περί απευθείας ανάθεση προμήθειας καυσίμων του Δήμου Θάσου λόγω επείγουσας ανάγκης.",
+  "protocol_number": "1.888",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6110",
+    "label": "ΔΗΜΟΣ ΘΑΣΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81527"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-10",
+  "posted": "2014-02-10",
+  "publish_timestamp_ms": 1392033057000,
+  "version_id": "2beadf99-7ddf-4513-a3b6-c05f5621b92a",
+  "in_force": "2014-02-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A15%CE%A9%CE%A1%CE%94-%CE%95%CE%9A%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A15%CE%A9%CE%A1%CE%94-%CE%95%CE%9A%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A15%CE%A9%CE%A1%CE%94-%CE%95%CE%9A%CE%99",
+  "listing_sha256": "415883ea504e99cb2f3e1792afcda8adee7490d4c9a7e470501032cfa89e3848",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
