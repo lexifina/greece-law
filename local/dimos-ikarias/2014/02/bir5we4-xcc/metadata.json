@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡ5ΩΕ4-ΧΨΨ",
+  "subject": "ΚΑΘΑΡΙΣΜΟΙ ΜΑΣΤΕΥΣΕΩΝ Δ.Ε. ΕΥΔΗΛΟΥ",
+  "protocol_number": "135",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6122",
+    "label": "ΔΗΜΟΣ ΙΚΑΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84599"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-05",
+  "posted": "2014-02-10",
+  "publish_timestamp_ms": 1392035652000,
+  "version_id": "67797c6d-75c1-4437-81f4-d1e5e777e1cb",
+  "in_force": "2014-02-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A15%CE%A9%CE%954-%CE%A7%CE%A8%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A15%CE%A9%CE%954-%CE%A7%CE%A8%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A15%CE%A9%CE%954-%CE%A7%CE%A8%CE%A8",
+  "listing_sha256": "5bdb3fd4d86f97055f62db54d7b0be52d68541a65017fd0628b1c2815657f593",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
