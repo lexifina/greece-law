@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡΜΩΞΜ-76Σ",
+  "subject": "Απόφαση δημοτικού συμβουλίου 475-2013-Τροποποίηση Ρυμοτομικού Σχεδίου Πολυγύρου για την επέκταση του Λυκείου",
+  "protocol_number": "475-2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6251",
+    "label": "ΔΗΜΟΣ ΠΟΛΥΓΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84396"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-13",
+  "posted": "2014-02-11",
+  "publish_timestamp_ms": 1392121081000,
+  "version_id": "b2548503-9c69-4a31-84f5-9330d21c04b3",
+  "in_force": "2014-02-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%9C%CE%A9%CE%9E%CE%9C-76%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%9C%CE%A9%CE%9E%CE%9C-76%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A1%CE%9C%CE%A9%CE%9E%CE%9C-76%CE%A3",
+  "listing_sha256": "3f9d8753a20e6c5268106f211b385903cb881e20e583ce51977dcb4be7b5746c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
