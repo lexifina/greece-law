@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡΝΩΡΕ-ΓΚΟ",
+  "subject": "ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ ΔΙΑΠΙΣΤΩΤΙΚΗΣ ΠΡΑΞΗΣ 17717/11-11-2011",
+  "protocol_number": "17717",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6096",
+    "label": "ΔΗΜΟΣ ΕΡΥΜΑΝΘΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛΛΤΩΡΕ-ΓΘΦ"
+      },
+      {
+        "relatedDecisionsADA": "Β40ΖΩΡΕ-8ΛΓ"
+      },
+      {
+        "relatedDecisionsADA": "457ΓΩΡΕ-921"
+      }
+    ]
+  },
+  "issued": "2014-02-12",
+  "posted": "2014-02-12",
+  "publish_timestamp_ms": 1392188917000,
+  "version_id": "777c751e-3547-49a7-89a9-7dd6ced53e59",
+  "in_force": "2014-02-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%9D%CE%A9%CE%A1%CE%95-%CE%93%CE%9A%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%9D%CE%A9%CE%A1%CE%95-%CE%93%CE%9A%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A1%CE%9D%CE%A9%CE%A1%CE%95-%CE%93%CE%9A%CE%9F",
+  "listing_sha256": "2dd6b15841d3552a94b66cb2e655edf7c844fa0939c50e53c8405d793b10548d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
