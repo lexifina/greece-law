@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡΝΟΡ1Γ-ΙΔΩ",
+  "subject": "Απόφαση δέσμευσης πίστωσης Ειδ.Φορέα 993-24/071 ΚΑΕ 0711 ποσού 29,38 ευρώ",
+  "protocol_number": "οικ.427/9176",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76529"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-12",
+  "posted": "2014-02-12",
+  "publish_timestamp_ms": 1392207430000,
+  "version_id": "261a7773-ec48-463d-b734-a6ed3cd3760a",
+  "in_force": "2014-02-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%9D%CE%9F%CE%A11%CE%93-%CE%99%CE%94%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%9D%CE%9F%CE%A11%CE%93-%CE%99%CE%94%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A1%CE%9D%CE%9F%CE%A11%CE%93-%CE%99%CE%94%CE%A9",
+  "listing_sha256": "bf90e66a45b7832ef1d9aceb6c144c60a9276b0c189665b30e7b60dddb213424",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
