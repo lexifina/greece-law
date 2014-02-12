@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡΝΗ-Φ46",
+  "subject": "ΠΑΡΑΚΡΑΤΗΣΗ ΦΟΡΟΥ ΑΠΟ ΤΟΥΣ ΦΟΡΕΙΣ ΤΗΣ ΓΕΝΙΚΗΣ ΚΥΒΕΡΝΗΣΗΣ, ΚΑΤΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΚΑΘΕ ΕΙΔΟΥΣ ΑΓΑΘΩΝ Η ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ, ΣΥΜΦΩΝΑ ΜΕ ΤΙΣ ΔΙΑΤΑΞΕΙΣ ΤΗΣ ΠΑΡΑΓΡΑΦΟΥ 2 ΤΟΥ ΑΡΘΡΟΥ 64 ΤΟΥ Ν.4172/2013 ΚΑΘΩΣ ΚΑΙ ΧΡΟΝΟΣ ΚΑΙ ΤΡΟΠΟΣ ΑΠΟΔΟΣΗΣ ΤΟΥ.",
+  "protocol_number": "ΠΟΛ 1028",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70116"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2014,
+      "aa": "245"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-20",
+  "posted": "2014-02-12",
+  "publish_timestamp_ms": 1392187272000,
+  "version_id": "052baccc-1166-44e7-a58d-a61228fe3fb9",
+  "in_force": "2014-02-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%9D%CE%97-%CE%A646",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A1%CE%9D%CE%97-%CE%A646/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A1%CE%9D%CE%97-%CE%A646",
+  "listing_sha256": "d58f9bac50173819ee6e70ab1c8ae15f95ff5ab55f58f41a220e608aa5cdc0b2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
