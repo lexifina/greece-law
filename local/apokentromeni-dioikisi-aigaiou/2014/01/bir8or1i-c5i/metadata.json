@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡ8ΟΡ1Ι-Ψ5Ι",
+  "subject": "ΕΓΚΡΙΣΗ ΤΟΥ ΟΡΓΑΝΙΣΜΟΥ ΕΣΩΤΕΡΙΚΗΣ ΥΠΗΡΕΣΙΑΣ ΤΗΣ ΔΗΜΟΤΙΚΗΣ ΕΠΙΧΕΙΡΗΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΔΗΜΟΥ ΡΟΔΟΥ",
+  "protocol_number": "79481/3740",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76806"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2014,
+      "aa": "143"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-09",
+  "posted": "2014-02-14",
+  "publish_timestamp_ms": 1392371955000,
+  "version_id": "065c3300-f14f-46d6-a574-de284eaeadff",
+  "in_force": "2014-02-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A18%CE%9F%CE%A11%CE%99-%CE%A85%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A18%CE%9F%CE%A11%CE%99-%CE%A85%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A18%CE%9F%CE%A11%CE%99-%CE%A85%CE%99",
+  "listing_sha256": "152077117e985802df337938ab0983ee86063584c12c3f32946c31578b86638f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
