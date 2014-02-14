@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΡ8ΩΨ9-ΙΤΣ",
+  "subject": "Έγκριση ή μη απόφασης Επιτροπής Ποιότητας Ζωής με τίτλο \"Έγκριση ή μη Κανονισμού Λειτουργίας του Κέντρου της Πόλης\"",
+  "protocol_number": "009732",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "94486"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΨ1ΩΨ9-4ΥΟ"
+      }
+    ]
+  },
+  "issued": "2014-02-14",
+  "posted": "2014-02-14",
+  "publish_timestamp_ms": 1392366761000,
+  "version_id": "f4611f55-a5e7-4591-8d84-98fc87d3bb46",
+  "in_force": "2014-02-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A18%CE%A9%CE%A89-%CE%99%CE%A4%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A18%CE%A9%CE%A89-%CE%99%CE%A4%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A18%CE%A9%CE%A89-%CE%99%CE%A4%CE%A3",
+  "listing_sha256": "f85e17d093d5750b97990378bc7e04870ed33f2ceaf01839cf240c45621b438f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
