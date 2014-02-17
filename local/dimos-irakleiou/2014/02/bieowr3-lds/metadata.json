@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕΟΩΡ3-ΛΔΣ",
+  "subject": "Έγκριση διενέργειας προμήθειας Μικροφωνικής εγκατάστασης  στην αίθουσα Δημοτικού συμβουλίου.",
+  "protocol_number": "2538",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79509"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-17",
+  "posted": "2014-02-17",
+  "publish_timestamp_ms": 1392635613000,
+  "version_id": "8e3c4f79-2640-4503-aa16-a75fb0374c10",
+  "in_force": "2014-02-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%9F%CE%A9%CE%A13-%CE%9B%CE%94%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%9F%CE%A9%CE%A13-%CE%9B%CE%94%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%95%CE%9F%CE%A9%CE%A13-%CE%9B%CE%94%CE%A3",
+  "listing_sha256": "44b4587162d17ee3969f654627017eba2f9b222ca6bc04b05dd41d3d3286f72c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
