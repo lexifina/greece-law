@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕΟΩΛΦ-ΘΓ7",
+  "subject": "ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ ΤΗΣ ΥΠ' ΑΡΙΘΜ. 28/2014 ΑΠΟΦΑΣΗΣ ΤΗΣ ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ \"ΣΥΓΚΡΟΤΗΣΗ ΕΠΙΤΡΟΠΩΝ ΔΙΑΓΩΝΙΣΜΩΝ ΠΡΟΜΗΘΕΙΩΝ ΚΑΙ ΥΠΗΡΕΣΙΩΝ ΤΟΥ ΔΗΜΟΥ ΛΕΣΒΟΥ ΓΙΑ ΤΟ ΕΤΟΣ 2014\".",
+  "protocol_number": "Δ.Υ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6172",
+    "label": "ΔΗΜΟΣ ΛΕΣΒΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80014"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΨ9ΩΛΦ-ΕΡΙ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΙΡΤΩΛΦ-2Ρ9"
+      }
+    ]
+  },
+  "issued": "2014-01-14",
+  "posted": "2014-02-17",
+  "publish_timestamp_ms": 1392640762000,
+  "version_id": "c0c33eda-0668-47a0-9a32-b3da3541aac3",
+  "in_force": "2014-02-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%9F%CE%A9%CE%9B%CE%A6-%CE%98%CE%937",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%9F%CE%A9%CE%9B%CE%A6-%CE%98%CE%937/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%95%CE%9F%CE%A9%CE%9B%CE%A6-%CE%98%CE%937",
+  "listing_sha256": "502d1bfcf00f36dba813c298120f3fd14e3248d5aaa1fca86b31d4cc62c15d5c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
