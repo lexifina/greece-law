@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕΟΩΞΙ-8ΧΚ",
+  "subject": "65/2014 ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ\r\n:«Σύμφωνη Γνώμη για Οριοθέτηση τμήματος ρέματος «Ροδινή» στην θέση κατασκευής του αυτοκινητόδρομου Κόρινθος - Πάτρα στην περιοχή Ροδινής του Δ.Δ. Ψαθοπύργου του Δήμου Πατρέων» \r\n(σχετική η υπ’ αριθμ. 22/2014 απόφαση της Επιτροπής Ποιότητας Ζωής)",
+  "protocol_number": "Δ.Υ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6241",
+    "label": "ΔΗΜΟΣ ΠΑΤΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82479"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΨΗΩΞΙ-3ΝΟ"
+      }
+    ]
+  },
+  "issued": "2014-02-10",
+  "posted": "2014-02-17",
+  "publish_timestamp_ms": 1392632936000,
+  "version_id": "0abd8ba0-692e-4cdd-8e36-be3a463b8cc4",
+  "in_force": "2014-02-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%9F%CE%A9%CE%9E%CE%99-8%CE%A7%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%9F%CE%A9%CE%9E%CE%99-8%CE%A7%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%95%CE%9F%CE%A9%CE%9E%CE%99-8%CE%A7%CE%9A",
+  "listing_sha256": "8ac709d0eb265781b91f740c70e5ece94fd03323f81ac558b019d0a623199e95",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
