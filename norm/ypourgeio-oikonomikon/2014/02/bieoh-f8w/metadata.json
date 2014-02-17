@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕΟΗ-Φ8Ω",
+  "subject": "α. Τύπος και περιεχόμενο της δήλωσης φορολογίας εισοδήματος των υποκειμένων σε φόρο, σύμφωνα με το άρθρο 10 του ν.2238/1994, οικονομικού έτους 2014 και καθορισμός δικαιολογητικών εγγράφων ή άλλων στοιχείων που υποβάλλονται με αυτή.\r\nβ. Υποβολή της Δήλωσης Φορολογίας Εισοδήματος των υποκειμένων σε φόρο, σύμφωνα με την παράγραφο 4 του άρθρου 2 του ν.2238/1994 και απόδοση του φόρου, με τη χρήση ηλεκτρονικής μεθόδου επικοινωνίας κατά το οικονομικό έτος 2014.",
+  "protocol_number": "ΠΟΛ 1043",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70116"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2014,
+      "aa": "314"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-06",
+  "posted": "2014-02-17",
+  "publish_timestamp_ms": 1392645333000,
+  "version_id": "14e536c6-892b-42db-8afc-38d163acdb35",
+  "in_force": "2014-02-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%9F%CE%97-%CE%A68%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%9F%CE%97-%CE%A68%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%95%CE%9F%CE%97-%CE%A68%CE%A9",
+  "listing_sha256": "148676a632b54948540ffeb7b5fa9ca7cac48e36a5df52eba05c6fd79dec5717",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
