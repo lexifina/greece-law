@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕ4ΩΚΠ-ΓΗΓ",
+  "subject": "Απόφαση 4/2014 Δημοτικής Επιτροπής Διαβούλευσης: Περί εξομοίωσης της τιμής του εισιτηρίου του προαστιακού για την περιοχή της Κινέττας.",
+  "protocol_number": "4",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6188",
+    "label": "ΔΗΜΟΣ ΜΕΓΑΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91814"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-27",
+  "posted": "2014-02-18",
+  "publish_timestamp_ms": 1392714218000,
+  "version_id": "0871021e-9eba-421a-83ba-74dafd007a1c",
+  "in_force": "2014-02-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%954%CE%A9%CE%9A%CE%A0-%CE%93%CE%97%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%954%CE%A9%CE%9A%CE%A0-%CE%93%CE%97%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%954%CE%A9%CE%9A%CE%A0-%CE%93%CE%97%CE%93",
+  "listing_sha256": "ca9d2b06795001f655758760762bad7cf3a9d69dea3d01ed7dcfde3ee5967187",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
