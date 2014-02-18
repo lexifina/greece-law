@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕ4ΩΚΠ-Ψ5Ι",
+  "subject": "Απόφαση 307/2013 Δημοτικού Σ/λίου Δήμου Μεγαρέων περί:Περί της καθιέρωσης κατ’ εξαίρεση ωρών λειτουργίας της Δ/νσης Καθαριότητας και Ανακύκλωσης, Πρασίνου και Εξωτερικών Συνεργείων και του Τμήματος Ύδρευσης – Αποχέτευσης της Δ/νσης Τεχνικών Υπηρεσιών.",
+  "protocol_number": "307/2013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6188",
+    "label": "ΔΗΜΟΣ ΜΕΓΑΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91814"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "",
+      "issueyear": 2014,
+      "aa": "292"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-17",
+  "posted": "2014-02-18",
+  "publish_timestamp_ms": 1392723204000,
+  "version_id": "b0f91b0b-d4ba-4d14-b272-880380ad4ae2",
+  "in_force": "2014-02-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%954%CE%A9%CE%9A%CE%A0-%CE%A85%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%954%CE%A9%CE%9A%CE%A0-%CE%A85%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%954%CE%A9%CE%9A%CE%A0-%CE%A85%CE%99",
+  "listing_sha256": "cd08edf2a84d0f32db4adaf4701c76dd9586d9b078b714f9c30cb3c05417943f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
