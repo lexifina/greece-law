@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕΒΩΞ4-Ι1Π",
+  "subject": "ΕΙΣΗΓΗΤΙΚΗ ΕΣΟΔΩΝ Π/ΣΜΟΥ ΟΙΚ. ΈΤΟΥΣ 2014",
+  "protocol_number": "ΠΑΡΑΡΤΗΜΑ Α&#39; Α.Ο.Ε. 4-2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6224",
+    "label": "ΔΗΜΟΣ ΟΙΧΑΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "92301"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΕΒΩΞ4-Ο1Ω"
+      }
+    ]
+  },
+  "issued": "2014-02-17",
+  "posted": "2014-02-19",
+  "publish_timestamp_ms": 1392790950000,
+  "version_id": "18f8ea65-fea4-4002-86c1-c03e10e65eaf",
+  "in_force": "2014-02-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%92%CE%A9%CE%9E4-%CE%991%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%92%CE%A9%CE%9E4-%CE%991%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%95%CE%92%CE%A9%CE%9E4-%CE%991%CE%A0",
+  "listing_sha256": "c542740faaa904cc1103fb6c98beb40040cd2d0649925312e264cf7e745c878d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
