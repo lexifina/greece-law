@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕ77ΛΒ-ΒΣ1",
+  "subject": "Καθορισμός μεγίστου αριθμού αδειών Ε.Δ.Χ κατά διοικητική μονάδα-έδρα Ε.Δ.Χ καθώς και επιμερισμός των αδειών αυτών κατά έδρα και κατηγορία (ΤΑΞΙ-ΕΙΔ.ΜΙΣΘ-ΕΙΔ.ΜΙΣΘ.ΑΜΕΑ)",
+  "protocol_number": "οικ.500",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5001",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79931"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2014,
+      "aa": "259"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-01-30",
+  "posted": "2014-02-20",
+  "publish_timestamp_ms": 1392882915000,
+  "version_id": "43a57ac2-0867-4819-9a9c-838e3b82e46c",
+  "in_force": "2014-02-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9577%CE%9B%CE%92-%CE%92%CE%A31",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9577%CE%9B%CE%92-%CE%92%CE%A31/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9577%CE%9B%CE%92-%CE%92%CE%A31",
+  "listing_sha256": "9e4488e809d0f3d36272195772be75dee468ca3a0acf1b0c8c0a9f812bf6c09d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
