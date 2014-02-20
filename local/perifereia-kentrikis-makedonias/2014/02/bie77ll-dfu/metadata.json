@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕ77ΛΛ-ΔΦΘ",
+  "subject": "ΑΔΕΙΑ ΔΙΕΞΑΓΩΓΗΣ ΑΓΩΝΑ",
+  "protocol_number": "70977(776)",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5009",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80448"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-20",
+  "posted": "2014-02-20",
+  "publish_timestamp_ms": 1392890139000,
+  "version_id": "e6027e2f-060d-4660-af4d-71eded9c5c5d",
+  "in_force": "2014-02-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9577%CE%9B%CE%9B-%CE%94%CE%A6%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9577%CE%9B%CE%9B-%CE%94%CE%A6%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9577%CE%9B%CE%9B-%CE%94%CE%A6%CE%98",
+  "listing_sha256": "4e270acbfe9bb8705a81c88589136e0536037a3b377223685f6a6454a996b0d1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
