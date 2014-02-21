@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕΩΩΛΔ-ΝΘΛ",
+  "subject": "Απόφαση δέσμευσης πίστωσης υπέρ ολοκληρωμένης παρέμβασης εξοικονόμησης ενέργειας στις κτιριακές εγκαταστάσεις του Δήμου, ποσού  379.720,00 € στον ΚΑΕ 30.7341.0004",
+  "protocol_number": "1983",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6178",
+    "label": "ΔΗΜΟΣ ΛΥΚΟΒΡΥΣΗΣ - ΠΕΥΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82029"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-20",
+  "posted": "2014-02-21",
+  "publish_timestamp_ms": 1392980264000,
+  "version_id": "b5faed5c-c35e-4ad7-898a-3be3458d47da",
+  "in_force": "2014-02-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%A9%CE%A9%CE%9B%CE%94-%CE%9D%CE%98%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%A9%CE%A9%CE%9B%CE%94-%CE%9D%CE%98%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%95%CE%A9%CE%A9%CE%9B%CE%94-%CE%9D%CE%98%CE%9B",
+  "listing_sha256": "4e270acbfe9bb8705a81c88589136e0536037a3b377223685f6a6454a996b0d1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
