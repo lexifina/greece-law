@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕ9ΩΞΞ-Μ8Ρ",
+  "subject": "Έγκριση τευχών δημοπράτησης της πράξης με τίτλο \"Παξοί: Διαδικτυακές Ομιλίες Πολιτισμού\" (MIS 327674)",
+  "protocol_number": "3-10/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6235",
+    "label": "ΔΗΜΟΣ ΠΑΞΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81049"
+  ],
+  "thematic_category_ids": [
+    "40",
+    "44",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΨΗΩΞΞ-ΕΞΤ"
+      },
+      {
+        "relatedDecisionsADA": "4Α8ΙΦ-ΔΗΧ"
+      }
+    ]
+  },
+  "issued": "2014-02-06",
+  "posted": "2014-02-24",
+  "publish_timestamp_ms": 1393240319000,
+  "version_id": "55d5975b-e91c-472c-ba53-9d22c0d6e2d1",
+  "in_force": "2014-02-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%959%CE%A9%CE%9E%CE%9E-%CE%9C8%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%959%CE%A9%CE%9E%CE%9E-%CE%9C8%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%959%CE%A9%CE%9E%CE%9E-%CE%9C8%CE%A1",
+  "listing_sha256": "148676a632b54948540ffeb7b5fa9ca7cac48e36a5df52eba05c6fd79dec5717",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
