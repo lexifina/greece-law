@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕΡΩΕΗ-ΤΧΛ",
+  "subject": "Διαγραφές οφειλών κατά του Δήμου Καρδίτσας λόγω παραγραφής τους.",
+  "protocol_number": "4971",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6135",
+    "label": "ΔΗΜΟΣ ΚΑΡΔΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84284"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-24",
+  "posted": "2014-02-25",
+  "publish_timestamp_ms": 1393314756000,
+  "version_id": "4fb99aa3-f536-47ec-8007-93d73c9bd699",
+  "in_force": "2014-02-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%A1%CE%A9%CE%95%CE%97-%CE%A4%CE%A7%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%A1%CE%A9%CE%95%CE%97-%CE%A4%CE%A7%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%95%CE%A1%CE%A9%CE%95%CE%97-%CE%A4%CE%A7%CE%9B",
+  "listing_sha256": "78b04063599e7c47bf6f99954fca37b4accdce2933119d20c947b470177102fd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
