@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕΡΩΗ0-ΧΥ8",
+  "subject": "Απόφαση δημοτικού συμβουλίου με αριθμό 32/2014 περί: «Έγκριση Πρωτοκόλλου Προσωρινής και Οριστικής Παραλαβής του έργου με τίτλο: «ΑΝΤΙΠΛΗΜΜΥΡΙΚΑ ΕΡΓΑ Δ.Δ. ΔΗΜΟΥ ΝΑΡΘΑΚΙΟΥ».",
+  "protocol_number": "3703",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6306",
+    "label": "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82050"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-25",
+  "posted": "2014-02-25",
+  "publish_timestamp_ms": 1393329322000,
+  "version_id": "76975b7a-c58f-46b8-afa1-bee333c3486c",
+  "in_force": "2014-02-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%A1%CE%A9%CE%970-%CE%A7%CE%A58",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%A1%CE%A9%CE%970-%CE%A7%CE%A58/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%95%CE%A1%CE%A9%CE%970-%CE%A7%CE%A58",
+  "listing_sha256": "1cbb94ee098e13c8f3de2212428a15b570492f119e2add758ce52ed09dcfc805",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
