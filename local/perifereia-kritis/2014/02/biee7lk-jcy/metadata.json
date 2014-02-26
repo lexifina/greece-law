@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕΕ7ΛΚ-ΞΨΥ",
+  "subject": "Έγκριση διάθεσης πίστωσης για δαπάνες των Διευθύνσεων της Π.Ε. Χανίων",
+  "protocol_number": "129/2014 απόφαση Οικονομικής Επιτροπής (πρακτικό Ν° 4/19-02-2014)",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "84337"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-19",
+  "posted": "2014-02-26",
+  "publish_timestamp_ms": 1393418571000,
+  "version_id": "3f607541-4b9b-49e7-bc88-9ee1740e4373",
+  "in_force": "2014-02-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%957%CE%9B%CE%9A-%CE%9E%CE%A8%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%957%CE%9B%CE%9A-%CE%9E%CE%A8%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%95%CE%957%CE%9B%CE%9A-%CE%9E%CE%A8%CE%A5",
+  "listing_sha256": "e5addb94f2b37bf398c3e6798ef567fc6961c568be157823a07473934f297584",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
