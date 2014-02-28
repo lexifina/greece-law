@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕΚΩΛΩ-Η9Η",
+  "subject": "Απόφαση ανάληψης υποχρέωσης ύψους ΕΙΚΟΣΙ ΕΠΤΑ ΧΙΛΙΑΔΩΝ ΕΥΡΩ (27.000,00€) για την Προμήθεια χρωμάτων για έκτακτες ανάγκες και αναλώσιμων υλικών για τα συνεργεία του Δήμου",
+  "protocol_number": "6989",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6159",
+    "label": "ΔΗΜΟΣ ΚΟΡΥΔΑΛΛΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78221"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-20",
+  "posted": "2014-02-28",
+  "publish_timestamp_ms": 1393575674000,
+  "version_id": "8cb3d2ea-0409-4552-a4ce-b7169eda3af0",
+  "in_force": "2014-02-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%9A%CE%A9%CE%9B%CE%A9-%CE%979%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%9A%CE%A9%CE%9B%CE%A9-%CE%979%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%95%CE%9A%CE%A9%CE%9B%CE%A9-%CE%979%CE%97",
+  "listing_sha256": "638f509d5f0793f0f2637dada4437d874210b0f09d63fb1b4d46a867ed57c6f2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
