@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕΚΩΛΩ-8Μ8",
+  "subject": "Απόφαση ανάληψης υποχρέωσης ύψους ΤΡΙΩΝ ΧΙΛΙΑΔΩΝ ΕΥΡΩ  (3.000,00€) για τον Φωτισμό κτιρίων Βρεφονηπιακών Σταθμών (φυσικό αέριο)",
+  "protocol_number": "7839",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6159",
+    "label": "ΔΗΜΟΣ ΚΟΡΥΔΑΛΛΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78221"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-25",
+  "posted": "2014-02-28",
+  "publish_timestamp_ms": 1393577182000,
+  "version_id": "d1071229-7bfa-43a4-820f-9598980f1755",
+  "in_force": "2014-02-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%9A%CE%A9%CE%9B%CE%A9-8%CE%9C8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%9A%CE%A9%CE%9B%CE%A9-8%CE%9C8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%95%CE%9A%CE%A9%CE%9B%CE%A9-8%CE%9C8",
+  "listing_sha256": "7a859af5ff3fefdff3ec09afcd15b77a888f5e10363eca7a8b1e36b2afb3aeef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
