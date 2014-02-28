@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΕΚΩ6Ι-ΖΓ3",
+  "subject": "Έγκριση ή μη της με αριθμό 8/2014 (ΑΔΑ: ΒΙΕ7Ω6Ι-66Γ) απόφασης της Επιτροπής Ποιότητας Ζωής με θέμα: «Γνωμοδότηση της Επιτροπής Ποιότητας Ζωής Δ. Αγιάς, μετά από αίτηση, για άρση απαλλοτρίωσης στην ιδιοκτησία της Χουλιάρα Μαρίας , σε τμήμα του Ο.Τ. 164Α κοινόχρηστος χώρος του ρυμοτομικού σχεδίου Κόκκινο Νερό»",
+  "protocol_number": "50/2014 Δημοτικού Συμβουλίου",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6003",
+    "label": "ΔΗΜΟΣ ΑΓΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80383"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΕ7Ω6Ι-66Γ"
+      }
+    ]
+  },
+  "issued": "2014-02-25",
+  "posted": "2014-02-28",
+  "publish_timestamp_ms": 1393610232000,
+  "version_id": "27e64e4f-fc2c-46a6-b97d-625ac3297533",
+  "in_force": "2014-02-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%9A%CE%A96%CE%99-%CE%96%CE%933",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%95%CE%9A%CE%A96%CE%99-%CE%96%CE%933/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%95%CE%9A%CE%A96%CE%99-%CE%96%CE%933",
+  "listing_sha256": "a4c81c1e56124db2dc93e552278791f3831e73cb3c4ba8ca25ec9cf8f0d073db",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
