@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΚΘΩ9Τ-ΩΘ2",
+  "subject": "ΕΚΤΑΚΤΗ ΕΠΙΣΚΕΥΗ ΟΧΗΜΑΤΟΣ ΜΕ ΑΡΙΘ ΚΥΚΛ ΜΕ 110624",
+  "protocol_number": "4832",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6074",
+    "label": "ΔΗΜΟΣ ΔΙΔΥΜΟΤΕΙΧΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "90344"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-28",
+  "posted": "2014-03-04",
+  "publish_timestamp_ms": 1393925818000,
+  "version_id": "4f2113bf-0671-4565-a0e5-44f66bfc82d4",
+  "in_force": "2014-03-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9A%CE%98%CE%A99%CE%A4-%CE%A9%CE%982",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9A%CE%98%CE%A99%CE%A4-%CE%A9%CE%982/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9A%CE%98%CE%A99%CE%A4-%CE%A9%CE%982",
+  "listing_sha256": "722b113afbedfd1f3223ed4062e04900892cec83bfea5524310dcba4d071353d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
