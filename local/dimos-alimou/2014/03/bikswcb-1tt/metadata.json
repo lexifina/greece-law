@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΚΣΩΨΒ-1ΤΤ",
+  "subject": "Συζήτηση και λήψη απόφασης για την άσκηση αναίρεσης \r\nκατά της υπ΄αριθμ. 6388/2011 αποφάσεως του  Πολυμελούς Πρωτοδικείου Αθηνών (Τμήμα Εφέσεων), η οποία αφορά την καταβολή του ποσού των 1.772,48€\r\nστην κ. Ευαγγελία Χρυσανθοπούλου (εργατική διαφορά προερχόμενη από περιορισμό κατά ένα μήνα της οχτάμηνης σύμβασης εργασίας ορισμένου χρόνου κατόπιν ανασύνταξης των πινάκων κατάταξης από το ΑΣΕΠ που έγινε το 2006).",
+  "protocol_number": "43",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82632"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-03-10",
+  "posted": "2014-03-10",
+  "publish_timestamp_ms": 1394444033000,
+  "version_id": "9040974c-9b81-466e-924c-68c1dbc23ea3",
+  "in_force": "2014-03-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9A%CE%A3%CE%A9%CE%A8%CE%92-1%CE%A4%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9A%CE%A3%CE%A9%CE%A8%CE%92-1%CE%A4%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9A%CE%A3%CE%A9%CE%A8%CE%92-1%CE%A4%CE%A4",
+  "listing_sha256": "c80e59fa20567606197b4557efea44077bb39f07535b3ca67d3089d8636a4e79",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
