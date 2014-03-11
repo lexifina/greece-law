@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΚΑΩ63-ΨΝ5",
+  "subject": "Λήψη απόφασης διάθεσης ποσού για την εξόφληση των κάτωθι τιμολογίων:α) Το υπ΄αριθ.313/14-2-2014 τιμολόγιο της εταιρείας ''ΚΑΤΕΒΑ ΦΩΤΕΙΝΗ'' ποσού 69,37€, που αφορά την αγορά πλαστικοποιητή στο 5ο Δημοτικό Σχολείο. β) Το υπ΄αριθ.33/30-1-2014 τιμολόγιο της εταιρείας ''ΣΤΟΥΡΑΙΤΗ Κ.ΧΡΗΣΤΟΥ  ποσού 86,10€ που αφορά  επισκευή ενισχυτή και laptop του 11ου Δημοτικού Σχολείου. γ) Τα υπ΄αριθ.9495/22-1-2014 και 9503/3-2-2014 τιμολόγια της εταιρείας ''ΓΚΙΤΑΚΟΣ''  τα οποία αφορούν προμήθεια χρωμάτων στο 4ο Δημοτικό Σχολείο.",
+  "protocol_number": "33",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6007",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86785"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-25",
+  "posted": "2014-03-11",
+  "publish_timestamp_ms": 1394522311000,
+  "version_id": "bd1cf6f8-3eae-4481-8996-a0d9f7ff9a03",
+  "in_force": "2014-03-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9A%CE%91%CE%A963-%CE%A8%CE%9D5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9A%CE%91%CE%A963-%CE%A8%CE%9D5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9A%CE%91%CE%A963-%CE%A8%CE%9D5",
+  "listing_sha256": "aa1b076409bf2b310ec2dc1c3e7c56604f3c9fad6613c9850089543db1e452d7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
