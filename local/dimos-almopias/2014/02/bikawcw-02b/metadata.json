@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΚΑΩΨΩ-02Β",
+  "subject": "Τροποποίηση της αριθμ.232/2013 απόφασης Δημοτικού Συμβουλίου Αλμωπίας και εκ νέου έγκριση της αριθμ.09/2014 απόφασης Δ.Σ. ΚΕ.Κ.Π.-Α. περί «Τροποποίησης και εκ νέου ψήφιση της απόφασης 45/2013 περί τροποποίησης Οργανισμού Εσωτερικών Υπηρεσιών του Νομικού Προσώπου Δημοσίου Δικαίου «Κέντρο Κοινωνικής Προστασίας –Αλληλεγγύης» Δήμου Αλμωπίας)",
+  "protocol_number": "46",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6023",
+    "label": "ΔΗΜΟΣ ΑΛΜΩΠΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85102"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-18",
+  "posted": "2014-03-11",
+  "publish_timestamp_ms": 1394524328000,
+  "version_id": "8e55b552-5211-49a0-b7b1-b8d28dc6a78d",
+  "in_force": "2014-03-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9A%CE%91%CE%A9%CE%A8%CE%A9-02%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9A%CE%91%CE%A9%CE%A8%CE%A9-02%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9A%CE%91%CE%A9%CE%A8%CE%A9-02%CE%92",
+  "listing_sha256": "d73c66ceaa491177848a5104ed556172d477324dd7bc40837d1f77583672e105",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
