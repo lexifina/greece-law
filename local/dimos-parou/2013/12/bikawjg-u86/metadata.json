@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΚΑΩΞΓ-Θ86",
+  "subject": "Συγκρότηση επιτροπής για την ευζωία των ζώων",
+  "protocol_number": "19542",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6239",
+    "label": "ΔΗΜΟΣ ΠΑΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80712"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-31",
+  "posted": "2014-03-11",
+  "publish_timestamp_ms": 1394541281000,
+  "version_id": "f785ac04-30df-4061-88e8-e56baeeb83c9",
+  "in_force": "2014-03-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9A%CE%91%CE%A9%CE%9E%CE%93-%CE%9886",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9A%CE%91%CE%A9%CE%9E%CE%93-%CE%9886/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9A%CE%91%CE%A9%CE%9E%CE%93-%CE%9886",
+  "listing_sha256": "85cebcf8868db3ac776ae63d7cf9b961adc3fdf3e5216710f8227bc382788e49",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
