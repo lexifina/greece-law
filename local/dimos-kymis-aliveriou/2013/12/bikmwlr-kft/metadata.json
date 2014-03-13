@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΚΜΩΛΡ-ΚΦΤ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ 1625 /2013 Περικοπή μισθού υπαλλήλων του Δήμου Κύμης-Αλιβερίου λόγω απεργίας.",
+  "protocol_number": "35241",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6163",
+    "label": "ΔΗΜΟΣ ΚΥΜΗΣ - ΑΛΙΒΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79708"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-20",
+  "posted": "2014-03-13",
+  "publish_timestamp_ms": 1394720458000,
+  "version_id": "bde9b639-a3b8-40bc-875d-9d34bbba53eb",
+  "in_force": "2014-03-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9A%CE%9C%CE%A9%CE%9B%CE%A1-%CE%9A%CE%A6%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9A%CE%9C%CE%A9%CE%9B%CE%A1-%CE%9A%CE%A6%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9A%CE%9C%CE%A9%CE%9B%CE%A1-%CE%9A%CE%A6%CE%A4",
+  "listing_sha256": "ca7b85858df8030806d52d2060752d34920ba80bf077d2ae7941ee48f62bccb2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
