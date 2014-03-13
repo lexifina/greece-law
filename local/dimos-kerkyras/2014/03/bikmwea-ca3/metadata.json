@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΚΜΩΕΑ-ΨΑ3",
+  "subject": "Περί μη άσκησης ανακοπής κατά διαταγών πληρωμής αριθμ. 1199/2013, 1200/2013, 1221/2013 και 1229/2013, 141/2014 και 140/2014",
+  "protocol_number": "7-1",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6147",
+    "label": "ΔΗΜΟΣ ΚΕΡΚΥΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79261"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-03-11",
+  "posted": "2014-03-13",
+  "publish_timestamp_ms": 1394694597000,
+  "version_id": "f637283b-a809-4dc7-b954-3152ea1a10e5",
+  "in_force": "2014-03-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9A%CE%9C%CE%A9%CE%95%CE%91-%CE%A8%CE%913",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9A%CE%9C%CE%A9%CE%95%CE%91-%CE%A8%CE%913/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9A%CE%9C%CE%A9%CE%95%CE%91-%CE%A8%CE%913",
+  "listing_sha256": "73c5d1718a561247a132fa9a61b780a29474fde1eb2a0faf38a98cc409439cdc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
