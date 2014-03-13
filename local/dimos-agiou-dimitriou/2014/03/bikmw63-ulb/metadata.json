@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΚΜΩ63-ΘΛΒ",
+  "subject": "Απόφαση Προέδρου έγκρισης διενέργειας της προμήθειας:  «τριών (3) φωτοτυπικών μηχανημάτων για το 3ο και 18ο Νηπιαγωγείο και 9ο Δημοτικό Σχολείο Αγίου Δημητρίου »  για το έτος 2014",
+  "protocol_number": "6",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6007",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86785"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-03-06",
+  "posted": "2014-03-13",
+  "publish_timestamp_ms": 1394694392000,
+  "version_id": "8ef5a1f9-92ca-49b7-8ef4-a705389cd10a",
+  "in_force": "2014-03-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9A%CE%9C%CE%A963-%CE%98%CE%9B%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9A%CE%9C%CE%A963-%CE%98%CE%9B%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9A%CE%9C%CE%A963-%CE%98%CE%9B%CE%92",
+  "listing_sha256": "9dd1a5ad7ce8e9f1ee011cd91ee5dd87e0ad45503ebd6151b01c9e98acd4921e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
