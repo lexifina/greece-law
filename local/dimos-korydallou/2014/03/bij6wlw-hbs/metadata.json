@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΞ6ΩΛΩ-ΗΒΣ",
+  "subject": "Απόφαση ανάληψης υποχρέωσης ύψους ΔΩΔΕΚΑ ΧΙΛΙΑΔΩΝ ΕΥΡΩ (12.000,00€) για την Προμήθεια πλαστικών μπολ για την σίτιση απόρων δημοτών",
+  "protocol_number": "11410",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6159",
+    "label": "ΔΗΜΟΣ ΚΟΡΥΔΑΛΛΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78221"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-03-18",
+  "posted": "2014-03-24",
+  "publish_timestamp_ms": 1395647127000,
+  "version_id": "2bcc3f25-737c-4262-b215-871131e7a895",
+  "in_force": "2014-03-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9E6%CE%A9%CE%9B%CE%A9-%CE%97%CE%92%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9E6%CE%A9%CE%9B%CE%A9-%CE%97%CE%92%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9E6%CE%A9%CE%9B%CE%A9-%CE%97%CE%92%CE%A3",
+  "listing_sha256": "817f74791cfe732263846ff192ba0917cf725c0fb33b885513685a0a5021864c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
