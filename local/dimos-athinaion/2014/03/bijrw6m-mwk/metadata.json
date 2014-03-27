@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΞΡΩ6Μ-ΜΩΚ",
+  "subject": "Αναβολή του θέματος για την εφαρμογή του νέου νόμου για την άδεια εγκατάστασης και \r\nλειτουργίας χώρου παραστάσεων-άδεια εγκατάστασης και άλλες διατάξεις.",
+  "protocol_number": "124765",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6013",
+    "label": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78343"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-03-26",
+  "posted": "2014-03-27",
+  "publish_timestamp_ms": 1395903379000,
+  "version_id": "b22b3be9-c79b-4b04-9218-5ed94b1c1110",
+  "in_force": "2014-03-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9E%CE%A1%CE%A96%CE%9C-%CE%9C%CE%A9%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9E%CE%A1%CE%A96%CE%9C-%CE%9C%CE%A9%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9E%CE%A1%CE%A96%CE%9C-%CE%9C%CE%A9%CE%9A",
+  "listing_sha256": "330d038bb07101bf124d9699aae3e7b05e0d09c86a54b798a28b8ec349b0d7d3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
