@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΞΕΩΕ8-ΤΓΩ",
+  "subject": "Έγκριση μετακινήσεων Δημάρχου και Δημοτικών Συμβούλων",
+  "protocol_number": "ΠΡΑΚΤΙΚΟ 5 - ΑΠΟΦΑΣΗ 33",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6152",
+    "label": "ΔΗΜΟΣ ΚΙΜΩΛΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80914"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-03-22",
+  "posted": "2014-03-28",
+  "publish_timestamp_ms": 1396022647000,
+  "version_id": "d8746c05-1afd-405f-97a5-07fde497ab45",
+  "in_force": "2014-03-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9E%CE%95%CE%A9%CE%958-%CE%A4%CE%93%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9E%CE%95%CE%A9%CE%958-%CE%A4%CE%93%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9E%CE%95%CE%A9%CE%958-%CE%A4%CE%93%CE%A9",
+  "listing_sha256": "2a1d93093517caf15ee8b6826b6419a4e4f6371c414e1fde1d1cdfcd3b181609",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
