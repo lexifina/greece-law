@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΞΕΩΗΒ-Μ7Κ",
+  "subject": "64/2014 ΑΠΟΦΑΣΗ Δ.Σ περί τοποθέτησης δύο ρυθμιστικών πινακίδων απαγόρευσης στάσης και στάθμευσης έμπροσθεν της Εθνικής Τράπεζας Ελλάδας στο Σχηματάρι",
+  "protocol_number": "5883",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6293",
+    "label": "ΔΗΜΟΣ ΤΑΝΑΓΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80657"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-03-27",
+  "posted": "2014-03-28",
+  "publish_timestamp_ms": 1395992288000,
+  "version_id": "f3586619-cce0-42fd-bb72-5d2648b709cb",
+  "in_force": "2014-03-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9E%CE%95%CE%A9%CE%97%CE%92-%CE%9C7%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9E%CE%95%CE%A9%CE%97%CE%92-%CE%9C7%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9E%CE%95%CE%A9%CE%97%CE%92-%CE%9C7%CE%9A",
+  "listing_sha256": "309fd47433e36560d8f3afefa748adfd0e2dda1a7ab788c98ee4fadc59431939",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
