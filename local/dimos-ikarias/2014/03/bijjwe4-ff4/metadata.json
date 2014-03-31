@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΞΞΩΕ4-ΦΦ4",
+  "subject": "Ορισμός πληρεξουσίου δικηγόρου",
+  "protocol_number": "22Α",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6122",
+    "label": "ΔΗΜΟΣ ΙΚΑΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84599"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-03-31",
+  "posted": "2014-03-31",
+  "publish_timestamp_ms": 1396254116000,
+  "version_id": "27eb3c7b-bc67-41f6-80e1-ccda378b2347",
+  "in_force": "2014-03-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9E%CE%9E%CE%A9%CE%954-%CE%A6%CE%A64",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9E%CE%9E%CE%A9%CE%954-%CE%A6%CE%A64/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9E%CE%9E%CE%A9%CE%954-%CE%A6%CE%A64",
+  "listing_sha256": "3a3e010ce768e98a3fccfe535d4a798109a1c24a1df94079ebd9507bf7f7a8f7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
