@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΞΞΩΛ1-9ΧΖ",
+  "subject": "ΑΠΟΦΑΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ Νο 40/2014 - Διάθεση πιστώσεων προϋπολογισμού έτους 2014, σύμφωνα με τις διατάξεις του άρθρου 72 του Ν.3852/2010",
+  "protocol_number": "6725",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6168",
+    "label": "ΔΗΜΟΣ ΛΑΥΡΕΩΤΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84234"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-03-27",
+  "posted": "2014-03-31",
+  "publish_timestamp_ms": 1396264728000,
+  "version_id": "090a5fe5-213e-4f12-992c-e16cb02f5422",
+  "in_force": "2014-03-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9E%CE%9E%CE%A9%CE%9B1-9%CE%A7%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9E%CE%9E%CE%A9%CE%9B1-9%CE%A7%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9E%CE%9E%CE%A9%CE%9B1-9%CE%A7%CE%96",
+  "listing_sha256": "4d0cd7d22364d3441ee5cc4eeb2ff14706df8d3fc2b3b849309689d5bae53464",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
