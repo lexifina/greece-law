@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΞΞΩΡ5-9ΚΖ",
+  "subject": "Εγκρίνει ομόφωνα τον καθορισμό προτεραιότητας μεταξύ των οδών Δημ. Χαρίση και Καβείρων",
+  "protocol_number": "314/2014 ΑΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91706"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΕΛΩΡ5-ΟΨΤ"
+      }
+    ]
+  },
+  "issued": "2014-03-10",
+  "posted": "2014-03-31",
+  "publish_timestamp_ms": 1396267011000,
+  "version_id": "b04eafc6-77a4-46e0-8014-81aeb040f137",
+  "in_force": "2014-03-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9E%CE%9E%CE%A9%CE%A15-9%CE%9A%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9E%CE%9E%CE%A9%CE%A15-9%CE%9A%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9E%CE%9E%CE%A9%CE%A15-9%CE%9A%CE%96",
+  "listing_sha256": "65f4d74afedf40a58bfc7eb154d55ac0b41975d7e9bc787b34d179fbb631d8c5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
