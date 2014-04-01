@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗΗ7Λ1-2ΒΨ",
+  "subject": "ΑΠΟΣΤΟΛΗ ΑΠΟΦΑΣΗΣ ΕΓΚΡΙΣΗΣ ΠΡΑΚΤΙΚΟΥ ΔΗΜΟΠΡΑΣΙΑΣ ΤΟΥ ΕΡΓΟΥ \"ΚΑΤΑΣΚΕΥΗ ΝΟΣΗΛΕΥΤΙΚΗΣ ΜΟΝΑΔΑΣ 19 ΚΛΙΝΩΝ ΣΤΟ ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΣΠΑΡΤΗΣ\"",
+  "protocol_number": "2672",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5012",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80265"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-01",
+  "posted": "2014-04-01",
+  "publish_timestamp_ms": 1396334260000,
+  "version_id": "8520ddc1-8886-4fb9-9e0f-712c88255e80",
+  "in_force": "2014-04-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%977%CE%9B1-2%CE%92%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%977%CE%9B1-2%CE%92%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%97%CE%977%CE%9B1-2%CE%92%CE%A8",
+  "listing_sha256": "8cc1335b112482b9c63105c0f3fb3c961580aef068bec04b6385b45aac5b90de",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
