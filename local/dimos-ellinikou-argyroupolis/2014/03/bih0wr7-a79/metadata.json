@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗ0ΩΡ7-Α79",
+  "subject": "ΔΙΑΓΡΑΦΗ ΜΕΡΟΣ ΚΑΤΑΛΟΓΟΥ ΑΠΟ ΠΡΟΣΤΙΜΑ ΚΟΚ",
+  "protocol_number": "90",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6090",
+    "label": "ΔΗΜΟΣ ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81670"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-03-31",
+  "posted": "2014-04-02",
+  "publish_timestamp_ms": 1396429077000,
+  "version_id": "7c4cc7c0-b4a4-43f2-a159-a3da036812e3",
+  "in_force": "2014-04-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%970%CE%A9%CE%A17-%CE%9179",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%970%CE%A9%CE%A17-%CE%9179/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%970%CE%A9%CE%A17-%CE%9179",
+  "listing_sha256": "63c06cfbacbe54772f187d9869aed43c983e4e7620ae5586c57cf820ced3977a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
