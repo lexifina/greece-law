@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗ07ΛΚ-ΔΔΓ",
+  "subject": "Περιφερειακό Διαδυκτιακό Πληροφορικό Σύστημα Υπηρεσιών Υγείας και Πρόνοιας Κρήτης.",
+  "protocol_number": "16/2014 απόφαση Περιφερειακού Συμβουλίου (πρακτικό Νο 3/27-2-2014)",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "84340"
+  ],
+  "thematic_category_ids": [
+    "28",
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-27",
+  "posted": "2014-04-02",
+  "publish_timestamp_ms": 1396435461000,
+  "version_id": "cce41736-daa9-4055-be72-3ab4364c6cfb",
+  "in_force": "2014-04-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9707%CE%9B%CE%9A-%CE%94%CE%94%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%9707%CE%9B%CE%9A-%CE%94%CE%94%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%9707%CE%9B%CE%9A-%CE%94%CE%94%CE%93",
+  "listing_sha256": "ab5c05962b7efea59767e31ab9b40fc4477ec8522df7fb2ee0b64e763de17dcf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
