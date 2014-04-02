@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗ0ΩΗΖ-ΟΘ5",
+  "subject": "(135/2014 ) .Ψήφιση πίστωσης ποσού 2.515,29 € για την εκτέλεση δικαστικής απόφασης σε βάρος του ΚΑ 80.8112.1000 με τίτλο «Αμοιβές αιρετών αρχόντων και τρίτων (ΠΟΕ)». ΠΑΔ 353/26-03-2014.",
+  "protocol_number": "135/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6323",
+    "label": "ΔΗΜΟΣ ΩΡΑΙΟΚΑΣΤΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84883"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-03-27",
+  "posted": "2014-04-02",
+  "publish_timestamp_ms": 1396439063000,
+  "version_id": "46537613-e26c-4d13-a37d-010630d06645",
+  "in_force": "2014-04-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%970%CE%A9%CE%97%CE%96-%CE%9F%CE%985",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%970%CE%A9%CE%97%CE%96-%CE%9F%CE%985/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%970%CE%A9%CE%97%CE%96-%CE%9F%CE%985",
+  "listing_sha256": "965908bedd4faf876967ae8f157772ba274117505066f50afcc16a757c7ca030",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
