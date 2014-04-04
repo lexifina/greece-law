@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗΦ7ΛΕ-1ΤΩ",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ",
+  "protocol_number": "33253/5692",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5008",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΙΟΝΙΩΝ ΝΗΣΩΝ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78206"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-04",
+  "posted": "2014-04-04",
+  "publish_timestamp_ms": 1396592995000,
+  "version_id": "c6fc7f5b-2097-4d88-87e2-70a2676056ec",
+  "in_force": "2014-04-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%A67%CE%9B%CE%95-1%CE%A4%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%A67%CE%9B%CE%95-1%CE%A4%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%97%CE%A67%CE%9B%CE%95-1%CE%A4%CE%A9",
+  "listing_sha256": "e378f0c3262fb17ac7fcb86bb6dd14c9c0432acc44b439c2286d9035f640e5fd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
