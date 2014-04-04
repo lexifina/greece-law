@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗΦΩΗΖ-ΓΣ8",
+  "subject": "(ΑΔΣ    122  /2014) Έγκριση παραλαβής της μελέτης «Κατασκευή κόμβου στη Γαλήνη (Συγκοινωνιακά)»,\r\n (Α.Μ 33/2013) που συνέταξε η μελετήτρια Γριβάκη Γεωργία, η οποία εγκρίθηκε με την υπ’ αριθμ. ΤΥ 152/14-3-2014 απόφαση του Αναπληρωτή \r\nΠροϊσταμένου του Τμήματος Η/Μ Έργων & Συγκοινωνιών και βεβαιώθηκε για την εκπόνησή της με την από 14-3-2014 βεβαίωση του ιδίου Τμήματος.",
+  "protocol_number": "122",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6323",
+    "label": "ΔΗΜΟΣ ΩΡΑΙΟΚΑΣΤΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83567"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛΓΕΩΗΖ-ΣΨΘ"
+      }
+    ]
+  },
+  "issued": "2014-04-04",
+  "posted": "2014-04-04",
+  "publish_timestamp_ms": 1396598569000,
+  "version_id": "95780f06-2ca3-403b-878e-4d6dd70f7ed6",
+  "in_force": "2014-04-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%A6%CE%A9%CE%97%CE%96-%CE%93%CE%A38",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%A6%CE%A9%CE%97%CE%96-%CE%93%CE%A38/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%97%CE%A6%CE%A9%CE%97%CE%96-%CE%93%CE%A38",
+  "listing_sha256": "eddee42cdee966314c8288f3241f4c0b9d5c300744cb0af75c7c8cb82bda17dd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
