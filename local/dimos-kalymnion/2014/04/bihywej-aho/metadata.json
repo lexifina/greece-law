@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗΥΩΕΞ-ΑΗΟ",
+  "subject": "Διάθεση πίστωσης για Συντήρηση και Βελτίωση Χώρων Πρασίνου.",
+  "protocol_number": "102",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6133",
+    "label": "ΔΗΜΟΣ ΚΑΛΥΜΝΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83501"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-04",
+  "posted": "2014-04-07",
+  "publish_timestamp_ms": 1396863412000,
+  "version_id": "9fc63b95-9e10-4819-9096-957789b74817",
+  "in_force": "2014-04-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%A5%CE%A9%CE%95%CE%9E-%CE%91%CE%97%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%A5%CE%A9%CE%95%CE%9E-%CE%91%CE%97%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%97%CE%A5%CE%A9%CE%95%CE%9E-%CE%91%CE%97%CE%9F",
+  "listing_sha256": "0f4cc2c5588be51b1d874b18b79a5f9fa9689360fec5195e0dd689da345db865",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
