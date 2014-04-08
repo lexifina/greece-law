@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗΤΩΞ2-4ΔΙ",
+  "subject": "ΕΓΚΡΙΣΗ ΠΙΣΤΩΣΗΣ 13000 ΕΥΡΩ ΓΙΑ ΤΗΝ ΕΚΠΟΝΗΣΗ ΤΗΣ ΜΕΛΕΤΗΣ .",
+  "protocol_number": "190",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78044"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-03",
+  "posted": "2014-04-08",
+  "publish_timestamp_ms": 1396931933000,
+  "version_id": "b3bb1a06-ee00-4852-949b-ac029fdcf973",
+  "in_force": "2014-04-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%A4%CE%A9%CE%9E2-4%CE%94%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%A4%CE%A9%CE%9E2-4%CE%94%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%97%CE%A4%CE%A9%CE%9E2-4%CE%94%CE%99",
+  "listing_sha256": "18d301bedc8dbf3e71552d87ca9a24f217522495a841ab65d1d28828934691b1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
