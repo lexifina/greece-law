@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗ3ΩΕ2-ΝΒ4",
+  "subject": "Περί έγκρισης μελέτης: «Εγκατάσταση δομημένης καλωδίωσης σε δημοτικά κτήρια των ΔΕ Αγνάντων-Μελισσουργών»",
+  "protocol_number": "87",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6145",
+    "label": "ΔΗΜΟΣ ΚΕΝΤΡΙΚΩΝ ΤΖΟΥΜΕΡΚΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83672"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΞΟΩΕ2-Γ16"
+      }
+    ]
+  },
+  "issued": "2014-03-14",
+  "posted": "2014-04-09",
+  "publish_timestamp_ms": 1397025340000,
+  "version_id": "474e0f7e-05c9-4901-8c4f-6ed1855b3e55",
+  "in_force": "2014-04-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%973%CE%A9%CE%952-%CE%9D%CE%924",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%973%CE%A9%CE%952-%CE%9D%CE%924/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%973%CE%A9%CE%952-%CE%9D%CE%924",
+  "listing_sha256": "e96fa038854839ab0087eda599d18512cd01a90f457f33ee8222b200e30f4532",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
