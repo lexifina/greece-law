@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗΔΗ-ΓΑ9",
+  "subject": "ΤΥΠΟΣ ΟΡΟΣΤΙΚΗΣ ΠΡΑΞΗΣ ΔΙΟΡΘΩΤΙΚΟΥ ΠΡΟΣΔΙΟΡΙΣΜΟΥ ΦΟΡΟΥ ΕΙΣΟΔΗΜΑΤΟΣ ΓΙΑ ΤΑ ΠΡΟΣΩΠΑ ΤΗΣ ΠΑΡΑΓΡΑΦΟΥ 1 ΤΟΥ ΑΡΘΡΟΥ 101 ΤΟΥ Ν.2238/1994 ( ΦΕΚ 15Α΄), ΠΟΥ ΔΕΝ ΕΦΑΡΜΟΖΟΥΝ ΤΑ Δ.Λ.Π. ΓΙΑ ΕΙΣΟΔΗΜΑΤΑ ΠΟΥ ΑΠΑΕΚΤΗΣΑΝ ΜΕΧΡΙ ΚΑΙ ΤΟ ΟΙΚΟΝΟΜ8ΙΚΟ ΕΤΟΣ 2014   ( ΕΚΤΟΣ ΑΠΟ ΤΡΑΠΕΖΙΚΕΣ ΚΑΙ ΑΣΦΑΛΙΣΤΙΚΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ ΓΙΑ ΕΙΣΟΔΗΜΑΤΑ ΠΟΥ ΑΠΕΚΤΗΣΑΝ ΜΕΧΡΙ ΚΑΙ ΤΟ ΟΙΚΟΝΟΜΙΚΟ ΕΤΟΣ 2013)",
+  "protocol_number": "ΔΕΛ Α 1055438 ΕΞ 2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70116"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2014,
+      "aa": "873"
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-01",
+  "posted": "2014-04-10",
+  "publish_timestamp_ms": 1397120202000,
+  "version_id": "5c033cb6-b394-46ec-9e1d-663f3853ff91",
+  "in_force": "2014-04-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%94%CE%97-%CE%93%CE%919",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%94%CE%97-%CE%93%CE%919/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%97%CE%94%CE%97-%CE%93%CE%919",
+  "listing_sha256": "cfd38dd72c48e8f623abda419e0ccb31c3f48a573520a71b516871b1d0792b49",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
