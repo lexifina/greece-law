@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗΔΩΗΔ-ΙΩ1",
+  "subject": "Συζήτηση και λήψη απόφασης για έγκριση καταβολής στην Κοινωφελή Δημοτική Επιχείρηση Χαλανδρίου (πρώην ΔΕΠΑΧ) ποσού 45.000,00 € προκειμένου η επιχείρηση να ανταποκριθεί στις ταμειακές ανάγκες",
+  "protocol_number": "116/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6314",
+    "label": "ΔΗΜΟΣ ΧΑΛΑΝΔΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79311"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-09",
+  "posted": "2014-04-10",
+  "publish_timestamp_ms": 1397130489000,
+  "version_id": "0c566fb2-7a11-4262-8f0f-48041ea8995e",
+  "in_force": "2014-04-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%94%CE%A9%CE%97%CE%94-%CE%99%CE%A91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%94%CE%A9%CE%97%CE%94-%CE%99%CE%A91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%97%CE%94%CE%A9%CE%97%CE%94-%CE%99%CE%A91",
+  "listing_sha256": "307c840004579009c0a9fc7860ce4ce3a4778a1501084d51dffcc9db53f9e9bf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
