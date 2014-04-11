@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗ2ΩΕ4-2Α2",
+  "subject": "ANATΡΟΠΗ ΑΝΑΛΗΨΕΩΝ",
+  "protocol_number": "15282.1",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6122",
+    "label": "ΔΗΜΟΣ ΙΚΑΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84599"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-31",
+  "posted": "2014-04-11",
+  "publish_timestamp_ms": 1397203514000,
+  "version_id": "98a7ba03-7401-46b1-bf9d-b03e3f69a4ce",
+  "in_force": "2014-04-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%972%CE%A9%CE%954-2%CE%912",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%972%CE%A9%CE%954-2%CE%912/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%972%CE%A9%CE%954-2%CE%912",
+  "listing_sha256": "85cebcf8868db3ac776ae63d7cf9b961adc3fdf3e5216710f8227bc382788e49",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
