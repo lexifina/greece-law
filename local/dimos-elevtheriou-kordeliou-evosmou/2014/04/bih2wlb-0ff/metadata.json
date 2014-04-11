@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗ2ΩΛΒ-0ΦΦ",
+  "subject": "Έγκριση αποδοχής καταβολής τόκων υπερημερίας στην εταιρία ΒΟΡΡΑΣ\r\nΑ.Τ.Ε ανάδοχος του έργου «Ανακατασκευή οδών –Διαμόρφωση πεζοδρόμων» με\r\nαρ.μελ.12/07.",
+  "protocol_number": "-",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6157",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΘΕΡΙΟΥ ΚΟΡΔΕΛΙΟΥ ΕΥΟΣΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83945"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β440ΩΛΒ-501"
+      },
+      {
+        "relatedDecisionsADA": "Β41ΞΩΛΒ-ΨΓ9"
+      }
+    ]
+  },
+  "issued": "2014-04-08",
+  "posted": "2014-04-11",
+  "publish_timestamp_ms": 1397192659000,
+  "version_id": "92312c7c-e7dd-4fab-bf4d-b80f1385c832",
+  "in_force": "2014-04-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%972%CE%A9%CE%9B%CE%92-0%CE%A6%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%972%CE%A9%CE%9B%CE%92-0%CE%A6%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%972%CE%A9%CE%9B%CE%92-0%CE%A6%CE%A6",
+  "listing_sha256": "15a30c953c70ecf0d3be25f79bb61bfdbad5e794b13213661b008a56c5ab6b91",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
