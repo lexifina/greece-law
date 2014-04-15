@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗΜΩΨΧ-ΩΓΣ",
+  "subject": "ΑΠΟΦΑΣΗ Ο.Ε. ΜΕ ΘΕΜΑ: Έγκριση τευχών δημοπράτησης του έργου: «Δίκτυο Άρδευσης του οικισμού Λιβάδι του Δήμου Αστυπάλαιας»",
+  "protocol_number": "26",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6049",
+    "label": "ΔΗΜΟΣ ΑΣΤΥΠΑΛΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86045"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-14",
+  "posted": "2014-04-15",
+  "publish_timestamp_ms": 1397587235000,
+  "version_id": "64287b67-0b0a-4d8d-a71d-1c3eb3a0ed13",
+  "in_force": "2014-04-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%9C%CE%A9%CE%A8%CE%A7-%CE%A9%CE%93%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%9C%CE%A9%CE%A8%CE%A7-%CE%A9%CE%93%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%97%CE%9C%CE%A9%CE%A8%CE%A7-%CE%A9%CE%93%CE%A3",
+  "listing_sha256": "16c6542f5236c067f7d3e291accce294c95c1c2af5505986882c1be027b7b041",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
