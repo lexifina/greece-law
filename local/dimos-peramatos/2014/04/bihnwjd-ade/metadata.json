@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗΝΩΞΔ-ΑΔΕ",
+  "subject": "Έγκριση διάθεσης πίστωσης ποσού 76,26 € με ΦΠΑ σε βάρος του ΚΑ 20-7131.0001 για αγορά 2 φιάλες Οξυγόνου και 1 φιάλη Ασετιλίνη για την επισκευή του JCB του Δήμου .",
+  "protocol_number": "9510/4281/15-4-2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6246",
+    "label": "ΔΗΜΟΣ ΠΕΡΑΜΑΤΟΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82509"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-08",
+  "posted": "2014-04-16",
+  "publish_timestamp_ms": 1397636060000,
+  "version_id": "c072109d-fb43-437a-90a6-d5f2a6514ba9",
+  "in_force": "2014-04-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%9D%CE%A9%CE%9E%CE%94-%CE%91%CE%94%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%9D%CE%A9%CE%9E%CE%94-%CE%91%CE%94%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%97%CE%9D%CE%A9%CE%9E%CE%94-%CE%91%CE%94%CE%95",
+  "listing_sha256": "a281267f24a5f7f710902c31a8e3c63ee42ee9e7aa557ceb05dda51c3d2b7090",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
