@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗΧΩ9Α-ΛΩΡ",
+  "subject": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΓΙΑ ΔΙΕΝΕΡΓΕΙΑ ΤΗΣ ΕΚΔΗΛΩΣΗΣ ΓΙΑ ΕΟΡΤΑΣΜΟ ΤΗΣ ΑΠΟΚΡΙΑΣ ΚΑΙ ΤΗΣ ΚΑΘΑΡΑΣ ΔΕΥΤΕΡΑΣ 2014",
+  "protocol_number": "357",
+  "decision_type": {
+    "uid": "Α.4",
+    "label": "ΓΝΩΜΟΔΟΤΗΣΗ"
+  },
+  "organization": {
+    "uid": "6079",
+    "label": "ΔΗΜΟΣ ΔΟΜΟΚΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88460"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-11",
+  "posted": "2014-04-17",
+  "publish_timestamp_ms": 1397712734000,
+  "version_id": "b2dd3820-930f-4e23-85fc-f25c1b8c1696",
+  "in_force": "2014-04-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%A7%CE%A99%CE%91-%CE%9B%CE%A9%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%A7%CE%A99%CE%91-%CE%9B%CE%A9%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%97%CE%A7%CE%A99%CE%91-%CE%9B%CE%A9%CE%A1",
+  "listing_sha256": "6f8fc4577ebe54b807538ef8f992854be430109fc52a9277c32707c27e98c59a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
