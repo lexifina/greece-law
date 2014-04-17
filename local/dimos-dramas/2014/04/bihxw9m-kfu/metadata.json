@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΗΧΩ9Μ-ΚΦΘ",
+  "subject": "Εξέταση αιτήματος διαγραφής οφειλής από χρηματικό κατάλογο λόγω επιβολής προστίμου για κατάληψη κοινόχρηστου χώρου",
+  "protocol_number": "196/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79156"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-14",
+  "posted": "2014-04-17",
+  "publish_timestamp_ms": 1397726100000,
+  "version_id": "edb88a33-cb0b-4bd4-98d9-b77d9a754d8a",
+  "in_force": "2014-04-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%A7%CE%A99%CE%9C-%CE%9A%CE%A6%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%97%CE%A7%CE%A99%CE%9C-%CE%9A%CE%A6%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%97%CE%A7%CE%A99%CE%9C-%CE%9A%CE%A6%CE%98",
+  "listing_sha256": "16c6542f5236c067f7d3e291accce294c95c1c2af5505986882c1be027b7b041",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
