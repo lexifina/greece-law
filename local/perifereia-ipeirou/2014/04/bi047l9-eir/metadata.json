@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ047Λ9-ΕΙΡ",
+  "subject": "Έγκριση μετακίνησης μαθητών",
+  "protocol_number": "42584/931",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5006",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81276"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-22",
+  "posted": "2014-04-22",
+  "publish_timestamp_ms": 1398158552000,
+  "version_id": "7f797af1-8bed-4463-92c5-826ba2b884bc",
+  "in_force": "2014-04-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99047%CE%9B9-%CE%95%CE%99%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99047%CE%9B9-%CE%95%CE%99%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99047%CE%9B9-%CE%95%CE%99%CE%A1",
+  "listing_sha256": "c5d84c16fd34e9bf4b600a6a005001a8ca7c74604c86be4a3878f3f904d50013",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
