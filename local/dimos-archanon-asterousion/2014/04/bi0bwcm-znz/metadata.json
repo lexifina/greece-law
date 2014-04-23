@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ0ΒΩΨΜ-ΖΝΖ",
+  "subject": "Απόφαση Οικονομικής Επιτροπής (137/2014): \"Καθορισμός όρων πρόχειρου διαγωνισμού για αποφράξεις αποχετευτικών αγωγών\"",
+  "protocol_number": "137",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6047",
+    "label": "ΔΗΜΟΣ ΑΡΧΑΝΩΝ - ΑΣΤΕΡΟΥΣΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80138"
+  ],
+  "thematic_category_ids": [
+    "24",
+    "40",
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-15",
+  "posted": "2014-04-23",
+  "publish_timestamp_ms": 1398251104000,
+  "version_id": "ef67fea5-3b4b-41e9-83ed-a803dcc00a50",
+  "in_force": "2014-04-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%92%CE%A9%CE%A8%CE%9C-%CE%96%CE%9D%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%92%CE%A9%CE%A8%CE%9C-%CE%96%CE%9D%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%990%CE%92%CE%A9%CE%A8%CE%9C-%CE%96%CE%9D%CE%96",
+  "listing_sha256": "c59e25b608da961e95810f59370c9e8578707f624921dabf132cec6cdd321377",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
