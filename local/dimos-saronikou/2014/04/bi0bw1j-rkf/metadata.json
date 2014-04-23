@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ0ΒΩ1Ξ-ΡΚΦ",
+  "subject": "ΔΙΑΠΙΣΤΩΤΙΚΗ ΠΡΑΞΗ ΘΕΣΗΣ ΣΕ ΔΙΑΘΕΣΙΟΤΗΤΑ ΥΠΑΛΛΗΛΟΥ ΛΟΓΩ ΜΕΤΑΤΑΞΗΣ",
+  "protocol_number": "8229",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6269",
+    "label": "ΔΗΜΟΣ ΣΑΡΩΝΙΚΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79387"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2014,
+      "aa": "475"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-16",
+  "posted": "2014-04-23",
+  "publish_timestamp_ms": 1398249733000,
+  "version_id": "f1d24fa2-9dfe-411f-a5a2-851e25110ebf",
+  "in_force": "2014-04-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%92%CE%A91%CE%9E-%CE%A1%CE%9A%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%92%CE%A91%CE%9E-%CE%A1%CE%9A%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%990%CE%92%CE%A91%CE%9E-%CE%A1%CE%9A%CE%A6",
+  "listing_sha256": "a4cb763cb14e0cef66e613a7cdb4cf44adfdd0ce4f2c21432b6fb77ea7e8131a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
