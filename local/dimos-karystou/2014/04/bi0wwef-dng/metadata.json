@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ0ΩΩΕΦ-ΔΝΓ",
+  "subject": "Απόφαση 136-2014 Δημοτικού Συμβουλίου με θέμα \"Έγκριση έκθεσης Οικονομικής Επιτροπής Δ’ τριμήνου 2013 σχετικά με την υλοποίηση του Προϋπολογισμού",
+  "protocol_number": "6108/24-4-2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6138",
+    "label": "ΔΗΜΟΣ ΚΑΡΥΣΤΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81908"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-17",
+  "posted": "2014-04-25",
+  "publish_timestamp_ms": 1398424770000,
+  "version_id": "0cd44b9c-9021-44b7-99d9-1e2f88e54c13",
+  "in_force": "2014-04-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%A9%CE%A9%CE%95%CE%A6-%CE%94%CE%9D%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%A9%CE%A9%CE%95%CE%A6-%CE%94%CE%9D%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%990%CE%A9%CE%A9%CE%95%CE%A6-%CE%94%CE%9D%CE%93",
+  "listing_sha256": "72567d94942c96db543f33c65740db2d56d45e85a914710671d47ba9d290bc3b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
