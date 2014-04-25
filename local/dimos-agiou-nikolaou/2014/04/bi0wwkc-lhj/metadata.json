@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ0ΩΩΚΨ-ΛΗΞ",
+  "subject": "Εξέταση της αρ. 7549/9-4-2014 ένστασης του Πολυμίλη Κωνσταντίνου σχετικά με την Προμήθεια Οργάνων Παιδικών Χαρών 2014",
+  "protocol_number": "8501",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6195",
+    "label": "ΔΗΜΟΣ AΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81923"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΗ0ΩΚΨ-Γ6Ψ"
+      }
+    ]
+  },
+  "issued": "2014-04-24",
+  "posted": "2014-04-25",
+  "publish_timestamp_ms": 1398406279000,
+  "version_id": "bd63576f-96e3-4d9a-98db-79cd872e6a36",
+  "in_force": "2014-04-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%A9%CE%A9%CE%9A%CE%A8-%CE%9B%CE%97%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%A9%CE%A9%CE%9A%CE%A8-%CE%9B%CE%97%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%990%CE%A9%CE%A9%CE%9A%CE%A8-%CE%9B%CE%97%CE%9E",
+  "listing_sha256": "e92e70e75289e672c47a8dd521708eac3b82e2dfb9e774e65b33a924f36dd78d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
