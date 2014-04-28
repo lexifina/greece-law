@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ09ΩΡΩ-ΜΩΝ",
+  "subject": "«Έγκριση τεχνικών προδιαγραφών, καθορισμός τρόπου εκτέλεσης και ψήφιση πίστωσης της \r\nπρομήθειας αδρανών υλικών ποσού 6.000,00 €»",
+  "protocol_number": "57",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6091",
+    "label": "ΔΗΜΟΣ ΕΜΜΑΝΟΥΗΛ ΠΑΠΠΑ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82019"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-10",
+  "posted": "2014-04-28",
+  "publish_timestamp_ms": 1398682137000,
+  "version_id": "40292cb0-4be9-4e7e-bf4a-422bfa2810bc",
+  "in_force": "2014-04-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9909%CE%A9%CE%A1%CE%A9-%CE%9C%CE%A9%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9909%CE%A9%CE%A1%CE%A9-%CE%9C%CE%A9%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9909%CE%A9%CE%A1%CE%A9-%CE%9C%CE%A9%CE%9D",
+  "listing_sha256": "5db976d18c6233abd0b0c95c96b4843f99166ba4187dcc66225207b9f31c640e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
