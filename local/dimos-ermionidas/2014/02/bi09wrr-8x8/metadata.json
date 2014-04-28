@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ09ΩΡΡ-8Χ8",
+  "subject": "ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΔΗΜΑΡΧΟΥ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΑΝΤΑΛΛΑΚΤΙΚΩΝ, ΕΠΙΠΛΩΝ, ΣΚΕΥΩΝ ΚΑΙ ΛΟΙΠΟΥ ΕΞΟΠΛΙΣΜΟΥ ΓΙΑ ΤΟΝ ΔΗΜΟ ΕΡΜΙΟΝΙΔΑΣ",
+  "protocol_number": "22",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6095",
+    "label": "ΔΗΜΟΣ ΕΡΜΙΟΝΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81515"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-04",
+  "posted": "2014-04-28",
+  "publish_timestamp_ms": 1398683447000,
+  "version_id": "28a26b09-d66e-4a4e-9428-5c8efd9af7af",
+  "in_force": "2014-04-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9909%CE%A9%CE%A1%CE%A1-8%CE%A78",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9909%CE%A9%CE%A1%CE%A1-8%CE%A78/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9909%CE%A9%CE%A1%CE%A1-8%CE%A78",
+  "listing_sha256": "4a24ef2c3befbd09dfbfdbe2e9161d230b0066502bdb1883e58be19957eecfe5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
