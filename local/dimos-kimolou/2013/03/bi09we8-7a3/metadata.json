@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ09ΩΕ8-7Α3",
+  "subject": "Λήψη απόφασης διάθεσης πίστωσης «για Ασφάλιστρα Δημοτικών οχημάτων (Λυματοφόρο).»",
+  "protocol_number": "Πρακτικό 1 Απόφαση 21 Ο.Ε..",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6152",
+    "label": "ΔΗΜΟΣ ΚΙΜΩΛΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80912"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-03-22",
+  "posted": "2014-04-28",
+  "publish_timestamp_ms": 1398700856000,
+  "version_id": "901d658c-58ab-48ec-a75d-cb117cb9c38b",
+  "in_force": "2014-04-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9909%CE%A9%CE%958-7%CE%913",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9909%CE%A9%CE%958-7%CE%913/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9909%CE%A9%CE%958-7%CE%913",
+  "listing_sha256": "c134be2999b2ee136a50f26932549885c7cb3525d8ca6b19f7b2db2b62a85d73",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
