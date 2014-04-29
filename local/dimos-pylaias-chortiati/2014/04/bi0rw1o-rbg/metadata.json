@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ0ΡΩ1Ο-ΡΒΓ",
+  "subject": "Άδεια  Παραχώρησης  Κοινόχρηστου  Χώρου  για  Στάθμευση Φορτηγού Οχήματος με αριθμ. κυκλοφορίας  ΝΗΜ – 9200 , επί της οδού  ΥΔΡΑΓΩΓΕΙΟΥ-αρ. 06  με  διαστάσεις  2,0 x 8,0 m για  την  εξυπηρέτηση  ΔΥΟ  υπερήλικων  ατόμων  με  κινητικές  δυσκολίες  στην  Δημοτική  Ενότητα  ΠΑΝΟΡΑΜΑΤΟΣ",
+  "protocol_number": "17881",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6257",
+    "label": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80520"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-24",
+  "posted": "2014-04-29",
+  "publish_timestamp_ms": 1398754520000,
+  "version_id": "65a02d02-cc43-42f4-8a95-1a784e0866f9",
+  "in_force": "2014-04-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%A1%CE%A91%CE%9F-%CE%A1%CE%92%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%A1%CE%A91%CE%9F-%CE%A1%CE%92%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%990%CE%A1%CE%A91%CE%9F-%CE%A1%CE%92%CE%93",
+  "listing_sha256": "9ba702a9321fa4b98a1fe6aa657ecea0acc00bf9a82a16c41b314d76b257b9cd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
