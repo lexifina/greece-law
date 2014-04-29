@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ0ΡΩΞΒ-ΡΒ7",
+  "subject": "Αποδοχή έκθεσης εκκαθάρισης της Αναπτυξιακής Νέας Ορεστιάδας – Αναπτυξιακή Ανώνυμη Εταιρεία ΟΤΑ σύμφωνα με τις διατάξεις του Ν.3852/2010",
+  "protocol_number": "184/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6225",
+    "label": "ΔΗΜΟΣ ΟΡΕΣΤΙΑΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79399"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-17",
+  "posted": "2014-04-29",
+  "publish_timestamp_ms": 1398768762000,
+  "version_id": "b20c5767-299b-40bb-b42b-3796d51b32fc",
+  "in_force": "2014-04-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%A1%CE%A9%CE%9E%CE%92-%CE%A1%CE%927",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%A1%CE%A9%CE%9E%CE%92-%CE%A1%CE%927/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%990%CE%A1%CE%A9%CE%9E%CE%92-%CE%A1%CE%927",
+  "listing_sha256": "ca324c06ff778d3b81749cec511e8aa4eb2eba6fa39a2caa35015c2cff8fd0f5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
