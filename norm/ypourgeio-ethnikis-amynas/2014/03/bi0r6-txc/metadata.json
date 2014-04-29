@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ0Ρ6-ΤΧΨ",
+  "subject": "Επιχορήγηση του Ταμείου Αλληλοβοηθείας Υπαλλήλων Μετοχικού Ταμείου Στρατού (ΤΑΥ/ΜΤΣ) από το Νοσηλευτικό Ίδρυμα Μετοχικού Ταμείου Στρατού (ΝΙΜΙΤΣ), για το έτος 2013",
+  "protocol_number": "842474",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2014,
+      "aa": "928"
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-03-17",
+  "posted": "2014-04-29",
+  "publish_timestamp_ms": 1398763585000,
+  "version_id": "8b24b980-66b4-4ccb-8f33-7eec36c8219a",
+  "in_force": "2014-04-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%A16-%CE%A4%CE%A7%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%A16-%CE%A4%CE%A7%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%990%CE%A16-%CE%A4%CE%A7%CE%A8",
+  "listing_sha256": "282db6b5f5a554d19657b141080395322e0bdab4e2281db49fdfbedd70531790",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
