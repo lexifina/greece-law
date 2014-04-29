@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ0ΡΩΛΙ-2ΤΗ",
+  "subject": "Απόφαση της Οικονομικής για αποδοχή ποσού σαράντα χιλιάδων ευρώ (40.000,00 ευρώ) από την εταιρεία «DELCO Ε.Π.Ε. – Ν. ΔΕΛΗΓΙΑΝΝΙΔΗΣ & ΣΙΑ» για τις ανάγκες του Δήμου",
+  "protocol_number": "115/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6173",
+    "label": "ΔΗΜΟΣ ΛΕΥΚΑΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84369"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-15",
+  "posted": "2014-04-29",
+  "publish_timestamp_ms": 1398769070000,
+  "version_id": "179c6249-a969-4c14-b401-87f2a77e384d",
+  "in_force": "2014-04-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%A1%CE%A9%CE%9B%CE%99-2%CE%A4%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%A1%CE%A9%CE%9B%CE%99-2%CE%A4%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%990%CE%A1%CE%A9%CE%9B%CE%99-2%CE%A4%CE%97",
+  "listing_sha256": "452242e7ac5c7ccf8c85ded7a30c5b1331bd9e458f3c0e30e7bf1b2bac05322a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
