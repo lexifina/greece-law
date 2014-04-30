@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ0ΕΩΕΑ-Π9Β",
+  "subject": "Λήψη Αποφάσεως περί εγκρίσεως διαθέσεως πιστώσεως για την επιστροφή ποσού στην κ. Σμπόνια Βασιλική του Σταύρου ως αχρεωστήτως καταβληθέντος",
+  "protocol_number": "10-172",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6147",
+    "label": "ΔΗΜΟΣ ΚΕΡΚΥΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83170"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-03",
+  "posted": "2014-04-30",
+  "publish_timestamp_ms": 1398844204000,
+  "version_id": "53dee20e-07f1-4b13-8fda-99471494531a",
+  "in_force": "2014-04-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%95%CE%A9%CE%95%CE%91-%CE%A09%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%95%CE%A9%CE%95%CE%91-%CE%A09%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%990%CE%95%CE%A9%CE%95%CE%91-%CE%A09%CE%92",
+  "listing_sha256": "ac4c516f195fd289ed9b00ba66a960fed7b77127894dcdb008841c68aa318057",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
