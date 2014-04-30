@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ0ΕΩΡΠ-ΨΘ5",
+  "subject": "ΔΙΑΓΡΑΦΕΣ ΠΟΣΩΝ ΚΑΙ ΕΠΙΣΤΡΟΦΕΣ ΧΡΗΜΑΤΩΝ ΑΠΟ ΦΟΡΟΛΟΓΙΚΟΥΣ ΚΑΤΑΛΟΓΟΥΣ ΤΗΣ Δ.Ε. ΒΕΓΟΡΙΤΙΔΑΣ ΚΑΙ ΕΠΙΣΤΡΟΦΕΣ ΧΡΗΜΑΤΩΝ ΩΣ ΑΧΡΕΩΣΤΗΤΩΣ ΚΑΤΑΒΛΗΘΕΝΤΑ",
+  "protocol_number": "117",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6086",
+    "label": "ΔΗΜΟΣ ΕΔΕΣΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83436"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "24",
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-16",
+  "posted": "2014-04-30",
+  "publish_timestamp_ms": 1398836927000,
+  "version_id": "320dade5-4b11-4aaf-a23d-2f570d04eb10",
+  "in_force": "2014-04-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%95%CE%A9%CE%A1%CE%A0-%CE%A8%CE%985",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%95%CE%A9%CE%A1%CE%A0-%CE%A8%CE%985/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%990%CE%95%CE%A9%CE%A1%CE%A0-%CE%A8%CE%985",
+  "listing_sha256": "9cdbccf933bfc7cc550bc122c854bb018b47c9b7b4d6083c471e2394d289304d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
