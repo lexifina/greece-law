@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ0ΕΩΗΙ-ΚΔΡ",
+  "subject": "ΑΔΣ 203/2014 «Έγκριση της υπ. αριθμ. 50/2014 απόφασης Δ.Σ. του Ν.Π.Δ.Δ. Κοινωνικής Προστασίας και Αλληλεγγύης, Πολιτισμού και Αθλητισμού Δήμου Φλώρινας σχετικά με την Δ΄ τροποποίηση του προϋπολογισμού οικονομικού έτους 2014 του Ν.Π.Δ.Δ. Κοινωνικής Προστασίας και Αλληλεγγύης, Πολιτισμού και Αθλητισμού Δήμου Φλώρινας».",
+  "protocol_number": "276",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82904"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΗ2ΩΗΙ-ΠΤΑ"
+      }
+    ]
+  },
+  "issued": "2014-04-30",
+  "posted": "2014-04-30",
+  "publish_timestamp_ms": 1398837871000,
+  "version_id": "7499ada0-d0db-46b9-b1a5-2483ddac8e97",
+  "in_force": "2014-04-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%95%CE%A9%CE%97%CE%99-%CE%9A%CE%94%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%95%CE%A9%CE%97%CE%99-%CE%9A%CE%94%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%990%CE%95%CE%A9%CE%97%CE%99-%CE%9A%CE%94%CE%A1",
+  "listing_sha256": "ca1b188eb30806191fe078a6fa23bc5dcc4ec0a5f85c779b0baca3e8f4a9fd83",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
