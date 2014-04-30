@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙ0ΕΩΞΑ-ΩΛΠ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ 87/2014 \"Αποδοχή χρηματοδότησης 1.725.000,00 €  από το Υπουργείο Εσωτερικών, Ελληνική Εταιρεία Τοπικής Ανάπτυξης και Αυτοδιοίκησης Α.Ε.,  για την ένταξη της πράξης «ΚΑΤΑΣΚΕΥΗ ΠΟΛΙΤΙΣΤΙΚΟΥ ΚΕΝΤΡΟΥ ΒΑΡΘΟΛΟΜΙΟΥ» με κωδικό MIS 479993 στο Επιχειρησιακό Πρόγραμμα “Δυτική Ελλάδα-Πελοπόννησος-Ιόνιοι Νήσοι”.",
+  "protocol_number": "87/2014 Δ.Σ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6249",
+    "label": "ΔΗΜΟΣ ΠΗΝΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82172"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-03-21",
+  "posted": "2014-04-30",
+  "publish_timestamp_ms": 1398842333000,
+  "version_id": "5de31aad-c7b0-469d-af22-fece36e8c5b6",
+  "in_force": "2014-04-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%95%CE%A9%CE%9E%CE%91-%CE%A9%CE%9B%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%990%CE%95%CE%A9%CE%9E%CE%91-%CE%A9%CE%9B%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%990%CE%95%CE%A9%CE%9E%CE%91-%CE%A9%CE%9B%CE%A0",
+  "listing_sha256": "b3868af41c29169aa15ec82690d3a6233f38cc036dbec972fbd2d274f0b2ff7c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
