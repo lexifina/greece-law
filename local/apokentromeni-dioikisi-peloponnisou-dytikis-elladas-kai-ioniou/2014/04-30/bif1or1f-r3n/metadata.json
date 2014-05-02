@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦ1ΟΡ1Φ-Ρ3Ν",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 32/2014 απόφασης Δημοτικού Συμβουλίου Δήμου Θέρμου",
+  "protocol_number": "48706/2361",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΗΤΩΡΑ-150"
+      },
+      {
+        "relatedDecisionsADA": "ΒΙΞ9ΟΡ1Φ-ΛΡ3"
+      },
+      {
+        "relatedDecisionsADA": "ΒΙΚΖΟΚ6Γ-ΒΘΨ"
+      }
+    ]
+  },
+  "issued": "2014-04-30",
+  "posted": "2014-05-02",
+  "publish_timestamp_ms": 1399009950000,
+  "version_id": "da4db5fe-2b5f-4144-998d-6fff3a8748ed",
+  "in_force": "2014-05-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A61%CE%9F%CE%A11%CE%A6-%CE%A13%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A61%CE%9F%CE%A11%CE%A6-%CE%A13%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A61%CE%9F%CE%A11%CE%A6-%CE%A13%CE%9D",
+  "listing_sha256": "e635760e7bc5dba3a63e93deeed6e5b33731bf2d1c7791b9cbce6b557268d94c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
