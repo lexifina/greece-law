@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦ1ΩΨΚ-ΤΣΚ",
+  "subject": "Περί αίτησης δημοτικής παραχώρησης 12τ.μ σε οικία Τιθορέας",
+  "protocol_number": "57/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6030",
+    "label": "ΔΗΜΟΣ ΑΜΦΙΚΛΕΙΑΣ - ΕΛΑΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83202"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-14",
+  "posted": "2014-05-02",
+  "publish_timestamp_ms": 1399011991000,
+  "version_id": "2fe1752d-a66e-447d-ad5e-a5552fc38b6c",
+  "in_force": "2014-05-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A61%CE%A9%CE%A8%CE%9A-%CE%A4%CE%A3%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A61%CE%A9%CE%A8%CE%9A-%CE%A4%CE%A3%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A61%CE%A9%CE%A8%CE%9A-%CE%A4%CE%A3%CE%9A",
+  "listing_sha256": "a7976d54a616dc371fafc840d5340a017cf217697a7317b0a3effda985a23631",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
