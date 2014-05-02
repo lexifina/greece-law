@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦ1ΩΛΒ-Σ6Δ",
+  "subject": "Ορισμός Πληρεξούσιου Δικηγόρου για δικάσιμο στις 09/05/2014, ενώπιον του\r\nΕιρηνοδικείου Θεσσαλονίκης",
+  "protocol_number": "A.O.E. 143/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6157",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΘΕΡΙΟΥ ΚΟΡΔΕΛΙΟΥ ΕΥΟΣΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83945"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-29",
+  "posted": "2014-05-02",
+  "publish_timestamp_ms": 1399023415000,
+  "version_id": "de944e32-7d8b-4759-9d81-e258dc945a80",
+  "in_force": "2014-05-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A61%CE%A9%CE%9B%CE%92-%CE%A36%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A61%CE%A9%CE%9B%CE%92-%CE%A36%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A61%CE%A9%CE%9B%CE%92-%CE%A36%CE%94",
+  "listing_sha256": "1d6a3e3c4af3d8201f47c4c66dd1ec4b89d31e5ef2777c37a0cae22e80a2d517",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
