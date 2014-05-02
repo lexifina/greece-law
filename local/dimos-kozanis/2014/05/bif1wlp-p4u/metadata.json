@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦ1ΩΛΠ-Π4Θ",
+  "subject": "Απόφαση μείωσης εγγυήσεων",
+  "protocol_number": "20769",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6154",
+    "label": "ΔΗΜΟΣ ΚΟΖΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81187"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-05-02",
+  "posted": "2014-05-02",
+  "publish_timestamp_ms": 1399028479000,
+  "version_id": "44e0b971-a00a-4468-b005-fc5b67471fa3",
+  "in_force": "2014-05-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A61%CE%A9%CE%9B%CE%A0-%CE%A04%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A61%CE%A9%CE%9B%CE%A0-%CE%A04%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A61%CE%A9%CE%9B%CE%A0-%CE%A04%CE%98",
+  "listing_sha256": "680a7fe22145a4701f4b2dbd432d89f7ddfa9f782f4a40176c83aca3929a43d8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
