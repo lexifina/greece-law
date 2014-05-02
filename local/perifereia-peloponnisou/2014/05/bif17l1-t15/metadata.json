@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦ17Λ1-Τ15",
+  "subject": "Τροποποίηση του ρυμοτομικού σχεδίου πόλεως Νεάπολης στην περιοχή Μηνογιαννιάνικα (οδός Ανεμομύλου -Τομέας Γ) του Δήμου Μονεμβασιάς Π.Ε. Λακωνίας, όσον αφορά την μετατόπιση της εγκεκριμένης Ο.Γ. προκειμένου να αρθεί η ασυμφωνία μεταξύ εγκεκριμένου και εφαρμοσθέντος σχεδίου.",
+  "protocol_number": "24880",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5012",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80238"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_AAP",
+      "issueyear": 2014,
+      "aa": "135"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-05-02",
+  "posted": "2014-05-02",
+  "publish_timestamp_ms": 1399029286000,
+  "version_id": "242dafe5-e2f0-4675-a063-2061ac04e2d8",
+  "in_force": "2014-05-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A617%CE%9B1-%CE%A415",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A617%CE%9B1-%CE%A415/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A617%CE%9B1-%CE%A415",
+  "listing_sha256": "680a7fe22145a4701f4b2dbd432d89f7ddfa9f782f4a40176c83aca3929a43d8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
