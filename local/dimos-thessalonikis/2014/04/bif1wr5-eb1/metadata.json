@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦ1ΩΡ5-ΕΒ1",
+  "subject": "Εγκρίνει κατά πλειοψηφία την τροποποίηση της υπ’ αρ. 637/2011 κανονιστικής ΑΔΣ για τον πεζόδρομο Ικτίνου",
+  "protocol_number": "570/2014 ΑΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91706"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΗΓΩΡ5-ΓΔ2"
+      }
+    ]
+  },
+  "issued": "2014-04-14",
+  "posted": "2014-05-02",
+  "publish_timestamp_ms": 1399023227000,
+  "version_id": "e528f9b6-1c54-4e7a-b25a-8998ac273146",
+  "in_force": "2014-05-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A61%CE%A9%CE%A15-%CE%95%CE%921",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A61%CE%A9%CE%A15-%CE%95%CE%921/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A61%CE%A9%CE%A15-%CE%95%CE%921",
+  "listing_sha256": "a7976d54a616dc371fafc840d5340a017cf217697a7317b0a3effda985a23631",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
