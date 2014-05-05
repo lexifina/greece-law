@@ -1,0 +1,64 @@
+{
+  "year": 2014,
+  "number": 4261,
+  "url": "https://api.et.gr/apiLAW/1/2014/4261/pdf",
+  "source_sha256": "3ee9b642ec902e2066f4b178f95a41c8f5b56fb65c84ad5abaa52639178388d2",
+  "published": "2014-05-05",
+  "in_force": "2014-05-05",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 108,
+  "images": [
+    {
+      "page": 101,
+      "sha256": "57ed03b34263fe1f6daffb551ba4b93fd975f805511a65b188ddfb3544eaf1ba",
+      "ext": "png",
+      "bytes": 174388,
+      "bbox": [
+        91.7,
+        83.4,
+        560.6,
+        533.5
+      ]
+    },
+    {
+      "page": 102,
+      "sha256": "6cdebf86ee3aada618140602330b6067215a298890ce376938823ddaeb9ae9d7",
+      "ext": "png",
+      "bytes": 190184,
+      "bbox": [
+        48.8,
+        83.4,
+        525.3,
+        721.4
+      ]
+    },
+    {
+      "page": 103,
+      "sha256": "a1e5e72657542f8521d6c05ecad5bdaa68af19d8a74ec7a2fee4aef5e42e3556",
+      "ext": "png",
+      "bytes": 116458,
+      "bbox": [
+        83.1,
+        83.4,
+        549.7,
+        444.7
+      ]
+    },
+    {
+      "page": 107,
+      "sha256": "56b29f6fef83ca7cfa1a303fd54f4cbd59e48255eabc0bc08f6864c0b1d51705",
+      "ext": "png",
+      "bytes": 251060,
+      "bbox": [
+        116.4,
+        84.1,
+        527.3,
+        766.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
