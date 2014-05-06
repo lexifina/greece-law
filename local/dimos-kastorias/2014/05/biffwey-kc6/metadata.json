@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦΦΩΕΥ-ΚΨ6",
+  "subject": "ΑΡΙΘΜΟΣ ΑΠΟΦΑΣΗΣ 119/14 ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ«Λήψη ή μη κανονιστικής απόφασης σχετικά με την διαπλάτυνση πεζοδρομίου επί της οδού Ορεστείων »",
+  "protocol_number": "14558",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6141",
+    "label": "ΔΗΜΟΣ ΚΑΣΤΟΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81755"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-05-02",
+  "posted": "2014-05-06",
+  "publish_timestamp_ms": 1399354951000,
+  "version_id": "f956a859-0f6f-466a-a7e0-43d79585b52c",
+  "in_force": "2014-05-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%A6%CE%A9%CE%95%CE%A5-%CE%9A%CE%A86",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%A6%CE%A9%CE%95%CE%A5-%CE%9A%CE%A86/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A6%CE%A6%CE%A9%CE%95%CE%A5-%CE%9A%CE%A86",
+  "listing_sha256": "b2db50af4d109114a30e0ddd0fb94f5b4bb509b1ea3ac84ed240bf9ead3f9392",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
