@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦΙΩ0Ο-ΘΙ8",
+  "subject": "Απόφαση 382/2014 με θέμα:Έγκριση διάθεσης πίστωσης για τη σύμβαση συντήρησης προγραμμάτων Οικονομικής Υπηρεσίας και Τμήματος Ανθρώπινου Δυναμικού της Δ/νσης Διοικητικών Υπηρεσιών",
+  "protocol_number": "382/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81432"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-05-02",
+  "posted": "2014-05-07",
+  "publish_timestamp_ms": 1399456243000,
+  "version_id": "36221f8a-50f5-4717-ad93-3079165877b5",
+  "in_force": "2014-05-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%99%CE%A90%CE%9F-%CE%98%CE%998",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%99%CE%A90%CE%9F-%CE%98%CE%998/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A6%CE%99%CE%A90%CE%9F-%CE%98%CE%998",
+  "listing_sha256": "b2db50af4d109114a30e0ddd0fb94f5b4bb509b1ea3ac84ed240bf9ead3f9392",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
