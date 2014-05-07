@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦΙΩ0Ο-3Θ7",
+  "subject": "Απόφαση 376/2014 με θέμα:Εκτέλεση έργου του Τμήματος Οδοποιίας με τίτλο «Ανακατασκευή δικτύου ομβρίων στο 4ο Λύκειο Ηρακλείου",
+  "protocol_number": "376/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81432"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-05-02",
+  "posted": "2014-05-07",
+  "publish_timestamp_ms": 1399451423000,
+  "version_id": "21c29e6b-1e38-43db-b99a-46e1bd6dd9b9",
+  "in_force": "2014-05-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%99%CE%A90%CE%9F-3%CE%987",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%99%CE%A90%CE%9F-3%CE%987/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A6%CE%99%CE%A90%CE%9F-3%CE%987",
+  "listing_sha256": "b2db50af4d109114a30e0ddd0fb94f5b4bb509b1ea3ac84ed240bf9ead3f9392",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
