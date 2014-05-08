@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦΘΩΗΖ-ΘΑΞ",
+  "subject": "(ΕΠΖ 36/2014) Προέγκριση ή μη καταστήματος Υ.Ε. της «GTA Θερμαϊκού Ι.Κ.Ε. με διακριτικό τίτλο GTA Θερμαϊκού Private Company» για «Επιχείρηση Χοντρικής Διάθεσης Τροφίμων και Ποτών (Αποθήκη Τροφίμων & Ποτών)» στο 10ο χλμ Θεσσαλονίκης - Νεοχωρούδας Δ.Ε. Καλλιθέας του Δήμου Ωραιοκάστρου.",
+  "protocol_number": "36/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6323",
+    "label": "ΔΗΜΟΣ ΩΡΑΙΟΚΑΣΤΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84882"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-30",
+  "posted": "2014-05-08",
+  "publish_timestamp_ms": 1399546723000,
+  "version_id": "7c5f0630-3505-4ee4-b3a8-a8cb59b64df2",
+  "in_force": "2014-05-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%98%CE%A9%CE%97%CE%96-%CE%98%CE%91%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%98%CE%A9%CE%97%CE%96-%CE%98%CE%91%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A6%CE%98%CE%A9%CE%97%CE%96-%CE%98%CE%91%CE%9E",
+  "listing_sha256": "101baeedfc784196abab604addb8d5f56a02fbbc9956a1143b8c383a1e6ea72a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
