@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦΘΩΛΞ-ΜΣ1",
+  "subject": "Λήψη Κανονιστικής Απόφασης για Κυκλοφοριακή ρύθμιση στη συνοικία Αγίων Σαράντα: Μονοδρόμηση της οδού Σκρά, σύμφωνα με την αριθμ. 16/2014 Απόφαση της Επιτροπής Ποιότητας Ζωής.",
+  "protocol_number": "256",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6167",
+    "label": "ΔΗΜΟΣ ΛΑΡΙΣΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80181"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-15",
+  "posted": "2014-05-08",
+  "publish_timestamp_ms": 1399534845000,
+  "version_id": "3e6b773f-dfaf-4bef-848d-5a5f66243b82",
+  "in_force": "2014-05-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%98%CE%A9%CE%9B%CE%9E-%CE%9C%CE%A31",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%98%CE%A9%CE%9B%CE%9E-%CE%9C%CE%A31/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A6%CE%98%CE%A9%CE%9B%CE%9E-%CE%9C%CE%A31",
+  "listing_sha256": "f6d55c104f38e34d9f9ca3b8c4b8d2aa6ae94de297ce9a1f56ce248c04b4b03e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
