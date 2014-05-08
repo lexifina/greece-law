@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦΘΩ1Α-ΖΜΥ",
+  "subject": "ΑΝΑΚΛΗΣΗ ΠΡΟΕΓΚΡΙΣΗΣ ΚΑΙ ΧΟΡΗΓΗΣΗ ΝΕΑΣ ΠΡΟΕΓΚΡΙΣΗΣ ΙΔΡΥΣΗΣ ΚΑΤΑΣΤΗΜΑΤΟΣ ΥΓΕΙΟΝΟΜΙΚΟΥ ΕΝΔΙΑΦΕΡΟΝΤΟΣ ΚΑΤΗΓΟΡΙΑΣ ΙΙΙ ΣΤΗΝ ΑΪΔΙΝΙΔΟΥ ΑΝΝΑ ΤΟΥ ΚΥΡΙΑΚΟΥ",
+  "protocol_number": "24",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6283",
+    "label": "ΔΗΜΟΣ ΣΟΥΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "94710"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-05-08",
+  "posted": "2014-05-08",
+  "publish_timestamp_ms": 1399547592000,
+  "version_id": "15ea03bc-0d81-4356-8d2f-3141ce2dd9f9",
+  "in_force": "2014-05-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%98%CE%A91%CE%91-%CE%96%CE%9C%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%98%CE%A91%CE%91-%CE%96%CE%9C%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A6%CE%98%CE%A91%CE%91-%CE%96%CE%9C%CE%A5",
+  "listing_sha256": "a64da82e61b23f4889cc71affe3ec2fe72a0957054321217d50d31e21fb6c199",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
