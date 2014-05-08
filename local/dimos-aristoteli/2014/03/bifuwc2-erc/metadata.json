@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦΘΩΨ2-ΕΡΨ",
+  "subject": "Απόφαση 401/2014 Δημάρχου  Ε Γ Κ Α Τ Α Σ Τ Α Σ Η  Κ Α Ι  Λ Ε Ι Τ Ο Υ Ρ Γ Ι Α  Γ Ε Ω Γ Ρ Α Φ Ι Κ Ο Υ  Σ Υ Σ Τ Η Μ Α Τ Ο Σ\r\n Π Λ Η Ρ Ο Φ Ο Ρ Ι Ω Ν  / G .. I .. S .. (Ε Φ Α Ρ Μ Ο Γ Η / Λ Ο Γ Ι Σ Μ Ι Κ Ο) Μ Ε\r\nΕ Ν Σ Ω Μ Α Τ Ω Μ Ε Ν Α  Τ Α  Ψ Η Φ Ι Α Κ Α  Γ Ε Ω Χ Ω Ρ Ι Κ Α  Χ Ω Ρ Ο Τ Α Ξ Ι Κ Α  Κ Α Ι\r\nΠ Ο Λ Ε Ο Δ Ο Μ Ι Κ Α  Δ Ε Δ Ο Μ Ε Ν Α  Τ Ο Υ  Δ Η Μ Ο Υ  Α Ρ Ι Σ Τ Ο Τ Ε Λ Η.",
+  "protocol_number": "7511",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6043",
+    "label": "ΔΗΜΟΣ ΑΡΙΣΤΟΤΕΛΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80780"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-03-11",
+  "posted": "2014-05-08",
+  "publish_timestamp_ms": 1399534339000,
+  "version_id": "66d88edb-1a14-4c62-a954-4cb490c3096c",
+  "in_force": "2014-05-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%98%CE%A9%CE%A82-%CE%95%CE%A1%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%98%CE%A9%CE%A82-%CE%95%CE%A1%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A6%CE%98%CE%A9%CE%A82-%CE%95%CE%A1%CE%A8",
+  "listing_sha256": "2f456122a269e779fb26dcf9228cafce4101c9506fadc34ba79cef60d3c6226c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
