@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦΥ7Λ9-ΝΨΜ",
+  "subject": "ΑΠΟΦΑΣΗ ΘΑΝΑΤΩΣΗΣ ΚΑΙ ΚΑΤΑΣΤΡΟΦΗΣ ΖΩΩΝ ΣΕ ΕΚΜΕΤΑΛΛΕΥΣΗ ΜΟΛΥΣΜΕΝΗ ΜΕ ΚΛΑΣΣΙΚΗ ΤΡΟΜΩΔΗ ΝΟΣΟ",
+  "protocol_number": "7339",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5006",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "86228"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-05-07",
+  "posted": "2014-05-09",
+  "publish_timestamp_ms": 1399613528000,
+  "version_id": "f0ab7b8d-6159-4e7c-b494-0e2afbf3d9c0",
+  "in_force": "2014-05-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%A57%CE%9B9-%CE%9D%CE%A8%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%A57%CE%9B9-%CE%9D%CE%A8%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A6%CE%A57%CE%9B9-%CE%9D%CE%A8%CE%9C",
+  "listing_sha256": "3fc05489f7ef691eb7605e89f46f7285841e45d7bd565cac9bc5c77553dfd4e2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
