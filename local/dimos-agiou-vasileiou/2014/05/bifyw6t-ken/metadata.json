@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦΥΩ6Τ-ΚΕΝ",
+  "subject": "χαρακτηρισμός του δρόμου Άγιος Αντώνιος - Κόρακας ως κύριου δημοτικού",
+  "protocol_number": "6035",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6006",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΒΑΣΙΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83413"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-05-02",
+  "posted": "2014-05-09",
+  "publish_timestamp_ms": 1399620296000,
+  "version_id": "705d4d28-4e35-4499-9649-662c0eca0ed7",
+  "in_force": "2014-05-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%A5%CE%A96%CE%A4-%CE%9A%CE%95%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%A5%CE%A96%CE%A4-%CE%9A%CE%95%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A6%CE%A5%CE%A96%CE%A4-%CE%9A%CE%95%CE%9D",
+  "listing_sha256": "b2db50af4d109114a30e0ddd0fb94f5b4bb509b1ea3ac84ed240bf9ead3f9392",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
