@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦΤ7ΛΨ-ΓΓΕ",
+  "subject": "ΕΓΚΡΙΣΗ ΔΑΠΑΝΗΣ ΚΑΙ ΔΙΑΘΕΣΗΣ ΠΙΣΤΩΣΗΣ ΠΟΣΟΥ 3.300,00€ ΓΙΑ ΤΗΝ ΕΠΙΜΟΡΦΩΣΗ ΤΗΣ ΥΠΑΛΛΗΛΟΥ ΤΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ ΓΕΩΡΓΙΑΔΟΥ ΚΥΡΙΑΚΗΣ ΣΤΑ ΠΡΟΓΡΑΜΜΑΤΑ ΕΠΑΓΓΕΛΜΑΤΙΚΗΣ ΚΑΤΑΡΤΙΣΗΣ ΛΑΕΚ 0,45% ΤΟΥ ΟΑΕΔ",
+  "protocol_number": "770",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5005",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "83700"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-05-06",
+  "posted": "2014-05-10",
+  "publish_timestamp_ms": 1399715748000,
+  "version_id": "aaab1df8-d648-419f-8da9-c16cfcead7ce",
+  "in_force": "2014-05-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%A47%CE%9B%CE%A8-%CE%93%CE%93%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%A47%CE%9B%CE%A8-%CE%93%CE%93%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A6%CE%A47%CE%9B%CE%A8-%CE%93%CE%93%CE%95",
+  "listing_sha256": "8b5386b8d762101c08ceac5069614e06a59fce260076a18695868dcb29b4c014",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
