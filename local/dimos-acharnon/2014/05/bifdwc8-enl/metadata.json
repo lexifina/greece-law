@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦΔΩΨ8-ΕΝΛ",
+  "subject": "Απόδοση λογαριασμού ποσού 2.009.294,26 € για τακτοποίηση των με αριθμ. 172Β έως και 184Β/2014 Χρηματικών Ενταλμάτων Προπληρωμής, έτους 2014, τα οποία αφορούν τα προνοιακά επιδόματα A΄ διμήνου 2014.",
+  "protocol_number": "38583",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6050",
+    "label": "ΔΗΜΟΣ ΑΧΑΡΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82108"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-05-12",
+  "posted": "2014-05-12",
+  "publish_timestamp_ms": 1399895337000,
+  "version_id": "67e9d911-dfd8-4f3a-a11c-ab7b9425e3fb",
+  "in_force": "2014-05-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%94%CE%A9%CE%A88-%CE%95%CE%9D%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%94%CE%A9%CE%A88-%CE%95%CE%9D%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A6%CE%94%CE%A9%CE%A88-%CE%95%CE%9D%CE%9B",
+  "listing_sha256": "abd967282ca0651fc8a58820c6bb81c2186974948654dd99ede3cd95201f3c76",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
