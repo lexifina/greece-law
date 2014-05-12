@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦΔ7ΛΒ-ΣΙ6",
+  "subject": "ΣΥΣΤΑΣΗ ΚΑΙ ΣΥΓΚΡΟΤΗΣΗ ΕΠΙΤΡΟΠΗΣ ΣΥΜΦΩΝΑ ΜΕ ΤΟΝ ν.2520/97",
+  "protocol_number": "4231",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5001",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79932"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_fektype_AEEPPE",
+      "issueyear": 2014,
+      "aa": "253"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-02",
+  "posted": "2014-05-12",
+  "publish_timestamp_ms": 1399867883000,
+  "version_id": "a7233359-28af-41bb-bd21-022fd10b11eb",
+  "in_force": "2014-05-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%947%CE%9B%CE%92-%CE%A3%CE%996",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A6%CE%947%CE%9B%CE%92-%CE%A3%CE%996/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A6%CE%947%CE%9B%CE%92-%CE%A3%CE%996",
+  "listing_sha256": "f6cbbb3f9b8e209264bad6797b42ecc769416fb132db81f81e79f49375b46a17",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
