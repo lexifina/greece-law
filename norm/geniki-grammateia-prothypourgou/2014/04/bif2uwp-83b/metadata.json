@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΦ2ΘΩΠ-83Β",
+  "subject": "Έγκριση δέσμευσης πίστωσης ύψους τετρακοσίων πενήντα ευρώ και δέκα οκτώ λεπτών (450,18€) για την πληρωμή ισόποσης δαπάνης σε βάρος της πίστωσης του προϋπολογισμού εξόδων της Γενικής Γραμματείας του Πρωθυπουργού.",
+  "protocol_number": "ΔΑΠ682",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "91380"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-30",
+  "posted": "2014-05-13",
+  "publish_timestamp_ms": 1399964149000,
+  "version_id": "8c609740-8df0-4180-93e3-ee22d0641216",
+  "in_force": "2014-05-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A62%CE%98%CE%A9%CE%A0-83%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A62%CE%98%CE%A9%CE%A0-83%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A62%CE%98%CE%A9%CE%A0-83%CE%92",
+  "listing_sha256": "101baeedfc784196abab604addb8d5f56a02fbbc9956a1143b8c383a1e6ea72a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
