@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΙΟΩΞ2-ΚΟΝ",
+  "subject": "Έγκριση διενέργειας δαπάνης για την συντήρηση και επισκευή διακοσμητικών παραστάσεων",
+  "protocol_number": "ΠΔΣ 150",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78092"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-15",
+  "posted": "2014-05-23",
+  "publish_timestamp_ms": 1400849569000,
+  "version_id": "f8718100-4457-4447-a72a-46a85be3894f",
+  "in_force": "2014-05-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%99%CE%9F%CE%A9%CE%9E2-%CE%9A%CE%9F%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%99%CE%9F%CE%A9%CE%9E2-%CE%9A%CE%9F%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%99%CE%9F%CE%A9%CE%9E2-%CE%9A%CE%9F%CE%9D",
+  "listing_sha256": "dd609b3777b86f8638b1d74bb8ba5abaea24135f6a208506b0e9dac832976533",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
