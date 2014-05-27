@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΙΩΩΚ0-ΕΦΛ",
+  "subject": "# Μαθηματικό Καλοκαιρινό σχολείο.#",
+  "protocol_number": "7",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6204",
+    "label": "ΔΗΜΟΣ ΝΑΟΥΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "94773"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-30",
+  "posted": "2014-05-27",
+  "publish_timestamp_ms": 1401191702000,
+  "version_id": "31ab8cba-91eb-4efa-b20d-e515cc0ced2a",
+  "in_force": "2014-05-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%99%CE%A9%CE%A9%CE%9A0-%CE%95%CE%A6%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%99%CE%A9%CE%A9%CE%9A0-%CE%95%CE%A6%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%99%CE%A9%CE%A9%CE%9A0-%CE%95%CE%A6%CE%9B",
+  "listing_sha256": "101baeedfc784196abab604addb8d5f56a02fbbc9956a1143b8c383a1e6ea72a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
