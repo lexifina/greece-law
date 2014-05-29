@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΙΨΟΡ1Φ-ΣΞ8",
+  "subject": "ΔΙΟΡΘΩΣΗ ΣΦΑΛΜΑΤΟΣ ΚΟΙΝΩΝΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΔΗΜΟΥ ΠΑΤΡΕΩΝ",
+  "protocol_number": "145126/14022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87448"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "issueyear": 2014,
+      "aa": "743"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-02-17",
+  "posted": "2014-05-29",
+  "publish_timestamp_ms": 1401360313000,
+  "version_id": "b07c61d1-2d9d-4cf6-84ba-da2ff4373b9e",
+  "in_force": "2014-05-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%99%CE%A8%CE%9F%CE%A11%CE%A6-%CE%A3%CE%9E8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%99%CE%A8%CE%9F%CE%A11%CE%A6-%CE%A3%CE%9E8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%99%CE%A8%CE%9F%CE%A11%CE%A6-%CE%A3%CE%9E8",
+  "listing_sha256": "0dd3ac41fbb3e64acb25dffa5c65c0b890e0335b8e6ddcc5b17780f2f5107bbd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
