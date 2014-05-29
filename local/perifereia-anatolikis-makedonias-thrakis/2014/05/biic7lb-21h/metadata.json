@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΙΨ7ΛΒ-21Η",
+  "subject": "ΑΔΕΙΑ ΧΕΙΡΙΣΤΗ ΜΗΧΑΝΗΜΑΤΩΝ ΕΡΓΟΥ",
+  "protocol_number": "2206",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5001",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79995"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ψ7Υ77ΛΒ-1Γ3"
+      }
+    ]
+  },
+  "issued": "2014-05-29",
+  "posted": "2014-05-29",
+  "publish_timestamp_ms": 1401353821000,
+  "version_id": "94835df3-0088-4e36-b64c-cf4ea1f6c94d",
+  "in_force": "2014-05-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%99%CE%A87%CE%9B%CE%92-21%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%99%CE%A87%CE%9B%CE%92-21%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%99%CE%A87%CE%9B%CE%92-21%CE%97",
+  "listing_sha256": "aa2d66ac568e589a3bf3829e8fad8b30c0f02a473762e40324a0a082776ad52e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
