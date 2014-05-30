@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΙ9469Β4Μ-ΙΔΟ",
+  "subject": "ΠΕΡΙΛΗΨΗ ΠΡΑΞΗΣ ΠΡΥΤΑΝΗ",
+  "protocol_number": "5861",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206861",
+    "label": "ΟΙΚΟΝΟΜΙΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "75274"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_C",
+      "issueyear": 2013,
+      "aa": "1402"
+    },
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-10-01",
+  "posted": "2014-05-30",
+  "publish_timestamp_ms": 1401450148000,
+  "version_id": "71460fe0-2d0d-4dab-ae1a-372c14c7902d",
+  "in_force": "2014-05-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%999469%CE%924%CE%9C-%CE%99%CE%94%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%999469%CE%924%CE%9C-%CE%99%CE%94%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%999469%CE%924%CE%9C-%CE%99%CE%94%CE%9F",
+  "listing_sha256": "adcc66c712e2ff958dd5de569fd4ced058dfd2dd09590fb89bd7ab37fe554afd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
