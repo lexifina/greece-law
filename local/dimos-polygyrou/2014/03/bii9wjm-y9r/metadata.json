@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΙ9ΩΞΜ-Υ9Ρ",
+  "subject": "Απευθείας ανάθεση διαφόρων εργασιών.",
+  "protocol_number": "232",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6251",
+    "label": "ΔΗΜΟΣ ΠΟΛΥΓΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93099"
+  ],
+  "thematic_category_ids": [
+    "68"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-03-27",
+  "posted": "2014-05-30",
+  "publish_timestamp_ms": 1401435087000,
+  "version_id": "bdb1d50d-fb79-47f5-95a3-5087ed8b1ae4",
+  "in_force": "2014-05-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%999%CE%A9%CE%9E%CE%9C-%CE%A59%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%999%CE%A9%CE%9E%CE%9C-%CE%A59%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%999%CE%A9%CE%9E%CE%9C-%CE%A59%CE%A1",
+  "listing_sha256": "7770b352fc9f98cefdef9cca6ba318ca967761df5dadb2ab190efdc9d68feb92",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
