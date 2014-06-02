@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΥΚΩ9Δ-ΦΘ7",
+  "subject": "Λήψη απόφασης προς ορισμό δικηγόρου Θεσσαλονίκης για έρευνα στα βιβλία μεταγραφών και υποθηκών του Υποθηκοφυλακείου\r\nΘεσσαλονίκης(υπόθεση ΠΑΠΙΣΤΑ).",
+  "protocol_number": "39014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6076",
+    "label": "ΔΗΜΟΣ ΔΙΟΥ - ΟΛΥΜΠΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83218"
+  ],
+  "thematic_category_ids": [
+    "24",
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-30",
+  "posted": "2014-06-02",
+  "publish_timestamp_ms": 1401705315000,
+  "version_id": "fd7c9ef8-6919-4703-9516-1498b6de8343",
+  "in_force": "2014-06-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A5%CE%9A%CE%A99%CE%94-%CE%A6%CE%987",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A5%CE%9A%CE%A99%CE%94-%CE%A6%CE%987/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A5%CE%9A%CE%A99%CE%94-%CE%A6%CE%987",
+  "listing_sha256": "ac7cd3fe5aafa288b864cffca63a245bc8cfc340a0eac0f99822989b3024b7ce",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
