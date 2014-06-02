@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΥΚΩ1Ο-Β17",
+  "subject": "5η εντολή μεταφοράς ΣΑΤΑ 2014.",
+  "protocol_number": "23555",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6257",
+    "label": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80520"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-05-29",
+  "posted": "2014-06-02",
+  "publish_timestamp_ms": 1401694602000,
+  "version_id": "adc91983-9bb4-476d-a326-4756d329ddd2",
+  "in_force": "2014-06-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A5%CE%9A%CE%A91%CE%9F-%CE%9217",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A5%CE%9A%CE%A91%CE%9F-%CE%9217/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A5%CE%9A%CE%A91%CE%9F-%CE%9217",
+  "listing_sha256": "4fcb8708ff3305a24e9673ee892cc2566fd0a891c49208e03680a15385392818",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
