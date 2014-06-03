@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΥΞ7Λ6-Υ2Υ",
+  "subject": "Εντολη μετακινησης εκτος εδρας",
+  "protocol_number": "148282/4239",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5004",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78402"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-06-02",
+  "posted": "2014-06-03",
+  "publish_timestamp_ms": 1401779083000,
+  "version_id": "fe60e274-810c-4bf3-95ec-cc04c27569f9",
+  "in_force": "2014-06-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A5%CE%9E7%CE%9B6-%CE%A52%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A5%CE%9E7%CE%9B6-%CE%A52%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A5%CE%9E7%CE%9B6-%CE%A52%CE%A5",
+  "listing_sha256": "7c4288c4b011b906b08cddfc5aca7e03ea627430459d5b6b07a4fb02bcda46d9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
