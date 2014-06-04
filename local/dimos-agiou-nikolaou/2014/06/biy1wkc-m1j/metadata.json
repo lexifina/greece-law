@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΥ1ΩΚΨ-Μ1Ξ",
+  "subject": "Συζήτηση – απόφαση σχετικά με την \r\n                                                   καταστροφή «Υπολογιστών – Εκτυπωτών – Φαξ \r\n                                                   – Τηλεπικοινωνιακού Εξοπλισμού»",
+  "protocol_number": "12305",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6195",
+    "label": "ΔΗΜΟΣ AΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82087"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-06-03",
+  "posted": "2014-06-04",
+  "publish_timestamp_ms": 1401873351000,
+  "version_id": "acbb98a5-39df-492c-9595-3a67141887a9",
+  "in_force": "2014-06-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A51%CE%A9%CE%9A%CE%A8-%CE%9C1%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A51%CE%A9%CE%9A%CE%A8-%CE%9C1%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A51%CE%A9%CE%9A%CE%A8-%CE%9C1%CE%9E",
+  "listing_sha256": "97695d8102b17cfa17596631bdce48e6f2814881a514cb409751f80c527dd8c9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
