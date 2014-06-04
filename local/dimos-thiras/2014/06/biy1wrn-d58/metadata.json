@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΥ1ΩΡΝ-Δ58",
+  "subject": "ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ",
+  "protocol_number": "480",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6116",
+    "label": "ΔΗΜΟΣ ΘΗΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "77969"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-06-03",
+  "posted": "2014-06-04",
+  "publish_timestamp_ms": 1401857695000,
+  "version_id": "01771f05-5700-4b82-86a3-7d20cfab14c6",
+  "in_force": "2014-06-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A51%CE%A9%CE%A1%CE%9D-%CE%9458",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A51%CE%A9%CE%A1%CE%9D-%CE%9458/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A51%CE%A9%CE%A1%CE%9D-%CE%9458",
+  "listing_sha256": "5690451b5157fcfeea1ecaa7feaaae4ab350071573f6dececfb944d0d39eeae9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
