@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΥ1ΩΨ2-ΞΒΚ",
+  "subject": "Απόφαση Δημάρχου αποζημίωσης ληξιάρχου Μαϊου 2014",
+  "protocol_number": "16743",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6043",
+    "label": "ΔΗΜΟΣ ΑΡΙΣΤΟΤΕΛΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80780"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-06-04",
+  "posted": "2014-06-04",
+  "publish_timestamp_ms": 1401866862000,
+  "version_id": "c37e0eb7-ba70-4b32-914d-e657184a7894",
+  "in_force": "2014-06-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A51%CE%A9%CE%A82-%CE%9E%CE%92%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A51%CE%A9%CE%A82-%CE%9E%CE%92%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A51%CE%A9%CE%A82-%CE%9E%CE%92%CE%9A",
+  "listing_sha256": "2b7d66a25bf638cf29745bbead24509ae1d59afa3316562b5d65b375cc60fb28",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
