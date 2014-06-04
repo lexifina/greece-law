@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΥ1ΩΕΦ-ΔΜΝ",
+  "subject": "ΠΕΡΙΛΗΨΗ ΔΙΑΚΗΡΥΞΗΣ ΔΗΜΟΠΡΑΣΙΑΣ-ΑΠΟΚΑΤΑΣΤΑΣΗ – ΠΛΑΚΟΣΤΡΩΣΗ \r\nΠΕΖΟΔΡΟΜΙΩΝ",
+  "protocol_number": "8481",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6138",
+    "label": "ΔΗΜΟΣ ΚΑΡΥΣΤΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81136"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-05-30",
+  "posted": "2014-06-04",
+  "publish_timestamp_ms": 1401872557000,
+  "version_id": "feb3ea34-e1d1-4176-913e-28de171247e6",
+  "in_force": "2014-06-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A51%CE%A9%CE%95%CE%A6-%CE%94%CE%9C%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A51%CE%A9%CE%95%CE%A6-%CE%94%CE%9C%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A51%CE%A9%CE%95%CE%A6-%CE%94%CE%9C%CE%9D",
+  "listing_sha256": "f7cee880d0f84a278d0f3057d26964ebb71df2fb480eb7f653b339557bf842a7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
