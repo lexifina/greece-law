@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΥΗΩ1Κ-Μ67",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ",
+  "protocol_number": "ΑΔ 508/14",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6268",
+    "label": "ΔΗΜΟΣ ΣΑΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80374"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-03-20",
+  "posted": "2014-06-05",
+  "publish_timestamp_ms": 1401967302000,
+  "version_id": "32f42782-d79b-404c-9cfc-614f37495f5c",
+  "in_force": "2014-06-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A5%CE%97%CE%A91%CE%9A-%CE%9C67",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A5%CE%97%CE%A91%CE%9A-%CE%9C67/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A5%CE%97%CE%A91%CE%9A-%CE%9C67",
+  "listing_sha256": "90370a2c29c65726d9af29203e8027e91a6095da70f950297fa647f1e5277428",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
