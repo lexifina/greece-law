@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΙΥΗΩΚΜ-Κ5Ζ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ",
+  "protocol_number": "2584",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6217",
+    "label": "ΔΗΜΟΣ ΝΙΣΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82452"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Λοιπές Κανονιστικές Πράξεις",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-06-04",
+  "posted": "2014-06-05",
+  "publish_timestamp_ms": 1401947701000,
+  "version_id": "1bdc380c-9f4c-4913-b9b4-b02da01d6b7e",
+  "in_force": "2014-06-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A5%CE%97%CE%A9%CE%9A%CE%9C-%CE%9A5%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%99%CE%A5%CE%97%CE%A9%CE%9A%CE%9C-%CE%9A5%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%99%CE%A5%CE%97%CE%A9%CE%9A%CE%9C-%CE%9A5%CE%96",
+  "listing_sha256": "23afaa11b5b237738f271c2aac0ff2150cbdad17b0e8bd1e0ae39e6c286b49e3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
