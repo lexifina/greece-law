@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β2ΠΞ6-ΔΞΘ",
+  "subject": "Απόφαση Κύρωσης Πίνακα Ονομασίας Επαγγελματία Οπλίτη Στρατολογικού - Στρατιωτικών Νομικών Συμβούλων",
+  "protocol_number": "367364",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70159"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΑΚ6-ΒΕΞ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΛ4Ξ6-2ΙΕ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΕΦΣ6-9ΨΘ"
+      },
+      {
+        "relatedDecisionsADA": "Β45Α6-58Λ"
+      },
+      {
+        "relatedDecisionsADA": "Β41Φ6-ΜΓΑ"
+      }
+    ]
+  },
+  "issued": "2014-05-29",
+  "posted": "2014-06-10",
+  "publish_timestamp_ms": 1402376955787,
+  "version_id": "c8ce8567-10b6-464d-8356-45ff9e1262c8",
+  "in_force": "2014-06-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%922%CE%A0%CE%9E6-%CE%94%CE%9E%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%922%CE%A0%CE%9E6-%CE%94%CE%9E%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%922%CE%A0%CE%9E6-%CE%94%CE%9E%CE%98",
+  "listing_sha256": "f7cee880d0f84a278d0f3057d26964ebb71df2fb480eb7f653b339557bf842a7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
