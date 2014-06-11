@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω1Χ17Λ1-ΘΙΜ",
+  "subject": "ΑΝΑΘΕΣΗ ΑΠΟΧΙΟΝΙΣΜΟΥ",
+  "protocol_number": "Δ/Υ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5012",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80262"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-27",
+  "posted": "2014-06-11",
+  "publish_timestamp_ms": 1402489008005,
+  "version_id": "b94fda31-b78c-4265-a6ee-8a1cdbff7ce2",
+  "in_force": "2014-06-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%A717%CE%9B1-%CE%98%CE%99%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%A717%CE%9B1-%CE%98%CE%99%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A91%CE%A717%CE%9B1-%CE%98%CE%99%CE%9C",
+  "listing_sha256": "a1b9a68ee42dd0680f302f78d292b0bdb62550047cadd5f5e3502e9eff63c7ec",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
