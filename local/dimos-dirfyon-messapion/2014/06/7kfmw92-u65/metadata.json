@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΚΦΜΩ92-Θ65",
+  "subject": "Περί ρύθμισης ληξιπρόθεσμων οφειλών",
+  "protocol_number": "10569",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6077",
+    "label": "ΔΗΜΟΣ ΔΙΡΦΥΩΝ - ΜΕΣΣΑΠΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83101"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Ρ9ΠΩ92-Ν87"
+      }
+    ]
+  },
+  "issued": "2014-06-10",
+  "posted": "2014-06-12",
+  "publish_timestamp_ms": 1402568242955,
+  "version_id": "990397ad-c63d-470b-8574-36d11c0bbed3",
+  "in_force": "2014-06-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9A%CE%A6%CE%9C%CE%A992-%CE%9865",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9A%CE%A6%CE%9C%CE%A992-%CE%9865/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9A%CE%A6%CE%9C%CE%A992-%CE%9865",
+  "listing_sha256": "3047418e655e14e7a1115b12b2b18a78e948f718634a9373cc383ee847dbe70e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
