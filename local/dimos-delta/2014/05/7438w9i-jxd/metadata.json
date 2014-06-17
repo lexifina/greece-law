@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7438Ω9Ι-ΞΧΔ",
+  "subject": "ΕΓΚΡΙΣΗ ΔΙΕΝΕΡΓΕΙΑΣ ΤΗΣ ΠΡΟΜΗΘΕΙΑΣ ΕΚΤΥΠΩΤΗ   ΜΕ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗ",
+  "protocol_number": "52",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6071",
+    "label": "ΔΗΜΟΣ ΔΕΛΤΑ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86735"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "42",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-05-13",
+  "posted": "2014-06-17",
+  "publish_timestamp_ms": 1402996735003,
+  "version_id": "b50a6ef0-64db-43db-bfc9-650b388b7756",
+  "in_force": "2014-06-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7438%CE%A99%CE%99-%CE%9E%CE%A7%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7438%CE%A99%CE%99-%CE%9E%CE%A7%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7438%CE%A99%CE%99-%CE%9E%CE%A7%CE%94",
+  "listing_sha256": "35cc27df86c88ed89d006ae7282f102fb4df81290cbbdfb7b3d3051389c889e9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
