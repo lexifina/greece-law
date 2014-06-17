@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω0ΚΣΩΨ0-ΩΚ2",
+  "subject": "Απόφαση Ανάληψης Υποχρέωσης",
+  "protocol_number": "991",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6034",
+    "label": "ΔΗΜΟΣ ΑΝΑΦΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93907"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-06-17",
+  "posted": "2014-06-17",
+  "publish_timestamp_ms": 1402996561582,
+  "version_id": "48d0be16-246e-46b9-8acd-baf3d814393e",
+  "in_force": "2014-06-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%9A%CE%A3%CE%A9%CE%A80-%CE%A9%CE%9A2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%9A%CE%A3%CE%A9%CE%A80-%CE%A9%CE%9A2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A90%CE%9A%CE%A3%CE%A9%CE%A80-%CE%A9%CE%9A2",
+  "listing_sha256": "000d8da84701a68ad2917647fba430056746b75f690de260378a9aef2b8cd2a2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
