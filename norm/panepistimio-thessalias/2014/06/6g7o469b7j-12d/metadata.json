@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Γ7Ο469Β7Ξ-12Δ",
+  "subject": "Ανακοίνωση Αποφάσεως Συγκλήτου (137/15-5-2014)",
+  "protocol_number": "7904",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206913",
+    "label": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "73390"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "kanonistikipraxiaa": "137",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΥΚ469Β7Ξ-ΠΗΦ"
+      }
+    ]
+  },
+  "issued": "2014-06-02",
+  "posted": "2014-06-20",
+  "publish_timestamp_ms": 1403264013530,
+  "version_id": "a2cb3fcd-4f5a-4fb5-8cf8-2865d9a5f681",
+  "in_force": "2014-06-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%937%CE%9F469%CE%927%CE%9E-12%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%937%CE%9F469%CE%927%CE%9E-12%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%937%CE%9F469%CE%927%CE%9E-12%CE%94",
+  "listing_sha256": "8161f223a99ad9807e68b9d9a93e2fbfa2849892ef3102f6b38a6f6b78d5d235",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
