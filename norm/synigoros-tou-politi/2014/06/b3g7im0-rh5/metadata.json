@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β3Γ7ΙΜ0-ΡΗ5",
+  "subject": "ΑΠΟΦΑΣΗ ΜΕΤΑΦΟΡΑΣ ΠΙΣΤΩΣΕΩΝ",
+  "protocol_number": "Φ. 214.4/32774/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "22966",
+    "label": "ΣΥΝΗΓΟΡΟΣ ΤΟΥ ΠΟΛΙΤΗ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "72318"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Ανεξάρτητης Αρχής",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-06-23",
+  "posted": "2014-06-23",
+  "publish_timestamp_ms": 1403513604727,
+  "version_id": "aa34bb00-56e3-4d73-9c22-6a9fb71e846b",
+  "in_force": "2014-06-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%923%CE%937%CE%99%CE%9C0-%CE%A1%CE%975",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%923%CE%937%CE%99%CE%9C0-%CE%A1%CE%975/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%923%CE%937%CE%99%CE%9C0-%CE%A1%CE%975",
+  "listing_sha256": "38fca81cddf78ce99a1290aeffde66fa0020dd329aac2c6e0005cde81928749a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
