@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω96ΕΩΗΝ-5Ν3",
+  "subject": "Ορθή Επανάληψη της με Α/Α 335 που αφορα το θέμα ''Έγκριση αποφάσεων των Νομικών Προσώπων του Δ. Χίου''.",
+  "protocol_number": "28167",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81042"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "335",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω96ΕΩΗΝ-5Ν3"
+      }
+    ]
+  },
+  "issued": "2014-06-25",
+  "posted": "2014-06-25",
+  "publish_timestamp_ms": 1403682258771,
+  "version_id": "e420b354-4e34-4daf-a5e6-9fef79b962b7",
+  "in_force": "2014-06-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A996%CE%95%CE%A9%CE%97%CE%9D-5%CE%9D3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A996%CE%95%CE%A9%CE%97%CE%9D-5%CE%9D3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A996%CE%95%CE%A9%CE%97%CE%9D-5%CE%9D3",
+  "listing_sha256": "0f4a9b456631c46d6a442fda8407e0f044e7f6863d66ca38a6773743b43760e9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
