@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΥΜ3ΩΨΛ-40Μ",
+  "subject": "Α Π Ο Φ Α Σ Η\nσε αίτηση του ΚΩΝΣΤΑΝΤΙΝΟΥ ΓΙΑΠΟΥΤΖΗ του ΔΗΜΗΤΡΙΟΥ",
+  "protocol_number": "12980",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6029",
+    "label": "ΔΗΜΟΣ ΑΜΥΝΤΑΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79551"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-06-17",
+  "posted": "2014-06-25",
+  "publish_timestamp_ms": 1403674938243,
+  "version_id": "388e187c-21c5-4e4e-94a0-9d75a92fd88f",
+  "in_force": "2014-06-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A5%CE%9C3%CE%A9%CE%A8%CE%9B-40%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A5%CE%9C3%CE%A9%CE%A8%CE%9B-40%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%A5%CE%9C3%CE%A9%CE%A8%CE%9B-40%CE%9C",
+  "listing_sha256": "239288c9f9fe82c3a153d7eabd6f58be40186a0d9ec4843337ba6385e40d0448",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
