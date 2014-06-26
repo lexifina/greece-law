@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΖ9ΙΩΗ9-ΨΡΓ",
+  "subject": "Διενέργεια εκδήλωσης για τα εκατό χρόνια των Βαλκανικών πολέμων, με απευθείας ανάθεση.",
+  "protocol_number": "76224",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6298",
+    "label": "ΔΗΜΟΣ ΤΡΙΚΚΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "89921"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-12-06",
+  "posted": "2014-06-26",
+  "publish_timestamp_ms": 1403780260774,
+  "version_id": "cdaff679-1ede-4018-a5bd-4d71cd85a01a",
+  "in_force": "2014-06-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%969%CE%99%CE%A9%CE%979-%CE%A8%CE%A1%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%969%CE%99%CE%A9%CE%979-%CE%A8%CE%A1%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%969%CE%99%CE%A9%CE%979-%CE%A8%CE%A1%CE%93",
+  "listing_sha256": "111514024aa8e302ba48f993ca30d2a8b6ea59fc3f04de573d1bca005ddc15ad",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
