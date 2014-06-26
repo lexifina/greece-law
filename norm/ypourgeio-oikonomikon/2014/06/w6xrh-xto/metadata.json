@@ -1,0 +1,50 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω6ΧΡΗ-ΧΤΟ",
+  "subject": "Καθορισμός των όρων, των προϋποθέσεων, των δικαιούχων προς επιστροφή προσώπων, των ποσοτήτων για τις οποίες υπολογίζεται η επιστροφή, της διαδικασίας επιστροφής του Ε.Φ.Κ., και του τρόπου ελέγχου της νόμιμης χρησιμοποίησης του πετρελαίου εσωτερικής καύσης (DIESEL) κινητήρων, της περίπτωσης στ΄ της παραγράφου 1 του άρθρου 73 του ν. 2960/01 (Φ.Ε.Κ. 265/Α΄) «Εθνικός Τελωνειακός Κώδικας», το οποίο χρησιμοποιείται αποκλειστικά στη γεωργία",
+  "protocol_number": "ΔΕΦΚ Α 5011386 ΕΞ 2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76060"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1214",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "3",
+        "unitId": [
+          "71159"
+        ]
+      }
+    ]
+  },
+  "issued": "2014-06-13",
+  "posted": "2014-06-26",
+  "publish_timestamp_ms": 1403776881559,
+  "version_id": "c8e5ddde-7987-4660-b53b-7c39e097e2e9",
+  "in_force": "2014-06-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%A7%CE%A1%CE%97-%CE%A7%CE%A4%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%A7%CE%A1%CE%97-%CE%A7%CE%A4%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A96%CE%A7%CE%A1%CE%97-%CE%A7%CE%A4%CE%9F",
+  "listing_sha256": "84f2e06a247433a8eaef12689bfe509e84f0118afc5141ef031d209e68da8f34",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
