@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β59ΠΩ9Μ-ΔΚΕ",
+  "subject": "Έκδοση εντάλματος προπληρωμής σε βάρος  του ΚΑ 20.7325.13 για «Επεκτάσεις δικτύου φωτισμού Μυλοποτάμου» ποσού 2.254,98",
+  "protocol_number": "213_oe_2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79177"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΨΛΠΩ9Μ-Δ3Α"
+      }
+    ]
+  },
+  "issued": "2014-06-25",
+  "posted": "2014-07-03",
+  "publish_timestamp_ms": 1404374022772,
+  "version_id": "714591fa-e859-475f-bd4d-9a7f15d8013e",
+  "in_force": "2014-07-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9259%CE%A0%CE%A99%CE%9C-%CE%94%CE%9A%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9259%CE%A0%CE%A99%CE%9C-%CE%94%CE%9A%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9259%CE%A0%CE%A99%CE%9C-%CE%94%CE%9A%CE%95",
+  "listing_sha256": "0f4a9b456631c46d6a442fda8407e0f044e7f6863d66ca38a6773743b43760e9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
