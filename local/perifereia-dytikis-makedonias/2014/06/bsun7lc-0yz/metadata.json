@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΣΘΝ7ΛΨ-0ΥΖ",
+  "subject": "ΑΠΟΦΑΣΗ ΚΑΤΑΝΟΜΗΣ ΠΔΕ ΣΑΕ 205 (ΕΠΑΔΥΜ)",
+  "protocol_number": "57327/1550",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5005",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79831"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΥ07ΛΨ-0Κ7"
+      }
+    ]
+  },
+  "issued": "2014-06-06",
+  "posted": "2014-07-03",
+  "publish_timestamp_ms": 1404367719273,
+  "version_id": "aef00019-758d-4f9b-8864-c30c096cdb51",
+  "in_force": "2014-07-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A3%CE%98%CE%9D7%CE%9B%CE%A8-0%CE%A5%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A3%CE%98%CE%9D7%CE%9B%CE%A8-0%CE%A5%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%A3%CE%98%CE%9D7%CE%9B%CE%A8-0%CE%A5%CE%96",
+  "listing_sha256": "86d4b6f66b7be353f6fdb2a49a50c07006e50d6b5112d68713f55dff183959cc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
