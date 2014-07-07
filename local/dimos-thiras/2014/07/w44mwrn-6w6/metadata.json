@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω44ΜΩΡΝ-6Ω6",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΠΕΡΙ ΕΓΚΡΙΣΕΩΣ ΔΙΕΝΕΡΓΕΙΑΣ ΠΡΟΜΗΘΕΙΑΣ ΕΞΟΠΛΙΣΜΟΥ ΣΥΛΛΟΓΗΣ ΥΛΙΚΩΝ (ΣΚΑΦΑΚΙΑ)",
+  "protocol_number": "580",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6116",
+    "label": "ΔΗΜΟΣ ΘΗΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "77969"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω5ΦΣΩΡΝ-ΔΨΕ"
+      }
+    ]
+  },
+  "issued": "2014-07-07",
+  "posted": "2014-07-07",
+  "publish_timestamp_ms": 1404710355587,
+  "version_id": "cadd93c5-990b-4c1c-9fcb-55119bf41ced",
+  "in_force": "2014-07-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A944%CE%9C%CE%A9%CE%A1%CE%9D-6%CE%A96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A944%CE%9C%CE%A9%CE%A1%CE%9D-6%CE%A96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A944%CE%9C%CE%A9%CE%A1%CE%9D-6%CE%A96",
+  "listing_sha256": "f7728e4873375132cfadd3b18abafc3444fc57c564f23886ec43601ec0233a7a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
