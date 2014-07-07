@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΞΕΗΩΕ0-Ψ2Ε",
+  "subject": "Ορθή επανάληψη απόφασης 34/2014 ΔΣ του ΚΟΠΑΠ",
+  "protocol_number": "138",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6136",
+    "label": "ΔΗΜΟΣ ΚΑΡΠΑΘΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88188"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "kanonistikipraxiaa": "34",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΙΡΩΕ0-ΘΙ1"
+      }
+    ]
+  },
+  "issued": "2014-03-21",
+  "posted": "2014-07-07",
+  "publish_timestamp_ms": 1404729429273,
+  "version_id": "4ba22fda-c367-471e-a455-dd486b5d1d5e",
+  "in_force": "2014-07-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9E%CE%95%CE%97%CE%A9%CE%950-%CE%A82%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9E%CE%95%CE%97%CE%A9%CE%950-%CE%A82%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9E%CE%95%CE%97%CE%A9%CE%950-%CE%A82%CE%95",
+  "listing_sha256": "ca3ac6019b162db85a4946c4fb77ae2c9c88247d4b24915e94623fef17a622e9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
