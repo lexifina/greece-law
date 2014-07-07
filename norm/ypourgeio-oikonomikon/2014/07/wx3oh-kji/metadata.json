@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧ3ΟΗ-ΚΞΙ",
+  "subject": "Σχετικά με την πληρωμή του αρ.975/11-12-13 ΧΕΠ «Για την απόδοση των κρατήσεων υπέρ ΙΚΑ-ΕΤΑΜ για αποζημίωση από μισθωτές υπηρεσίες και ετήσια κράτηση εργοδοτικής εισφοράς για τον ειδικό λογαριασμό παιδικών κατασκηνώσεων (ΕΛΠΚ)",
+  "protocol_number": "24Γ02",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "73871"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "kanonistikipraxiaa": "24Γ02",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛΓΛΗ-ΒΡ6"
+      }
+    ]
+  },
+  "issued": "2014-07-02",
+  "posted": "2014-07-07",
+  "publish_timestamp_ms": 1404718938443,
+  "version_id": "04df5d56-5afd-4020-9c62-0210bca4e923",
+  "in_force": "2014-07-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A73%CE%9F%CE%97-%CE%9A%CE%9E%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A73%CE%9F%CE%97-%CE%9A%CE%9E%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A73%CE%9F%CE%97-%CE%9A%CE%9E%CE%99",
+  "listing_sha256": "e4a7773730c36a13d31c5479a5f7e0dc6d2bad18987aebce6e2b591844d1fe48",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
