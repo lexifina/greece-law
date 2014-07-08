@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β550ΩΛΓ-7Β5",
+  "subject": "Εξέταση καταγγελίας κατοίκων περιοχής ''Παντέλι'' Λέρου",
+  "protocol_number": "Απόφαση Οικονομικής Επιτροπής 101/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6171",
+    "label": "ΔΗΜΟΣ ΛΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84441"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-06-23",
+  "posted": "2014-07-08",
+  "publish_timestamp_ms": 1404798520664,
+  "version_id": "b30a4d62-3768-4924-989e-dc52229a8d0b",
+  "in_force": "2014-07-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92550%CE%A9%CE%9B%CE%93-7%CE%925",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92550%CE%A9%CE%9B%CE%93-7%CE%925/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92550%CE%A9%CE%9B%CE%93-7%CE%925",
+  "listing_sha256": "7c8b3847095afe4228d70cac91d77d65198a669a32d4c979dea9a4f56957c101",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
