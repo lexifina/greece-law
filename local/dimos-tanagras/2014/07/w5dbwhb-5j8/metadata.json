@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω5ΔΒΩΗΒ-5Ξ8",
+  "subject": "ΑΠΟΦΑΣΗ  123/2014    «Λήψη απόφασης για την αποδοχή και κατανομή ποσού 78.981,35 €, το οποίο αφορά ΚΑΠ για κάλυψη δράσεων πυροπροστασίας»",
+  "protocol_number": "12823",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6293",
+    "label": "ΔΗΜΟΣ ΤΑΝΑΓΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80657"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-07-03",
+  "posted": "2014-07-09",
+  "publish_timestamp_ms": 1404894390053,
+  "version_id": "ceffaa5e-dc2b-4ee9-810c-2364b735874b",
+  "in_force": "2014-07-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%94%CE%92%CE%A9%CE%97%CE%92-5%CE%9E8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%94%CE%92%CE%A9%CE%97%CE%92-5%CE%9E8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A95%CE%94%CE%92%CE%A9%CE%97%CE%92-5%CE%9E8",
+  "listing_sha256": "41eb0b7d52c83333162b92fa313ac279078b106eaf3e2c3c193fcc46a5925fe3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
