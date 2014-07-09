@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΖΘΝΩΚ3-ΞΥΥ",
+  "subject": "Άσκηση ή μη ένδικων μέσων.",
+  "protocol_number": "155",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6211",
+    "label": "ΔΗΜΟΣ ΝΕΑΣ ΣΜΥΡΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81589"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-07-08",
+  "posted": "2014-07-09",
+  "publish_timestamp_ms": 1404906250929,
+  "version_id": "36ea920f-44a9-4b52-afbe-01f31c9b32f0",
+  "in_force": "2014-07-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%96%CE%98%CE%9D%CE%A9%CE%9A3-%CE%9E%CE%A5%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%96%CE%98%CE%9D%CE%A9%CE%9A3-%CE%9E%CE%A5%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%96%CE%98%CE%9D%CE%A9%CE%9A3-%CE%9E%CE%A5%CE%A5",
+  "listing_sha256": "c7cf7647dd8ffd7224aa005f02026647c04307677807caf24e4dfb648fc3c972",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
