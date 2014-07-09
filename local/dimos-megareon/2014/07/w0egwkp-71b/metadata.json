@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω0ΕΓΩΚΠ-71Β",
+  "subject": "Απόφαση Συμβουλίου Δημοτικής Κοινότητας Νέας Περάμου 78-2014",
+  "protocol_number": "15843",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6188",
+    "label": "ΔΗΜΟΣ ΜΕΓΑΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80566"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-07-09",
+  "posted": "2014-07-09",
+  "publish_timestamp_ms": 1404902905087,
+  "version_id": "d32cdfe4-2e12-4387-9c84-d7d4fd326ec0",
+  "in_force": "2014-07-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%95%CE%93%CE%A9%CE%9A%CE%A0-71%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%95%CE%93%CE%A9%CE%9A%CE%A0-71%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A90%CE%95%CE%93%CE%A9%CE%9A%CE%A0-71%CE%92",
+  "listing_sha256": "d853461d09787842e776666bf04f9d696951035b1ccbf03fa258adcfb4fb1a13",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
