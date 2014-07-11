@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "71ΗΚΩ1Ξ-ΗΜΕ",
+  "subject": "Λήψη απόφασης για την παροχή εξασφαλίσεων υπέρ προς Τράπεζας με την επωνυμία « Τράπεζα Eurobank Ergasias Ανώνυμη Εταιρεία» σε εξασφάλιση προς εκδοθείσας από αυτήν υπ΄αριθμ. 9004045218/2.5.2014 εγγυητικής επιστολής ποσού 250.000,00ευρώ υπέρ του Δήμου προς την Εταιρεία Ύδρευσης και Αποχέτευσης (ΕΥΔΑΠ Α.Ε.)»",
+  "protocol_number": "184",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6269",
+    "label": "ΔΗΜΟΣ ΣΑΡΩΝΙΚΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83914"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "184",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-06-26",
+  "posted": "2014-07-11",
+  "publish_timestamp_ms": 1405061935164,
+  "version_id": "0f012c19-6cda-466a-8ee4-d84ac68580fe",
+  "in_force": "2014-07-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/71%CE%97%CE%9A%CE%A91%CE%9E-%CE%97%CE%9C%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/71%CE%97%CE%9A%CE%A91%CE%9E-%CE%97%CE%9C%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/71%CE%97%CE%9A%CE%A91%CE%9E-%CE%97%CE%9C%CE%95",
+  "listing_sha256": "02d795594cfaa7c35d4b36b50fc25d204b47bc53351d8e8671869552b7cdd697",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
