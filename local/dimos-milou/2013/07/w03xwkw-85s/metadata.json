@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω03ΧΩΚΩ-85Σ",
+  "subject": "ΑΓΟΡΑ ΟΙΚΟΠΕΔΟΥ ΠΛΗΣΙΟΝ ΑΡΧΑΙΟΥ ΘΕΑΤΡΟΥ",
+  "protocol_number": "175",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6193",
+    "label": "ΔΗΜΟΣ ΜΗΛΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84195"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "175",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-24",
+  "posted": "2014-07-11",
+  "publish_timestamp_ms": 1405072568077,
+  "version_id": "93358a47-2a9d-4291-8dc4-1dba8ee95875",
+  "in_force": "2014-07-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A903%CE%A7%CE%A9%CE%9A%CE%A9-85%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A903%CE%A7%CE%A9%CE%9A%CE%A9-85%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A903%CE%A7%CE%A9%CE%9A%CE%A9-85%CE%A3",
+  "listing_sha256": "ff3cc7ccb27ea4c0d5922ad46e3e720df6553100a620cd72b9a8b069b51ee45d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
