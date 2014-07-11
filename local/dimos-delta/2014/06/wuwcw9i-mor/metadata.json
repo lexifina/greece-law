@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΘΩΨΩ9Ι-ΜΟΡ",
+  "subject": "ΕΓΚΡΙΣΗ ΔΙΕΝΕΡΓΕΙΑΣ ΤΗΣ ΠΡΟΜΗΘΕΙΑΣ ΣΠΟΡΩΝ ΚΑΙ ΦΥΤΩΝ ΜΕ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗ",
+  "protocol_number": "65",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6071",
+    "label": "ΔΗΜΟΣ ΔΕΛΤΑ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86735"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "kanonistikipraxiaa": "55",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-06-13",
+  "posted": "2014-07-11",
+  "publish_timestamp_ms": 1405071742273,
+  "version_id": "d1e67e9a-335e-4f25-a7f1-4ef4290fe85c",
+  "in_force": "2014-07-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%A9%CE%A8%CE%A99%CE%99-%CE%9C%CE%9F%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%A9%CE%A8%CE%A99%CE%99-%CE%9C%CE%9F%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%98%CE%A9%CE%A8%CE%A99%CE%99-%CE%9C%CE%9F%CE%A1",
+  "listing_sha256": "84f2e06a247433a8eaef12689bfe509e84f0118afc5141ef031d209e68da8f34",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
