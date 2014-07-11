@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω11ΣΩΗΝ-ΘΦΗ",
+  "subject": "Η ΑΡΙΘΜ. 287/2014 ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΧΙΟΥ",
+  "protocol_number": "17286",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78547"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "774",
+      "issue": "fektype_C",
+      "issueyear": 2014
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-17",
+  "posted": "2014-07-11",
+  "publish_timestamp_ms": 1405064730807,
+  "version_id": "068ff891-a77c-4ddd-9aec-f7efd62dddee",
+  "in_force": "2014-07-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A911%CE%A3%CE%A9%CE%97%CE%9D-%CE%98%CE%A6%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A911%CE%A3%CE%A9%CE%97%CE%9D-%CE%98%CE%A6%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A911%CE%A3%CE%A9%CE%97%CE%9D-%CE%98%CE%A6%CE%97",
+  "listing_sha256": "9a5eb8323262a75676fdb8cf6d56ac7c43d7bf14c2cd9903c650aa99618e1a3e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
