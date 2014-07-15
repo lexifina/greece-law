@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "794ΒΩΞΓ-Ξ4Υ",
+  "subject": "έγκριση εξόδων μετακίνησης του κ. Μάρκου Κωβαίου στην Αθήνα",
+  "protocol_number": "9630",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6239",
+    "label": "ΔΗΜΟΣ ΠΑΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80712"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-07-14",
+  "posted": "2014-07-15",
+  "publish_timestamp_ms": 1405419306663,
+  "version_id": "3ad0d013-8a62-49ab-8e4a-4d05ca7af242",
+  "in_force": "2014-07-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/794%CE%92%CE%A9%CE%9E%CE%93-%CE%9E4%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/794%CE%92%CE%A9%CE%9E%CE%93-%CE%9E4%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/794%CE%92%CE%A9%CE%9E%CE%93-%CE%9E4%CE%A5",
+  "listing_sha256": "4ce28409f01034f050cf3d735cab1e9c28c04c376c06e6a8bf9e2a00c51062b2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
