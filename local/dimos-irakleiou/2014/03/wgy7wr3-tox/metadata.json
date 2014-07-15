@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΥ7ΩΡ3-ΤΟΧ",
+  "subject": "Εγκρίνουμε την μελέτη με αριθμό 38ΤΥ/2013 που συντάχθηκε από την Διεύθυνση Πολεοδομίας & Τεχνικών Υπηρεσιών  σχετικά με την επιθεώρηση πιστοποίησης παιδικών χαρών.",
+  "protocol_number": "1046",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79500"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΗ3ΩΡ3-Ο6Α"
+      }
+    ]
+  },
+  "issued": "2014-03-21",
+  "posted": "2014-07-15",
+  "publish_timestamp_ms": 1405424654164,
+  "version_id": "6c776054-1607-4274-9c6d-c2f54c103674",
+  "in_force": "2014-07-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A57%CE%A9%CE%A13-%CE%A4%CE%9F%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A57%CE%A9%CE%A13-%CE%A4%CE%9F%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%A57%CE%A9%CE%A13-%CE%A4%CE%9F%CE%A7",
+  "listing_sha256": "ca3ac6019b162db85a4946c4fb77ae2c9c88247d4b24915e94623fef17a622e9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
