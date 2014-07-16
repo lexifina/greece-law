@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β5ΩΚΗ-Δ48",
+  "subject": "«Απόφαση έκδοσης Εντόκων Γραμματίων του Ελληνικού Δημοσίου\nδιάρκειας 13 εβδομάδων στις 20/06/2014 μέσω δημόσιας εγγραφής».",
+  "protocol_number": "2/47732",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1652",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "2/47732",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-06-17",
+  "posted": "2014-07-16",
+  "publish_timestamp_ms": 1405494139898,
+  "version_id": "5f4283d0-77a1-42b3-a97b-5e930b36ad4f",
+  "in_force": "2014-07-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%925%CE%A9%CE%9A%CE%97-%CE%9448",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%925%CE%A9%CE%9A%CE%97-%CE%9448/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%925%CE%A9%CE%9A%CE%97-%CE%9448",
+  "listing_sha256": "239288c9f9fe82c3a153d7eabd6f58be40186a0d9ec4843337ba6385e40d0448",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
