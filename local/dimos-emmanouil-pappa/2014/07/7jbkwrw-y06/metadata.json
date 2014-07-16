@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΞΒΚΩΡΩ-Υ06",
+  "subject": "Ψήφιση πιστώσεων οικον. έτους 2014",
+  "protocol_number": "122",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6091",
+    "label": "ΔΗΜΟΣ ΕΜΜΑΝΟΥΗΛ ΠΑΠΠΑ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82019"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-07-14",
+  "posted": "2014-07-16",
+  "publish_timestamp_ms": 1405491508132,
+  "version_id": "65cb9591-d265-4486-95bd-7fa865ac7e3f",
+  "in_force": "2014-07-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9E%CE%92%CE%9A%CE%A9%CE%A1%CE%A9-%CE%A506",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9E%CE%92%CE%9A%CE%A9%CE%A1%CE%A9-%CE%A506/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9E%CE%92%CE%9A%CE%A9%CE%A1%CE%A9-%CE%A506",
+  "listing_sha256": "4ce28409f01034f050cf3d735cab1e9c28c04c376c06e6a8bf9e2a00c51062b2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
