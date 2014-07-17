@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "76ΠΟ7ΛΩ-ΠΔΘ",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ",
+  "protocol_number": "4546",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5003",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79759"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-07-16",
+  "posted": "2014-07-17",
+  "publish_timestamp_ms": 1405573355810,
+  "version_id": "c71b88cc-0293-41a9-94ac-61b0f3beb3f0",
+  "in_force": "2014-07-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/76%CE%A0%CE%9F7%CE%9B%CE%A9-%CE%A0%CE%94%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/76%CE%A0%CE%9F7%CE%9B%CE%A9-%CE%A0%CE%94%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/76%CE%A0%CE%9F7%CE%9B%CE%A9-%CE%A0%CE%94%CE%98",
+  "listing_sha256": "ed9fca71e35292dc2bbebf165a4223afe0538d5aa8fbd55a6c4adc7827a34e6c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
