@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "75ΠΚΩ6Δ-1ΕΕ",
+  "subject": "Αριθ.14/2014 απόφ.Οικον.Επιτροπής",
+  "protocol_number": "14/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6008",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΕΥΣΤΡΑΤΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93605"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΚ5Ω6Δ-ΘΧ3"
+      }
+    ]
+  },
+  "issued": "2014-03-06",
+  "posted": "2014-07-18",
+  "publish_timestamp_ms": 1405678029842,
+  "version_id": "3a27c847-7919-4aef-86f6-c8bbd3e856b3",
+  "in_force": "2014-07-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/75%CE%A0%CE%9A%CE%A96%CE%94-1%CE%95%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/75%CE%A0%CE%9A%CE%A96%CE%94-1%CE%95%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/75%CE%A0%CE%9A%CE%A96%CE%94-1%CE%95%CE%95",
+  "listing_sha256": "84e7661b8649f64ed806c25205e160784d53db7dc4025b2003b18fbc862aa4b6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
