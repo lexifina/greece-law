@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΥΘ0ΩΡΘ-ΗΥ5",
+  "subject": "Έγκριση δαπανών και διάθεση πιστώσεων του προϋπολογισμού έτους 2014",
+  "protocol_number": "251",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6106",
+    "label": "ΔΗΜΟΣ ΗΛΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82069"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-07-14",
+  "posted": "2014-07-22",
+  "publish_timestamp_ms": 1406002728066,
+  "version_id": "3cb3f136-f790-4524-84ae-73e7a69f9091",
+  "in_force": "2014-07-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A5%CE%980%CE%A9%CE%A1%CE%98-%CE%97%CE%A55",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A5%CE%980%CE%A9%CE%A1%CE%98-%CE%97%CE%A55/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%A5%CE%980%CE%A9%CE%A1%CE%98-%CE%97%CE%A55",
+  "listing_sha256": "4ce28409f01034f050cf3d735cab1e9c28c04c376c06e6a8bf9e2a00c51062b2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
