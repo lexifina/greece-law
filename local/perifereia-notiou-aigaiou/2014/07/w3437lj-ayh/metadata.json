@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω3437ΛΞ-ΑΥΗ",
+  "subject": "Η ΜΕ ΑΡΙΘΜ. 96/2014 ΑΠΟΦΑΣΗ ΠΕΡΙΦΕΡΕΙΑΚΟΥ ΣΥΜΒΟΥΛΙΟΥ ΜΕ ΘΕΜΑ : ΕΠΙΚΥΡΩΣΗ ΠΡΑΚΤΙΚΩΝ ΤΗΣ 6ης/25-6-2014 ΣΥΝΕΔΡΙΑΣΗΣ ΤΟΥ ΠΕΡΙΦΕΡΕΙΑΚΟΥ ΣΥΜΒΟΥΛΙΟΥ",
+  "protocol_number": "78878/7253",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5011",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78511"
+  ],
+  "thematic_category_ids": [
+    "66"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "0",
+      "issue": "fektype_A",
+      "issueyear": 2014
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-07-24",
+  "posted": "2014-07-24",
+  "publish_timestamp_ms": 1406195924978,
+  "version_id": "4112a2e0-3fd9-4e58-a1ad-936815f01355",
+  "in_force": "2014-07-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93437%CE%9B%CE%9E-%CE%91%CE%A5%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93437%CE%9B%CE%9E-%CE%91%CE%A5%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A93437%CE%9B%CE%9E-%CE%91%CE%A5%CE%97",
+  "listing_sha256": "58c71a9e0d9ab60eb5b608b7c9a2b9f8d0e59b69d7153c342bf13c9342ff3e13",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
