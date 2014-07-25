@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω05ΧΩΗΕ-ΒΛΒ",
+  "subject": "ΑΠΟΦΑΣ ΕΠΙΤΡΟΠΗΣ ΣΥΝΤΗΡΗΣΗΣ ΓΙΑ ΤΟ ΜΕ-32629",
+  "protocol_number": "17921",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6300",
+    "label": "ΔΗΜΟΣ ΤΡΙΦΥΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93601"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-07-23",
+  "posted": "2014-07-25",
+  "publish_timestamp_ms": 1406287740471,
+  "version_id": "5988da8f-f0bf-4569-9972-c276d3daa14d",
+  "in_force": "2014-07-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A905%CE%A7%CE%A9%CE%97%CE%95-%CE%92%CE%9B%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A905%CE%A7%CE%A9%CE%97%CE%95-%CE%92%CE%9B%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A905%CE%A7%CE%A9%CE%97%CE%95-%CE%92%CE%9B%CE%92",
+  "listing_sha256": "af19131a27060cf93da8fc26cac5fe8943582f8dea8a7ce5911c66f1ec4805d8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
