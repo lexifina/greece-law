@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΡΙΩΡΝ-1ΕΗ",
+  "subject": "ΠΡΟΣΚΛΗΣΗ ΕΚΔΗΛΩΣΗΣ ΕΝΔΙΑΦΕΡΟΝΤΟΣ ΓΙΑ ΤΗΝ ΠΑΡΟΧΗ ΥΠΗΡΕΣΙΩΝ ΓΙΑΤΡΟΥ ΕΡΓΑΣΙΑΣ",
+  "protocol_number": "11336",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6116",
+    "label": "ΔΗΜΟΣ ΘΗΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "77969"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΞΕΩΡΝ-ΑΕ1"
+      }
+    ]
+  },
+  "issued": "2014-07-25",
+  "posted": "2014-07-25",
+  "publish_timestamp_ms": 1406288959404,
+  "version_id": "23649358-1417-49a7-85cb-bfea97ba6c4d",
+  "in_force": "2014-07-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A1%CE%99%CE%A9%CE%A1%CE%9D-1%CE%95%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A1%CE%99%CE%A9%CE%A1%CE%9D-1%CE%95%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%A1%CE%99%CE%A9%CE%A1%CE%9D-1%CE%95%CE%97",
+  "listing_sha256": "d373a779a4aa43b14cbb166ed8f8489cd44b4031b46f69e8a354c24195b1fb74",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
