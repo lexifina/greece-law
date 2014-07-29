@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β8767ΛΗ-0ΦΠ",
+  "subject": "ΑΠΟΦΑΣΗ ΕΚΔΟΣΗΣ ΧΕΠ",
+  "protocol_number": "τ.τ. 87079/4432",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5013",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79160"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-07-29",
+  "posted": "2014-07-29",
+  "publish_timestamp_ms": 1406626553532,
+  "version_id": "7e754976-e6b0-4efe-b0e9-189d5f1b0ea7",
+  "in_force": "2014-07-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%928767%CE%9B%CE%97-0%CE%A6%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%928767%CE%9B%CE%97-0%CE%A6%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%928767%CE%9B%CE%97-0%CE%A6%CE%A0",
+  "listing_sha256": "61d6b9879cbf25287c16bbe07ab21b5e6755d751a293674a35b63f2bc613e3da",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
