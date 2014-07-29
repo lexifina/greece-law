@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΓΓΟΩΨΜ-Θ6Χ",
+  "subject": "Απόφαση Οικονομικής Επιτροπής 385/2014: \"Εισήγηση για τροποποίηση προϋπολογισμού\"",
+  "protocol_number": "385",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6047",
+    "label": "ΔΗΜΟΣ ΑΡΧΑΝΩΝ - ΑΣΤΕΡΟΥΣΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80138"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "385/2014",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-07-22",
+  "posted": "2014-07-29",
+  "publish_timestamp_ms": 1406633430986,
+  "version_id": "cad42b50-1606-4f96-8e81-34eae122a330",
+  "in_force": "2014-07-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%93%CE%93%CE%9F%CE%A9%CE%A8%CE%9C-%CE%986%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%93%CE%93%CE%9F%CE%A9%CE%A8%CE%9C-%CE%986%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%93%CE%93%CE%9F%CE%A9%CE%A8%CE%9C-%CE%986%CE%A7",
+  "listing_sha256": "cd4dbaa137b4bfd4eed76864ebcd99b0ecc1252812af815d1d70bc9033ad2eea",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
