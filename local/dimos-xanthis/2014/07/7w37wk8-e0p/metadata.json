@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Ω37ΩΚ8-Ε0Π",
+  "subject": "Έγκριση υπερωριών Β' εξαμήνου 2014 υπαλλήλων Δήμου Ξάνθης",
+  "protocol_number": "36406",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6220",
+    "label": "ΔΗΜΟΣ ΞΑΝΘΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81031"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "297",
+      "issue": "fektype_A",
+      "issueyear": 2003
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "1278",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-07-02",
+  "posted": "2014-07-31",
+  "publish_timestamp_ms": 1406798480965,
+  "version_id": "4e338a3a-6154-4f8c-80d2-9331d2f5ac27",
+  "in_force": "2014-07-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A937%CE%A9%CE%9A8-%CE%950%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A937%CE%A9%CE%9A8-%CE%950%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A937%CE%A9%CE%9A8-%CE%950%CE%A0",
+  "listing_sha256": "e4a7773730c36a13d31c5479a5f7e0dc6d2bad18987aebce6e2b591844d1fe48",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
