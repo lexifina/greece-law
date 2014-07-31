@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΖΜΝ7ΛΗ-7ΓΘ",
+  "subject": "ΕΝΤΟΛΗ ΕΚΤΟΣ ΕΔΡΑΣ ΜΕΤΑΚΙΝΗΣΗΣ",
+  "protocol_number": "84665/3558",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5013",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "87348"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-07-23",
+  "posted": "2014-07-31",
+  "publish_timestamp_ms": 1406791297278,
+  "version_id": "b17ad143-da97-4b77-8150-06616ab74010",
+  "in_force": "2014-07-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%96%CE%9C%CE%9D7%CE%9B%CE%97-7%CE%93%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%96%CE%9C%CE%9D7%CE%9B%CE%97-7%CE%93%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%96%CE%9C%CE%9D7%CE%9B%CE%97-7%CE%93%CE%98",
+  "listing_sha256": "af19131a27060cf93da8fc26cac5fe8943582f8dea8a7ce5911c66f1ec4805d8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
