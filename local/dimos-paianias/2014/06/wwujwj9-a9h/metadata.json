@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΩΘΞΩΞ9-Α9Η",
+  "subject": "ΥΠ'ΑΡΙΘ.190/2014 ΑΠΟΦ.ΔΗΜ.ΟΡΙΣΜΟΥ ΥΠΟΛΟΓΟΥ",
+  "protocol_number": "190/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6230",
+    "label": "ΔΗΜΟΣ ΠΑΙΑΝΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81858"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-06-25",
+  "posted": "2014-08-01",
+  "publish_timestamp_ms": 1406899533402,
+  "version_id": "97e6275d-5b2f-40b8-9aff-e66f732f6563",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A9%CE%98%CE%9E%CE%A9%CE%9E9-%CE%919%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A9%CE%98%CE%9E%CE%A9%CE%9E9-%CE%919%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A9%CE%98%CE%9E%CE%A9%CE%9E9-%CE%919%CE%97",
+  "listing_sha256": "0f4a9b456631c46d6a442fda8407e0f044e7f6863d66ca38a6773743b43760e9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
