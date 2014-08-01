@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΣΧΩ9Λ-1ΓΖ",
+  "subject": "Έγκριση καταβολής ληξιπρόθεσμων οφειλών στο ΙΚΑ",
+  "protocol_number": "409",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6063",
+    "label": "ΔΗΜΟΣ ΓΑΛΑΤΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84308"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-07-16",
+  "posted": "2014-08-01",
+  "publish_timestamp_ms": 1406885931105,
+  "version_id": "1d7a48c3-3f5b-4e9b-9a5f-7baa2306b6cd",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A3%CE%A7%CE%A99%CE%9B-1%CE%93%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A3%CE%A7%CE%A99%CE%9B-1%CE%93%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%A3%CE%A7%CE%A99%CE%9B-1%CE%93%CE%96",
+  "listing_sha256": "ed9fca71e35292dc2bbebf165a4223afe0538d5aa8fbd55a6c4adc7827a34e6c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
