@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω9ΤΑΩ0Ο-7ΞΡ",
+  "subject": "Εισήγηση στο Δημοτικό Συμβούλιο για Αναμόρφωση Προΰπολογισμού",
+  "protocol_number": "575/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81432"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "575",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-08-12",
+  "posted": "2014-08-12",
+  "publish_timestamp_ms": 1407841872583,
+  "version_id": "5e0af7f1-18a5-421b-bb6a-1fd222c76c68",
+  "in_force": "2014-08-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%A4%CE%91%CE%A90%CE%9F-7%CE%9E%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%A4%CE%91%CE%A90%CE%9F-7%CE%9E%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A99%CE%A4%CE%91%CE%A90%CE%9F-7%CE%9E%CE%A1",
+  "listing_sha256": "440deff446f792c756a3f728b52dbee71875e16d83f54b2b3b20e085973131f9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
