@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Τ2ΙΩΞΡ-Ν6Β",
+  "subject": "Αποδοχή ποσού 5.670,00 ευρώ χρηματοδότησης του έργου : Συν-ενεργείν τοπικά για την καταπολέμηση της ανεργίας στην Π.Ε.Κ.",
+  "protocol_number": "298",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6231",
+    "label": "ΔΗΜΟΣ ΠΑΙΟΝΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87472"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Π66ΩΞΡ-ΞΦ4"
+      }
+    ]
+  },
+  "issued": "2014-07-16",
+  "posted": "2014-08-21",
+  "publish_timestamp_ms": 1408611758383,
+  "version_id": "f60bf11f-1cfe-44c2-ab92-ea1e2edf9a4f",
+  "in_force": "2014-08-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A42%CE%99%CE%A9%CE%9E%CE%A1-%CE%9D6%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A42%CE%99%CE%A9%CE%9E%CE%A1-%CE%9D6%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A42%CE%99%CE%A9%CE%9E%CE%A1-%CE%9D6%CE%92",
+  "listing_sha256": "ed9fca71e35292dc2bbebf165a4223afe0538d5aa8fbd55a6c4adc7827a34e6c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
