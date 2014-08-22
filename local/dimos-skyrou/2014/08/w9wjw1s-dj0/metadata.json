@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω9ΩΞΩ1Σ-ΔΞ0",
+  "subject": "Αίτηση Γεωργίας Βενετσάνου για μίσθωση παραλίας στην θέση Κυρά Παναγιά",
+  "protocol_number": "140",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6282",
+    "label": "ΔΗΜΟΣ ΣΚΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82022"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-08-22",
+  "posted": "2014-08-22",
+  "publish_timestamp_ms": 1408687046065,
+  "version_id": "8e47c35b-9a30-4be6-bfa1-d0363ab234c4",
+  "in_force": "2014-08-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%A9%CE%9E%CE%A91%CE%A3-%CE%94%CE%9E0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%A9%CE%9E%CE%A91%CE%A3-%CE%94%CE%9E0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A99%CE%A9%CE%9E%CE%A91%CE%A3-%CE%94%CE%9E0",
+  "listing_sha256": "fd74bf1768ae97d775140028fa367652d03151ee2b278dddb27460540bbb5dee",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
