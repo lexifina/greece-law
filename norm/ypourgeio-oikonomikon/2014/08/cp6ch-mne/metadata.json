@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠ6ΨΗ-ΜΝΕ",
+  "subject": "Καθορισμός της υπέρβασης του ανωτάτου ορίου ημερών εκτός έδρας του Μεσσάρη Διονυσίου, Περιφερειακού Διευθυντή Εκπαίδευσης Νοτίου Αιγαίου",
+  "protocol_number": "2/57115/0022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2216",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "8"
+      }
+    ]
+  },
+  "issued": "2014-08-04",
+  "posted": "2014-08-28",
+  "publish_timestamp_ms": 1409227042226,
+  "version_id": "b7bbe386-d6d2-45a1-bef2-bbfd332079e9",
+  "in_force": "2014-08-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A06%CE%A8%CE%97-%CE%9C%CE%9D%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A06%CE%A8%CE%97-%CE%9C%CE%9D%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A06%CE%A8%CE%97-%CE%9C%CE%9D%CE%95",
+  "listing_sha256": "36550f43bd06ccfafb6e64ecde1def4883b983678442ce50c94d2efe5b4fae0b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
