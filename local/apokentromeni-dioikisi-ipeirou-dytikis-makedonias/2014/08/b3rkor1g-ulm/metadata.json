@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β3ΡΚΟΡ1Γ-ΘΛΜ",
+  "subject": "Τροποποίηση της απόφασης Προγράμματος Δασοπροστασίας έτους 2014",
+  "protocol_number": "49980 / 4405",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76555"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΗ06ΟΡ1Γ-5Γ6"
+      }
+    ]
+  },
+  "issued": "2014-08-28",
+  "posted": "2014-08-28",
+  "publish_timestamp_ms": 1409205662244,
+  "version_id": "1fa79b50-228d-40b1-ada2-7f2cfd60605b",
+  "in_force": "2014-08-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%923%CE%A1%CE%9A%CE%9F%CE%A11%CE%93-%CE%98%CE%9B%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%923%CE%A1%CE%9A%CE%9F%CE%A11%CE%93-%CE%98%CE%9B%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%923%CE%A1%CE%9A%CE%9F%CE%A11%CE%93-%CE%98%CE%9B%CE%9C",
+  "listing_sha256": "b30e8ead0c4232620c3b78f2594728100d4625c806b53ce1addf275061c6ee17",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
