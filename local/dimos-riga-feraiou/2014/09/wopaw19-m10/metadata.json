@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΟΠΑΩ19-Μ10",
+  "subject": "Εκλογή Μελών Επιτροπής Ποιότητας Ζωής του Δήμου Ρήγα Φεραίου",
+  "protocol_number": "12221",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6264",
+    "label": "ΔΗΜΟΣ ΡΗΓΑ ΦΕΡΑΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82481"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-09-09",
+  "posted": "2014-09-09",
+  "publish_timestamp_ms": 1410261314093,
+  "version_id": "176a7b91-16ac-42ef-9a38-341c33dd687f",
+  "in_force": "2014-09-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F%CE%A0%CE%91%CE%A919-%CE%9C10",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F%CE%A0%CE%91%CE%A919-%CE%9C10/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9F%CE%A0%CE%91%CE%A919-%CE%9C10",
+  "listing_sha256": "8021ec20cc581e4950769170f411932d89a8f3f5c533d19384f3e475400d7caf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
