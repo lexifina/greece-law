@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΗΡΩΕΚ-Ψ7Μ",
+  "subject": "ΑΠΟΦΑΣΗ ΟΡΙΣΜΟΥ ΑΝΤΙΔΗΜΑΡΧΩΝ",
+  "protocol_number": "ΑΔ 671/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6132",
+    "label": "ΔΗΜΟΣ ΚΑΛΛΙΘΕΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78028"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-09-10",
+  "posted": "2014-09-10",
+  "publish_timestamp_ms": 1410337361265,
+  "version_id": "c664c09e-1eda-40ee-b1a0-7ab92943d4e5",
+  "in_force": "2014-09-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%97%CE%A1%CE%A9%CE%95%CE%9A-%CE%A87%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%97%CE%A1%CE%A9%CE%95%CE%9A-%CE%A87%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%97%CE%A1%CE%A9%CE%95%CE%9A-%CE%A87%CE%9C",
+  "listing_sha256": "03bac0ecdb6a0568f443e1d605602d4bc7b630b5dd3625a985e5d0d27359b151",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
