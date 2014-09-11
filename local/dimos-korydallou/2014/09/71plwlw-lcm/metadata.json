@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "71ΠΛΩΛΩ-ΛΨΜ",
+  "subject": "Λήψη απόφασης για την εκλογή τεσσάρων(4) εκπροσώπων του Δημοτικού Συμβουλίου στην Γενική Συνέλευση της Π.Ε.Δ. ΑΤΤΙΚΗΣ.",
+  "protocol_number": "36313",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6159",
+    "label": "ΔΗΜΟΣ ΚΟΡΥΔΑΛΛΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78220"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "182",
+      "issue": "fektype_A",
+      "issueyear": 2011
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-09-11",
+  "posted": "2014-09-11",
+  "publish_timestamp_ms": 1410418395965,
+  "version_id": "060ff0f4-2083-4258-996a-6f93c648a351",
+  "in_force": "2014-09-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/71%CE%A0%CE%9B%CE%A9%CE%9B%CE%A9-%CE%9B%CE%A8%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/71%CE%A0%CE%9B%CE%A9%CE%9B%CE%A9-%CE%9B%CE%A8%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/71%CE%A0%CE%9B%CE%A9%CE%9B%CE%A9-%CE%9B%CE%A8%CE%9C",
+  "listing_sha256": "2f65fec47df5ccb8a6fd0d39311b154393777ca39a45b81dd0b64ce853b88df0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
