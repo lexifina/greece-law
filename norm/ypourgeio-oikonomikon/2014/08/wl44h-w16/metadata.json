@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΛ44Η-Ω16",
+  "subject": "Τροποποίηση της υπ’ αρ. 2/42740/0022/11-07-2013 Κοινής Υπουργικής Απόφασης περί καθορισμού μηνιαίας αποζημίωσης μελών Ομάδων Εργασίας Επιμόρφωσης Α’ και Β’ φάσης για τα σχολικά έτη 2012-2013 και 2013-2014 στο πλαίσιο υλοποίησης των Πράξεων «Πρόγραμμα εξειδικευμένης εκπαιδευτικής υποστήριξης για ένταξη μαθητών με αναπηρία ή/και ειδικές εκπαιδευτικές ανάγκες» στο πλαίσιο των ΑΠ 1, 2 και 3 του ΕΠ «Εκπαίδευση και Διά Βίου Μάθηση» του ΕΣΠΑ 2007-2013.",
+  "protocol_number": "2/60990/0022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "549",
+      "issue": "fektype_YODD",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "8",
+        "unitId": [
+          "71230"
+        ],
+        "signerIds": [
+          "11240"
+        ]
+      }
+    ]
+  },
+  "issued": "2014-08-25",
+  "posted": "2014-09-16",
+  "publish_timestamp_ms": 1410858705041,
+  "version_id": "a6e59bde-34d2-4a94-a1d3-9011d8fcf9b7",
+  "in_force": "2014-09-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B44%CE%97-%CE%A916",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B44%CE%97-%CE%A916/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9B44%CE%97-%CE%A916",
+  "listing_sha256": "4d33596f31a755543ad1d98422e5ad6043dd1979f622fdb02badbeea86de018a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
