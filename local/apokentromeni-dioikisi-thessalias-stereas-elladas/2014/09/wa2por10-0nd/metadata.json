@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΑ2ΠΟΡ10-0ΝΔ",
+  "subject": "Δ.Α.Α ΘΗΡΑΣ 2014-2015(ΔΙΟΡΘΩΣΗ ΤΗΣ ΑΡΙΘΜ.40/08/08/2014",
+  "protocol_number": "5406/180871",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77328"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΕ71ΟΡ10-ΨΤΟ"
+      }
+    ]
+  },
+  "issued": "2014-09-16",
+  "posted": "2014-09-16",
+  "publish_timestamp_ms": 1410853110401,
+  "version_id": "682d9e7c-8ff5-4a24-8864-1834541474fa",
+  "in_force": "2014-09-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%912%CE%A0%CE%9F%CE%A110-0%CE%9D%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%912%CE%A0%CE%9F%CE%A110-0%CE%9D%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%912%CE%A0%CE%9F%CE%A110-0%CE%9D%CE%94",
+  "listing_sha256": "a25d9ece2f60c0f4a1321f4b10026bd75dae9c62692efef57071bb6c97eec93f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
