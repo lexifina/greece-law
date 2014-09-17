@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΛΚ3ΟΡ1Υ-ΦΔ2",
+  "subject": "Τροποποίηση της υπ’αριθ.1919/10-02-2014 απόφασης Γενικού Γραμματέα Αποκεντρωμένης Διοίκησης Μακεδονίας-Θράκης περί «Καθιέρωσης  υπερωριακής  εργασίας με αμοιβή κατά τις Κυριακές και εξαιρέσιμες ημέρες υπαλλήλων των Υπηρεσιών της Περιφερείας Ανατολικής Μακεδονίας–Θράκης», όπως έχει διορθωθεί  με την υπ’αριθ.4872/02-04-2014 και τροποποιήθηκε  με την υπ’ αριθ. 5936/26-05-2014.",
+  "protocol_number": "13877",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "78032"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2442",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Πράξη Γενικού Γραμματέα Αποκεντρωμένης Διοίκησης",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΜ7ΧΟΡ1Υ-ΙΥΘ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΙΦΔΟΡ1Υ-Υ8Ρ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΙΚ5ΟΡ1Υ-ΕΓΥ"
+      }
+    ]
+  },
+  "issued": "2014-08-04",
+  "posted": "2014-09-17",
+  "publish_timestamp_ms": 1410948621982,
+  "version_id": "4a96caf0-ec95-4685-bab1-5a100b2ee8db",
+  "in_force": "2014-09-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%9A3%CE%9F%CE%A11%CE%A5-%CE%A6%CE%942",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%9A3%CE%9F%CE%A11%CE%A5-%CE%A6%CE%942/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9B%CE%9A3%CE%9F%CE%A11%CE%A5-%CE%A6%CE%942",
+  "listing_sha256": "36550f43bd06ccfafb6e64ecde1def4883b983678442ce50c94d2efe5b4fae0b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
