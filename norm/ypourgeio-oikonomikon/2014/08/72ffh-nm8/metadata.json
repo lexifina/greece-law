@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "72ΦΦΗ-ΝΜ8",
+  "subject": "Καθορισμός μηνιαίας αποζημίωσης μελών των Ομάδων Εργασίας εκπόνησης εκπαιδευτικού υλικού της Ζώνης Εκπαιδευτικής Προτεραιότητας (ΖΕΠ) Κ. ΠΑΤΗΣΙΩΝ στο πλαίσιο υλοποίησης του Υποέργου 2 «Πιλοτική εφαρμογή και εξάπλωση του θεσμού των ΖΕΠ» για την Πράξη «Ζώνες Εκπαιδευτικής Προτεραιότητας – Άξονας Προτεραιότητας 2» στο πλαίσιο του Άξονα Προτεραιότητας 2 του ΕΠ «Εκπαίδευση και Διά Βίου Μάθηση».",
+  "protocol_number": "2/59844/0022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "562",
+      "issue": "fektype_YODD",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "8",
+        "unitId": [
+          "71230"
+        ],
+        "signerIds": [
+          "11240"
+        ]
+      }
+    ]
+  },
+  "issued": "2014-08-25",
+  "posted": "2014-09-18",
+  "publish_timestamp_ms": 1411030961336,
+  "version_id": "80b7a6e1-2226-48d0-b25c-c4637fcc11c7",
+  "in_force": "2014-09-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/72%CE%A6%CE%A6%CE%97-%CE%9D%CE%9C8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/72%CE%A6%CE%A6%CE%97-%CE%9D%CE%9C8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/72%CE%A6%CE%A6%CE%97-%CE%9D%CE%9C8",
+  "listing_sha256": "4d33596f31a755543ad1d98422e5ad6043dd1979f622fdb02badbeea86de018a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
