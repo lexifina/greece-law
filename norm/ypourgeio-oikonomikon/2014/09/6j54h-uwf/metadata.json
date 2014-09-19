@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ξ54Η-ΘΩΦ",
+  "subject": "Καθορισμός των αποδοχών του Προέδρου και της αποζημίωσης των μελών του Ν.Π.Ι.Δ. με την επωνυμία \"Εθνική Αρχή Συντονισμού Πτήσεων\"",
+  "protocol_number": "2/63439/0022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "567",
+      "issue": "fektype_YODD",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "14",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "133097"
+        ]
+      }
+    ]
+  },
+  "issued": "2014-09-09",
+  "posted": "2014-09-19",
+  "publish_timestamp_ms": 1411129902751,
+  "version_id": "ad79be89-dccd-4de5-8176-1713e8ab8880",
+  "in_force": "2014-09-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E54%CE%97-%CE%98%CE%A9%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E54%CE%97-%CE%98%CE%A9%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9E54%CE%97-%CE%98%CE%A9%CE%A6",
+  "listing_sha256": "8021ec20cc581e4950769170f411932d89a8f3f5c533d19384f3e475400d7caf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
