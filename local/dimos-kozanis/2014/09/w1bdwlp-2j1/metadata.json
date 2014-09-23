@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω1ΒΔΩΛΠ-2Ξ1",
+  "subject": "ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ - Προκήρυξη μιας_1_ θέσης ειδικού συνεργάτη.",
+  "protocol_number": "56174",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6154",
+    "label": "ΔΗΜΟΣ ΚΟΖΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "10993"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΗΞ2ΩΛΠ-1Ρ6"
+      },
+      {
+        "relatedDecisionsADA": "ΩΤ01ΩΛΠ-ΧΟΞ"
+      }
+    ]
+  },
+  "issued": "2014-09-23",
+  "posted": "2014-09-23",
+  "publish_timestamp_ms": 1411463678032,
+  "version_id": "6a247abb-cd8e-49b8-bf18-c3a37706e15e",
+  "in_force": "2014-09-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%92%CE%94%CE%A9%CE%9B%CE%A0-2%CE%9E1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%92%CE%94%CE%A9%CE%9B%CE%A0-2%CE%9E1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A91%CE%92%CE%94%CE%A9%CE%9B%CE%A0-2%CE%9E1",
+  "listing_sha256": "19a900a3587feac1881d97b906bd34a07b0a55c42454eb6ad76655a89c98e887",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
