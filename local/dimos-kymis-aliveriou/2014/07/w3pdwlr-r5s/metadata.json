@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω3ΠΔΩΛΡ-Ρ5Σ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ 145 /2014 Έγκριση παράτασης προθεσμίας του έργου Βελτίωση αγροτικής\nοδοποιίας πυρόπληκτων τοπικών διαμερισμάτων Δήμου Αυλώνος.",
+  "protocol_number": "19411",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6163",
+    "label": "ΔΗΜΟΣ ΚΥΜΗΣ - ΑΛΙΒΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79712"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "87",
+      "issue": "fektype_A",
+      "issueyear": 2010
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-07-31",
+  "posted": "2014-09-24",
+  "publish_timestamp_ms": 1411565793354,
+  "version_id": "84aa5a59-0918-4462-922b-e50767519150",
+  "in_force": "2014-09-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%A0%CE%94%CE%A9%CE%9B%CE%A1-%CE%A15%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%A0%CE%94%CE%A9%CE%9B%CE%A1-%CE%A15%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A93%CE%A0%CE%94%CE%A9%CE%9B%CE%A1-%CE%A15%CE%A3",
+  "listing_sha256": "069f91682518d84175348d4cf6e350b574d9045067eea23d044965deed73142a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
