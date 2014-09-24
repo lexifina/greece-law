@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΘ3ΕΗ-ΔΤΖ",
+  "subject": "ΠΑΡΟΧΗ ΤΗΣ ΕΓΓΥΗΣΗΣ ΤΟΥ ΕΛΛΗΝΙΚΟΥ ΔΗΜΟΣΙΟΥ ΠΡΟΣ ΤΙΣ ΤΡΑΠΕΖΕΣ ΓΙΑ ΠΙΣΤΩΤΙΚΕΣ ΔΙΕΥΚΟΛΥΝΣΕΙΣ ΠΡΟΣ ΑΠΟΚΑΤΑΣΤΑΣΗ ΖΗΜΙΩΝ ΣΕ ΚΤΙΡΙΑ ΑΠΟ ΤΟΥΣ ΣΕΙΣΜΟΥΣ ΣΤΙΣ 2 ΚΑΙ 3 ΙΟΥΛΙΟΥ 2013 ΣΕ ΠΕΡΙΟΧΕΣ ΤΩΝ Π.Ε ΚΟΖΑΝΗΣ ΚΑΙ ΓΡΕΒΕΝΩΝ",
+  "protocol_number": "2/98627/0025/05-09-2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2437",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "2/98627",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-09-05",
+  "posted": "2014-09-24",
+  "publish_timestamp_ms": 1411567214877,
+  "version_id": "fcff2e26-17c5-491d-8693-e45416b42b66",
+  "in_force": "2014-09-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%983%CE%95%CE%97-%CE%94%CE%A4%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%983%CE%95%CE%97-%CE%94%CE%A4%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%983%CE%95%CE%97-%CE%94%CE%A4%CE%96",
+  "listing_sha256": "00f7edc141037086b1bf028aaaadc7aa210dad92863e1756ab7229dc452cc2d1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
