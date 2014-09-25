@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΕ65Ω9Γ-ΛΘ9",
+  "subject": "Έγκριση διάθεσης πίστωσης για τα οδοιπορικά έξοδα μετακίνησης του Δημάρχου.",
+  "protocol_number": "26903",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6069",
+    "label": "ΔΗΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003163"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-09-25",
+  "posted": "2014-09-25",
+  "publish_timestamp_ms": 1411631156218,
+  "version_id": "324d654d-42c5-42dc-a5a5-ed68ce3a3a3c",
+  "in_force": "2014-09-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9565%CE%A99%CE%93-%CE%9B%CE%989",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9565%CE%A99%CE%93-%CE%9B%CE%989/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9565%CE%A99%CE%93-%CE%9B%CE%989",
+  "listing_sha256": "054238b491cfeefd4069d5c13f2142018ef2fd5176991f9d119d12691c91ff80",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
