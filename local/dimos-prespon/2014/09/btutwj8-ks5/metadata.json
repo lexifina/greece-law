@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΤΘΤΩΞ8-ΚΣ5",
+  "subject": "ΑΠΟΦΑΣΗ 115/2014 ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ",
+  "protocol_number": "4589",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6254",
+    "label": "ΔΗΜΟΣ ΠΡΕΣΠΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81678"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "115/2014",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-09-24",
+  "posted": "2014-09-26",
+  "publish_timestamp_ms": 1411710111810,
+  "version_id": "e986eafe-f2c4-40e2-8689-28b31276d584",
+  "in_force": "2014-09-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A4%CE%98%CE%A4%CE%A9%CE%9E8-%CE%9A%CE%A35",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A4%CE%98%CE%A4%CE%A9%CE%9E8-%CE%9A%CE%A35/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%A4%CE%98%CE%A4%CE%A9%CE%9E8-%CE%9A%CE%A35",
+  "listing_sha256": "9df73747e54be6ae68342fa2759b6a7e02ad37e537c98e0d0bdb2159ef76919c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
