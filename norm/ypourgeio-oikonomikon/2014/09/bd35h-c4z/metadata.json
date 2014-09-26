@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΔ35Η-Ψ4Ζ",
+  "subject": "Εξουσιοδότηση υπογραφής «Με εντολή Γενικού Γραμματέα Δημοσίων Εσόδων» στον Προϊστάμενο της Γενικής Διεύθυνσης του Γενικού Χημείου του Κράτους (Γ.Χ.Κ.)",
+  "protocol_number": "30/002/7491",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "11211"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2545",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Πράξη Γενικού / Ειδικού Γραμματέα Υπουργείου",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-09-08",
+  "posted": "2014-09-26",
+  "publish_timestamp_ms": 1411711623966,
+  "version_id": "228e19f3-6674-457f-9bbe-e67c3ed3c9a0",
+  "in_force": "2014-09-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9435%CE%97-%CE%A84%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9435%CE%97-%CE%A84%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9435%CE%97-%CE%A84%CE%96",
+  "listing_sha256": "963e16f97cd9f15e93967bc081d5a035207c9d60aa03201f79d98231ce3bd983",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
