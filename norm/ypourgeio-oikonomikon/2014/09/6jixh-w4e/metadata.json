@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΞΙΧΗ-Ω4Ε",
+  "subject": "Έγκριση της από 11 Αυγούστου 2014 συναφθείσας Σύμβασης Χρηματοδότησης μεταξύ της \"SIEMENS A.E. ΗΛΕΚΤΡΟΤΕΧΝΙΚΩΝ ΕΡΓΩΝ ΚΑΙ ΠΡΟΪΟΝΤΩΝ\" και του \"ΙΔΡΥΜΑΤΟΣ ΚΡΑΤΙΚΩΝ ΥΠΟΤΡΟΦΙΩΝ\", για το τρίτο έτος του προγράμματος (ακαδημαϊκό έτος 2014-2015), σύμφωνα με τον όρο ΙΙΙ.2.(4) της από 22 Αυγούστου 2012 Συμφωνίας Συμβιβασμού μεταξύ της Ελληνικής Δημοκρατίας, της Siemens A.G. και της Siemens A.E.",
+  "protocol_number": "2/73798/ΔΠΔΑ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2527",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "8",
+        "unitId": [
+          "100003953"
+        ],
+        "signerIds": [
+          "11240"
+        ]
+      }
+    ]
+  },
+  "issued": "2014-09-22",
+  "posted": "2014-09-30",
+  "publish_timestamp_ms": 1412065458820,
+  "version_id": "3314cae4-5112-40bc-bd53-d974ee6865b2",
+  "in_force": "2014-09-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E%CE%99%CE%A7%CE%97-%CE%A94%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E%CE%99%CE%A7%CE%97-%CE%A94%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9E%CE%99%CE%A7%CE%97-%CE%A94%CE%95",
+  "listing_sha256": "1242564edd878dd403b6c25aac82a12d99045a2c6c5c3198f2be529f79eea968",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
