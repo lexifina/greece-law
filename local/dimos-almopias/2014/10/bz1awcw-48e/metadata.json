@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΖ1ΑΩΨΩ-48Ε",
+  "subject": "17η  αναμόρφωση προϋπολογισμού του Δήμου Αλμωπίας, οικ. έτους 2014.",
+  "protocol_number": "172",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6023",
+    "label": "ΔΗΜΟΣ ΑΛΜΩΠΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85102"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-10-01",
+  "posted": "2014-10-01",
+  "publish_timestamp_ms": 1412156426899,
+  "version_id": "d1031126-0853-4aa5-802a-f0258222051f",
+  "in_force": "2014-10-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%961%CE%91%CE%A9%CE%A8%CE%A9-48%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%961%CE%91%CE%A9%CE%A8%CE%A9-48%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%961%CE%91%CE%A9%CE%A8%CE%A9-48%CE%95",
+  "listing_sha256": "87785578f44eb94081181a9b628c65928e0973fb928c6a17eca7359955a12e27",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
