@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΤΗΣΟΡ1Θ-ΘΒΓ",
+  "subject": "Παραχώρηση χώρου Αλυκών Ελούντας στο Δήμο Αγίου Νικολάου.",
+  "protocol_number": "2886",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76913"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2593",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Πράξη Γενικού Γραμματέα Αποκεντρωμένης Διοίκησης",
+    "kanonistikipraxiaa": "2886",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-09-09",
+  "posted": "2014-10-02",
+  "publish_timestamp_ms": 1412243948798,
+  "version_id": "4658a8da-2e97-4d76-9350-ce7ed08d4591",
+  "in_force": "2014-10-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A4%CE%97%CE%A3%CE%9F%CE%A11%CE%98-%CE%98%CE%92%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A4%CE%97%CE%A3%CE%9F%CE%A11%CE%98-%CE%98%CE%92%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A4%CE%97%CE%A3%CE%9F%CE%A11%CE%98-%CE%98%CE%92%CE%93",
+  "listing_sha256": "8021ec20cc581e4950769170f411932d89a8f3f5c533d19384f3e475400d7caf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
