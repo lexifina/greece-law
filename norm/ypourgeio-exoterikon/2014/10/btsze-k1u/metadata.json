@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΤΣΖΕ-Κ1Θ",
+  "subject": "ΑΝΑΚΛΗΣΗ ΔΑΠΑΝΗΣ ΑΝΤ/ΣΗΣ ΕΛΑΣΤΙΚΟΥ Υ/Α ΜΑ ΝΑΤΟ",
+  "protocol_number": "085/6050",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70150"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-10-03",
+  "posted": "2014-10-03",
+  "publish_timestamp_ms": 1412330704967,
+  "version_id": "f54dfc71-7475-4bc4-9451-adb014775753",
+  "in_force": "2014-10-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A4%CE%A3%CE%96%CE%95-%CE%9A1%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A4%CE%A3%CE%96%CE%95-%CE%9A1%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%A4%CE%A3%CE%96%CE%95-%CE%9A1%CE%98",
+  "listing_sha256": "14604b26430d32528e379a459eb139d99775bc44a4fafc973791b374f6328078",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
