@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΑΠ8Η-ΟΓ8",
+  "subject": "ΚΑΘΟΡΙΣΜΟΣ ΑΠΟΖΗΜΙΩΣΗΣ  ΕΙΔΙΚΟΥ ΤΟΠΙΚΟΥ ΤΜΗΜΑΤΟΣ ΤΟΥ ΑΝΩΤΑΤΟΥ ΣΥΜΒΟΥΛΙΟΥ ΕΠΙΛΥΣΗΣ  ΑΘΛΗΤΙΚΩΝ ΔΙΑΦΟΡΩΝ (Α.Σ.Ε.Α.Δ.), σύμφωνα με τα άρθρα 123-127Α του  Ν.2725/1999, όπως ισχύουν",
+  "protocol_number": "2/66073/0022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "578",
+      "issue": "fektype_YODD",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "17",
+        "unitId": [
+          "71437"
+        ],
+        "signerIds": [
+          "133218"
+        ]
+      }
+    ]
+  },
+  "issued": "2014-09-10",
+  "posted": "2014-10-06",
+  "publish_timestamp_ms": 1412597693042,
+  "version_id": "b3d39cc1-4da3-48d3-a09f-1c4f51f213b1",
+  "in_force": "2014-10-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%91%CE%A08%CE%97-%CE%9F%CE%938",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%91%CE%A08%CE%97-%CE%9F%CE%938/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%91%CE%A08%CE%97-%CE%9F%CE%938",
+  "listing_sha256": "03bac0ecdb6a0568f443e1d605602d4bc7b630b5dd3625a985e5d0d27359b151",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
