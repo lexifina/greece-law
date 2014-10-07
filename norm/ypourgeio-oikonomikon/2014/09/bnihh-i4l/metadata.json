@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΝΙΗΗ-Ι4Λ",
+  "subject": "Καθορισμός ημερήσιας αποζημίωσης φοιτητών των Σχολών του Εθνικού Μετσόβιου Πολυτεχνείου για τη συμμετοχή τους στην πρακτική άσκηση έτους 2014",
+  "protocol_number": "2/69683/0022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2551",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "8",
+        "unitId": [
+          "95412"
+        ],
+        "signerIds": [
+          "11240"
+        ]
+      }
+    ]
+  },
+  "issued": "2014-09-16",
+  "posted": "2014-10-07",
+  "publish_timestamp_ms": 1412669707428,
+  "version_id": "f1b040a0-0758-4e30-8f1c-3ae4b9e65f99",
+  "in_force": "2014-10-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9D%CE%99%CE%97%CE%97-%CE%994%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9D%CE%99%CE%97%CE%97-%CE%994%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9D%CE%99%CE%97%CE%97-%CE%994%CE%9B",
+  "listing_sha256": "dcc903244276ab9afe02b2dbdd5f01ad2150ad485f0950f158867352fd79ee28",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
