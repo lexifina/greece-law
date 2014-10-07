@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΠΕΒΩΕΒ-ΨΧΟ",
+  "subject": "ΛΗΨΗ ΑΠΟΦΑΣΗΣ ΓΙΑ ΟΦΕΙΛΗ ΑΠΙ ΒΕΒΑΙΩΤΙΚΟ ΚΑΤΑΛΟΓΟ ΤΗΣ ΕΤΑΙΡΕΙΑΣ ΟΤΕ ΑΕ",
+  "protocol_number": "54784",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6123",
+    "label": "ΔΗΜΟΣ ΙΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78734"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-09-29",
+  "posted": "2014-10-07",
+  "publish_timestamp_ms": 1412677493943,
+  "version_id": "282293f5-6196-466d-b05d-2046f488995a",
+  "in_force": "2014-10-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%95%CE%92%CE%A9%CE%95%CE%92-%CE%A8%CE%A7%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%95%CE%92%CE%A9%CE%95%CE%92-%CE%A8%CE%A7%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A0%CE%95%CE%92%CE%A9%CE%95%CE%92-%CE%A8%CE%A7%CE%9F",
+  "listing_sha256": "eb9548ed9e3ad56c01180979a50093d5ad90632c17daff95d8bc9551a2f0374e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
