@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Σ4ΦΗ-Α23",
+  "subject": "Καθορισμός μηνιαίας αποζημίωσης μελών της Ομάδας Παιδαγωγικής και Επιστημονικής Τεκμηρίωσης των Πράξεων «Πρόγραμμα εξειδικευμένης εκπαιδευτικής υποστήριξης για ένταξη μαθητών με αναπηρία ή/και ειδικές εκπαιδευτικές ανάγκες» στο πλαίσιο των ΑΠ 1, 2 και 3 του ΕΠ «Εκπαίδευση και Διά Βίου Μάθηση» του ΕΣΠΑ 2007-2013",
+  "protocol_number": "2/60993/0022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "527",
+      "issue": "fektype_YODD",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "8",
+        "unitId": [
+          "71230"
+        ],
+        "signerIds": [
+          "11240"
+        ]
+      }
+    ]
+  },
+  "issued": "2014-08-18",
+  "posted": "2014-10-07",
+  "publish_timestamp_ms": 1412675691949,
+  "version_id": "08cc6932-3a6c-4be7-abdf-81de4a0e871d",
+  "in_force": "2014-10-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A34%CE%A6%CE%97-%CE%9123",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A34%CE%A6%CE%97-%CE%9123/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A34%CE%A6%CE%97-%CE%9123",
+  "listing_sha256": "a91aad03947343432409ed8d666a469a0ff2a4cb292d937237ab52d761763c5e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
