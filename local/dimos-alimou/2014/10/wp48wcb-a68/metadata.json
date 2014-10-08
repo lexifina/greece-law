@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΠ48ΩΨΒ-Α68",
+  "subject": "ΑΠΟΜΑΚΡΥΝΣΗ ΚΙΝΗΤΗΣ ΚΑΝΤΙΝΑΣ",
+  "protocol_number": "19421",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82630"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-10-08",
+  "posted": "2014-10-08",
+  "publish_timestamp_ms": 1412758084682,
+  "version_id": "756556a3-5f1a-4672-aa10-813f161c5f4a",
+  "in_force": "2014-10-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A048%CE%A9%CE%A8%CE%92-%CE%9168",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A048%CE%A9%CE%A8%CE%92-%CE%9168/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A048%CE%A9%CE%A8%CE%92-%CE%9168",
+  "listing_sha256": "0c6e1b65b8586040baa5b33ea6f1fb08fbbdca2b535e9acaef1471f5ba26b10f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
