@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Σ9ΥΩΚΖ-31Γ",
+  "subject": "ΑΠΟΦΑΣΗ 102 ΔΗΜΑΡΧΟΥ ΠΕΡΙ \n\nΑΝΑΚΛΗΣΗ ΤΗΣ ΑΡΙΘ. 93/2014 ΑΠΟΦΑΣΕΩΣ ΠΕΡΙ 'ΟΡΙΣΜΟΣ ΔΙΚΗΓΟΡΟΥ'",
+  "protocol_number": "13817",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6221",
+    "label": "ΔΗΜΟΣ ΞΗΡΟΜΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "11248"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΠΒ4ΩΚΖ-Η6Ζ"
+      }
+    ]
+  },
+  "issued": "2014-10-15",
+  "posted": "2014-10-15",
+  "publish_timestamp_ms": 1413365658421,
+  "version_id": "0a7226ab-cf49-4f90-ba6d-067d5ba2e63f",
+  "in_force": "2014-10-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A39%CE%A5%CE%A9%CE%9A%CE%96-31%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A39%CE%A5%CE%A9%CE%9A%CE%96-31%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A39%CE%A5%CE%A9%CE%9A%CE%96-31%CE%93",
+  "listing_sha256": "68531f3a373a697dba06d51c4f7b82845c942237d788c1c8d0e186b79e87d2bf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
