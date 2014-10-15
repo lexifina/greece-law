@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "90ΤΒΩ6Δ-Ο6Ρ",
+  "subject": "ΑΠΟΦΑΣΗ ΣΥΓΚΡΟΤΗΣΗΣ ΕΚΛΟΓΙΚΟΥ ΣΥΝΕΡΓΕΙΟΥ",
+  "protocol_number": "808",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6008",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΕΥΣΤΡΑΤΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93605"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-05-13",
+  "posted": "2014-10-15",
+  "publish_timestamp_ms": 1413394981196,
+  "version_id": "4dd0e430-9e2e-45c9-a1f7-1bb0f80d8f24",
+  "in_force": "2014-10-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/90%CE%A4%CE%92%CE%A96%CE%94-%CE%9F6%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/90%CE%A4%CE%92%CE%A96%CE%94-%CE%9F6%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/90%CE%A4%CE%92%CE%A96%CE%94-%CE%9F6%CE%A1",
+  "listing_sha256": "35cc27df86c88ed89d006ae7282f102fb4df81290cbbdfb7b3d3051389c889e9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
