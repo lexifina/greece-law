@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "75Θ9ΟΡ1Γ-9ΤΠ",
+  "subject": "Ορισμός Ληξιάρχων",
+  "protocol_number": "53672/3135",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76529"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2749",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Πράξη Γενικού Γραμματέα Αποκεντρωμένης Διοίκησης",
+    "kanonistikipraxiaa": "53672/3135",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-09-30",
+  "posted": "2014-10-17",
+  "publish_timestamp_ms": 1413527913386,
+  "version_id": "af618ab0-04aa-440d-b6db-5788b2b8cda9",
+  "in_force": "2014-10-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/75%CE%989%CE%9F%CE%A11%CE%93-9%CE%A4%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/75%CE%989%CE%9F%CE%A11%CE%93-9%CE%A4%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/75%CE%989%CE%9F%CE%A11%CE%93-9%CE%A4%CE%A0",
+  "listing_sha256": "709ca16a6eba3ee2641f987f51b434ac2904221da1fae6e1cd99e7418f86f10b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
