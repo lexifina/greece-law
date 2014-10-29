@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΟΛΝΟΡ1Υ-4ΥΙ",
+  "subject": "Δημοπρασία Δασικών Προϊοντων",
+  "protocol_number": "28669",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77264"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΚ7ΝΟΡ1Υ-Ω21"
+      }
+    ]
+  },
+  "issued": "2014-10-27",
+  "posted": "2014-10-29",
+  "publish_timestamp_ms": 1414563854097,
+  "version_id": "e95c8a7c-8f14-4b24-8919-8ce879f31170",
+  "in_force": "2014-10-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9F%CE%9B%CE%9D%CE%9F%CE%A11%CE%A5-4%CE%A5%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9F%CE%9B%CE%9D%CE%9F%CE%A11%CE%A5-4%CE%A5%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9F%CE%9B%CE%9D%CE%9F%CE%A11%CE%A5-4%CE%A5%CE%99",
+  "listing_sha256": "25e16eaa9b3841ab58e0bce39d031a006bdfb7949236119e5d87a84d9f336813",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
