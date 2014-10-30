@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΖΓΜΩ-Ρ6Ι",
+  "subject": "Mεταβίβαση αρμοδιοτήτων του Υπουργού Δικαιοσύνης,Διαφάνειας και Ανθρωπίνων Δικαιωμάτων στο Γενικό Γραμματέα του Υπουργείου, στο Γενικό Γραμματέα Αντεγκληματικής Πολιτικής, στο Γενικό Γραμματέα Διαφάνειας και Ανθρωπίνων Δικαιωμάτων, στους Προϊσταμένους Γενικών Διευθύνσεων, Διευθύνσεων και Τμημάτων της Κεντρικής Υπηρεσίας του Υπουργείου Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων και στους Προϊσταμένους των περιφερειακών υπηρεσιών αυτού",
+  "protocol_number": "72923",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "94046"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2895",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "72923",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-10-29",
+  "posted": "2014-10-30",
+  "publish_timestamp_ms": 1414667281953,
+  "version_id": "712f48a6-ca44-4369-8db1-860e175a7786",
+  "in_force": "2014-10-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%96%CE%93%CE%9C%CE%A9-%CE%A16%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%96%CE%93%CE%9C%CE%A9-%CE%A16%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%96%CE%93%CE%9C%CE%A9-%CE%A16%CE%99",
+  "listing_sha256": "c2842cad6da8ae6d7abb61c23c2962636179b2dd9c21f0c0cdd8491017a0db46",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
