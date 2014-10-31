@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΟΣΗ-ΕΧΔ",
+  "subject": "ΤΡΟΠΟΠΟΙΗΣΗ ΚΑΙ ΣΥΜΠΛΗΡΩΣΗ ΤΗΣ ΑΡΙΘΜ. Δ6Α 1112903 ΕΞ 2014/31-07-2014 (Β΄ 2153 ΚΑΙ 2291) ΑΠΟΦΑΣΗΣ ΤΗΣ ΓΕΝΙΚΗΣ ΓΡΑΜΜΑΤΕΩΣ ΤΗΣ ΓΕΝΙΚΗΣ ΓΡΑΜΜΑΤΕΙΑΣ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΤΟΥ ΥΠΟΥΡΓΕΙΟΥ ΟΙΚΟΝΟΜΙΚΩΝ, ΠΕΡΙ ΜΕΤΑΒΙΒΑΣΗΣ ΕΞΟΥΣΙΟΔΟΤΗΣΗΣ ΥΠΟΓΡΑΦΗΣ \"ΜΕ ΕΝΤΟΛΗ ΓΕΝΙΚΟΥ ΓΡΑΜΜΑΤΕΑ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ\" ΣΤΟΥΣ ΠΡΟΪΣΤΑΜΕΝΟΥΣ ΓΕΝΙΚΩΝ ΔΙΕΥΘΥΝΣΕΩΝ, ΔΙΕΥΘΥΝΣΕΩΝ, ΥΠΟΔΙΕΥΘΥΝΣΕΩΝ, ΤΜΗΜΑΤΩΝ ΚΑΙ ΑΥΤΟΤΕΛΩΝ ΤΜΗΜΑΤΩΝ, ΚΑΘΩΣ ΚΑΙ ΣΤΟΥΣ ΥΠΕΥΘΥΝΟΥΣ ΑΥΤΟΤΕΛΩΝ ΓΡΑΦΕΙΩΝ ΚΑΙ ΓΡΑΦΕΙΩΝ ΤΗΣ ΚΕΝΤΡΙΚΗΣ ΥΠΗΡΕΣΙΑΣ ΚΑΙ ΤΩΝ ΕΙΔΙΚΩΝ ΑΠΟΚΕΝΤΡΩΜΕΝΩΝ ΥΠΗΡΕΣΙΩΝ ΤΗΣ ΓΕΝΙΚΗΣ ΓΡΑΜΜΑΤΕΙΑΣ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ.",
+  "protocol_number": "Δ6Α 1144303 ΕΞ 2014/27-10-2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "11211"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2892",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Πράξη Γενικού / Ειδικού Γραμματέα Υπουργείου",
+    "kanonistikipraxiaa": "1144303",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω4ΘΑΗ-Φ0Ι"
+      }
+    ]
+  },
+  "issued": "2014-10-27",
+  "posted": "2014-10-31",
+  "publish_timestamp_ms": 1414751214919,
+  "version_id": "90e361df-90e4-4009-b9f1-7c4370dac58e",
+  "in_force": "2014-10-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%9F%CE%A3%CE%97-%CE%95%CE%A7%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%9F%CE%A3%CE%97-%CE%95%CE%A7%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%9F%CE%A3%CE%97-%CE%95%CE%A7%CE%94",
+  "listing_sha256": "a63aea40739ffcc8ba6f8e3cf104ef866d5e700c520a14bf3d93b5b12480a3a7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
