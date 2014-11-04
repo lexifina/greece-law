@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΜ0ΧΗ-ΓΨΜ",
+  "subject": "Τροποποίηση της ΚΥΑ 16729/ΔΚΠ145/14.4.2011 (ΦΕΚ667/Β) «Eκκαθάριση του Ν.Π.Δ.Δ. με την επωνυμία Ειδικό Ταμείο Αντιμετώπισης Έκτακτων Αναγκών (Ε.Τ.Α.Ε.Α) και διάθεση των πόρων του», όπως τροποποιήθηκε και ισχύει με την ΚΥΑ 55923/ ΔΚΠ 353/18.12. 2012 (ΦΕΚ 3557/Β).",
+  "protocol_number": "Γ.Δ.Ο.Π. 0001358 ΕΞ 2014 /ΔΚΠ228",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2945",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "18",
+        "unitId": [
+          "70762"
+        ],
+        "signerIds": [
+          "100000111"
+        ]
+      }
+    ]
+  },
+  "issued": "2014-10-24",
+  "posted": "2014-11-04",
+  "publish_timestamp_ms": 1415095860864,
+  "version_id": "eee1140f-24e5-4495-b994-6115ed08a8d1",
+  "in_force": "2014-11-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9C0%CE%A7%CE%97-%CE%93%CE%A8%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9C0%CE%A7%CE%97-%CE%93%CE%A8%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9C0%CE%A7%CE%97-%CE%93%CE%A8%CE%9C",
+  "listing_sha256": "410ddce86693ac7d2bab1d2c2ee0b77205e7cd8f153624d2892fbdefc15980bd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
