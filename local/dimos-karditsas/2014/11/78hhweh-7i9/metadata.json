@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "78ΗΗΩΕΗ-7Ι9",
+  "subject": "Ψήφιση πίστωσης για συντήρηση δημοτικού καταστήματος Τ.Κ Ρούσσου Δ.Ε Καρδίτσας.",
+  "protocol_number": "26711",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6135",
+    "label": "ΔΗΜΟΣ ΚΑΡΔΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82120"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-11-05",
+  "posted": "2014-11-05",
+  "publish_timestamp_ms": 1415177357995,
+  "version_id": "44c92f43-861f-4abd-b0ae-8f6c25a5c952",
+  "in_force": "2014-11-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/78%CE%97%CE%97%CE%A9%CE%95%CE%97-7%CE%999",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/78%CE%97%CE%97%CE%A9%CE%95%CE%97-7%CE%999/document",
+  "page": "https://diavgeia.gov.gr/decision/view/78%CE%97%CE%97%CE%A9%CE%95%CE%97-7%CE%999",
+  "listing_sha256": "55620ea9a1ec9295a85b538cc0f4f5bb1e9e4ff5fe66f53f8c078317cd3aa8d0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
