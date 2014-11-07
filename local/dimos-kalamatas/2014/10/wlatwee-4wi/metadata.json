@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΛΑΤΩΕΕ-4ΩΙ",
+  "subject": "Επικαιροποίηση της υπ΄ αριθμ. 107/2014 απόφασης του Δημοτικού Συμβουλίου Καλαμάτας, η οποία αφορά τη σύναψη δανείου για τη σύνταξη πολεοδομικών μελετών.",
+  "protocol_number": "485/2014_ΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6130",
+    "label": "ΔΗΜΟΣ ΚΑΛΑΜΑΤΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82204"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΚ3ΩΕΕ-20Ε"
+      }
+    ]
+  },
+  "issued": "2014-10-22",
+  "posted": "2014-11-07",
+  "publish_timestamp_ms": 1415353701748,
+  "version_id": "f70e17f8-8ef2-41ff-9638-0bfb90044a53",
+  "in_force": "2014-11-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%91%CE%A4%CE%A9%CE%95%CE%95-4%CE%A9%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%91%CE%A4%CE%A9%CE%95%CE%95-4%CE%A9%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9B%CE%91%CE%A4%CE%A9%CE%95%CE%95-4%CE%A9%CE%99",
+  "listing_sha256": "ac7c9413c83f252ac47a8dc3b912236b841332ca4889b6b00e7d6f1bab8375dc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
