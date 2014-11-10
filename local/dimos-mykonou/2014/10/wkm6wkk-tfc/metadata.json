@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΚΜ6ΩΚΚ-ΤΦΨ",
+  "subject": "“Περί  της  υπ’αριθμ. 100/2014 Απόφασης του Συμβουλίου Δημοτικής Κοινότητας Μυκονίων  του Δήμου Μυκόνου που  αφορά την εξέταση αιτήσεως του Αντωνίου Μιχαήλ του Δημητρίου, κατοίκου Μυκόνου, με την ιδιότητα του νόμιμου εκπροσώπου της ανωνύμου εταιρείας με την επωνυμία ‘ VENCIA A.E.’ , που εδρεύει στη Μύκονο, για προβλήματα οχλήσεως που αντιμετωπίζει λόγω παρκαρίσματος τουριστικών λεωφορείων   σε δημόκοινο χώρο έναντι του ξενοδοχείου του (VENCIA) στη θέση Δεξαμενές”",
+  "protocol_number": "100/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6200",
+    "label": "ΔΗΜΟΣ ΜΥΚΟΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81043"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "100/2014",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-10-29",
+  "posted": "2014-11-10",
+  "publish_timestamp_ms": 1415619368069,
+  "version_id": "4ecf4579-ea8b-4750-bf1f-c193b1549abc",
+  "in_force": "2014-11-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%9C6%CE%A9%CE%9A%CE%9A-%CE%A4%CE%A6%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%9C6%CE%A9%CE%9A%CE%9A-%CE%A4%CE%A6%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9A%CE%9C6%CE%A9%CE%9A%CE%9A-%CE%A4%CE%A6%CE%A8",
+  "listing_sha256": "37709d295bb2aed9e2dde34c8c3bdb9df57b501f72765c9b55eff4eadff4773c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
