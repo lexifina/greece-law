@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΛΘΩΡΞ-ΞΙΒ",
+  "subject": "8η Αναμόρφωση Προϋπολογισμού οικ. έτους 2014",
+  "protocol_number": "271",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6099",
+    "label": "ΔΗΜΟΣ ΖΑΓΟΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93560"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-11-13",
+  "posted": "2014-11-13",
+  "publish_timestamp_ms": 1415876756829,
+  "version_id": "0fc7d7db-c27e-402d-8ba1-f267ac93aca5",
+  "in_force": "2014-11-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%9B%CE%98%CE%A9%CE%A1%CE%9E-%CE%9E%CE%99%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%9B%CE%98%CE%A9%CE%A1%CE%9E-%CE%9E%CE%99%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%9B%CE%98%CE%A9%CE%A1%CE%9E-%CE%9E%CE%99%CE%92",
+  "listing_sha256": "4ee9878a53a85c9b256b68624aa58bda94902cdf76a4c007b68a72f47621e651",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
