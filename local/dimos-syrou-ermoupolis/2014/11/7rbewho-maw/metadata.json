@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΡΒΕΩΗΟ-ΜΑΩ",
+  "subject": "ΔΙΑΘΕΣΗ ΠΙΣΤΩΣΗΣ ΤΗΛΕΦΩΝΙΚΩΝ ΤΕΛΩΝ",
+  "protocol_number": "35423",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6291",
+    "label": "ΔΗΜΟΣ ΣΥΡΟΥ - ΕΡΜΟΥΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "92368"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-11-13",
+  "posted": "2014-11-13",
+  "publish_timestamp_ms": 1415869081376,
+  "version_id": "f0d933a6-be2e-4a94-ae92-4a6b2a92978d",
+  "in_force": "2014-11-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A1%CE%92%CE%95%CE%A9%CE%97%CE%9F-%CE%9C%CE%91%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A1%CE%92%CE%95%CE%A9%CE%97%CE%9F-%CE%9C%CE%91%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A1%CE%92%CE%95%CE%A9%CE%97%CE%9F-%CE%9C%CE%91%CE%A9",
+  "listing_sha256": "4ee9878a53a85c9b256b68624aa58bda94902cdf76a4c007b68a72f47621e651",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
