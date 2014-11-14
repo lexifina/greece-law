@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β3ΡΚΩΗΝ-Π79",
+  "subject": "754/2014 Απόφαση Δημάρχου Χίου με θέμα: \"Εξουσιοδότηση Υπογραφών\"",
+  "protocol_number": "47039",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78547"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-11-13",
+  "posted": "2014-11-14",
+  "publish_timestamp_ms": 1415946210624,
+  "version_id": "2c23f274-bf8f-477b-b838-4682981f7520",
+  "in_force": "2014-11-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%923%CE%A1%CE%9A%CE%A9%CE%97%CE%9D-%CE%A079",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%923%CE%A1%CE%9A%CE%A9%CE%97%CE%9D-%CE%A079/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%923%CE%A1%CE%9A%CE%A9%CE%97%CE%9D-%CE%A079",
+  "listing_sha256": "4556fde4bc674c0d36d856831e1f21e7eac50dfabad55e04924058b1e1152f2f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
