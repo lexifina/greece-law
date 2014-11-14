@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΣ1Π6-Β58",
+  "subject": "Έγκριση 2ης αναμόρφωσης ΠΥ 2014 MTΣ.",
+  "protocol_number": "866741",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78006"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "866741",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-11-12",
+  "posted": "2014-11-14",
+  "publish_timestamp_ms": 1415954351097,
+  "version_id": "9460e3c3-51f2-4304-ac2e-253a538b347b",
+  "in_force": "2014-11-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A31%CE%A06-%CE%9258",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A31%CE%A06-%CE%9258/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%A31%CE%A06-%CE%9258",
+  "listing_sha256": "35782b07d813fc5971ffd6e65e3b07c49f5c5969f94528748ed9301f6fef35eb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
