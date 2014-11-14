@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΜ2ΣΩΛΦ-ΑΡΟ",
+  "subject": "ΥΠ' ΑΡΙΘΜ. 1160/2014 ΑΠΟΦΑΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ \"ΕΓΚΡΙΣΗ ΔΙΑΘΕΣΗΣ ΟΡΙΣΜΕΝΩΝ ΠΙΣΤΩΣΕΩΝ ΤΟΥ ΠΡΟΫΠΟΛΟΓΙΣΜΟΥ ΤΟΥ ΔΗΜΟΥ ΛΕΣΒΟΥ ΟΙΚΟΝ. ΕΤΟΥΣ 2014\".",
+  "protocol_number": "ΔΥ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6172",
+    "label": "ΔΗΜΟΣ ΛΕΣΒΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80014"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-11-04",
+  "posted": "2014-11-14",
+  "publish_timestamp_ms": 1415944056311,
+  "version_id": "b14894f1-b797-44fc-a0c3-509436f58d01",
+  "in_force": "2014-11-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9C2%CE%A3%CE%A9%CE%9B%CE%A6-%CE%91%CE%A1%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9C2%CE%A3%CE%A9%CE%9B%CE%A6-%CE%91%CE%A1%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9C2%CE%A3%CE%A9%CE%9B%CE%A6-%CE%91%CE%A1%CE%9F",
+  "listing_sha256": "936c6ab790c582755b9f631f2f9d0b4d67f49f1ee22d2a56978ba339f6eabb2f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
