@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Α91Ω1Η-ΤΘΡ",
+  "subject": "ΕΓΚΡΙΣΗ ΔΑΠΑΝΗΣ ΓΙΑ ΠΡΟΜΗΘΕΙΑ ΛΑΜΠΤΗΡΩΝ",
+  "protocol_number": "68 ΟΙΚ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6271",
+    "label": "ΔΗΜΟΣ ΣΕΡΙΦΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83428"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-10-27",
+  "posted": "2014-11-17",
+  "publish_timestamp_ms": 1416218118289,
+  "version_id": "925a6f61-ec80-40c7-b59d-02502948c721",
+  "in_force": "2014-11-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9191%CE%A91%CE%97-%CE%A4%CE%98%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9191%CE%A91%CE%97-%CE%A4%CE%98%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9191%CE%A91%CE%97-%CE%A4%CE%98%CE%A1",
+  "listing_sha256": "a63aea40739ffcc8ba6f8e3cf104ef866d5e700c520a14bf3d93b5b12480a3a7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
