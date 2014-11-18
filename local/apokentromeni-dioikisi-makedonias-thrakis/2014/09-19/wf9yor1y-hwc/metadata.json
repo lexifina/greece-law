@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦ9ΥΟΡ1Υ-ΗΩΨ",
+  "subject": "Ανάθεση καθηκόντων ληξιάρχων δήμου Σκύδρας",
+  "protocol_number": "12787",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "78020"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3024",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Πράξη Γενικού Γραμματέα Αποκεντρωμένης Διοίκησης",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-09-19",
+  "posted": "2014-11-18",
+  "publish_timestamp_ms": 1416301802662,
+  "version_id": "2b33264f-0f26-4500-8390-91ed391fdc0d",
+  "in_force": "2014-11-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A69%CE%A5%CE%9F%CE%A11%CE%A5-%CE%97%CE%A9%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A69%CE%A5%CE%9F%CE%A11%CE%A5-%CE%97%CE%A9%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A69%CE%A5%CE%9F%CE%A11%CE%A5-%CE%97%CE%A9%CE%A8",
+  "listing_sha256": "0fb78bc6219648207337b3e1afef007fc194ed46dc4350fab4ec06d0f5270736",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
