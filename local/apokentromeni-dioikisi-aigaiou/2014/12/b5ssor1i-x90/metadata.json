@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β5ΣΣΟΡ1Ι-Χ90",
+  "subject": "ΚΑΘΟΡΙΣΜΟΣ ΑΠΟΖΗΜΙΩΣΗ ΠΡΟΕΔΡΟΥ ΤΗΣ ΔΕΥΑ ΡΟΔΟΥ ΤΣΙΚΚΗ ΔΗΜΗΤΡΙΟΥ",
+  "protocol_number": "85299",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76806"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "728",
+      "issue": "fektype_YODD",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Πράξη Γενικού Γραμματέα Αποκεντρωμένης Διοίκησης",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-12-02",
+  "posted": "2014-12-02",
+  "publish_timestamp_ms": 1417514055267,
+  "version_id": "c63616d6-b8fb-4098-bb77-5f86b72930a8",
+  "in_force": "2014-12-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%925%CE%A3%CE%A3%CE%9F%CE%A11%CE%99-%CE%A790",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%925%CE%A3%CE%A3%CE%9F%CE%A11%CE%99-%CE%A790/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%925%CE%A3%CE%A3%CE%9F%CE%A11%CE%99-%CE%A790",
+  "listing_sha256": "81c9044549b3db0a5adaaf1c06ad9cba4ef93109de4b80610d37aa91fbab1b7c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
