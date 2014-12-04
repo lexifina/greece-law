@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "78ΣΑΩΞ4-Ζ4Ξ",
+  "subject": "Α.Ο.Ε. 181-2014 Απαλλαγή υπολόγου Καρνάκη Χρήστου του αριθ. Α 473/12-11-2014 εντάλματος προπληρωμής",
+  "protocol_number": "Α.Ο.Ε. 181-2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6224",
+    "label": "ΔΗΜΟΣ ΟΙΧΑΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "92301"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "181-2014",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-11-25",
+  "posted": "2014-12-04",
+  "publish_timestamp_ms": 1417680094183,
+  "version_id": "b77f72db-ff2a-49af-8d3b-d8880585a8f6",
+  "in_force": "2014-12-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/78%CE%A3%CE%91%CE%A9%CE%9E4-%CE%964%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/78%CE%A3%CE%91%CE%A9%CE%9E4-%CE%964%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/78%CE%A3%CE%91%CE%A9%CE%9E4-%CE%964%CE%9E",
+  "listing_sha256": "0057306130b6d5858cd36b9478cdb23e113a037a7f6567d0a2bad21f630b0bf5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
