@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΓΘ7ΛΡ-ΧΙΩ",
+  "subject": "ΤΡΟΠΟΠΟΙΗΣΗ ΤΗΣ ΑΡΙΘΜ 19487/16-07-14 ΑΠΟΦΑΣΗΣ ΜΑΣ ΜΕ ΘΕΜΑ \"ΚΑΘΟΡΙΣΜΟΣ ΑΡΙΘΜΟΥ Μ.Κ.Ε. ΟΧΗΜΑΤΩΝ ΚΑΙ ΟΝΟΜΑΣΤΙΚΟΥ ΠΙΝΑΚΑ ΥΠΑΛΛΗΛΩΝ ΓΙΑ ΣΥΜΜΕΤΟΧΗ ΣΤΑ Μ.Κ.Ε.\"",
+  "protocol_number": "31731",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81563"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "747",
+      "issue": "fektype_YODD",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΔΒΚ7ΛΡ-7Ω9"
+      }
+    ]
+  },
+  "issued": "2014-11-11",
+  "posted": "2014-12-08",
+  "publish_timestamp_ms": 1418032499191,
+  "version_id": "f051e3d7-3fa6-4e2e-9209-4ad68bf94786",
+  "in_force": "2014-12-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%93%CE%987%CE%9B%CE%A1-%CE%A7%CE%99%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%93%CE%987%CE%9B%CE%A1-%CE%A7%CE%99%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%93%CE%987%CE%9B%CE%A1-%CE%A7%CE%99%CE%A9",
+  "listing_sha256": "25d4bfd1f22292a9623d9a730c0a31a23d58a66f0f9d134d81b976b65848122f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
