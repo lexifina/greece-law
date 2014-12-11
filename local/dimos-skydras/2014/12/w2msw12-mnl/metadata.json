@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω2ΜΣΩ12-ΜΝΛ",
+  "subject": "\"Ψήφιση πίστωσης στον ΚΑ80/8117.002, ποσού 32.791,80 ευρώ για οφειλή εργασίας για καθαρισμο ρεμάτων και αποστραγγιστικών αυλάκων Δήμου Σκύδρας \"",
+  "protocol_number": "138",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6281",
+    "label": "ΔΗΜΟΣ ΣΚΥΔΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84813"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-12-01",
+  "posted": "2014-12-11",
+  "publish_timestamp_ms": 1418293179277,
+  "version_id": "6821bd8b-c8f6-4473-9231-30895036b188",
+  "in_force": "2014-12-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%9C%CE%A3%CE%A912-%CE%9C%CE%9D%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%9C%CE%A3%CE%A912-%CE%9C%CE%9D%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A92%CE%9C%CE%A3%CE%A912-%CE%9C%CE%9D%CE%9B",
+  "listing_sha256": "39c45647d100c5b52b082a756309512770c31066159be684719f738e8337a4b0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
