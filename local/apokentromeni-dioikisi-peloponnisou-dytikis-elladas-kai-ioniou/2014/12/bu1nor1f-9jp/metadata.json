@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΘ1ΝΟΡ1Φ-9ΞΠ",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 249/2014 απόφασης Δημοτικού Συμβουλίου Δήμου Ι.Π Μεσολογγίου",
+  "protocol_number": "154022/6204",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΔΤΔΩΡΖ-ΔΟ1"
+      }
+    ]
+  },
+  "issued": "2014-12-10",
+  "posted": "2014-12-11",
+  "publish_timestamp_ms": 1418282863469,
+  "version_id": "04f8b43b-a508-4a8a-808c-b2d1b4a1935a",
+  "in_force": "2014-12-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%981%CE%9D%CE%9F%CE%A11%CE%A6-9%CE%9E%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%981%CE%9D%CE%9F%CE%A11%CE%A6-9%CE%9E%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%981%CE%9D%CE%9F%CE%A11%CE%A6-9%CE%9E%CE%A0",
+  "listing_sha256": "4ec4f913cc4002574d1adb3d3971997b6607a2bc7900fa8ddd0e670ce295bf0e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
