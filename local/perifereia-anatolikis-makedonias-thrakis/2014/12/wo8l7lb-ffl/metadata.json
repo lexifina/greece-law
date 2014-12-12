@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΟ8Λ7ΛΒ-ΦΦΛ",
+  "subject": "Κατανομή χρηματοδότησης της ΣΑΕΠ 031 ποσού 1.457.785,79 €",
+  "protocol_number": "174241/3722",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5001",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79944"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-12-12",
+  "posted": "2014-12-12",
+  "publish_timestamp_ms": 1418375302219,
+  "version_id": "25befc0a-6ec9-47ef-aef5-c39ccfc1a610",
+  "in_force": "2014-12-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F8%CE%9B7%CE%9B%CE%92-%CE%A6%CE%A6%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F8%CE%9B7%CE%9B%CE%92-%CE%A6%CE%A6%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9F8%CE%9B7%CE%9B%CE%92-%CE%A6%CE%A6%CE%9B",
+  "listing_sha256": "842a358b82baedf020099a97af803550e3f2d9e3bfc0a2cb666e4b8b3f40d028",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
