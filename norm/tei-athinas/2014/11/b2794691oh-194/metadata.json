@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β2794691ΟΗ-194",
+  "subject": "Κήρυξη του Αναδόχου προμηθευτή με την επωνυμία «ΤΕΧΝΙΚΟΜΕΡ ΑΕ» ως έκπτωτου από την κατακύρωση του Διαγωνισμού για το Υποέργο 48 με τίτλο «Προμήθεια εξοπλισμού»  που διενεργήθηκε στο πλαίσιο της Πράξης «Αρχιμήδης ΙΙΙ – Ενίσχυση Ερευνητικών Ομάδων στο ΤΕΙ Αθήνας»",
+  "protocol_number": "26-99",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99219529",
+    "label": "ΤΕΙ ΑΘΗΝΑΣ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "72818"
+  ],
+  "thematic_category_ids": [
+    "32",
+    "64"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "kanonistikipraxiaa": "26/2014",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β5ΤΥ4691ΟΗ-ΣΔΖ"
+      }
+    ]
+  },
+  "issued": "2014-11-26",
+  "posted": "2014-12-12",
+  "publish_timestamp_ms": 1418369973657,
+  "version_id": "25fc19f6-39a8-44d9-a38b-5d1c8ed42c85",
+  "in_force": "2014-12-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%922794691%CE%9F%CE%97-194",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%922794691%CE%9F%CE%97-194/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%922794691%CE%9F%CE%97-194",
+  "listing_sha256": "ddb9951e5bd611b032ab11d408bbfeca196d6ea4b91867a633b11f035cb69cf5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
