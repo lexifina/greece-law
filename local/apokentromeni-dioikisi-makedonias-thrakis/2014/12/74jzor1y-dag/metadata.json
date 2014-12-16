@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "74ΞΖΟΡ1Υ-ΔΑΓ",
+  "subject": "Μετακινηση εκτος εδρας",
+  "protocol_number": "117011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76684"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΡΝΜΟΡ1Υ-Θ64"
+      }
+    ]
+  },
+  "issued": "2014-12-16",
+  "posted": "2014-12-16",
+  "publish_timestamp_ms": 1418734384006,
+  "version_id": "ad57a72b-5461-4aa0-8852-b0153295619c",
+  "in_force": "2014-12-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/74%CE%9E%CE%96%CE%9F%CE%A11%CE%A5-%CE%94%CE%91%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/74%CE%9E%CE%96%CE%9F%CE%A11%CE%A5-%CE%94%CE%91%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/74%CE%9E%CE%96%CE%9F%CE%A11%CE%A5-%CE%94%CE%91%CE%93",
+  "listing_sha256": "190ce0392a5a5cb5cb6ac5e0234a475aa4a59a3154a92c683c15e62e078d1eac",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
