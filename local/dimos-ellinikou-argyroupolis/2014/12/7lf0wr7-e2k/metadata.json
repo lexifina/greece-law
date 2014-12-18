@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΛΦ0ΩΡ7-Ε2Κ",
+  "subject": "ΑΝΑΚΛΗΣΗ ΜΕΡΟΣ ΚΑΤΑΛΟΓΟΥ",
+  "protocol_number": "436",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6090",
+    "label": "ΔΗΜΟΣ ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81670"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-12-18",
+  "posted": "2014-12-18",
+  "publish_timestamp_ms": 1418895633908,
+  "version_id": "6726d0c7-3185-406c-a530-f0692c4b2612",
+  "in_force": "2014-12-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9B%CE%A60%CE%A9%CE%A17-%CE%952%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9B%CE%A60%CE%A9%CE%A17-%CE%952%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9B%CE%A60%CE%A9%CE%A17-%CE%952%CE%9A",
+  "listing_sha256": "e3df54591504e270dfa6a7a4a0bc1e7215b24c34bd412bfabb8a010e95f31c26",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
