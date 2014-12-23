@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΖΑ4ΩΛΩ-ΡΧ4",
+  "subject": "Λήψη απόφασης για τον καθορισμό περιπτώσεων επιβολής προστίμου για την παράνομη κοπή δένδρων καθώς και για οποιαδήποτε παράνομη ενέργεια που μπορεί να βλάψει τα δένδρα (υπερβολικό ή καταστροφικό κλάδεμα, εμβολιασμός δέντρων, ρίψη τοξικών ουσιών, αποφλοίωση κορμών, κ.λ.π.), καθώς και το ύψος του προστίμου κάθε μιας των ανωτέρω περιπτώσεων για το έτος 2015.",
+  "protocol_number": "44864",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6159",
+    "label": "ΔΗΜΟΣ ΚΟΡΥΔΑΛΛΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78220"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "87",
+      "issue": "fektype_A",
+      "issueyear": 2010
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-12-23",
+  "posted": "2014-12-23",
+  "publish_timestamp_ms": 1419325290758,
+  "version_id": "3e5553af-7435-424c-b45e-8e8a4d6e1e22",
+  "in_force": "2014-12-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%96%CE%914%CE%A9%CE%9B%CE%A9-%CE%A1%CE%A74",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%96%CE%914%CE%A9%CE%9B%CE%A9-%CE%A1%CE%A74/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%96%CE%914%CE%A9%CE%9B%CE%A9-%CE%A1%CE%A74",
+  "listing_sha256": "6ff5c3e7ee48553422a6b41d6ec8dbc1b236cea7cfe5a03aaf5f7b1341951002",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
