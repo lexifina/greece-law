@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω67ΡΗ-ΧΞΒ",
+  "subject": "Έγκριση υπέρβασης του ανώτατου ορίου των επιτρεπόμενων ημερών για τις εκτός έδρας μετακινήσεις των υπαλλήλων της Ειδικής Υπηρεσίας Ελέγχου Ασφάλισης Αττικής του ΙΚΑ-ΕΤΑΜ για το έτος 2014",
+  "protocol_number": "2/83570/ΔΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3328",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "11",
+        "unitId": [
+          "75783"
+        ],
+        "signerIds": [
+          "126721"
+        ]
+      }
+    ]
+  },
+  "issued": "2014-12-01",
+  "posted": "2014-12-30",
+  "publish_timestamp_ms": 1419940351873,
+  "version_id": "47e1d74b-18ce-481c-a8ff-c997857da8d9",
+  "in_force": "2014-12-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A967%CE%A1%CE%97-%CE%A7%CE%9E%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A967%CE%A1%CE%97-%CE%A7%CE%9E%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A967%CE%A1%CE%97-%CE%A7%CE%9E%CE%92",
+  "listing_sha256": "39c45647d100c5b52b082a756309512770c31066159be684719f738e8337a4b0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
