@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ρ56ΘΩΠ-Ψ6Ξ",
+  "subject": "Διορισμός Υπουργού Εσωτερικών",
+  "protocol_number": "-",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "70711"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "278",
+      "issue": "fektype_A",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "kanonistikipraxiaa": "175",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-12-31",
+  "posted": "2015-01-08",
+  "publish_timestamp_ms": 1420715210393,
+  "version_id": "b9c2f5da-5340-410e-a1a3-bc64b5e030a7",
+  "in_force": "2015-01-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A156%CE%98%CE%A9%CE%A0-%CE%A86%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A156%CE%98%CE%A9%CE%A0-%CE%A86%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A156%CE%98%CE%A9%CE%A0-%CE%A86%CE%9E",
+  "listing_sha256": "f0d96774524ac4103a10c731958c516385c44994b0dd6b32d0af5835794c8dfe",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
