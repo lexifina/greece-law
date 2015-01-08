@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β23ΥΗ-ΖΡΚ",
+  "subject": "Έγκριση εφημεριών για τους ιατρούς του Αρεταιείου Νοσοκομείου για το έτος 2015",
+  "protocol_number": "2/98322/ΔΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3562",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "20",
+        "unitId": [
+          "100001270"
+        ],
+        "signerIds": [
+          "11219"
+        ]
+      },
+      {
+        "ministryId": "8",
+        "unitId": [
+          "100008030"
+        ],
+        "signerIds": [
+          "11240"
+        ]
+      }
+    ]
+  },
+  "issued": "2014-12-23",
+  "posted": "2015-01-08",
+  "publish_timestamp_ms": 1420703907270,
+  "version_id": "e031d70c-2f03-4a1e-9ad8-f00739d2278e",
+  "in_force": "2015-01-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9223%CE%A5%CE%97-%CE%96%CE%A1%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9223%CE%A5%CE%97-%CE%96%CE%A1%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9223%CE%A5%CE%97-%CE%96%CE%A1%CE%9A",
+  "listing_sha256": "c83b48d026cea87e2e369e687aff472616e9bf48f223503e47b4560c49ed7655",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
