@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΔΜ0ΩΛ0-3Ν0",
+  "subject": "Συντήρηση Επισκευή κτηρίου Ταπητουργίου",
+  "protocol_number": "223/2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6170",
+    "label": "ΔΗΜΟΣ ΛΕΙΨΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83486"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-08-31",
+  "posted": "2015-01-09",
+  "publish_timestamp_ms": 1420800073847,
+  "version_id": "6bb3fa34-4624-4796-8db3-e821358e5802",
+  "in_force": "2015-01-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%94%CE%9C0%CE%A9%CE%9B0-3%CE%9D0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%94%CE%9C0%CE%A9%CE%9B0-3%CE%9D0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%94%CE%9C0%CE%A9%CE%9B0-3%CE%9D0",
+  "listing_sha256": "4e2d0ae67bdb8d816890e05de5f5b45525c12c7e22322e07282041e002222a39",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
