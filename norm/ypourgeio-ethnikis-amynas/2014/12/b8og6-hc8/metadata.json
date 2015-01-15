@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β8ΟΓ6-ΗΨ8",
+  "subject": "«Τροποποίηση της υπ’ αριθ. Φ.400/ 48/ 257081/ Σ.1969/ 02-06-2014 (ΦΕΚ 1608, τ. Β’) απόφασης του Αρχηγού του Γενικού Επιτελείου Εθνικής Άμυνας “Συγκρότηση της Διακλαδικής Επιτροπής Κοινωνικών Προβλημάτων (ΔΕΚΠ) των Ενόπλων Δυνάμεων, καθορισμός των αρμοδιοτήτων της και κάθε άλλης αναγκαίας λεπτομέρειας”».",
+  "protocol_number": "Φ.400/ 110/ 267408/ Σ. 4835/",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72216"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3645",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "kanonistikipraxitype": "Πράξη Ρυθμιστικής Αρχής",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΔΜΜ6-7ΚΗ"
+      }
+    ]
+  },
+  "issued": "2014-12-22",
+  "posted": "2015-01-15",
+  "publish_timestamp_ms": 1421324884595,
+  "version_id": "2ee58f57-6cbe-4ebe-a221-40b868d4dced",
+  "in_force": "2015-01-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%928%CE%9F%CE%936-%CE%97%CE%A88",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%928%CE%9F%CE%936-%CE%97%CE%A88/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%928%CE%9F%CE%936-%CE%97%CE%A88",
+  "listing_sha256": "c26aed629a01ee823f607969135c76d70d08efa7ae6d099d0a5cf04c28236c17",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
