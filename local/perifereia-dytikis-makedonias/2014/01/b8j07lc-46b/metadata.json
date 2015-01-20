@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β8Ξ07ΛΨ-46Β",
+  "subject": "Ανανέωση επαγγελματικών αδειών αλιείας σκάφους",
+  "protocol_number": "130",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5005",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "89639"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙ077ΛΨ-ΚΧ1"
+      }
+    ]
+  },
+  "issued": "2014-01-08",
+  "posted": "2015-01-20",
+  "publish_timestamp_ms": 1421747689374,
+  "version_id": "930cbac3-22bf-45ff-aa96-d95f5d7355d8",
+  "in_force": "2015-01-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%928%CE%9E07%CE%9B%CE%A8-46%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%928%CE%9E07%CE%9B%CE%A8-46%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%928%CE%9E07%CE%9B%CE%A8-46%CE%92",
+  "listing_sha256": "152077117e985802df337938ab0983ee86063584c12c3f32946c31578b86638f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
