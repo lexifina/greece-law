@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΠΠΖΩΡ7-Γ9Ξ",
+  "subject": "ΔΙΑΘΕΣΗ ΠΙΣΤΩΣΕΩΝ",
+  "protocol_number": "6",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6090",
+    "label": "ΔΗΜΟΣ ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81671"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-01-16",
+  "posted": "2015-01-20",
+  "publish_timestamp_ms": 1421754835312,
+  "version_id": "3cb736b9-a9cd-4bbd-9a91-2e48ebcce14f",
+  "in_force": "2015-01-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%A0%CE%96%CE%A9%CE%A17-%CE%939%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%A0%CE%96%CE%A9%CE%A17-%CE%939%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A0%CE%A0%CE%96%CE%A9%CE%A17-%CE%939%CE%9E",
+  "listing_sha256": "b20ba04496eb64956d12364286a7c7b5b744e6bb22db80142e43bcd4f4c1796c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
