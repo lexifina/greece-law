@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω9Ο6Η-7ΨΔ",
+  "subject": "«Καθορισμός των ωρών νυχτερινής απασχόλησης εργασίμων ημερών και νυχτερινής και ημερήσιας απασχόλησης κατά τις Κυριακές και Εξαιρέσιμες ημέρες για το χρονικό διάστημα από 1-1-2015 έως 30-6-2015, προς συμπλήρωση της υποχρεωτικής εβδομαδιαίας εργασίας και καθ’ υπέρβαση της εβδομαδιαίας υποχρεωτικής εργασίας για το προσωπικό που υπηρετεί εντός των Καταστημάτων Κράτησης και της υπηρεσίας Εξωτερικής Φρούρησης αυτών»",
+  "protocol_number": "2/2016/ΔΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "134",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "5",
+        "unitId": [
+          "94047"
+        ],
+        "signerIds": [
+          "133100"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-01-20",
+  "posted": "2015-01-23",
+  "publish_timestamp_ms": 1422006171649,
+  "version_id": "910c7c3d-a28d-4ff8-861e-1b5dbabd6be4",
+  "in_force": "2015-01-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%9F6%CE%97-7%CE%A8%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%9F6%CE%97-7%CE%A8%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A99%CE%9F6%CE%97-7%CE%A8%CE%94",
+  "listing_sha256": "8ee0799579a87d6957275ef579da9aa4acb1ba78bd8799917956379483ea7116",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
