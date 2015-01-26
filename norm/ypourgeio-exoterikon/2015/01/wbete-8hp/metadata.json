@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΒΕΤΕ-8ΗΠ",
+  "subject": "Προεδρικό Διάταγμα 6/2015 περί εφαρμογής της απόφασης 2094 (2013) του Συμβουλίου Ασφαλείας του Ο.Η.Ε. για τη Λ.Δ. Κορέας",
+  "protocol_number": "4980/ΑΣ 971",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72603"
+  ],
+  "thematic_category_ids": [
+    "76"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5",
+      "issue": "fektype_A",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "kanonistikipraxiaa": "6/2015",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-01-26",
+  "posted": "2015-01-26",
+  "publish_timestamp_ms": 1422263232774,
+  "version_id": "edbb0d08-a386-4d99-9c5e-dddadc16cf3c",
+  "in_force": "2015-01-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%92%CE%95%CE%A4%CE%95-8%CE%97%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%92%CE%95%CE%A4%CE%95-8%CE%97%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%92%CE%95%CE%A4%CE%95-8%CE%97%CE%A0",
+  "listing_sha256": "cb83bec519ddc456a876827388dbec28ca56a27c57f86d993b34a5706dc69541",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
