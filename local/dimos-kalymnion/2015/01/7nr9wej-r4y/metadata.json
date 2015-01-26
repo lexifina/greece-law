@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΝΡ9ΩΕΞ-Ρ4Υ",
+  "subject": "Αποδεσμεύσεις πιστώσεων",
+  "protocol_number": "5",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6133",
+    "label": "ΔΗΜΟΣ ΚΑΛΥΜΝΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81323"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-01-23",
+  "posted": "2015-01-26",
+  "publish_timestamp_ms": 1422275070281,
+  "version_id": "ee634f4f-c965-466e-8dd5-437c9b0f6576",
+  "in_force": "2015-01-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9D%CE%A19%CE%A9%CE%95%CE%9E-%CE%A14%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9D%CE%A19%CE%A9%CE%95%CE%9E-%CE%A14%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9D%CE%A19%CE%A9%CE%95%CE%9E-%CE%A14%CE%A5",
+  "listing_sha256": "22738ae7a5714c8a9fbc6dd02f3cc936e32bca543b05d73317d8a92b3f29162e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
