@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω587ΟΡ1Φ-ΛΙ8",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 260/2014 απόφασης Δημοτικού Συμβουλίου Δήμου Θέρμου",
+  "protocol_number": "3553/270",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΝΨΑΩΡΑ-ΑΨ6"
+      }
+    ]
+  },
+  "issued": "2015-01-26",
+  "posted": "2015-01-27",
+  "publish_timestamp_ms": 1422360057704,
+  "version_id": "dc98ffd7-5ea9-43d8-a43d-455ab7a1bc17",
+  "in_force": "2015-01-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9587%CE%9F%CE%A11%CE%A6-%CE%9B%CE%998",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9587%CE%9F%CE%A11%CE%A6-%CE%9B%CE%998/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9587%CE%9F%CE%A11%CE%A6-%CE%9B%CE%998",
+  "listing_sha256": "77f045792fbed73a02c4a5971c03b9d3bf6ada1c71cacaa89b1ba8b849cb79d2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
