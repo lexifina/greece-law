@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β8Δ3ΩΚΝ-ΣΥΞ",
+  "subject": "Θέμα:   Έγκριση δαπανών και ψήφιση πιστώσεων, σύμφωνα με προτάσεις ανάληψης υποχρέωσης της οικονομικής, για την  πληρωμή των παρακάτω δαπανών:\n   \nΚΑ\tΠοσό\tΑιτιολογία\n00.6221\t20.000\tΤαχυδρομικά Τέλη \n00-6222\t18.000\tΤηλεφωνικά Τηλεγραφικά και τηλετυπικά  τέλη εσωτερικού\n00-6223\t3.000\tΚινητή Τηλεφωνία \n00-6451\t6.000\tΣυνδρομές σε εφημερίδες περιοδικά και ηλεκτρονικά μέσα.\n00-6463\t6.000\tΈξοδα Λοιπών Δημοσιεύσεων \n00-6711.001\t65.500\tΑπόδοση σε Σχολικές Επιτροπές (λειτουργικές δαπάνες). \n00-6711.003\t3.500\tΑπόδοσης σε Σχολικές Επιτροπές (αποζημίωση Σχολικών Τροχονόμων) \n00-6712.001\t67.000\tΑπόδοση σε Παιδικό Σταθμό (Κρατική Επιχορήγηση) \n00-6821.001\t3.000\tΦορολογικά Πρόστιμα και προσαυξήσεις χρήσης",
+  "protocol_number": "853",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6218",
+    "label": "ΔΗΜΟΣ ΝΟΤΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "89981"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-01-23",
+  "posted": "2015-01-28",
+  "publish_timestamp_ms": 1422441264261,
+  "version_id": "8f10ef25-b3dc-455d-b25e-66c59fa6881c",
+  "in_force": "2015-01-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%928%CE%943%CE%A9%CE%9A%CE%9D-%CE%A3%CE%A5%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%928%CE%943%CE%A9%CE%9A%CE%9D-%CE%A3%CE%A5%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%928%CE%943%CE%A9%CE%9A%CE%9D-%CE%A3%CE%A5%CE%9E",
+  "listing_sha256": "22738ae7a5714c8a9fbc6dd02f3cc936e32bca543b05d73317d8a92b3f29162e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
