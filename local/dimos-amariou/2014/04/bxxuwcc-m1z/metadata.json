@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΧΧΘΩΨΨ-Μ1Ζ",
+  "subject": "ΑΠΟΦΑΣΗ 57-2014 Δ.Σ. ΟΡΙΣΜΟΣ ΥΠΟΛΟΓΟΥ",
+  "protocol_number": "157-2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6025",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86039"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-04-04",
+  "posted": "2015-01-29",
+  "publish_timestamp_ms": 1422530610369,
+  "version_id": "a03e0b4c-7ea5-44e2-aa50-d03b1f129750",
+  "in_force": "2015-01-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A7%CE%A7%CE%98%CE%A9%CE%A8%CE%A8-%CE%9C1%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A7%CE%A7%CE%98%CE%A9%CE%A8%CE%A8-%CE%9C1%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%A7%CE%A7%CE%98%CE%A9%CE%A8%CE%A8-%CE%9C1%CE%96",
+  "listing_sha256": "8d83c6b6d8f83d018fd6c26c69d112638a701d42c1a35673a7618621d573c9d9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
