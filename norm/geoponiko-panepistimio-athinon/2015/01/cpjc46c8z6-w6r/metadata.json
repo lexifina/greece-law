@@ -1,0 +1,61 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠΞΨ46Ψ8Ζ6-Ω6Ρ",
+  "subject": "Διόρθωση ΧΕΠ 340284 330228",
+  "protocol_number": "1192",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99202112",
+    "label": "ΓΕΩΠΟΝΙΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "73234"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2597",
+      "issue": "fektype_B",
+      "issueyear": 2014
+    },
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΚ246Ψ8Ζ6-Θ6Β"
+      },
+      {
+        "relatedDecisionsADA": "ΒΙΦΙ46Ψ8Ζ6-ΞΧΥ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΙΦΙ46Ψ8Ζ6-Η3Η"
+      },
+      {
+        "relatedDecisionsADA": "ΒΙΦΙ46Ψ8Ζ6-ΣΗΜ"
+      },
+      {
+        "relatedDecisionsADA": "ΩΤ7Ο46Ψ8Ζ6-9ΤΡ"
+      },
+      {
+        "relatedDecisionsADA": "9Σ8Ξ46Ψ8Ζ6-Ο4Χ"
+      }
+    ]
+  },
+  "issued": "2015-01-28",
+  "posted": "2015-01-29",
+  "publish_timestamp_ms": 1422532185607,
+  "version_id": "81e1c3d6-058f-4f34-8dab-70495d4bcd93",
+  "in_force": "2015-01-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%9E%CE%A846%CE%A88%CE%966-%CE%A96%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%9E%CE%A846%CE%A88%CE%966-%CE%A96%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A0%CE%9E%CE%A846%CE%A88%CE%966-%CE%A96%CE%A1",
+  "listing_sha256": "007ebab809eb1906abf944ce88f76bd7e990823ee400fe750c0772ceb1a7ff84",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
