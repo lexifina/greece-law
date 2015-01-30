@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΝ4ΜΩ1Λ-ΔΘ3",
+  "subject": "ΑΠΟΦΑΣΗ ΑΝΑΤΡΟΠΗΣ ΑΝΑΛΗΨΗΣ ΥΠΟΧΡΕΩΣΗΣ \n(άρθρο 4 ΠΔ 113/2010)",
+  "protocol_number": "125",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6267",
+    "label": "ΔΗΜΟΣ ΣΑΜΟΘΡΑΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81766"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "12",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-01-13",
+  "posted": "2015-01-30",
+  "publish_timestamp_ms": 1422621032860,
+  "version_id": "e63a68db-908a-4342-b0f8-ecc586aa0b38",
+  "in_force": "2015-01-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9D4%CE%9C%CE%A91%CE%9B-%CE%94%CE%983",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9D4%CE%9C%CE%A91%CE%9B-%CE%94%CE%983/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9D4%CE%9C%CE%A91%CE%9B-%CE%94%CE%983",
+  "listing_sha256": "0348b07f8159444512222886d39ad1b4e7f113980db75c7d1d95e760a7b0e3d7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
