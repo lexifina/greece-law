@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΣΨΕΟΡ1Υ-8ΣΝ",
+  "subject": "ΕΠΑΝΑΛΗΨΗ ΣΤΟ ΟΡΘΟ ΔΑΔ ΒΟΣΚΗΣ 35β ΚΕΧΡΟΥ",
+  "protocol_number": "797",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77332"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Ε2ΛΟΡ1Υ-ΥΔΟ"
+      }
+    ]
+  },
+  "issued": "2015-02-02",
+  "posted": "2015-02-02",
+  "publish_timestamp_ms": 1422869354987,
+  "version_id": "e639cfb5-932f-4c31-8031-dedaccc5f97c",
+  "in_force": "2015-02-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%A8%CE%95%CE%9F%CE%A11%CE%A5-8%CE%A3%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%A8%CE%95%CE%9F%CE%A11%CE%A5-8%CE%A3%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A3%CE%A8%CE%95%CE%9F%CE%A11%CE%A5-8%CE%A3%CE%9D",
+  "listing_sha256": "f31a03e3623ac0f6f3e0d8d3f87383a2a65e8a0b6e8b272fc28f8439e4229cc0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
