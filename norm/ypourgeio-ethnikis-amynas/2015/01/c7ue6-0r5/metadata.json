@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ7ΘΕ6-0Ρ5",
+  "subject": "ΥΠΕΡΩΡΙΑΚΗ ΕΡΓΑΣΙΑ ΠΟΛΙΤΙΚΟΥ ΠΡΟΣΩΠΙΚΟΥ ΕΜΥ  ΕΤΟΥΣ 2015",
+  "protocol_number": "Φ.479.21/ΑΔ580180/Σ.42/ΓΕΑ/Β5/9",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "150",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "580180",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-01-14",
+  "posted": "2015-02-02",
+  "publish_timestamp_ms": 1422875512935,
+  "version_id": "ec673814-e7f5-495a-9299-752d76180d10",
+  "in_force": "2015-02-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A87%CE%98%CE%956-0%CE%A15",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A87%CE%98%CE%956-0%CE%A15/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A87%CE%98%CE%956-0%CE%A15",
+  "listing_sha256": "f879c3b60e3c7a1817a515786eba7d8acb638b947b4b22ce7d6ac73200d42f89",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
