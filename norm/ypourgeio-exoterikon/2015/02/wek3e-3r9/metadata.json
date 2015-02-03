@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΕΚ3Ε-3Ρ9",
+  "subject": "ΑΝΑΚΛΗΣΗ ΔΑΠΑΝΗΣ",
+  "protocol_number": "830",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70150"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-02-02",
+  "posted": "2015-02-03",
+  "publish_timestamp_ms": 1422952324675,
+  "version_id": "5816ec91-f089-4a29-89ad-4f6b5d7da479",
+  "in_force": "2015-02-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%95%CE%9A3%CE%95-3%CE%A19",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%95%CE%9A3%CE%95-3%CE%A19/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%95%CE%9A3%CE%95-3%CE%A19",
+  "listing_sha256": "0cf4a980bb89d56918cc95dabfac57a9d231e6c360c7966b7f8ebbef9448d9a8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
