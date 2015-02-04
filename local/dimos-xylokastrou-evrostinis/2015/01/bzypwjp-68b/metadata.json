@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΖΥΠΩΞΠ-68Β",
+  "subject": "Ανατροπή αποφάσεων ανάληψης υποχρέωσης – δέσμευσης πίστωσης",
+  "protocol_number": "27",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6222",
+    "label": "ΔΗΜΟΣ ΞΥΛΟΚΑΣΤΡΟΥ - ΕΥΡΩΣΤΙΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87738"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-01-30",
+  "posted": "2015-02-04",
+  "publish_timestamp_ms": 1423037782705,
+  "version_id": "68db54e9-faa0-4b73-9d4c-d46139b1148f",
+  "in_force": "2015-02-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%96%CE%A5%CE%A0%CE%A9%CE%9E%CE%A0-68%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%96%CE%A5%CE%A0%CE%A9%CE%9E%CE%A0-68%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%96%CE%A5%CE%A0%CE%A9%CE%9E%CE%A0-68%CE%92",
+  "listing_sha256": "7d29f0ea1609773674081836b5a81236c172b2241775024914f80f899ce8c063",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
