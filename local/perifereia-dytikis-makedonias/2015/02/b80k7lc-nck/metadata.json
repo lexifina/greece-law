@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β80Κ7ΛΨ-ΝΨΚ",
+  "subject": "ΔΙΑΚΗΡΥΞΗ ΠΡΟΧΕΙΡΟΥ ΔΙΑΓΩΝΙΣΜΟΥ ΠΡΟΜΗΘΕΙΑΣ 1.000 ΤΟΝΩΝ ΑΝΤΙΠΑΓΕΤΙΚΟΥ ΑΛΑΤΟΣ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΑΠΟΧΙΟΝΙΣΜΟΥ ΤΟΥ ΕΘΝΙΚΟΥ ΟΔΙΚΟΥ ΔΙΚΤΥΟΥ ΤΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+  "protocol_number": "12970/872",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5005",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "83700"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "05/15",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "71Ο57ΛΨ-826"
+      }
+    ]
+  },
+  "issued": "2015-02-04",
+  "posted": "2015-02-04",
+  "publish_timestamp_ms": 1423033974614,
+  "version_id": "b4769bf3-7a7b-40ce-b9cd-b780c9a866fc",
+  "in_force": "2015-02-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9280%CE%9A7%CE%9B%CE%A8-%CE%9D%CE%A8%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9280%CE%9A7%CE%9B%CE%A8-%CE%9D%CE%A8%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9280%CE%9A7%CE%9B%CE%A8-%CE%9D%CE%A8%CE%9A",
+  "listing_sha256": "38ff8f8c08f363d881567813ca8c3cac842ee8eb9f7b6f6d1b6255d6c2d3f8e9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
