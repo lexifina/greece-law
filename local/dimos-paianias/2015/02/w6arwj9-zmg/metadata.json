@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω6ΑΡΩΞ9-ΖΜΓ",
+  "subject": "Προμήθεια χρωμάτων έτους 2015",
+  "protocol_number": "78/06.02.2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6230",
+    "label": "ΔΗΜΟΣ ΠΑΙΑΝΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81868"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-02-06",
+  "posted": "2015-02-06",
+  "publish_timestamp_ms": 1423212932958,
+  "version_id": "ecd6ac37-9fed-414f-871e-53e537332899",
+  "in_force": "2015-02-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%91%CE%A1%CE%A9%CE%9E9-%CE%96%CE%9C%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%91%CE%A1%CE%A9%CE%9E9-%CE%96%CE%9C%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A96%CE%91%CE%A1%CE%A9%CE%9E9-%CE%96%CE%9C%CE%93",
+  "listing_sha256": "9b8921f3126e25925c2a65368d3d70e90c39d91b20619aa74bb937060eae2315",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
