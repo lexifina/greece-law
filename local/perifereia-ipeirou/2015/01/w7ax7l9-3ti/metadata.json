@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω7ΑΧ7Λ9-3ΤΙ",
+  "subject": "Πρόσκληση εκδήλωσης ενδιαφέροντος για απόκτηση νέας άδειας ΕΔΧ\nαυτοκινήτου ή μετατροπή υφιστάμενης σε άλλο τύπο, σύμφωνα με το ν.4070/12 όπως αυτό τροποποιήθηκε με τον ν.4313/14",
+  "protocol_number": "Οικ.12346/3277",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5006",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81256"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "731Π7Λ9-ΙΙ2"
+      }
+    ]
+  },
+  "issued": "2015-01-29",
+  "posted": "2015-02-06",
+  "publish_timestamp_ms": 1423205666548,
+  "version_id": "caafe068-d1db-4f5c-8b9a-5436d868fcc5",
+  "in_force": "2015-02-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%91%CE%A77%CE%9B9-3%CE%A4%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%91%CE%A77%CE%9B9-3%CE%A4%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A97%CE%91%CE%A77%CE%9B9-3%CE%A4%CE%99",
+  "listing_sha256": "18452d987d5d12681f261a3513da84ec4cad55322286822e9a7f73574af5c132",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
