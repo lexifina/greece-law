@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΩΓΩ92-5ΑΒ",
+  "subject": "Διακοπή μαθημάτων σε σχολικές μονάδες του δήμου Διρφύων-Μεσσαπίων, λόγω δυσμενών καιρικών συνθηκών (χιονόπτωσης)",
+  "protocol_number": "1947",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6077",
+    "label": "ΔΗΜΟΣ ΔΙΡΦΥΩΝ - ΜΕΣΣΑΠΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82859"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "27",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-02-10",
+  "posted": "2015-02-10",
+  "publish_timestamp_ms": 1423557594091,
+  "version_id": "b39d59c3-e42a-4da5-827e-78c030f8966b",
+  "in_force": "2015-02-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A9%CE%93%CE%A992-5%CE%91%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A9%CE%93%CE%A992-5%CE%91%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%A9%CE%93%CE%A992-5%CE%91%CE%92",
+  "listing_sha256": "6af897f1caeb9c1e530a2657b6d56bc50dbabca40ff3bc5da648d44e151e1f13",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
