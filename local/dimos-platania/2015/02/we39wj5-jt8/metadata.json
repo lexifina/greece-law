@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΕ39ΩΞ5-ΞΤ8",
+  "subject": "Ψήφιση πίστωσης για έγκριση δαπάνης”Προμήθεια γραφικής ύλης ΔΕ Κολυμβαρίου και Πλατανιά“",
+  "protocol_number": "5469",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6250",
+    "label": "ΔΗΜΟΣ ΠΛΑΤΑΝΙΑ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83232"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "92/2015",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-02-18",
+  "posted": "2015-02-18",
+  "publish_timestamp_ms": 1424251237314,
+  "version_id": "1ca3424b-6ac2-4919-92b4-75bef31e18f7",
+  "in_force": "2015-02-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9539%CE%A9%CE%9E5-%CE%9E%CE%A48",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9539%CE%A9%CE%9E5-%CE%9E%CE%A48/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9539%CE%A9%CE%9E5-%CE%9E%CE%A48",
+  "listing_sha256": "afbaad9cb18f9bedb23d4eb7c6ea1ad58ec8564a5e3df1d98f375af3b804d0ee",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
