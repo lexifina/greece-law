@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΛΩΒΙΜΛ-ΛΔΛ",
+  "subject": "ΤΕΧΝΙΚΕΣ ΠΡΟΔΙΑΓΡΑΦΕΣ ΤΕΠ VLT",
+  "protocol_number": "138-5-22.12.2014",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "22961",
+    "label": "ΕΠΙΤΡΟΠΗ ΕΠΟΠΤΕΙΑΣ ΚΑΙ ΕΛΕΓΧΟΥ ΠΑΙΓΝΙΩΝ (Ε.Ε.Ε.Π.)",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "94431"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "223",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Πράξη Ανεξάρτητης Αρχής",
+    "kanonistikipraxiaa": "138-5",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-02-19",
+  "posted": "2015-02-19",
+  "publish_timestamp_ms": 1424332831654,
+  "version_id": "b7ce1cbc-fa59-4558-83c4-172db9e36ea0",
+  "in_force": "2015-02-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%A9%CE%92%CE%99%CE%9C%CE%9B-%CE%9B%CE%94%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%A9%CE%92%CE%99%CE%9C%CE%9B-%CE%9B%CE%94%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9B%CE%A9%CE%92%CE%99%CE%9C%CE%9B-%CE%9B%CE%94%CE%9B",
+  "listing_sha256": "4ace94a95b714edd7ce32f00984276404e5127de778939d652695482ad4e0fbc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
