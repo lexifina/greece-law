@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΜΗΛΟΡ1Φ-Ζ0Τ",
+  "subject": "Αποστολή περίληψης απόφασης για δημοσίευση",
+  "protocol_number": "124411/11747",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87448"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1361",
+      "issue": "fektype_C",
+      "issueyear": 2014
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-09-30",
+  "posted": "2015-02-27",
+  "publish_timestamp_ms": 1425017686721,
+  "version_id": "525d555a-4db7-4c08-8b88-c821617a6854",
+  "in_force": "2015-02-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%97%CE%9B%CE%9F%CE%A11%CE%A6-%CE%960%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%97%CE%9B%CE%9F%CE%A11%CE%A6-%CE%960%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9C%CE%97%CE%9B%CE%9F%CE%A11%CE%A6-%CE%960%CE%A4",
+  "listing_sha256": "709ca16a6eba3ee2641f987f51b434ac2904221da1fae6e1cd99e7418f86f10b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
