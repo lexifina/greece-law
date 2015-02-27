@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω8ΜΘ7ΛΒ-Ε0Ε",
+  "subject": "Απόφαση προέγκρισης υπέρβαση κατανάλωσης καυσίμων λόγω απρόβλεπτων και επιτακτικών αναγκών",
+  "protocol_number": "οικ.1252",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5001",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79931"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-02-27",
+  "posted": "2015-02-27",
+  "publish_timestamp_ms": 1425025540455,
+  "version_id": "e9e9be22-c086-4dfb-9210-1db93efa2c73",
+  "in_force": "2015-02-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%9C%CE%987%CE%9B%CE%92-%CE%950%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%9C%CE%987%CE%9B%CE%92-%CE%950%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A98%CE%9C%CE%987%CE%9B%CE%92-%CE%950%CE%95",
+  "listing_sha256": "733a48b737b4b1f010770ab74388694642db8db7027c0739f22660e72c64eef4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
