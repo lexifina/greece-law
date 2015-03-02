@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΛΟ4ΩΛΥ-ΦΧΡ",
+  "subject": "Παραίτηση από ένδικα μέσα κατά της 29/2014 απόφασης του Ειρηνοδικείου Καρδίτσας και ψήφιση πίστωσης 4.200,87 € για δικαστικά έξοδα και έξοδα εκτέλεσης δικαστικών αποφάσεων (Εκτέλεση της 29/2014 απόφασης του Ειρηνοδικείου Καρδίτσας, Υπόθεση ΑΝ.ΚΑ. Α.Ε.- Πρόγραμμα μαζικού αθλητισμού)",
+  "protocol_number": "66",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6175",
+    "label": "ΔΗΜΟΣ ΛΙΜΝΗΣ ΠΛΑΣΤΗΡΑ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84453"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-03-02",
+  "posted": "2015-03-02",
+  "publish_timestamp_ms": 1425292948260,
+  "version_id": "1505b306-98bb-4134-bce7-9bb5261ee592",
+  "in_force": "2015-03-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%9F4%CE%A9%CE%9B%CE%A5-%CE%A6%CE%A7%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%9F4%CE%A9%CE%9B%CE%A5-%CE%A6%CE%A7%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9B%CE%9F4%CE%A9%CE%9B%CE%A5-%CE%A6%CE%A7%CE%A1",
+  "listing_sha256": "63216ecd7bc43016d619e402111d02b475bfad848dc6c8b2f339af4249475d98",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
