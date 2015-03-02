@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΕΘΗ7ΛΛ-ΣΓΡ",
+  "subject": "Ειδοποίηση παρακατάθεσης αποζημίωσης σε βάρος του ενάριθμου έργου 2014ΕΠ 00800000 ΣΑΕΠ 008 \"Απαλλοτριώσεις για το έργο \"Διαμόρφωση της ανατολικής εισόδου από κόμβο Κ13 έως κόμβο Αεροδρομίου από χ.θ. 0+937,32 έως χ.θ. 5+640,99 και σύνδεση με οδούς Μ.Αντύπα και Πόντου από χ.θ. 0+426,44 έως χ.θ. 1+278,58\" (Τ.Κ. 2001 ΕΠ 00800008)\"",
+  "protocol_number": "9685/120",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5009",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80391"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "12"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "31",
+      "issue": "fektype_AAP",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-02-27",
+  "posted": "2015-03-02",
+  "publish_timestamp_ms": 1425298005817,
+  "version_id": "9d992945-80cb-48b6-998e-8e6b1711b1b5",
+  "in_force": "2015-03-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%95%CE%98%CE%977%CE%9B%CE%9B-%CE%A3%CE%93%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%95%CE%98%CE%977%CE%9B%CE%9B-%CE%A3%CE%93%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%95%CE%98%CE%977%CE%9B%CE%9B-%CE%A3%CE%93%CE%A1",
+  "listing_sha256": "17819cf504ddf805f9e29df6b9f99f1a4fd3e2e143eb342b54b1fddbfae36be1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
