@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΟ0ΛΩ6Υ-ΑΣΡ",
+  "subject": "Διαγραφή ή μη συνολικού ποσού των 9.923,74€ από τους Xρηματικούς Βεβαιωτικούς Καταλόγους (Χ.Β.Κ.) 61, 109, 292, 399, 582, 647, 648, 730, 731, 736, 820/15, οι οποίοι αφορούν οφειλές από: α) πρόστιμα από παραβάσεις ΚΟΚ, β) τέλη κοιμητηρίου, γ) εισφορά σε χρήμα, δ) πρόστιμα πολεοδομικών παραβάσεων και ε) ΔΤ-ΤΑΠ ακινήτων.",
+  "protocol_number": "5692",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6005",
+    "label": "ΔΗΜΟΣ ΑΓΙΑΣ ΠΑΡΑΣΚΕΥΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "89697"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "48-2015",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-03-02",
+  "posted": "2015-03-02",
+  "publish_timestamp_ms": 1425285445659,
+  "version_id": "17e0be0d-2029-42e1-8967-151066052c05",
+  "in_force": "2015-03-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F0%CE%9B%CE%A96%CE%A5-%CE%91%CE%A3%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F0%CE%9B%CE%A96%CE%A5-%CE%91%CE%A3%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9F0%CE%9B%CE%A96%CE%A5-%CE%91%CE%A3%CE%A1",
+  "listing_sha256": "c28ef7f3153074b466c5b766ded045bcbd19fa8bff8fc5c9a3d5c4ca0ca643b3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
