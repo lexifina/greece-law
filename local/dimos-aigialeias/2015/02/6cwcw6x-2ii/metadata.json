@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΨΩΨΩ6Χ-2ΙΙ",
+  "subject": "ΑΠΟΦΑΣΗ Ο.Ε. 34/2015. Άσκηση προσφυγής κατά της αριθ. 53/15/24.11.2014 απόφασης του ΙΚΑ ΕΤΑΜ (Ευθύμιος Αθανασόπουλος κατά Δήμου Αιγιαλείας).",
+  "protocol_number": "5112",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6015",
+    "label": "ΔΗΜΟΣ ΑΙΓΙΑΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84458"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-02-20",
+  "posted": "2015-03-06",
+  "publish_timestamp_ms": 1425631319856,
+  "version_id": "a0d6ac0a-4793-49c6-905b-8dec5d8d4799",
+  "in_force": "2015-03-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%A9%CE%A8%CE%A96%CE%A7-2%CE%99%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%A9%CE%A8%CE%A96%CE%A7-2%CE%99%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A8%CE%A9%CE%A8%CE%A96%CE%A7-2%CE%99%CE%99",
+  "listing_sha256": "98f641a78af8d8916f1b113fe51d80df4b5b306096afe20b02bb44d9586d54d0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
