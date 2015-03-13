@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω0Ε7Ω98-Ι0Ρ",
+  "subject": "Έγκριση μελέτης «Μελέτη εσωτερικού δικτύου ύδρευσης Κρυφοβού",
+  "protocol_number": "2033",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6084",
+    "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83282"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛ1ΕΩ98-9Γ8"
+      }
+    ]
+  },
+  "issued": "2015-03-10",
+  "posted": "2015-03-13",
+  "publish_timestamp_ms": 1426234127211,
+  "version_id": "2745b83e-40f9-41fe-8cbb-b4267e504775",
+  "in_force": "2015-03-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%957%CE%A998-%CE%990%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%957%CE%A998-%CE%990%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A90%CE%957%CE%A998-%CE%990%CE%A1",
+  "listing_sha256": "804f2024b7215915fa7176bba2717dc62ca226ec9acc346b04e0b13ac49c6027",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
