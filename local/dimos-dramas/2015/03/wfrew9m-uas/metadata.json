@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΡΕΩ9Μ-ΘΑΣ",
+  "subject": "Μετακίνηση Δημάρχου και Αντιδημάρχου",
+  "protocol_number": "9887/05-03-2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79156"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "140/2015",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-03-06",
+  "posted": "2015-03-13",
+  "publish_timestamp_ms": 1426244820966,
+  "version_id": "bd85cf32-be42-4da9-8d23-939f68d3c9e7",
+  "in_force": "2015-03-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%A1%CE%95%CE%A99%CE%9C-%CE%98%CE%91%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%A1%CE%95%CE%A99%CE%9C-%CE%98%CE%91%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%A1%CE%95%CE%A99%CE%9C-%CE%98%CE%91%CE%A3",
+  "listing_sha256": "6e6bb4fa0557457207575d1b30811d67c3096a3eb4a42059ec5eee4587041d1e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
