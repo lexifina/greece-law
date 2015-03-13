@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΠΖΗ465ΦΥΟ-ΠΧΖ",
+  "subject": "Ανακατανομή θέσης ειδικευμένου γιατρού ΕΣΥ",
+  "protocol_number": "ΓΓ3α/ Γ.Π.οικ.10897",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008904"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "324",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-02-11",
+  "posted": "2015-03-13",
+  "publish_timestamp_ms": 1426232870195,
+  "version_id": "9f9fda32-7e4d-4ffb-996b-267d9a233d50",
+  "in_force": "2015-03-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%96%CE%97465%CE%A6%CE%A5%CE%9F-%CE%A0%CE%A7%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%96%CE%97465%CE%A6%CE%A5%CE%9F-%CE%A0%CE%A7%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A0%CE%96%CE%97465%CE%A6%CE%A5%CE%9F-%CE%A0%CE%A7%CE%96",
+  "listing_sha256": "92f9b34257d8b57fa959f0c88c370f0d2540c18048088365b250cd53fa094fa8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
