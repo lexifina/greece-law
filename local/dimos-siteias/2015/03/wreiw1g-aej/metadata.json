@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΡΕΙΩ1Γ-ΑΕΞ",
+  "subject": "Έγκριση πρωτοκόλλου οριστικής παραλαβής\n  προμηθειών για την Αναβάθμιση εργαστηρίου\nπληροφορικής 1ου & 2ου Γυμνασίου",
+  "protocol_number": "5/13-5-2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6273",
+    "label": "ΔΗΜΟΣ ΣΗΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87959"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "5/2015",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΨΣΩΩ1Γ-4Φ1"
+      }
+    ]
+  },
+  "issued": "2015-03-17",
+  "posted": "2015-03-17",
+  "publish_timestamp_ms": 1426584045141,
+  "version_id": "9975fb71-e23e-48d4-8bfd-8279669ac598",
+  "in_force": "2015-03-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%95%CE%99%CE%A91%CE%93-%CE%91%CE%95%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%95%CE%99%CE%A91%CE%93-%CE%91%CE%95%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A1%CE%95%CE%99%CE%A91%CE%93-%CE%91%CE%95%CE%9E",
+  "listing_sha256": "b4b6fafa15b551821c029c0ab06519acb320d185662cb741e0325701d5cc8cd4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
