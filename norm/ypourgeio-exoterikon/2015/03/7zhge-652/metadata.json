@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΖΗΓΕ-652",
+  "subject": "ΥΠΟΥΡΓΙΚΗ ΑΠΟΦΑΣΗ ΣΧΕΤΙΚΑ ΜΕ ΑΠΟΦΑΣΗ 2196 (2015) ΣΥΜΒΟΥΛΙΟΥ ΑΣΦΑΛΕΙΑΣ ΟΗΕ ΓΙΑ ΚΕΝΤΡΟΑΦΡΙΚΑΝΙΚΗ ΔΗΜΟΚΡΑΤΙΑ",
+  "protocol_number": "3400.1/ΑΣ 7351",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72603"
+  ],
+  "thematic_category_ids": [
+    "76"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "27",
+      "issue": "fektype_A",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-03-17",
+  "posted": "2015-03-17",
+  "publish_timestamp_ms": 1426605353295,
+  "version_id": "fc037582-8730-4b28-8298-94269d26cb46",
+  "in_force": "2015-03-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%96%CE%97%CE%93%CE%95-652",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%96%CE%97%CE%93%CE%95-652/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%96%CE%97%CE%93%CE%95-652",
+  "listing_sha256": "b4b6fafa15b551821c029c0ab06519acb320d185662cb741e0325701d5cc8cd4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
