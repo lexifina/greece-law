@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΓΕΠΟΡ1Γ-ΠΝ8",
+  "subject": "Νόμιμη η αριθμ.40/2015 απόφαση του Δημοτικού Συμβουλίου Φιλιατών",
+  "protocol_number": "553/11325",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76529"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "77ΚΞΟΡ1Γ-Φ1Α"
+      }
+    ]
+  },
+  "issued": "2015-03-17",
+  "posted": "2015-03-17",
+  "publish_timestamp_ms": 1426577921593,
+  "version_id": "8a3297a1-24ca-40b8-9091-19185c4925f4",
+  "in_force": "2015-03-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%93%CE%95%CE%A0%CE%9F%CE%A11%CE%93-%CE%A0%CE%9D8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%93%CE%95%CE%A0%CE%9F%CE%A11%CE%93-%CE%A0%CE%9D8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%93%CE%95%CE%A0%CE%9F%CE%A11%CE%93-%CE%A0%CE%9D8",
+  "listing_sha256": "b4b6fafa15b551821c029c0ab06519acb320d185662cb741e0325701d5cc8cd4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
