@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΖΩ1465ΦΥΟ-ΟΓ3",
+  "subject": "ΑΠΟΤΕΛΕΣΜΑΤΑ  ΙΑΤΡΙΚΩΝ  ΚΑΙ  ΟΔΟΝΤΙΑΤΡΙΚΩΝ  ΕΙΔΙΚΟΤΗΤΩΝ  ΠΕΡΙΟΔΟΥ  ΦΕΒΡΟΥΑΡΙΟΥ  2015  ΕΞΕΤΑΣΤΙΚΗΣ  ΕΠΙΤΡΟΠΗΣ  ΑΘΗΝΩΝ",
+  "protocol_number": "Γ4β/Γ.Π. 10593",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008926"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-03-17",
+  "posted": "2015-03-17",
+  "publish_timestamp_ms": 1426593240170,
+  "version_id": "2d002aa9-3d70-4ce9-9c84-87c362d00b89",
+  "in_force": "2015-03-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%96%CE%A91465%CE%A6%CE%A5%CE%9F-%CE%9F%CE%933",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%96%CE%A91465%CE%A6%CE%A5%CE%9F-%CE%9F%CE%933/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%96%CE%A91465%CE%A6%CE%A5%CE%9F-%CE%9F%CE%933",
+  "listing_sha256": "61d6cee265c758b023a1ee199585fbdf0b22454d53db6f4f1aeb1032a057fd3b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
