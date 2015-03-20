@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΛΧΝ6-ΧΒ5",
+  "subject": "ΔΙΑΠΙΣΤΩΤΙΚΗ ΠΡΑΞΗ ΛΗΞΗΣ ΘΗΤΕΙΑΣ ΑΠΟΣΠΑΣΜΕΝΟΥ",
+  "protocol_number": "Φ. 471.4/10/191942/Σ.71",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70156"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "112",
+      "issue": "fektype_YODD",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-03-20",
+  "posted": "2015-03-20",
+  "publish_timestamp_ms": 1426854600645,
+  "version_id": "47586490-fbd8-4900-a1ce-29f6ca9b9b97",
+  "in_force": "2015-03-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%A7%CE%9D6-%CE%A7%CE%925",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%A7%CE%9D6-%CE%A7%CE%925/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9B%CE%A7%CE%9D6-%CE%A7%CE%925",
+  "listing_sha256": "6d77643c23e4017e28f6e9e4fa496b17d52f476c6cae812a15bdc791dd766a72",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
