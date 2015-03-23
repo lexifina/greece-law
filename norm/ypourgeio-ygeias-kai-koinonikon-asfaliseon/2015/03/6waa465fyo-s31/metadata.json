@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΩΑΑ465ΦΥΟ-Σ31",
+  "subject": "ΧΡΗΜΑΤΟΔΟΤΗΣΗ ΠΡΟΓΡΑΜΜΑΤΟΔ ΔΗΜΟΣΙΩΝ ΕΠΕΝΔΥΣΕΩΝ",
+  "protocol_number": "13595",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "94202"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-03-23",
+  "posted": "2015-03-23",
+  "publish_timestamp_ms": 1427097935635,
+  "version_id": "aea14d22-3203-4357-8960-e9b544aca2e0",
+  "in_force": "2015-03-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%91%CE%91465%CE%A6%CE%A5%CE%9F-%CE%A331",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%91%CE%91465%CE%A6%CE%A5%CE%9F-%CE%A331/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A9%CE%91%CE%91465%CE%A6%CE%A5%CE%9F-%CE%A331",
+  "listing_sha256": "d105a4aa317e0e38a520390641cdc8b23a6ff34b6dfb3f47e7df73d78267a0ae",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
