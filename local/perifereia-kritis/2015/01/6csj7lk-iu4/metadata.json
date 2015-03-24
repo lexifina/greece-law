@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΨΣΞ7ΛΚ-ΙΘ4",
+  "subject": "ΣΥΜΦΩΝΗΤΙΚΟ",
+  "protocol_number": "ΔΥ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81119"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-01-02",
+  "posted": "2015-03-24",
+  "publish_timestamp_ms": 1427190606477,
+  "version_id": "7a6c5fa7-f6eb-4560-8c98-4fee32177190",
+  "in_force": "2015-03-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%A3%CE%9E7%CE%9B%CE%9A-%CE%99%CE%984",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%A3%CE%9E7%CE%9B%CE%9A-%CE%99%CE%984/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A8%CE%A3%CE%9E7%CE%9B%CE%9A-%CE%99%CE%984",
+  "listing_sha256": "f7905f41f8fa563fca8793288ab4e08f0f757a3e47cc907936f6594df57ce7bb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
