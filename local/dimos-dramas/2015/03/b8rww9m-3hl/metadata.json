@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β8ΡΩΩ9Μ-3ΗΛ",
+  "subject": "Ψήφιση πιστώσεων",
+  "protocol_number": "12509/20-03-2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79156"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "105/2015",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-03-26",
+  "posted": "2015-03-26",
+  "publish_timestamp_ms": 1427369161186,
+  "version_id": "e9224f3d-fa29-4765-8507-98a6b7f59356",
+  "in_force": "2015-03-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%928%CE%A1%CE%A9%CE%A99%CE%9C-3%CE%97%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%928%CE%A1%CE%A9%CE%A99%CE%9C-3%CE%97%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%928%CE%A1%CE%A9%CE%A99%CE%9C-3%CE%97%CE%9B",
+  "listing_sha256": "a6ecac7e08856b30b3b9af2a05bca76744da5fcaed7db8f7a23396bdb068de1e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
