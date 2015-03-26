@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Φ7ΘΩ1Λ-ΡΟΖ",
+  "subject": "Περί ορισμού πληρεξουσίου δικηγόρου για υποθέσεις του Δήμου",
+  "protocol_number": "1170",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6267",
+    "label": "ΔΗΜΟΣ ΣΑΜΟΘΡΑΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81766"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7Υ2ΚΩ1Λ-89Α"
+      }
+    ]
+  },
+  "issued": "2015-03-26",
+  "posted": "2015-03-26",
+  "publish_timestamp_ms": 1427370724102,
+  "version_id": "0c76cc30-abc2-47fc-9c50-5dda9c90f3c9",
+  "in_force": "2015-03-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A67%CE%98%CE%A91%CE%9B-%CE%A1%CE%9F%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A67%CE%98%CE%A91%CE%9B-%CE%A1%CE%9F%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A67%CE%98%CE%A91%CE%9B-%CE%A1%CE%9F%CE%96",
+  "listing_sha256": "a6ecac7e08856b30b3b9af2a05bca76744da5fcaed7db8f7a23396bdb068de1e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
