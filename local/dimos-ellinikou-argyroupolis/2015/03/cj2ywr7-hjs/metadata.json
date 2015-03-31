@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΞ2ΥΩΡ7-ΗΞΣ",
+  "subject": "ΕΓΚΡΙΣΗ ΑΠΟΛΟΓΙΣΜΟΥ",
+  "protocol_number": "61",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6090",
+    "label": "ΔΗΜΟΣ ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81671"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-03-31",
+  "posted": "2015-03-31",
+  "publish_timestamp_ms": 1427800030411,
+  "version_id": "64b0ee23-6fe8-4ac3-9b83-c68ae8d9c55d",
+  "in_force": "2015-03-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E2%CE%A5%CE%A9%CE%A17-%CE%97%CE%9E%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E2%CE%A5%CE%A9%CE%A17-%CE%97%CE%9E%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9E2%CE%A5%CE%A9%CE%A17-%CE%97%CE%9E%CE%A3",
+  "listing_sha256": "a6283ee72de907e407d7d164ed1c94f280b54ef6dba5014d4e9a5aa69c3079b4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
