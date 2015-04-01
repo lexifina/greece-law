@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΞ6ΘΩΨ9-Κ9Ι",
+  "subject": "Έγκριση ή μη του 1ου Ανακεφαλαιωτικού Πίνακα, του έργου: <<Οικοδομικές εργασίες στο Μουσείο Φυσικής Ιστορίας>>",
+  "protocol_number": "015457",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "94486"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "100",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΛΜΗΩΨ9-14Β"
+      }
+    ]
+  },
+  "issued": "2015-03-31",
+  "posted": "2015-04-01",
+  "publish_timestamp_ms": 1427886749517,
+  "version_id": "5870685b-0c8c-445e-bf8c-06e8babade0b",
+  "in_force": "2015-04-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E6%CE%98%CE%A9%CE%A89-%CE%9A9%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E6%CE%98%CE%A9%CE%A89-%CE%9A9%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9E6%CE%98%CE%A9%CE%A89-%CE%9A9%CE%99",
+  "listing_sha256": "d011e8ec904f4194c7947d220a312d189163242c6aba48864352eb24785f2735",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
