@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΠ17Λ6-Λ2Ξ",
+  "subject": "ΜΕΤΑΚΙΝΗΣΗ ΕΞΩΤΕΡΙΚΟΥ ΣΕΒΙΛΛΗ",
+  "protocol_number": "85561/2434",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5004",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78402"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-03-31",
+  "posted": "2015-04-01",
+  "publish_timestamp_ms": 1427868818892,
+  "version_id": "3cdeca3f-fc75-4484-ac3c-a3a1ccdec3b5",
+  "in_force": "2015-04-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A017%CE%9B6-%CE%9B2%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A017%CE%9B6-%CE%9B2%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%A017%CE%9B6-%CE%9B2%CE%9E",
+  "listing_sha256": "a6283ee72de907e407d7d164ed1c94f280b54ef6dba5014d4e9a5aa69c3079b4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
