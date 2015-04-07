@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β89ΣΩ1Ο-Α1Φ",
+  "subject": "Ψήφιση πίστωσης ποσού 3.186 € εξόφλησης της τελευταίας δόσης συνολικής αποζημίωσης 63.720 € λόγω ρυμοτομίας της ιδιοκτησίας 1 του διαγράμματος της 6905/1997 Πράξης Τακτ. Αναλογισμού στα ΟΤ 28-29 της ΔΕ Χορτιάτη εις βάρος του ΚΑ 02.40.7424.001 έτους 2015 [ Αποζημιώσεις οδών και Κοινοχρήστων ]",
+  "protocol_number": "11428",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6257",
+    "label": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80518"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-04-07",
+  "posted": "2015-04-07",
+  "publish_timestamp_ms": 1428406299437,
+  "version_id": "56d9f947-c3ed-49bf-b5e5-ec9ba0d1a8fb",
+  "in_force": "2015-04-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9289%CE%A3%CE%A91%CE%9F-%CE%911%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9289%CE%A3%CE%A91%CE%9F-%CE%911%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9289%CE%A3%CE%A91%CE%9F-%CE%911%CE%A6",
+  "listing_sha256": "f2d0b8da44f6a81a102447c88e06a05cd6c7f1368dee80d51a908352335677af",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
