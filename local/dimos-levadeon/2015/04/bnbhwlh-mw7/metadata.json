@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΝΒΗΩΛΗ-ΜΩ7",
+  "subject": "Καθορισμός θέσεων υπαίθριου στάσιμου εμπορίου.",
+  "protocol_number": "8275",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6169",
+    "label": "ΔΗΜΟΣ ΛΕΒΑΔΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78290"
+  ],
+  "thematic_category_ids": [
+    "44",
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-04-09",
+  "posted": "2015-04-09",
+  "publish_timestamp_ms": 1428557363510,
+  "version_id": "79a86c5e-317c-439d-acb9-ca8f5a259bdb",
+  "in_force": "2015-04-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9D%CE%92%CE%97%CE%A9%CE%9B%CE%97-%CE%9C%CE%A97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9D%CE%92%CE%97%CE%A9%CE%9B%CE%97-%CE%9C%CE%A97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9D%CE%92%CE%97%CE%A9%CE%9B%CE%97-%CE%9C%CE%A97",
+  "listing_sha256": "b3738afb569da3c65ee3d4959c9edffa4e020f8d6e0f7eb1596b63c2b51581a9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
