@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΡΝΞΩ1Η-ΡΜΖ",
+  "subject": "ΔΙΑΘΕΣΗ ΠΙΣΤΩΣΕΩΝ",
+  "protocol_number": "ΑΑ37",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6271",
+    "label": "ΔΗΜΟΣ ΣΕΡΙΦΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83428"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-04-19",
+  "posted": "2015-04-21",
+  "publish_timestamp_ms": 1429605606209,
+  "version_id": "fdb8bc92-1091-4ab0-b8a7-b3f5ed38c543",
+  "in_force": "2015-04-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A1%CE%9D%CE%9E%CE%A91%CE%97-%CE%A1%CE%9C%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A1%CE%9D%CE%9E%CE%A91%CE%97-%CE%A1%CE%9C%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A1%CE%9D%CE%9E%CE%A91%CE%97-%CE%A1%CE%9C%CE%96",
+  "listing_sha256": "2fa47d3289e47c61d079878279545a9cf892bb5399b14ed9bfe3e9c4ce797090",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
