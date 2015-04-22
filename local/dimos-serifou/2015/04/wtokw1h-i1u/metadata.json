@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΟΚΩ1Η-Ι1Θ",
+  "subject": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΣΥΝΤΗΡΗΣΗΣ ΣΧΟΛΕΙΩΝ",
+  "protocol_number": "ΑΑ36",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6271",
+    "label": "ΔΗΜΟΣ ΣΕΡΙΦΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83428"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-04-22",
+  "posted": "2015-04-22",
+  "publish_timestamp_ms": 1429693409513,
+  "version_id": "c5f847f2-9515-477f-8634-bb985c7a2b8a",
+  "in_force": "2015-04-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%9F%CE%9A%CE%A91%CE%97-%CE%991%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%9F%CE%9A%CE%A91%CE%97-%CE%991%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%9F%CE%9A%CE%A91%CE%97-%CE%991%CE%98",
+  "listing_sha256": "6eee5e22d7f40eb437142e2ec7d3d441c5fd520dcf4a5a96da040414add2a206",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
