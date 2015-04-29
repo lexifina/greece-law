@@ -1,0 +1,50 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΡ61465ΦΥΟ-ΖΒ8",
+  "subject": "«Τροποποίηση Αποφάσεων επιχορήγησης Νομικών Προσώπων εποπτείας Υπουργείου Υγείας»",
+  "protocol_number": "Β3α/Γ.Π.οικ.31275",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "94202"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΗΨ4465ΦΥΟ-1ΘΦ"
+      },
+      {
+        "relatedDecisionsADA": "Ω0ΗΚ465ΦΥΟ-Ξ8Ε"
+      },
+      {
+        "relatedDecisionsADA": "6214465ΦΥΟ-Ι6Ω"
+      },
+      {
+        "relatedDecisionsADA": "7ΩΕΝ465ΦΥΟ-03Λ"
+      }
+    ]
+  },
+  "issued": "2015-04-29",
+  "posted": "2015-04-29",
+  "publish_timestamp_ms": 1430314205633,
+  "version_id": "6c34f6ed-fb86-482c-a073-3aa9f7e014c6",
+  "in_force": "2015-04-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A161465%CE%A6%CE%A5%CE%9F-%CE%96%CE%928",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A161465%CE%A6%CE%A5%CE%9F-%CE%96%CE%928/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A161465%CE%A6%CE%A5%CE%9F-%CE%96%CE%928",
+  "listing_sha256": "aff59b3e069370e980f86f5765884b9c88a0cd6064ec7ba3db02edfeaea88d5e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
