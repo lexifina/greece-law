@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΔΨΠΩΡΞ-ΡΩ4",
+  "subject": "(3η )  Διακοπή παροχών ύδρευσης.",
+  "protocol_number": "64",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6099",
+    "label": "ΔΗΜΟΣ ΖΑΓΟΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93560"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-04-16",
+  "posted": "2015-04-29",
+  "publish_timestamp_ms": 1430311316847,
+  "version_id": "2ad491a0-ffd4-447c-a89e-0939a695e3bf",
+  "in_force": "2015-04-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%94%CE%A8%CE%A0%CE%A9%CE%A1%CE%9E-%CE%A1%CE%A94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%94%CE%A8%CE%A0%CE%A9%CE%A1%CE%9E-%CE%A1%CE%A94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%94%CE%A8%CE%A0%CE%A9%CE%A1%CE%9E-%CE%A1%CE%A94",
+  "listing_sha256": "5d4bac38d62198a5aff7f8244412832e7d3f7b267de4252506f3fc1d4bc7e8b1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
