@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω5ΗΣΩΗΧ-Β8Ω",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ Έγκριση μετακίνησης Δημάρχου στη Σύρο",
+  "protocol_number": "71",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6321",
+    "label": "ΔΗΜΟΣ ΨΑΡΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84192"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "71",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2013-07-05",
+  "posted": "2015-04-30",
+  "publish_timestamp_ms": 1430381214716,
+  "version_id": "e29dfff5-331a-4643-b647-ebcaba8f6c7d",
+  "in_force": "2015-04-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%97%CE%A3%CE%A9%CE%97%CE%A7-%CE%928%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%97%CE%A3%CE%A9%CE%97%CE%A7-%CE%928%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A95%CE%97%CE%A3%CE%A9%CE%97%CE%A7-%CE%928%CE%A9",
+  "listing_sha256": "2f84b88811df040ea81f0d7bceaf02624199d280b5afd43e49d4d58ea8563468",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
