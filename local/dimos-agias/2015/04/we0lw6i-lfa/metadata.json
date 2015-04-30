@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΕ0ΛΩ6Ι-ΛΦΑ",
+  "subject": "Αποδοχή ποσού 42.525,79€ από το Υπουργείο Εσωτερικών για λειτουργικές δαπάνες σχολείων Β’  Κατανομή  2015 και κατανομή αυτού στις ενιαίες σχολικές επιτροπές του δήμου μας.",
+  "protocol_number": "3849/73",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6003",
+    "label": "ΔΗΜΟΣ ΑΓΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80383"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΓΣΤΟΡ10-ΖΔΕ"
+      }
+    ]
+  },
+  "issued": "2015-04-27",
+  "posted": "2015-04-30",
+  "publish_timestamp_ms": 1430385163544,
+  "version_id": "b20266a0-71dc-4b86-b9d8-df9a052fa2ea",
+  "in_force": "2015-04-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%950%CE%9B%CE%A96%CE%99-%CE%9B%CE%A6%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%950%CE%9B%CE%A96%CE%99-%CE%9B%CE%A6%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%950%CE%9B%CE%A96%CE%99-%CE%9B%CE%A6%CE%91",
+  "listing_sha256": "aaa102eb1941a2c641cdf6922779a9f511f197d1e2332091debed3affbe86eba",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
