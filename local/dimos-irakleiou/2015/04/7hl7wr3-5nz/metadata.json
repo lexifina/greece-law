@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΗΛ7ΩΡ3-5ΝΖ",
+  "subject": "Συζήτηση και έγκριση Κανονισμού Λειτουργίας Αθλητικών Εγκαταστάσεων Δήμου Ηρακλείου Αττικής.",
+  "protocol_number": "8191",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003098"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "72",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-04-30",
+  "posted": "2015-04-30",
+  "publish_timestamp_ms": 1430391129486,
+  "version_id": "619be11c-181a-4873-bbcd-b31667332533",
+  "in_force": "2015-04-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%97%CE%9B7%CE%A9%CE%A13-5%CE%9D%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%97%CE%9B7%CE%A9%CE%A13-5%CE%9D%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%97%CE%9B7%CE%A9%CE%A13-5%CE%9D%CE%96",
+  "listing_sha256": "b077ed6b47e9feb0f375d19d6e5abd3ebbd9adef0f4c956e7e73175671095327",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
