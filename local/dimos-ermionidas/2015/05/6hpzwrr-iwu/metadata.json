@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΗΠΖΩΡΡ-ΙΩΘ",
+  "subject": "ΕΝΤΟΛΗ ΠΛΗΡΩΜΗΣ",
+  "protocol_number": "272",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6095",
+    "label": "ΔΗΜΟΣ ΕΡΜΙΟΝΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84238"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-04",
+  "posted": "2015-05-04",
+  "publish_timestamp_ms": 1430739161380,
+  "version_id": "d0b26f60-c26c-468e-b323-b1df0a1f064a",
+  "in_force": "2015-05-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%A0%CE%96%CE%A9%CE%A1%CE%A1-%CE%99%CE%A9%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%A0%CE%96%CE%A9%CE%A1%CE%A1-%CE%99%CE%A9%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%97%CE%A0%CE%96%CE%A9%CE%A1%CE%A1-%CE%99%CE%A9%CE%98",
+  "listing_sha256": "86722217c7702579bffdada4e8b1a389bab668a6c655ca34788cb42235711279",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
