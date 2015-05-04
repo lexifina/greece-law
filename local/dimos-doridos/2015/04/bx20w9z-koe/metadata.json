@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΧ20Ω9Ζ-ΚΟΕ",
+  "subject": "ΣΥΜΒΑΣΗ ΕΡΓΑΣΙΑΣ ΟΡΙΣΜΕΝΟΥ ΧΡΟΝΟΥ ,(ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ)",
+  "protocol_number": "54",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6085",
+    "label": "ΔΗΜΟΣ ΔΩΡΙΔΟΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87308"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "724ΑΩ9Ζ-06Ω"
+      }
+    ]
+  },
+  "issued": "2015-04-30",
+  "posted": "2015-05-04",
+  "publish_timestamp_ms": 1430740817870,
+  "version_id": "2b7200c9-4299-4e11-a87f-a2f0242ed6fc",
+  "in_force": "2015-05-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A720%CE%A99%CE%96-%CE%9A%CE%9F%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A720%CE%A99%CE%96-%CE%9A%CE%9F%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%A720%CE%A99%CE%96-%CE%9A%CE%9F%CE%95",
+  "listing_sha256": "b077ed6b47e9feb0f375d19d6e5abd3ebbd9adef0f4c956e7e73175671095327",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
