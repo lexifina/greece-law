@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΗΡ5ΩΗΙ-ΨΓΨ",
+  "subject": "Συμπληρωματική σύμβαση παροχής υπηρεσιών εργασίων",
+  "protocol_number": "8563",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91526"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "8563",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-06",
+  "posted": "2015-05-06",
+  "publish_timestamp_ms": 1430912763910,
+  "version_id": "65c27980-ab50-4b9e-8038-43fde20d0bdc",
+  "in_force": "2015-05-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%97%CE%A15%CE%A9%CE%97%CE%99-%CE%A8%CE%93%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%97%CE%A15%CE%A9%CE%97%CE%99-%CE%A8%CE%93%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%97%CE%A15%CE%A9%CE%97%CE%99-%CE%A8%CE%93%CE%A8",
+  "listing_sha256": "e14b049fe5cffacf8e75a74436783696aa9487e56ac5b85f333f582a62bc2f42",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
