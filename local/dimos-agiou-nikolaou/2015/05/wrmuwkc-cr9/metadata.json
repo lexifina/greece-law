@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΡΜΘΩΚΨ-ΨΡ9",
+  "subject": "Έγκριση δαπανών  που πληρώθηκαν από την πάγια προκαταβολή",
+  "protocol_number": "6397",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6195",
+    "label": "ΔΗΜΟΣ AΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81923"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΜ5ΙΩΚΨ-Ψ75"
+      }
+    ]
+  },
+  "issued": "2015-05-06",
+  "posted": "2015-05-06",
+  "publish_timestamp_ms": 1430913140374,
+  "version_id": "9aa406d5-5176-42a1-88b6-01423456cef5",
+  "in_force": "2015-05-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%9C%CE%98%CE%A9%CE%9A%CE%A8-%CE%A8%CE%A19",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%9C%CE%98%CE%A9%CE%9A%CE%A8-%CE%A8%CE%A19/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A1%CE%9C%CE%98%CE%A9%CE%9A%CE%A8-%CE%A8%CE%A19",
+  "listing_sha256": "e14b049fe5cffacf8e75a74436783696aa9487e56ac5b85f333f582a62bc2f42",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
