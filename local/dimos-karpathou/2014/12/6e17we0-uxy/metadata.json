@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ε17ΩΕ0-ΘΧΥ",
+  "subject": "Απόφαση ΔΣ ΚΟΠΑΠ αρ. 76",
+  "protocol_number": "589",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6136",
+    "label": "ΔΗΜΟΣ ΚΑΡΠΑΘΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88188"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-12-04",
+  "posted": "2015-05-07",
+  "publish_timestamp_ms": 1430993859411,
+  "version_id": "7ec9adfd-8417-439a-b355-92377e3289a7",
+  "in_force": "2015-05-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9517%CE%A9%CE%950-%CE%98%CE%A7%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9517%CE%A9%CE%950-%CE%98%CE%A7%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9517%CE%A9%CE%950-%CE%98%CE%A7%CE%A5",
+  "listing_sha256": "2186b0892e9d1d5e506329627dabf9dd451b6b4b3f2a4079494b49f82737b387",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
