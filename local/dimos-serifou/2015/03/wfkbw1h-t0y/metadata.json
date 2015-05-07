@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΚΒΩ1Η-Τ0Υ",
+  "subject": "ΕΡΓΟ ΚΑΤΑΣΚΕΥΗ ΑΓΩΓΟΥ ΒΙΟΚΑ ΣΕΡΙΦΟΥ",
+  "protocol_number": "70ΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6271",
+    "label": "ΔΗΜΟΣ ΣΕΡΙΦΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83429"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-03-28",
+  "posted": "2015-05-07",
+  "publish_timestamp_ms": 1430976683583,
+  "version_id": "7be2dc15-55a5-48d7-85d4-153260d7e0bc",
+  "in_force": "2015-05-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%9A%CE%92%CE%A91%CE%97-%CE%A40%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%9A%CE%92%CE%A91%CE%97-%CE%A40%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%9A%CE%92%CE%A91%CE%97-%CE%A40%CE%A5",
+  "listing_sha256": "0243934e6feab793cf150809143d0a432d0ff370f819afa95291fd9bb4c2c5d1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
