@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΡ9ΒΩΛ5-ΠΛ2",
+  "subject": "Χορήγηση άδειας λειτουργίας μουσικών οργάνων-αορίστου χρόνου-στο καφέ-εστιατόριο της Ανυφιώτη Ιωάννας.",
+  "protocol_number": "12",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6182",
+    "label": "ΔΗΜΟΣ ΜΑΝΤΟΥΔΙΟΥ - ΛΙΜΝΗΣ - ΑΓΙΑΣ ΑΝΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100005868"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "4",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-08",
+  "posted": "2015-05-08",
+  "publish_timestamp_ms": 1431064086484,
+  "version_id": "4e440cb5-d491-44f2-96bd-b22ab08ef7c2",
+  "in_force": "2015-05-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A19%CE%92%CE%A9%CE%9B5-%CE%A0%CE%9B2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A19%CE%92%CE%A9%CE%9B5-%CE%A0%CE%9B2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A19%CE%92%CE%A9%CE%9B5-%CE%A0%CE%9B2",
+  "listing_sha256": "68fb81d50dee9995481c0b1da9236c5d3616736a532f078cd73296bcff354d85",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
