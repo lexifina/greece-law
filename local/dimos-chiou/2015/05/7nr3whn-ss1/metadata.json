@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΝΡ3ΩΗΝ-ΣΣ1",
+  "subject": "Η αριθμ 37/2015 Απόφαση Δημοτικήσ Κοινότητας Χίου",
+  "protocol_number": "14916",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80031"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-11",
+  "posted": "2015-05-11",
+  "publish_timestamp_ms": 1431336684566,
+  "version_id": "edf5a19f-ea0d-4215-a157-716ff1720397",
+  "in_force": "2015-05-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9D%CE%A13%CE%A9%CE%97%CE%9D-%CE%A3%CE%A31",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9D%CE%A13%CE%A9%CE%97%CE%9D-%CE%A3%CE%A31/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9D%CE%A13%CE%A9%CE%97%CE%9D-%CE%A3%CE%A31",
+  "listing_sha256": "c62afbf62e983294197fe5216ba51ccbc9eda2f9341468b8fc1533912ada34a7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
