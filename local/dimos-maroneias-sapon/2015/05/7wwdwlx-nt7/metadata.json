@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΩΩΔΩΛΧ-ΝΤ7",
+  "subject": "Επιχορήγηση Συλλόγων",
+  "protocol_number": "5619",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6185",
+    "label": "ΔΗΜΟΣ ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79101"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-12",
+  "posted": "2015-05-12",
+  "publish_timestamp_ms": 1431433202255,
+  "version_id": "a141f50b-33f6-4346-8b52-d624b96b16ad",
+  "in_force": "2015-05-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A9%CE%A9%CE%94%CE%A9%CE%9B%CE%A7-%CE%9D%CE%A47",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A9%CE%A9%CE%94%CE%A9%CE%9B%CE%A7-%CE%9D%CE%A47/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A9%CE%A9%CE%94%CE%A9%CE%9B%CE%A7-%CE%9D%CE%A47",
+  "listing_sha256": "c93b8354518f82c7ba9b32e1d7bba5017594806c28ac5ee3da8260b2ba4386c0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
