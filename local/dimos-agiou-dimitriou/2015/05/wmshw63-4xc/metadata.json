@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΣΗΩ63-4ΧΨ",
+  "subject": "Λήψη απόφασης για ρύθμιση οφειλών του Δήμου προς το Ελληνικό Δημόσιο (οφειλές Δημοτικής Επιχείρησης).",
+  "protocol_number": "222/2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6007",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78943"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-13",
+  "posted": "2015-05-15",
+  "publish_timestamp_ms": 1431689623250,
+  "version_id": "b93ed35b-7d93-471d-8280-5b7eb438f424",
+  "in_force": "2015-05-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A3%CE%97%CE%A963-4%CE%A7%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A3%CE%97%CE%A963-4%CE%A7%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%A3%CE%97%CE%A963-4%CE%A7%CE%A8",
+  "listing_sha256": "b8c434564a9e2a0fe6ee37139b2798b18d9defa2af630854cccb606d3555755c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
