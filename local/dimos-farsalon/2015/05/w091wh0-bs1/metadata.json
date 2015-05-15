@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω091ΩΗ0-ΒΣ1",
+  "subject": "Απόφαση Ο.Ε. αριθ. 73/2015 με θέμα : Έγκριση ή μη πρακτικού διαγωνισμού για «Προμήθεια ηλεκτρολογικού υλικού & λαμπτήρων»",
+  "protocol_number": "6015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6306",
+    "label": "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82053"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "68ΚΩΩΗ0-Δ53"
+      }
+    ]
+  },
+  "issued": "2015-05-08",
+  "posted": "2015-05-15",
+  "publish_timestamp_ms": 1431674719551,
+  "version_id": "1f6fcdea-2c79-4820-9d7e-4709e8961dc8",
+  "in_force": "2015-05-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9091%CE%A9%CE%970-%CE%92%CE%A31",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9091%CE%A9%CE%970-%CE%92%CE%A31/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9091%CE%A9%CE%970-%CE%92%CE%A31",
+  "listing_sha256": "1eb3e0f28d175b1ab1cb5b2b0f7e2bf42177890e53e76686d636c1587a008446",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
