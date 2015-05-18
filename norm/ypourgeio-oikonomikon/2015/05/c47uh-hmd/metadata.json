@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ47ΘΗ-ΗΜΔ",
+  "subject": "«Έκδοση Εντόκων Γραμματίων του Ελληνικού Δημοσίου διάρκειας 26 εβδομάδων στις 8/05/2015 μέσω δημοπρασίας και διάθεσης σε φυσικά πρόσωπα μετά την ημερομηνία διακανονισμού».",
+  "protocol_number": "818",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "825",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "818",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-06",
+  "posted": "2015-05-18",
+  "publish_timestamp_ms": 1431952510565,
+  "version_id": "39e7bff4-ec61-47a0-bc36-a93e0d208236",
+  "in_force": "2015-05-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A847%CE%98%CE%97-%CE%97%CE%9C%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A847%CE%98%CE%97-%CE%97%CE%9C%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A847%CE%98%CE%97-%CE%97%CE%9C%CE%94",
+  "listing_sha256": "e14b049fe5cffacf8e75a74436783696aa9487e56ac5b85f333f582a62bc2f42",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
