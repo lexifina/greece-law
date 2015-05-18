@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ψ6ΘΗ-ΠΝΗ",
+  "subject": "Τροποποίηση των διατάξεων της απόφασης ΠΟΛ 1002/2014 (ΦΕΚ 3Β΄/5.1.2015) «Κατηγορίες οντοτήτων που απαλλάσσονται από τη χρησιμοποίηση φορολογικών ηλεκτρονικών μηχανισμών. Αναγραφή πρόσθετων στοιχείων στα εκδιδόμενα στοιχεία λιανικής πώλησης ορισμένων κατηγοριών υπηρεσιών ή αγαθών. Δήλωση διακοπής λειτουργίας φορολογικού ηλεκτρονικού μηχανισμού λόγω τεχνικού προβλήματος.», όπως τροποποιήθηκε με την απόφαση ΠΟΛ. 1023/2015 (ΦΕΚ 252Β΄/20.2.2015) και ισχύει.",
+  "protocol_number": "ΠΟΛ.1095",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "11211"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "822",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Πράξη Γενικού / Ειδικού Γραμματέα Υπουργείου",
+    "kanonistikipraxiaa": "1095",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-04-23",
+  "posted": "2015-05-18",
+  "publish_timestamp_ms": 1431939543102,
+  "version_id": "a7722a73-2b28-436c-b961-a4c52a74f5db",
+  "in_force": "2015-05-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A86%CE%98%CE%97-%CE%A0%CE%9D%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A86%CE%98%CE%97-%CE%A0%CE%9D%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A86%CE%98%CE%97-%CE%A0%CE%9D%CE%97",
+  "listing_sha256": "9789a95e09db65554ecd3340906bf1f5e6479c43bae61fd088911a66f1c4d4d5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
