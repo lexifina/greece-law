@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΞ3ΔΕ-9ΟΓ",
+  "subject": "ΑΝΑΚΛΗΣΗ ΠΟΣΟΥ ΤΙΡΑΝΑ",
+  "protocol_number": "9660",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70150"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2014-12-31",
+  "posted": "2015-05-19",
+  "publish_timestamp_ms": 1432037840525,
+  "version_id": "363ab6c4-17ac-459b-af4f-77b7112758dc",
+  "in_force": "2015-05-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E3%CE%94%CE%95-9%CE%9F%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E3%CE%94%CE%95-9%CE%9F%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9E3%CE%94%CE%95-9%CE%9F%CE%93",
+  "listing_sha256": "2c5854076cae35bb313a5841525e6e84d177cab363529e8ed5a2526de7df6a07",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
