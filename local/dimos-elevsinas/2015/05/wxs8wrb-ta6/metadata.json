@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧΣ8ΩΡΒ-ΤΑ6",
+  "subject": "«Επί αιτήματος Σώμα Ελλήνων Προσκόπων",
+  "protocol_number": "15-132",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6089",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΣΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80043"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-19",
+  "posted": "2015-05-19",
+  "publish_timestamp_ms": 1432021577253,
+  "version_id": "1cee810a-c069-477e-b533-06b23aa44ea7",
+  "in_force": "2015-05-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%A38%CE%A9%CE%A1%CE%92-%CE%A4%CE%916",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%A38%CE%A9%CE%A1%CE%92-%CE%A4%CE%916/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A7%CE%A38%CE%A9%CE%A1%CE%92-%CE%A4%CE%916",
+  "listing_sha256": "5e9830306a4ffc354e6ec54475929bf1237f7452b3d2efaee3884230d14f4529",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
