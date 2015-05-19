@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "791ΠΟΡ1Γ-ΛΚΔ",
+  "subject": "Νόμιμη η αριθμ.67/2015 απόφαση του Δημοτικού Συμβουλίου Σουλίου",
+  "protocol_number": "1145/24281",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76529"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω1ΘΕΟΡ1Γ-91Κ"
+      }
+    ]
+  },
+  "issued": "2015-05-19",
+  "posted": "2015-05-19",
+  "publish_timestamp_ms": 1432020163538,
+  "version_id": "7f2c3fa7-42fd-4fa2-bc6c-82f6ade67332",
+  "in_force": "2015-05-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/791%CE%A0%CE%9F%CE%A11%CE%93-%CE%9B%CE%9A%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/791%CE%A0%CE%9F%CE%A11%CE%93-%CE%9B%CE%9A%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/791%CE%A0%CE%9F%CE%A11%CE%93-%CE%9B%CE%9A%CE%94",
+  "listing_sha256": "5e9830306a4ffc354e6ec54475929bf1237f7452b3d2efaee3884230d14f4529",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
