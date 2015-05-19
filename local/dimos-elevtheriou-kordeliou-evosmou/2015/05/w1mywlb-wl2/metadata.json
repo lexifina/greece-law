@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω1ΜΥΩΛΒ-ΩΛ2",
+  "subject": "Λήψη απόφασης για το κατεπείγον της συνεδρίασης.",
+  "protocol_number": "226/15",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6157",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΘΕΡΙΟΥ ΚΟΡΔΕΛΙΟΥ ΕΥΟΣΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84570"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-15",
+  "posted": "2015-05-19",
+  "publish_timestamp_ms": 1432013417069,
+  "version_id": "dd1884a4-699a-42b0-ac0c-d29140f6de85",
+  "in_force": "2015-05-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%9C%CE%A5%CE%A9%CE%9B%CE%92-%CE%A9%CE%9B2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%9C%CE%A5%CE%A9%CE%9B%CE%92-%CE%A9%CE%9B2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A91%CE%9C%CE%A5%CE%A9%CE%9B%CE%92-%CE%A9%CE%9B2",
+  "listing_sha256": "6a43dc16855d1fdc8c0e59b7aa39cc71282c5b51f90572755baee92e180d57b8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
