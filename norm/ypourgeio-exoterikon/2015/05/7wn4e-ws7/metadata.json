@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΩΝ4Ε-ΩΣ7",
+  "subject": "ΑΝΑΚΛΗΣΗ ΠΟΣΟΥ, ΠΡΣ ΜΟΣΧΑΣ",
+  "protocol_number": "ΜΕ.2/085/0874/120.11147",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70150"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-21",
+  "posted": "2015-05-21",
+  "publish_timestamp_ms": 1432191595957,
+  "version_id": "b7c91085-a7e9-4dc0-8600-c98c9f01d959",
+  "in_force": "2015-05-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A9%CE%9D4%CE%95-%CE%A9%CE%A37",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A9%CE%9D4%CE%95-%CE%A9%CE%A37/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A9%CE%9D4%CE%95-%CE%A9%CE%A37",
+  "listing_sha256": "747120a576b751521c9129a32a598692adec6803219aeb492f6429ab42401a3d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
