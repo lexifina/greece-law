@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Π9ΔΩ0Ο-043",
+  "subject": "ΑΠΟΦΑΣΗ ΑΝΤΙΔΗΜΑΡΧΟΥ ΜΕ ΑΠΕΥΘΕΙΑΣ ΑΝΑΘΕΣΗ ΧΩΡΙΣ ΤΕΧΝΙΚΕΣ ΠΡΟΔΙΑΓΡΑΦΕΣ-SWEET HOUSE",
+  "protocol_number": "64409",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100002579"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-22",
+  "posted": "2015-05-22",
+  "publish_timestamp_ms": 1432275565207,
+  "version_id": "f725fbb1-fb01-487b-b017-cf872963fed9",
+  "in_force": "2015-05-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A09%CE%94%CE%A90%CE%9F-043",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A09%CE%94%CE%A90%CE%9F-043/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A09%CE%94%CE%A90%CE%9F-043",
+  "listing_sha256": "10a302374fa41feddac42e48a9136e3159e7e65ce465aa313c02a505b7d4c3d2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
