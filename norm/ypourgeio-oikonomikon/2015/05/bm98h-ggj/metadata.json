@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΜ98Η-ΓΓΞ",
+  "subject": "ΑΥΞΟΜΕΙΩΣΗ ΠΙΣΤΩΣΗΣ ΕΦ 90-07/233 ΓΙΑ ΤΟ Α΄ ΤΕΛΩΝΕΙΟ ΠΕΙΡΑΙΑ",
+  "protocol_number": "2436",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "74744"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-22",
+  "posted": "2015-05-22",
+  "publish_timestamp_ms": 1432279267270,
+  "version_id": "2cd9a7d2-fc36-4f63-aa0b-82b2bbd2022c",
+  "in_force": "2015-05-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9C98%CE%97-%CE%93%CE%93%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9C98%CE%97-%CE%93%CE%93%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9C98%CE%97-%CE%93%CE%93%CE%9E",
+  "listing_sha256": "10a302374fa41feddac42e48a9136e3159e7e65ce465aa313c02a505b7d4c3d2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
