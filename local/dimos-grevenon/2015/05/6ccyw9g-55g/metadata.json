@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΨΨΥΩ9Γ-55Γ",
+  "subject": "Απόφαση 203/2015 Δ.Σ. Μετονομασία Τοπικής Κοινότητας ΖΑΚΑ Δήμου Γρεβενών.",
+  "protocol_number": "6239",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6069",
+    "label": "ΔΗΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003163"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "203/2015",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛ9ΕΩ9Γ-2ΛΒ"
+      }
+    ]
+  },
+  "issued": "2015-05-22",
+  "posted": "2015-05-22",
+  "publish_timestamp_ms": 1432292990084,
+  "version_id": "81097e4b-ac9e-4c26-85b3-f2d233579011",
+  "in_force": "2015-05-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%A8%CE%A5%CE%A99%CE%93-55%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%A8%CE%A5%CE%A99%CE%93-55%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A8%CE%A8%CE%A5%CE%A99%CE%93-55%CE%93",
+  "listing_sha256": "10a302374fa41feddac42e48a9136e3159e7e65ce465aa313c02a505b7d4c3d2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
