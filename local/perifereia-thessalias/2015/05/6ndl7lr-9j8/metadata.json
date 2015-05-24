@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΝΔΛ7ΛΡ-9Ξ8",
+  "subject": "Έγκριση επιστροφής λόγω διαγραφής επιβληθέντος προστίμου.",
+  "protocol_number": "573",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "82897"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-22",
+  "posted": "2015-05-24",
+  "publish_timestamp_ms": 1432482209021,
+  "version_id": "ce0d73da-7ab4-47d0-8c31-11e705455c2b",
+  "in_force": "2015-05-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%94%CE%9B7%CE%9B%CE%A1-9%CE%9E8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%94%CE%9B7%CE%9B%CE%A1-9%CE%9E8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9D%CE%94%CE%9B7%CE%9B%CE%A1-9%CE%9E8",
+  "listing_sha256": "0ba1ee473e8da2a52fc67ea0ac95f7975df90e92d9de1585b63189f35c2cc58a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
