@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7886465ΦΥΟ-ΨΥΨ",
+  "subject": "ΣΥΣΤΑΣΕΙΣ ΤΟΜΕΩΝ ΨΥΧΙΚΗΣ ΥΓΕΙΑΣ ΕΝΗΛΙΚΩΝ ΚΑΙ ΕΝΤΑΞΗ ΜΟΝΑΔΩΝ ΨΥΧΙΚΗΣ ΥΓΕΙΑΣ",
+  "protocol_number": "Α4α,β/ΓΠ οικ. 15742",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "91607"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "859",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7Κ6Ζ465ΦΥΟ-Π7Ζ"
+      }
+    ]
+  },
+  "issued": "2015-05-26",
+  "posted": "2015-05-26",
+  "publish_timestamp_ms": 1432625890524,
+  "version_id": "2d5c2ee9-8994-482d-a93a-94ca8c714548",
+  "in_force": "2015-05-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7886465%CE%A6%CE%A5%CE%9F-%CE%A8%CE%A5%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7886465%CE%A6%CE%A5%CE%9F-%CE%A8%CE%A5%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7886465%CE%A6%CE%A5%CE%9F-%CE%A8%CE%A5%CE%A8",
+  "listing_sha256": "7c0c01407fcf56908607b876f46e6464ccd8b7d39309ec74b25501deaac446c2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
