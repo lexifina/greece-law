@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΧΩ3ΩΛ0-ΜΘΛ",
+  "subject": "ΔΙΑΚΗΡΥΞΗ ΔΗΜΟΠΡΑΣΙΑΣ ΓΙΑ ΤΗΝ  ΕΚΜΙΣΘΩΣΗ ΑΚΙΝΗΤΟΥ",
+  "protocol_number": "1237",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6170",
+    "label": "ΔΗΜΟΣ ΛΕΙΨΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83488"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-26",
+  "posted": "2015-05-27",
+  "publish_timestamp_ms": 1432709715545,
+  "version_id": "dfcf1bf8-8410-49ca-9edb-6771a27e1e2a",
+  "in_force": "2015-05-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A7%CE%A93%CE%A9%CE%9B0-%CE%9C%CE%98%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A7%CE%A93%CE%A9%CE%9B0-%CE%9C%CE%98%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%A7%CE%A93%CE%A9%CE%9B0-%CE%9C%CE%98%CE%9B",
+  "listing_sha256": "04f1635429a5a645c2369427e61aa17dcbdb05280be7c66f3e8926c11edadb59",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
