@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΡΑΡΩΛΨ-ΔΩΙ",
+  "subject": "Η 109/2015 Απόφαση Δημοτικού Συμβουλίου,Αποδοχή της απόφασης ένταξης της πράξης : « ΔΙΑΜΟΡΦΩΣΗ ΚΑΙ ΑΝΑΒΑΘΜΙΣΗ ΚΟΙΝΟΧΡΗΣΤΩΝ ΧΩΡΩΝ ΟΙΚΙΣΜΟΥ ΜΗΤΑΤΩΝ –ΔΙΑΜΟΡΦΩΣΗ ΚΑΙ ΑΝΑΒΑΘΜΙΣΗ ΝΟΤΙΟΥ ΟΡΙΟΥ .»",
+  "protocol_number": "109-2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6161",
+    "label": "ΔΗΜΟΣ ΚΥΘΗΡΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83168"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7Ε8ΦΩΛΨ-ΙΥ5"
+      }
+    ]
+  },
+  "issued": "2015-05-19",
+  "posted": "2015-05-27",
+  "publish_timestamp_ms": 1432726608934,
+  "version_id": "2a546e03-0ac2-4576-a81f-5de4b43c689b",
+  "in_force": "2015-05-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%91%CE%A1%CE%A9%CE%9B%CE%A8-%CE%94%CE%A9%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%91%CE%A1%CE%A9%CE%9B%CE%A8-%CE%94%CE%A9%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A1%CE%91%CE%A1%CE%A9%CE%9B%CE%A8-%CE%94%CE%A9%CE%99",
+  "listing_sha256": "7ae6a480ae1701181fc469c1cd951b98d44afc898178f4f1ff659c07d0e0d029",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
