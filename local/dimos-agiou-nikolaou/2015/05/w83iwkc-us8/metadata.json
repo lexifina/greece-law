@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω83ΙΩΚΨ-ΘΣ8",
+  "subject": "ΠΕΡΙΛΗΨΗ  ΔΙΑΚΗΡΥΞΗΣ ΦΑΝΕΡΗΣ\n ΠΛΕΙΟΔΟΤΙΚΗΣ ΔΗΜΟΠΡΑΣΙΑΣ",
+  "protocol_number": "7929",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6195",
+    "label": "ΔΗΜΟΣ AΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81923"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΚΔ5ΩΚΨ-94Μ"
+      }
+    ]
+  },
+  "issued": "2015-05-27",
+  "posted": "2015-05-29",
+  "publish_timestamp_ms": 1432901137750,
+  "version_id": "12511089-973b-4105-a0dc-8da35d8a7147",
+  "in_force": "2015-05-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A983%CE%99%CE%A9%CE%9A%CE%A8-%CE%98%CE%A38",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A983%CE%99%CE%A9%CE%9A%CE%A8-%CE%98%CE%A38/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A983%CE%99%CE%A9%CE%9A%CE%A8-%CE%98%CE%A38",
+  "listing_sha256": "950ead05634db6b8101f7a390423b5223293a2c2aa0f48e555e4a2e7cd8067f6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
