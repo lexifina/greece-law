@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΗΦΩΨΒ-Χ4Φ",
+  "subject": "ΧΟΡΗΓΗΣΗ ΠΡΟΕΓΚΡΙΣΗΣ ΙΔΡΥΣΗΣ ΚΑΤΑΣΤΗΜΑΤΟΣ ΥΓΕΙΟΝΟΜΙΚΟΥ ΕΝΔΙΑΦΕΡΟΝΤΟΣ (ΕΠΙΧΕΙΡΗΣΗ ΜΑΖΙΚΗΣ ΕΣΤΙΑΣΗΣ ΠΑΡΑΣΚΕΥΗΣ ΚΑΙ ΠΡΟΣΦΟΡΑΣ ΠΛΗΡΟΥΣ ΓΕΥΜΑΤΟΣ ΚΑΙ ΕΠΙΧΕΙΡΗΣΗ ΑΝΑΨΥΧΗΣ) ΙΔΙΟΚΤΗΣΙΑΣ ΚΑΤΣΙΩΤΗ ΚΩΝΣΤΑΝΤΙΝΟΥ ΠΟΥ ΒΡΙΣΚΕΤΑΙ ΣΤΗΝ ΟΔΟ ΔΩΔΕΚΑΝΗΣΟΥ 23 ΣΤΟΝ ΆΛΙΜΟ.",
+  "protocol_number": "29",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82630"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "29",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΟΧΤΩΨΒ-ΓΟΥ"
+      }
+    ]
+  },
+  "issued": "2015-04-22",
+  "posted": "2015-06-03",
+  "publish_timestamp_ms": 1433328876569,
+  "version_id": "6dcc0f76-f255-4706-9257-e5dc86a013a3",
+  "in_force": "2015-06-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%97%CE%A6%CE%A9%CE%A8%CE%92-%CE%A74%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%97%CE%A6%CE%A9%CE%A8%CE%92-%CE%A74%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%97%CE%A6%CE%A9%CE%A8%CE%92-%CE%A74%CE%A6",
+  "listing_sha256": "46fa73cc7a3ef432ab63801641df3ea762c4f8bb201be38e368f8e06838e09d5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
