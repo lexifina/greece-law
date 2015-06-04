@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΝΤΤΩ9Δ-ΣΦΘ",
+  "subject": "Λήψη απόφασης για χρηματοδότηση της ΔΗ.Κ.Ε.ΔΟ.",
+  "protocol_number": "10551",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6076",
+    "label": "ΔΗΜΟΣ ΔΙΟΥ - ΟΛΥΜΠΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83218"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-06-04",
+  "posted": "2015-06-04",
+  "publish_timestamp_ms": 1433396486462,
+  "version_id": "e00a06e4-21b2-4fe6-9855-1587ce138e29",
+  "in_force": "2015-06-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9D%CE%A4%CE%A4%CE%A99%CE%94-%CE%A3%CE%A6%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9D%CE%A4%CE%A4%CE%A99%CE%94-%CE%A3%CE%A6%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9D%CE%A4%CE%A4%CE%A99%CE%94-%CE%A3%CE%A6%CE%98",
+  "listing_sha256": "bbb2eb8ef0a078be75a8a6c6c686a40da15c537c4c9f24c4ba67e5f4208fd9ea",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
