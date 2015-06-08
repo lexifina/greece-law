@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΝΛΝΩΗΝ-65Π",
+  "subject": "Η αριθμ 46/2015 Απόφαση Δημοτικής Κοινότητας Χίου",
+  "protocol_number": "19890",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80031"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-06-08",
+  "posted": "2015-06-08",
+  "publish_timestamp_ms": 1433750106678,
+  "version_id": "e533c9ff-4837-4463-8274-39ed6ed85770",
+  "in_force": "2015-06-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9D%CE%9B%CE%9D%CE%A9%CE%97%CE%9D-65%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9D%CE%9B%CE%9D%CE%A9%CE%97%CE%9D-65%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9D%CE%9B%CE%9D%CE%A9%CE%97%CE%9D-65%CE%A0",
+  "listing_sha256": "2313b8a00f9d183d1afa7e4f2f38854e11c380c48236a6b1273434bfcb89195c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
