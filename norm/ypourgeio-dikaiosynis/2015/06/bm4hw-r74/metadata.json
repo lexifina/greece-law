@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΜ4ΗΩ-Ρ74",
+  "subject": "Διαδικασία της ειδικής πραγματογνωμοσύνης του\nάρθρου 110 Α΄ του Ποινικού Κώδικα",
+  "protocol_number": "39067",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008273"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1067",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100010899"
+      }
+    ]
+  },
+  "issued": "2015-06-04",
+  "posted": "2015-06-08",
+  "publish_timestamp_ms": 1433763077677,
+  "version_id": "34fa660c-f354-4dd5-829c-ba1251d002c0",
+  "in_force": "2015-06-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9C4%CE%97%CE%A9-%CE%A174",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9C4%CE%97%CE%A9-%CE%A174/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9C4%CE%97%CE%A9-%CE%A174",
+  "listing_sha256": "dbf7d29996ce4d68e766e55a2e72879fac6a2df6bc4e1ecb8c02e8b3e70c10f3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
