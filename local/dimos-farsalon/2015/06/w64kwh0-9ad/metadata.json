@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω64ΚΩΗ0-9ΑΔ",
+  "subject": "Απόφαση δημοτικού συμβουλίου με αριθμό 96/2015 περί: «Ορισμός ενός δημοτικού συμβούλου για τη συγκρότηση επιτροπής εκκαθάρισης Αρχείων των ΚΕΠ 0447 Δ.Ε. Φαρσάλων και ΚΕΠ 0248 Δ.Ε. Πολυδάμαντα του Δήμου Φαρσάλων (Π.Δ. 480/1985 ΦΕΚ 173/14.10.1985)».",
+  "protocol_number": "7862/2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6306",
+    "label": "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82050"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "96/2015",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-06-08",
+  "posted": "2015-06-08",
+  "publish_timestamp_ms": 1433761479052,
+  "version_id": "22c5e02b-7c6d-49d6-a65b-3a2b45ebb220",
+  "in_force": "2015-06-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A964%CE%9A%CE%A9%CE%970-9%CE%91%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A964%CE%9A%CE%A9%CE%970-9%CE%91%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A964%CE%9A%CE%A9%CE%970-9%CE%91%CE%94",
+  "listing_sha256": "2313b8a00f9d183d1afa7e4f2f38854e11c380c48236a6b1273434bfcb89195c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
