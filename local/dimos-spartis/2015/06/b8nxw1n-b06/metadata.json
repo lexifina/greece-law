@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β8ΝΧΩ1Ν-Β06",
+  "subject": "ΠΡΑΚΤΙΚΟ ΕΠΙΤΡΟΠΗΣ ΓΙΑ ΤΗΝ ΑΝΑΘΕΣΗ ΣΕ ΙΔΙΩΤΙΚΟ ΣΥΝΕΡΓΕΙΟ",
+  "protocol_number": "2",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6286",
+    "label": "ΔΗΜΟΣ ΣΠΑΡΤΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88917"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-06-10",
+  "posted": "2015-06-10",
+  "publish_timestamp_ms": 1433915587690,
+  "version_id": "fea786eb-1b5c-4613-9ca7-93d34d738dfe",
+  "in_force": "2015-06-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%928%CE%9D%CE%A7%CE%A91%CE%9D-%CE%9206",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%928%CE%9D%CE%A7%CE%A91%CE%9D-%CE%9206/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%928%CE%9D%CE%A7%CE%A91%CE%9D-%CE%9206",
+  "listing_sha256": "1023ecb9df12150ccdbed69e07e71ff245baae0ca6ddb5b91cce2a42cd47f16d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
