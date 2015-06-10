@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΖΚ9Ω-1ΒΔ",
+  "subject": "«Ανάθεση έργου στην εταιρεία «ΘΕΜΙΣ ΚΑΤΑΣΚΕΥΑΣΤΙΚΗ Α.Ε.»",
+  "protocol_number": "38778",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100011134"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "942",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "38778",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-19",
+  "posted": "2015-06-10",
+  "publish_timestamp_ms": 1433934455048,
+  "version_id": "d04708f2-64f3-4b38-bec3-fb463d3e1655",
+  "in_force": "2015-06-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%96%CE%9A9%CE%A9-1%CE%92%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%96%CE%9A9%CE%A9-1%CE%92%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%96%CE%9A9%CE%A9-1%CE%92%CE%94",
+  "listing_sha256": "7ae6a480ae1701181fc469c1cd951b98d44afc898178f4f1ff659c07d0e0d029",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
