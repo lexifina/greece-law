@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜ1ΧΩΨ2-6ΟΙ",
+  "subject": "168. ΑΠΟΦΑΣΗ Δ.Σ. (ΤΕΛΟΣ ΖΩΗΛΑΤΟΥ ΟΧΗΜΑΤΟΣ)",
+  "protocol_number": "-",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6043",
+    "label": "ΔΗΜΟΣ ΑΡΙΣΤΟΤΕΛΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80785"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-25",
+  "posted": "2015-06-12",
+  "publish_timestamp_ms": 1434099360982,
+  "version_id": "d423e537-6c1b-4b9f-8aad-ec4c2082028b",
+  "in_force": "2015-06-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C1%CE%A7%CE%A9%CE%A82-6%CE%9F%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C1%CE%A7%CE%A9%CE%A82-6%CE%9F%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C1%CE%A7%CE%A9%CE%A82-6%CE%9F%CE%99",
+  "listing_sha256": "9263ee454a7612b2785e2e380fb4ad11e5f300e29a9cf4e138a8d065746e2fd4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
