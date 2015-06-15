@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΩΒΖΟΡ1Θ-3ΗΞ",
+  "subject": "Δασική αστυνομική διάταξη βοσκής 12/2015",
+  "protocol_number": "4034/12-06-2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76914"
+  ],
+  "thematic_category_ids": [
+    "56",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10003",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΙΨΦΟΡ1Θ-ΚΓ4"
+      }
+    ]
+  },
+  "issued": "2015-06-12",
+  "posted": "2015-06-15",
+  "publish_timestamp_ms": 1434351348388,
+  "version_id": "e6cd6ad1-9b88-4c67-832a-b3d550095f77",
+  "in_force": "2015-06-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%92%CE%96%CE%9F%CE%A11%CE%98-3%CE%97%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%92%CE%96%CE%9F%CE%A11%CE%98-3%CE%97%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A9%CE%92%CE%96%CE%9F%CE%A11%CE%98-3%CE%97%CE%9E",
+  "listing_sha256": "41ba74e74ec8e2312e4a15fa1eea78c50a9734ecc7d46d3def7b2f84e2aad78f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
