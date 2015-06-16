@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΨΙΓΩΨ5-Λ28",
+  "subject": "Έγκριση χορήγησης άδειας λειτουργίας επιχείρησης προσφοράς υπηρεσιών διαδικτύου.",
+  "protocol_number": "6125",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6046",
+    "label": "ΔΗΜΟΣ ΑΡΧΑΙΑΣ ΟΛΥΜΠΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87869"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-06-16",
+  "posted": "2015-06-16",
+  "publish_timestamp_ms": 1434448501319,
+  "version_id": "fac9fa2c-8bd4-4b93-b321-c64f70ccf116",
+  "in_force": "2015-06-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A8%CE%99%CE%93%CE%A9%CE%A85-%CE%9B28",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A8%CE%99%CE%93%CE%A9%CE%A85-%CE%9B28/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A8%CE%99%CE%93%CE%A9%CE%A85-%CE%9B28",
+  "listing_sha256": "b1685789ba5d7b4a02c5915f99e5515d368fcfa270b7a083107ccfef587718af",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
