@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΟ47Η-4Λ2",
+  "subject": "'Έγκριση 1ης Αναθεώρησης του προϋπολογισμού έτους 2015 του ΝΠΙΔ με την επωνυμία \"ΟΡΓΑΝΙΣΜΟΣ ΕΛΛΗΝΙΚΩΝ ΓΕΩΡΓΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ (ΕΛΓΑ)\"",
+  "protocol_number": "2/36432",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1146",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100010879",
+        "unitId": [
+          "100004236"
+        ],
+        "signerIds": [
+          "100010750"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-05-28",
+  "posted": "2015-06-17",
+  "publish_timestamp_ms": 1434532433940,
+  "version_id": "998562de-f3ba-45e7-be4e-aa930e00d857",
+  "in_force": "2015-06-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F47%CE%97-4%CE%9B2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F47%CE%97-4%CE%9B2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9F47%CE%97-4%CE%9B2",
+  "listing_sha256": "aa2cd4c836cb4951d8a408b1d4405f3f912547cccd649e5ece27ebd58b81fce6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
