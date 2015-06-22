@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Μ73465ΦΥΟ-Ζ6Ν",
+  "subject": "Τροποποίηση και Συμπλήρωση της υπ’ αριθ. Γ.Π. οικ.56432/28.06.2014 (ΦΕΚ 1753/Β’) Κ.Υ.Α. «Καθορισμός προϋποθέσεων, κριτηρίων και διαδικασιών πρόσβασης στο σύστημα φαρμακευτικής περίθαλψης ανασφαλίστων και οικονομικά αδυνάτων πολιτών»",
+  "protocol_number": "Γ3γ/οικ.42429",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008904"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1167",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100012977",
+        "unitId": [
+          "90439"
+        ],
+        "signerIds": [
+          "100011125"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-06-05",
+  "posted": "2015-06-22",
+  "publish_timestamp_ms": 1434972406976,
+  "version_id": "9d2760d6-cb6e-4ec6-84dc-cf7cf320e771",
+  "in_force": "2015-06-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C73465%CE%A6%CE%A5%CE%9F-%CE%966%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C73465%CE%A6%CE%A5%CE%9F-%CE%966%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9C73465%CE%A6%CE%A5%CE%9F-%CE%966%CE%9D",
+  "listing_sha256": "c010c16f49919852e94b12092a71a1f340f26df3f7508278ae8546f26ca9782d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
