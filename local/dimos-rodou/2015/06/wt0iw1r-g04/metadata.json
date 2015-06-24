@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤ0ΙΩ1Ρ-Γ04",
+  "subject": "Έγκριση της υπ΄αριθ. 69/2015 απόφασης της\nΕ.Π.Ζ. με θέμα «Έγκριση της υπ΄αριθ. 110/2015 απόφασης του\nΣυμβουλίου της Δ.Κ. Ρόδου για «Αίτημα παραχώρησης\nκοινόχρηστου χώρου σε διάφορα σημεία της πόλης για\nτοποθέτηση διαφημιστικού σταντ που απεικονίζει ιππότη».",
+  "protocol_number": "331",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6265",
+    "label": "ΔΗΜΟΣ ΡΟΔΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83734"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-06-22",
+  "posted": "2015-06-24",
+  "publish_timestamp_ms": 1435145678376,
+  "version_id": "83a04dba-fdd3-4618-a5af-f5612a2554a1",
+  "in_force": "2015-06-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A40%CE%99%CE%A91%CE%A1-%CE%9304",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A40%CE%99%CE%A91%CE%A1-%CE%9304/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A40%CE%99%CE%A91%CE%A1-%CE%9304",
+  "listing_sha256": "b6edb1b14e1ae1c894810358189a2c21bf52efb449066abc7559ab72051bfbd4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
