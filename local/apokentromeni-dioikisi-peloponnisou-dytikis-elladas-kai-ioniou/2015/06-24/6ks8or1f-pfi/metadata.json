@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΚΣ8ΟΡ1Φ-ΠΦΙ",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 144/2015 απόφασης του Δημοτικού Συμβουλίου Αγρινίου",
+  "protocol_number": "71263/3541",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΛ1ΤΩ65-3ΕΕ"
+      }
+    ]
+  },
+  "issued": "2015-06-24",
+  "posted": "2015-06-25",
+  "publish_timestamp_ms": 1435218582918,
+  "version_id": "a67a8e65-85e3-4b78-8368-6d17a7459cf1",
+  "in_force": "2015-06-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%A38%CE%9F%CE%A11%CE%A6-%CE%A0%CE%A6%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%A38%CE%9F%CE%A11%CE%A6-%CE%A0%CE%A6%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9A%CE%A38%CE%9F%CE%A11%CE%A6-%CE%A0%CE%A6%CE%99",
+  "listing_sha256": "7417cc13e555a9eea05b7d69b96a8f76b5adb143bba14f920dcbf893bacfd66a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
