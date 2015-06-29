@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "695ΩΩΨ3-ΒΤΣ",
+  "subject": "43-2015 ΧΕΠ",
+  "protocol_number": "3223",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6041",
+    "label": "ΔΗΜΟΣ ΑΡΓΙΘΕΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003948"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-06-29",
+  "posted": "2015-06-29",
+  "publish_timestamp_ms": 1435575970966,
+  "version_id": "a3d556b0-7f1e-43b4-b589-d3d0cb09ae56",
+  "in_force": "2015-06-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/695%CE%A9%CE%A9%CE%A83-%CE%92%CE%A4%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/695%CE%A9%CE%A9%CE%A83-%CE%92%CE%A4%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/695%CE%A9%CE%A9%CE%A83-%CE%92%CE%A4%CE%A3",
+  "listing_sha256": "e97e614a09b5101425c674f99876ca83e9f3653d5f679903daae2d1ef0ba519b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
