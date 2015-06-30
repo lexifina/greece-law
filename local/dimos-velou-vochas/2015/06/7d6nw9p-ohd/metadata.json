@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Δ6ΝΩ9Π-ΟΗΔ",
+  "subject": "ΕΝΑΡΞΗ ΔΙΑΔΙΚΑΣΙΑΣ Τ.Κ. ΕΛΛΗΝΟΧΩΡΙΟΥdoc.pdf",
+  "protocol_number": "116/15",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6052",
+    "label": "ΔΗΜΟΣ ΒΕΛΟΥ - ΒΟΧΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83335"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "116",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-06-24",
+  "posted": "2015-06-30",
+  "publish_timestamp_ms": 1435642930872,
+  "version_id": "2906d9cb-5b51-4ccb-9a9b-9c4323226d1a",
+  "in_force": "2015-06-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%946%CE%9D%CE%A99%CE%A0-%CE%9F%CE%97%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%946%CE%9D%CE%A99%CE%A0-%CE%9F%CE%97%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%946%CE%9D%CE%A99%CE%A0-%CE%9F%CE%97%CE%94",
+  "listing_sha256": "7417cc13e555a9eea05b7d69b96a8f76b5adb143bba14f920dcbf893bacfd66a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
