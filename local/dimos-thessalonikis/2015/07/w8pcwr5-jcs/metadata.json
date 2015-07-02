@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω8ΠΨΩΡ5-ΞΨΣ",
+  "subject": "Συγκρότηση ομάδας εργασίας προμηθειών για το Δημοψήφισμα της 5ης Ιουλίου 2015.",
+  "protocol_number": "457/55236",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100000995"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "3136",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-07-01",
+  "posted": "2015-07-02",
+  "publish_timestamp_ms": 1435835075783,
+  "version_id": "04121b05-ffa1-469d-ab56-548f61fd84c9",
+  "in_force": "2015-07-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%A0%CE%A8%CE%A9%CE%A15-%CE%9E%CE%A8%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%A0%CE%A8%CE%A9%CE%A15-%CE%9E%CE%A8%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A98%CE%A0%CE%A8%CE%A9%CE%A15-%CE%9E%CE%A8%CE%A3",
+  "listing_sha256": "599f063d7ea6a6bb516d8c6c60bea217aee6e9200566ce03e57432c607205ba9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
