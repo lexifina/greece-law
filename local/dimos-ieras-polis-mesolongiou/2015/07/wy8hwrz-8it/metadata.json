@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥ8ΗΩΡΖ-8ΙΤ",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ",
+  "protocol_number": "16855",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6119",
+    "label": "ΔΗΜΟΣ ΙΕΡΑΣ ΠΟΛΗΣ ΜΕΣΟΛΟΓΓΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78278"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-07-02",
+  "posted": "2015-07-02",
+  "publish_timestamp_ms": 1435823448374,
+  "version_id": "57a560a7-f2ff-4341-ae61-68d72b4145a2",
+  "in_force": "2015-07-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A58%CE%97%CE%A9%CE%A1%CE%96-8%CE%99%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A58%CE%97%CE%A9%CE%A1%CE%96-8%CE%99%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A58%CE%97%CE%A9%CE%A1%CE%96-8%CE%99%CE%A4",
+  "listing_sha256": "186f2da47c3498d07ba9d81fee5e096a61b043eb16a41809023731039e9e2398",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
