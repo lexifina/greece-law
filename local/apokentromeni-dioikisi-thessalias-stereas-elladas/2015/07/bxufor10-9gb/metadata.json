@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΧΘΦΟΡ10-9ΓΒ",
+  "subject": "Μη άσκηση αντίρρησης-προσφυγής κατά της με αριθ. 2795/92391/10-6-2015 πράξης χαρακτηρισμού του Δασάρχη Λάρισας",
+  "protocol_number": "1739/106400",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77588"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΑΛΨΟΡ10-Η0Μ"
+      }
+    ]
+  },
+  "issued": "2015-07-01",
+  "posted": "2015-07-03",
+  "publish_timestamp_ms": 1435904221388,
+  "version_id": "5213e45d-e13c-4ee3-911a-6ab7c69009ec",
+  "in_force": "2015-07-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A7%CE%98%CE%A6%CE%9F%CE%A110-9%CE%93%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A7%CE%98%CE%A6%CE%9F%CE%A110-9%CE%93%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%A7%CE%98%CE%A6%CE%9F%CE%A110-9%CE%93%CE%92",
+  "listing_sha256": "599f063d7ea6a6bb516d8c6c60bea217aee6e9200566ce03e57432c607205ba9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
