@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β51ΧΗ-1Κ1",
+  "subject": "«Καθορισμός ποσού μεταφοράς από τις μεταβιβάσεις του Υπουργείου Εργασίας, Κοινωνικής Ασφάλισης και Κοινωνικής Αλληλεγγύης έτους 2015».",
+  "protocol_number": "2/36550",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1474",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100012977",
+        "unitId": [
+          "70385"
+        ],
+        "signerIds": [
+          "100011125"
+        ]
+      },
+      {
+        "ministryId": "100010874",
+        "unitId": [
+          "100011721"
+        ],
+        "signerIds": [
+          "100011698"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-07-08",
+  "posted": "2015-07-15",
+  "publish_timestamp_ms": 1436946417716,
+  "version_id": "e5e7960c-b3c1-4cad-a8ba-edff8ec17181",
+  "in_force": "2015-07-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9251%CE%A7%CE%97-1%CE%9A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9251%CE%A7%CE%97-1%CE%9A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9251%CE%A7%CE%97-1%CE%9A1",
+  "listing_sha256": "d8fb0ac97173410d1c4e2fffa270681264935681fffa27929891331b44a52459",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
