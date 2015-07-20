@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "75ΑΦΩ9Ρ-2ΨΠ",
+  "subject": "ΧΩΡΟΘΕΤΗΣΗ ΝΕΟΥ ΕΞΟΠΛΙΣΜΟΥ ΠΑΡΚΟΥ ΜΙΚΗ ΘΕΟΔΩΡΑΚΗ (πρώην\nΤΥΠΕΤ)",
+  "protocol_number": "ΑΕΠΖ 33/2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6061",
+    "label": "ΔΗΜΟΣ ΒΡΙΛΗΣΣΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80705"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "33/2015",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-07-20",
+  "posted": "2015-07-20",
+  "publish_timestamp_ms": 1437392994534,
+  "version_id": "dc1deb50-b5b4-4fcf-a06c-ab62c6fb6a6d",
+  "in_force": "2015-07-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/75%CE%91%CE%A6%CE%A99%CE%A1-2%CE%A8%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/75%CE%91%CE%A6%CE%A99%CE%A1-2%CE%A8%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/75%CE%91%CE%A6%CE%A99%CE%A1-2%CE%A8%CE%A0",
+  "listing_sha256": "664d796a3397569a995f3db25b1574a12d525d033cccaf0065dbbb25dfd852d7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
