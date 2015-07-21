@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω8Φ5ΩΗ5-ΙΗ3",
+  "subject": "“Διαγραφή οφειλής από τέλη επί των ακαθαρίστων εσόδων”",
+  "protocol_number": "41944",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6318",
+    "label": "ΔΗΜΟΣ ΧΑΝΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83115"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-07-21",
+  "posted": "2015-07-21",
+  "publish_timestamp_ms": 1437467370957,
+  "version_id": "55a1e385-c297-4b77-af50-0a9db61c25b0",
+  "in_force": "2015-07-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%A65%CE%A9%CE%975-%CE%99%CE%973",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%A65%CE%A9%CE%975-%CE%99%CE%973/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A98%CE%A65%CE%A9%CE%975-%CE%99%CE%973",
+  "listing_sha256": "2200b04ef39fe1e62c2f94508e1bd61bf99a98a4b6632432542baa0445b5e2bd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
