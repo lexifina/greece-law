@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω707Η-ΝΒΩ",
+  "subject": "«Έκδοση Εντόκων Γραμματίων του Ελληνικού Δημοσίου διάρκειας 13 εβδομάδων στις 17/07/2015 μέσω δημοπρασίας και διάθεσης σε φυσικά πρόσωπα μετά την ημερομηνία διακανονισμού».",
+  "protocol_number": "1252",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1520",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1252",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-07-15",
+  "posted": "2015-07-23",
+  "publish_timestamp_ms": 1437639905672,
+  "version_id": "d73361e6-c3d0-465b-bc96-e6fcd53f92f0",
+  "in_force": "2015-07-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9707%CE%97-%CE%9D%CE%92%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9707%CE%97-%CE%9D%CE%92%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9707%CE%97-%CE%9D%CE%92%CE%A9",
+  "listing_sha256": "ffde8eac044b275073bbbe2037fe7aca8d5c03909e1f732babd57335d4eacac5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
