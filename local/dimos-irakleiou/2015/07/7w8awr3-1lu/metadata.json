@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Ω8ΑΩΡ3-1ΛΘ",
+  "subject": "ΠΑΡΑΡΤΗΜΑ 1 ΤΗΣ ΥΠ’ ΑΡΙΘ. 144/15-7-2015 ΑΠΟΦΑΣΗΣ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ\nΠΡΟΓΡΑΜΜ Α ΑΠΟΚΑΤΑΣΤΑΣΗΣ ΟΙΚΟΝΟΜ ΙΚΗΣ ΛΕΙΤΟΥΡΓΙΑΣ ΤΟΥ\nΔΗΜΟΥ ΗΡΑΚΛΕΙΟΥ ΑΤΤΙΚΗΣ",
+  "protocol_number": "13791",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003098"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β5ΓΡΩΡ3-148"
+      }
+    ]
+  },
+  "issued": "2015-07-23",
+  "posted": "2015-07-23",
+  "publish_timestamp_ms": 1437651345262,
+  "version_id": "c4e4afdf-b804-4f0b-82bc-9766201cdfb1",
+  "in_force": "2015-07-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A98%CE%91%CE%A9%CE%A13-1%CE%9B%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A98%CE%91%CE%A9%CE%A13-1%CE%9B%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A98%CE%91%CE%A9%CE%A13-1%CE%9B%CE%98",
+  "listing_sha256": "758e3672ede4c91986bc0fdb1bb3a1c204ee1cde42ea5493200c591bd5233bf5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
