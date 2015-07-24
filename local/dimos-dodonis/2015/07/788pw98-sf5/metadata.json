@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "788ΠΩ98-ΣΦ5",
+  "subject": "ΠΕΡΙΛΗΨΗ ΔΙΑΚΗΡΥΞΗ ΕΚΜΙΣΘΩΣΗΣ ΑΚΙΝΗΤΟΥ ΠΛΑΤΕΙΑΣ Τ.Κ ΚΟΠΑΝΗΣ",
+  "protocol_number": "6279",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6084",
+    "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82459"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΩΒΘΩ98-Μ0Ζ"
+      }
+    ]
+  },
+  "issued": "2015-07-23",
+  "posted": "2015-07-24",
+  "publish_timestamp_ms": 1437736874321,
+  "version_id": "83cb4ad0-12f3-4c9b-8204-5a87ee123e39",
+  "in_force": "2015-07-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/788%CE%A0%CE%A998-%CE%A3%CE%A65",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/788%CE%A0%CE%A998-%CE%A3%CE%A65/document",
+  "page": "https://diavgeia.gov.gr/decision/view/788%CE%A0%CE%A998-%CE%A3%CE%A65",
+  "listing_sha256": "758e3672ede4c91986bc0fdb1bb3a1c204ee1cde42ea5493200c591bd5233bf5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
