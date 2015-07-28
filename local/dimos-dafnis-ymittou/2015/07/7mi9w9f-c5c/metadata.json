@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΜΙ9Ω9Φ-Ψ5Ψ",
+  "subject": "Οριστική διαγραφή βεβαιωμένων οφειλών για πρόστιμα Κ.Ο.Κ.",
+  "protocol_number": "134",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6070",
+    "label": "ΔΗΜΟΣ ΔΑΦΝΗΣ - ΥΜΗΤΤΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79819"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-07-21",
+  "posted": "2015-07-28",
+  "publish_timestamp_ms": 1438068873594,
+  "version_id": "12953aaf-d670-4cd9-9f55-5ed1f48190d0",
+  "in_force": "2015-07-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%999%CE%A99%CE%A6-%CE%A85%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%999%CE%A99%CE%A6-%CE%A85%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9C%CE%999%CE%A99%CE%A6-%CE%A85%CE%A8",
+  "listing_sha256": "c73f551109252b009fff09590293c4d0d7dd46abe71f4fbc89402e45c165cba5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
