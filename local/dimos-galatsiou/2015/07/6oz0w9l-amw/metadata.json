@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΟΖ0Ω9Λ-ΑΜΩ",
+  "subject": "Διαγραφή χρηματικού ποσού 5.828,06 € από τον υπ΄ αριθμ. 22(26-05-2015) χρηματικό κατάλογο (12) δώδεκα οφειλετών βάσει της υπ΄ αριθμ. 185/2012 καταλογιστικής πράξης του Β΄ κλιμακίου του Ελεγκτικού Συνεδρίου και της υπ΄ αριθμ. 2265/2014 απόφασης του τμήματος VII του Ελεγκτικού Συνεδρίου",
+  "protocol_number": "256",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6063",
+    "label": "ΔΗΜΟΣ ΓΑΛΑΤΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82134"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-07-22",
+  "posted": "2015-07-30",
+  "publish_timestamp_ms": 1438248629039,
+  "version_id": "aadec055-9072-4bb4-a160-f759e8882f72",
+  "in_force": "2015-07-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F%CE%960%CE%A99%CE%9B-%CE%91%CE%9C%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F%CE%960%CE%A99%CE%9B-%CE%91%CE%9C%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9F%CE%960%CE%A99%CE%9B-%CE%91%CE%9C%CE%A9",
+  "listing_sha256": "ba281f377a5e4e9c8938dc806e841a1bd0b859918c1e5d961fe1b55a26245f17",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
