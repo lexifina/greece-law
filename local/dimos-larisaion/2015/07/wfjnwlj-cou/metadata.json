@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΞΝΩΛΞ-ΨΟΘ",
+  "subject": "Η με αριθμ. 25/2015 απόφαση του ΔΣ της ΔΗ.ΘΕ.ΚΕΛ. «Θεσσαλικό θέατρο» που αφορά την τροποποίηση της Προγραμματικής Σύμβασης μεταξύ Δήμου Λαρισαίων και ΔΗ.ΘΕ.Κ.Ε.Λ» που εγκρίθηκε με τη με αρ.197/2015 Α.Δ.Σ.",
+  "protocol_number": "351",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6167",
+    "label": "ΔΗΜΟΣ ΛΑΡΙΣΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80181"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΝΦΔΩΛΞ-ΞΩΛ"
+      }
+    ]
+  },
+  "issued": "2015-07-28",
+  "posted": "2015-07-31",
+  "publish_timestamp_ms": 1438334933847,
+  "version_id": "affc1667-1de5-4bb6-b4ed-bff4184fc630",
+  "in_force": "2015-07-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%9E%CE%9D%CE%A9%CE%9B%CE%9E-%CE%A8%CE%9F%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%9E%CE%9D%CE%A9%CE%9B%CE%9E-%CE%A8%CE%9F%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%9E%CE%9D%CE%A9%CE%9B%CE%9E-%CE%A8%CE%9F%CE%98",
+  "listing_sha256": "f3674c80663dbc8bef9e7099747e67ff591b35ee5e7bec43887228f2c727f3ae",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
