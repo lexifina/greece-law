@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω8Ν9Ω1Λ-9ΡΠ",
+  "subject": "Πρακτικό",
+  "protocol_number": "3899",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6267",
+    "label": "ΔΗΜΟΣ ΣΑΜΟΘΡΑΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100013880"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΟΡΘΩ1Λ-4Ν9"
+      }
+    ]
+  },
+  "issued": "2015-08-03",
+  "posted": "2015-08-03",
+  "publish_timestamp_ms": 1438596519152,
+  "version_id": "a077fd7b-bef5-48a8-8233-22fe97c0a5e3",
+  "in_force": "2015-08-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%9D9%CE%A91%CE%9B-9%CE%A1%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%9D9%CE%A91%CE%9B-9%CE%A1%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A98%CE%9D9%CE%A91%CE%9B-9%CE%A1%CE%A0",
+  "listing_sha256": "b0a2f69888fdd6046e048fc68aa6e4b18190fb50e57ee213af6cc30636a8bb10",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
