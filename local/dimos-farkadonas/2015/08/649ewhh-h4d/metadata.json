@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "649ΕΩΗΗ-Η4Δ",
+  "subject": "Απόφαση Δημάρχου για απευθείας ανάθεση προμήθειας",
+  "protocol_number": "9701",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6305",
+    "label": "ΔΗΜΟΣ ΦΑΡΚΑΔΟΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85616"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-08-04",
+  "posted": "2015-08-04",
+  "publish_timestamp_ms": 1438684456480,
+  "version_id": "e1e3ca41-a105-4711-a7a5-f3bff1d51ac8",
+  "in_force": "2015-08-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/649%CE%95%CE%A9%CE%97%CE%97-%CE%974%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/649%CE%95%CE%A9%CE%97%CE%97-%CE%974%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/649%CE%95%CE%A9%CE%97%CE%97-%CE%974%CE%94",
+  "listing_sha256": "08f7d71f663bbdf8df4d7c05c6786bc2ecb78cb45dfc8074e112bca30e783460",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
