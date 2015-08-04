@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΝΟΛΟΡ1Ι-0ΜΜ",
+  "subject": "Τροποποίηση απόφασης Επιτροπής Παραλαβής Προμηθειών στο Νομό Δωδεκανήσου",
+  "protocol_number": "53109",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76964"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "40",
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΖΝΜΟΡ1Ι-3ΝΠ"
+      }
+    ]
+  },
+  "issued": "2015-08-04",
+  "posted": "2015-08-04",
+  "publish_timestamp_ms": 1438686611360,
+  "version_id": "94945159-428d-4530-b868-5f7ba8489f67",
+  "in_force": "2015-08-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9D%CE%9F%CE%9B%CE%9F%CE%A11%CE%99-0%CE%9C%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9D%CE%9F%CE%9B%CE%9F%CE%A11%CE%99-0%CE%9C%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9D%CE%9F%CE%9B%CE%9F%CE%A11%CE%99-0%CE%9C%CE%9C",
+  "listing_sha256": "08f7d71f663bbdf8df4d7c05c6786bc2ecb78cb45dfc8074e112bca30e783460",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
