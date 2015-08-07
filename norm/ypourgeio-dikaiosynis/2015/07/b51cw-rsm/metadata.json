@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β51ΨΩ-ΡΣΜ",
+  "subject": "Ανάθεση αρμοδιοτήτων στον Υφυπουργό Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων, Δημήτριο Παπαγγελόπουλο",
+  "protocol_number": "38846 οικ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "94046"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1657",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "38846 οικ.",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "23290",
+        "unitId": [
+          "70711"
+        ],
+        "signerIds": [
+          "100011130"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-07-24",
+  "posted": "2015-08-07",
+  "publish_timestamp_ms": 1438942706332,
+  "version_id": "dbc3a9cb-cad2-48f4-a353-ca0e1f864efe",
+  "in_force": "2015-08-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9251%CE%A8%CE%A9-%CE%A1%CE%A3%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9251%CE%A8%CE%A9-%CE%A1%CE%A3%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9251%CE%A8%CE%A9-%CE%A1%CE%A3%CE%9C",
+  "listing_sha256": "9a3b404c42551ec2ae12abb27434903604a4f3f0ff6e732eb24f19af0c15f37b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
