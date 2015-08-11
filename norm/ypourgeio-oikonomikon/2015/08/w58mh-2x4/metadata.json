@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω58ΜΗ-2Χ4",
+  "subject": "Έκδοση διοικητικών πράξεων βάσει Υπεύθυνης Δήλωσης στην οποία ο φορολογούμενος θα δηλώνει τη μη υποχρέωσή του για την υποβολή δήλωσης φορολογίας εισοδήματος",
+  "protocol_number": "ΔΕΑΦ1077373ΕΞ2015",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "11211"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΒΣΕΗ-Θ46"
+      }
+    ]
+  },
+  "issued": "2015-08-06",
+  "posted": "2015-08-11",
+  "publish_timestamp_ms": 1439288694779,
+  "version_id": "ae076689-82e3-4695-9d0a-607d6c8a8396",
+  "in_force": "2015-08-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A958%CE%9C%CE%97-2%CE%A74",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A958%CE%9C%CE%97-2%CE%A74/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A958%CE%9C%CE%97-2%CE%A74",
+  "listing_sha256": "9b7cc8ca62652b61efe6ec774569b05fee6ad51c88a1b7ef964d2b0d817efe28",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
