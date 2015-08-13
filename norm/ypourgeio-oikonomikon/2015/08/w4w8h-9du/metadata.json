@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω4Ω8Η-9ΔΘ",
+  "subject": "«Έκδοση Εντόκων Γραμματίων του Ελληνικού Δημοσίου διάρκειας 26 εβδομάδων στις 06/08/2015, σύμφωνα με τις διατάξεις της υποπαραγράφου Γ.4 του άρθρου πρώτου του ν. 4254/2014»",
+  "protocol_number": "1374",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1647",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1374",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-08-04",
+  "posted": "2015-08-13",
+  "publish_timestamp_ms": 1439463244729,
+  "version_id": "53b4121b-ab1b-479a-980c-efaa7ba1137f",
+  "in_force": "2015-08-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A94%CE%A98%CE%97-9%CE%94%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A94%CE%A98%CE%97-9%CE%94%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A94%CE%A98%CE%97-9%CE%94%CE%98",
+  "listing_sha256": "08f7d71f663bbdf8df4d7c05c6786bc2ecb78cb45dfc8074e112bca30e783460",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
