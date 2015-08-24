@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "74ΑΠΗ-ΘΥΗ",
+  "subject": "Έγκριση  Αναθεώρησης του προϋπολογισμού έτους 2015 του «Οργανισμού Λιμένος Ηγουμενίτσας Α.Ε. (Ο.Λ.ΗΓ. Α.Ε.)»",
+  "protocol_number": "2/49378",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1815",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100010938"
+        ]
+      },
+      {
+        "ministryId": "100010884",
+        "unitId": [
+          "100007315"
+        ],
+        "signerIds": [
+          "100010784"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-08-19",
+  "posted": "2015-08-24",
+  "publish_timestamp_ms": 1440416413209,
+  "version_id": "d12f1a10-e044-42db-a26b-b05ded8cc5ef",
+  "in_force": "2015-08-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/74%CE%91%CE%A0%CE%97-%CE%98%CE%A5%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/74%CE%91%CE%A0%CE%97-%CE%98%CE%A5%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/74%CE%91%CE%A0%CE%97-%CE%98%CE%A5%CE%97",
+  "listing_sha256": "ed74b829be39be2228d69e81b2e9930ee57b69dcc7f323a0c8af39ad98f43957",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
