@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΖΜ0ΩΗΙ-Τ71",
+  "subject": "ΑΔΣ 401/2015 «Έγκριση της με αριθμ. 232/2015 απόφασης της Οικονομικής Επιτροπής σχετικά με άσκηση ενδίκων μέσων ή μη, κατά της υπ’ αριθμ. 53/2015 διαταγής πληρωμής του Μονομελούς Πρωτοδικείου Φλώρινας κατά του Δήμου Φλώρινας, κατόπιν γνωμοδότησης δικηγόρου».",
+  "protocol_number": "565",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82904"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "24",
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "401/2015",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-08-25",
+  "posted": "2015-08-25",
+  "publish_timestamp_ms": 1440480528467,
+  "version_id": "11fdc2bf-d2f7-4a5c-bede-e386cdebcb47",
+  "in_force": "2015-08-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%96%CE%9C0%CE%A9%CE%97%CE%99-%CE%A471",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%96%CE%9C0%CE%A9%CE%97%CE%99-%CE%A471/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%96%CE%9C0%CE%A9%CE%97%CE%99-%CE%A471",
+  "listing_sha256": "8a1a09bc1e291d15e3f2d8fe39fc12859cf2fd7a6e42a0f3527513344e6bd494",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
