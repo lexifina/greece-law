@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΖ36Η-0Ε6",
+  "subject": "ΥΠΟΧΡΕΩΤΙΚΗ ΗΛΕΚΤΡΟΝΙΚΗ ΥΠΟΒΟΛΗ ΤΩΝ ΥΠΟΣΤΗΡΙΚΤΙΚΩΝ ΤΗΣ ΔΙΑΣΑΦΗΣΗΣ ΕΞΑΓΩΓΗΣ ΕΓΓΡΑΦΩΝ-ΤΗΡΗΣΗ ΑΡΧΕΙΟΥ",
+  "protocol_number": "ΔΤΔ Α 5016701 ΕΞ 2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "11211"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1698",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-07-31",
+  "posted": "2015-08-25",
+  "publish_timestamp_ms": 1440507643005,
+  "version_id": "99bdac75-82aa-4bc7-aab4-393eb24725f4",
+  "in_force": "2015-08-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9636%CE%97-0%CE%956",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9636%CE%97-0%CE%956/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9636%CE%97-0%CE%956",
+  "listing_sha256": "fc24ce66e6663feb6e39ffa9d05392997b43256803eb355900713d182585abdf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
