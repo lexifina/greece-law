@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΑΔ2ΩΗ0-ΟΒ9",
+  "subject": "Απόφαση Ο.Ε. αριθ. 137-2015 με θέμα : Έγκριση ή μη πρακτικού διαγωνισμού του έργου «Συντηρήσεις Σχολείων 2015 (1ου – 4ου Δημοτικού, Νηπιαγωγείου Μελά, 2ου Νηπιαγωγείου κ.λ.π.)»",
+  "protocol_number": "11954",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6306",
+    "label": "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82053"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΥΜΨΩΗ0-5ΜΒ"
+      }
+    ]
+  },
+  "issued": "2015-08-27",
+  "posted": "2015-08-27",
+  "publish_timestamp_ms": 1440655176866,
+  "version_id": "7050033a-378f-48f0-bfec-506e5807a476",
+  "in_force": "2015-08-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%91%CE%942%CE%A9%CE%970-%CE%9F%CE%929",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%91%CE%942%CE%A9%CE%970-%CE%9F%CE%929/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%91%CE%942%CE%A9%CE%970-%CE%9F%CE%929",
+  "listing_sha256": "27306c48fee1d2337d5f4e68050d845bdfbba40d7f030c4d8e2d8fdd48e5fc49",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
