@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω51ΝΩ6Ι-8ΛΒ",
+  "subject": "Έγκριση Κανονισμού εσωτερικής Λειτουργίας και Κανονισμού εργασιών του Αυτοτελούς Λιμενικού Γραφείου Δήμου Αγιάς.",
+  "protocol_number": "8568/152",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6003",
+    "label": "ΔΗΜΟΣ ΑΓΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80383"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4568Ω6Ι-ΚΘΤ"
+      }
+    ]
+  },
+  "issued": "2015-08-26",
+  "posted": "2015-08-31",
+  "publish_timestamp_ms": 1441009641077,
+  "version_id": "8662fa20-f3bf-4511-8465-e83d8aa0fe14",
+  "in_force": "2015-08-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A951%CE%9D%CE%A96%CE%99-8%CE%9B%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A951%CE%9D%CE%A96%CE%99-8%CE%9B%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A951%CE%9D%CE%A96%CE%99-8%CE%9B%CE%92",
+  "listing_sha256": "befeb37b87833e559ff0ac46345a1698a1c3c3a8b0b1edbd4e6d16b7ac960622",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
