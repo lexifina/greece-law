@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "787ΡΩΚΠ-44Ψ",
+  "subject": "Απόφαση Συμβουλίου Δημοτικής Κοινότητας Ν. Περάμου 49-2015",
+  "protocol_number": "16273",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6188",
+    "label": "ΔΗΜΟΣ ΜΕΓΑΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80566"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-08-31",
+  "posted": "2015-08-31",
+  "publish_timestamp_ms": 1441006729577,
+  "version_id": "11980707-7040-4dd1-8d8b-dc280cf2efed",
+  "in_force": "2015-08-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/787%CE%A1%CE%A9%CE%9A%CE%A0-44%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/787%CE%A1%CE%A9%CE%9A%CE%A0-44%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/787%CE%A1%CE%A9%CE%9A%CE%A0-44%CE%A8",
+  "listing_sha256": "e2cbe5e9f5ff126a8c4d899e7d0da1b20f6f8a4b4628b184130dbe3b475478cb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
