@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60Β7Ω1Ι-ΑΔ3",
+  "subject": "Απόφαση Δημοτικού Συμβουλίου αναφορικά με τη «Λήψη απόφασης για την έγκριση των οικονομικών καταστάσεων ισολογισμού 2011 Δήμου Σικίνου»",
+  "protocol_number": "32",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6275",
+    "label": "ΔΗΜΟΣ ΣΙΚΙΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "92738"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-08-15",
+  "posted": "2015-09-01",
+  "publish_timestamp_ms": 1441108020343,
+  "version_id": "2e7d7163-1208-45a0-8bc0-cec9d6225015",
+  "in_force": "2015-09-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%927%CE%A91%CE%99-%CE%91%CE%943",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%927%CE%A91%CE%99-%CE%91%CE%943/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%927%CE%A91%CE%99-%CE%91%CE%943",
+  "listing_sha256": "55ed13189ed44b82622d7635271eee392cfd8894b949e8fc91663e22cefb9afd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
