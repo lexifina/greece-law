@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΗΔΧΙΔΞ-2ΡΜ",
+  "subject": "ΑΠΟΦΑΣΗ ΡΑΕ ΥΠ’ ΑΡΙΘΜ. 213/2015 - Έγκριση των τιμολογίων της ΔΕΗ ΑΕ, ως Προμηθευτή Καθολικής Υπηρεσίας Ηλεκτρικής Ενέργειας, για το τρίτο έτος παροχής της υπηρεσίας, σύμφωνα με την απόφαση ΡΑΕ υπ’ αριθ. 115/2013 (ΦΕΚ Β’ 682/ 22.03.2013).",
+  "protocol_number": "213/2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "22793",
+    "label": "ΡΥΘΜΙΣΤΙΚΗ ΑΡΧΗ ΑΠΟΒΛΗΤΩΝ ΕΝΕΡΓΕΙΑΣ ΚΑΙ ΥΔΑΤΩΝ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "94266"
+  ],
+  "thematic_category_ids": [
+    "66"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1281",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Πράξη Ρυθμιστικής Αρχής",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-21",
+  "posted": "2015-09-02",
+  "publish_timestamp_ms": 1441180162786,
+  "version_id": "9ee07dab-c4d0-4c55-bcd5-52007bad1745",
+  "in_force": "2015-09-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%94%CE%A7%CE%99%CE%94%CE%9E-2%CE%A1%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%94%CE%A7%CE%99%CE%94%CE%9E-2%CE%A1%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%97%CE%94%CE%A7%CE%99%CE%94%CE%9E-2%CE%A1%CE%9C",
+  "listing_sha256": "22dbb1050626f6abc36324fe5135cb264bc8f3cc8f7e90be473607e757a7ba3f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
