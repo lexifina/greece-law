@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β861ΩΡ3-Θ9Θ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΓΙΑ ΕΓΚΡΙΣΗ ΜΕΛΕΤΗΣ ( ΠΡΟΜΗΘΕΙΑ ΧΗΜΙΚΗΣ ΤΟΥΑΛΕΤΑΣ ΑΜΕΑ",
+  "protocol_number": "1313",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79500"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-05-04",
+  "posted": "2015-09-02",
+  "publish_timestamp_ms": 1441182882427,
+  "version_id": "f68b89ab-0ffb-4aa4-a807-19f14dc0745f",
+  "in_force": "2015-09-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92861%CE%A9%CE%A13-%CE%989%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92861%CE%A9%CE%A13-%CE%989%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92861%CE%A9%CE%A13-%CE%989%CE%98",
+  "listing_sha256": "5d77e8de0ec662080e6f0d41cc9aceeb2b5f1de9241ea4f841c68371d5f8f3f0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
