@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΡ0ΔΩΗΙ-ΞΚ5",
+  "subject": "Άσκηση ενδίκων μέσων ή μη, κατά της υπ’αριθμ. 77/2015 διαταγής πληρωμής του Ειρηνοδικείου Φλώρινας κατά του Δήμου Φλώρινας",
+  "protocol_number": "19851",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84862"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "250/2015",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-09-02",
+  "posted": "2015-09-02",
+  "publish_timestamp_ms": 1441188061224,
+  "version_id": "6c6c8dc9-ee0d-4827-bf0a-04bfe358f4ce",
+  "in_force": "2015-09-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A10%CE%94%CE%A9%CE%97%CE%99-%CE%9E%CE%9A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A10%CE%94%CE%A9%CE%97%CE%99-%CE%9E%CE%9A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A10%CE%94%CE%A9%CE%97%CE%99-%CE%9E%CE%9A5",
+  "listing_sha256": "cdfcde517638b6da1c68617ea571a47f99e1951a19f1d25126f073bb5483fecd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
