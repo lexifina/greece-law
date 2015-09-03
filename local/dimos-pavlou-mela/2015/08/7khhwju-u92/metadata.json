@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΚΗΗΩΞΘ-Θ92",
+  "subject": "Άσκηση ή μη (παραίτηση) ένδικων μέσων κατά της διαταγής πληρωμής της εταιρίας «Αφοί Μπεκιάρη Ο.Ε.».",
+  "protocol_number": "577",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6242",
+    "label": "ΔΗΜΟΣ ΠΑΥΛΟΥ ΜΕΛΑ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80287"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-08-26",
+  "posted": "2015-09-03",
+  "publish_timestamp_ms": 1441263390358,
+  "version_id": "a487e529-c9f8-4697-9b69-c80d9b4e12d8",
+  "in_force": "2015-09-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9A%CE%97%CE%97%CE%A9%CE%9E%CE%98-%CE%9892",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9A%CE%97%CE%97%CE%A9%CE%9E%CE%98-%CE%9892/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9A%CE%97%CE%97%CE%A9%CE%9E%CE%98-%CE%9892",
+  "listing_sha256": "befeb37b87833e559ff0ac46345a1698a1c3c3a8b0b1edbd4e6d16b7ac960622",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
