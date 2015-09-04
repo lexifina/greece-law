@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΡΦΕΩ-ΘΑΖ",
+  "subject": "ΘΕΣΠΙΣΗ ΕΙΣΦΟΡΑΣ ΥΠΕΡ ΤΟΥ ΛΟΓΑΡΙΑΣΜΟΥ ΕΝΙΣΧΥΣΕΩΣ ΔΙΚΗΓΟΡΩΝ ΕΠΑΡΧΙΩΝ (ΛΕΔΕ)",
+  "protocol_number": "61247",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100010922"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1811",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "61247",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100012977",
+        "unitId": [
+          "100009305"
+        ],
+        "signerIds": [
+          "100011626"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100010938"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-07-23",
+  "posted": "2015-09-04",
+  "publish_timestamp_ms": 1441365843117,
+  "version_id": "368024c1-7eeb-4203-a68b-8cef5e6d11a5",
+  "in_force": "2015-09-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%A6%CE%95%CE%A9-%CE%98%CE%91%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%A6%CE%95%CE%A9-%CE%98%CE%91%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A1%CE%A6%CE%95%CE%A9-%CE%98%CE%91%CE%96",
+  "listing_sha256": "758e3672ede4c91986bc0fdb1bb3a1c204ee1cde42ea5493200c591bd5233bf5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
