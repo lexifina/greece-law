@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΥΔΓΩΨΜ-Ρ86",
+  "subject": "Απόφαση Δημάρχου 891/2015 για μεταφορά οχημάτων",
+  "protocol_number": "15295",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6047",
+    "label": "ΔΗΜΟΣ ΑΡΧΑΝΩΝ - ΑΣΤΕΡΟΥΣΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80055"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "891",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-09-07",
+  "posted": "2015-09-07",
+  "publish_timestamp_ms": 1441627701082,
+  "version_id": "a70c43eb-c796-476a-8bb1-c7c3dc9170d5",
+  "in_force": "2015-09-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A5%CE%94%CE%93%CE%A9%CE%A8%CE%9C-%CE%A186",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A5%CE%94%CE%93%CE%A9%CE%A8%CE%9C-%CE%A186/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A5%CE%94%CE%93%CE%A9%CE%A8%CE%9C-%CE%A186",
+  "listing_sha256": "8501933a35b86bec8d327859a286762803e9ffa7cda32a3385605fbbfc5197ef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
