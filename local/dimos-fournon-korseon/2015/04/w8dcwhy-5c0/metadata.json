@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω8ΔΨΩΗΥ-5Ψ0",
+  "subject": "22/2015 Απόφαση Δημάρχου",
+  "protocol_number": "721/2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6311",
+    "label": "ΔΗΜΟΣ ΦΟΥΡΝΩΝ ΚΟΡΣΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86848"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-04-22",
+  "posted": "2015-09-09",
+  "publish_timestamp_ms": 1441795503406,
+  "version_id": "1c9c93b5-162d-4447-9f0d-3c8cc062cc9c",
+  "in_force": "2015-09-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%94%CE%A8%CE%A9%CE%97%CE%A5-5%CE%A80",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%94%CE%A8%CE%A9%CE%97%CE%A5-5%CE%A80/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A98%CE%94%CE%A8%CE%A9%CE%97%CE%A5-5%CE%A80",
+  "listing_sha256": "46fa73cc7a3ef432ab63801641df3ea762c4f8bb201be38e368f8e06838e09d5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
