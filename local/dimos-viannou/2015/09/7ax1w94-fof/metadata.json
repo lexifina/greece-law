@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΑΧ1Ω94-ΦΟΦ",
+  "subject": "Ηχητική κάλυψη εκδηλώσεων συνεδρίου",
+  "protocol_number": "7611",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6054",
+    "label": "ΔΗΜΟΣ ΒΙΑΝΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81442"
+  ],
+  "thematic_category_ids": [
+    "08"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-09-10",
+  "posted": "2015-09-10",
+  "publish_timestamp_ms": 1441873258727,
+  "version_id": "5a85e709-8616-4602-b0e8-91feaac1d023",
+  "in_force": "2015-09-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%91%CE%A71%CE%A994-%CE%A6%CE%9F%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%91%CE%A71%CE%A994-%CE%A6%CE%9F%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%91%CE%A71%CE%A994-%CE%A6%CE%9F%CE%A6",
+  "listing_sha256": "a89b28f24af11a3bd427de7578f34672d90cf32a074874862c4bb32243d8b2f9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
