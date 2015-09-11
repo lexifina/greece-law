@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΤΕΤΩΗΕ-ΤΗΚ",
+  "subject": "Μεταφορά ποσού 2.768,98 ΕΥΡΩ από λογαριασμό   του πρώην Δήμου Αετού της   Τράπεζας Πειραιώς σε  λογαριασμό του Δήμου Τριφυλίας στην Τράπεζα   Πειραιώς.",
+  "protocol_number": "ΑΠΟΦΑΣΗ 249-2015 ΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6300",
+    "label": "ΔΗΜΟΣ ΤΡΙΦΥΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84901"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "249-2015",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-09-04",
+  "posted": "2015-09-11",
+  "publish_timestamp_ms": 1441951665063,
+  "version_id": "2784b8d7-2ca4-423b-a408-1aeac0737032",
+  "in_force": "2015-09-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A4%CE%95%CE%A4%CE%A9%CE%97%CE%95-%CE%A4%CE%97%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A4%CE%95%CE%A4%CE%A9%CE%97%CE%95-%CE%A4%CE%97%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A4%CE%95%CE%A4%CE%A9%CE%97%CE%95-%CE%A4%CE%97%CE%9A",
+  "listing_sha256": "bd97e4891061ac8d0dcf43a7fe3633a54aa51fb227eb82a6ec4fb85b4090d620",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
