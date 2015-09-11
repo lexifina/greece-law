@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΨΕ7ΛΡ-ΣΥ4",
+  "subject": "ΚΑΤΑΡΤΙΣΗ ΠΙΝΑΚΑ - ΚΩΔΙΚΟΠΟΙΗΣΗ ΣΧΟΛΗΣ ΟΔΗΓΩΝ ΜΠΑΡΔΑ ΔΗΜΗΤΡΙΟΥ - ΑΝΕΣΤΗ",
+  "protocol_number": "29793",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81563"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΤΖΜ7ΛΡ-ΥΝΠ"
+      }
+    ]
+  },
+  "issued": "2015-09-11",
+  "posted": "2015-09-11",
+  "publish_timestamp_ms": 1441971373538,
+  "version_id": "1c8fb37d-db78-4822-97b8-28743d50247a",
+  "in_force": "2015-09-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A8%CE%957%CE%9B%CE%A1-%CE%A3%CE%A54",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A8%CE%957%CE%9B%CE%A1-%CE%A3%CE%A54/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%A8%CE%957%CE%9B%CE%A1-%CE%A3%CE%A54",
+  "listing_sha256": "ae7e186938b04a35223f47421feea5d14fd3f3bbb3b8589ee5f93f3124613314",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
