@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ4ΒΞ465ΦΥΟ-54Θ",
+  "subject": "Διατάξεις Τιμολόγησης Φαρμάκων",
+  "protocol_number": "Γ5(α)/οικ.69976",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100000553"
+  ],
+  "thematic_category_ids": [
+    "10007",
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1958",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "69976",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-09-09",
+  "posted": "2015-09-14",
+  "publish_timestamp_ms": 1442230771978,
+  "version_id": "a05c87fd-e4e9-4fd2-83b1-f51ed2d2a6aa",
+  "in_force": "2015-09-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%92%CE%9E465%CE%A6%CE%A5%CE%9F-54%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%92%CE%9E465%CE%A6%CE%A5%CE%9F-54%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A84%CE%92%CE%9E465%CE%A6%CE%A5%CE%9F-54%CE%98",
+  "listing_sha256": "ccab2f9bce09ed9a22272d9b2cf5c707eb7f233f96e7ce652a3707374db1fa10",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
