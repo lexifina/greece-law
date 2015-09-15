@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΝΤΓΕ-ΘΨΖ",
+  "subject": "ΑΝΑΚΛΗΣΗ ΠΟΣΟΥ ΠΡ. ΟΤΤΑΒΑΣ",
+  "protocol_number": "ΜΕ.2/085/1329/120.7614",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70150"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "6314",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-09-07",
+  "posted": "2015-09-15",
+  "publish_timestamp_ms": 1442318177599,
+  "version_id": "bcd51c49-9fcf-442c-b919-d7b809fabd2b",
+  "in_force": "2015-09-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9D%CE%A4%CE%93%CE%95-%CE%98%CE%A8%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9D%CE%A4%CE%93%CE%95-%CE%98%CE%A8%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9D%CE%A4%CE%93%CE%95-%CE%98%CE%A8%CE%96",
+  "listing_sha256": "8501933a35b86bec8d327859a286762803e9ffa7cda32a3385605fbbfc5197ef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
