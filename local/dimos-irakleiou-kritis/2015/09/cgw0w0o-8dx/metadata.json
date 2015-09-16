@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΓΩ0Ω0Ο-8ΔΧ",
+  "subject": "Έγκριση τροποποίησης της μελέτης του έργου με τίτλο «Ολοκληρωμένη παρέμβαση εξοικονόμησης ενέργειας σε κοινόχρηστους χώρους της Δημοτικής Ενότητας Νέας Αλικαρνασσού του Δήμου Ηρακλείου Κρήτης », υποέργο 3 της πράξης με τίτλο « ΕΞΟΙΚΟΝΟΜΗΣΗ ΕΝΕΡΓΕΙΑΣ ΝΕΑΣ ΑΛΙΚΑΡΝΑΣΣΟΥ» της πράξης με τίτλο “Εξοικονόμηση Ενέργειας Νέας Αλικαρνασσού”.",
+  "protocol_number": "609/2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81430"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "64Λ9Ω0Ο-ΕΦΔ"
+      }
+    ]
+  },
+  "issued": "2015-09-14",
+  "posted": "2015-09-16",
+  "publish_timestamp_ms": 1442404266110,
+  "version_id": "957830f2-6266-400b-bdf3-c9dd76cb133a",
+  "in_force": "2015-09-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%A90%CE%A90%CE%9F-8%CE%94%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%A90%CE%A90%CE%9F-8%CE%94%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%93%CE%A90%CE%A90%CE%9F-8%CE%94%CE%A7",
+  "listing_sha256": "3e4cdbfb5086c0003f4788f2e8542afeec42f0a08783c043db67e399af81d402",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
