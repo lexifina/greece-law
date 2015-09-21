@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΓΘΛΗ-94Γ",
+  "subject": "«Καθορισμός επιτοκίου εντόκων γραμματίων διάρκειας 13 εβδομάδων με ημερομηνία δημοπρασίας 16/09/2015».",
+  "protocol_number": "1923",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2061",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1923",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-09-18",
+  "posted": "2015-09-21",
+  "publish_timestamp_ms": 1442836295613,
+  "version_id": "b3031d80-077c-45ea-8995-37dc8a031b2c",
+  "in_force": "2015-09-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%98%CE%9B%CE%97-94%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%98%CE%9B%CE%97-94%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%93%CE%98%CE%9B%CE%97-94%CE%93",
+  "listing_sha256": "e5ce273ce2183e97ef03b06e526b6675d74e4bfe044e87ec1fe4c6400ac73099",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
