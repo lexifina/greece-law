@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ρ6ΠΩΨ9-Ζ2Κ",
+  "subject": "Έγκριση ή μη της 107/2015 απόφασης Επιτροπής Ποιότητας Ζωής που αφορά: Θέση φορτοεκφόρτωσης επί της οδού Β.Γεωργίου μεταξύ των οδών Ρόδου & Κονδύλη, στο Μαρούσι",
+  "protocol_number": "045144",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "94486"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "313",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΨΣΩΩΨ9-Υ3Α"
+      }
+    ]
+  },
+  "issued": "2015-09-18",
+  "posted": "2015-09-28",
+  "publish_timestamp_ms": 1443427770531,
+  "version_id": "6abcc793-a923-49c5-af86-b5db8142d1e7",
+  "in_force": "2015-09-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A16%CE%A0%CE%A9%CE%A89-%CE%962%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A16%CE%A0%CE%A9%CE%A89-%CE%962%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A16%CE%A0%CE%A9%CE%A89-%CE%962%CE%9A",
+  "listing_sha256": "e5ce273ce2183e97ef03b06e526b6675d74e4bfe044e87ec1fe4c6400ac73099",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
