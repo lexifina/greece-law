@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΒΣΦΩΡΘ-295",
+  "subject": "Εισήγηση για τροποποίηση του ρυμοτομικού σχεδίου επέκτασης Αμαλιάδας στην περιοχή των Ο.Τ. 305 & Ο.Τ. 312",
+  "protocol_number": "29",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6106",
+    "label": "ΔΗΜΟΣ ΗΛΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81104"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-09-29",
+  "posted": "2015-09-29",
+  "publish_timestamp_ms": 1443527683728,
+  "version_id": "ea1aea1c-deb1-4ff7-84fb-7a47f2106c5a",
+  "in_force": "2015-09-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%92%CE%A3%CE%A6%CE%A9%CE%A1%CE%98-295",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%92%CE%A3%CE%A6%CE%A9%CE%A1%CE%98-295/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%92%CE%A3%CE%A6%CE%A9%CE%A1%CE%98-295",
+  "listing_sha256": "7efbdd0e4172b22105030c6345548628f1cd11290492a3f26a5ab502f7f83575",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
