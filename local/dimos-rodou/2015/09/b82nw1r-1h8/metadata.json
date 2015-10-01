@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β82ΝΩ1Ρ-1Η8",
+  "subject": "Διαγραφή οφειλής κ. Θωμά Εμμανουήλ (αρ. πρωτ.\n2/82021/2015).",
+  "protocol_number": "580",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6265",
+    "label": "ΔΗΜΟΣ ΡΟΔΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83734"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-09-24",
+  "posted": "2015-10-01",
+  "publish_timestamp_ms": 1443693391073,
+  "version_id": "bb1f0ed0-c4a7-431e-a34a-dcc2f157d953",
+  "in_force": "2015-10-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9282%CE%9D%CE%A91%CE%A1-1%CE%978",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9282%CE%9D%CE%A91%CE%A1-1%CE%978/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9282%CE%9D%CE%A91%CE%A1-1%CE%978",
+  "listing_sha256": "2c128c8a45927c3a1c8504cbb28c2ff0da13b9544e3f35d284f7d64c89be4aa3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
