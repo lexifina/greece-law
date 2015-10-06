@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔ0ΓΩΡΠ-ΘΒΧ",
+  "subject": "ΔΙΑΓΡΑΦΕΣ ΠΟΣΩΝ ΑΠΟ ΦΟΡΟΛΟΓΙΚΟΥΣ ΚΑΤΑΛΟΓΟΥΣ ΤΗΣ Δ.Ε. ΕΔΕΣΣΑΣ",
+  "protocol_number": "235",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6086",
+    "label": "ΔΗΜΟΣ ΕΔΕΣΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83436"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-10-06",
+  "posted": "2015-10-06",
+  "publish_timestamp_ms": 1444123913642,
+  "version_id": "6cd15752-4eb5-499e-9403-716776ce98fa",
+  "in_force": "2015-10-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%940%CE%93%CE%A9%CE%A1%CE%A0-%CE%98%CE%92%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%940%CE%93%CE%A9%CE%A1%CE%A0-%CE%98%CE%92%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%940%CE%93%CE%A9%CE%A1%CE%A0-%CE%98%CE%92%CE%A7",
+  "listing_sha256": "08262cca7b93868696898a10b4e9719fa9d56ec01b09278d02a97f45e570463d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
