@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΗΣΤΩ6Υ-Κ2Ρ",
+  "subject": "Προέγκριση ίδρυσης καταστήματος «ΚΑΤΑΣΤΗΜΑ ΛΙΑΝΙΚΗΣ ΔΙΑΘΕΣΗΣ ΤΡΟΦΙΜΩΝ και ΠΟΤΩΝ (Οπωροπωλείο, Κρεοπωλείο, Παντοπωλείο, Αυγοπωλείο, Πρατήριο Κατεψυγμένων Προϊόντων, Πρατήριο Ελαίων και Λιπών, Πρατήριο Γάλακτος και ειδών Ζαχαροπλαστικής, Πρατήριο Άρτου, Κατάστημα Ξηρών Καρπών και Ζαχαρωδών Προϊόντων, Κατάστημα διάθεσης προϊόντων Αλλαντοποιίας και Τυροκομίας)» στον ΔΙΠΛΑΡΟ ΘΕΟΔΩΡΟ, επί της οδού ΑΓΙΟΥ ΙΩΑΝΝΟΥ 40.",
+  "protocol_number": "33631",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6005",
+    "label": "ΔΗΜΟΣ ΑΓΙΑΣ ΠΑΡΑΣΚΕΥΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "89699"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-10-08",
+  "posted": "2015-10-08",
+  "publish_timestamp_ms": 1444302642840,
+  "version_id": "1c0d9ffb-9b16-4fe4-86ad-261fb0cf2bef",
+  "in_force": "2015-10-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%A3%CE%A4%CE%A96%CE%A5-%CE%9A2%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%A3%CE%A4%CE%A96%CE%A5-%CE%9A2%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%97%CE%A3%CE%A4%CE%A96%CE%A5-%CE%9A2%CE%A1",
+  "listing_sha256": "b5c190b44cdfc8fd5eb39c0107cc334e48e10a56c8af7335e84e1a0eda96d133",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
