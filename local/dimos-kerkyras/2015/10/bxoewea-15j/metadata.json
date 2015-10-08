@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΧΟΕΩΕΑ-15Ξ",
+  "subject": "Περί έγκρισης άσκησης ανακοπής κατά της 133/2014 Διαταγής Πληρωμής του Ειρηνοδικείου Κέρκυρας.",
+  "protocol_number": "32-3",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6147",
+    "label": "ΔΗΜΟΣ ΚΕΡΚΥΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79261"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-10-06",
+  "posted": "2015-10-08",
+  "publish_timestamp_ms": 1444287722455,
+  "version_id": "392ba44b-55a6-49d9-a8cc-5ecd235c8693",
+  "in_force": "2015-10-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A7%CE%9F%CE%95%CE%A9%CE%95%CE%91-15%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A7%CE%9F%CE%95%CE%A9%CE%95%CE%91-15%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%A7%CE%9F%CE%95%CE%A9%CE%95%CE%91-15%CE%9E",
+  "listing_sha256": "ff74067a7d4b30fe16ef4eb000bfcb8c905e987f928f1f028fc36109272e8cbb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
