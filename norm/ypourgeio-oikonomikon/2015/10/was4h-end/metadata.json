@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΑΣ4Η-ΕΝΔ",
+  "subject": "ΧΡΗΜΑΤΑΠΟΣΤΟΛΕΣ ΣΕΠΤΕΜΒΡΙΟΥ 2015",
+  "protocol_number": "47444",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "77167"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-10-12",
+  "posted": "2015-10-12",
+  "publish_timestamp_ms": 1444644591967,
+  "version_id": "bf5d4279-3ac0-4b41-93a5-2067c7041e4a",
+  "in_force": "2015-10-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%91%CE%A34%CE%97-%CE%95%CE%9D%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%91%CE%A34%CE%97-%CE%95%CE%9D%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%91%CE%A34%CE%97-%CE%95%CE%9D%CE%94",
+  "listing_sha256": "2a771c1a38ce4ecb7e9c636d6ecb03caf006b537577694b3fa5156acce49c92e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
