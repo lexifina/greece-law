@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΕΧ0ΟΡ1Κ-ΡΤΔ",
+  "subject": "Έγκριση κυκλοφοριακών ρυθμίσεων σύμφωνα με την υπ' αριθμ. 229/15 Απόφαση του Δημοτικού Συμβουλίου του Δήμου Χαλανδρίου",
+  "protocol_number": "65798/36312",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50196",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΤΤΙΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76318"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2162",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Πράξη Γενικού Γραμματέα Αποκεντρωμένης Διοίκησης",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-09-29",
+  "posted": "2015-10-13",
+  "publish_timestamp_ms": 1444709807500,
+  "version_id": "54dc3860-a600-4f30-a2e4-a389264aac0d",
+  "in_force": "2015-10-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%95%CE%A70%CE%9F%CE%A11%CE%9A-%CE%A1%CE%A4%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%95%CE%A70%CE%9F%CE%A11%CE%9A-%CE%A1%CE%A4%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%95%CE%A70%CE%9F%CE%A11%CE%9A-%CE%A1%CE%A4%CE%94",
+  "listing_sha256": "fa72f76da75a9d471a51119397b397cef085722781d7cffae93318ffbbff44ae",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
