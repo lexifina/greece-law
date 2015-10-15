@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΖ92ΩΡΩ-6ΝΞ",
+  "subject": "Ψήφιση πιστώσεων οικον. έτους 2015",
+  "protocol_number": "159",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6091",
+    "label": "ΔΗΜΟΣ ΕΜΜΑΝΟΥΗΛ ΠΑΠΠΑ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82017"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-10-12",
+  "posted": "2015-10-15",
+  "publish_timestamp_ms": 1444893790643,
+  "version_id": "420cf402-8ce3-453d-808a-1d2bb64bdf44",
+  "in_force": "2015-10-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9692%CE%A9%CE%A1%CE%A9-6%CE%9D%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9692%CE%A9%CE%A1%CE%A9-6%CE%9D%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9692%CE%A9%CE%A1%CE%A9-6%CE%9D%CE%9E",
+  "listing_sha256": "1d4ddee1b2ab90d893594798b9cd1088a9d1efbb0e2fa79ef075791ed69cd8ad",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
