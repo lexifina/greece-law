@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΖΞΩΗΕ-ΖΞΕ",
+  "subject": "ΜΙΣΘΟΔΟΣΙΑ Α΄15ΝΘΗΜΕΡΟ ΝΟΕΜΒΡΙΟΥ 2015",
+  "protocol_number": "903/2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6300",
+    "label": "ΔΗΜΟΣ ΤΡΙΦΥΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93116"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-10-16",
+  "posted": "2015-10-16",
+  "publish_timestamp_ms": 1444978585996,
+  "version_id": "29ffaaa5-6c7e-467a-80a4-e90e3a8cd62b",
+  "in_force": "2015-10-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%96%CE%9E%CE%A9%CE%97%CE%95-%CE%96%CE%9E%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%96%CE%9E%CE%A9%CE%97%CE%95-%CE%96%CE%9E%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%96%CE%9E%CE%A9%CE%97%CE%95-%CE%96%CE%9E%CE%95",
+  "listing_sha256": "65cdc51f4e536224d24f39138a40bc674a06bca642e3bca5741b3f353e039a4d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
