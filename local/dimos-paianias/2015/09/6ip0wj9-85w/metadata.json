@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΙΠ0ΩΞ9-85Ω",
+  "subject": "346/2015 αποφ.Δημάρχου περί πρακτικής άσκησης σπουδαστού ΤΕΙ",
+  "protocol_number": "346/2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6230",
+    "label": "ΔΗΜΟΣ ΠΑΙΑΝΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81858"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-09-29",
+  "posted": "2015-10-16",
+  "publish_timestamp_ms": 1444986060855,
+  "version_id": "1dcdf078-b4e2-4b0e-8902-832cde5cd7a7",
+  "in_force": "2015-10-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%A00%CE%A9%CE%9E9-85%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%A00%CE%A9%CE%9E9-85%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%99%CE%A00%CE%A9%CE%9E9-85%CE%A9",
+  "listing_sha256": "fa72f76da75a9d471a51119397b397cef085722781d7cffae93318ffbbff44ae",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
