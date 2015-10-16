@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥΖΑΩ16-ΟΙΡ",
+  "subject": "ΑΝΑΡΤΗΣΗ ΤΗΣ ΑΔΕΙΑΣ ΥΠ. ΑΡΙΘΜΟΝ 70/2015 ΤΗΣ ΥΠΗΡΕΣΙΑΣ ΔΟΜΗΣΗΣ ΠΕΡΙ ΕΓΚΡΙΣΕΩΣ ΝΟΜΙΜΟΠΟΙΗΣΗΣ της ΕΓΚΑΤΑΣΤΑΣΗΣ ΔΟΜΙΚΩΝ ΚΑΤΑΣΚΕΥΩΝ ΣΤΑΘΜΟΥ ΒΑΣΗΣ ΚΙΝΗΤΗΣ ΤΗΛΕΦΩΝΙΑΣ ΣΤΗ ΘΕΣΗ “Λ.ΜΑΡΑΘΩΝΟΣ 140 2861” από την COSMOTE KINHTEΣ ΤΗΛΕΠΙΚΟΙΝΩΝΙΕΣ Α.Ε. ΜΕ ΤΟ ΑΡΘΡΟ 31 ΤΟΥ Ν.4053/12 ΚΑΙ ΤΟ ΑΡΘΡΟ 126 ΤΟΥ Ν.4249/14 ΚΑΙ ΤΟΝ Ν.4178/2013",
+  "protocol_number": "70",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6262",
+    "label": "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100000689"
+  ],
+  "thematic_category_ids": [
+    "32",
+    "40",
+    "64",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "70/2015",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-10-12",
+  "posted": "2015-10-16",
+  "publish_timestamp_ms": 1444982373699,
+  "version_id": "72f95348-748b-49af-bfa8-dbd47dafb529",
+  "in_force": "2015-10-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%96%CE%91%CE%A916-%CE%9F%CE%99%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%96%CE%91%CE%A916-%CE%9F%CE%99%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A5%CE%96%CE%91%CE%A916-%CE%9F%CE%99%CE%A1",
+  "listing_sha256": "1d4ddee1b2ab90d893594798b9cd1088a9d1efbb0e2fa79ef075791ed69cd8ad",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
