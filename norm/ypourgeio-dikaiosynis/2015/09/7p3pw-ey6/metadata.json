@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Π3ΠΩ-ΕΥ6",
+  "subject": "ΥΠΟΥΡΓΙΚΗ ΑΠΟΦΑΣΗ ΠΕΡΙ ΤΗΣ ΚΑΤΗΓΟΡΙΟΠΟΙΗΣΗΣ ΗΔΗ ΕΚΚΡΕΜΩΝ ΑΙΤΗΣΕΩΝ ΚΑΙ ΑΙΤΗΣΕΩΝ ΥΠΟΒΑΛΛΟΜΕΝΩΝ ΜΕΤΑ ΤΗΝ ΕΝΑΡΞΗ ΙΣΧΥΟΣ ΤΟΥ ν. 4336/2015",
+  "protocol_number": "70888",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100010807"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2225",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "70888",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-09-29",
+  "posted": "2015-10-19",
+  "publish_timestamp_ms": 1445253776495,
+  "version_id": "90bd3d8d-1539-4d7b-8528-6a9ef146b529",
+  "in_force": "2015-10-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A03%CE%A0%CE%A9-%CE%95%CE%A56",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A03%CE%A0%CE%A9-%CE%95%CE%A56/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A03%CE%A0%CE%A9-%CE%95%CE%A56",
+  "listing_sha256": "fa72f76da75a9d471a51119397b397cef085722781d7cffae93318ffbbff44ae",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
