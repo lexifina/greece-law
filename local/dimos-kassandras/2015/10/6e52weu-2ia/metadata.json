@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ε52ΩΕΘ-2ΙΑ",
+  "subject": "ΠΡΟΜΗΘΕΙΑ ΛΑΜΠΤΗΡΩΝ ΚΑΙ ΥΛΙΚΩΝ ΣΥΝΤΗΡΗΣΗΣ ΔΗΜΟΤΙΚΟΥ ΗΛΕΚΤΡΟΦΩΤΙΣΜΟΥ ΚΑΙ ΚΤΙΡΙΑΚΩΝ ΕΓΚΑΤΑΣΤΑΣΕΩΝ Δ.Ε ΠΑΛΛΗΝΗΣ",
+  "protocol_number": "519",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6140",
+    "label": "ΔΗΜΟΣ ΚΑΣΣΑΝΔΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79021"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΝΣΩΩΕΘ-7Μ4"
+      }
+    ]
+  },
+  "issued": "2015-10-19",
+  "posted": "2015-10-19",
+  "publish_timestamp_ms": 1445254661919,
+  "version_id": "f9a65b41-9259-452b-a917-a82ce3bbcd67",
+  "in_force": "2015-10-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9552%CE%A9%CE%95%CE%98-2%CE%99%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9552%CE%A9%CE%95%CE%98-2%CE%99%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9552%CE%A9%CE%95%CE%98-2%CE%99%CE%91",
+  "listing_sha256": "78d23014f1359d71e4d2d906019b877020cda691b40fb26e48932addfe3d9955",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
