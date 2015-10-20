@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΜΛΘΟΡ1Θ-ΘΟ1",
+  "subject": "Τροποποίηση του ΟΕΥ του ΝΠΔΔ \"ΚΟΙΝΩ.ΠΟΛΙΤΙ.Α ΙΕΡΑΠΕΤΡΑΣ\"",
+  "protocol_number": "12627",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76997"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2244",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-10-09",
+  "posted": "2015-10-20",
+  "publish_timestamp_ms": 1445342110290,
+  "version_id": "5b6db285-cd17-43d8-92b4-8694a9c3a7d4",
+  "in_force": "2015-10-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9C%CE%9B%CE%98%CE%9F%CE%A11%CE%98-%CE%98%CE%9F1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9C%CE%9B%CE%98%CE%9F%CE%A11%CE%98-%CE%98%CE%9F1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9C%CE%9B%CE%98%CE%9F%CE%A11%CE%98-%CE%98%CE%9F1",
+  "listing_sha256": "bf182752c3557a75bd5265d9613dc2e2c267406286e8c83d45bcc747d5e25158",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
