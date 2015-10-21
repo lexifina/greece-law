@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β58ΙΩ9Ο-9ΕΟ",
+  "subject": "Αποδοχή δωρεάς Ανελκυστήρα για το 3ο Γυμνάσιο Βέροιας.",
+  "protocol_number": "522-15",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6053",
+    "label": "ΔΗΜΟΣ ΒΕΡΟΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "95143"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-10-21",
+  "posted": "2015-10-21",
+  "publish_timestamp_ms": 1445408103252,
+  "version_id": "55d48f17-90ff-483e-9743-c95d30ed852f",
+  "in_force": "2015-10-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9258%CE%99%CE%A99%CE%9F-9%CE%95%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9258%CE%99%CE%A99%CE%9F-9%CE%95%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9258%CE%99%CE%A99%CE%9F-9%CE%95%CE%9F",
+  "listing_sha256": "0c3849d63b038505af9b41ce9f612da94752ce2412a122bae6999ffd0ad86a87",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
