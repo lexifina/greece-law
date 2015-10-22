@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΕΠ5ΩΨ9-Ρ15",
+  "subject": "Έγκριση ή μη της απόφασης Επιτροπής  Ποιότητας Ζωής που αφορά: \"Εγκριση ή μη καθορισμού χώρου προβολής υπαίθριας διαφήμισης (συνολικά τέσσερις (4) θέσεις, συγκεκριμένα στα Ο.Τ. Γ. 1007 (θέση 1), Ο.Τ. Γ. 819 ( θέσεις 2) Ο.Τ. 412 (θέση 1)\"",
+  "protocol_number": "052711",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "94486"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β43ΞΩΨ9-ΦΙΖ"
+      },
+      {
+        "relatedDecisionsADA": "ΩΕΣΗΩΨ9-2ΚΛ"
+      }
+    ]
+  },
+  "issued": "2015-10-21",
+  "posted": "2015-10-22",
+  "publish_timestamp_ms": 1445514186804,
+  "version_id": "e893ca45-cfe4-46f0-b94c-1e2b28faa1e1",
+  "in_force": "2015-10-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%95%CE%A05%CE%A9%CE%A89-%CE%A115",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%95%CE%A05%CE%A9%CE%A89-%CE%A115/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%95%CE%A05%CE%A9%CE%A89-%CE%A115",
+  "listing_sha256": "faf819d4a63f7adc92326087d3ae56033fa5f816fc2611aa7e832a155f73fd4a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
