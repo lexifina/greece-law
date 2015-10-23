@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Β8ΚΥΩΗΥ-83Η",
+  "subject": "ΕΙΣΗΓΗΣΗ ΓΙΑ ΤΕΛΗ 2016",
+  "protocol_number": "147/2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6311",
+    "label": "ΔΗΜΟΣ ΦΟΥΡΝΩΝ ΚΟΡΣΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85390"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-10-02",
+  "posted": "2015-10-23",
+  "publish_timestamp_ms": 1445590967614,
+  "version_id": "6e0fa135-643e-4d69-a4e8-8f4c9efcfab9",
+  "in_force": "2015-10-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%928%CE%9A%CE%A5%CE%A9%CE%97%CE%A5-83%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%928%CE%9A%CE%A5%CE%A9%CE%97%CE%A5-83%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%928%CE%9A%CE%A5%CE%A9%CE%97%CE%A5-83%CE%97",
+  "listing_sha256": "81dc2bb5d0611bd86c740c48e9d7174bbcf254274c1793510ab9b7055fa150b3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
