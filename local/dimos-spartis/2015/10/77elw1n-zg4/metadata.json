@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "77ΕΛΩ1Ν-ΖΓ4",
+  "subject": "ΑΠΟΦΑΣΗ 99",
+  "protocol_number": "99",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6286",
+    "label": "ΔΗΜΟΣ ΣΠΑΡΤΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80737"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-10-27",
+  "posted": "2015-10-27",
+  "publish_timestamp_ms": 1445939386179,
+  "version_id": "e664b3f8-10d8-4785-8ab8-c940d1263b3c",
+  "in_force": "2015-10-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/77%CE%95%CE%9B%CE%A91%CE%9D-%CE%96%CE%934",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/77%CE%95%CE%9B%CE%A91%CE%9D-%CE%96%CE%934/document",
+  "page": "https://diavgeia.gov.gr/decision/view/77%CE%95%CE%9B%CE%A91%CE%9D-%CE%96%CE%934",
+  "listing_sha256": "5f07ef8ba36cada3d991651bde74b64820fd2caf250562910ffc40b547a1b765",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
