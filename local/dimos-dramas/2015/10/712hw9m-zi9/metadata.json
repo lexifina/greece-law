@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "712ΗΩ9Μ-ΖΙ9",
+  "subject": "Έγκριση εξόδων μετακίνησης εκτός έδρας υπαλλήλων Δήμου Δράμας",
+  "protocol_number": "44958/13-10-2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79156"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "525/2015",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7Ω80Ω9Μ-ΗΤΓ"
+      }
+    ]
+  },
+  "issued": "2015-10-23",
+  "posted": "2015-10-29",
+  "publish_timestamp_ms": 1446117941045,
+  "version_id": "34edb3e0-4dbe-4e75-8403-687a72108a6c",
+  "in_force": "2015-10-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/712%CE%97%CE%A99%CE%9C-%CE%96%CE%999",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/712%CE%97%CE%A99%CE%9C-%CE%96%CE%999/document",
+  "page": "https://diavgeia.gov.gr/decision/view/712%CE%97%CE%A99%CE%9C-%CE%96%CE%999",
+  "listing_sha256": "a41428cad6c8e84d0b4605ab2a7e2efd8c3c75d74ca5d6832e2bafdb07d971f3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
