@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΖΒΓΩ-ΘΚ7",
+  "subject": "KYA ΚΑΘΟΡΙΣΜΟΥ ΑΜΟΙΒΩΝ ΔΙΚΑΣΤΙΚΩΝ ΕΠΙΜΕΛΗΤΩΝ",
+  "protocol_number": "76297",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100010922"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2346",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "76297",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-10-30",
+  "posted": "2015-11-03",
+  "publish_timestamp_ms": 1446532727008,
+  "version_id": "0cc190fe-4275-4465-b307-4d53b60a0ab3",
+  "in_force": "2015-11-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%96%CE%92%CE%93%CE%A9-%CE%98%CE%9A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%96%CE%92%CE%93%CE%A9-%CE%98%CE%9A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%96%CE%92%CE%93%CE%A9-%CE%98%CE%9A7",
+  "listing_sha256": "72856d104fc73e9a64039bea6c6e3c74269a32b10761e22e2fd8881b7daab96a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
