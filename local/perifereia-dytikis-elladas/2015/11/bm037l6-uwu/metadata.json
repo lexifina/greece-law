@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΜ037Λ6-ΘΩΘ",
+  "subject": "ΕΝΤΟΛΗ ΔΙΕΝΕΡΓΕΙΑΣ ΕΛΕΓΧΟΥ",
+  "protocol_number": "286787/20204",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5004",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78407"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-11-03",
+  "posted": "2015-11-03",
+  "publish_timestamp_ms": 1446530338605,
+  "version_id": "34a04489-865a-44d0-9c7f-41abf49c38f2",
+  "in_force": "2015-11-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9C037%CE%9B6-%CE%98%CE%A9%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9C037%CE%9B6-%CE%98%CE%A9%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9C037%CE%9B6-%CE%98%CE%A9%CE%98",
+  "listing_sha256": "489e1953da98039a6f086ddb44fbae9d49494e59fc5701e9e8c40b1737ad6bdf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
