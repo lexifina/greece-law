@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΦΝΟ4653ΠΓ-0ΧΙ",
+  "subject": "\"Μεταβίβαση του δικαιώματος υπογραφής «με εντολή Υπουργού» στον Γενικό Γραμματέα, Γενικό Γραμματέα Αγροτικής Πολιτικής και Διαχείρισης Κοινοτικών Πόρων, σε Προϊσταμένους Γενικής Διεύθυνσης, Προϊσταμένους Διεύθυνσης, Προϊσταμένους Τμήματος και Υπεύθυνους Γραφείου, του Υπουργείου Αγροτικής Ανάπτυξης και Τροφίμων\".",
+  "protocol_number": "9328/118691",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100002593"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2366",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-11-05",
+  "posted": "2015-11-05",
+  "publish_timestamp_ms": 1446716742104,
+  "version_id": "6df810fd-808f-4c05-88bf-0580865fd121",
+  "in_force": "2015-11-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A6%CE%9D%CE%9F4653%CE%A0%CE%93-0%CE%A7%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A6%CE%9D%CE%9F4653%CE%A0%CE%93-0%CE%A7%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A6%CE%9D%CE%9F4653%CE%A0%CE%93-0%CE%A7%CE%99",
+  "listing_sha256": "505a7bb5d9ed95ddc120485fa34e297d9238fa5ecbedcc4e24603dcf88db4cb2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
