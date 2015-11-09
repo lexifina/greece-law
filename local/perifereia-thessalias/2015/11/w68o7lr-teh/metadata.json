@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω68Ο7ΛΡ-ΤΕΗ",
+  "subject": "Δημοσίευση της υπ' αριθμ. 8/2015 απόφαση της Επιτροπής Θεμάτων Γης και Επίλυσης Διαφορών Π.Ε. Καρδίτσας",
+  "protocol_number": "-",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "100015021"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΣΤΖ7ΛΡ-5ΥΛ"
+      }
+    ]
+  },
+  "issued": "2015-11-03",
+  "posted": "2015-11-09",
+  "publish_timestamp_ms": 1447064201855,
+  "version_id": "8c4ee450-d736-4edd-99cb-bc54ba881d1d",
+  "in_force": "2015-11-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A968%CE%9F7%CE%9B%CE%A1-%CE%A4%CE%95%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A968%CE%9F7%CE%9B%CE%A1-%CE%A4%CE%95%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A968%CE%9F7%CE%9B%CE%A1-%CE%A4%CE%95%CE%97",
+  "listing_sha256": "6b43e22389b86fc59f1e1362b744daa840be66f0167ad58f304e5dd055986100",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
