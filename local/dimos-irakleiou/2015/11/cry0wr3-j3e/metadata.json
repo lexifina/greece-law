@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΡΥ0ΩΡ3-Ξ3Ε",
+  "subject": "Διόρθωση –συμπλήρωση  της υπ.αριθ.361 απόφασης της 4/11/2015 της Οικονομικής επιτροπής .",
+  "protocol_number": "20316",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003098"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "377",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-11-16",
+  "posted": "2015-11-16",
+  "publish_timestamp_ms": 1447676803798,
+  "version_id": "01ddb357-99a5-4dc1-b88a-f5d5c787de86",
+  "in_force": "2015-11-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A1%CE%A50%CE%A9%CE%A13-%CE%9E3%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A1%CE%A50%CE%A9%CE%A13-%CE%9E3%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A1%CE%A50%CE%A9%CE%A13-%CE%9E3%CE%95",
+  "listing_sha256": "d059e902f9837a57b6c8f63af0c5fe3ef5928bdc3ecfbf0788c7be64b6c66856",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
