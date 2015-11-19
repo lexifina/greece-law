@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥΣΓΩΞΗ-15Χ",
+  "subject": "Έκδοση ψηφίσματος που αφορά τις πρόσφατες  δηλώσεις του Υπουργού Παιδείας κ. Φίλη Νικόλαου σχετικά με την Γενοκτονία των Ποντίων",
+  "protocol_number": "197",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6237",
+    "label": "ΔΗΜΟΣ ΠΑΡΑΝΕΣΤΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85007"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-11-19",
+  "posted": "2015-11-19",
+  "publish_timestamp_ms": 1447928579998,
+  "version_id": "b605bc80-34bf-4ec0-b173-1abddd38eea0",
+  "in_force": "2015-11-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%A3%CE%93%CE%A9%CE%9E%CE%97-15%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%A3%CE%93%CE%A9%CE%9E%CE%97-15%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A5%CE%A3%CE%93%CE%A9%CE%9E%CE%97-15%CE%A7",
+  "listing_sha256": "caab8fa42df3bee96e1cfe133914cf80a09f7bee808c23ac684f85bf21d3f5f9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
