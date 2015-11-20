@@ -1,0 +1,39 @@
+{
+  "year": 2015,
+  "number": 4346,
+  "url": "https://api.et.gr/apiLAW/1/2015/4346/pdf",
+  "source_sha256": "3adc5fe1cf345a7eb89531960027e1e5f003f5c151d3b8420ed13af14f23337f",
+  "published": "2015-11-20",
+  "in_force": "2015-11-20",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν προβλέπεται διαφορετικά σε επιμέρους διατάξεις του.",
+  "in_force_general_day": true,
+  "pages": 12,
+  "images": [
+    {
+      "page": 10,
+      "sha256": "f669a9313b52c380eda2bc514f92c15114251ef2854e0a6f9289eab1a4604ac0",
+      "ext": "png",
+      "bytes": 151573,
+      "bbox": [
+        104.3,
+        216.0,
+        458.7,
+        773.6
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "d08d2ae9a1d5fa995d480a528fe16aae133247c82e39227081905981234629c7",
+      "ext": "png",
+      "bytes": 73798,
+      "bbox": [
+        139.4,
+        125.8,
+        509.8,
+        283.3
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
