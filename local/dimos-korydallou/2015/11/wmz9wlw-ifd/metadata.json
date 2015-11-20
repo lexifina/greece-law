@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΖ9ΩΛΩ-ΙΦΔ",
+  "subject": "Λήψη απόφασης για την τροποποίηση της αριθμ.: 154/2015 Α.Δ.Σ. ως προς την χωροθέτηση της Λαϊκής Αγοράς ΚΟΥΤΣΙΚΑΡΙ, Α΄ Πειραιά.",
+  "protocol_number": "36820",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6159",
+    "label": "ΔΗΜΟΣ ΚΟΡΥΔΑΛΛΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78220"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "87",
+      "issue": "fektype_A",
+      "issueyear": 2010
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-11-20",
+  "posted": "2015-11-20",
+  "publish_timestamp_ms": 1448008332925,
+  "version_id": "ff8cced5-a0f2-45e0-9461-b286161960cc",
+  "in_force": "2015-11-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%969%CE%A9%CE%9B%CE%A9-%CE%99%CE%A6%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%969%CE%A9%CE%9B%CE%A9-%CE%99%CE%A6%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%969%CE%A9%CE%9B%CE%A9-%CE%99%CE%A6%CE%94",
+  "listing_sha256": "3f36e0f7c4dedd1ed4d91e293a0e74b3e9b37dc1f321a3d73830052c73311a2f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
