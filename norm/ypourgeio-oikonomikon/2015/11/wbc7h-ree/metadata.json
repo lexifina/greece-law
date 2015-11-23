@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΒΨ7Η-ΡΕΕ",
+  "subject": "«Καθορισμός ποσού μεταφοράς από τις μεταβιβάσεις του Υπουργείου Οικονομίας, Ανάπτυξης και Τουρισμού έτους 2015»",
+  "protocol_number": "2/63852",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2471",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100010874",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100014075"
+        ]
+      },
+      {
+        "ministryId": "100016002",
+        "unitId": [
+          "100008172"
+        ],
+        "signerIds": [
+          "100010783"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-11-06",
+  "posted": "2015-11-23",
+  "publish_timestamp_ms": 1448265882855,
+  "version_id": "7014e2fb-e6f1-41fa-9e15-31c3d9bb8c67",
+  "in_force": "2015-11-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%92%CE%A87%CE%97-%CE%A1%CE%95%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%92%CE%A87%CE%97-%CE%A1%CE%95%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%92%CE%A87%CE%97-%CE%A1%CE%95%CE%95",
+  "listing_sha256": "2f291b5bf9c857999e863bebe63b00df6cc8c5c1b5718d54021d00178ad70625",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
