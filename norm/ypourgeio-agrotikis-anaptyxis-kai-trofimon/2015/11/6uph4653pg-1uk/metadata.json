@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΘΠΗ4653ΠΓ-1ΘΚ",
+  "subject": "Τροποποίηση της με αριθ. 13631/159106/20-12-2013 Απόφασης των Υπουργών Ανάπτυξης και Ανταγωνιστικότητας και Αγροτικής Ανάπτυξης και Τροφίμων (ΦΕΚ Β΄3410)",
+  "protocol_number": "11118/127128/19-11-2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100002685"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2518",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100016002",
+        "unitId": [
+          "100006354"
+        ],
+        "signerIds": [
+          "100010783"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-11-23",
+  "posted": "2015-11-23",
+  "publish_timestamp_ms": 1448278580568,
+  "version_id": "96ceee1b-61c0-41c6-97a1-f6a085fde867",
+  "in_force": "2015-11-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%98%CE%A0%CE%974653%CE%A0%CE%93-1%CE%98%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%98%CE%A0%CE%974653%CE%A0%CE%93-1%CE%98%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%98%CE%A0%CE%974653%CE%A0%CE%93-1%CE%98%CE%9A",
+  "listing_sha256": "6d5adf646dbaee1dd40c737ea743ead4f41140a56ae39a53b4221bf2edfe6eef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
