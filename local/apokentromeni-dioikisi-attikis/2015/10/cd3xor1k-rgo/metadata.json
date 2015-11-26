@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΔ3ΧΟΡ1Κ-ΡΓΟ",
+  "subject": "Έγκριση του Οργανισμού Εσωτερικής Υπηρεσίας του ΝΠΔΔ Δημοτικό Λιμενικό Ταμείο\nΚυθήρων.",
+  "protocol_number": "77395/42212",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50196",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΤΤΙΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76308"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2411",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-10-30",
+  "posted": "2015-11-26",
+  "publish_timestamp_ms": 1448546400538,
+  "version_id": "28d897eb-4fdb-46f0-95fa-06cefaaedecd",
+  "in_force": "2015-11-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%943%CE%A7%CE%9F%CE%A11%CE%9A-%CE%A1%CE%93%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%943%CE%A7%CE%9F%CE%A11%CE%9A-%CE%A1%CE%93%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%943%CE%A7%CE%9F%CE%A11%CE%9A-%CE%A1%CE%93%CE%9F",
+  "listing_sha256": "72856d104fc73e9a64039bea6c6e3c74269a32b10761e22e2fd8881b7daab96a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
