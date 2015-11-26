@@ -1,0 +1,60 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "64ΩΧ4653ΠΩ-ΧΚΡ",
+  "subject": "Καθορισμός Εισφοράς για τη Συμμετοχή της Ελλάδος στις Δαπάνες Λειτουργίας της Γραμματείας του Μνημονίου Συνεννόησης, για τον Έλεγχο των Πλοίων από τα Κράτη των Λιμένων (PARIS MEMORANDUM OF UNDERSTANDING ON PORT STATE CONTROL) για το έτος 2015.",
+  "protocol_number": "2811.17-1/35280/2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100016124"
+  ],
+  "thematic_category_ids": [
+    "24",
+    "76"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2537",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "35280",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΚΟΩ465ΦΘΘ-3ΙΘ"
+      }
+    ],
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-11-05",
+  "posted": "2015-11-26",
+  "publish_timestamp_ms": 1448527461960,
+  "version_id": "c1dd1b61-75d5-452a-bc94-5ddee4b2a1f6",
+  "in_force": "2015-11-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/64%CE%A9%CE%A74653%CE%A0%CE%A9-%CE%A7%CE%9A%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/64%CE%A9%CE%A74653%CE%A0%CE%A9-%CE%A7%CE%9A%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/64%CE%A9%CE%A74653%CE%A0%CE%A9-%CE%A7%CE%9A%CE%A1",
+  "listing_sha256": "4e431d98fb46854a9894da90d3df29dcbabe62061259061a8fe7015968706042",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
