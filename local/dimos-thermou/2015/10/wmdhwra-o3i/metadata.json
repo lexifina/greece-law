@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΔΗΩΡΑ-Ο3Ι",
+  "subject": "Αριθ. 216/2015 Α.Δ.Σ. Αίτηση κ. Παπαθανασόπουλου Δ.  Ιωάννη.",
+  "protocol_number": "4410",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6113",
+    "label": "ΔΗΜΟΣ ΘΕΡΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81712"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "216/2015ΔΣ",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-10-30",
+  "posted": "2015-12-01",
+  "publish_timestamp_ms": 1448965460513,
+  "version_id": "e553de72-eb2c-4c31-8c6a-8d06ddedc22d",
+  "in_force": "2015-12-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%94%CE%97%CE%A9%CE%A1%CE%91-%CE%9F3%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%94%CE%97%CE%A9%CE%A1%CE%91-%CE%9F3%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%94%CE%97%CE%A9%CE%A1%CE%91-%CE%9F3%CE%99",
+  "listing_sha256": "72856d104fc73e9a64039bea6c6e3c74269a32b10761e22e2fd8881b7daab96a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
