@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΝ12ΩΡΔ-Η32",
+  "subject": "Ορισμός νομικού προσώπου και οικονομικού διαχειριστή της Δευτεροβάθμιας εκπαίδευσης",
+  "protocol_number": "31",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6110",
+    "label": "ΔΗΜΟΣ ΘΑΣΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93106"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-12-01",
+  "posted": "2015-12-01",
+  "publish_timestamp_ms": 1448967288419,
+  "version_id": "ebcf9d52-742c-4a99-9417-582707a74851",
+  "in_force": "2015-12-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9D12%CE%A9%CE%A1%CE%94-%CE%9732",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%9D12%CE%A9%CE%A1%CE%94-%CE%9732/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%9D12%CE%A9%CE%A1%CE%94-%CE%9732",
+  "listing_sha256": "051c7121667fc0648ad8e58622adb96dc1f4450f5af41d5d62bd975eb5785bf1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
