@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Ν2ΡΩΗΙ-0Ε0",
+  "subject": "Διάθεση ψήφιση πιστώσεων",
+  "protocol_number": "2012",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87159"
+  ],
+  "thematic_category_ids": [
+    "44",
+    "10004",
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "ΑΠΔΣ 98/15",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-12-04",
+  "posted": "2015-12-04",
+  "publish_timestamp_ms": 1449215108514,
+  "version_id": "dc7dc3bc-7021-403b-82c9-5af28ef3003c",
+  "in_force": "2015-12-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9D2%CE%A1%CE%A9%CE%97%CE%99-0%CE%950",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9D2%CE%A1%CE%A9%CE%97%CE%99-0%CE%950/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9D2%CE%A1%CE%A9%CE%97%CE%99-0%CE%950",
+  "listing_sha256": "e1d32bfdb53dbd2a73c0b8e72ec876b97903cdbf70a07028178ac9ee3ac8f16c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
