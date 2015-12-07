@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΗΒΩΡΥ-ΥΚΔ",
+  "subject": "ΠΡΟΒΛΕΨΗ ΣΥΣΤΑΣΗΣ ΣΥΝΕΡΓΕΙΟΥ ΥΠΕΡΩΡΙΑΚΗΣ ΑΠΑΣΧΟΛΗΣΗΣ ΔΕΚΕΜΒΡΙΟΥ 2015",
+  "protocol_number": "οικ.37121",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6107",
+    "label": "ΔΗΜΟΣ ΗΛΙΟΥΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81509"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "10/1231",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΑΜ2ΩΡΥ-ΞΓ1"
+      }
+    ]
+  },
+  "issued": "2015-12-07",
+  "posted": "2015-12-07",
+  "publish_timestamp_ms": 1449475766902,
+  "version_id": "f9e08a7d-b7a9-47cf-9143-870fdc44f83a",
+  "in_force": "2015-12-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%97%CE%92%CE%A9%CE%A1%CE%A5-%CE%A5%CE%9A%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%97%CE%92%CE%A9%CE%A1%CE%A5-%CE%A5%CE%9A%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%97%CE%92%CE%A9%CE%A1%CE%A5-%CE%A5%CE%9A%CE%94",
+  "listing_sha256": "6a3b8519c7938c5265fb7149d6f2f84a35f6e787612707df9da28df317fe546a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
