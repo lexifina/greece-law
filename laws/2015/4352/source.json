@@ -1,0 +1,40 @@
+{
+  "year": 2015,
+  "number": 4352,
+  "url": "https://api.et.gr/apiLAW/1/2015/4352/pdf",
+  "source_sha256": "6a970475e30db8959ba7baf673b9e97a8b29b2b5cb0c5a2a25d5c19915e00e11",
+  "published": "2015-12-07",
+  "in_force": "2015-12-07",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 2,
+  "images": [
+    {
+      "page": 2,
+      "sha256": "293f3c65c3882582d1745d1e7d7582e430a36e5beae89b98bab0b08725c79181",
+      "ext": "png",
+      "bytes": 88,
+      "bbox": [
+        71.7,
+        132.0,
+        507.3,
+        556.3
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "b67696ddb3b11f7c4f6926a4f151b43365a0745d29fadb04b6725744e7057fc6",
+      "ext": "png",
+      "bytes": 91576,
+      "bbox": [
+        71.7,
+        132.0,
+        507.3,
+        556.3
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
