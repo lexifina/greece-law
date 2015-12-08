@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω5ΙΘΗ-Σ4Γ",
+  "subject": "Αύξηση αριθμού ημερών μετακίνησης εκτός έδρας των υπαλλήλων Τ.Α.Σ. Ν. Αχαϊας, Τ.Α.Π. Ν. Ηλείας & Τ.Α.Σ. Κεφαλληνίας που υπάγονται στην Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, για το έτος 2015.",
+  "protocol_number": "2/70435/ΔΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2591",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100010874",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100015189"
+        ]
+      },
+      {
+        "ministryId": "100016002",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100011935"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-11-17",
+  "posted": "2015-12-08",
+  "publish_timestamp_ms": 1449571916952,
+  "version_id": "45587045-7b3d-4932-8cf9-e324a212ddeb",
+  "in_force": "2015-12-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%99%CE%98%CE%97-%CE%A34%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%99%CE%98%CE%97-%CE%A34%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A95%CE%99%CE%98%CE%97-%CE%A34%CE%93",
+  "listing_sha256": "53646c5aa6dc086230511ea09523e541dbaba2cfd2dea8eca227f33d5936f9c8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
