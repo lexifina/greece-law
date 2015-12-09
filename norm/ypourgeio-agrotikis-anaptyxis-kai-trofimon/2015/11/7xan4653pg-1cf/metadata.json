@@ -1,0 +1,67 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΧΑΝ4653ΠΓ-1ΨΦ",
+  "subject": "Ανάκληση μέρους της αριθμ. 157529/5-7-2011 (ΦΕΚ Β 1596) κοινής υπουργικής απόφασης μεταφοράς προσωπικού και σύστασης προσωποπαγών θέσεων στον Οργανισμό Πληρωμών και Ελέγχου Κοινοτικών Ενισχύσεων Προσανατολισμού και Εγγυήσεων (Ο.Π.Ε.Κ.Ε.Π.Ε.)–Ν.Π.Ι.Δ., σύμφωνα με τις διατάξεις του Ν. 3895/2010.",
+  "protocol_number": "10120/128638",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100002593"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2628",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "4ΑΣΕΒ-ΓΝ5"
+      }
+    ],
+    "co_competent": [
+      {
+        "ministryId": "100010874",
+        "unitId": [
+          "100015717"
+        ],
+        "signerIds": [
+          "100012445"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-11-23",
+  "posted": "2015-12-09",
+  "publish_timestamp_ms": 1449639957762,
+  "version_id": "877e1a31-6881-4ce7-be55-4d2530536995",
+  "in_force": "2015-12-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A7%CE%91%CE%9D4653%CE%A0%CE%93-1%CE%A8%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A7%CE%91%CE%9D4653%CE%A0%CE%93-1%CE%A8%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A7%CE%91%CE%9D4653%CE%A0%CE%93-1%CE%A8%CE%A6",
+  "listing_sha256": "9e1420c86490bda41116c5a8e8caf2db36de38d9e856443c6efe16c5cc4c420e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
