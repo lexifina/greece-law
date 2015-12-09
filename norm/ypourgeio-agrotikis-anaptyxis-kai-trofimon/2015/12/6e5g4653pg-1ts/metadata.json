@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ε5Γ4653ΠΓ-1ΤΣ",
+  "subject": "9η Τροποποίηση και συμπλήρωση της αρ. 17371/20-11-2008 (704/2008) Κοινής Υπουργικής Απόφασης (ΦΕΚ 2497/Β/9.12.2008) περί καθεστώτοςενισχύσεων του Μέτρου 112 «Εγκατάσταση Νέων Γεωργών» του άξονα 1 του Προγράμματος Αγροτικής Ανάπτυξης της Ελλάδας 2007 – 2013",
+  "protocol_number": "25560",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100003918"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2642",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "25560",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100015981",
+        "unitId": [
+          "100003918"
+        ],
+        "signerIds": [
+          "100016019"
+        ]
+      },
+      {
+        "ministryId": "100016002",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100011935"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-12-07",
+  "posted": "2015-12-09",
+  "publish_timestamp_ms": 1449649292903,
+  "version_id": "db5bbcaf-9fcb-4d9b-b325-83937e06f587",
+  "in_force": "2015-12-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%955%CE%934653%CE%A0%CE%93-1%CE%A4%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%955%CE%934653%CE%A0%CE%93-1%CE%A4%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%955%CE%934653%CE%A0%CE%93-1%CE%A4%CE%A3",
+  "listing_sha256": "e7d994a8b492107c1725f4c8263d7af6d042ef26492b1b82952a6a2eaf4b3b99",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
