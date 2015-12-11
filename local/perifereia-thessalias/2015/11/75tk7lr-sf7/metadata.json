@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "75ΤΚ7ΛΡ-ΣΦ7",
+  "subject": "ΑΠΟΦΑΣΗ ΕΓΚΡΙΣΗΣ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ (ΑΘΑΝΑΣΙΟΥ)",
+  "protocol_number": "5563",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "100010360"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-11-19",
+  "posted": "2015-12-11",
+  "publish_timestamp_ms": 1449835877740,
+  "version_id": "50c63e30-60fa-4b7b-83b5-743a91c2803d",
+  "in_force": "2015-12-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/75%CE%A4%CE%9A7%CE%9B%CE%A1-%CE%A3%CE%A67",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/75%CE%A4%CE%9A7%CE%9B%CE%A1-%CE%A3%CE%A67/document",
+  "page": "https://diavgeia.gov.gr/decision/view/75%CE%A4%CE%9A7%CE%9B%CE%A1-%CE%A3%CE%A67",
+  "listing_sha256": "c41eec3ab0ddf6f514ef04cbd647de72773057231e5b23dc6f15158850884012",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
