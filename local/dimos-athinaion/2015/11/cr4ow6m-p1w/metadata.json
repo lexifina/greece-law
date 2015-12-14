@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΡ4ΟΩ6Μ-Π1Ω",
+  "subject": "έγκριση για ανατροπή της υπ’ αριθμ. Π00491 Απόφαση Ανάληψης Υποχρέωσης, που αφορά την υπ’ αριθμ. 464/2015 ΑΔΣ σχετικά με «έγκριση και διάθεση δαπάνης ποσού δύο χιλιάδων ευρώ (2.000,00€), συμπεριλαμβανομένου ΦΠΑ 23%, που αφορά στα έξοδα φιλοξενίας του Δημάρχου της πόλης του Kassel κ. Bertram Hilgen και των δύο συνεργατών του στην Αθήνα από τις 19 Μαΐου έως και 21 Μαΐου 2015».",
+  "protocol_number": "402857/14-12-2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6013",
+    "label": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78341"
+  ],
+  "thematic_category_ids": [
+    "08"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΟΖ7Ω6Μ-Ω0Η"
+      }
+    ]
+  },
+  "issued": "2015-11-05",
+  "posted": "2015-12-14",
+  "publish_timestamp_ms": 1450098488487,
+  "version_id": "0ff7fe07-c960-4e07-93c6-3e92d5d57379",
+  "in_force": "2015-12-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A14%CE%9F%CE%A96%CE%9C-%CE%A01%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A14%CE%9F%CE%A96%CE%9C-%CE%A01%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A14%CE%9F%CE%A96%CE%9C-%CE%A01%CE%A9",
+  "listing_sha256": "4e431d98fb46854a9894da90d3df29dcbabe62061259061a8fe7015968706042",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
