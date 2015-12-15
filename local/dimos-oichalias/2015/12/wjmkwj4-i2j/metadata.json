@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΞΜΚΩΞ4-Ι2Ξ",
+  "subject": "ΟΝΟΜΑΣΤΙΚΗ ΚΑΤΑΣΤΑΣΗ ΧΕΙΡΙΣΤΩΝ",
+  "protocol_number": "14475",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6224",
+    "label": "ΔΗΜΟΣ ΟΙΧΑΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81458"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-12-15",
+  "posted": "2015-12-15",
+  "publish_timestamp_ms": 1450173654393,
+  "version_id": "ce69e929-fed9-482a-ac0c-e01d84db5047",
+  "in_force": "2015-12-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9E%CE%9C%CE%9A%CE%A9%CE%9E4-%CE%992%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9E%CE%9C%CE%9A%CE%A9%CE%9E4-%CE%992%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9E%CE%9C%CE%9A%CE%A9%CE%9E4-%CE%992%CE%9E",
+  "listing_sha256": "bf0e9540381d8b12ca0402db70ff9be3e398bed91f1b66eeb843256337d69394",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
