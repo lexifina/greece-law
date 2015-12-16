@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΒΧΕΑΩΚΑ-Ν0Κ",
+  "subject": "ΑΠΟΦΑΣΗ ΣΥΝΕΔΡΙΑΣΗΣ ΣΥΜΒ ΔΕ ΡΕΝΤΗ -62",
+  "protocol_number": "8007",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6215",
+    "label": "ΔΗΜΟΣ ΝΙΚΑΙΑΣ - ΑΓΙΟΥ Ι. ΡΕΝΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87598"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-12-09",
+  "posted": "2015-12-16",
+  "publish_timestamp_ms": 1450260675044,
+  "version_id": "70973f05-e1ee-448d-aba1-2654b594ef6a",
+  "in_force": "2015-12-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A7%CE%95%CE%91%CE%A9%CE%9A%CE%91-%CE%9D0%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%92%CE%A7%CE%95%CE%91%CE%A9%CE%9A%CE%91-%CE%9D0%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%92%CE%A7%CE%95%CE%91%CE%A9%CE%9A%CE%91-%CE%9D0%CE%9A",
+  "listing_sha256": "ed4267b0c7d1b4cf594db9cd6d9510e5974c95e998b9b480fde1e45f478b1584",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
