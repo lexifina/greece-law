@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "72Μ9Ω1Η-138",
+  "subject": "ΠΡΟΣΚΛΗΣΗ",
+  "protocol_number": "3234",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6271",
+    "label": "ΔΗΜΟΣ ΣΕΡΙΦΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83430"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-12-18",
+  "posted": "2015-12-18",
+  "publish_timestamp_ms": 1450453776866,
+  "version_id": "bd805be6-563a-4eab-aeaf-becf641885e8",
+  "in_force": "2015-12-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/72%CE%9C9%CE%A91%CE%97-138",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/72%CE%9C9%CE%A91%CE%97-138/document",
+  "page": "https://diavgeia.gov.gr/decision/view/72%CE%9C9%CE%A91%CE%97-138",
+  "listing_sha256": "27f35efd0d10a4da65a74c82fd4b5feb57819286b546aabd47dc22a39b8883ae",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
