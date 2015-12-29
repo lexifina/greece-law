@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΧΨ4653ΠΩ-ΠΞΜ",
+  "subject": "Καθορισμός ύψους πιστώσεων και κατανομή στους Οργανισμούς Αστικών και Υπεραστικών Συγκοινωνιών (εκτός του ΟΑΣΑ), για την ελεύθερη κυκλοφορία του Προσωπικού του Αρχηγείου Λιμενικού Σώματος – Ελληνικής Ακτοφυλακής και των Περιφερειακών Υπηρεσιών (Περιφερειακών Διοικήσεων Λιμενικού Σώματος (ΠΕ.ΔΙ.Λ.Σ.) και Λιμενικών Αρχών), με τις αστικές και υπεραστικές συγκοινωνίες, έτους 2015",
+  "protocol_number": "2811.16-3/44224/2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100016124"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2771",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      },
+      {
+        "ministryId": "100016011",
+        "unitId": [
+          "70354"
+        ],
+        "signerIds": [
+          "100016027"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-12-08",
+  "posted": "2015-12-29",
+  "publish_timestamp_ms": 1451373705364,
+  "version_id": "7fa56e8b-676c-4c56-81a0-919bd3fe7fed",
+  "in_force": "2015-12-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A7%CE%A84653%CE%A0%CE%A9-%CE%A0%CE%9E%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A7%CE%A84653%CE%A0%CE%A9-%CE%A0%CE%9E%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%A7%CE%A84653%CE%A0%CE%A9-%CE%A0%CE%9E%CE%9C",
+  "listing_sha256": "e7538a5aa6910bdd51707fb7a6af5d77a5f0da2c3ee9db63f1f32a6d81fffe3a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
