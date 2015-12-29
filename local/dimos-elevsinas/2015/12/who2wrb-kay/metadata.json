@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΗΟ2ΩΡΒ-ΚΑΥ",
+  "subject": "Ανατροπή δεσμευμένης πίστωσης ποσού 334.560,00 € , λόγω μη πραγματοποίησης της δαπάνης εντός του τρέχοντος ο.ε. και ανάγκης αναμόρφωσης του προϋπολογισμού",
+  "protocol_number": "15-642",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6089",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΣΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84277"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-12-29",
+  "posted": "2015-12-29",
+  "publish_timestamp_ms": 1451373102369,
+  "version_id": "db75bb9e-7ad0-46cb-84cd-d0fe6baa737a",
+  "in_force": "2015-12-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%9F2%CE%A9%CE%A1%CE%92-%CE%9A%CE%91%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%9F2%CE%A9%CE%A1%CE%92-%CE%9A%CE%91%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%97%CE%9F2%CE%A9%CE%A1%CE%92-%CE%9A%CE%91%CE%A5",
+  "listing_sha256": "ca9f9067e7b3eed5b78727ecc577e57efe2e75f1106b2750c0ac516106b8dd17",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
