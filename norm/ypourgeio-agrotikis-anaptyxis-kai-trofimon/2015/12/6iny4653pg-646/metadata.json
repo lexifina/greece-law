@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΙΝΥ4653ΠΓ-646",
+  "subject": "3η Τροποποίηση της υπ’ αριθµ. 1911/02-11-2010 (ΦΕΚ 1718/Β/2010) Κοινής Υπουργικής Απόφασης ‘Πλαίσιο Εφαρµογής του Άξονα Προτεραιότητας 4 «ΑειφόροςΑνάπτυξη Αλιευτικών Περιοχών» του Επιχειρησιακού Προγράµµατος Αλιείας 2007 – 2013",
+  "protocol_number": "2833",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100003932"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2904",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100016002",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100010783"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "100013859"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-12-29",
+  "posted": "2015-12-31",
+  "publish_timestamp_ms": 1451586487787,
+  "version_id": "f53ae675-b7a3-48d3-80f7-744cdd430174",
+  "in_force": "2015-12-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%9D%CE%A54653%CE%A0%CE%93-646",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%9D%CE%A54653%CE%A0%CE%93-646/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%99%CE%9D%CE%A54653%CE%A0%CE%93-646",
+  "listing_sha256": "c31a8e10d2f4faa803d2f11298efb02b92999be3c8351231c5e0994a2502cd8c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
