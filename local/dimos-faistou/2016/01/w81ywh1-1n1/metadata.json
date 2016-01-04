@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω81ΥΩΗ1-1Ν1",
+  "subject": "αρ.απ.133/2015.Ψήφιση πίστωσης για Δάνειο αρ. λογαρ: 71103 (Οφειλών έργων κλπ. ΤΥΜΠΑΚΙΟΥ)",
+  "protocol_number": "38",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6304",
+    "label": "ΔΗΜΟΣ ΦΑΙΣΤΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84960"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-01-04",
+  "posted": "2016-01-04",
+  "publish_timestamp_ms": 1451891381020,
+  "version_id": "eabb8842-2c84-494a-aa00-9c41cd22e74a",
+  "in_force": "2016-01-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A981%CE%A5%CE%A9%CE%971-1%CE%9D1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A981%CE%A5%CE%A9%CE%971-1%CE%9D1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A981%CE%A5%CE%A9%CE%971-1%CE%9D1",
+  "listing_sha256": "54645ccd0cff8d8e8a50157353d2286cb4da7595bc831f073b0ed1b044a4e7cf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
