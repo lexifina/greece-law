@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΓΔΩΗΝ-Ζ62",
+  "subject": "902/2015 Απόφαση ΔΣ Χίου με θέμα: \"Διαγραφές οφειλών\"",
+  "protocol_number": "35",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81042"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-01-04",
+  "posted": "2016-01-07",
+  "publish_timestamp_ms": 1452167552833,
+  "version_id": "591c6d2a-e21c-45b8-ad12-4a863ae0d5cc",
+  "in_force": "2016-01-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%93%CE%94%CE%A9%CE%97%CE%9D-%CE%9662",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%93%CE%94%CE%A9%CE%97%CE%9D-%CE%9662/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%93%CE%94%CE%A9%CE%97%CE%9D-%CE%9662",
+  "listing_sha256": "54645ccd0cff8d8e8a50157353d2286cb4da7595bc831f073b0ed1b044a4e7cf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
