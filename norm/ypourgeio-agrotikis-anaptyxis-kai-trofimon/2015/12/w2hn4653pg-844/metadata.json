@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω2ΗΝ4653ΠΓ-844",
+  "subject": "«Ανάκληση της αριθμ.1362/30-8-2002 Απόφασης. Υπουργών Γεωργίας και Ανάπτυξης με την οποία παραχωρήθηκε στην εταιρεία «Γ. Τοπαλίδης-Χρ. Τσανασίδης Ε.Ε.» κοινόχρηστη έκταση, εμβαδού 6.000 τ.μ.,αγροκτήματος «Ν. Καβάλας» N. Κιλκίς.",
+  "protocol_number": "31/1133 (2016)",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100002594"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100016002",
+        "unitId": [
+          "100007501"
+        ],
+        "signerIds": [
+          "100015128"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-12-17",
+  "posted": "2016-01-08",
+  "publish_timestamp_ms": 1452248124153,
+  "version_id": "26de779f-707a-4f2c-a264-aada1424d040",
+  "in_force": "2016-01-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%97%CE%9D4653%CE%A0%CE%93-844",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%97%CE%9D4653%CE%A0%CE%93-844/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A92%CE%97%CE%9D4653%CE%A0%CE%93-844",
+  "listing_sha256": "f4adcd14ccc92903a0b19848bf9487105c13e1e577b4a559a43b390c9a03c5f1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
