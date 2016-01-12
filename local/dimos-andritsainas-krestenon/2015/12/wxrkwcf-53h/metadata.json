@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧΡΚΩΨΦ-53Η",
+  "subject": "ΕΓΚΡΙΣΗ ΜΕΛΕΤΗΣ ΠΡΟΜΗΘΕΙΑΣ ΚΑΔΩΝ ΑΠΟΡΡΙΜΜΑΤΩΝ",
+  "protocol_number": "342",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6036",
+    "label": "ΔΗΜΟΣ ΑΝΔΡΙΤΣΑΙΝΑΣ - ΚΡΕΣΤΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81863"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-12-14",
+  "posted": "2016-01-12",
+  "publish_timestamp_ms": 1452595833572,
+  "version_id": "b7df9218-5551-4e17-a2d9-2dda0dbadf74",
+  "in_force": "2016-01-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%A1%CE%9A%CE%A9%CE%A8%CE%A6-53%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%A1%CE%9A%CE%A9%CE%A8%CE%A6-53%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A7%CE%A1%CE%9A%CE%A9%CE%A8%CE%A6-53%CE%97",
+  "listing_sha256": "fcf4ff9e715046c5fe0fa1bd721eab6cf99db4b5dcf853f62e11d7b3f417bb79",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
