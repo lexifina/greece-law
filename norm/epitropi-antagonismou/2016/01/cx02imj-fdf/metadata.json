@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΧ02ΙΜΞ-ΦΔΦ",
+  "subject": "Έγκριση του προϋπολογισμού της Επιτροπής Ανταγωνισμού για το έτος 2016",
+  "protocol_number": "7652",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "22963",
+    "label": "ΕΠΙΤΡΟΠΗ ΑΝΤΑΓΩΝΙΣΜΟΥ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "74878"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2909",
+      "issue": "fektype_B",
+      "issueyear": 2015
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "7652",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      },
+      {
+        "ministryId": "100016002",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100010783"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-01-12",
+  "posted": "2016-01-12",
+  "publish_timestamp_ms": 1452605540307,
+  "version_id": "81d41157-3c13-4ae7-b0c4-dd81562e9a72",
+  "in_force": "2016-01-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A702%CE%99%CE%9C%CE%9E-%CE%A6%CE%94%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A702%CE%99%CE%9C%CE%9E-%CE%A6%CE%94%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A702%CE%99%CE%9C%CE%9E-%CE%A6%CE%94%CE%A6",
+  "listing_sha256": "1a02bc634d03702c932cf185bdac5e8b89f765390b50e160340fe826bda5f308",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
