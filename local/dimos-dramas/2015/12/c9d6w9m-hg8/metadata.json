@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ9Δ6Ω9Μ-ΗΓ8",
+  "subject": "ΑΠΟΦΑΣΗ ΑΝΑΤΡΟΠΗΣ ΑΝΑΛΗΨΗΣ ΥΠΟΧΡΕΩΣΗΣ",
+  "protocol_number": "60783",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79177"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-12-31",
+  "posted": "2016-01-14",
+  "publish_timestamp_ms": 1452771639669,
+  "version_id": "a53fbdc0-b583-42a9-a3e1-e2caa62e25e9",
+  "in_force": "2016-01-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A89%CE%946%CE%A99%CE%9C-%CE%97%CE%938",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A89%CE%946%CE%A99%CE%9C-%CE%97%CE%938/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A89%CE%946%CE%A99%CE%9C-%CE%97%CE%938",
+  "listing_sha256": "aef89dc503fe7643872e2ff17a8606d6f240e774a20b11fb358d5fc50998d68b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
