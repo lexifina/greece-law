@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω9Ψ4Ε-0ΧΨ",
+  "subject": "ΑΝΑΚΛΗΣΗ ΠΟΣΟΥ ΠΡΣ ΚΑΜΠΕΡΡΑΣ",
+  "protocol_number": "120.11972",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70150"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2015-12-18",
+  "posted": "2016-01-14",
+  "publish_timestamp_ms": 1452771676372,
+  "version_id": "345c0861-3330-415d-a3d9-fe15dfdabc46",
+  "in_force": "2016-01-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%A84%CE%95-0%CE%A7%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%A84%CE%95-0%CE%A7%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A99%CE%A84%CE%95-0%CE%A7%CE%A8",
+  "listing_sha256": "78c6c7cbde2fdad1d1859d1aea4e0169051de70bef91b78dd4b0c03920f6bcb2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
