@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "662Γ465ΦΥΟ-5ΥΧ",
+  "subject": "ΠΡΟΚΗΡΥΞΗ",
+  "protocol_number": "Α2α/οικ.3553",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007933"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-01-18",
+  "posted": "2016-01-18",
+  "publish_timestamp_ms": 1453121844884,
+  "version_id": "7ea4c92f-fe0e-42cc-b78b-89d9c5faa3de",
+  "in_force": "2016-01-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/662%CE%93465%CE%A6%CE%A5%CE%9F-5%CE%A5%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/662%CE%93465%CE%A6%CE%A5%CE%9F-5%CE%A5%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/662%CE%93465%CE%A6%CE%A5%CE%9F-5%CE%A5%CE%A7",
+  "listing_sha256": "a898e2cb8378ba19bca347d6a38551d12793d6c20b777b14a909e50f6ad9bce4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
