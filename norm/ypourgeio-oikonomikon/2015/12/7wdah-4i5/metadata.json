@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΩΔΑΗ-4Ι5",
+  "subject": "Καθορισμός αποδοχών στελεχών των Παιδικών Εξοχών του Δήμου Αθηναίων",
+  "protocol_number": "2/80530/ΔΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "19",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100010874",
+        "unitId": [
+          "100016293"
+        ],
+        "signerIds": [
+          "100016289"
+        ]
+      }
+    ]
+  },
+  "issued": "2015-12-31",
+  "posted": "2016-01-18",
+  "publish_timestamp_ms": 1453114292368,
+  "version_id": "0489ab83-b6a6-4046-a3da-6690db9d2cef",
+  "in_force": "2016-01-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A9%CE%94%CE%91%CE%97-4%CE%995",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A9%CE%94%CE%91%CE%97-4%CE%995/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A9%CE%94%CE%91%CE%97-4%CE%995",
+  "listing_sha256": "aef89dc503fe7643872e2ff17a8606d6f240e774a20b11fb358d5fc50998d68b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
