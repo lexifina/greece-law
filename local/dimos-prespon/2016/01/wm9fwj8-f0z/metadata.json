@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜ9ΦΩΞ8-Φ0Ζ",
+  "subject": "Απόφαση Δημάρχου 11-2016 \"Μετάθεση κατά μια ώρα της  έναρξης μαθημάτων λόγω παγετού την Πέμπτη 21-01-2016 και την Παρασκευή στις 22-01-2016\"",
+  "protocol_number": "201",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6254",
+    "label": "ΔΗΜΟΣ ΠΡΕΣΠΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81389"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-01-20",
+  "posted": "2016-01-20",
+  "publish_timestamp_ms": 1453292653492,
+  "version_id": "f26b5a98-b146-403c-8c52-e8394807633d",
+  "in_force": "2016-01-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C9%CE%A6%CE%A9%CE%9E8-%CE%A60%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C9%CE%A6%CE%A9%CE%9E8-%CE%A60%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C9%CE%A6%CE%A9%CE%9E8-%CE%A60%CE%96",
+  "listing_sha256": "e5a3cf6fb45b4e2777b8703ab7173a3c9e917b7868fbfc24135c59144b9b6569",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
