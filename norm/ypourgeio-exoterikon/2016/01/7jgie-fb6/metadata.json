@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΞΓΙΕ-ΦΒ6",
+  "subject": "Αρχική Επαγγελματική Εκπαίδευση Υποψηφίων Ακολούθων Πρεσβείας στη Διπλωματική Ακαδημία του\nΥπουργείου Εξωτερικών.",
+  "protocol_number": "Φ.Π.23ΔΑ-2050",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70482"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "6",
+      "issue": "fektype_A",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "kanonistikipraxiaa": "2",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-01-25",
+  "posted": "2016-01-25",
+  "publish_timestamp_ms": 1453728373967,
+  "version_id": "ba18e021-89a0-4cf2-b4e0-4a23d2f370d5",
+  "in_force": "2016-01-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9E%CE%93%CE%99%CE%95-%CE%A6%CE%926",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9E%CE%93%CE%99%CE%95-%CE%A6%CE%926/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9E%CE%93%CE%99%CE%95-%CE%A6%CE%926",
+  "listing_sha256": "2d61cef457858f4afdbb2b778bc96c39481b014d8409288333574f03897dc3c9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
