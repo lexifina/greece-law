@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "67ΓΧΩΛ0-ΞΨΜ",
+  "subject": "ΑΠΟΦΑΣΗ ΑΝΑΤΡΟΠΗΣ ΥΠΟΧΡΕΩΣΗΣ",
+  "protocol_number": "398",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6170",
+    "label": "ΔΗΜΟΣ ΛΕΙΨΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83486"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-01-01",
+  "posted": "2016-01-28",
+  "publish_timestamp_ms": 1453971465219,
+  "version_id": "068be364-e432-4477-8815-e2de83161690",
+  "in_force": "2016-01-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/67%CE%93%CE%A7%CE%A9%CE%9B0-%CE%9E%CE%A8%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/67%CE%93%CE%A7%CE%A9%CE%9B0-%CE%9E%CE%A8%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/67%CE%93%CE%A7%CE%A9%CE%9B0-%CE%9E%CE%A8%CE%9C",
+  "listing_sha256": "58183096f758f132289c4346a245785afc62581cf843074184ed1ffa980b04b8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
