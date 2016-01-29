@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "61ΔΙΗ-ΕΟ9",
+  "subject": "«Ανάληψη από το Ελληνικό Δημόσιο του ανεξόφλητου υπολοίπου δανειακής σύμβασης του ΚΕ.ΕΛ.Π.ΝΟ. ύψους € 152.000.000,00».",
+  "protocol_number": "20",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "101",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "20",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-01-07",
+  "posted": "2016-01-29",
+  "publish_timestamp_ms": 1454067374350,
+  "version_id": "2bf6ae6a-66a2-4494-93fd-9f4d2f068e02",
+  "in_force": "2016-01-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/61%CE%94%CE%99%CE%97-%CE%95%CE%9F9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/61%CE%94%CE%99%CE%97-%CE%95%CE%9F9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/61%CE%94%CE%99%CE%97-%CE%95%CE%9F9",
+  "listing_sha256": "76b7f3cefe32bf18754bd8d767d3b2b26b17e5b89558a14f7c6d3b271b2ef536",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
