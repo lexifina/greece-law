@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΨΟΗΩΛΦ-ΖΡΣ",
+  "subject": "Αποδοχή πιστώσεων (έγγραφο 80228/30-12-2015).",
+  "protocol_number": "Δ.Υ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6172",
+    "label": "ΔΗΜΟΣ ΛΕΣΒΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80013"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-02-01",
+  "posted": "2016-02-01",
+  "publish_timestamp_ms": 1454318400750,
+  "version_id": "706c3e57-cc07-4ca3-83c2-b15986ed428e",
+  "in_force": "2016-02-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A8%CE%9F%CE%97%CE%A9%CE%9B%CE%A6-%CE%96%CE%A1%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A8%CE%9F%CE%97%CE%A9%CE%9B%CE%A6-%CE%96%CE%A1%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A8%CE%9F%CE%97%CE%A9%CE%9B%CE%A6-%CE%96%CE%A1%CE%A3",
+  "listing_sha256": "427a445b4057e54fd5cdbd43899939613b6fcdcee9cc08fe9bfd18b9038c718d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
