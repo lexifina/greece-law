@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΡΩΦΩΨΠ-94Ι",
+  "subject": "Απόφαση Δημάρχου για απαγόρευση κυκλοφορίας στην οδό Δ. Βετσοπούλου στις 02 Φεβρουαρίου 2016",
+  "protocol_number": "3251",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6018",
+    "label": "ΔΗΜΟΣ ΑΛΕΞΑΝΔΡΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "77942"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-02-01",
+  "posted": "2016-02-01",
+  "publish_timestamp_ms": 1454325129669,
+  "version_id": "3f43de68-2eeb-49bc-90c9-3e03436aabe0",
+  "in_force": "2016-02-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%A9%CE%A6%CE%A9%CE%A8%CE%A0-94%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%A9%CE%A6%CE%A9%CE%A8%CE%A0-94%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A1%CE%A9%CE%A6%CE%A9%CE%A8%CE%A0-94%CE%99",
+  "listing_sha256": "427a445b4057e54fd5cdbd43899939613b6fcdcee9cc08fe9bfd18b9038c718d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
