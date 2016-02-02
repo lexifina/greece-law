@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΠ7ΡΟΡ1Φ-Σ87",
+  "subject": "ΑΠΟΦΑΣΗ 4/2016 περί α) απόρριψης της με αρ. πρωτ. 163/22.12.2015 προσφυγής του Δήμου Θέρμου, β) επικύρωσης της υπ’ αριθ. πρωτ. 145743/6589/25.11.2015 (ΑΔΑ: 6Ξ5ΥΟΡ1Φ-9Υ9)   απόφασης του Γενικού Γραμματέα της Αποκεντρωμένης Διοίκησης Πελοποννήσου, Δυτικής Ελλάδος και Ιονίου",
+  "protocol_number": "163/2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "83175"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Ξ5ΥΟΡ1Φ-9Υ9"
+      }
+    ]
+  },
+  "issued": "2016-02-01",
+  "posted": "2016-02-02",
+  "publish_timestamp_ms": 1454414082003,
+  "version_id": "70f3651d-0506-4b51-a358-dc933e2034aa",
+  "in_force": "2016-02-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A07%CE%A1%CE%9F%CE%A11%CE%A6-%CE%A387",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A07%CE%A1%CE%9F%CE%A11%CE%A6-%CE%A387/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A07%CE%A1%CE%9F%CE%A11%CE%A6-%CE%A387",
+  "listing_sha256": "b145bd4c44b178bf3dddfa8fdaa61c5e2bb9af512b4773c2a4eae10583c90e51",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
