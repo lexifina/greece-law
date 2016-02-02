@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω76ΖΟΡ1Φ-8ΡΝ",
+  "subject": "ΑΠΟΦΑΣΗ 2/2016 περί α) αποδοχής της από 23-12-2015 (αριθμ. πρωτ. Επιτροπής 6/12-1-2016) προσφυγής του Δήμου Ι.Π. Μεσολογγίου, β) αποδοχής της από 23-12-2015 (αριθμ. πρωτ. Επιτροπής 165/23-12-2015) προσφυγής του Γεωργίου Τόλη του Ταξιάρχη, και γ) ακύρωσης της υπ’ αριθμ. 154886/6970/4-12-2015 (ΑΔΑ : ΩΤ96ΟΡ1Φ-07Φ) απόφασης του Γ.Γ. Αποκεντρωμένης Διοίκησης Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου",
+  "protocol_number": "6 + 165/2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "83175"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΤ96ΟΡ1Φ-07Φ"
+      }
+    ]
+  },
+  "issued": "2016-02-01",
+  "posted": "2016-02-02",
+  "publish_timestamp_ms": 1454413107199,
+  "version_id": "44a82621-5a6c-42f7-ad47-2b75b2a7d813",
+  "in_force": "2016-02-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A976%CE%96%CE%9F%CE%A11%CE%A6-8%CE%A1%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A976%CE%96%CE%9F%CE%A11%CE%A6-8%CE%A1%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A976%CE%96%CE%9F%CE%A11%CE%A6-8%CE%A1%CE%9D",
+  "listing_sha256": "b145bd4c44b178bf3dddfa8fdaa61c5e2bb9af512b4773c2a4eae10583c90e51",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
