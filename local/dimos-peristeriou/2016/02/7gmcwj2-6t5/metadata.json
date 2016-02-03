@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΓΜΨΩΞ2-6Τ5",
+  "subject": "Έγκριση α) του κατεπείγοντος β) διόρθωσης της 44/16 Π.Ο.Ε., ως προς την επωνυμία της εταιρείας.",
+  "protocol_number": "55",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78115"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-02-02",
+  "posted": "2016-02-03",
+  "publish_timestamp_ms": 1454498063468,
+  "version_id": "ec63bb1d-8dd8-4cd6-9207-ccfb784ff928",
+  "in_force": "2016-02-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%93%CE%9C%CE%A8%CE%A9%CE%9E2-6%CE%A45",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%93%CE%9C%CE%A8%CE%A9%CE%9E2-6%CE%A45/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%93%CE%9C%CE%A8%CE%A9%CE%9E2-6%CE%A45",
+  "listing_sha256": "1a54cdedc2171d3a9cef63d9260439cd073c2c1f51093092cd3b16bdf78c7f0d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
