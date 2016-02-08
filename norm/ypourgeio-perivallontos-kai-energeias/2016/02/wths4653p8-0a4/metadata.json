@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΗΣ4653Π8-0Α4",
+  "subject": "Παράταση προθεσμίας υπαγωγής στο Ν. 4178/2013 «Αντιμετώπιση της Αυθαίρετης Δόμησης − Περιβαλλοντικό Ισοζύγιο και άλλες διατάξεις» (ΦΕΚ Α΄/174) και τροποποίηση της αριθμ. 2254/30−9−2013 απόφασης Αναπληρωτή Υπουργού Περιβάλλοντος, Ενέργειας και Κλιματικής Αλλαγής «Διαδικασία ηλεκτρονικής υποβολής των απαραίτητων δικαιολογητικών για την υπαγωγή στο άρθρο 24 του Νόμου 4178/2013 «Αντιμετώπιση της Αυθαίρετης Δόμησης − Περιβαλλοντικό Ισοζύγιο και άλλες διατάξεις» (ΦΕΚ 174/Α΄).» (ΦΕΚ Β΄/2184), όπως ισχύει.",
+  "protocol_number": "4570",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100006914"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "201",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "100013859"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-02-01",
+  "posted": "2016-02-08",
+  "publish_timestamp_ms": 1454937055831,
+  "version_id": "652567f5-9a30-4240-a697-26bcfc4b13bd",
+  "in_force": "2016-02-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%97%CE%A34653%CE%A08-0%CE%914",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%97%CE%A34653%CE%A08-0%CE%914/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%97%CE%A34653%CE%A08-0%CE%914",
+  "listing_sha256": "b145bd4c44b178bf3dddfa8fdaa61c5e2bb9af512b4773c2a4eae10583c90e51",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
