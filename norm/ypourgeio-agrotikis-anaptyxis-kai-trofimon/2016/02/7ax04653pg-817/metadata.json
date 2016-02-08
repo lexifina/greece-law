@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΑΧ04653ΠΓ-817",
+  "subject": "Απόφαση ολοκλήρωσης της πράξης με τίτλο: «Καταγραφή επί υποβάθρου και σε βάση δεδομένων των διαχειριστικών σχεδίων Δημόσιων και Ιδιωτικών Δασών» με κωδικό ΟΠΣΑΑ: 949677",
+  "protocol_number": "361",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100003913"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Γενικού / Ειδικού Γραμματέα Υπουργείου",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΚΥΠ465ΦΘΗ-250"
+      },
+      {
+        "relatedDecisionsADA": "ΩΗ7Ξ465ΦΘΗ-Θ8Β"
+      },
+      {
+        "relatedDecisionsADA": "ΩΣΖΡ465ΦΘΗ-ΘΥΡ"
+      }
+    ]
+  },
+  "issued": "2016-02-03",
+  "posted": "2016-02-08",
+  "publish_timestamp_ms": 1454922454863,
+  "version_id": "09910192-3aff-4558-8f53-72b85094d83f",
+  "in_force": "2016-02-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%91%CE%A704653%CE%A0%CE%93-817",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%91%CE%A704653%CE%A0%CE%93-817/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%91%CE%A704653%CE%A0%CE%93-817",
+  "listing_sha256": "440a1524d27af7b9f9915a4fe9d30f25cb35ece346105b449281e5e8066b2f1e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
