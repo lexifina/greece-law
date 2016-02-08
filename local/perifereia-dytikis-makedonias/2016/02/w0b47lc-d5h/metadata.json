@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω0Β47ΛΨ-Δ5Η",
+  "subject": "ΠΑΡΑΧΩΡΗΣΗ ΚΑΤΑ ΧΡΗΣΗ ΑΚΙΝΗΤΟΥ ΕΚΤΑΣΕΩΣ 7.063 Τ.Μ. ΑΓΡΟΚΤΗΜΑΤΟΣ ΣΚΛΗΘΡΟΥ ΣΤΗΝ ΒΟΥΤΣΙΑ ΓΙΑΝΝΟΥΛΑ ΤΟΥ ΑΘΑΝΑΣΙΟΥ",
+  "protocol_number": "1113",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5005",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "89639"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΙΑΟ7ΛΨ-4ΘΨ"
+      }
+    ]
+  },
+  "issued": "2016-02-08",
+  "posted": "2016-02-08",
+  "publish_timestamp_ms": 1454935812785,
+  "version_id": "9e5b8235-af72-4173-b0b2-d3361d8cb312",
+  "in_force": "2016-02-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%9247%CE%9B%CE%A8-%CE%945%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%9247%CE%9B%CE%A8-%CE%945%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A90%CE%9247%CE%9B%CE%A8-%CE%945%CE%97",
+  "listing_sha256": "0636540d936376d2c69a2a71e8eee53caa31b89c7787504c8cb42cfa1c9221ef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
