@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΚΛΡ465ΦΥΟ-8ΕΝ",
+  "subject": "Έγκριση σύναψης συμβάσεων μεταξύ της ΕΥΔΑΠ Α.Ε. και Ιδιωτικών Κλινικών",
+  "protocol_number": "Α3γ/92263",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78927"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100012977",
+        "unitId": [
+          "71771"
+        ],
+        "signerIds": [
+          "100015491"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-02-09",
+  "posted": "2016-02-09",
+  "publish_timestamp_ms": 1455003974800,
+  "version_id": "918af50e-6dde-4987-ab16-685be47d4260",
+  "in_force": "2016-02-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%9B%CE%A1465%CE%A6%CE%A5%CE%9F-8%CE%95%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%9B%CE%A1465%CE%A6%CE%A5%CE%9F-8%CE%95%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9A%CE%9B%CE%A1465%CE%A6%CE%A5%CE%9F-8%CE%95%CE%9D",
+  "listing_sha256": "dbb7ec3ebf52f8f240764b8575ad3fd1465750b7ebff520f21a200a383bb1be7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
