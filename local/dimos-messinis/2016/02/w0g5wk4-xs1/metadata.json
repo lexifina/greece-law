@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω0Γ5ΩΚ4-ΧΣ1",
+  "subject": "Επιτροπή ελέγχου παιδότοπων",
+  "protocol_number": "2805",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6190",
+    "label": "ΔΗΜΟΣ ΜΕΣΣΗΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80666"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-02-12",
+  "posted": "2016-02-12",
+  "publish_timestamp_ms": 1455269253087,
+  "version_id": "e26c891b-4ab4-4c6c-b756-19dcefdc3f56",
+  "in_force": "2016-02-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%935%CE%A9%CE%9A4-%CE%A7%CE%A31",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%935%CE%A9%CE%9A4-%CE%A7%CE%A31/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A90%CE%935%CE%A9%CE%9A4-%CE%A7%CE%A31",
+  "listing_sha256": "d15e1470aa9c7cf6460f1736e78209bebad59de59faef539ab568a2841c27547",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
