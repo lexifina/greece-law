@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠΜ24653ΠΓ-ΦΣ2",
+  "subject": "Απόφαση ολοκλήρωσης της πράξης με τίτλο: «Υποστήριξη της λειτουργίας των επιτελικών φορέων του Π.Α.Α.» με κωδικό ΟΠΣΑΑ: 176284",
+  "protocol_number": "462",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100003913"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Γενικού / Ειδικού Γραμματέα Υπουργείου",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΖΧΒ-1ΟΖ"
+      },
+      {
+        "relatedDecisionsADA": "ΩΓΤΗ465ΦΘΗ-ΨΗΛ"
+      }
+    ]
+  },
+  "issued": "2016-02-15",
+  "posted": "2016-02-15",
+  "publish_timestamp_ms": 1455531172362,
+  "version_id": "76df05d2-d691-457c-8ce0-4a7987491201",
+  "in_force": "2016-02-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%9C24653%CE%A0%CE%93-%CE%A6%CE%A32",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%9C24653%CE%A0%CE%93-%CE%A6%CE%A32/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A0%CE%9C24653%CE%A0%CE%93-%CE%A6%CE%A32",
+  "listing_sha256": "8ecab8f7f53c97e996c604e8c98c18e902740f9090c77b299fc9385c7752d811",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
