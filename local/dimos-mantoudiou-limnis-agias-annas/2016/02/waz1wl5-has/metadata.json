@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΑΖ1ΩΛ5-ΗΑΣ",
+  "subject": "Αίτηση κ. Καλλάη Γιώργου σχετικά με τον κάμπο Κρύας Βρύσης",
+  "protocol_number": "806",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6182",
+    "label": "ΔΗΜΟΣ ΜΑΝΤΟΥΔΙΟΥ - ΛΙΜΝΗΣ - ΑΓΙΑΣ ΑΝΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78926"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "32",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-02-15",
+  "posted": "2016-02-16",
+  "publish_timestamp_ms": 1455603963931,
+  "version_id": "f2c82ccc-3621-4ec7-9725-c9727eed97f6",
+  "in_force": "2016-02-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%91%CE%961%CE%A9%CE%9B5-%CE%97%CE%91%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%91%CE%961%CE%A9%CE%9B5-%CE%97%CE%91%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%91%CE%961%CE%A9%CE%9B5-%CE%97%CE%91%CE%A3",
+  "listing_sha256": "8ecab8f7f53c97e996c604e8c98c18e902740f9090c77b299fc9385c7752d811",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
