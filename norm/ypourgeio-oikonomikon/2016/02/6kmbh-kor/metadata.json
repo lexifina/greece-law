@@ -1,0 +1,65 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΚΜΒΗ-ΚΟΡ",
+  "subject": "«Καύσιμα αυτοκινήτων - αμόλυβδη βενζίνη - απαιτήσεις και μέθοδοι δοκιμών»",
+  "protocol_number": "147/2015",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "66",
+    "68",
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "293",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "147/2015",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100016002",
+        "unitId": [
+          "94842"
+        ]
+      },
+      {
+        "ministryId": "100016002",
+        "unitId": [
+          "100001074"
+        ]
+      },
+      {
+        "ministryId": "100015996",
+        "unitId": [
+          "72980"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-02-16",
+  "posted": "2016-02-16",
+  "publish_timestamp_ms": 1455611807572,
+  "version_id": "d1b1dd4c-e96c-4cec-8f7a-b22fc6e97d12",
+  "in_force": "2016-02-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%9C%CE%92%CE%97-%CE%9A%CE%9F%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%9C%CE%92%CE%97-%CE%9A%CE%9F%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9A%CE%9C%CE%92%CE%97-%CE%9A%CE%9F%CE%A1",
+  "listing_sha256": "e1cd2cb6dd3852ae3bffd57b3844400a8fe27a478f72d191288289400d747055",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
