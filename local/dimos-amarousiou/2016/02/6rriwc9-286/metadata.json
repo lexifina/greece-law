@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΡΡΙΩΨ9-286",
+  "subject": "Ανάκληση ή μη της υπ' αρ. 16/2015 απόφασης της Επιτροπής Ποιότητας Ζωής με θέμα:  \"Έγκριση ή μη ειδικής θέσης στάθμευσης στην οδό Κοιμήσεως Θεοτόκου (έναντι Ιεράς Μητρόπολης Αμαρουσίου)\"",
+  "protocol_number": "007802",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "94486"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "27",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ψ18ΒΩΨ9-Φ56"
+      }
+    ]
+  },
+  "issued": "2016-02-18",
+  "posted": "2016-02-18",
+  "publish_timestamp_ms": 1455781763070,
+  "version_id": "b88e372b-dba5-4267-9953-31f09166ea6c",
+  "in_force": "2016-02-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%A1%CE%99%CE%A9%CE%A89-286",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%A1%CE%99%CE%A9%CE%A89-286/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A1%CE%A1%CE%99%CE%A9%CE%A89-286",
+  "listing_sha256": "a6e5d59eb87d29cdc77ceea447ec2d25cf659b0a5c0f2cdd8521efe7443ddfc9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
