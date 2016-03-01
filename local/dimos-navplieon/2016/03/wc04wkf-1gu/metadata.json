@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΨ04ΩΚΦ-1ΓΘ",
+  "subject": "Απόφαση συγκρότησης συνεργείου υπερωριακής απασχόλησης \nαπό 01/03/2016 έως 31/03/2016 (μόνιμοι)",
+  "protocol_number": "243",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6206",
+    "label": "ΔΗΜΟΣ ΝΑΥΠΛΙΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100006044"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "243",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-03-01",
+  "posted": "2016-03-01",
+  "publish_timestamp_ms": 1456831468111,
+  "version_id": "cfc8ee2a-79b1-471c-9bd1-e8fdae4484aa",
+  "in_force": "2016-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A804%CE%A9%CE%9A%CE%A6-1%CE%93%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A804%CE%A9%CE%9A%CE%A6-1%CE%93%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A804%CE%A9%CE%9A%CE%A6-1%CE%93%CE%98",
+  "listing_sha256": "76495246ec19cf800fc28d1cf7bf10d9dbc7f49013996f4bae8576cdb9e28885",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
