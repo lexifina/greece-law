@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΛΓΨ7Λ6-028",
+  "subject": "ΑΔΕΙΑ ΕΓΚΑΤΑΣΤΑΣΗΣ ΠΡΟΧΕΙΡΟΥ ΚΑΤΑΛΥΜΑΤΟΣ",
+  "protocol_number": "336497/17965",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5004",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78397"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω9Ε27Λ6-3Ψ8"
+      }
+    ]
+  },
+  "issued": "2016-02-29",
+  "posted": "2016-03-01",
+  "publish_timestamp_ms": 1456816809208,
+  "version_id": "ea3b020f-e1f9-421c-9e62-bdaa4cf6c4f5",
+  "in_force": "2016-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B%CE%93%CE%A87%CE%9B6-028",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B%CE%93%CE%A87%CE%9B6-028/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9B%CE%93%CE%A87%CE%9B6-028",
+  "listing_sha256": "a410c2e40ab6bab3f69b29c2269e4aa555d9af7580525ba5b7028a3b445ae894",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
