@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "71ΨΥΗ-778",
+  "subject": "ΣΥΜΠΛΗΡΩΣΗ ΤΗΣ ΑΠΟΦΑΣΗΣ ΔΔΑΔ Γ 1148109/07.11.2014 (Β΄3380) ΤΟΥ ΓΕΝΙΚΟΥ ΓΡΑΜΜΑΤΕΑ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ",
+  "protocol_number": "ΔΔΑΔ Γ 1031817 ΕΞ 2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "74537"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "517",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΥΤΞΗ-ΕΗΞ"
+      }
+    ]
+  },
+  "issued": "2016-02-29",
+  "posted": "2016-03-02",
+  "publish_timestamp_ms": 1456905050982,
+  "version_id": "f41c70b5-9d5b-4f6a-8004-2ccdb1991691",
+  "in_force": "2016-03-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/71%CE%A8%CE%A5%CE%97-778",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/71%CE%A8%CE%A5%CE%97-778/document",
+  "page": "https://diavgeia.gov.gr/decision/view/71%CE%A8%CE%A5%CE%97-778",
+  "listing_sha256": "e5b6f0a7cbfcbfecbc06a05a673af1f79a990459320a5260bfc7a22dfa2aff00",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
