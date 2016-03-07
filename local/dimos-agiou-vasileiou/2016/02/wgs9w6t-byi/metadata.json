@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΣ9Ω6Τ-ΒΥΙ",
+  "subject": "Τροποποίηση του προϋπολογισμού για τακτοποίηση \n\t\t\t\t\tχρηματικού υπολοίπου (Χ.Υ.), εισπρακτέων υπολοίπων  και \n\t\t\t\t\tΠ.Ο.Ε., με βάση το κλείσιμο στις 31-12-2015",
+  "protocol_number": "2370",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6006",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΒΑΣΙΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83413"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-02-25",
+  "posted": "2016-03-07",
+  "publish_timestamp_ms": 1457341515631,
+  "version_id": "7435a090-3a70-4bfe-80eb-ae6a3209d82d",
+  "in_force": "2016-03-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A39%CE%A96%CE%A4-%CE%92%CE%A5%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A39%CE%A96%CE%A4-%CE%92%CE%A5%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%A39%CE%A96%CE%A4-%CE%92%CE%A5%CE%99",
+  "listing_sha256": "e5ecb0ce95d6123281af82669fc2eff7ae3378fdb63c9b90c27103559fb0575a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
