@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΓΔ9ΩΛ8-ΜΓΟ",
+  "subject": "Ψήφιση πίστωσης 8.562,62 € για την καταβολή της δαπάνης προμήθειας υποχλωριώδους νατρίου",
+  "protocol_number": "76-2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6186",
+    "label": "ΔΗΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85025"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-03-01",
+  "posted": "2016-03-08",
+  "publish_timestamp_ms": 1457426373510,
+  "version_id": "c25fe183-23df-4ec9-a5dd-29eb2a64072b",
+  "in_force": "2016-03-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%93%CE%949%CE%A9%CE%9B8-%CE%9C%CE%93%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%93%CE%949%CE%A9%CE%9B8-%CE%9C%CE%93%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%93%CE%949%CE%A9%CE%9B8-%CE%9C%CE%93%CE%9F",
+  "listing_sha256": "cf4ff732779fa94a06b696fbf3c2f338e89f9b247ecac4976b8b8a3f48a75f28",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
