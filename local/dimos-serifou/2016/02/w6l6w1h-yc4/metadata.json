@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω6Λ6Ω1Η-ΥΨ4",
+  "subject": "ΦΙΛΟΞΕΝΙΕΣ",
+  "protocol_number": "9 ΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6271",
+    "label": "ΔΗΜΟΣ ΣΕΡΙΦΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83429"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-02-27",
+  "posted": "2016-03-09",
+  "publish_timestamp_ms": 1457521423898,
+  "version_id": "e11dc074-cac9-4518-8d8c-dc300dda3751",
+  "in_force": "2016-03-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%9B6%CE%A91%CE%97-%CE%A5%CE%A84",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%9B6%CE%A91%CE%97-%CE%A5%CE%A84/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A96%CE%9B6%CE%A91%CE%97-%CE%A5%CE%A84",
+  "listing_sha256": "98e2ce520273a2de3438d1deebb4abad87cc83399a759fd52863fa98a9473c32",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
