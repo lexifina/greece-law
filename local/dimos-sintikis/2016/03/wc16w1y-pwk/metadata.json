@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΨ16Ω1Υ-ΠΩΚ",
+  "subject": "«Ψήφιση πιστώσεων»",
+  "protocol_number": "043",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6277",
+    "label": "ΔΗΜΟΣ ΣΙΝΤΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81769"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-03-04",
+  "posted": "2016-03-10",
+  "publish_timestamp_ms": 1457590501718,
+  "version_id": "c92aaa63-a2e1-4fb5-88a8-b6a65e5d15f4",
+  "in_force": "2016-03-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A816%CE%A91%CE%A5-%CE%A0%CE%A9%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A816%CE%A91%CE%A5-%CE%A0%CE%A9%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A816%CE%A91%CE%A5-%CE%A0%CE%A9%CE%9A",
+  "listing_sha256": "875da5ecda33cc14e5fbf337349c1da4ded9837b38f4f12411b663fb81e9ec7d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
