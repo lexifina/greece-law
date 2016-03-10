@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΤΔΔΩΡΜ-ΒΗΗ",
+  "subject": "ΟΡΙΣΜΟΣ ΥΠΕΥΘΥΝΟΥ ΔΙΑΝΟΜΗΣ ΤΕΒΑ",
+  "protocol_number": "4957/8-3-16",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6115",
+    "label": "ΔΗΜΟΣ ΘΗΒΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91730"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "338/2016",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-03-08",
+  "posted": "2016-03-10",
+  "publish_timestamp_ms": 1457594041306,
+  "version_id": "934717c1-54d2-43df-9e03-f7c668cdbbc1",
+  "in_force": "2016-03-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A4%CE%94%CE%94%CE%A9%CE%A1%CE%9C-%CE%92%CE%97%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A4%CE%94%CE%94%CE%A9%CE%A1%CE%9C-%CE%92%CE%97%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A4%CE%94%CE%94%CE%A9%CE%A1%CE%9C-%CE%92%CE%97%CE%97",
+  "listing_sha256": "49a5927cca0a93ff596cb6918d52990548e059b3b99021d02c949880cdec6eb4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
