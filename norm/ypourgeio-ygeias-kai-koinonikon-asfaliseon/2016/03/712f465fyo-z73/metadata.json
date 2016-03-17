@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "712Φ465ΦΥΟ-Ζ73",
+  "subject": "«Λήψη μέτρων διασφάλισης της ποιότητας του πόσιμου νερού  σε περιπτώσεις εκτάκτων αναγκών»",
+  "protocol_number": "Δ.Γ1δ/ οικ.20761",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008797"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "10007"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΙΚΔ465ΦΥΟ-ΚΕΗ"
+      },
+      {
+        "relatedDecisionsADA": "73ΤΛ465ΦΥΟ-ΗΣΠ"
+      }
+    ]
+  },
+  "issued": "2016-03-17",
+  "posted": "2016-03-17",
+  "publish_timestamp_ms": 1458213632812,
+  "version_id": "d89acbea-cd6d-4544-809e-322e85e8a981",
+  "in_force": "2016-03-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/712%CE%A6465%CE%A6%CE%A5%CE%9F-%CE%9673",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/712%CE%A6465%CE%A6%CE%A5%CE%9F-%CE%9673/document",
+  "page": "https://diavgeia.gov.gr/decision/view/712%CE%A6465%CE%A6%CE%A5%CE%9F-%CE%9673",
+  "listing_sha256": "68fbda7bb2a9ec938f9480a782d7bc7e861781ec678d4886b34bd08cdd0ad720",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
