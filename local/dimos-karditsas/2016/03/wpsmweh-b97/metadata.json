@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΠΣΜΩΕΗ-Β97",
+  "subject": "Έγκριση απολογιστικών στοιχείων του Δήμου Καρδίτσας μηνός Φεβρουαρίου 2016",
+  "protocol_number": "4974",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6135",
+    "label": "ΔΗΜΟΣ ΚΑΡΔΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82120"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-03-29",
+  "posted": "2016-03-29",
+  "publish_timestamp_ms": 1459233146591,
+  "version_id": "c3415fca-0f2c-4ac7-b6ce-4004c86f0f3e",
+  "in_force": "2016-03-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%A3%CE%9C%CE%A9%CE%95%CE%97-%CE%9297",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%A3%CE%9C%CE%A9%CE%95%CE%97-%CE%9297/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A0%CE%A3%CE%9C%CE%A9%CE%95%CE%97-%CE%9297",
+  "listing_sha256": "93852dd48984dae848a3dedf2d3b7f745ef8caa1038fbae3595116aba8c1eb13",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
