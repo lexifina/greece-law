@@ -1,0 +1,71 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΡΧΛΗ-Θ6Μ",
+  "subject": "«Καθορισμός ποσού μεταφοράς από τις μεταβιβάσεις του Υπουργείου Εσωτερικών και Διοικητικής Ανασυγκρότησης έτους 2016».",
+  "protocol_number": "2/25011α",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "815",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100010874",
+        "unitId": [
+          "100011643"
+        ],
+        "signerIds": [
+          "100014075"
+        ]
+      },
+      {
+        "ministryId": "100010874",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100015189"
+        ]
+      },
+      {
+        "ministryId": "100010874",
+        "unitId": [
+          "90776"
+        ],
+        "signerIds": [
+          "100010848"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-03-18",
+  "posted": "2016-03-30",
+  "publish_timestamp_ms": 1459325708710,
+  "version_id": "3b334e9b-0c3f-414b-b6c8-9a9d98595564",
+  "in_force": "2016-03-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A1%CE%A7%CE%9B%CE%97-%CE%986%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A1%CE%A7%CE%9B%CE%97-%CE%986%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A1%CE%A7%CE%9B%CE%97-%CE%986%CE%9C",
+  "listing_sha256": "e5648255304e654005f60cac2252e05c21d36343694386d173228ae452742d6a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
