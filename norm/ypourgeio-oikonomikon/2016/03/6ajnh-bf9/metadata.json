@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΑΞΝΗ-ΒΦ9",
+  "subject": "Καθορισμός αποζημίωσης των ιδιωτών-μελών του Κεντρικού Συμβουλίου Κοινωφελών Περιουσιών του άρθρου 6 του ν.4182/2013",
+  "protocol_number": "2/5238/ΔΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008321"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "162",
+      "issue": "fektype_YODD",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-03-17",
+  "posted": "2016-03-30",
+  "publish_timestamp_ms": 1459328096695,
+  "version_id": "356eda74-5e80-4a31-be9d-1f98f29e0466",
+  "in_force": "2016-03-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%91%CE%9E%CE%9D%CE%97-%CE%92%CE%A69",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%91%CE%9E%CE%9D%CE%97-%CE%92%CE%A69/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%91%CE%9E%CE%9D%CE%97-%CE%92%CE%A69",
+  "listing_sha256": "8bc3fff70bfb8c2ebdd859aab488dce9671033f997f6004dc7a5e112c375857c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
