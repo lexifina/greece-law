@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΡΓΧ6-ΟΣΤ",
+  "subject": "ΔΑΠΑΝΕΣ ΠΡΟΜΗΘΕΙΩΝ-ΕΠΙΣΚΕΥΩΝ-ΚΑΤΑΣΚΕΥΩΝ [ΠΡΟΜΗΘΕΙΑ ΙΑΤΡΙΚΩΝ ΣΥΣΚΕΥΩΝ ΝΟΣΗΛΕΥΤΙΚΟΥ ΤΟΜΕΑ 251 ΓΝΑ (ΔΕ.40/15)]",
+  "protocol_number": "Φ.831/ΑΔ.1728/Σ.457/30-3-16/ΔΑΥ/Γ2/3",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76857"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10002",
+    "kanonistikipraxiaa": "1728",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΒΡ36-ΑΡΓ"
+      }
+    ]
+  },
+  "issued": "2016-03-30",
+  "posted": "2016-03-31",
+  "publish_timestamp_ms": 1459403690784,
+  "version_id": "521a19ad-d02d-4892-975f-e0cbf5305f09",
+  "in_force": "2016-03-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%93%CE%A76-%CE%9F%CE%A3%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%93%CE%A76-%CE%9F%CE%A3%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A1%CE%93%CE%A76-%CE%9F%CE%A3%CE%A4",
+  "listing_sha256": "b42baeac834ad84e009d0ab9d29cd3407aa0512d8af856ca88a2832a9f80ea64",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
