@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΙΒΩΛΣ-ΒΤ1",
+  "subject": "χορήγηση προέγκρισης ίδρυσης καταστήματος \"ΚΑΦΕ ΕΣΤΙΑΤΟΡΙΟ\" ιδιοκτησίας Κωτσάκη Αικατερίνης που βρίσκεται στη Μονή",
+  "protocol_number": "5",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6180",
+    "label": "ΔΗΜΟΣ ΜΑΛΕΒΙΖΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100005461"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-04-01",
+  "posted": "2016-04-06",
+  "publish_timestamp_ms": 1459926584713,
+  "version_id": "d45b8fdf-080a-4c40-8c10-1015dc2022fb",
+  "in_force": "2016-04-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%99%CE%92%CE%A9%CE%9B%CE%A3-%CE%92%CE%A41",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%99%CE%92%CE%A9%CE%9B%CE%A3-%CE%92%CE%A41/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%99%CE%92%CE%A9%CE%9B%CE%A3-%CE%92%CE%A41",
+  "listing_sha256": "9ed233a774497c06781dbc7b0c7712f00f6e0d431739d83ecb409e71bdd3d192",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
