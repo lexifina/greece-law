@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "69Ψ0ΩΡΡ-ΙΦ7",
+  "subject": "Απόφαση επιτροπής οχημάτων για την επισκευή του ΚΗΙ9168 οχήματος",
+  "protocol_number": "12",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6095",
+    "label": "ΔΗΜΟΣ ΕΡΜΙΟΝΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81515"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-02-03",
+  "posted": "2016-04-11",
+  "publish_timestamp_ms": 1460373398668,
+  "version_id": "f4e8a6f1-fb98-42bb-ac56-a381c760a1fe",
+  "in_force": "2016-04-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/69%CE%A80%CE%A9%CE%A1%CE%A1-%CE%99%CE%A67",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/69%CE%A80%CE%A9%CE%A1%CE%A1-%CE%99%CE%A67/document",
+  "page": "https://diavgeia.gov.gr/decision/view/69%CE%A80%CE%A9%CE%A1%CE%A1-%CE%99%CE%A67",
+  "listing_sha256": "440a1524d27af7b9f9915a4fe9d30f25cb35ece346105b449281e5e8066b2f1e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
