@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60Φ64653ΠΩ-47Ν",
+  "subject": "Aνακατανομή δύο (2) κενών θέσεων προσωπικού του Υπουργείου Ναυτιλίας και Νησιωτικής Πολιτικής.",
+  "protocol_number": "2901.03/27878/2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70379"
+  ],
+  "thematic_category_ids": [
+    "44",
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "929",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "27878",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-03-31",
+  "posted": "2016-04-11",
+  "publish_timestamp_ms": 1460362431980,
+  "version_id": "98f0136f-3549-47cd-91b5-9b35c04ed9b1",
+  "in_force": "2016-04-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%A664653%CE%A0%CE%A9-47%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%A664653%CE%A0%CE%A9-47%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%A664653%CE%A0%CE%A9-47%CE%9D",
+  "listing_sha256": "f48d7f7e0333881e3799343479651aae565ecaa28269ab75cab0d6c86abca255",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
