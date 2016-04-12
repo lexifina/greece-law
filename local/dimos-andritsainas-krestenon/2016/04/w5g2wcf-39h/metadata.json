@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω5Γ2ΩΨΦ-39Η",
+  "subject": "ΨΗΦΙΣΗ ΠΙΣΤΩΣΕΩΝ ΠΡΟΫΠΟΛΟΓΙΣΜΟΥ",
+  "protocol_number": "42",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6036",
+    "label": "ΔΗΜΟΣ ΑΝΔΡΙΤΣΑΙΝΑΣ - ΚΡΕΣΤΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81863"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-04-07",
+  "posted": "2016-04-12",
+  "publish_timestamp_ms": 1460447355723,
+  "version_id": "28b55758-cf87-46ba-9703-e7af5ee33a9b",
+  "in_force": "2016-04-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%932%CE%A9%CE%A8%CE%A6-39%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%932%CE%A9%CE%A8%CE%A6-39%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A95%CE%932%CE%A9%CE%A8%CE%A6-39%CE%97",
+  "listing_sha256": "c37d359caa5ee0f3cfe18972e32492e9a785c4cc8744e666d51a2f8dcd2db8a7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
