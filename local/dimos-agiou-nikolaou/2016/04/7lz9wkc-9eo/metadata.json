@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΛΖ9ΩΚΨ-9ΕΟ",
+  "subject": "Έγκριση πρακτικού δημοπρασίας για την\nεκτέλεση της εργασίας ΄΄ Ασφάλιστρα Μεταφορικών  Μέσων ΄΄",
+  "protocol_number": "5346",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6195",
+    "label": "ΔΗΜΟΣ AΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81923"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "735ΡΩΚΨ-ΛΨΓ"
+      }
+    ]
+  },
+  "issued": "2016-04-12",
+  "posted": "2016-04-12",
+  "publish_timestamp_ms": 1460461021294,
+  "version_id": "b905b37e-6a79-4d97-a3f8-e9eda6ded79f",
+  "in_force": "2016-04-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9B%CE%969%CE%A9%CE%9A%CE%A8-9%CE%95%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9B%CE%969%CE%A9%CE%9A%CE%A8-9%CE%95%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9B%CE%969%CE%A9%CE%9A%CE%A8-9%CE%95%CE%9F",
+  "listing_sha256": "9b5bf41da03305f894be4e6200eb630e6da0874f18b412c3916daa3215596937",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
