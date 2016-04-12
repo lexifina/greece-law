@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Υ7ΠΗ-Γ2Ε",
+  "subject": "Καθορισμός μηνιαίας αποζημίωσης των Προέδρων και των μελών Επιτροπών και Ομάδων Εργασίας στα Επιμελητήρια και την Κεντρική Ένωση Επιμελητηρίων, που διέπονται από τις διατάξεις του ν.2081/1992 όπως ισχύει (Α’ 154)",
+  "protocol_number": "2/4515/ΔΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "118",
+      "issue": "fektype_YODD",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100016002",
+        "unitId": [
+          "100006430"
+        ],
+        "signerIds": [
+          "100010783"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-02-23",
+  "posted": "2016-04-12",
+  "publish_timestamp_ms": 1460461037981,
+  "version_id": "9fa46678-ed07-4152-8eb0-2290a84eb432",
+  "in_force": "2016-04-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A57%CE%A0%CE%97-%CE%932%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A57%CE%A0%CE%97-%CE%932%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A57%CE%A0%CE%97-%CE%932%CE%95",
+  "listing_sha256": "c903a95ef013d3f91a230b29907bdab3a7a7e2f94a3368c17be03b81899b93a4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
