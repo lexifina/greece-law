@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω5Ο9Ω1Γ-06Η",
+  "subject": "Αποδοχή της υπ’αρ.2/016 απόφασης Δ.Σ. Ε.Σ.Δ.Α.Κ. που αφορά στην τιμολογιακή πολιτική οικ. έτους 2016.",
+  "protocol_number": "80/016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6273",
+    "label": "ΔΗΜΟΣ ΣΗΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80115"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-04-13",
+  "posted": "2016-04-13",
+  "publish_timestamp_ms": 1460547840924,
+  "version_id": "b3f36af7-693d-4245-b249-e59a912656d2",
+  "in_force": "2016-04-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%9F9%CE%A91%CE%93-06%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%9F9%CE%A91%CE%93-06%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A95%CE%9F9%CE%A91%CE%93-06%CE%97",
+  "listing_sha256": "83443ca891ac27bb70e23d7d4a4934ccf507be99e70c32d9473140ec7b896ba6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
