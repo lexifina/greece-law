@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΖΩΧ7ΛΛ-4Ξ6",
+  "subject": "ΛΗΨΗ ΜΕΤΡΩΝ ΓΙΑ ΖΔΜ",
+  "protocol_number": "8789",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5009",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80415"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-04-15",
+  "posted": "2016-04-15",
+  "publish_timestamp_ms": 1460721358205,
+  "version_id": "cdd355ef-4ed2-4b2f-9a6b-74590e74b52c",
+  "in_force": "2016-04-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%96%CE%A9%CE%A77%CE%9B%CE%9B-4%CE%9E6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%96%CE%A9%CE%A77%CE%9B%CE%9B-4%CE%9E6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%96%CE%A9%CE%A77%CE%9B%CE%9B-4%CE%9E6",
+  "listing_sha256": "529d09eeb1cc50dcdae5879ca537e6ec278769922a2bf837c2c88bfe22a9f81a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
