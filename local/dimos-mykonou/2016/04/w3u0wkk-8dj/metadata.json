@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω3Θ0ΩΚΚ-8ΔΞ",
+  "subject": "ΑΟΕ 42/2016 «Περί διάθεσης διαφόρων πιστώσεων»",
+  "protocol_number": "ΑΟΕ 42/2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6200",
+    "label": "ΔΗΜΟΣ ΜΥΚΟΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81047"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-04-14",
+  "posted": "2016-04-16",
+  "publish_timestamp_ms": 1460834045266,
+  "version_id": "8fd466ce-14bb-480d-8087-0050074c31ae",
+  "in_force": "2016-04-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%980%CE%A9%CE%9A%CE%9A-8%CE%94%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%980%CE%A9%CE%9A%CE%9A-8%CE%94%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A93%CE%980%CE%A9%CE%9A%CE%9A-8%CE%94%CE%9E",
+  "listing_sha256": "31e7c6efff83bed2f4a62f2e154f0aeca199f8c2539a8a06161a3dd229652a70",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
