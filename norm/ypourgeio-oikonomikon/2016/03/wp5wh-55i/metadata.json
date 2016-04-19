@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΠ5ΩΗ-55Ι",
+  "subject": "«Καθορισμός ποσού μεταφοράς από τις μεταβιβάσεις του Υπουργείου Υγείας έτους 2016».",
+  "protocol_number": "2/12425",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1079",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100010874",
+        "unitId": [
+          "100011643"
+        ],
+        "signerIds": [
+          "100014075"
+        ]
+      },
+      {
+        "ministryId": "100010899",
+        "unitId": [
+          "100001270"
+        ],
+        "signerIds": [
+          "100015130"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-03-24",
+  "posted": "2016-04-19",
+  "publish_timestamp_ms": 1461065130656,
+  "version_id": "10815d03-0806-40fc-a2c8-dda0d7877e6f",
+  "in_force": "2016-04-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A05%CE%A9%CE%97-55%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A05%CE%A9%CE%97-55%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A05%CE%A9%CE%97-55%CE%99",
+  "listing_sha256": "c6ed9ed25c804087a5444fa1181babf784530d27b7d752ab8b60a1a4b2518c2d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
