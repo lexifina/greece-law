@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΝΚΩΗΙ-3Ξ1",
+  "subject": "ΠΡΟΧΕΙΡΟΣ ΔΙΑΓΩΝΙΣΜΟΣ ΣΕ  ΕΥΡΩ\n\nΠΡΟΜΗΘΕΙΑ ΥΓΡΩΝ ΚΑΥΣΙΜΩΝ ΚΙΝΗΣΗΣ\nΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΤΟΥ ΔΗΜΟΥ ΦΛΩΡΙΝΑΣ & ΤΩΝ ΝΟΜΙΚΩΝ ΤΟΥ ΠΡΟΣΩΠΩΝ \nΠΕΡΙΟΔΟΥ 1/5/2016 ΕΩΣ 31/8/2016",
+  "protocol_number": "6316/19-4-2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91527"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Υ7ΞΩΗΙ-ΡΧ0"
+      },
+      {
+        "relatedDecisionsADA": "6Ζ6ΓΩΗΙ-ΟΔ9"
+      }
+    ]
+  },
+  "issued": "2016-04-19",
+  "posted": "2016-04-19",
+  "publish_timestamp_ms": 1461065254139,
+  "version_id": "eab6a19f-c189-4537-b6b0-be4b9c0e8814",
+  "in_force": "2016-04-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%9D%CE%9A%CE%A9%CE%97%CE%99-3%CE%9E1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%9D%CE%9A%CE%A9%CE%97%CE%99-3%CE%9E1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%9D%CE%9A%CE%A9%CE%97%CE%99-3%CE%9E1",
+  "listing_sha256": "aa135a55753e10a59db6538603ad6d6a3db06d414e1e0e94833a66cf089a64fa",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
