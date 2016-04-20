@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΔΤΩΡΖ-ΗΗ3",
+  "subject": "ΑΠΟΦΑΣΗ ΜΕΙΩΣΗΣ ΕΓΓΥΗΣΕΩΝ ΠΡΟΣΘΕΤΩΝ ΕΓΓΗΥΤΙΚΩΝ",
+  "protocol_number": "7445",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6119",
+    "label": "ΔΗΜΟΣ ΙΕΡΑΣ ΠΟΛΗΣ ΜΕΣΟΛΟΓΓΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78278"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-04-20",
+  "posted": "2016-04-20",
+  "publish_timestamp_ms": 1461130744147,
+  "version_id": "0338f79f-3e5c-475c-a6d1-27fd780398e4",
+  "in_force": "2016-04-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%94%CE%A4%CE%A9%CE%A1%CE%96-%CE%97%CE%973",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%94%CE%A4%CE%A9%CE%A1%CE%96-%CE%97%CE%973/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%94%CE%A4%CE%A9%CE%A1%CE%96-%CE%97%CE%973",
+  "listing_sha256": "f4f9a95fa8d2728902655c2f3d4c361f3c453fe26ecaea8aabce1ee348ae0618",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
