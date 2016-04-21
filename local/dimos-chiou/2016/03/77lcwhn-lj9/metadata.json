@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "77ΛΨΩΗΝ-ΛΞ9",
+  "subject": "Η αριθμ 36/2016 Απόφαση Δημάρχου Χίου.",
+  "protocol_number": "6246",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78547"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "370",
+      "issue": "fektype_C",
+      "issueyear": 2016
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-03-01",
+  "posted": "2016-04-21",
+  "publish_timestamp_ms": 1461237578385,
+  "version_id": "26203bf2-6904-4ec4-9827-8788bd0db0c6",
+  "in_force": "2016-04-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/77%CE%9B%CE%A8%CE%A9%CE%97%CE%9D-%CE%9B%CE%9E9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/77%CE%9B%CE%A8%CE%A9%CE%97%CE%9D-%CE%9B%CE%9E9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/77%CE%9B%CE%A8%CE%A9%CE%97%CE%9D-%CE%9B%CE%9E9",
+  "listing_sha256": "cf4ff732779fa94a06b696fbf3c2f338e89f9b247ecac4976b8b8a3f48a75f28",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
