@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω6ΤΜΩ1Ο-3ΗΑ",
+  "subject": "Ψήφιση πίστωσης ποσού 5.166,00€ για την εκτέλεση της εργασίας «Υπηρεσίες διαχείρισης στόλου οχημάτων",
+  "protocol_number": "13405",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6257",
+    "label": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80518"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-04-22",
+  "posted": "2016-04-22",
+  "publish_timestamp_ms": 1461308488142,
+  "version_id": "66806b78-b8e8-4644-91eb-fca73e58f096",
+  "in_force": "2016-04-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%A4%CE%9C%CE%A91%CE%9F-3%CE%97%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%A4%CE%9C%CE%A91%CE%9F-3%CE%97%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A96%CE%A4%CE%9C%CE%A91%CE%9F-3%CE%97%CE%91",
+  "listing_sha256": "de5db73c7d77f43dc25aade183c92a01199d96a62e370340ab7307cd937ad970",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
