@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΩ4Ε-Α3Μ",
+  "subject": "ΑΝΑΚΛΗΣΗ ΠΟΣΟΥ 1,01 ΕΥΡΩ Γ.Π. ΜΑΡΙΟΥΠΟΛΗΣ",
+  "protocol_number": "120.3016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70150"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "2517",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-04-20",
+  "posted": "2016-04-25",
+  "publish_timestamp_ms": 1461568874445,
+  "version_id": "5b771649-f652-45b1-b08f-2407b9710ace",
+  "in_force": "2016-04-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A94%CE%95-%CE%913%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A94%CE%95-%CE%913%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%A94%CE%95-%CE%913%CE%9C",
+  "listing_sha256": "519d10fadaaccf8906892f8702fec774d50605a6ac401311b3c20df05bd652c3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
