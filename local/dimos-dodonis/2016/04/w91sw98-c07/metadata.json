@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω91ΣΩ98-Ψ07",
+  "subject": "ΔΙΑΚΗΡΥΞΗ ΕΚΜΙΣΘΩΣΗΣ ΑΚΙΝΗΤΟΥ ΚΟΙΝ. ΚΑΤΑΣΤΗΜΑΤΟΣ Τ.Κ ΑΡΤΟΠΟΥΛΑΣ",
+  "protocol_number": "3470",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6084",
+    "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82459"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Μ9ΝΩ98-ΛΝΦ"
+      }
+    ]
+  },
+  "issued": "2016-04-25",
+  "posted": "2016-04-26",
+  "publish_timestamp_ms": 1461665008466,
+  "version_id": "7a29f235-a954-4feb-882b-4b7fcf56ff9b",
+  "in_force": "2016-04-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A991%CE%A3%CE%A998-%CE%A807",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A991%CE%A3%CE%A998-%CE%A807/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A991%CE%A3%CE%A998-%CE%A807",
+  "listing_sha256": "86c419fac8ea4d5155c502116dfc5a247b4c944cf59e6fbcddbfc43f33ee28d6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
