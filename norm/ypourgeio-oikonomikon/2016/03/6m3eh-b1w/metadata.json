@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Μ3ΕΗ-Β1Ω",
+  "subject": "ΈΓΚΡΙΣΗ ΕΚΤΟΣ ΕΔΡΑΣ ΜΕΤΑΚΙΝΗΣΗΣ",
+  "protocol_number": "2939/23-03-2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "73735"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10003",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-03-23",
+  "posted": "2016-04-26",
+  "publish_timestamp_ms": 1461661110748,
+  "version_id": "d7e03d65-a64a-433e-b517-bf6ada198b86",
+  "in_force": "2016-04-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C3%CE%95%CE%97-%CE%921%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C3%CE%95%CE%97-%CE%921%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9C3%CE%95%CE%97-%CE%921%CE%A9",
+  "listing_sha256": "63b9e800d683e468e6afcc017a3b4a29146f180ed52cc6d4a81bdfc5129a33c0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
