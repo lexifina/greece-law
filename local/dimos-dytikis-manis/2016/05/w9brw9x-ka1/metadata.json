@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω9ΒΡΩ9Χ-ΚΑ1",
+  "subject": "ΕΠΙΣΤΡΟΦΗ ΠΟΣΟΥ ΩΣ ΑΧΡΕΩΣΤΗΤΩΣ ΚΑΤΑΒΛΗΘΕΝ",
+  "protocol_number": "3075",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6083",
+    "label": "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΜΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84851"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "77/2016",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-05-04",
+  "posted": "2016-05-04",
+  "publish_timestamp_ms": 1462344224253,
+  "version_id": "00be8dee-5415-4eb7-8a84-8c550e87b186",
+  "in_force": "2016-05-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%92%CE%A1%CE%A99%CE%A7-%CE%9A%CE%911",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%92%CE%A1%CE%A99%CE%A7-%CE%9A%CE%911/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A99%CE%92%CE%A1%CE%A99%CE%A7-%CE%9A%CE%911",
+  "listing_sha256": "9406c67177d05d36530abe8d14e59ae21629e37cf3259a32e6615fb4088bc905",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
