@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "765Γ6-ΖΒΚ",
+  "subject": "ΔΑΠΑΝΕΣ ΠΡΟΜΗΘΕΙΩΝ-ΕΠΙΣΚΕΥΩΝ-ΚΑΤΑΣΚΕΥΩΝ [ΚΑΘΑΡΙΣΜΟΣ ΧΩΡΩΝ-ΥΑΛΟΠΙΝΑΚΩΝ 251 ΓΝΑ-ΚΕΝΤΡΟΥ ΑΕΡΟΠΟΡΙΚΗΣ ΙΑΤΡΙΚΗΣ (ΚΑΙ)-ΑΝΩΤΑΤΗΣ ΑΕΡΟΠΟΡΙΚΗΣ ΥΓΕΙΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ (ΑΑΥΕ)(Δ.39/15)]",
+  "protocol_number": "Φ.831/ΑΔ.2125/Σ.594/5-5-16/ΔΑΥ/Γ2/3",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76857"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10002",
+    "kanonistikipraxiaa": "2125",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΕ296-ΙΕΤ"
+      }
+    ]
+  },
+  "issued": "2016-05-05",
+  "posted": "2016-05-05",
+  "publish_timestamp_ms": 1462454758157,
+  "version_id": "9cab985a-7d1e-470f-9bae-25113a7de333",
+  "in_force": "2016-05-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/765%CE%936-%CE%96%CE%92%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/765%CE%936-%CE%96%CE%92%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/765%CE%936-%CE%96%CE%92%CE%9A",
+  "listing_sha256": "dd3282d656406db41803bbe0480b393e26a988786049e08ea80187021e2be2db",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
