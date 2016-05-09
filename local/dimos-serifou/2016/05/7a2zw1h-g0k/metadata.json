@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Α2ΖΩ1Η-Γ0Κ",
+  "subject": "ΑΙΤΗΜΑ ΓΙΑ ΤΡΟΠΟΠΟΙΗΣΗ ΠΡΟΓΡΑΜΜΑΤΙΚΗΣ ΣΥΜΒΑΣΗΣ ΜΕ ΠΕΡΙΦΕΡΕΙΑ",
+  "protocol_number": "38ΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6271",
+    "label": "ΔΗΜΟΣ ΣΕΡΙΦΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83429"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-05-09",
+  "posted": "2016-05-09",
+  "publish_timestamp_ms": 1462782202936,
+  "version_id": "0d9ce28c-44f2-426a-9ca5-4ac11b60470f",
+  "in_force": "2016-05-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%912%CE%96%CE%A91%CE%97-%CE%930%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%912%CE%96%CE%A91%CE%97-%CE%930%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%912%CE%96%CE%A91%CE%97-%CE%930%CE%9A",
+  "listing_sha256": "7b11430e93af1a4496ed1623934557cca50af3b06184df5cfdbb5453e69a70ae",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
