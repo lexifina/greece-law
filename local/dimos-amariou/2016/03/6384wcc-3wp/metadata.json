@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6384ΩΨΨ-3ΩΠ",
+  "subject": "ΑΠΟΦΑΣΗ 45-2016 Δ.Σ. ΚΑΘΟΡΙΣΜΟΣ ΑΡΔΕΥΤΙΚΗΣ ΠΕΡΙΟΔΟΥ , ΑΡΙΘΜΟΣ ΥΔΡΟΝΟΜΕΩΝ",
+  "protocol_number": "45-20169",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6025",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86039"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-03-30",
+  "posted": "2016-05-09",
+  "publish_timestamp_ms": 1462790156583,
+  "version_id": "a363fec3-5dbe-4d6e-aa09-8cd1d70243ff",
+  "in_force": "2016-05-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6384%CE%A9%CE%A8%CE%A8-3%CE%A9%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6384%CE%A9%CE%A8%CE%A8-3%CE%A9%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6384%CE%A9%CE%A8%CE%A8-3%CE%A9%CE%A0",
+  "listing_sha256": "f77c540f4dd38f1eeb61da8010664267a047a4a832fc94e87f107c90042b5415",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
