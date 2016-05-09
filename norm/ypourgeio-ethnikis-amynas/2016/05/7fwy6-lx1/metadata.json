@@ -1,0 +1,49 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΦΩΥ6-ΛΧ1",
+  "subject": "ΔΑΠΑΝΕΣ ΠΡΟΜΗΘΕΙΩΝ-ΕΠΙΣΚΕΥΩΝ-ΚΑΤΑΣΚΕΥΩΝ [ΚΑΘΑΡΙΣΜΟΣ ΧΩΡΩΝ-ΥΑΛΟΠΙΝΑΚΩΝ 251ΓΝΑ-ΚΕΝΤΡΟΥ ΑΕΡΟΠΟΡΙΚΗΣ ΙΑΤΡΙΚΗΣ(ΚΑΙ) - ΑΝΩΤΑΤΗΣ ΑΕΡΟΠΟΡΙΚΗΣ ΥΓΕΙΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ (ΑΑΥΕ) (Δ.39/15)]",
+  "protocol_number": "Φ.831/ΑΔ.2148/Σ.600/6-5-16/ΔΑΥ/Γ2/3",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76857"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10002",
+    "kanonistikipraxiaa": "2148",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΕ296-ΙΕΤ"
+      },
+      {
+        "relatedDecisionsADA": "765Γ6-ΖΒΚ"
+      },
+      {
+        "relatedDecisionsADA": "76ΖΖ6-ΗΧΝ"
+      }
+    ]
+  },
+  "issued": "2016-05-06",
+  "posted": "2016-05-09",
+  "publish_timestamp_ms": 1462783802176,
+  "version_id": "7768cb58-26a4-407e-afae-c6476f83882a",
+  "in_force": "2016-05-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A6%CE%A9%CE%A56-%CE%9B%CE%A71",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A6%CE%A9%CE%A56-%CE%9B%CE%A71/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A6%CE%A9%CE%A56-%CE%9B%CE%A71",
+  "listing_sha256": "33072d38ac453c43ceed5a592d167f7211d1c2a2aca5361d30998ace49364819",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
