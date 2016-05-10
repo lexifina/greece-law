@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7065Ω16-2ΕΗ",
+  "subject": "ΑΠΟΦΑΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ ΥΠ ΑΡΙΘΜΟΝ 68/2016 ( ΠΕΡΙ ΤΗΣ ΑΠΟΔΟΧΗΣ ΔΩΡΕΑΣ ΓΙΑ ΤΗ ΔΙΑΝΟΙΞΗ ΔΡΟΜΟΥ ΚΑΙ ΟΡΙΣΜΟΥ ΕΠΙΒΛΕΠΟΝΤΟΣ )",
+  "protocol_number": "68/2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6262",
+    "label": "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "10734"
+  ],
+  "thematic_category_ids": [
+    "48",
+    "10004",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "68/2016",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-05-10",
+  "posted": "2016-05-10",
+  "publish_timestamp_ms": 1462876248717,
+  "version_id": "382f998e-de63-495c-8ec9-3a39898d3e1c",
+  "in_force": "2016-05-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7065%CE%A916-2%CE%95%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7065%CE%A916-2%CE%95%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7065%CE%A916-2%CE%95%CE%97",
+  "listing_sha256": "1ea76c468e7caf9f763bfc957f913328ec1628eb72dd2410eb04a383667add00",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
