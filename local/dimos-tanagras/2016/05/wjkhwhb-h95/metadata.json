@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΞΚΗΩΗΒ-Η95",
+  "subject": "ΕΝΤΟΛΗ ΕΞΟΦΛΗΣΗΣ ΤΙΜΟΛΟΓΙΟΥ ΑΠΟ ΤΗΝ ΠΑΓΙΑ ΠΡΟΚΑΤΑΒΟΛΗ",
+  "protocol_number": "6218",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6293",
+    "label": "ΔΗΜΟΣ ΤΑΝΑΓΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "92581"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "172",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-05-12",
+  "posted": "2016-05-12",
+  "publish_timestamp_ms": 1463052925909,
+  "version_id": "c46be1db-59c4-4c97-989f-d3e7ff1c2348",
+  "in_force": "2016-05-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9E%CE%9A%CE%97%CE%A9%CE%97%CE%92-%CE%9795",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9E%CE%9A%CE%97%CE%A9%CE%97%CE%92-%CE%9795/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9E%CE%9A%CE%97%CE%A9%CE%97%CE%92-%CE%9795",
+  "listing_sha256": "ec42da53c6d1f0554fdec17f407edc87319cecbe42fb46cb199d2094baef9694",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
