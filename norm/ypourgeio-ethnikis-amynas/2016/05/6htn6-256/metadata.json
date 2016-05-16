@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΗΤΝ6-256",
+  "subject": "Απόφαση Παράτασης Διενέργειας Δ.4/16 προς Σύναψη Συμφωνίας – Πλαισίου για την Προμήθεια Καύσιμου με Κωδικό ΝΑΤΟ F-54 για τις Ένοπλες Δυνάμεις (ΕΔ)",
+  "protocol_number": "Φ.800/117/131369/Σ.1299/16 Μαϊ 16/ΓΔΟΣΥ/ΔΟΙ/Τμ. Προμ,",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70167"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ψ4ΒΦ6-Υ89"
+      },
+      {
+        "relatedDecisionsADA": "Ω39Α6-229"
+      }
+    ]
+  },
+  "issued": "2016-05-16",
+  "posted": "2016-05-16",
+  "publish_timestamp_ms": 1463396282812,
+  "version_id": "17b561de-6b18-44b3-ae4b-db6bc753c813",
+  "in_force": "2016-05-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%A4%CE%9D6-256",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%A4%CE%9D6-256/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%97%CE%A4%CE%9D6-256",
+  "listing_sha256": "247955ec1576601931c56879c671571a64adcaa6fba665f945d04a1c64aac029",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
