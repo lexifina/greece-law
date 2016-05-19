@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΘΤΦΩ1Ζ-ΜΑ2",
+  "subject": "Απόφαση Δημοτικού Συμβουλίου Νο 84/2016 με θέμα: Έγκριση επιστροφής χρημάτων.",
+  "protocol_number": "84",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6289",
+    "label": "ΔΗΜΟΣ ΣΤΥΛΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93281"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-05-19",
+  "posted": "2016-05-19",
+  "publish_timestamp_ms": 1463647582920,
+  "version_id": "2bbba888-8c23-480e-bb7c-24592ba61568",
+  "in_force": "2016-05-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%A4%CE%A6%CE%A91%CE%96-%CE%9C%CE%912",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%A4%CE%A6%CE%A91%CE%96-%CE%9C%CE%912/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%98%CE%A4%CE%A6%CE%A91%CE%96-%CE%9C%CE%912",
+  "listing_sha256": "aa22a4e2d56a12e3a374904c1eab44ad76263437b971c0af7392ec84541b8bef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
