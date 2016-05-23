@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΖΤΗ-0ΩΜ",
+  "subject": "Καθορισμός Αποζημίωσης των Προέδρων και των Μελών των πέντε (5) Ομάδων Εργασίας Αυτεπιστασίας για τη διενέργεια δειγματοληπτικών ελέγχων πρωτοβάθμιου ή/και δευτεροβάθμιου επιπέδου των καταχωρημένων Ληξιαρχικών Πράξεων των αντίστοιχων πέντε (5) Συμβάσεων Ψηφιοποίησης Ληξιαρχικών Πράξεων των Υποέργων 3 – 7, όπως ορίζει η Απόφαση Υλοποίησης με Ίδια Μέσα της Δράσης Β’ του Υποέργου 8: «Υποστηρικτικές Δράσεις Ψηφιοποίησης και Στήριξης της Μετάβασης και Επιχειρησιακής Λειτουργίας του Φορέα Λειτουργίας» της Πράξης «Εθνικό Ληξιαρχείο» του Επιχειρησιακού Προγράμματος «Ψηφιακή Σύγκλιση» με κωδικό ΟΠΣ «270966» από την Κοινωνία της Πληροφορίας Α.Ε.",
+  "protocol_number": "2/23039/ΔΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "248",
+      "issue": "fektype_YODD",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100010874",
+        "unitId": [
+          "100004988"
+        ],
+        "signerIds": [
+          "100014075"
+        ]
+      },
+      {
+        "ministryId": "100016002",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100011935"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-05-15",
+  "posted": "2016-05-23",
+  "publish_timestamp_ms": 1463994269994,
+  "version_id": "1afbfd30-89ea-4fdb-a0a5-b8a4b71ed8ca",
+  "in_force": "2016-05-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%96%CE%A4%CE%97-0%CE%A9%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%96%CE%A4%CE%97-0%CE%A9%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%96%CE%A4%CE%97-0%CE%A9%CE%9C",
+  "listing_sha256": "3d07e51a2bcb545cf9c3522f9026cc58ea098f62ad296d030df16cddf24281d8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
