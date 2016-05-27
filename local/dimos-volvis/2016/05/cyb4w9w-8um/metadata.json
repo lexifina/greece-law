@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΥΒ4Ω9Ω-8ΘΜ",
+  "subject": "Διάθεση/παραχώρηση του υπολοίπου 30% του χώρου, που αντιστοιχεί στην πρόσοψη/προβολή των καταστημάτων υγειονομικού ενδιαφέροντος στον Σταυρό.",
+  "protocol_number": "9638",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6057",
+    "label": "ΔΗΜΟΣ ΒΟΛΒΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "10940"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-05-27",
+  "posted": "2016-05-27",
+  "publish_timestamp_ms": 1464347774167,
+  "version_id": "f1fec519-1870-4c3f-8f24-90f2a311ef28",
+  "in_force": "2016-05-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A5%CE%924%CE%A99%CE%A9-8%CE%98%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A5%CE%924%CE%A99%CE%A9-8%CE%98%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A5%CE%924%CE%A99%CE%A9-8%CE%98%CE%9C",
+  "listing_sha256": "6a73406e09d4d35347434aeff6bb597988c433410e83d7cb68ee5940efe42dcd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
