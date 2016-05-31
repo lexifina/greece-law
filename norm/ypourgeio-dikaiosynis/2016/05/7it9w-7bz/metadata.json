@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΙΤ9Ω-7ΒΖ",
+  "subject": "Οπλοφορία υπαλλήλων εξωτερικής φρούρησης καταστημάτων κράτησης, εκτός υπηρεσίας",
+  "protocol_number": "39981",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70951"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1532",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "39981",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100010874"
+      }
+    ]
+  },
+  "issued": "2016-05-31",
+  "posted": "2016-05-31",
+  "publish_timestamp_ms": 1464697808083,
+  "version_id": "a406eddb-3ab5-4ecd-96ba-c3b20c420aa4",
+  "in_force": "2016-05-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%99%CE%A49%CE%A9-7%CE%92%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%99%CE%A49%CE%A9-7%CE%92%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%99%CE%A49%CE%A9-7%CE%92%CE%96",
+  "listing_sha256": "9a48daaa8ab40a43fafb647b22e8efc493c6afdea23fc2798fc3debb85625024",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
