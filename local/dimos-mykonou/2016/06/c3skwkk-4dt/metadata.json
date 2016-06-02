@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ3ΣΚΩΚΚ-4ΔΤ",
+  "subject": "ΠΕΡΙ ΤΗΣ 43/2016 ΑΠΟΦΑΣΗΣ ΣΥΜΒΟΥΛΙΟΥ ΔΗΜΟΤΙΚΗΣ ΚΟΙΝΟΤΗΤΑΣ ΜΥΚΟΝΙΩΝ",
+  "protocol_number": "43/2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6200",
+    "label": "ΔΗΜΟΣ ΜΥΚΟΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81043"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "43/2016",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-06-02",
+  "posted": "2016-06-02",
+  "publish_timestamp_ms": 1464876988025,
+  "version_id": "7e1afcea-54eb-48aa-8544-558ca1c33063",
+  "in_force": "2016-06-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A83%CE%A3%CE%9A%CE%A9%CE%9A%CE%9A-4%CE%94%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A83%CE%A3%CE%9A%CE%A9%CE%9A%CE%9A-4%CE%94%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A83%CE%A3%CE%9A%CE%A9%CE%9A%CE%9A-4%CE%94%CE%A4",
+  "listing_sha256": "9b0a333de3bc2a9aca6060010d85bf825d8510c510ba11a7767ecd6e8ff7c9a4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
