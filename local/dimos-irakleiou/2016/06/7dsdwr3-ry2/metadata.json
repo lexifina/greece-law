@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΔΣΔΩΡ3-ΡΥ2",
+  "subject": "3η Αναμόρφωση προϋπολογισμού  οικονομικού έτους 2016 Δήμου Ηρακλείου Αττικής.",
+  "protocol_number": "10008",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003098"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "154",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-06-03",
+  "posted": "2016-06-03",
+  "publish_timestamp_ms": 1464935326682,
+  "version_id": "027d0ae7-ec56-4fc2-b40a-d2af2bff2e16",
+  "in_force": "2016-06-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%94%CE%A3%CE%94%CE%A9%CE%A13-%CE%A1%CE%A52",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%94%CE%A3%CE%94%CE%A9%CE%A13-%CE%A1%CE%A52/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%94%CE%A3%CE%94%CE%A9%CE%A13-%CE%A1%CE%A52",
+  "listing_sha256": "4dc2b2497d62a846f9ce327ce12312fd1a6f40fa709d87edd1757b2d0d467d1f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
