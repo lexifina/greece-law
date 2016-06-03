@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΨΩΤΩΚΑ-10Β",
+  "subject": "Απόφαση προέγκρισης νυχτερινών ωρών Ιουνίου 2016",
+  "protocol_number": "2635",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6215",
+    "label": "ΔΗΜΟΣ ΝΙΚΑΙΑΣ - ΑΓΙΟΥ Ι. ΡΕΝΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93103"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-05-31",
+  "posted": "2016-06-03",
+  "publish_timestamp_ms": 1464939330934,
+  "version_id": "d8b6051e-7be9-4012-982e-98936a2957ca",
+  "in_force": "2016-06-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A8%CE%A9%CE%A4%CE%A9%CE%9A%CE%91-10%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A8%CE%A9%CE%A4%CE%A9%CE%9A%CE%91-10%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A8%CE%A9%CE%A4%CE%A9%CE%9A%CE%91-10%CE%92",
+  "listing_sha256": "a0bf9068daff2f5fc8a6f5f3541a104d6d050edf1f976d3679edd0ac95169d1b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
