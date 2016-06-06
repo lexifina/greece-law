@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω4Β1ΩΨ9-ΠΩ6",
+  "subject": "Αποξήλωση ή μη, περιπτέρου που βρίσκεται επί της Λεωφόρου Κηφισίας αριθ. 68 (ΗΒΗ)",
+  "protocol_number": "024940",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "94486"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "78",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-06-03",
+  "posted": "2016-06-06",
+  "publish_timestamp_ms": 1465198387825,
+  "version_id": "fbc01ee4-11c7-4eb7-9dce-eacd65078157",
+  "in_force": "2016-06-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A94%CE%921%CE%A9%CE%A89-%CE%A0%CE%A96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A94%CE%921%CE%A9%CE%A89-%CE%A0%CE%A96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A94%CE%921%CE%A9%CE%A89-%CE%A0%CE%A96",
+  "listing_sha256": "dfcdf70ddf4174d92721936bf9d7bb7414453007754f4c55264edbada6160bb6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
