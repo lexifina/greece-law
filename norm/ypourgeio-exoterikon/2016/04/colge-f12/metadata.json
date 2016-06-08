@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟΛΓΕ-Φ12",
+  "subject": "ΥΠΟΥΡΓΙΚΗ ΑΠΟΦΑΣΗ ΑΝΑΦΟΡΙΚΑ ΜΕ ΤΗΝ ΑΠΟΦΑΣΗ 2270 (2016) ΤΟΥ ΣΥΜΒΟΥΛΙΟΥ ΑΣΦΑΛΕΙΑΣ ΤΟΥ Ο.Η.Ε. ΣΧΕΤΙΚΑ ΜΕ ΤΗ ΛΑΪΚΗ ΔΗΜΟΚΡΑΤΙΑ ΤΗΣ ΚΟΡΕΑΣ",
+  "protocol_number": "4980/ΑΣ 21343",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72603"
+  ],
+  "thematic_category_ids": [
+    "08"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "90",
+      "issue": "fektype_A",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-04-26",
+  "posted": "2016-06-08",
+  "publish_timestamp_ms": 1465377909068,
+  "version_id": "70bd6785-0d70-432e-bff4-568ec9a6b05b",
+  "in_force": "2016-06-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%9B%CE%93%CE%95-%CE%A612",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%9B%CE%93%CE%95-%CE%A612/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F%CE%9B%CE%93%CE%95-%CE%A612",
+  "listing_sha256": "28955d0d81dbd61322a3ea41e1a7ed653e9e2bfb053f7a114dfd9cb5a5da50cb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
