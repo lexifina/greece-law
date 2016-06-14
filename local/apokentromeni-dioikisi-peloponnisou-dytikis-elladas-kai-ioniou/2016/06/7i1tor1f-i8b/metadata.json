@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Ι1ΤΟΡ1Φ-Ι8Β",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 232/2016 απόφασης Δημοτικού Συμβουλίου Δήμου Ναυπακτίας",
+  "protocol_number": "79554/3174",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΣΛΖΩΚΓ-ΧΥΧ"
+      }
+    ]
+  },
+  "issued": "2016-06-13",
+  "posted": "2016-06-14",
+  "publish_timestamp_ms": 1465887743375,
+  "version_id": "69bf214e-d609-492e-86cd-78040ab8a3bb",
+  "in_force": "2016-06-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%991%CE%A4%CE%9F%CE%A11%CE%A6-%CE%998%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%991%CE%A4%CE%9F%CE%A11%CE%A6-%CE%998%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%991%CE%A4%CE%9F%CE%A11%CE%A6-%CE%998%CE%92",
+  "listing_sha256": "0a0c4193b14cafc96b39a8b1c5d91403fa8592cce7c063268af279287f2566b9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
