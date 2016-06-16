@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΚΥΦΩΞΩ-1ΣΜ",
+  "subject": "Έγκριση προϋπολογισμού της ΔΗ.Κ.Ε.Ο.Λ.",
+  "protocol_number": "88",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6227",
+    "label": "ΔΗΜΟΣ ΟΡΟΠΕΔΙΟΥ ΛΑΣΙΘΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84456"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-06-12",
+  "posted": "2016-06-16",
+  "publish_timestamp_ms": 1466065637996,
+  "version_id": "bb195e76-d84b-449c-a308-8bf969aef291",
+  "in_force": "2016-06-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%A5%CE%A6%CE%A9%CE%9E%CE%A9-1%CE%A3%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%A5%CE%A6%CE%A9%CE%9E%CE%A9-1%CE%A3%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9A%CE%A5%CE%A6%CE%A9%CE%9E%CE%A9-1%CE%A3%CE%9C",
+  "listing_sha256": "3d87970507c6c50fc7883971ec90e2bf5f2ecd105644399119e1397c9f9cd7a1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
