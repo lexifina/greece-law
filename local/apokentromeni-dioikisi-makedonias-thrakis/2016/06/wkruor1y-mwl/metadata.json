@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΚΡΘΟΡ1Υ-ΜΩΛ",
+  "subject": "εγκριση προσωρινης παραλαβης εργου",
+  "protocol_number": "7089",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77662"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-06-16",
+  "posted": "2016-06-16",
+  "publish_timestamp_ms": 1466052272930,
+  "version_id": "40d76887-ec1d-405b-b5e4-27b62d084dc7",
+  "in_force": "2016-06-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%A1%CE%98%CE%9F%CE%A11%CE%A5-%CE%9C%CE%A9%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%A1%CE%98%CE%9F%CE%A11%CE%A5-%CE%9C%CE%A9%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9A%CE%A1%CE%98%CE%9F%CE%A11%CE%A5-%CE%9C%CE%A9%CE%9B",
+  "listing_sha256": "eddc68ffb1c427126be45124b7f13e5618e9af1494dc135eabed8d8cc9f23e93",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
