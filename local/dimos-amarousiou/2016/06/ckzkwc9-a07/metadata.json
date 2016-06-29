@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚΖΚΩΨ9-Α07",
+  "subject": "Έγκριση ή μη της απόφασης Επιτροπής Ποιότητας Ζωής που αφορά: \"Χορήγηση παράτασης του ωραρίου λειτουργίας των καταστημάτων μέχρι τις 24:00μ.μ. για τα καταστήματα που δραστηριοποιούνται στο εμπορικό κέντρο του Δήμου Αμαρουσίου εν όψει  της Λευκής Νύχτας που θα πραγματοποιηθεί το Σάββατο 2 Ιουλίου 2016\"",
+  "protocol_number": "029381",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6026",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "94486"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "222",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7Θ0ΚΩΨ9-4ΦΠ"
+      }
+    ]
+  },
+  "issued": "2016-06-29",
+  "posted": "2016-06-29",
+  "publish_timestamp_ms": 1467195990245,
+  "version_id": "e09c6c3a-f3aa-44b0-905c-a96d081b90ed",
+  "in_force": "2016-06-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%96%CE%9A%CE%A9%CE%A89-%CE%9107",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%96%CE%9A%CE%A9%CE%A89-%CE%9107/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A%CE%96%CE%9A%CE%A9%CE%A89-%CE%9107",
+  "listing_sha256": "7b910cb8d78334f45e6ba2943650eb4b2e1f27efe0a1ab9e8ccdca9e8cd80372",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
