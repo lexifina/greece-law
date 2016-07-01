@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΧΦΗ-ΦΑΦ",
+  "subject": "ΠΑΡΆΤΑΣΗ ΠΡΟΘΕΣΜΙΏΝ ΔΟΣΕΩΝ ΡΥΘΜΙΣΕΩΝ ΤΜΗΜΑΤΙΚΗΣ ΚΑΤΑΒΟΛΗΣ ΒΕΒΑΙΩΜΈΝΩΝ ΟΦΕΙΛΩΝ ΚΑΙ ΒΕΒΑΙΩΜΕΝΩΝ ΜΗ ΡΥΘΜΙΣΜΕΝΩΝ ΟΦΕΙΛΩΝ ΣΤΗ ΦΟΡΟΛΟΓΙΚΗ ΔΙΟΙΚΗΣΗ, ΛΟΓΩ ΤΡΟΠΟΠΟΙΗΣΗΣ ΤΗΣ ΗΜΕΡΟΜΗΝΙΑΣ ΚΑΤΑΒΟΛΗΣ ΣΥΝΤΑΞΗΣ ΑΠΟ ΤΟ ΕΝΙΑΙΟ ΤΑΜΕΙΟ ΕΠΙΚΟΥΡΙΚΗΣ ΑΣΦΑΛΙΣΗΣ (ΕΤΕΑ).",
+  "protocol_number": "ΠΟΛ 1092",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24",
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1965",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "ΠΟΛ 1092",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-06-30",
+  "posted": "2016-07-01",
+  "publish_timestamp_ms": 1467353562847,
+  "version_id": "1d8f7383-fcb2-496b-b622-900476903f5b",
+  "in_force": "2016-07-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%A7%CE%A6%CE%97-%CE%A6%CE%91%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%A7%CE%A6%CE%97-%CE%A6%CE%91%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%A7%CE%A6%CE%97-%CE%A6%CE%91%CE%A6",
+  "listing_sha256": "ab236a731f67ffd4c98a8280f98a8533e8f9a7557fa3093cfc8f22d80179771b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
