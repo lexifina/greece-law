@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΗΔΞΩΡ3-ΗΚΗ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΓΙΑ ΤΗΝ ΑΝΑΘΕΣΗ ΣΥΝΤΗΡΗΣΗΣ-ΕΠΙΣΚΕΥΗΣ ΠΥΡΟΣΒΕΣΤΗΡΩΝ",
+  "protocol_number": "1916",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003101"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "1916",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-07-04",
+  "posted": "2016-07-04",
+  "publish_timestamp_ms": 1467636382879,
+  "version_id": "fb1d33a8-5349-4fa9-aaf2-1c1a2bbed7fd",
+  "in_force": "2016-07-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%97%CE%94%CE%9E%CE%A9%CE%A13-%CE%97%CE%9A%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%97%CE%94%CE%9E%CE%A9%CE%A13-%CE%97%CE%9A%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%97%CE%94%CE%9E%CE%A9%CE%A13-%CE%97%CE%9A%CE%97",
+  "listing_sha256": "f5937e6415c86d6750661f1580148d8efe1d7cd4dc4876f4b0496728b1457fbb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
