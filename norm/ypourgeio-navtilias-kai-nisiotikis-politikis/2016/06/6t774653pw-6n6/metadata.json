@@ -1,0 +1,59 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Τ774653ΠΩ-6Ν6",
+  "subject": "Καθορισμός παγίων δαπανών θέρμανσης Υπηρεσιών υπαγόμενων στο Αρχηγείο Λιμενικού Σώματος - Ελληνικής Ακτοφυλακής, Περιφερειακών Υπηρεσιών, (Περιφερειακών Διοικήσεων Λιμενικού Σώματος (ΠΕ.ΔΙ.Λ.Σ.) και Λιμενικών Αρχών)  για το έτος 2016.",
+  "protocol_number": "2811.16-1/49840/2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100016124"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2002",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "2",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΞ1Ψ4653ΠΩ-Ν2Ψ"
+      }
+    ],
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-06-10",
+  "posted": "2016-07-05",
+  "publish_timestamp_ms": 1467714425439,
+  "version_id": "3f439d10-de55-4a21-a2d1-7877260d363a",
+  "in_force": "2016-07-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A4774653%CE%A0%CE%A9-6%CE%9D6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A4774653%CE%A0%CE%A9-6%CE%9D6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A4774653%CE%A0%CE%A9-6%CE%9D6",
+  "listing_sha256": "17cf7057397b45704a39826f85c3f6671e9c8e882ed6181636772b0219d13f2e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
