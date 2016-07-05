@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΨΓΗ-ΦΨ1",
+  "subject": "Έγκριση εφημεριών για το Ιατρικό Προσωπικό μέλη Δ.Ε.Π. του Αιγινητείου Νοσοκομείου για το έτος 2016.",
+  "protocol_number": "2/52149/ΔΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1934",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100015990",
+        "unitId": [
+          "100008030"
+        ],
+        "signerIds": [
+          "100015163"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-06-13",
+  "posted": "2016-07-05",
+  "publish_timestamp_ms": 1467698051738,
+  "version_id": "5e8dbf0e-a1b1-4bd6-98d2-08ada61923af",
+  "in_force": "2016-07-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A8%CE%93%CE%97-%CE%A6%CE%A81",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A8%CE%93%CE%97-%CE%A6%CE%A81/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%A8%CE%93%CE%97-%CE%A6%CE%A81",
+  "listing_sha256": "9fcf325724a71f3e668839a001134e5e8901cf3bd8cfc042c81e5b3f7ef1dd32",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
