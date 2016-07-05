@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΤΡΩΞΨ-Ι78",
+  "subject": "Διαγραφή βεβαιωμένων οφειλών από κατάλογο κλήσεων παραβάσεων ΚΟΚ από τις εταιρείες εκμίσθωσης επιβατικών αυτοκινήτων: α) MAC LEASING S.A. β) AYTOHELLAS ATEE “HERTZ” γ)  ΣΑΘΩ Α.Ε.Τ.Ε. και επαναβεβαίωση των παραβάσεων ΚΟΚ στους μισθωτές",
+  "protocol_number": "222/2016 ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ ΠΑΓΓΑΙΟΥ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6229",
+    "label": "ΔΗΜΟΣ ΠΑΓΓΑΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83256"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "",
+    "kanonistikipraxiaa": "",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": null
+      }
+    ]
+  },
+  "issued": "2016-07-04",
+  "posted": "2016-07-05",
+  "publish_timestamp_ms": 1467710422501,
+  "version_id": "df307361-bf01-48a6-961e-c7d14f98ab4f",
+  "in_force": "2016-07-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%A4%CE%A1%CE%A9%CE%9E%CE%A8-%CE%9978",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%A4%CE%A1%CE%A9%CE%9E%CE%A8-%CE%9978/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%A4%CE%A1%CE%A9%CE%9E%CE%A8-%CE%9978",
+  "listing_sha256": "f5937e6415c86d6750661f1580148d8efe1d7cd4dc4876f4b0496728b1457fbb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
