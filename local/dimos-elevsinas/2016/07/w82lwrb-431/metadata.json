@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω82ΛΩΡΒ-431",
+  "subject": "ΟΡΙΣΜΟΣ ΕΠΙΒΛΕΠΟΝΤΟΣ",
+  "protocol_number": "14841",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6089",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΣΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80042"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-07-07",
+  "posted": "2016-07-07",
+  "publish_timestamp_ms": 1467879914266,
+  "version_id": "e600e9ce-7121-4d25-b327-20107d4063fa",
+  "in_force": "2016-07-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A982%CE%9B%CE%A9%CE%A1%CE%92-431",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A982%CE%9B%CE%A9%CE%A1%CE%92-431/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A982%CE%9B%CE%A9%CE%A1%CE%92-431",
+  "listing_sha256": "5705bf537755862dee3be6028affa43928c1571e637cf17c570bb3824d5f208e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
