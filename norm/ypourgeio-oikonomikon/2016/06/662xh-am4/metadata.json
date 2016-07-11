@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "662ΧΗ-ΑΜ4",
+  "subject": "Καθορισμός αποζημίωσης εξωτερικού δικηγόρου στην Επιτροπή Ανταγωνισμού",
+  "protocol_number": "2/43971/ΔΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1737",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100016002",
+        "unitId": [
+          "100001074"
+        ],
+        "signerIds": [
+          "100010783"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-06-03",
+  "posted": "2016-07-11",
+  "publish_timestamp_ms": 1468223670278,
+  "version_id": "7912f32d-ebe5-4f5d-9a85-077f1dd107dd",
+  "in_force": "2016-07-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/662%CE%A7%CE%97-%CE%91%CE%9C4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/662%CE%A7%CE%97-%CE%91%CE%9C4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/662%CE%A7%CE%97-%CE%91%CE%9C4",
+  "listing_sha256": "dfcdf70ddf4174d92721936bf9d7bb7414453007754f4c55264edbada6160bb6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
