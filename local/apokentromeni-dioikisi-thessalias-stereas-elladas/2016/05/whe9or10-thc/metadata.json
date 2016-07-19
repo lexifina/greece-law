@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΗΕ9ΟΡ10-ΤΗΨ",
+  "subject": "Δημοσίευση (1) μίας διόρθωσης σφάλματος στην Εφημερίδα της Κυβερνήσεως",
+  "protocol_number": "1784/91515",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "78079"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "187",
+      "issue": "fektype_D",
+      "issueyear": 2016
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-05-26",
+  "posted": "2016-07-19",
+  "publish_timestamp_ms": 1468928349167,
+  "version_id": "b3d109a5-bec4-496d-a6b0-def47e8c9404",
+  "in_force": "2016-07-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%959%CE%9F%CE%A110-%CE%A4%CE%97%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%959%CE%9F%CE%A110-%CE%A4%CE%97%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%97%CE%959%CE%9F%CE%A110-%CE%A4%CE%97%CE%A8",
+  "listing_sha256": "2620d5c79ea77a2dbdd5c94e377a3c098d859d883b1ee523f788c2dd6ef4518a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
