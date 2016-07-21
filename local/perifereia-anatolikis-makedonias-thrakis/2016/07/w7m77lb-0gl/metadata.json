@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω7Μ77ΛΒ-0ΓΛ",
+  "subject": "ΣΥΜΒΑΣΗ ΠΡΟΜΗΘΕΙΑΣ",
+  "protocol_number": "Δ.Υ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5001",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - ΘΡΑΚΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79965"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-07-21",
+  "posted": "2016-07-21",
+  "publish_timestamp_ms": 1469079164145,
+  "version_id": "dc3d1029-bafc-4ae4-8f81-b1057cf27b90",
+  "in_force": "2016-07-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%9C77%CE%9B%CE%92-0%CE%93%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%9C77%CE%9B%CE%92-0%CE%93%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A97%CE%9C77%CE%9B%CE%92-0%CE%93%CE%9B",
+  "listing_sha256": "75c60a13b89fd4d5a7b425e464ed9fa47712b6208098edabf0daf6e889e6ba80",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
