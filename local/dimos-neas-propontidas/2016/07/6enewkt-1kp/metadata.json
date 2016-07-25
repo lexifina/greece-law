@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΕΝΕΩΚΤ-1ΚΠ",
+  "subject": "άσκηση ανακοπής κατά διταγής πληρωμής του Ευστράτιου Βλαχάκη",
+  "protocol_number": "24079",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6210",
+    "label": "ΔΗΜΟΣ ΝΕΑΣ ΠΡΟΠΟΝΤΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81830"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "1571",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-07-25",
+  "posted": "2016-07-25",
+  "publish_timestamp_ms": 1469433263295,
+  "version_id": "ff3315c2-94c5-4a70-a2dd-3e53d0b5672d",
+  "in_force": "2016-07-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%9D%CE%95%CE%A9%CE%9A%CE%A4-1%CE%9A%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%9D%CE%95%CE%A9%CE%9A%CE%A4-1%CE%9A%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%95%CE%9D%CE%95%CE%A9%CE%9A%CE%A4-1%CE%9A%CE%A0",
+  "listing_sha256": "f0ff4a1a4ada7755fd3ab9703399662c62fa5100aa93cbf4b8dbe9fd4331aacd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
