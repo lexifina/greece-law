@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω3Μ1Ω1Λ-ΚΔΗ",
+  "subject": "Περί Έγκρισης διάθεσης πίστωσης",
+  "protocol_number": "3831",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6267",
+    "label": "ΔΗΜΟΣ ΣΑΜΟΘΡΑΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81766"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-07-28",
+  "posted": "2016-07-28",
+  "publish_timestamp_ms": 1469685167866,
+  "version_id": "7df85ee8-7a1d-4466-9a38-60ba45ead776",
+  "in_force": "2016-07-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%9C1%CE%A91%CE%9B-%CE%9A%CE%94%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%9C1%CE%A91%CE%9B-%CE%9A%CE%94%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A93%CE%9C1%CE%A91%CE%9B-%CE%9A%CE%94%CE%97",
+  "listing_sha256": "64bd869e9e8ba8a147b7b0066f6d32fc5fe31bd3833bfaf6d664652c3ec05dfe",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
