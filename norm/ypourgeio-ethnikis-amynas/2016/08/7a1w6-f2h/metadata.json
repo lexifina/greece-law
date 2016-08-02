@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Α1Ω6-Φ2Η",
+  "subject": "ΣΥΜΠΛΗΡΩΜΑΤΙΚΗ ΠΡΟΚΗΡΥΞΗ ΓΙΑ ΑΣΕΙ-ΑΣΣΥ 2016",
+  "protocol_number": "Φ.337.1/216/290640/Σ4154/1 Αυγ 16/ΓΕΕΘΑ/Β2",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "89237"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "94ΑΣ6-05Λ"
+      },
+      {
+        "relatedDecisionsADA": "7Ι9Η6-ΥΦΞ"
+      }
+    ]
+  },
+  "issued": "2016-08-01",
+  "posted": "2016-08-02",
+  "publish_timestamp_ms": 1470111545484,
+  "version_id": "2cd8e6cc-ce4a-4469-89da-c725bc26a0ac",
+  "in_force": "2016-08-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%911%CE%A96-%CE%A62%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%911%CE%A96-%CE%A62%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%911%CE%A96-%CE%A62%CE%97",
+  "listing_sha256": "6a4ee8aea8cc207ea816a79d7b86bc994845c986827cddab43bd73375da359cf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
