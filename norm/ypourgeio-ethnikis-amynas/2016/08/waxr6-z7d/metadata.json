@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΑΧΡ6-Ζ7Δ",
+  "subject": "Απόφαση Ματαίωσης και Επαναπροκήρυξης Διενέργειας Διαγωνισμού προς Σύναψη Συμφωνίας – Πλαισίου για την Προμήθεια Καύσιμου με Κωδικό ΝΑΤΟ F-76 για τις Ένοπλες Δυνάμεις (ΕΔ)",
+  "protocol_number": "Φ.800/231/135225/Σ.2327/2 Αυγ 16/ΓΔΟΣΥ/ΔΟΙ/Τμ.Προμ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70167"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΝΝΖ6-ΖΥ7"
+      },
+      {
+        "relatedDecisionsADA": "ΩΞΥΥ6-53Χ"
+      },
+      {
+        "relatedDecisionsADA": "ΨΡΞΕ6-ΥΜΒ"
+      }
+    ]
+  },
+  "issued": "2016-08-02",
+  "posted": "2016-08-03",
+  "publish_timestamp_ms": 1470202710596,
+  "version_id": "989e13ea-0360-4346-8088-b08ef252707d",
+  "in_force": "2016-08-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%91%CE%A7%CE%A16-%CE%967%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%91%CE%A7%CE%A16-%CE%967%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%91%CE%A7%CE%A16-%CE%967%CE%94",
+  "listing_sha256": "d70bc35477c46b2c350b9e3618576600697707e49128a393352366ba01d0a4dc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
