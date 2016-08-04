@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΓ6ΨΩΕΑ-3ΜΧ",
+  "subject": "Άδεια χρήσεως πεζοδρομίων, οδών, πλατειών , κλπ",
+  "protocol_number": "38549",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6147",
+    "label": "ΔΗΜΟΣ ΚΕΡΚΥΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79115"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "129",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-08-04",
+  "posted": "2016-08-04",
+  "publish_timestamp_ms": 1470309410320,
+  "version_id": "e8d3f7a0-097b-4f5e-852a-9c2b1626ae50",
+  "in_force": "2016-08-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%936%CE%A8%CE%A9%CE%95%CE%91-3%CE%9C%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%936%CE%A8%CE%A9%CE%95%CE%91-3%CE%9C%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%936%CE%A8%CE%A9%CE%95%CE%91-3%CE%9C%CE%A7",
+  "listing_sha256": "b9e9701d44e18237a8a421e89fe13ebf6a03686aa676299022aa3566b03438d1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
