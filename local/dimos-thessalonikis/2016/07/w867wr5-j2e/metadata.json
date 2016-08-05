@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω867ΩΡ5-Ξ2Ε",
+  "subject": "Εγκρίνει κατά πλειοψηφία τη συμπλήρωση της υπ' αρ. 77/2012 Απόφασης του Δημοτικού Συμβουλίου “καθορισμού τιμής ζώνης της Δ.Ε.Θ. ΑΕ” όπου δεν ισχύει το σύστημα αντικειμενικού προσδιορισμού, μετά την εφαρμογή της υπ' αριθμ. ΠΟΛ1009/16(ΦΕΚ48/Β΄/20-1-2016) νέας Πολυγραφημένης Υπουργικής Απόφασης του Υπουργού Οικονομικών.",
+  "protocol_number": "1067/2016 ΑΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91706"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΟΖΛΩΡ5-ΓΨΝ"
+      }
+    ]
+  },
+  "issued": "2016-07-28",
+  "posted": "2016-08-05",
+  "publish_timestamp_ms": 1470385248493,
+  "version_id": "3c6ee5fc-f686-4bb1-942d-b5064b40dd0f",
+  "in_force": "2016-08-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9867%CE%A9%CE%A15-%CE%9E2%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9867%CE%A9%CE%A15-%CE%9E2%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9867%CE%A9%CE%A15-%CE%9E2%CE%95",
+  "listing_sha256": "1f813a608506d510ee15b23467cdb78fa202c02f1abc7394863a430f0c5fa27a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
