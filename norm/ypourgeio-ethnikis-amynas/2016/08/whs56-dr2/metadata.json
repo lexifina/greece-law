@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΗΣ56-ΔΡ2",
+  "subject": "Υλοποίηση υπ'αριθμ. 17/2015 Σύμβασης μεταξύ του 251ΓΝΑ και της εταιρείας «ALPHA GLOBAL TRADING A.E.B.E»",
+  "protocol_number": "Φ.831/ΑΔ.2022/14030/Σ.3281/05-08-16/251ΓΝΑ/ΔΟΥ/ΤΜ,ΠΡΟΜ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "83478"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10003",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΣΘΤ6-8ΩΩ"
+      },
+      {
+        "relatedDecisionsADA": "ΩΙΧΟ6-ΨΔ2"
+      }
+    ]
+  },
+  "issued": "2016-08-05",
+  "posted": "2016-08-10",
+  "publish_timestamp_ms": 1470823340400,
+  "version_id": "580a6648-a9b9-45f4-b14e-834c80a968ed",
+  "in_force": "2016-08-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%A356-%CE%94%CE%A12",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%A356-%CE%94%CE%A12/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%97%CE%A356-%CE%94%CE%A12",
+  "listing_sha256": "480b01b0a11165eb480ae295fb42d79322910fa9fa6586baeb9f6ffa10deb616",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
