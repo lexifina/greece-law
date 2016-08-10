@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΝΙΣΩ1Λ-3ΒΚ",
+  "subject": "ΣΧΕΔΙΟ ΕΠΙΧΕΙΡΗΣΙΑΚΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ Α΄ΦΑΣΗ",
+  "protocol_number": "4110",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6267",
+    "label": "ΔΗΜΟΣ ΣΑΜΟΘΡΑΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81766"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "171/2016",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΨΜΞΩ1Λ-81Β"
+      }
+    ]
+  },
+  "issued": "2016-08-10",
+  "posted": "2016-08-10",
+  "publish_timestamp_ms": 1470837172318,
+  "version_id": "3f5166a8-a9ba-4684-9be3-4baa3c15c7d5",
+  "in_force": "2016-08-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%99%CE%A3%CE%A91%CE%9B-3%CE%92%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%99%CE%A3%CE%A91%CE%9B-3%CE%92%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9D%CE%99%CE%A3%CE%A91%CE%9B-3%CE%92%CE%9A",
+  "listing_sha256": "dfc1965df6eb0c830e32a7d2fe3fc993f6d34436dcc6b453e6dc06a1971f2aad",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
