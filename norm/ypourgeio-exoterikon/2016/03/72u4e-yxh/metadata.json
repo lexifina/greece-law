@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "72Θ4Ε-ΥΧΗ",
+  "subject": "ΥΠΟΥΡΓΙΚΗ ΑΠΟΦΑΣΗ ΣΧΕΤΙΚΑ ΜΕ ΤΗΝ ΑΠΟΦΑΣΗ 2271 (2016) ΤΟΥ ΣΥΜΒΟΥΛΙΟΥ ΑΣΦΑΛΕΙΑΣ Ο.Η.Ε. ΓΙΑ ΤΟ ΝΟΤΙΟ ΣΟΥΔΑΝ",
+  "protocol_number": "3401/ΑΣ 14901",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72603"
+  ],
+  "thematic_category_ids": [
+    "76"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "52",
+      "issue": "fektype_A",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-03-28",
+  "posted": "2016-08-12",
+  "publish_timestamp_ms": 1471008561230,
+  "version_id": "5333aeec-77e6-4eea-8d59-6137fba99849",
+  "in_force": "2016-08-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/72%CE%984%CE%95-%CE%A5%CE%A7%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/72%CE%984%CE%95-%CE%A5%CE%A7%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/72%CE%984%CE%95-%CE%A5%CE%A7%CE%97",
+  "listing_sha256": "2c0dac95b35bd0afcbf6e30468918c84e3987e295219e6038b2697ede88de777",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
