@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω6ΕΕΗ-2ΒΚ",
+  "subject": "ΠΑΡΑΤΑΣΗ ΚΑΙ ΑΝΑΣΤΟΛΗ ΚΑΤΑΒΟΛΗΣ ΒΕΒΑΙΩΜΕΝΩΝ ΟΦΕΙΛΩΝ, ΛΟΓΩ ΤΩΝ ΕΝΤΟΝΩΝ ΚΑΙΡΙΚΩΝ ΦΑΙΝΟΜΕΝΩΝ  ΠΟΥ ΕΚΔΗΛΩΘΗΚΑΝ ΣΤΙΣ 25 ΙΟΥΝΙΟΥ 2016 ΣΤΙΣ ΔΗΜΟΤΙΚΕΣ ΕΝΟΤΗΤΕΣ ΤΕΓΕΑΣ, ΚΟΡΥΘΙΟΥ ΚΑΙ ΤΡΙΠΟΛΗΣ ΤΟΥ ΔΗΜΟΥ ΤΡΙΠΟΛΗΣ ΚΑΙ ΣΤΟΥΣ ΟΙΚΙΣΜΟΥΣ ΜΗΛΙΑΣ ΤΩΝ Τ.Κ. ΝΕΣΤΑΝΗΣ, ΛΟΥΚΑ ΤΗΣ Δ.Ε. ΜΑΝΤΙΝΕΙΑΣ, ΠΗΓΑΔΑΚΙΩΝ ΤΗΣ Δ.Ε. ΣΚΙΡΙΤΙΔΑΣ, ΑΣΕΑΣ ΚΑΙ ΑΘΗΝΑΙΟΥ ΤΗΣ Δ.Ε. ΒΑΛΤΕΤΣΙΟΥ ΤΟΥ ΔΗΜΟΥ ΤΡΙΠΟΛΗΣ ΤΗΣ ΠΕΡΙΦΕΡΕΙΑΚΗΣ ΕΝΟΤΗΤΑΣ ΑΡΚΑΔΙΑΣ ΤΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΠΕΛΟΠΟΝΝΗΣΟΥ.",
+  "protocol_number": "ΠΟΛ 1120",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2479",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "ΠΟΛ 1120",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-08-04",
+  "posted": "2016-08-17",
+  "publish_timestamp_ms": 1471414492338,
+  "version_id": "0ada8782-dd6d-41f3-a288-7b168d5eae30",
+  "in_force": "2016-08-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%95%CE%95%CE%97-2%CE%92%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%95%CE%95%CE%97-2%CE%92%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A96%CE%95%CE%95%CE%97-2%CE%92%CE%9A",
+  "listing_sha256": "b9e9701d44e18237a8a421e89fe13ebf6a03686aa676299022aa3566b03438d1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
