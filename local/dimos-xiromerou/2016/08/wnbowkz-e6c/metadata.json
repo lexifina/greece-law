@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΒΟΩΚΖ-Ε6Ψ",
+  "subject": "ΑΠΟΦΑΣΗ 121/2016 ΔΣ ΠΕΡΙ 'ΑΠΟΔΟΧΗ ΠΙΣΤΩΣΗΣ ΠΟΣΟΥ 1.500.000€ ΑΠΟ ΤΟ ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΜΕΤΑΦΟΡΩΝ ΚΑΙ ΔΙΚΤΥΩΝ  -ΑΝΑΜΟΡΦΩΣΗ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ-   ΓΙΑ ΤΗΝ ΥΛΟΠΟΙΗΣΗ ΤΟΥ ΕΡΓΟΥ ‘ΑΝΤΙΚΑΤΑΣΤΑΣΗ ΑΓΩΓΟΥ ΥΔΡΕΥΣΗΣ ΣΕ ΜΗΚΟΣ 3,2 km ΓΙΑ ΤΗΝ ΠΡΟΣΤΑΣΙΑ ΤΗΣ ΟΔΟΥ ΣΥΝΔΕΣΗΣ ΤΗΣ ΙΟΝΙΑΣ ΟΔΟΥ ΜΕ ΑΣΤΑΚΟ ΣΤΟ ΤΜΗΜΑ «ΚΟΜΒΟΣ ΠΛΑΤΥΓΙΑΛΙΟΥ –Ι.Κ. ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ»’.'",
+  "protocol_number": "7507",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6221",
+    "label": "ΔΗΜΟΣ ΞΗΡΟΜΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88039"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΚ334653ΟΞ-ΣΛ5"
+      }
+    ]
+  },
+  "issued": "2016-08-23",
+  "posted": "2016-08-23",
+  "publish_timestamp_ms": 1471951983347,
+  "version_id": "96415806-fa47-4438-b579-dd5c36226f61",
+  "in_force": "2016-08-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%92%CE%9F%CE%A9%CE%9A%CE%96-%CE%956%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%92%CE%9F%CE%A9%CE%9A%CE%96-%CE%956%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%92%CE%9F%CE%A9%CE%9A%CE%96-%CE%956%CE%A8",
+  "listing_sha256": "2b83cfe8add186c0f44bc7d4cbe7f6c7b3c23102bf11bedcde63e84f82c4ff41",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
