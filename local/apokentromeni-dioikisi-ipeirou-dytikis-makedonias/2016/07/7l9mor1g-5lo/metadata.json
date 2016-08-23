@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Λ9ΜΟΡ1Γ-5ΛΟ",
+  "subject": "καθορισμός ωραρίου εργασίας",
+  "protocol_number": "110301",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76529"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2578",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Πράξη Γενικού Γραμματέα Αποκεντρωμένης Διοίκησης",
+    "kanonistikipraxiaa": "110301",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-07-28",
+  "posted": "2016-08-23",
+  "publish_timestamp_ms": 1471928477277,
+  "version_id": "a39128ff-4167-408c-95be-6d5dff9697d1",
+  "in_force": "2016-08-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9B9%CE%9C%CE%9F%CE%A11%CE%93-5%CE%9B%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9B9%CE%9C%CE%9F%CE%A11%CE%93-5%CE%9B%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9B9%CE%9C%CE%9F%CE%A11%CE%93-5%CE%9B%CE%9F",
+  "listing_sha256": "1f813a608506d510ee15b23467cdb78fa202c02f1abc7394863a430f0c5fa27a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
