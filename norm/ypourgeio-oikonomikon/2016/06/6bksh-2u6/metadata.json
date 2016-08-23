@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΒΚΣΗ-2Θ6",
+  "subject": "Καθορισμός ανώτατου ορίου επιτρεπόμενων κατ’ έτος ημερών μετακίνησης εκτός έδρας υπαλλήλων στο Υπουργείο Περιβάλλοντος και Ενέργειας",
+  "protocol_number": "2/26340/ΔΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2537",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100015996",
+        "unitId": [
+          "100007259"
+        ],
+        "signerIds": [
+          "100015483"
+        ]
+      },
+      {
+        "ministryId": "100016002",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100011935"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-06-09",
+  "posted": "2016-08-23",
+  "publish_timestamp_ms": 1471940029386,
+  "version_id": "2b89bb8f-df82-46db-a495-2c6c7d35ae50",
+  "in_force": "2016-08-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%92%CE%9A%CE%A3%CE%97-2%CE%986",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%92%CE%9A%CE%A3%CE%97-2%CE%986/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%92%CE%9A%CE%A3%CE%97-2%CE%986",
+  "listing_sha256": "f6280aa2e555a2743fab91936da01f67ee59ffbd47c89894b19891583503a7dd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
