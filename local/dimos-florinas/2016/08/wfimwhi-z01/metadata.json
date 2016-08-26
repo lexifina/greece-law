@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΙΜΩΗΙ-Ζ01",
+  "subject": "ΑΔΣ 326/2016 «Δωρεά αναμνηστικού πίνακα στο πλαίσιο επίσκεψης του Προέδρου της Δημοκρατίας».",
+  "protocol_number": "511",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82904"
+  ],
+  "thematic_category_ids": [
+    "08",
+    "16",
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "326/2016",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-08-26",
+  "posted": "2016-08-26",
+  "publish_timestamp_ms": 1472210441863,
+  "version_id": "632ace2a-6d42-4fdc-af02-aa4bf5b5e0a4",
+  "in_force": "2016-08-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%99%CE%9C%CE%A9%CE%97%CE%99-%CE%9601",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%99%CE%9C%CE%A9%CE%97%CE%99-%CE%9601/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%99%CE%9C%CE%A9%CE%97%CE%99-%CE%9601",
+  "listing_sha256": "35f477a0deb927da02e4be658e12a86bb60c7c1160550441a68370384da69e15",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
