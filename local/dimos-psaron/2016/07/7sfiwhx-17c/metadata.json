@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΣΦΙΩΗΧ-17Ψ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ Έγκριση 1ου ΑΠΕ και 1ου ΠΚΤΜΝΕ του έργου:\n «Επισκευή - συντήρηση σχολικών κτιρίων Δήμου Ψαρών»",
+  "protocol_number": "56",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6321",
+    "label": "ΔΗΜΟΣ ΨΑΡΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84192"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "56",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-07-26",
+  "posted": "2016-08-28",
+  "publish_timestamp_ms": 1472384119992,
+  "version_id": "e6d47313-f176-4679-948f-579026f74688",
+  "in_force": "2016-08-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A3%CE%A6%CE%99%CE%A9%CE%97%CE%A7-17%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A3%CE%A6%CE%99%CE%A9%CE%97%CE%A7-17%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A3%CE%A6%CE%99%CE%A9%CE%97%CE%A7-17%CE%A8",
+  "listing_sha256": "0f7dfcd6b2770622167bc0c6327342cfb61bf084d0bfc7724baaabffd66b15b8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
