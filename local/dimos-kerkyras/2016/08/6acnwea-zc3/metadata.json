@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΑΨΝΩΕΑ-ΖΨ3",
+  "subject": "ΤΕΛΟΣ ΧΡΗΣΗΣ ΚΟΙΝΟΧΡΗΣΤΟΥ ΧΩΡΟΥ",
+  "protocol_number": "24502",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6147",
+    "label": "ΔΗΜΟΣ ΚΕΡΚΥΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79115"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-08-19",
+  "posted": "2016-08-29",
+  "publish_timestamp_ms": 1472468712074,
+  "version_id": "fae9ceaf-b763-414c-afa1-ca82f63baf3f",
+  "in_force": "2016-08-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%91%CE%A8%CE%9D%CE%A9%CE%95%CE%91-%CE%96%CE%A83",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%91%CE%A8%CE%9D%CE%A9%CE%95%CE%91-%CE%96%CE%A83/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%91%CE%A8%CE%9D%CE%A9%CE%95%CE%91-%CE%96%CE%A83",
+  "listing_sha256": "9a311929d45af1ca30e74addfa39a4754d2256937031563e2fa80071863a8f94",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
