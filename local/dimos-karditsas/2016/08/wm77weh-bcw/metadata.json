@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜ77ΩΕΗ-ΒΨΩ",
+  "subject": "Διαγραφή και επιστροφή ποσών λόγω εκ παραδρομής χρέωσης (Πρ. Αναστασίου)",
+  "protocol_number": "14506",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6135",
+    "label": "ΔΗΜΟΣ ΚΑΡΔΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84284"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-08-30",
+  "posted": "2016-08-30",
+  "publish_timestamp_ms": 1472548171509,
+  "version_id": "ad541479-ec1c-4e3e-a36c-0a33989ef1cc",
+  "in_force": "2016-08-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C77%CE%A9%CE%95%CE%97-%CE%92%CE%A8%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C77%CE%A9%CE%95%CE%97-%CE%92%CE%A8%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C77%CE%A9%CE%95%CE%97-%CE%92%CE%A8%CE%A9",
+  "listing_sha256": "fad7556eace3386c3b7c6a2e400140c5d9bdad1044a44ed7b77bd22fad89bbe8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
