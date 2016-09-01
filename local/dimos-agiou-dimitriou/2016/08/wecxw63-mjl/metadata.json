@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΕΨΧΩ63-ΜΞΛ",
+  "subject": "Λήψη απόφασης για αποδοχή ποσού 118.222,40€ για επισκευή και συντήρηση σχολικών κτιρίων.",
+  "protocol_number": "383/2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6007",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78943"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-08-31",
+  "posted": "2016-09-01",
+  "publish_timestamp_ms": 1472724531507,
+  "version_id": "f3ff225e-503c-4454-b460-a867a23abc2d",
+  "in_force": "2016-09-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%95%CE%A8%CE%A7%CE%A963-%CE%9C%CE%9E%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%95%CE%A8%CE%A7%CE%A963-%CE%9C%CE%9E%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%95%CE%A8%CE%A7%CE%A963-%CE%9C%CE%9E%CE%9B",
+  "listing_sha256": "957a75c3c14fa5fc45c95cfbcb42b0f3d4c847e4567e11009f1eb826c72e87a2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
