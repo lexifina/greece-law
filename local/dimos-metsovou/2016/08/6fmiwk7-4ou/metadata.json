@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΦΜΙΩΚ7-4ΟΘ",
+  "subject": "Ανάκληση χρηματοδότησης από την Περιφέρεια Ηπείρου με αριθμ.  πρωτ. 96860/4394/15-9-2014, 132411/6528/28-12-2015 & 132415/6529/28-12-2015",
+  "protocol_number": "153",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6192",
+    "label": "ΔΗΜΟΣ ΜΕΤΣΟΒΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84018"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-08-17",
+  "posted": "2016-09-01",
+  "publish_timestamp_ms": 1472727219162,
+  "version_id": "c9f3419d-95a0-4af9-8250-e156973bd280",
+  "in_force": "2016-09-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A6%CE%9C%CE%99%CE%A9%CE%9A7-4%CE%9F%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A6%CE%9C%CE%99%CE%A9%CE%9A7-4%CE%9F%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A6%CE%9C%CE%99%CE%A9%CE%9A7-4%CE%9F%CE%98",
+  "listing_sha256": "4878cf72ef56303cea4729083a353e61bb146a9816f3dd6c7951e451c9c970a5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
