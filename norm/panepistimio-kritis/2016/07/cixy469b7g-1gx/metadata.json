@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΙΧΥ469Β7Γ-1ΓΧ",
+  "subject": "Εκλογή προέδρου στο Τμήμα Βιολογίας της Σχολής Θετικών και Τεχνολογικών Επιστημών του Πανεπιστημίου Κρήτης",
+  "protocol_number": "10066",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206917",
+    "label": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΚΡΗΤΗΣ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "88761"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "459",
+      "issue": "fektype_YODD",
+      "issueyear": 2016
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-07-22",
+  "posted": "2016-09-02",
+  "publish_timestamp_ms": 1472817192521,
+  "version_id": "460a631a-0fe0-463e-8c03-0b024015a0ac",
+  "in_force": "2016-09-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%99%CE%A7%CE%A5469%CE%927%CE%93-1%CE%93%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%99%CE%A7%CE%A5469%CE%927%CE%93-1%CE%93%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%99%CE%A7%CE%A5469%CE%927%CE%93-1%CE%93%CE%A7",
+  "listing_sha256": "0af98e4cf2212e943f670f2c6c29b711a90f1a8a7d5320d82ffc3a9550ee2c3c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
