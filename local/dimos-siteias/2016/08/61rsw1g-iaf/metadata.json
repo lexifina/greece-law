@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "61ΡΣΩ1Γ-ΙΑΦ",
+  "subject": "Επιστροφή ποσού ως αχρεωστήτως εισπραχθέντος από παράβολο πολιτικού γάμου.",
+  "protocol_number": "200/016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6273",
+    "label": "ΔΗΜΟΣ ΣΗΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80115"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-08-31",
+  "posted": "2016-09-05",
+  "publish_timestamp_ms": 1473061386121,
+  "version_id": "7ad50076-1386-4334-bd54-7cb3e8a5107d",
+  "in_force": "2016-09-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/61%CE%A1%CE%A3%CE%A91%CE%93-%CE%99%CE%91%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/61%CE%A1%CE%A3%CE%A91%CE%93-%CE%99%CE%91%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/61%CE%A1%CE%A3%CE%A91%CE%93-%CE%99%CE%91%CE%A6",
+  "listing_sha256": "1b673ce3f9505a6ccc0bed811ea1bd11d90389386869e73ba5f9db91d51b963a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
