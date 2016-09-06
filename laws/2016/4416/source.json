@@ -1,0 +1,39 @@
+{
+  "year": 2016,
+  "number": 4416,
+  "url": "https://api.et.gr/apiLAW/1/2016/4416/pdf",
+  "source_sha256": "4788882e4d66beada333cb7511477cb98904de60d955d411cb4197a69d651fd0",
+  "published": "2016-09-06",
+  "in_force": "2016-09-06",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις.",
+  "in_force_general_day": true,
+  "pages": 16,
+  "images": [
+    {
+      "page": 14,
+      "sha256": "cfc5df8068c1f63432bc92af9e47b12526117870f7195d089cb1945026646482",
+      "ext": "png",
+      "bytes": 228396,
+      "bbox": [
+        96.2,
+        110.7,
+        510.0,
+        744.6
+      ]
+    },
+    {
+      "page": 15,
+      "sha256": "fa045274f181403382932ebf47a3daa1f31b6c50cd61b9653dd0c4079c90c35c",
+      "ext": "png",
+      "bytes": 146383,
+      "bbox": [
+        88.3,
+        112.5,
+        514.1,
+        741.3
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
