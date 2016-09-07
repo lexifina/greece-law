@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Γ88Ω16-ΒΡ3",
+  "subject": "ΑΠΟΦΑΣΗ Δ.Σ ΥΠ. ΑΡΙΘΜΟΝ 200/2016 (Περί εκδίκασης ενστάσεων κατά των σχετικών αποφάσεων του Δ.Σ. που αφορούν την τροποποίηση του σχεδίου πόλεως στο Ο.Τ 192 στη ΔΙΩΝΗ της δημοτικής ενότητας Πικερμίου για καθορισμό όρων δόμησης για ανέγερση Ι.Ναού μετά την παροχή της σχετικής γνωμοδότησης από την Επιτροπή Ποιότητας Ζωής )",
+  "protocol_number": "200",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6262",
+    "label": "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100007442"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "04",
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "200/2016",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-09-01",
+  "posted": "2016-09-07",
+  "publish_timestamp_ms": 1473234981875,
+  "version_id": "762f8717-d8f8-4883-91aa-26bd83deb947",
+  "in_force": "2016-09-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9388%CE%A916-%CE%92%CE%A13",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9388%CE%A916-%CE%92%CE%A13/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9388%CE%A916-%CE%92%CE%A13",
+  "listing_sha256": "0c85f96d4b619a6c3c8ad792fb06e8f3412e6ec98193a8d1c9835895d69ee97b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
