@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "64ΠΩΩΕ4-ΓΣΩ",
+  "subject": "ορισμός πληρεξουσίου δικηγόρου",
+  "protocol_number": "101.2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6122",
+    "label": "ΔΗΜΟΣ ΙΚΑΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84599"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-09-08",
+  "posted": "2016-09-08",
+  "publish_timestamp_ms": 1473319738736,
+  "version_id": "63fc1849-1e56-4927-89e1-2b0f00dc3c0a",
+  "in_force": "2016-09-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/64%CE%A0%CE%A9%CE%A9%CE%954-%CE%93%CE%A3%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/64%CE%A0%CE%A9%CE%A9%CE%954-%CE%93%CE%A3%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/64%CE%A0%CE%A9%CE%A9%CE%954-%CE%93%CE%A3%CE%A9",
+  "listing_sha256": "dd85924482c5c6d5d143898cc95d903d6c5e7bf50386b36092fc16c7261b177d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
