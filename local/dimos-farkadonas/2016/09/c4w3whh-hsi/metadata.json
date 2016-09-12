@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ4Ω3ΩΗΗ-ΗΣΙ",
+  "subject": "Αριθμ. 213/2016 απόφαση Δημάρχου",
+  "protocol_number": "7112",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6305",
+    "label": "ΔΗΜΟΣ ΦΑΡΚΑΔΟΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85616"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-09-12",
+  "posted": "2016-09-12",
+  "publish_timestamp_ms": 1473680290668,
+  "version_id": "971d07c4-8df3-4c01-ada4-e673df006e22",
+  "in_force": "2016-09-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%A93%CE%A9%CE%97%CE%97-%CE%97%CE%A3%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%A93%CE%A9%CE%97%CE%97-%CE%97%CE%A3%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A84%CE%A93%CE%A9%CE%97%CE%97-%CE%97%CE%A3%CE%99",
+  "listing_sha256": "8f41cb23da4f1e1705aec87f1dac64794c09027712d3a583336c6bd12b34fc19",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
