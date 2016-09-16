@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΙΜ0ΩΗΕ-Π2Λ",
+  "subject": "Διαγραφές τελών Δήμου Τριφυλίας",
+  "protocol_number": "ΑΠΟΦΑΣΗ 236-2016 ΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6300",
+    "label": "ΔΗΜΟΣ ΤΡΙΦΥΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84901"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "236-2016",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-08-04",
+  "posted": "2016-09-16",
+  "publish_timestamp_ms": 1474012295465,
+  "version_id": "fdb730d8-9f82-4cec-9942-3d29aa38e04b",
+  "in_force": "2016-09-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%9C0%CE%A9%CE%97%CE%95-%CE%A02%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%9C0%CE%A9%CE%97%CE%95-%CE%A02%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%99%CE%9C0%CE%A9%CE%97%CE%95-%CE%A02%CE%9B",
+  "listing_sha256": "b9e9701d44e18237a8a421e89fe13ebf6a03686aa676299022aa3566b03438d1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
