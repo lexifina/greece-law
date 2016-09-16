@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΚΠ6Η-ΖΝΥ",
+  "subject": "ΑΧΡΕΩΣΤΗΤΩΣ ΚΑΤΑΒΛΗΘΕΝΤΑ 1.193,16€",
+  "protocol_number": "35Γ05",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "73871"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "kanonistikipraxiaa": "35Γ05",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΒΕΙΗ-ΨΚΥ"
+      }
+    ]
+  },
+  "issued": "2016-09-12",
+  "posted": "2016-09-16",
+  "publish_timestamp_ms": 1474012255822,
+  "version_id": "06e5c621-3d74-4e38-b43c-ce39e30994e1",
+  "in_force": "2016-09-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%A06%CE%97-%CE%96%CE%9D%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%A06%CE%97-%CE%96%CE%9D%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9A%CE%A06%CE%97-%CE%96%CE%9D%CE%A5",
+  "listing_sha256": "8f41cb23da4f1e1705aec87f1dac64794c09027712d3a583336c6bd12b34fc19",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
