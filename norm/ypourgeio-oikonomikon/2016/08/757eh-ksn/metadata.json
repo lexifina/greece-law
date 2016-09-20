@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "757ΕΗ-ΚΣΝ",
+  "subject": "Ρυθμίσεις για τις μετακινήσεις στο πλαίσιο ενεργειών Τεχνικής Βοήθειας του ΕΣΠΑ, συμπεριλαμβανομένων των ΠΑΑ και ΕΠΑλΘ, του ΕΟΧ και του Μηχανισμού Διευκόλυνση Συνδέοντας την Ευρώπη",
+  "protocol_number": "2/68332/ΔΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2943",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100016002",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100011935"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-08-22",
+  "posted": "2016-09-20",
+  "publish_timestamp_ms": 1474363276321,
+  "version_id": "a3c7c4fa-3498-44a3-aeb1-0c0acd88deba",
+  "in_force": "2016-09-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/757%CE%95%CE%97-%CE%9A%CE%A3%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/757%CE%95%CE%97-%CE%9A%CE%A3%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/757%CE%95%CE%97-%CE%9A%CE%A3%CE%9D",
+  "listing_sha256": "e66581dee44f2fc72ecdab73f1d4b4b8525eb6bc7537dad681b413d2f7d091f8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
