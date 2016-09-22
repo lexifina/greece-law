@@ -1,0 +1,57 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟ6Ο4653ΠΓ-ΚΔΝ",
+  "subject": "ΑΠΟΣΠΑΣΗ ΤΗΣ ΥΠΑΛΛΗΛΟΥ ΑΝΘΗΣ ΚΑΚΙΟΥ ΤΟΥ ΓΕΩΡΓΙΟΥ, ΤΟΥ ΚΛΑΔΟΥ ΠΕ ΓΕΩΤΕΧΝΙΚΩΝ, ΑΠΟ ΤΗ ΔΙΕΥΘΥΝΣΗ ΑΓΡΟΤΙΚΗΣ ΟΙΚΟΝΟΜΙΑΣ ΚΑΙ ΚΤΗΝΙΑΤΡΙΚΗΣ ΤΗΣ ΠΕΡΙΦΕΡΕΙΑΚΗΣ ΕΝΟΤΗΤΑΣ ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ ΤΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΑΤΤΙΚΗΣ, ΣΤΟΝ ΕΝΙΑΙΟ ΦΟΡΕΑ ΕΛΕΓΧΟΥ ΤΡΟΦΙΜΩΝ (Ε.Φ.Ε.Τ.)-Ν.Π.Δ.Δ ΕΠΟΠΤΕΙΑΣ ΤΟΥ ΥΠΟΥΡΓΕΙΟΥ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ.",
+  "protocol_number": "8501/104645",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100002593"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100010874",
+        "unitId": [
+          "100011721"
+        ],
+        "signerIds": [
+          "100014075"
+        ]
+      },
+      {
+        "ministryId": "100010874",
+        "unitId": [
+          "90776"
+        ],
+        "signerIds": [
+          "100016289"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-09-22",
+  "posted": "2016-09-22",
+  "publish_timestamp_ms": 1474536775693,
+  "version_id": "2b48b042-9759-45e2-b63e-f300b74bb3cb",
+  "in_force": "2016-09-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F6%CE%9F4653%CE%A0%CE%93-%CE%9A%CE%94%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F6%CE%9F4653%CE%A0%CE%93-%CE%9A%CE%94%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F6%CE%9F4653%CE%A0%CE%93-%CE%9A%CE%94%CE%9D",
+  "listing_sha256": "e3c71da2bb4526acea3bbff1b2663de7a2afc0c3d21b55d5fb0e6643e066668a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
