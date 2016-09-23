@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΨΚΤΟΡ1Ι-Τ3Φ",
+  "subject": "ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ ΠΡ.ΧΑΡ/ΣΜΟΥ ΑΡ.66220/30-9-2015 ΩΣ ΠΡΟΣ ΤΟ ΟΝΟΜΑ ΣΤΗ ΘΕΣΗ ΜΟΤΡΕΡΑ ΥΔΡΟΥΣΑ ΣΑΜΟΥ",
+  "protocol_number": "66220",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76961"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΕΠ3ΟΡ1Ι-692"
+      }
+    ]
+  },
+  "issued": "2016-09-23",
+  "posted": "2016-09-23",
+  "publish_timestamp_ms": 1474626573969,
+  "version_id": "3a28eed5-1e5d-400c-bc3f-51b5e5b334b0",
+  "in_force": "2016-09-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A8%CE%9A%CE%A4%CE%9F%CE%A11%CE%99-%CE%A43%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A8%CE%9A%CE%A4%CE%9F%CE%A11%CE%99-%CE%A43%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A8%CE%9A%CE%A4%CE%9F%CE%A11%CE%99-%CE%A43%CE%A6",
+  "listing_sha256": "3a74eedd648e658b5fb185046efc2f750994a52162cef374e94a0f6bd774eefd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
