@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΡΞΩΩΚΨ-6Η9",
+  "subject": "Έγκριση πληρωμής διαφόρων δαπανών",
+  "protocol_number": "14186",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6195",
+    "label": "ΔΗΜΟΣ AΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82087"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-09-23",
+  "posted": "2016-09-23",
+  "publish_timestamp_ms": 1474631238026,
+  "version_id": "4b825c66-da70-49ad-bf2c-990a109fb99b",
+  "in_force": "2016-09-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A1%CE%9E%CE%A9%CE%A9%CE%9A%CE%A8-6%CE%979",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A1%CE%9E%CE%A9%CE%A9%CE%9A%CE%A8-6%CE%979/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A1%CE%9E%CE%A9%CE%A9%CE%9A%CE%A8-6%CE%979",
+  "listing_sha256": "6389be342eebc9b38ca2bc7fdbf0276a0e59e93029ec684c8c1a0b60edaaae07",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
