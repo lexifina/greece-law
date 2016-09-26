@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΚ8ΟΩΚΜ-3ΟΟ",
+  "subject": "ΕΝΤΟΛΗ ΠΛΗΡΩΜΗΣ",
+  "protocol_number": "3074",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6217",
+    "label": "ΔΗΜΟΣ ΝΙΣΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82452"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-09-26",
+  "posted": "2016-09-26",
+  "publish_timestamp_ms": 1474884852341,
+  "version_id": "a20f8290-ca95-4e85-9d74-d3acbba6ee8f",
+  "in_force": "2016-09-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A8%CE%9F%CE%A9%CE%9A%CE%9C-3%CE%9F%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A8%CE%9F%CE%A9%CE%9A%CE%9C-3%CE%9F%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9A8%CE%9F%CE%A9%CE%9A%CE%9C-3%CE%9F%CE%9F",
+  "listing_sha256": "aa6a74364d25a37cb920d7cff9768334b2c8c5a9754605f1a4305de2125767ec",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
