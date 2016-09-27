@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΚΑ0Ω0Ο-ΑΡΦ",
+  "subject": "Έγκριση του 4ου Α.Π.Ε. του έργου «Διαμόρφωση τμημάτων των οδών Μπαντουβά και Ιερωνυμάκη» και έγκριση παράτασης της συνολικής προθεσμίας εκτέλεσης του έργου.",
+  "protocol_number": "647/2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81430"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "44",
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Β4ΩΡΩ0Ο-ΑΩΩ"
+      }
+    ]
+  },
+  "issued": "2016-08-29",
+  "posted": "2016-09-27",
+  "publish_timestamp_ms": 1474958996790,
+  "version_id": "cdbd73ea-8b65-4c2f-9f7f-cc6d488913a3",
+  "in_force": "2016-09-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%910%CE%A90%CE%9F-%CE%91%CE%A1%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%910%CE%A90%CE%9F-%CE%91%CE%A1%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9A%CE%910%CE%A90%CE%9F-%CE%91%CE%A1%CE%A6",
+  "listing_sha256": "ad059ae7c4030d8260ec46cc022ebe3a848cf86ce2900e1cce46200436ea3a2d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
