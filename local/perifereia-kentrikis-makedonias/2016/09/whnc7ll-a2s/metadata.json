@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΗΝΨ7ΛΛ-Α2Σ",
+  "subject": "ΣΥΓΚΡΟΤΗΣΗ ΣΥΝΕΡΓΕΙΟΥ ΥΠΕΡΩΡΙΑΚΗΣ ΑΠΟΓΕΥΜΑΤΙΝΗΣ ΑΠΑΣΧΟΛΗΣΗΣ",
+  "protocol_number": "396143/4546",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5009",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80409"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3020",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "396143/454",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7Σ6Π7ΛΛ-6Λ3"
+      }
+    ]
+  },
+  "issued": "2016-09-28",
+  "posted": "2016-09-28",
+  "publish_timestamp_ms": 1475039822669,
+  "version_id": "d3724f08-7d5b-4409-a9f8-594749746d48",
+  "in_force": "2016-09-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%9D%CE%A87%CE%9B%CE%9B-%CE%912%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%9D%CE%A87%CE%9B%CE%9B-%CE%912%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%97%CE%9D%CE%A87%CE%9B%CE%9B-%CE%912%CE%A3",
+  "listing_sha256": "d425f2ef35f9c9b0e1eee095f0f7cf4564c91f76f2124bc0f327fa35217d4a44",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
