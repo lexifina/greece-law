@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "73ΩΑΩΕΒ-ΧΩ5",
+  "subject": "ΠΡΟΒΛΕΨΗ ΥΠΕΡΩΡΙΩΝ ΟΚΤ.",
+  "protocol_number": "41702",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6123",
+    "label": "ΔΗΜΟΣ ΙΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78722"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-09-28",
+  "posted": "2016-09-29",
+  "publish_timestamp_ms": 1475130611391,
+  "version_id": "03a0f550-562e-43fc-9888-0a5dad03ad29",
+  "in_force": "2016-09-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/73%CE%A9%CE%91%CE%A9%CE%95%CE%92-%CE%A7%CE%A95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/73%CE%A9%CE%91%CE%A9%CE%95%CE%92-%CE%A7%CE%A95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/73%CE%A9%CE%91%CE%A9%CE%95%CE%92-%CE%A7%CE%A95",
+  "listing_sha256": "5293fb898bfb37afaee7b4d4f9b7039b0d14f442047463104cec250ddadad5a6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
