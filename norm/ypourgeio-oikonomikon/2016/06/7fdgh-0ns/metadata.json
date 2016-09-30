@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΦΔΓΗ-0ΝΣ",
+  "subject": "Μετατροπή του ασφαλιστικού – στατιστικού ισοδυνάμου της παρ. 1 του άρθρου 18 του ν.3865/2010 σε συντάξιμα έτη – αναθεώρηση πινάκων του άρθρου 14 του ν. 2592/1998",
+  "protocol_number": "4144/0092",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2972",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100012977",
+        "unitId": [
+          "100020574"
+        ],
+        "signerIds": [
+          "100014072"
+        ]
+      },
+      {
+        "ministryId": "100015969",
+        "unitId": [
+          "90678"
+        ],
+        "signerIds": [
+          "100015165"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-06-28",
+  "posted": "2016-09-30",
+  "publish_timestamp_ms": 1475228763964,
+  "version_id": "8a3bac76-814d-470a-8f2a-8244e09af219",
+  "in_force": "2016-09-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A6%CE%94%CE%93%CE%97-0%CE%9D%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A6%CE%94%CE%93%CE%97-0%CE%9D%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A6%CE%94%CE%93%CE%97-0%CE%9D%CE%A3",
+  "listing_sha256": "f27189e4c6dbed8de3977baff1ce839fe1cd81e00475c11d1201c54749debb2b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
