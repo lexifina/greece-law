@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΡ5ΩΛΩ-ΣΩΚ",
+  "subject": "Λήψη απόφασης για την έγκριση της αριθμ.: 108/2016 απόφασης της Ε.Π.Ζ. που αφορά στην έγκριση μελέτης κυκλοφοριακών ρυθμίσεων και σήμανσης στην συμβολή των οδών Μακεδονίας και Πελοποννήσου.",
+  "protocol_number": "24373",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6159",
+    "label": "ΔΗΜΟΣ ΚΟΡΥΔΑΛΛΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78220"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "87",
+      "issue": "fektype_A",
+      "issueyear": 2010
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-09-30",
+  "posted": "2016-09-30",
+  "publish_timestamp_ms": 1475223370990,
+  "version_id": "e91a2337-f525-44ce-a0d4-c2f9520822ef",
+  "in_force": "2016-09-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%A15%CE%A9%CE%9B%CE%A9-%CE%A3%CE%A9%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%A15%CE%A9%CE%9B%CE%A9-%CE%A3%CE%A9%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%A15%CE%A9%CE%9B%CE%A9-%CE%A3%CE%A9%CE%9A",
+  "listing_sha256": "d5f09705db65943a1b584a2447c9d901c6c200009f905d2a8baec4632580fe5e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
