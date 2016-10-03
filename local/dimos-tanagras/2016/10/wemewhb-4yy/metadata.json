@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΕΜΕΩΗΒ-4ΥΥ",
+  "subject": "Υπ'αριθμ. 358/2016 Απόφαση Δημάρχου Τανάγρας",
+  "protocol_number": "14162",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6293",
+    "label": "ΔΗΜΟΣ ΤΑΝΑΓΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "92581"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΦΠΟΩΗΒ-ΜΡΒ"
+      }
+    ]
+  },
+  "issued": "2016-10-03",
+  "posted": "2016-10-03",
+  "publish_timestamp_ms": 1475493848457,
+  "version_id": "62aa1138-978e-4db2-85f0-c677407a5f92",
+  "in_force": "2016-10-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%95%CE%9C%CE%95%CE%A9%CE%97%CE%92-4%CE%A5%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%95%CE%9C%CE%95%CE%A9%CE%97%CE%92-4%CE%A5%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%95%CE%9C%CE%95%CE%A9%CE%97%CE%92-4%CE%A5%CE%A5",
+  "listing_sha256": "760750f73ce1552b362e389d9c1bd557d6331ffec372a7cf11c4db9fcbdf734f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
