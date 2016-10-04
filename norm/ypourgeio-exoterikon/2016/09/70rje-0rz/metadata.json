@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "70ΡΞΕ-0ΡΖ",
+  "subject": "ΑΝΑΚΛΗΣΗ ΠΟΣΟΥ 17,14 ΕΥΡΩ ΠΡΣ ΚΙΕΒΟΥ",
+  "protocol_number": "120.8245",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70150"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "9872",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-09-30",
+  "posted": "2016-10-04",
+  "publish_timestamp_ms": 1475568189115,
+  "version_id": "0d45abf2-2ce6-4922-bb93-36363ad51da8",
+  "in_force": "2016-10-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/70%CE%A1%CE%9E%CE%95-0%CE%A1%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/70%CE%A1%CE%9E%CE%95-0%CE%A1%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/70%CE%A1%CE%9E%CE%95-0%CE%A1%CE%96",
+  "listing_sha256": "4bd3a82b55a2fe470e4d839842a3edd9618e5817d0f0f922dbffb3d6a6e7e729",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
