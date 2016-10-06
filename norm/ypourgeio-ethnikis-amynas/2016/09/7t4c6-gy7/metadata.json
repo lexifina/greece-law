@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Τ4Ψ6-ΓΥ7",
+  "subject": "Χρηματικά Εντάλματα Προπληρωμής",
+  "protocol_number": "223292",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78138"
+  ],
+  "thematic_category_ids": [
+    "66"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-09-29",
+  "posted": "2016-10-06",
+  "publish_timestamp_ms": 1475735299600,
+  "version_id": "374a5c2f-1615-49ee-a3e5-12ece256e822",
+  "in_force": "2016-10-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A44%CE%A86-%CE%93%CE%A57",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A44%CE%A86-%CE%93%CE%A57/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A44%CE%A86-%CE%93%CE%A57",
+  "listing_sha256": "6f9d7bdfb5029c7be6989388091a60cabfc0f15b1df9d79329e006c3e84a2c2f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
