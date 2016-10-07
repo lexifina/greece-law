@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΔ6ΔΩΕΟ-Β5Ξ",
+  "subject": "Αίτημα κατοίκων περιοχής Γυφτοχωρίου - Βαθέως Ιθάκης.)",
+  "protocol_number": "162",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6121",
+    "label": "ΔΗΜΟΣ ΙΘΑΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003296"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-09-30",
+  "posted": "2016-10-07",
+  "publish_timestamp_ms": 1475841087980,
+  "version_id": "f73c9942-f7a5-4ca1-a108-3abf524c92a1",
+  "in_force": "2016-10-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%946%CE%94%CE%A9%CE%95%CE%9F-%CE%925%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%946%CE%94%CE%A9%CE%95%CE%9F-%CE%925%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%946%CE%94%CE%A9%CE%95%CE%9F-%CE%925%CE%9E",
+  "listing_sha256": "4bd3a82b55a2fe470e4d839842a3edd9618e5817d0f0f922dbffb3d6a6e7e729",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
