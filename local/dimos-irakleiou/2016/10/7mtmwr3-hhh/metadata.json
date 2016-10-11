@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΜΤΜΩΡ3-ΗΗΗ",
+  "subject": "Γνωμοδότηση σχετικά  με την κοπή δέντρων σε διάφορα σημεία του Δήμου.",
+  "protocol_number": "17305",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003098"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "231",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-10-11",
+  "posted": "2016-10-11",
+  "publish_timestamp_ms": 1476167995024,
+  "version_id": "ba754290-a115-4fc5-985a-0a30794475eb",
+  "in_force": "2016-10-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%A4%CE%9C%CE%A9%CE%A13-%CE%97%CE%97%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%A4%CE%9C%CE%A9%CE%A13-%CE%97%CE%97%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9C%CE%A4%CE%9C%CE%A9%CE%A13-%CE%97%CE%97%CE%97",
+  "listing_sha256": "dff48c7b87e47ac4d3b720129385d49e1fd248b1fdc7ed58e61119fc61cc3126",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
