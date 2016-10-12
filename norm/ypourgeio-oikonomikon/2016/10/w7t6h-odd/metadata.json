@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω7Τ6Η-ΟΔΔ",
+  "subject": "«Έκδοση Εντόκων Γραμματίων του Ελληνικού Δημοσίου διάρκειας 26 εβδομάδων στις 7/10/2016 μέσω δημόσιας εγγραφής».",
+  "protocol_number": "1437",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3250",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1437",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-10-06",
+  "posted": "2016-10-12",
+  "publish_timestamp_ms": 1476276530259,
+  "version_id": "00b7bda7-671c-4508-8384-05b3e002cfc5",
+  "in_force": "2016-10-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%A46%CE%97-%CE%9F%CE%94%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%A46%CE%97-%CE%9F%CE%94%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A97%CE%A46%CE%97-%CE%9F%CE%94%CE%94",
+  "listing_sha256": "e27df1242f931d961dde0cc40ce0617ac9df8cc4281f44c8bd35d4d50c193a2c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
