@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ο4ΗΩΗΙ-ΙΛΓ",
+  "subject": "Διάθεση ψήφιση πιστώσεων",
+  "protocol_number": "2007",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87159"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "ΑΠ ΔΣ93/16",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-10-13",
+  "posted": "2016-10-13",
+  "publish_timestamp_ms": 1476357078511,
+  "version_id": "301e7224-baf4-419f-b2bc-9a20686d5659",
+  "in_force": "2016-10-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F4%CE%97%CE%A9%CE%97%CE%99-%CE%99%CE%9B%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F4%CE%97%CE%A9%CE%97%CE%99-%CE%99%CE%9B%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9F4%CE%97%CE%A9%CE%97%CE%99-%CE%99%CE%9B%CE%93",
+  "listing_sha256": "19930d7d4970e8a1b2cb329c2734e88e15ca703649d8a523f8d84f954100fb7e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
