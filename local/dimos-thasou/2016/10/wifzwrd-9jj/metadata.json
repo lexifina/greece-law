@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΦΖΩΡΔ-9ΞΞ",
+  "subject": "Περί συμμετοχής στη διοργάνωση  διημερίδας του Κέντρου Υγείας Πρίνου Θάσου με τίτλο «Πρωτοβάθμια Φροντίδα Υγείας» που θα πραγματοποιηθεί εις μνήμην του  Δ. Έλληνα.",
+  "protocol_number": "13190",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6110",
+    "label": "ΔΗΜΟΣ ΘΑΣΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81526"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΒΔΒΩΡΔ-ΖΗΤ"
+      }
+    ]
+  },
+  "issued": "2016-10-18",
+  "posted": "2016-10-18",
+  "publish_timestamp_ms": 1476778341865,
+  "version_id": "ec84ab5a-57ba-44cb-8442-cfc6ddd3683c",
+  "in_force": "2016-10-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%A6%CE%96%CE%A9%CE%A1%CE%94-9%CE%9E%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%A6%CE%96%CE%A9%CE%A1%CE%94-9%CE%9E%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%A6%CE%96%CE%A9%CE%A1%CE%94-9%CE%9E%CE%9E",
+  "listing_sha256": "0ba7ec444f52e7281a934f36f0e9647d789b5da117fdf83aa329c46b1193f3e4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
