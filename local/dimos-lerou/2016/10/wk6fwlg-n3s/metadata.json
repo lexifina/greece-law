@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΚ6ΦΩΛΓ-Ν3Σ",
+  "subject": "Διάθεση πιστώσεων προϋπολογισμού Δήμου οικονομικού έτους 2016",
+  "protocol_number": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ Νο 124/2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6171",
+    "label": "ΔΗΜΟΣ ΛΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82886"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-10-17",
+  "posted": "2016-10-18",
+  "publish_timestamp_ms": 1476781790156,
+  "version_id": "beafdd69-3a2a-42b1-819f-8dd66b4b0873",
+  "in_force": "2016-10-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A6%CE%A6%CE%A9%CE%9B%CE%93-%CE%9D3%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A6%CE%A6%CE%A9%CE%9B%CE%93-%CE%9D3%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9A6%CE%A6%CE%A9%CE%9B%CE%93-%CE%9D3%CE%A3",
+  "listing_sha256": "4920884d2ddd7c3513d71784fe3c59e6c8f6f0a3c724fc7a75566d971cd8adb3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
