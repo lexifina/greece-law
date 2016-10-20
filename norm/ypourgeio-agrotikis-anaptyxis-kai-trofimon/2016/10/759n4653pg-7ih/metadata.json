@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "759Ν4653ΠΓ-7ΙΗ",
+  "subject": "«Τροποποίηση της υπ΄αριθμ. 2785/95207/30-8-2016 απόφασης»",
+  "protocol_number": "3554/116900",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100002602"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω6ΩΒ4653ΠΓ-ΜΒΖ"
+      }
+    ]
+  },
+  "issued": "2016-10-20",
+  "posted": "2016-10-20",
+  "publish_timestamp_ms": 1476957800904,
+  "version_id": "33d8dc24-1c9e-45ca-beac-dd03e17e81e2",
+  "in_force": "2016-10-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/759%CE%9D4653%CE%A0%CE%93-7%CE%99%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/759%CE%9D4653%CE%A0%CE%93-7%CE%99%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/759%CE%9D4653%CE%A0%CE%93-7%CE%99%CE%97",
+  "listing_sha256": "3ab8b60f78c7c3878ccc178e7cf0176d9fd762731fd97096a12cf281b365f61b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
