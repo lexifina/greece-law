@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω0ΚΓΩ9Μ-ΣΡΔ",
+  "subject": "Προέγκριση ίδρυσης καταστημάτων υγειονομικού ενδιαφέροντος",
+  "protocol_number": "31346/16-08-2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88104"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "53/2016",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΓΛΚΩ9Μ-0ΥΨ"
+      }
+    ]
+  },
+  "issued": "2016-09-02",
+  "posted": "2016-10-21",
+  "publish_timestamp_ms": 1477053553887,
+  "version_id": "e5f0c350-016c-404a-9218-152a01cb8760",
+  "in_force": "2016-10-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%9A%CE%93%CE%A99%CE%9C-%CE%A3%CE%A1%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%9A%CE%93%CE%A99%CE%9C-%CE%A3%CE%A1%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A90%CE%9A%CE%93%CE%A99%CE%9C-%CE%A3%CE%A1%CE%94",
+  "listing_sha256": "ee6444505d0f84f7b9700381add3bcaac39a33d6ba351c605b44a1d5850f2179",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
