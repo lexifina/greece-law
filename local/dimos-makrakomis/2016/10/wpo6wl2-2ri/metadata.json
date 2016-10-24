@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΠΟ6ΩΛ2-2ΡΙ",
+  "subject": "Διαγραφή νηπίου από τον παιδικό σταθμό Σπερχειάδας.",
+  "protocol_number": "239/2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6179",
+    "label": "ΔΗΜΟΣ ΜΑΚΡΑΚΩΜΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86527"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-10-17",
+  "posted": "2016-10-24",
+  "publish_timestamp_ms": 1477293560211,
+  "version_id": "959db345-1c98-4f37-85cf-9f7314b973f0",
+  "in_force": "2016-10-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%9F6%CE%A9%CE%9B2-2%CE%A1%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%9F6%CE%A9%CE%9B2-2%CE%A1%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A0%CE%9F6%CE%A9%CE%9B2-2%CE%A1%CE%99",
+  "listing_sha256": "4920884d2ddd7c3513d71784fe3c59e6c8f6f0a3c724fc7a75566d971cd8adb3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
