@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥΖ9ΩΡ3-1ΚΞ",
+  "subject": "Λήψη απόφασης περί της διατήρησης θέσης περίπτερου και αποξήλωσης κουβουκλίου  του περιπτέρου επί της οδό Πεύκων 112.",
+  "protocol_number": "18566",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003098"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "81",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-10-26",
+  "posted": "2016-10-26",
+  "publish_timestamp_ms": 1477472158074,
+  "version_id": "e1e5e0a8-ffef-4aa3-a624-b979a1e39190",
+  "in_force": "2016-10-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%969%CE%A9%CE%A13-1%CE%9A%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%969%CE%A9%CE%A13-1%CE%9A%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A5%CE%969%CE%A9%CE%A13-1%CE%9A%CE%9E",
+  "listing_sha256": "cf2065494a5af84e633d30e0bacba3d45c2ab3ea3b653cbc29f20067240c4776",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
