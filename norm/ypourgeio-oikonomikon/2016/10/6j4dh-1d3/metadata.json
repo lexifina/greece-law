@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ξ4ΔΗ-1Δ3",
+  "subject": "Σύσταση προσωρινής θέσης ιδιωτικού δικαίου αορίστου χρόνου σε συμμόρφωση με προσωρινά εκτελεστή δικαστική απόφαση",
+  "protocol_number": "2/82464/0004",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3523",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-10-21",
+  "posted": "2016-11-01",
+  "publish_timestamp_ms": 1478008329326,
+  "version_id": "4185189c-b74e-4435-ad66-7a5e7ab64db7",
+  "in_force": "2016-11-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E4%CE%94%CE%97-1%CE%943",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E4%CE%94%CE%97-1%CE%943/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9E4%CE%94%CE%97-1%CE%943",
+  "listing_sha256": "4e1ec9197419549ac43f044503580df7cb1bd89f0275c105d920c5ba6cbd0cba",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
