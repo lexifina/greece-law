@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ6Δ2ΩΕ1-ΔΤΠ",
+  "subject": "Διάθεση πιστώσεως για την  Προμήθεια Αναλωσίμων Η/Υ -Εκτυπωτών",
+  "protocol_number": "6773",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6134",
+    "label": "ΔΗΜΟΣ ΚΑΝΤΑΝΟΥ - ΣΕΛΙΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85271"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "275",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-11-02",
+  "posted": "2016-11-02",
+  "publish_timestamp_ms": 1478082513215,
+  "version_id": "3c05c046-785a-4cd5-a5d4-43b5b78a8e2e",
+  "in_force": "2016-11-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%942%CE%A9%CE%951-%CE%94%CE%A4%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%942%CE%A9%CE%951-%CE%94%CE%A4%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A86%CE%942%CE%A9%CE%951-%CE%94%CE%A4%CE%A0",
+  "listing_sha256": "696dabecd8b2d0e8f0a82b536ce32d17f27ef809a02a1426ca545100a9abaa52",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
