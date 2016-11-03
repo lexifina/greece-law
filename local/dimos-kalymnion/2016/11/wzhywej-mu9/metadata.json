@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΖΗΥΩΕΞ-ΜΘ9",
+  "subject": "Έγκριση πρακτικών Επιτροπής Συντήρησης Οχημάτων",
+  "protocol_number": "297",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6133",
+    "label": "ΔΗΜΟΣ ΚΑΛΥΜΝΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83501"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-11-01",
+  "posted": "2016-11-03",
+  "publish_timestamp_ms": 1478167865318,
+  "version_id": "13bd07fa-a65c-4a42-99e4-765cf2b4c405",
+  "in_force": "2016-11-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%96%CE%97%CE%A5%CE%A9%CE%95%CE%9E-%CE%9C%CE%989",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%96%CE%97%CE%A5%CE%A9%CE%95%CE%9E-%CE%9C%CE%989/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%96%CE%97%CE%A5%CE%A9%CE%95%CE%9E-%CE%9C%CE%989",
+  "listing_sha256": "71bb1a0a16d79e4998695be7f6350747379e7eade0f9ce63f6b4d568001a44c6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
