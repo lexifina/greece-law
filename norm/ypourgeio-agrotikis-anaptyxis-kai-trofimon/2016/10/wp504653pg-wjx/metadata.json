@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΠ504653ΠΓ-ΩΞΧ",
+  "subject": "7η Τροποποίηση της υπ’ αριθμ. 1911/29-10-2010 (ΦΕΚ 1718/Β/02-11-2010) Κοινής Υπουργικής Απόφασης ‘Πλαίσιο Εφαρμογής του Άξονα Προτεραιότητας 4 «Αειφόρος Ανάπτυξη Αλιευτικών Περιοχών» του Επιχειρησιακού Προγράμματος Αλιείας 2007 – 2013’",
+  "protocol_number": "1381",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100003932"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3500",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1381",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100016002",
+        "unitId": [
+          "100007502"
+        ],
+        "signerIds": [
+          "100011935"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-10-21",
+  "posted": "2016-11-03",
+  "publish_timestamp_ms": 1478176221194,
+  "version_id": "b0793295-2127-4915-9002-4f78728a40c0",
+  "in_force": "2016-11-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0504653%CE%A0%CE%93-%CE%A9%CE%9E%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0504653%CE%A0%CE%93-%CE%A9%CE%9E%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A0504653%CE%A0%CE%93-%CE%A9%CE%9E%CE%A7",
+  "listing_sha256": "4e1ec9197419549ac43f044503580df7cb1bd89f0275c105d920c5ba6cbd0cba",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
