@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΔΝΟΗ-ΙΝΚ",
+  "subject": "Παράταση και αναστολή καταβολής βεβαιωμένων οφειλών, λόγω των έκτακτων αναγκών που προέκυψαν από την εκδήλωση έντονων βροχοπτώσεων στις 21.10.2016 και 22.10.2016 στο Δήμο Ιεράς Πόλης Μεσολογγίου, της Π.Ε. Αιτωλοακαρνανίας, της Περιφέρειας Δυτικής Ελλάδος.",
+  "protocol_number": "ΠΟΛ 1160",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3600",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "ΠΟΛ 1160",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-10-31",
+  "posted": "2016-11-07",
+  "publish_timestamp_ms": 1478529788568,
+  "version_id": "33b734e3-d451-48b9-b4d4-623ccb20bbc4",
+  "in_force": "2016-11-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%94%CE%9D%CE%9F%CE%97-%CE%99%CE%9D%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%94%CE%9D%CE%9F%CE%97-%CE%99%CE%9D%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%94%CE%9D%CE%9F%CE%97-%CE%99%CE%9D%CE%9A",
+  "listing_sha256": "8e3928328c78d9bbb701598d8eae3ad553c340295ec43d9067ba12bbb1c3b595",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
