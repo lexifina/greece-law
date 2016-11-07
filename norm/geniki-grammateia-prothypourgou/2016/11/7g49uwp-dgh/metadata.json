@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Γ49ΘΩΠ-ΔΓΗ",
+  "subject": "Σύσταση μίας (1) θέσης Υπουργού Επικρατείας.",
+  "protocol_number": "Υ176",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "70711"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3617",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Πράξη Πρωθυπουργού",
+    "kanonistikipraxiaa": "Υ176",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-11-04",
+  "posted": "2016-11-07",
+  "publish_timestamp_ms": 1478513880667,
+  "version_id": "4ecc99ba-1804-45c5-a5ff-61c3429f34ba",
+  "in_force": "2016-11-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9349%CE%98%CE%A9%CE%A0-%CE%94%CE%93%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9349%CE%98%CE%A9%CE%A0-%CE%94%CE%93%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9349%CE%98%CE%A9%CE%A0-%CE%94%CE%93%CE%97",
+  "listing_sha256": "05fb8a6945e5bf4963b65cd34d75e9af2ccc871319a5218f39a6f5a92a917713",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
