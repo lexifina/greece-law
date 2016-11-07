@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "78Δ3ΩΞ2-1Α7",
+  "subject": "ΑΠΟΦΑΣΗ ΔΣ ΓΙΑ ΤΗΝ ΠΡΟΣΛΗΨΗ 1 ΑΤΟΜΟΥ ΜΕ ΔΙΜΗΝΗ ΣΥΜΒΑΣΗ",
+  "protocol_number": "295",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "92604"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-11-03",
+  "posted": "2016-11-07",
+  "publish_timestamp_ms": 1478521502027,
+  "version_id": "c97461e0-1381-4fae-ab79-400c315f1c75",
+  "in_force": "2016-11-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/78%CE%943%CE%A9%CE%9E2-1%CE%917",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/78%CE%943%CE%A9%CE%9E2-1%CE%917/document",
+  "page": "https://diavgeia.gov.gr/decision/view/78%CE%943%CE%A9%CE%9E2-1%CE%917",
+  "listing_sha256": "2d41f99e4ab9015560b147611c0495cff3c429fea4c2cc531d138e2510e85d43",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
