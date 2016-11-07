@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΑΠΨ4653ΟΞ-4ΥΙ",
+  "subject": "Ειδοποίηση παρακατάθεσης προσωρινής αποζημίωσης ακινήτων, δικηγορικής αμοιβής και εξόδων που έχουν απαλλοτριωθεί με Υ.Α. Δ12α/Φ11ΑΧ2/0/6753/17.10.2012 (Α.Α.Π  332) για την κατασκευή του τμήματος από χ.θ 25+500,00 έως χ.θ 31+055,00 του αυτοκινητοδρόμου Πάτρα-Πύργος-Τσακώνα.",
+  "protocol_number": "Φ11ΑΧ2/ο/6289",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007478"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "202",
+      "issue": "fektype_AAP",
+      "issueyear": 2016
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-11-07",
+  "posted": "2016-11-07",
+  "publish_timestamp_ms": 1478515937582,
+  "version_id": "1ac60134-8743-43d0-9fbe-729da95409ea",
+  "in_force": "2016-11-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%91%CE%A0%CE%A84653%CE%9F%CE%9E-4%CE%A5%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%91%CE%A0%CE%A84653%CE%9F%CE%9E-4%CE%A5%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%91%CE%A0%CE%A84653%CE%9F%CE%9E-4%CE%A5%CE%99",
+  "listing_sha256": "23321194427e6e4c0fb69269bd2658aadd2cc99fb24056ec51aebb0c73f8f90f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
