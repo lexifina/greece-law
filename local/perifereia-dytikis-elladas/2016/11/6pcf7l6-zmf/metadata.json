@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΠΨΦ7Λ6-ΖΜΦ",
+  "subject": "Εντολή Κατανομής ποσού από την ΣΑEΠ 501 της Περιφέρειας Δυτικής Ελλάδας",
+  "protocol_number": "289458/1801",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5004",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78382"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-11-08",
+  "posted": "2016-11-08",
+  "publish_timestamp_ms": 1478599890973,
+  "version_id": "d48e7f8a-57e4-4cf0-8318-f9892f8b14d2",
+  "in_force": "2016-11-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A0%CE%A8%CE%A67%CE%9B6-%CE%96%CE%9C%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A0%CE%A8%CE%A67%CE%9B6-%CE%96%CE%9C%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A0%CE%A8%CE%A67%CE%9B6-%CE%96%CE%9C%CE%A6",
+  "listing_sha256": "f5662f483e466faf06266176b146bad71d0fbc50f7f55efe59b1c64dc9107751",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
