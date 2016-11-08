@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΒ74653ΟΞ-99Ψ",
+  "subject": "Ειδοποίηση παρακατάθεσης αποζημίωσης ακινήτων και δικηγορικής αμοιβής δικαιούχων ακινήτων, που έχουν απαλλοτριωθεί με την  υπουργική απόφαση Δ12α/Φ3ΑΚΑΡ/ο/6343/2-10-2012 (Α.Α.Π. 318), για την Κατασκευή του ΄Αξονα Κεντρικής Ελλάδας (Ε65) στο Τμήμα από Χ.Θ. 77+723 έως Χ.Θ. 92+225,στους Δήμους Κάμπου και Καρδίτσας του Ν.Καρδίτσας.",
+  "protocol_number": "Φ3ΑΚΑΡ/ο/6209",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007478"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "217",
+      "issue": "fektype_AAP",
+      "issueyear": 2016
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-11-08",
+  "posted": "2016-11-08",
+  "publish_timestamp_ms": 1478594227969,
+  "version_id": "c5f03d37-fab5-45f0-a728-9b17acd84a1d",
+  "in_force": "2016-11-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%9274653%CE%9F%CE%9E-99%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%9274653%CE%9F%CE%9E-99%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%9274653%CE%9F%CE%9E-99%CE%A8",
+  "listing_sha256": "f5662f483e466faf06266176b146bad71d0fbc50f7f55efe59b1c64dc9107751",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
