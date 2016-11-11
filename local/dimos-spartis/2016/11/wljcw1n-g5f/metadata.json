@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΛΞΨΩ1Ν-Γ5Φ",
+  "subject": "Χορήγηση χρηματικού βοηθήματος σε κάτοικο του Δήμου Σπάρτης",
+  "protocol_number": "456",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6286",
+    "label": "ΔΗΜΟΣ ΣΠΑΡΤΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80737"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-11-09",
+  "posted": "2016-11-11",
+  "publish_timestamp_ms": 1478865265803,
+  "version_id": "3843b608-db5d-4049-b0df-519cecbb7e22",
+  "in_force": "2016-11-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%9E%CE%A8%CE%A91%CE%9D-%CE%935%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%9E%CE%A8%CE%A91%CE%9D-%CE%935%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9B%CE%9E%CE%A8%CE%A91%CE%9D-%CE%935%CE%A6",
+  "listing_sha256": "3693c25c06c72591f4bc544d88521f501a5a890e21fd4e168f41d2de7ed8427f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
