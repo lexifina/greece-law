@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥΒ7ΩΗ4-ΕΡΥ",
+  "subject": ": Έγκριση μετακίνησης εκτός έδρας Δημάρχου στις 7/6/2016 και Προέδρου Τ.Κ. Ανώπολης στις 17/6/2016 και ψήφιση πίστωσης",
+  "protocol_number": "1668",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6292",
+    "label": "ΔΗΜΟΣ ΣΦΑΚΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83896"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "68/2016",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-06-21",
+  "posted": "2016-11-18",
+  "publish_timestamp_ms": 1479468946767,
+  "version_id": "f235e0f2-cf8d-40f9-be11-d92700e5d7b2",
+  "in_force": "2016-11-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%927%CE%A9%CE%974-%CE%95%CE%A1%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%927%CE%A9%CE%974-%CE%95%CE%A1%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A5%CE%927%CE%A9%CE%974-%CE%95%CE%A1%CE%A5",
+  "listing_sha256": "e7863c9b83f6417a10eddceda1d6849c1035562dd67302ec8211dc83613cfbc7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
