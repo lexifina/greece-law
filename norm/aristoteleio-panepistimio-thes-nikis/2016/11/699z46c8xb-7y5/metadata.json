@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "699Ζ46Ψ8ΧΒ-7Υ5",
+  "subject": "Τροποποίηση απόφασης Διενέργειας εκπαιδευτικής εκδρομής-άσκησης του Τμήματος Γεωλογίας.",
+  "protocol_number": "4114",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99202041",
+    "label": "ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣ/ΝΙΚΗΣ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "72912"
+  ],
+  "thematic_category_ids": [
+    "64"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΝΔΗ46Ψ8ΧΒ-Ο6Ε"
+      }
+    ]
+  },
+  "issued": "2016-11-18",
+  "posted": "2016-11-18",
+  "publish_timestamp_ms": 1479469821522,
+  "version_id": "7a648198-34bc-4065-b326-86fa34ce6a7a",
+  "in_force": "2016-11-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/699%CE%9646%CE%A88%CE%A7%CE%92-7%CE%A55",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/699%CE%9646%CE%A88%CE%A7%CE%92-7%CE%A55/document",
+  "page": "https://diavgeia.gov.gr/decision/view/699%CE%9646%CE%A88%CE%A7%CE%92-7%CE%A55",
+  "listing_sha256": "129705069945be87048bd1ec93b0688fe5b9b0f6c9b0fe5a20d7bef23e1d6971",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
