@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "70ΣΔ4653Π8-Τ4Ρ",
+  "subject": "Τροποποίηση της με Α.Π. Φ.Β1/Ε2.1/244/6/5.1.2011 Κοινής Απόφασης των Υπουργών Οικονομίας, Ανταγωνιστικότητας και Ναυτιλίας και Περιβάλλοντος, Ενέργειας και Κλιματικής Αλλαγής (ΦΕΚ Β 54/26.01.2011) με τίτλο «Προκήρυξη του Προγράμματος «Εξοικονόμηση κατ’ οίκον» που θα υλοποιηθεί στο πλαίσιο του ΕΣΠΑ 2007-2013»», όπως έχει τροποποιηθεί και ισχύει",
+  "protocol_number": "185706/1923",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100012225"
+  ],
+  "thematic_category_ids": [
+    "66"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3599",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100016002",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100011935"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-11-02",
+  "posted": "2016-11-18",
+  "publish_timestamp_ms": 1479468626748,
+  "version_id": "a4fe3fb8-ff9b-4e8c-a5cb-09dcd8d47be1",
+  "in_force": "2016-11-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/70%CE%A3%CE%944653%CE%A08-%CE%A44%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/70%CE%A3%CE%944653%CE%A08-%CE%A44%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/70%CE%A3%CE%944653%CE%A08-%CE%A44%CE%A1",
+  "listing_sha256": "696dabecd8b2d0e8f0a82b536ce32d17f27ef809a02a1426ca545100a9abaa52",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
