@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω465ΩΚΖ-6ΡΩ",
+  "subject": "ΑΠΟΦΑΣΗ 169/2016 ΔΗΜΑΡΧΟΥ ΠΕΡΙ 'ΤΡΟΠΟΠΟΙΗΣΗ ΤΗΣ ΑΡΙΘ. 78/2016 ΑΠΟΦΑΣΕΩΣ ΠΕΡΙ ‘ΤΟΠΟΘΕΤΗΣΗ ΠΡΟΣΩΠΙΚΟΥ\n ΣΤΙΣ  ΘΕΣΕΙΣ ΤΟΥ Ο.Ε.Υ. / ΑΝΑΘΕΣΗ ΚΑΘΗΚΟΝΤΩΝ'",
+  "protocol_number": "10984",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6221",
+    "label": "ΔΗΜΟΣ ΞΗΡΟΜΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "11248"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "169",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΔΑΒΩΚΖ-ΠΜ7"
+      }
+    ]
+  },
+  "issued": "2016-11-22",
+  "posted": "2016-11-22",
+  "publish_timestamp_ms": 1479803372855,
+  "version_id": "59c343e2-bfbf-48f1-af93-65e42f8f08e3",
+  "in_force": "2016-11-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9465%CE%A9%CE%9A%CE%96-6%CE%A1%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9465%CE%A9%CE%9A%CE%96-6%CE%A1%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9465%CE%A9%CE%9A%CE%96-6%CE%A1%CE%A9",
+  "listing_sha256": "79b1e944731808f065e361c9967b6b8fd280cc8c44c64d372ec1ca17fa63831c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
