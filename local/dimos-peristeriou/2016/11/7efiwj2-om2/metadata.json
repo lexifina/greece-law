@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΕΦΙΩΞ2-ΟΜ2",
+  "subject": "Παραχώρηση χώρων του 45ου Δ.Σ στο Hellenic English Council για εξετάσεις Cambridge.",
+  "protocol_number": "45",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83785"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-11-23",
+  "posted": "2016-11-23",
+  "publish_timestamp_ms": 1479903059955,
+  "version_id": "0b0187b9-9afe-4db4-8083-0019bfb382aa",
+  "in_force": "2016-11-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%95%CE%A6%CE%99%CE%A9%CE%9E2-%CE%9F%CE%9C2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%95%CE%A6%CE%99%CE%A9%CE%9E2-%CE%9F%CE%9C2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%95%CE%A6%CE%99%CE%A9%CE%9E2-%CE%9F%CE%9C2",
+  "listing_sha256": "fc8814e23ab2aea043276fc873cecd8b93d6b637ad447e18c2f7c93f1ee99d76",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
