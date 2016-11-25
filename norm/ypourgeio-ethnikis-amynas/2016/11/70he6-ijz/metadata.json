@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "70ΗΕ6-ΙΞΖ",
+  "subject": "ΔΑΠΑΝΕΣ ΠΡΟΜΗΘΕΙΩΝ-ΕΠΙΣΚΕΥΩΝ-ΚΑΤΑΣΚΕΥΩΝ [ΠΡΟΜΗΘΕΙΑ ΒΙΟΜΗΧΑΝΙΚΩΝ ΚΑΙ ΙΑΤΡΙΚΩΝ ΥΓΡΩΝ-ΑΕΡΙΩΝ ΚΑΙ ΜΙΣΘΩΣΗ ΔΕΞΑΜΕΝΩΝ ΓΙΑ ΚΑΛΥΨΗ ΑΝΑΓΚΩΝ ΜΟΝΑΔΩΝ Π.Α. (Δ.11/16.2)]",
+  "protocol_number": "Φ.831/ΑΔ.4387/Σ.1518/24-11-16/ΔΑΥ/Γ2/3",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76857"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10002",
+    "kanonistikipraxiaa": "4387",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "69ΩΡ6-ΔΝ2"
+      }
+    ]
+  },
+  "issued": "2016-11-24",
+  "posted": "2016-11-25",
+  "publish_timestamp_ms": 1480057745508,
+  "version_id": "27700985-bd2a-4f12-86c5-e789dc82fdda",
+  "in_force": "2016-11-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/70%CE%97%CE%956-%CE%99%CE%9E%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/70%CE%97%CE%956-%CE%99%CE%9E%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/70%CE%97%CE%956-%CE%99%CE%9E%CE%96",
+  "listing_sha256": "f19df87151dc3c3fe5a5f3433ef3d150b8bec10f2ec68318810484321d0419be",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
