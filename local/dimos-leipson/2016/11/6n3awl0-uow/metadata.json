@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ν3ΑΩΛ0-ΘΟΩ",
+  "subject": "ΑΠΟΦΑΣΗ ΧΟΡΗΓΗΣΗΣ ΚΑΝΟΝΙΚΗΣ ΑΔΕΙΑΣ",
+  "protocol_number": "2583",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6170",
+    "label": "ΔΗΜΟΣ ΛΕΙΨΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83488"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-11-30",
+  "posted": "2016-12-01",
+  "publish_timestamp_ms": 1480587748206,
+  "version_id": "9669b00a-2bf9-45f0-a26f-40564cfb0a12",
+  "in_force": "2016-12-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D3%CE%91%CE%A9%CE%9B0-%CE%98%CE%9F%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D3%CE%91%CE%A9%CE%9B0-%CE%98%CE%9F%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9D3%CE%91%CE%A9%CE%9B0-%CE%98%CE%9F%CE%A9",
+  "listing_sha256": "09e21d46b2c01e2a51bb6d93bae6f78abc3f7d9f3fbe64d87a34eff6faecf516",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
