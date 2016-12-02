@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΞΖΜΟΡ1Φ-Ο1Κ",
+  "subject": "Διόρθωση σφάλματος σε απόφαση περί ανάκλησης διορισμού υπαλλήλου σε κενή οργανική θέση του Δήμου Ξυλοκάστρου-Ευρωστίνης, λόγω μη αποδοχής του διορισμού από τον ίδιο.",
+  "protocol_number": "210765",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76448"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1216",
+      "issue": "fektype_C",
+      "issueyear": 2016
+    },
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΔΤΨΟΡ1Φ-ΕΝ2"
+      }
+    ]
+  },
+  "issued": "2016-11-15",
+  "posted": "2016-12-02",
+  "publish_timestamp_ms": 1480664844032,
+  "version_id": "a9650dc9-56d5-4238-9250-07a80cbfc6be",
+  "in_force": "2016-12-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E%CE%96%CE%9C%CE%9F%CE%A11%CE%A6-%CE%9F1%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E%CE%96%CE%9C%CE%9F%CE%A11%CE%A6-%CE%9F1%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9E%CE%96%CE%9C%CE%9F%CE%A11%CE%A6-%CE%9F1%CE%9A",
+  "listing_sha256": "56e3a4fae61f5581bc46045bc5da3d565b143d1e896f742a3bfb5d6b2ef83f42",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
