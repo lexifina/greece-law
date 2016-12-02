@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΝΒ6Ω6Μ-ΡΚΔ",
+  "subject": "ΑΠΟΦΑΣΗ ΣΥΓΚΡΟΤΗΣΗΣ ΟΜΑΔΑΣ ΕΡΓΑΣΙΑΣ",
+  "protocol_number": "382914",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6013",
+    "label": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "90120"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-12-02",
+  "posted": "2016-12-02",
+  "publish_timestamp_ms": 1480674737388,
+  "version_id": "9485725f-c2f1-461b-91dd-44e635eecf83",
+  "in_force": "2016-12-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%926%CE%A96%CE%9C-%CE%A1%CE%9A%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%926%CE%A96%CE%9C-%CE%A1%CE%9A%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9D%CE%926%CE%A96%CE%9C-%CE%A1%CE%9A%CE%94",
+  "listing_sha256": "38df804a668715432d418d9570616e98646227250faedfada3e3438a099ac7cd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
