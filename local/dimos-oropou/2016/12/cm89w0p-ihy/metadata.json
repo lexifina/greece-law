@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΜ89Ω0Π-ΙΗΥ",
+  "subject": "Απόφαση Δημάρχου 574/05-12-2016_Ανάκληση της με αριθ.: 494/24-10-2016 απόφασης Δημάρχου και Έγκριση της με αριθ. 1/2016 μελέτης παροχής υπηρεσιών ιατρού εργασίας και τεχνικού ασφαλείας του Τμήματος Ανθρώπινου Δυναμικού και Διοικητικής Μέριμνας της Διεύθυνσης Διοικητικών Υπηρεσιών",
+  "protocol_number": "574",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6324",
+    "label": "ΔΗΜΟΣ ΩΡΩΠΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81448"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΤΖΒΩ0Π-Λ7Α"
+      },
+      {
+        "relatedDecisionsADA": "ΩΜΣΖΩ0Π-ΥΦ8"
+      }
+    ]
+  },
+  "issued": "2016-12-05",
+  "posted": "2016-12-05",
+  "publish_timestamp_ms": 1480948294860,
+  "version_id": "cd31e5c6-2cb4-4e54-aef8-f8d403bbd3f2",
+  "in_force": "2016-12-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9C89%CE%A90%CE%A0-%CE%99%CE%97%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9C89%CE%A90%CE%A0-%CE%99%CE%97%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9C89%CE%A90%CE%A0-%CE%99%CE%97%CE%A5",
+  "listing_sha256": "76b03f189b040c6f20f74ba359033c7ff7d534c3dbc12ad3ed56dc576c7860f0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
