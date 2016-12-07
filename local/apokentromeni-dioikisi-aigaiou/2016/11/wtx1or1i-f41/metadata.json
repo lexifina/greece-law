@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΧ1ΟΡ1Ι-Φ41",
+  "subject": "Επικύρωση έκθεσης καθορισμού ορίων Aιγιαλού – Παραλίας στη θέση «Κόρφος» της νήσου Μυκόνου, του Νομού Κυκλάδων.",
+  "protocol_number": "80268",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76746"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "388",
+      "issue": "fektype_D",
+      "issueyear": 2016
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-11-09",
+  "posted": "2016-12-07",
+  "publish_timestamp_ms": 1481096003693,
+  "version_id": "f0f109f6-aa67-40b7-beb8-2cfbba9f051c",
+  "in_force": "2016-12-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A71%CE%9F%CE%A11%CE%99-%CE%A641",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A71%CE%9F%CE%A11%CE%99-%CE%A641/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%A71%CE%9F%CE%A11%CE%99-%CE%A641",
+  "listing_sha256": "3693c25c06c72591f4bc544d88521f501a5a890e21fd4e168f41d2de7ed8427f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
