@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΦΙΩΡΟ-8ΦΨ",
+  "subject": "Αριθμ. Απόφασης 250/2016 «Έγκριση της υπ’ αριθμό 24/2016 μελέτης του έργου Ασφαλτοστρώσεις – Τσιμεντοστρώσεις Δ.Ε. Αντιχασίων, Λιβαδίου, Σαρανταπόρου».",
+  "protocol_number": "250/2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6087",
+    "label": "ΔΗΜΟΣ ΕΛΑΣΣΟΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83681"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-11-30",
+  "posted": "2016-12-07",
+  "publish_timestamp_ms": 1481112277702,
+  "version_id": "6956893a-1503-45e2-b50d-a89f7c4f18e0",
+  "in_force": "2016-12-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A6%CE%99%CE%A9%CE%A1%CE%9F-8%CE%A6%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A6%CE%99%CE%A9%CE%A1%CE%9F-8%CE%A6%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%A6%CE%99%CE%A9%CE%A1%CE%9F-8%CE%A6%CE%A8",
+  "listing_sha256": "09e21d46b2c01e2a51bb6d93bae6f78abc3f7d9f3fbe64d87a34eff6faecf516",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
