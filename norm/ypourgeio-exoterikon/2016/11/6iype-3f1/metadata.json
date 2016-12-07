@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΙΥΠΕ-3Φ1",
+  "subject": "ΥΠΟΥΡΓΙΚΗ ΑΠΟΦΑΣΗ ΠΕΡΙ ΑΠΟΦΑΣΗΣ 2312 (2016) ΤΟΥ ΣΥΜΒΟΥΛΙΟΥ ΑΣΦΑΛΕΙΑΣ Ο.Η.Ε. ΣΧΕΤΙΚΑ ΜΕ ΤΗ ΔΙΑΤΗΡΗΣΗ ΤΗΣ ΔΙΕΘΝΟΥΣ ΕΙΡΗΝΗΣ ΚΑΙ ΑΣΦΑΛΕΙΑΣ",
+  "protocol_number": "3440/ΑΣ 53624",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72603"
+  ],
+  "thematic_category_ids": [
+    "76"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "221",
+      "issue": "fektype_A",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-11-30",
+  "posted": "2016-12-07",
+  "publish_timestamp_ms": 1481100209952,
+  "version_id": "e9d1206a-c291-40b9-99fc-9f58d4b6c4b2",
+  "in_force": "2016-12-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%A5%CE%A0%CE%95-3%CE%A61",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%A5%CE%A0%CE%95-3%CE%A61/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%99%CE%A5%CE%A0%CE%95-3%CE%A61",
+  "listing_sha256": "09e21d46b2c01e2a51bb6d93bae6f78abc3f7d9f3fbe64d87a34eff6faecf516",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
