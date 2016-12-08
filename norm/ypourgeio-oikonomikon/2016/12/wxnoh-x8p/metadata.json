@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧΝΟΗ-Χ8Π",
+  "subject": "ΠΡΟΜΗΘΕΙΑ ΤΟΝΕΡ, Α4 και ΓΡΑΦΙΚΗΣ ΥΛΗΣ ΣΤΗΝ ΔΟΥ ΣΕΡΡΩΝ",
+  "protocol_number": "82620",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "77167"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-12-08",
+  "posted": "2016-12-08",
+  "publish_timestamp_ms": 1481192001762,
+  "version_id": "e336ce9e-e076-482d-9563-b3ab2bd57e0b",
+  "in_force": "2016-12-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%9D%CE%9F%CE%97-%CE%A78%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%9D%CE%9F%CE%97-%CE%A78%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A7%CE%9D%CE%9F%CE%97-%CE%A78%CE%A0",
+  "listing_sha256": "87009ea1e2738183c271232138c1cec06dbaf427bf10de88b8a5cd6ad365de7d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
