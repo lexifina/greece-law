@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΠΜΠΩ0Ο-9ΧΝ",
+  "subject": "Αποδοχή δωρεάς της εταιρείας  ΑΒ Βασιλόπουλος».",
+  "protocol_number": "896/2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81432"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "896/2016",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-12-06",
+  "posted": "2016-12-09",
+  "publish_timestamp_ms": 1481276825769,
+  "version_id": "dc4481c1-f3f0-4911-a2cc-f8e04c403159",
+  "in_force": "2016-12-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%9C%CE%A0%CE%A90%CE%9F-9%CE%A7%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%9C%CE%A0%CE%A90%CE%9F-9%CE%A7%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A0%CE%9C%CE%A0%CE%A90%CE%9F-9%CE%A7%CE%9D",
+  "listing_sha256": "531bbcff5e5d2d61db67ed62baf6a4bffa33c4408028fc33dfb20ef39c2c978b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
