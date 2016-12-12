@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΕΑΗ-13Μ",
+  "subject": "Ανακατανομή κενών οργανικών θέσεων μόνιμου προσωπικού, που έχουν κατανεμηθεί στην Γενική Γραμματεία Δημοσίων Εσόδων του Υπουργείου Οικονομικών, σε κατηγορίες και κλάδους",
+  "protocol_number": "1176578",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3954",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100010874",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100025014"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-12-07",
+  "posted": "2016-12-12",
+  "publish_timestamp_ms": 1481527395427,
+  "version_id": "a3452548-64cb-4416-b265-5a179697d771",
+  "in_force": "2016-12-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%95%CE%91%CE%97-13%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%95%CE%91%CE%97-13%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%95%CE%91%CE%97-13%CE%9C",
+  "listing_sha256": "f049725e74eee80551433bc6b3418f0eceb33b7049052e6a8e7c208bf4a4d079",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
