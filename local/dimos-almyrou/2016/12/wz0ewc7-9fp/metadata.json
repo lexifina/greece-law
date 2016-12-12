@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΖ0ΕΩΨ7-9ΦΠ",
+  "subject": "Ανάθεση επισκευαστικών εργασιών και προμήθειας ανταλλακτικών 24057",
+  "protocol_number": "24057",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6022",
+    "label": "ΔΗΜΟΣ ΑΛΜΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79660"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-12-07",
+  "posted": "2016-12-12",
+  "publish_timestamp_ms": 1481533007446,
+  "version_id": "251cac0a-caa8-49cd-962a-62f2362cdf81",
+  "in_force": "2016-12-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%960%CE%95%CE%A9%CE%A87-9%CE%A6%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%960%CE%95%CE%A9%CE%A87-9%CE%A6%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%960%CE%95%CE%A9%CE%A87-9%CE%A6%CE%A0",
+  "listing_sha256": "f049725e74eee80551433bc6b3418f0eceb33b7049052e6a8e7c208bf4a4d079",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
