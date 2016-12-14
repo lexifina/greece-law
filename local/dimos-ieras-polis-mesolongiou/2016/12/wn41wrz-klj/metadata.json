@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝ41ΩΡΖ-ΚΛΞ",
+  "subject": "ΑΠΟΦΑΣΗ ΜΕΙΩΣΗΣ ΕΓΓΥΗΣΕΩΝ",
+  "protocol_number": "24983",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6119",
+    "label": "ΔΗΜΟΣ ΙΕΡΑΣ ΠΟΛΗΣ ΜΕΣΟΛΟΓΓΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78278"
+  ],
+  "thematic_category_ids": [
+    "64"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-12-14",
+  "posted": "2016-12-14",
+  "publish_timestamp_ms": 1481705201110,
+  "version_id": "6df1357b-c0d4-4637-b899-6f843f8a9c6e",
+  "in_force": "2016-12-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D41%CE%A9%CE%A1%CE%96-%CE%9A%CE%9B%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D41%CE%A9%CE%A1%CE%96-%CE%9A%CE%9B%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D41%CE%A9%CE%A1%CE%96-%CE%9A%CE%9B%CE%9E",
+  "listing_sha256": "43424eb19b00fd99b4366750e1897a61fa8727fef36a8ec0a6b82ef1d252caf8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
