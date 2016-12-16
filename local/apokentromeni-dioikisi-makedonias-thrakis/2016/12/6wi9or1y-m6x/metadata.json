@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΩΙ9ΟΡ1Υ-Μ6Χ",
+  "subject": "Έλεγχος νομιμότητας της 299/2016 απόφασης του Δημοτικού Συμβουλίου Ξάνθης",
+  "protocol_number": "15479",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77838"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Γενικού Γραμματέα Αποκεντρωμένης Διοίκησης",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-12-06",
+  "posted": "2016-12-16",
+  "publish_timestamp_ms": 1481879295543,
+  "version_id": "848151f9-75d5-41a3-9e57-9814763d2d8a",
+  "in_force": "2016-12-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%999%CE%9F%CE%A11%CE%A5-%CE%9C6%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%999%CE%9F%CE%A11%CE%A5-%CE%9C6%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A9%CE%999%CE%9F%CE%A11%CE%A5-%CE%9C6%CE%A7",
+  "listing_sha256": "531bbcff5e5d2d61db67ed62baf6a4bffa33c4408028fc33dfb20ef39c2c978b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
