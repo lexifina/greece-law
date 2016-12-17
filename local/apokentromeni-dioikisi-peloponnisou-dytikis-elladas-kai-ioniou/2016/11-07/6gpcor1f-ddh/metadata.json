@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΓΠΨΟΡ1Φ-ΔΔΗ",
+  "subject": "Διαβίβαση κατάστασης  πληρωμής οδοιπορικών",
+  "protocol_number": "ΟΙΚ.: 6974",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "94816"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΤΓ6ΟΡ1Φ-ΡΔΔ"
+      }
+    ]
+  },
+  "issued": "2016-11-07",
+  "posted": "2016-12-17",
+  "publish_timestamp_ms": 1481969089701,
+  "version_id": "be480d7b-737a-4381-bd2c-79b445da8a11",
+  "in_force": "2016-12-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%93%CE%A0%CE%A8%CE%9F%CE%A11%CE%A6-%CE%94%CE%94%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%93%CE%A0%CE%A8%CE%9F%CE%A11%CE%A6-%CE%94%CE%94%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%93%CE%A0%CE%A8%CE%9F%CE%A11%CE%A6-%CE%94%CE%94%CE%97",
+  "listing_sha256": "abf61882061ccc6e256c80419b54da4510cb49714fa34677601785e6cf89695f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
