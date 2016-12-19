@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΜΩΩ1Ο-Σ5Ξ",
+  "subject": "Ψήφιση πίστωσης ποσού 5.040,60 ευρώ για την εργασία «Αξιολόγηση – Εκπαίδευση αδέσποτων ζώων συντροφιάς του Δήμου Πυλαίας - Χορτιάτη",
+  "protocol_number": "43131",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6257",
+    "label": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80518"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-12-19",
+  "posted": "2016-12-19",
+  "publish_timestamp_ms": 1482137075560,
+  "version_id": "da16b43b-9d65-46b2-9e94-b92d47678f4f",
+  "in_force": "2016-12-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%9C%CE%A9%CE%A91%CE%9F-%CE%A35%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%9C%CE%A9%CE%A91%CE%9F-%CE%A35%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%9C%CE%A9%CE%A91%CE%9F-%CE%A35%CE%9E",
+  "listing_sha256": "e6aac450329d839fec54a269a49fb3a30e57cd4c3abaa59a80bf8869325578a7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
