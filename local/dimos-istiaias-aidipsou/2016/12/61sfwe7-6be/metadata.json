@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "61ΣΦΩΕ7-6ΒΕ",
+  "subject": "Ανάκληση της υπ’ αρ. 274/2016 ΑΟΕ",
+  "protocol_number": "16568",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6124",
+    "label": "ΔΗΜΟΣ ΙΣΤΙΑΙΑΣ - ΑΙΔΗΨΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81402"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-12-20",
+  "posted": "2016-12-20",
+  "publish_timestamp_ms": 1482225719373,
+  "version_id": "08617bb2-0916-43a2-b3ff-08c6e3887f59",
+  "in_force": "2016-12-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/61%CE%A3%CE%A6%CE%A9%CE%957-6%CE%92%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/61%CE%A3%CE%A6%CE%A9%CE%957-6%CE%92%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/61%CE%A3%CE%A6%CE%A9%CE%957-6%CE%92%CE%95",
+  "listing_sha256": "5187586626cb1437e8947d8d5853f8f240f6ac88c19069bc4701891d5fb3b2ff",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
