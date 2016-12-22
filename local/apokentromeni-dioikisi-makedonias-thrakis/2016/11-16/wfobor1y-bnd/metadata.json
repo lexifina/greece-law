@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΟΒΟΡ1Υ-ΒΝΔ",
+  "subject": "ΤΡΟΠΟΠΟΙΗΣΗ ΑΠΟΦΑΣΗΣ ΣΥΣΤΑΣΗΣ ΘΕΣΕΩΝ ΒΑΣΕΙ ΔΙΚΑΣΤΙΚΗΣ ΑΠΟΦΑΣΗΣ ΣΤΟ ΔΗΜΟ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+  "protocol_number": "72581",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "78719"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3927",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-11-16",
+  "posted": "2016-12-22",
+  "publish_timestamp_ms": 1482395867490,
+  "version_id": "461f1c66-161d-4040-8237-0062256e3e4f",
+  "in_force": "2016-12-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%9F%CE%92%CE%9F%CE%A11%CE%A5-%CE%92%CE%9D%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%9F%CE%92%CE%9F%CE%A11%CE%A5-%CE%92%CE%9D%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%9F%CE%92%CE%9F%CE%A11%CE%A5-%CE%92%CE%9D%CE%94",
+  "listing_sha256": "bf2a572b0abe188a3548e347da6fd9aee3e6fa1c7714fa74538d6dca8bc7d0ab",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
