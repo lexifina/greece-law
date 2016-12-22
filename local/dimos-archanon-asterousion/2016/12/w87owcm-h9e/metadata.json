@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω87ΟΩΨΜ-Η9Ε",
+  "subject": "Απόφαση Δημάρχου (1233/2016) με θέμα: \"Ορισμός Νομικού Συμβούλου για την παροχή γνωμοδότησης\"",
+  "protocol_number": "19213",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6047",
+    "label": "ΔΗΜΟΣ ΑΡΧΑΝΩΝ - ΑΣΤΕΡΟΥΣΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80055"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "1233/2016",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΕΑΗΩΨΜ-09Β"
+      }
+    ]
+  },
+  "issued": "2016-12-22",
+  "posted": "2016-12-22",
+  "publish_timestamp_ms": 1482394527753,
+  "version_id": "4d324288-9a26-4290-a091-288494a8bc6a",
+  "in_force": "2016-12-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A987%CE%9F%CE%A9%CE%A8%CE%9C-%CE%979%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A987%CE%9F%CE%A9%CE%A8%CE%9C-%CE%979%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A987%CE%9F%CE%A9%CE%A8%CE%9C-%CE%979%CE%95",
+  "listing_sha256": "bf263b0f64cdf9863923bac8604ed5a21ab995ad09a54090278988096c102b00",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
