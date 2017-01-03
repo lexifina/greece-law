@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "62ΓΙΕ-Τ7Κ",
+  "subject": "ΑΝΑΚΛΗΤΙΚΗ ΑΠΟΦΑΣΗ 0,96 ΕΥΡΩ",
+  "protocol_number": "120.11289",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70150"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "19590",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-12-29",
+  "posted": "2017-01-03",
+  "publish_timestamp_ms": 1483437273911,
+  "version_id": "f96cceb4-0389-44e2-b699-900edeaffd89",
+  "in_force": "2017-01-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/62%CE%93%CE%99%CE%95-%CE%A47%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/62%CE%93%CE%99%CE%95-%CE%A47%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/62%CE%93%CE%99%CE%95-%CE%A47%CE%9A",
+  "listing_sha256": "2b1ba2cec84bdf4f74803669991aa426d55d0d16d7fa1608221212817daee852",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
