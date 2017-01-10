@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ1Ψ6Ω63-65Ξ",
+  "subject": "Απόφαση Δημάρχου για την αναστολή λειτουργίας σχολικών μονάδων εντός ορίων του Δήμου",
+  "protocol_number": "741/216",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6007",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78954"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-01-10",
+  "posted": "2017-01-10",
+  "publish_timestamp_ms": 1484045873822,
+  "version_id": "39371b8e-d548-44a2-a9ae-b05e68aa7f74",
+  "in_force": "2017-01-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A81%CE%A86%CE%A963-65%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A81%CE%A86%CE%A963-65%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A81%CE%A86%CE%A963-65%CE%9E",
+  "listing_sha256": "bebda0ffcd2996ae4b1f66bf08d2854d844f66935b81640ad28352283f3aa509",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
