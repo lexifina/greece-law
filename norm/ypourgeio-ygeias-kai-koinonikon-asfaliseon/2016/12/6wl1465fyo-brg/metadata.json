@@ -1,0 +1,64 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΩΛ1465ΦΥΟ-ΒΡΓ",
+  "subject": "Τροποποίηση της υπ’ αριθμ. 4658/2016 (ΦΕΚ Β΄2937) κοινής απόφασης του Υπουργού Υγείας και του Αναπληρωτή Υπουργού Οικονομικών με θέμα “Έγκριση του Προγράμματος Προμηθειών, Υπηρεσιών και Φαρμάκων (Π.Π.Υ.Φ.Υ.) των εποπτευομένων φορέων υγείας για το έτος 2015 (πιστώσεις 2016-2017) με χρηματοδότησή του από τον τακτικό προϋπολογισμό, το πρόγραμμα δημοσίων επενδύσεων και λοιπές πηγές\"",
+  "protocol_number": "5720",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "74519"
+  ],
+  "thematic_category_ids": [
+    "10007",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4097",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "5720",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100010899",
+        "unitId": [
+          "74519"
+        ],
+        "signerIds": [
+          "100015133"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-12-01",
+  "posted": "2017-01-10",
+  "publish_timestamp_ms": 1484046294951,
+  "version_id": "89f34ac8-e6a4-4070-838e-fdfdd4604410",
+  "in_force": "2017-01-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%9B1465%CE%A6%CE%A5%CE%9F-%CE%92%CE%A1%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%9B1465%CE%A6%CE%A5%CE%9F-%CE%92%CE%A1%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A9%CE%9B1465%CE%A6%CE%A5%CE%9F-%CE%92%CE%A1%CE%93",
+  "listing_sha256": "f6026143ea1105327e475b18e630836ece1d4bd660ed721dbdfc4e7eff22ad50",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
