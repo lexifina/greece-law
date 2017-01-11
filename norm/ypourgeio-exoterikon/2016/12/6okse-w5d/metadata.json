@@ -1,0 +1,72 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΟΚΣΕ-Ω5Δ",
+  "subject": "Αναδιοργάνωση της ΣΤ΄Γενικής Δ/νσης Προσωπικού, Διοικητικής Οργάνωσης και Οικονομικής Διαχείρισης, της ΣΤ4 Δ/νσης Οικονομικής Διοίκησης και της ΣΤ5 Δ/νσης προμηθειών και Λειτουργικών Δαπανών του Υπ. Εξωτερικών.",
+  "protocol_number": "Π2Α-58769",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70482"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "7",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "Π2Α-58769",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "10",
+        "unitId": [
+          "70482"
+        ],
+        "signerIds": [
+          "100010654"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "72611"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      },
+      {
+        "ministryId": "100025899",
+        "unitId": [
+          "100004988"
+        ],
+        "signerIds": [
+          "100025919"
+        ]
+      }
+    ]
+  },
+  "issued": "2016-12-30",
+  "posted": "2017-01-11",
+  "publish_timestamp_ms": 1484142984933,
+  "version_id": "fcf34db6-6ac7-4bf8-acd7-a0972d3110ab",
+  "in_force": "2017-01-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F%CE%9A%CE%A3%CE%95-%CE%A95%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F%CE%9A%CE%A3%CE%95-%CE%A95%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9F%CE%9A%CE%A3%CE%95-%CE%A95%CE%94",
+  "listing_sha256": "5fe4c8ecf12f33e7635936025fb8046cab83d5ebfd934c8565dc152201eda578",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
