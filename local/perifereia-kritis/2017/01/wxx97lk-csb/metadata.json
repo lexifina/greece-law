@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧΧ97ΛΚ-ΨΣΒ",
+  "subject": "ΒΕΒΑΙΩΣΗ ΓΙΑ ΤΗΝ ΑΔΕΙΑ ΕΠΑΓΓΕΛΜΑΤΟΣ ΦΑΡΜΑΚΟΠΟΙΟΥ",
+  "protocol_number": "6696",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80845"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-01-12",
+  "posted": "2017-01-12",
+  "publish_timestamp_ms": 1484207302128,
+  "version_id": "1236b214-81ab-4042-80f2-e76e33a5d5af",
+  "in_force": "2017-01-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%A797%CE%9B%CE%9A-%CE%A8%CE%A3%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%A797%CE%9B%CE%9A-%CE%A8%CE%A3%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A7%CE%A797%CE%9B%CE%9A-%CE%A8%CE%A3%CE%92",
+  "listing_sha256": "2b18aed14116de61f9db86856def9b502629269ddbd217dade79de6128e58dd9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
