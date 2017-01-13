@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΦ1ΓΩ0Ο-7ΞΚ",
+  "subject": "Έγκριση 2ης Παράτασης για την ολοκλήρωση του έργου με τίτλο: «Δίκτυα Διανομής Δεξαμενής Δ3 Αρδευτικού Έργου Δημοτική Ενότητα Τεμένους».",
+  "protocol_number": "9/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81430"
+  ],
+  "thematic_category_ids": [
+    "44",
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΝ56Ω0Ο-Υ3Μ"
+      }
+    ]
+  },
+  "issued": "2017-01-09",
+  "posted": "2017-01-13",
+  "publish_timestamp_ms": 1484323766304,
+  "version_id": "db2f23bd-f3c2-47bf-aebd-7c0c087cd3ee",
+  "in_force": "2017-01-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A61%CE%93%CE%A90%CE%9F-7%CE%9E%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A61%CE%93%CE%A90%CE%9F-7%CE%9E%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A61%CE%93%CE%A90%CE%9F-7%CE%9E%CE%9A",
+  "listing_sha256": "89991fe3c3817550de6584a85ac0fc77dee006b1018d7b87c63133c0b2d549d2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
