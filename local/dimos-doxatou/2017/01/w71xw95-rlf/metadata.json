@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω71ΧΩ95-ΡΛΦ",
+  "subject": "Απόφαση Δημάρχου για προσωρινή κυκλοφοριακή ρύθμιση",
+  "protocol_number": "311/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6080",
+    "label": "ΔΗΜΟΣ ΔΟΞΑΤΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80769"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "7",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-01-16",
+  "posted": "2017-01-16",
+  "publish_timestamp_ms": 1484555669991,
+  "version_id": "72ccb822-496b-4bf4-a2bd-e14dd660b49c",
+  "in_force": "2017-01-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A971%CE%A7%CE%A995-%CE%A1%CE%9B%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A971%CE%A7%CE%A995-%CE%A1%CE%9B%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A971%CE%A7%CE%A995-%CE%A1%CE%9B%CE%A6",
+  "listing_sha256": "943e80fecc10cc18c7151ccbd1d34a09bba60540a2e2817d9f6abb95a410c2d5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
