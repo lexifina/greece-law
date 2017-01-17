@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΦΝΙ4653ΠΩ-Θ2Ο",
+  "subject": "Σύσταση Πολιτικού Γραφείου Υφυπουργού Ναυτιλίας και Νησιωτικής Πολιτικής.",
+  "protocol_number": "2901.01/1818/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70379"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "33",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1818",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-01-11",
+  "posted": "2017-01-17",
+  "publish_timestamp_ms": 1484637214098,
+  "version_id": "6191b95d-e5ee-4bc2-b81a-669cb26478bf",
+  "in_force": "2017-01-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A6%CE%9D%CE%994653%CE%A0%CE%A9-%CE%982%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A6%CE%9D%CE%994653%CE%A0%CE%A9-%CE%982%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A6%CE%9D%CE%994653%CE%A0%CE%A9-%CE%982%CE%9F",
+  "listing_sha256": "98c6c89137e2cfbcc4209b638bdda78510e278183eb6cce5b3c6dee94d856b35",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
