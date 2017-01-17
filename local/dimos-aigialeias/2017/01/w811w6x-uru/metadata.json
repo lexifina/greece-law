@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω811Ω6Χ-ΘΡΘ",
+  "subject": "Απόφαση Δημάρχου για μετακίνηση εκτός έδρας.",
+  "protocol_number": "1360/17-1-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6015",
+    "label": "ΔΗΜΟΣ ΑΙΓΙΑΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80829"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-01-17",
+  "posted": "2017-01-17",
+  "publish_timestamp_ms": 1484653908016,
+  "version_id": "c1ea4da6-c4b1-4f2c-a9e3-85cd640f788c",
+  "in_force": "2017-01-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9811%CE%A96%CE%A7-%CE%98%CE%A1%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9811%CE%A96%CE%A7-%CE%98%CE%A1%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9811%CE%A96%CE%A7-%CE%98%CE%A1%CE%98",
+  "listing_sha256": "97e93ee2683188fc6b7ab3a23ea3b497f98dd5c92dd5c5338a9bb9494161b51f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
