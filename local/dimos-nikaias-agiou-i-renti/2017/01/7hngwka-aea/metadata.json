@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΗΝΓΩΚΑ-ΑΕΑ",
+  "subject": "Έγκριση της διενέργειας δημοπρασίας για την εκμίσθωση, των κυλικείων: α) του ΚΑΤΡΑΚΕΙΟΥ ΘΕΑΤΡΟΥ ΝΙΚΑΙΑΣ που βρίσκεται επί των οδών Μάνου Κατράκη και Κυράς της Ρω στην περιοχή της Δημοτικής Ενότητας της Νίκαιας και β) του ΚΗΠΟΘΕΑΤΡΟΥ ΝΙΚΑΙΑΣ που βρίσκεται επί των οδών Κύπρου και Προύσης στην περιοχή της Δημοτικής Ενότητας της Νίκαιας του Δήμου Νίκαιας – Αγ. Ι. Ρέντη.",
+  "protocol_number": "8",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6215",
+    "label": "ΔΗΜΟΣ ΝΙΚΑΙΑΣ - ΑΓΙΟΥ Ι. ΡΕΝΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83971"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "04",
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-01-16",
+  "posted": "2017-01-19",
+  "publish_timestamp_ms": 1484827460665,
+  "version_id": "ba1ef3d5-6a7d-4ea5-8318-a33c6282c466",
+  "in_force": "2017-01-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%97%CE%9D%CE%93%CE%A9%CE%9A%CE%91-%CE%91%CE%95%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%97%CE%9D%CE%93%CE%A9%CE%9A%CE%91-%CE%91%CE%95%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%97%CE%9D%CE%93%CE%A9%CE%9A%CE%91-%CE%91%CE%95%CE%91",
+  "listing_sha256": "b42fcea77676daa3fe9fe69b24165bf3886d792172fca4ecf554c2f99c2eadeb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
