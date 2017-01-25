@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΑ3ΩΕ3-Η26",
+  "subject": "Ψήφιση Πιστώσεων Παγίων Αναγκών Οικ. έτους 2017",
+  "protocol_number": "02-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6143",
+    "label": "ΔΗΜΟΣ ΚΑΤΩ ΝΕΥΡΟΚΟΠΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85476"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-01-23",
+  "posted": "2017-01-25",
+  "publish_timestamp_ms": 1485335504547,
+  "version_id": "587044a9-6f51-4988-8948-4ab95b30a1c4",
+  "in_force": "2017-01-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%913%CE%A9%CE%953-%CE%9726",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%913%CE%A9%CE%953-%CE%9726/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%913%CE%A9%CE%953-%CE%9726",
+  "listing_sha256": "fbc3407587b33d6be7794a673d6dd1c1f717dfad0e0ac6497626d3d54bb282fc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
