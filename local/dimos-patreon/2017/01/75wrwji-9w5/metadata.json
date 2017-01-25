@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "75ΩΡΩΞΙ-9Ω5",
+  "subject": "26/2017 απόφαση Οικονομικής Επιτροπής\nΈγκριση της παράστασης του πληρεξούσιου δικηγόρου του Δήμου Πατρέων κ. Φαίδωνα Κουλούρη στον Άρειο Πάγο, όπου θα συζητηθεί η Αίτηση Αναίρεσης του Δήμου κατά των Θεοφάνη Νεζερίτη κ.λ.π. και της 237/2012 απόφασης του Εφετείου Πατρών, την 27/1/2017 ή σε οποιαδήποτε άλλη ημερομηνία μετά από αναβολή αυτής",
+  "protocol_number": "26/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6241",
+    "label": "ΔΗΜΟΣ ΠΑΤΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82476"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-01-24",
+  "posted": "2017-01-25",
+  "publish_timestamp_ms": 1485337138452,
+  "version_id": "3919c0a6-d29e-4133-b5d4-b04afb468969",
+  "in_force": "2017-01-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/75%CE%A9%CE%A1%CE%A9%CE%9E%CE%99-9%CE%A95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/75%CE%A9%CE%A1%CE%A9%CE%9E%CE%99-9%CE%A95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/75%CE%A9%CE%A1%CE%A9%CE%9E%CE%99-9%CE%A95",
+  "listing_sha256": "cffe8fe232a1d3a2cf4696bee7c6322d8ff43e46e10cd14867f73d37ab5899e1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
