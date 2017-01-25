@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Θ21Ω16-ΙΝ1",
+  "subject": "Απόφαση ΟΕ 6/2017 περί Σύστασης Παγίας Προκαταβολής, οικ. έτους 2017 για το Δήμο Ραφήνας-Πικερμίου.",
+  "protocol_number": "6/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6262",
+    "label": "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "10734"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "6/2017",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-01-23",
+  "posted": "2017-01-25",
+  "publish_timestamp_ms": 1485325746937,
+  "version_id": "9a3a626e-1ed1-477b-b1db-ed4c1741d2b8",
+  "in_force": "2017-01-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9821%CE%A916-%CE%99%CE%9D1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9821%CE%A916-%CE%99%CE%9D1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9821%CE%A916-%CE%99%CE%9D1",
+  "listing_sha256": "fbc3407587b33d6be7794a673d6dd1c1f717dfad0e0ac6497626d3d54bb282fc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
