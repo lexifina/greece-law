@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΕΘΘΩΕΠ-ΝΡΦ",
+  "subject": "Aίτημα για την παράταση της προέγκρισης ίδρυσης καταστήματος.",
+  "protocol_number": "128",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6120",
+    "label": "ΔΗΜΟΣ ΙΗΤΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80963"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-01-24",
+  "posted": "2017-01-31",
+  "publish_timestamp_ms": 1485852953663,
+  "version_id": "81887364-17a5-4ae5-8847-c2dc097d88c3",
+  "in_force": "2017-01-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%98%CE%98%CE%A9%CE%95%CE%A0-%CE%9D%CE%A1%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%98%CE%98%CE%A9%CE%95%CE%A0-%CE%9D%CE%A1%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%95%CE%98%CE%98%CE%A9%CE%95%CE%A0-%CE%9D%CE%A1%CE%A6",
+  "listing_sha256": "cffe8fe232a1d3a2cf4696bee7c6322d8ff43e46e10cd14867f73d37ab5899e1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
