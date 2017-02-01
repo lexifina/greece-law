@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΣΩΙ46ΨΖ2Ν-46Γ",
+  "subject": "Ίδρυση Γαστρεντερολογικής Κλινικής στο Τμήμα Νοσηλευτικής",
+  "protocol_number": "1617016610/31-1-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99203020",
+    "label": "ΕΘΝΙΚΟ & ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "73414"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "156",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "kanonistikipraxiaa": "298",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-01-11",
+  "posted": "2017-02-01",
+  "publish_timestamp_ms": 1485952188618,
+  "version_id": "74903459-dfab-4ccd-b4a9-a11f55844c10",
+  "in_force": "2017-02-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%A9%CE%9946%CE%A8%CE%962%CE%9D-46%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%A9%CE%9946%CE%A8%CE%962%CE%9D-46%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A3%CE%A9%CE%9946%CE%A8%CE%962%CE%9D-46%CE%93",
+  "listing_sha256": "98c6c89137e2cfbcc4209b638bdda78510e278183eb6cce5b3c6dee94d856b35",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
