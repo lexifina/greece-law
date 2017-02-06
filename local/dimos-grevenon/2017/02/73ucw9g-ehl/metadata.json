@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "73ΘΨΩ9Γ-ΕΗΛ",
+  "subject": "Καθιέρωση υπερωριακής εργασίας των Ληξιάρχων Δήμου Γρεβενών",
+  "protocol_number": "586",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6069",
+    "label": "ΔΗΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "95194"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "202",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-02-06",
+  "posted": "2017-02-06",
+  "publish_timestamp_ms": 1486367389296,
+  "version_id": "d66ca863-8e9f-44b2-944e-21e8ba4778aa",
+  "in_force": "2017-02-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/73%CE%98%CE%A8%CE%A99%CE%93-%CE%95%CE%97%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/73%CE%98%CE%A8%CE%A99%CE%93-%CE%95%CE%97%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/73%CE%98%CE%A8%CE%A99%CE%93-%CE%95%CE%97%CE%9B",
+  "listing_sha256": "2754475299d48e18bf03dc7377d4ac7b5adae2c76e5164ae10484e27e7f37524",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
