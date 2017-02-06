@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Π1ΔΩ6Θ-ΒΙΕ",
+  "subject": "Αποδέσμευση πίστωσης.",
+  "protocol_number": "22",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6004",
+    "label": "ΔΗΜΟΣ ΑΓΙΑΣ ΒΑΡΒΑΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82889"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-02-06",
+  "posted": "2017-02-06",
+  "publish_timestamp_ms": 1486365860289,
+  "version_id": "7a9e0707-24a3-4c8c-af4f-6db9d2da9b82",
+  "in_force": "2017-02-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A01%CE%94%CE%A96%CE%98-%CE%92%CE%99%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A01%CE%94%CE%A96%CE%98-%CE%92%CE%99%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A01%CE%94%CE%A96%CE%98-%CE%92%CE%99%CE%95",
+  "listing_sha256": "2754475299d48e18bf03dc7377d4ac7b5adae2c76e5164ae10484e27e7f37524",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
