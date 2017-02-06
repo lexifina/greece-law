@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω9ΑΡΟΡ10-Α4Ι",
+  "subject": "ΔΑΔ ΒΟΣΚΗΣ ΔΤ 1 β΄ ΔΙΑΚΑΤΕΧΟΜΕΝΟ ΠΑΠΠΑΣ",
+  "protocol_number": "255/16563",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77728"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-02-06",
+  "posted": "2017-02-06",
+  "publish_timestamp_ms": 1486381611676,
+  "version_id": "727cc039-f1f7-4513-9917-fede04bbc63a",
+  "in_force": "2017-02-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%91%CE%A1%CE%9F%CE%A110-%CE%914%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%91%CE%A1%CE%9F%CE%A110-%CE%914%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A99%CE%91%CE%A1%CE%9F%CE%A110-%CE%914%CE%99",
+  "listing_sha256": "2754475299d48e18bf03dc7377d4ac7b5adae2c76e5164ae10484e27e7f37524",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
