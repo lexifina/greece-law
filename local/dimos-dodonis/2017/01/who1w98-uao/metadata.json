@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΗΟ1Ω98-ΘΑΟ",
+  "subject": "Επικύρωση πρακτικού διαγωνισμού  για την προμήθεια καυσίμων και λιπαντικών οικον. έτους 2017",
+  "protocol_number": "729",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6084",
+    "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83282"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω90ΝΩ98-ΖΛΖ"
+      },
+      {
+        "relatedDecisionsADA": "78ΞΩΩ98-1ΣΖ"
+      }
+    ]
+  },
+  "issued": "2017-01-31",
+  "posted": "2017-02-06",
+  "publish_timestamp_ms": 1486375920582,
+  "version_id": "71cff858-afc2-463f-95d3-4762f5bcb24e",
+  "in_force": "2017-02-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%9F1%CE%A998-%CE%98%CE%91%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%9F1%CE%A998-%CE%98%CE%91%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%97%CE%9F1%CE%A998-%CE%98%CE%91%CE%9F",
+  "listing_sha256": "580cff7bcc6cc298acae9cb5483b9a6be6a3a9c11dab5d0464173566f034d632",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
