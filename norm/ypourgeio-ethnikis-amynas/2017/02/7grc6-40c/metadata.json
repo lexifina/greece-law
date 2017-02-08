@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΓΡΨ6-40Ψ",
+  "subject": "ΥΠΕΡΩΡΙΑΚΗ ΕΡΓΑΣΙΑ ΕΜΥ 2017",
+  "protocol_number": "Φ.479.21/851/Σ.226",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70156"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "336",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-02-01",
+  "posted": "2017-02-08",
+  "publish_timestamp_ms": 1486558399471,
+  "version_id": "60c33a97-14a3-4e1d-a434-e4c52f4be979",
+  "in_force": "2017-02-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%93%CE%A1%CE%A86-40%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%93%CE%A1%CE%A86-40%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%93%CE%A1%CE%A86-40%CE%A8",
+  "listing_sha256": "534b9b7b4e2371ab1d3b0a91e31c6f1e2718edf1f1b35dbb92ee07525634e545",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
