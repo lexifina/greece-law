@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧΛ1465ΧΘΞ-ΤΛ9",
+  "subject": "Ειδοποίηση παρακατάθεσης δικαστικών εξόδων των ακινήτων που έχουν απαλλοτριωθεί με την Κ.Υ.Α. 1004839/376/0010/29-01-2008 (ΑΑΠ 53) για την κατασκευή του τμήματος ΚΟΡΙΝΘΟΣ-ΠΑΤΡΑ, υποτμήμα χ.θ. 16+500 – 24+800 στο Δήμο Σικιωνίων στην ΠΕ Κορίνθου.",
+  "protocol_number": "ΦΚΟΡ6/οικ/144",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007478"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "11",
+      "issue": "fektype_AAP",
+      "issueyear": 2017
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-02-14",
+  "posted": "2017-02-14",
+  "publish_timestamp_ms": 1487069755201,
+  "version_id": "ded93679-fe99-4f5d-8b56-e0542d94be10",
+  "in_force": "2017-02-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%9B1465%CE%A7%CE%98%CE%9E-%CE%A4%CE%9B9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%9B1465%CE%A7%CE%98%CE%9E-%CE%A4%CE%9B9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A7%CE%9B1465%CE%A7%CE%98%CE%9E-%CE%A4%CE%9B9",
+  "listing_sha256": "3f61563bdbb0b73962dfd208962aedd49bfb8490fecc0e46cc2a20c55898dead",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
