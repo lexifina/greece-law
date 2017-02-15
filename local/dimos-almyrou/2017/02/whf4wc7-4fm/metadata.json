@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΗΦ4ΩΨ7-4ΦΜ",
+  "subject": "Εκμίσθωση δημοτικού αναψυκτηρίου στο δημοτικό δάσος «Κουρί» Δήμου Αλμυρού.",
+  "protocol_number": "3241",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6022",
+    "label": "ΔΗΜΟΣ ΑΛΜΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79081"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-02-15",
+  "posted": "2017-02-15",
+  "publish_timestamp_ms": 1487149722773,
+  "version_id": "db7a6d31-661d-468f-9bdb-1f2df20d4af3",
+  "in_force": "2017-02-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%A64%CE%A9%CE%A87-4%CE%A6%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%A64%CE%A9%CE%A87-4%CE%A6%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%97%CE%A64%CE%A9%CE%A87-4%CE%A6%CE%9C",
+  "listing_sha256": "fe6075c02dab0e53ff023a0a1a79f6a437613f6a7c62241bd47ae31e3d037bee",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
