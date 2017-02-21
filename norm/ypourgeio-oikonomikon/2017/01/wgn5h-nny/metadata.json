@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΝ5Η-ΝΝΥ",
+  "subject": "Απαλλαγή από τον ΦΠΑ της παράδοσης αγαθών και παροχής υπηρεσιών που πραγματοποιούνται προς τους διεθνείς οργανισμούς που εδρεύουν σε τρίτη χώρα",
+  "protocol_number": "ΠΟΛ 1010",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "11211"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "410",
+      "issueyear": 2017,
+      "issue": "fektype_B"
+    },
+    "kanonistikipraxitype": "Πράξη Γενικού / Ειδικού Γραμματέα Υπουργείου",
+    "kanonistikipraxiaa": "1010",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-01-19",
+  "posted": "2017-02-21",
+  "publish_timestamp_ms": 1487661237428,
+  "version_id": "2fb8f535-67d9-47d4-9eda-1508036be374",
+  "in_force": "2017-02-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%9D5%CE%97-%CE%9D%CE%9D%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%9D5%CE%97-%CE%9D%CE%9D%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%9D5%CE%97-%CE%9D%CE%9D%CE%A5",
+  "listing_sha256": "6db0d6f1bff74021920531d9c544c228ce054ddfdd8394c8e369bc544e4cafbd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
