@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΘΨ37ΛΡ-Π5Θ",
+  "subject": "Διαπίστωση της ανάγκης για υπερωριακή απασχόλησης",
+  "protocol_number": "2",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "82003"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "368",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-01-12",
+  "posted": "2017-02-21",
+  "publish_timestamp_ms": 1487675038169,
+  "version_id": "a5ba1600-4bfe-4d6e-927d-2c53c49d61c5",
+  "in_force": "2017-02-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%98%CE%A837%CE%9B%CE%A1-%CE%A05%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%98%CE%A837%CE%9B%CE%A1-%CE%A05%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%98%CE%A837%CE%9B%CE%A1-%CE%A05%CE%98",
+  "listing_sha256": "04426ef671bc9ec701dbaf56ade0f7b3bc89b7630ab43d1ca5b61316c86532a8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
