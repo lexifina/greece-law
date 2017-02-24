@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠΡΣΟΡ1Φ-5ΘΜ",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 56/2017 απόφασης Δημοτικού Συμβουλίου Δήμου Ναυπακτίας",
+  "protocol_number": "39033",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΕΥΧΩΚΓ-ΥΦΧ"
+      }
+    ]
+  },
+  "issued": "2017-02-23",
+  "posted": "2017-02-24",
+  "publish_timestamp_ms": 1487931837140,
+  "version_id": "5756f64b-f70c-4c1b-b514-5283c061bd4e",
+  "in_force": "2017-02-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%A1%CE%A3%CE%9F%CE%A11%CE%A6-5%CE%98%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%A1%CE%A3%CE%9F%CE%A11%CE%A6-5%CE%98%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A0%CE%A1%CE%A3%CE%9F%CE%A11%CE%A6-5%CE%98%CE%9C",
+  "listing_sha256": "71e5b89640cbe11ab3cb93a71dd008bcec815f69dca14f3869bf437d226066c3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
