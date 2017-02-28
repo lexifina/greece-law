@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΓΘΜ6-7ΩΙ",
+  "subject": "Απόφαση Διενέργειας Διαγωνιστικής Διαδικασίας επί τη Βάσει της υπ' αριθ. 01/2016 Συμφωνίας – Πλαίσιο με Σκοπό τη Σύναψη της 3ης Εκτελεστικής Σύμβασης Χρονικής Διάρκειας Έξι (6) Μηνών για το Έργο «Παροχή Υπηρεσιών Καθαριότητας των Εσωτερικών Χώρων του ΥΠΕΘΑ (ΥΕΘΑ – ΑΝΥΕΘΑ - ΥΦΕΘΑ - Γεν. Γραμ. - ΕΔΤ - ΓΔΟΣΥ - ΓΕΚ ΑΘΗΝΩΝ - ΚΕΠΗΥ ΥΜΗΤΟΥ - ΓΔΑΕΕ – ΓΝΣ/ΥΠΕΘΑ)»",
+  "protocol_number": "Φ.800/345/19868/Σ.3047/24 Φεβ 17/ΓΔΟΣΥ/ΔΟΙ/Τμ. Προμ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70167"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΜΠΗ6-30Γ"
+      },
+      {
+        "relatedDecisionsADA": "6Γ3Ο6-Λ2Χ"
+      }
+    ]
+  },
+  "issued": "2017-02-24",
+  "posted": "2017-02-28",
+  "publish_timestamp_ms": 1488280520427,
+  "version_id": "4cc87af2-ffb4-40e3-9a3c-171ee933eaec",
+  "in_force": "2017-02-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%93%CE%98%CE%9C6-7%CE%A9%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%93%CE%98%CE%9C6-7%CE%A9%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%93%CE%98%CE%9C6-7%CE%A9%CE%99",
+  "listing_sha256": "40c0f41d6d35b352c6aae46e853a0ed159a6876f8b765b9206c54039fe9ea4d7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
