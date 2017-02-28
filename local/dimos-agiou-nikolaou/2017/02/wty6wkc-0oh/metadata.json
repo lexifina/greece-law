@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΥ6ΩΚΨ-0ΟΗ",
+  "subject": "Ορισμός Αντιδημάρχων",
+  "protocol_number": "345",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6195",
+    "label": "ΔΗΜΟΣ AΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82087"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-02-28",
+  "posted": "2017-02-28",
+  "publish_timestamp_ms": 1488287340552,
+  "version_id": "6ed6bb76-d21b-4f02-af6a-8b6b1083e325",
+  "in_force": "2017-02-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A56%CE%A9%CE%9A%CE%A8-0%CE%9F%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A56%CE%A9%CE%9A%CE%A8-0%CE%9F%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%A56%CE%A9%CE%9A%CE%A8-0%CE%9F%CE%97",
+  "listing_sha256": "a3737284d09f83f57464d0f7132b3c8b1d41b1a05ad3847bdf479b9c1e5212f0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
