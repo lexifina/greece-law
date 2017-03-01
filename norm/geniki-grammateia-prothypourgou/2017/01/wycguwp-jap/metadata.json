@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥΨΓΘΩΠ-ΞΑΠ",
+  "subject": "Τροποποίηση της 37/2-11-2015 Πράξης Υπουργικού Συμβουλίου \"Ανασύσταση του Κυβερνητικού Συμβουλίου για την Οικονομική Πολιτική\".",
+  "protocol_number": "4",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "91380"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "8",
+      "issue": "fektype_A",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Πράξη Υπουργικού Συμβουλίου",
+    "kanonistikipraxiaa": "4",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-01-24",
+  "posted": "2017-03-01",
+  "publish_timestamp_ms": 1488371213593,
+  "version_id": "98b740d4-623c-4d5f-8b55-e5a395c7e0d4",
+  "in_force": "2017-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%A8%CE%93%CE%98%CE%A9%CE%A0-%CE%9E%CE%91%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%A8%CE%93%CE%98%CE%A9%CE%A0-%CE%9E%CE%91%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A5%CE%A8%CE%93%CE%98%CE%A9%CE%A0-%CE%9E%CE%91%CE%A0",
+  "listing_sha256": "cffe8fe232a1d3a2cf4696bee7c6322d8ff43e46e10cd14867f73d37ab5899e1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
