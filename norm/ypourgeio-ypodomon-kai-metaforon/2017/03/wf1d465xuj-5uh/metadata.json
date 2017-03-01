@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦ1Δ465ΧΘΞ-5ΘΗ",
+  "subject": "ΣΥΝΕΡΓΕΙΟ ΥΠΕΡΩΡΙΑΚΗΣ ΑΠΑΣΧΟΛΗΣΗΣ",
+  "protocol_number": "ΔΑΖΟ/118",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76652"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4380",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-03-01",
+  "posted": "2017-03-01",
+  "publish_timestamp_ms": 1488352368359,
+  "version_id": "6a9c831c-de11-4a57-82dc-8438fd38f20a",
+  "in_force": "2017-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A61%CE%94465%CE%A7%CE%98%CE%9E-5%CE%98%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A61%CE%94465%CE%A7%CE%98%CE%9E-5%CE%98%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A61%CE%94465%CE%A7%CE%98%CE%9E-5%CE%98%CE%97",
+  "listing_sha256": "21aaf2454692fe51b71cb64e2993bc9b2350fde3a22c44aa36cce4d14d16bb6f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
