@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7802ΘΩΠ-ΜΑΟ",
+  "subject": "Παράταση της ισχύος της 33/2006 Π.Υ.Σ. \"Αναστολή διορισμών και προσλήψεων στο Δημόσιο Τομέα\"",
+  "protocol_number": "27",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "91380"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "243",
+      "issue": "fektype_A",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Πράξη Υπουργικού Συμβουλίου",
+    "kanonistikipraxiaa": "ΠΥΣ27",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-12-29",
+  "posted": "2017-03-01",
+  "publish_timestamp_ms": 1488370401968,
+  "version_id": "2be777a4-e3a9-4a12-aa8d-81524b215c8e",
+  "in_force": "2017-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7802%CE%98%CE%A9%CE%A0-%CE%9C%CE%91%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7802%CE%98%CE%A9%CE%A0-%CE%9C%CE%91%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7802%CE%98%CE%A9%CE%A0-%CE%9C%CE%91%CE%9F",
+  "listing_sha256": "2b1ba2cec84bdf4f74803669991aa426d55d0d16d7fa1608221212817daee852",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
