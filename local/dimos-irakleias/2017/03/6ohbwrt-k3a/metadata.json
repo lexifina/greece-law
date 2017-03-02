@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΟΗΒΩΡΤ-Κ3Α",
+  "subject": "Απόφαση έγκρισης και δέσμευσης πίστωσης για Συντήρηση Δημοτικού Κτιρίου (πρώην ΔΕΥΑΗ) και διαμόρφωση αύλειου χώρου  (Συνεχιζόμενο)",
+  "protocol_number": "2622",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6108",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80941"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "71ΥΨΩΡΤ-7ΑΠ"
+      }
+    ]
+  },
+  "issued": "2017-03-02",
+  "posted": "2017-03-02",
+  "publish_timestamp_ms": 1488451175183,
+  "version_id": "c2042a33-4d90-4af4-900e-adc3978b0254",
+  "in_force": "2017-03-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F%CE%97%CE%92%CE%A9%CE%A1%CE%A4-%CE%9A3%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F%CE%97%CE%92%CE%A9%CE%A1%CE%A4-%CE%9A3%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9F%CE%97%CE%92%CE%A9%CE%A1%CE%A4-%CE%9A3%CE%91",
+  "listing_sha256": "c9e4a2c2baa582d74341d8dc5350cc252386df865b21c79e81cba342de7ea142",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
