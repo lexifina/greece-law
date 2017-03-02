@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ο74ΩΕΨ-Κ0Ν",
+  "subject": "Έγκριση τακτοποίησης οφειλών στο Δημοτικό Κοιμητήριο Καισαριανής.",
+  "protocol_number": "2498",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6127",
+    "label": "ΔΗΜΟΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82864"
+  ],
+  "thematic_category_ids": [
+    "66"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-03-02",
+  "posted": "2017-03-02",
+  "publish_timestamp_ms": 1488443068005,
+  "version_id": "b32c4257-1126-433f-8fc0-d8a022be9d28",
+  "in_force": "2017-03-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F74%CE%A9%CE%95%CE%A8-%CE%9A0%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F74%CE%A9%CE%95%CE%A8-%CE%9A0%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9F74%CE%A9%CE%95%CE%A8-%CE%9A0%CE%9D",
+  "listing_sha256": "c9e4a2c2baa582d74341d8dc5350cc252386df865b21c79e81cba342de7ea142",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
