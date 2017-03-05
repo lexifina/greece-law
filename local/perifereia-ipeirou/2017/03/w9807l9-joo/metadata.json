@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω9807Λ9-ΞΟΟ",
+  "subject": "ΣΥΜΒΑΣΗ ΙΑΤΡΟΥ",
+  "protocol_number": "9941/2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5006",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81265"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-03-05",
+  "posted": "2017-03-05",
+  "publish_timestamp_ms": 1488714090327,
+  "version_id": "516eb141-d66e-4b8d-aaa5-a250aa44e904",
+  "in_force": "2017-03-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99807%CE%9B9-%CE%9E%CE%9F%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99807%CE%9B9-%CE%9E%CE%9F%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A99807%CE%9B9-%CE%9E%CE%9F%CE%9F",
+  "listing_sha256": "317317bd528467f146523032191c12304e62a15a02e44e6257d1658a57ec6fa4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
