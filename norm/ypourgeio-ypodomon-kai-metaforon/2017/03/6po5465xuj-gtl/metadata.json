@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΠΟ5465ΧΘΞ-ΓΤΛ",
+  "subject": "«Έγκριση αμοιβών των ιδιωτών - μελών του Τεχνικού Συμβουλίου της ΣΤΑ.ΣΥ. Α.Ε.»",
+  "protocol_number": "Οικ.Α-236/22/30-12-2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70354"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "104",
+      "issue": "fektype_YODD",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-03-07",
+  "posted": "2017-03-08",
+  "publish_timestamp_ms": 1488962796871,
+  "version_id": "268fefa3-f683-4337-989d-bf24b5fbb77a",
+  "in_force": "2017-03-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A0%CE%9F5465%CE%A7%CE%98%CE%9E-%CE%93%CE%A4%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A0%CE%9F5465%CE%A7%CE%98%CE%9E-%CE%93%CE%A4%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A0%CE%9F5465%CE%A7%CE%98%CE%9E-%CE%93%CE%A4%CE%9B",
+  "listing_sha256": "1e7ebb60132e0bd1e536ca34526010b0f76b29a75551c3b40136e5a0acb86488",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
