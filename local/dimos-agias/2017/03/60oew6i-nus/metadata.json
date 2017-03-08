@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60ΟΕΩ6Ι-ΝΘΣ",
+  "subject": "ΧΟΡΗΓΗΣΗ ΔΙΚΑΙΩΜΑΤΟΣ ΔΙΕΛΕΥΣΗΣ-\nΆΔΕΙΑ ΕΚΤΕΛΕΣΗΣ ΕΡΓΑΣΙΩΝ ΕΛΑΦΟΣ",
+  "protocol_number": "1685",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6003",
+    "label": "ΔΗΜΟΣ ΑΓΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "89772"
+  ],
+  "thematic_category_ids": [
+    "10015"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10002",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-03-08",
+  "posted": "2017-03-08",
+  "publish_timestamp_ms": 1488957182036,
+  "version_id": "8b7f85c1-b361-45e2-b78f-a6465c5afd89",
+  "in_force": "2017-03-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%9F%CE%95%CE%A96%CE%99-%CE%9D%CE%98%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%9F%CE%95%CE%A96%CE%99-%CE%9D%CE%98%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%9F%CE%95%CE%A96%CE%99-%CE%9D%CE%98%CE%A3",
+  "listing_sha256": "e1bf63124c674227d38dd7e93b8ec265476cca4f9c7000918822285a9bf9cbeb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
