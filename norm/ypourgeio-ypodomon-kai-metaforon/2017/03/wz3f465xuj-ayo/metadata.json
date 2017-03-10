@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΖ3Φ465ΧΘΞ-ΑΥΟ",
+  "subject": "Τροποποίηση της απόφασης  Δ11/Ε/5108/3301/03-03-2017 περί συγκρότησης Επιτροπής αγορών – εκτέλεσης εργασιών ΚΥ/ΥΠΑ",
+  "protocol_number": "Δ11/Ε/5554/3714",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76401"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΓΩΗ465ΧΘΞ-ΖΦΜ"
+      }
+    ]
+  },
+  "issued": "2017-03-10",
+  "posted": "2017-03-10",
+  "publish_timestamp_ms": 1489135637090,
+  "version_id": "18d1193e-1120-4061-9729-0b991e7fba52",
+  "in_force": "2017-03-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%963%CE%A6465%CE%A7%CE%98%CE%9E-%CE%91%CE%A5%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%963%CE%A6465%CE%A7%CE%98%CE%9E-%CE%91%CE%A5%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%963%CE%A6465%CE%A7%CE%98%CE%9E-%CE%91%CE%A5%CE%9F",
+  "listing_sha256": "5544c46cd50941898905c53538f006bbae5d89239f604fb55f5629e2b7312d7c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
