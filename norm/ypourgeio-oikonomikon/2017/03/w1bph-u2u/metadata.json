@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω1ΒΠΗ-Θ2Θ",
+  "subject": "ΤΥΠΟΣ ΚΑΙ ΠΕΡΙΕΧΟΜΕΝΟ ΤΗΣ ΔΗΛΩΣΗΣ ΦΟΡΟΛΟΓΙΑΣ ΕΙΣΟΔΗΜΑΤΟΣ ΦΥΣΙΚΩΝ ΠΡΟΣΩΠΩΝ, ΦΟΡΟΛΟΓΙΚΟΥ ΕΤΟΥΣ 2016, ΤΩΝ ΛΟΙΠΩΝ ΕΝΤΥΠΩΝ ΚΑΙ ΤΩΝ ΔΙΚΑΙΟΛΟΓΗΤΙΚΩΝ ΕΓΓΡΑΦΩΝ ΠΟΥ ΥΠΟΒΑΛΛΟΝΤΑΙ ΜΕ ΑΥΤΗ",
+  "protocol_number": "1034",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "11211"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "759",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Πράξη Ανεξάρτητης Αρχής",
+    "kanonistikipraxiaa": "1034",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-03-10",
+  "posted": "2017-03-10",
+  "publish_timestamp_ms": 1489127037555,
+  "version_id": "807623c8-c28d-45ef-936d-073de1592ae7",
+  "in_force": "2017-03-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%92%CE%A0%CE%97-%CE%982%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%92%CE%A0%CE%97-%CE%982%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A91%CE%92%CE%A0%CE%97-%CE%982%CE%98",
+  "listing_sha256": "5544c46cd50941898905c53538f006bbae5d89239f604fb55f5629e2b7312d7c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
