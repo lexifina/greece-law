@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΛΛ5Ω-Χ89",
+  "subject": "ΚΟΙΝΗ ΥΠΟΥΡΓΙΚΗ ΑΠΟΦΑΣΗ ΑΣΚΗΣΗΣ ΥΠΟΨΗΦΙΩΝ ΔΙΚΗΓΟΡΩΝ ΣΤΗΝ ΚΕΝΤΡΙΚΗ ΥΠΗΡΕΣΙΑ ΤΟΥ ΥΠΟΥΡΓΕΙΟΥ ΔΙΚΑΙΟΣΥΝΗΣ, ΔΙΑΦΑΝΕΙΑΣ ΚΑΙ ΑΝΘΡΩΠΙΝΩΝ ΔΙΚΑΙΩΜΑΤΩΝ",
+  "protocol_number": "16992",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100010922"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "766",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "16992",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-02-06",
+  "posted": "2017-03-14",
+  "publish_timestamp_ms": 1489484146749,
+  "version_id": "1137634b-02d9-4e35-b439-de0e75a11868",
+  "in_force": "2017-03-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%9B5%CE%A9-%CE%A789",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%9B5%CE%A9-%CE%A789/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9B%CE%9B5%CE%A9-%CE%A789",
+  "listing_sha256": "25a938c2276f934787365eb02c885306d5cdd10bc5e6ca0914a85d30d2ad7164",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
