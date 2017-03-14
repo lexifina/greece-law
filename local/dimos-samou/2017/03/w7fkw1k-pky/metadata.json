@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω7ΦΚΩ1Κ-ΠΚΥ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΑΡ.430/2017 ΠΕΡΙ ΑΛΛΑΓΗΣ ΤΟΠΟΘΕΤΗΣΗΣ ΩΦΕΛΟΥΜΕΝΩΝ ΠΡΟΓΡΑΜΜΑΤΟΣ ΟΑΕΔ",
+  "protocol_number": "5503/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6268",
+    "label": "ΔΗΜΟΣ ΣΑΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80377"
+  ],
+  "thematic_category_ids": [
+    "44",
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "430/2017",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-03-14",
+  "posted": "2017-03-14",
+  "publish_timestamp_ms": 1489484329996,
+  "version_id": "72779f90-e6fc-472e-97b2-11398cf60b2a",
+  "in_force": "2017-03-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%A6%CE%9A%CE%A91%CE%9A-%CE%A0%CE%9A%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%A6%CE%9A%CE%A91%CE%9A-%CE%A0%CE%9A%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A97%CE%A6%CE%9A%CE%A91%CE%9A-%CE%A0%CE%9A%CE%A5",
+  "listing_sha256": "cd7ae9e214a1ed74c0b37c846587a4d4f17fe049cfd47afd038f1a1537cd6517",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
