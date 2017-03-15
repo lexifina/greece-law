@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΚΩ3ΩΡΤ-ΦΨ2",
+  "subject": "Απόφαση Ανάληψης Υποχρέωσης:Δικαστικά έξοδα και έξοδα εκτέλεσης δικαστικών αποφάσεων ή συμβιβαστικών πράξεων - αποζημιώσεις πολιτών από κακοτεχνίες,ατυχήματα κ.λ.π.",
+  "protocol_number": "3266",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6108",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80941"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΖ19ΩΡΤ-ΤΒΞ"
+      }
+    ]
+  },
+  "issued": "2017-03-15",
+  "posted": "2017-03-15",
+  "publish_timestamp_ms": 1489572425246,
+  "version_id": "f8ffee1d-cb82-4c07-9ee9-6fbae8ca23f8",
+  "in_force": "2017-03-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%A93%CE%A9%CE%A1%CE%A4-%CE%A6%CE%A82",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%A93%CE%A9%CE%A1%CE%A4-%CE%A6%CE%A82/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9A%CE%A93%CE%A9%CE%A1%CE%A4-%CE%A6%CE%A82",
+  "listing_sha256": "7cd363c91195eac13c71fb5adeb6bd62eb3c52001793c22b7ef511a1a4dc82f3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
