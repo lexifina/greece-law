@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΡΒΗΕΩΗΧ-6ΧΙ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ 1η Τροποποίηση Τεχνικού Προγράμματος έτους 2017",
+  "protocol_number": "17/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6321",
+    "label": "ΔΗΜΟΣ ΨΑΡΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84192"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "14",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-02-20",
+  "posted": "2017-03-16",
+  "publish_timestamp_ms": 1489686050250,
+  "version_id": "51a8d53e-68e2-4f7c-a30b-3b5d35a8578c",
+  "in_force": "2017-03-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%92%CE%97%CE%95%CE%A9%CE%97%CE%A7-6%CE%A7%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%92%CE%97%CE%95%CE%A9%CE%97%CE%A7-6%CE%A7%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A1%CE%92%CE%97%CE%95%CE%A9%CE%97%CE%A7-6%CE%A7%CE%99",
+  "listing_sha256": "c0e8fcdf4c0a6e44b16790afabb0f53ceecac9f13effe305740fa95848a4b045",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
