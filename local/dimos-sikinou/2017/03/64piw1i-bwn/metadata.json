@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "64ΠΙΩ1Ι-ΒΩΝ",
+  "subject": "ΠΡΟΣΚΛΗΣΗ ΟΙΚ. ΕΠΙΤΡΟΠΗΣ Δ. ΣΙΚΙΝΟΥ",
+  "protocol_number": "136",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6275",
+    "label": "ΔΗΜΟΣ ΣΙΚΙΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "92739"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-03-16",
+  "posted": "2017-03-16",
+  "publish_timestamp_ms": 1489657769360,
+  "version_id": "bc21e87b-2924-4e5c-a760-483fff990893",
+  "in_force": "2017-03-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/64%CE%A0%CE%99%CE%A91%CE%99-%CE%92%CE%A9%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/64%CE%A0%CE%99%CE%A91%CE%99-%CE%92%CE%A9%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/64%CE%A0%CE%99%CE%A91%CE%99-%CE%92%CE%A9%CE%9D",
+  "listing_sha256": "a653cbb54bb3a8b411bfa3796496ab6fba8051ee96222838500b25fac9636abd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
