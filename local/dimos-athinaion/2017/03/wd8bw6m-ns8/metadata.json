@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔ8ΒΩ6Μ-ΝΣ8",
+  "subject": "Τροποποίηση της με Α.Π.406714/28-12-2016 απόφασης",
+  "protocol_number": "061408",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6013",
+    "label": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "90120"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "859",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-03-02",
+  "posted": "2017-03-17",
+  "publish_timestamp_ms": 1489748552270,
+  "version_id": "d2d340e7-d34f-4513-b32e-f14754fa2b9d",
+  "in_force": "2017-03-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%948%CE%92%CE%A96%CE%9C-%CE%9D%CE%A38",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%948%CE%92%CE%A96%CE%9C-%CE%9D%CE%A38/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%948%CE%92%CE%A96%CE%9C-%CE%9D%CE%A38",
+  "listing_sha256": "5d1eaa50e109ab0652a6ce10978c3d4bfc8cf0844863b1d7ccebcbca77f9c95b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
