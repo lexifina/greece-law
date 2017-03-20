@@ -1,0 +1,50 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΚ6ΙΟΡ1Φ-ΘΣ2",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 33/2017 απόφασης Δημοτικού Συμβουλίου Δήμου Ακτίου-Βόνιτσας",
+  "protocol_number": "57342",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76448"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΣΠ5Ω6Ζ-ΟΒ6"
+      },
+      {
+        "relatedDecisionsADA": "6ΚΘ27Λ6-Β4Φ"
+      },
+      {
+        "relatedDecisionsADA": "Ψ7Α9ΟΡ1Φ-Φ7Π"
+      },
+      {
+        "relatedDecisionsADA": "Ω1ΕΧΩ6Ζ-ΓΑΜ"
+      }
+    ]
+  },
+  "issued": "2017-03-17",
+  "posted": "2017-03-20",
+  "publish_timestamp_ms": 1489994573871,
+  "version_id": "b0d8aa28-66aa-494a-8010-03e76180df0a",
+  "in_force": "2017-03-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A6%CE%99%CE%9F%CE%A11%CE%A6-%CE%98%CE%A32",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A6%CE%99%CE%9F%CE%A11%CE%A6-%CE%98%CE%A32/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9A6%CE%99%CE%9F%CE%A11%CE%A6-%CE%98%CE%A32",
+  "listing_sha256": "168b54443bf5f7aec80cb32977d8e95f5f686dfb0ba59dfc422a2af85ff37bcb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
