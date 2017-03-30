@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Κ70ΩΡΤ-Ι9Θ",
+  "subject": "Απόφαση έγκρισης και διάθεσης (ψήφιση) πίστωσης για οδοιπορικά έξοδα και αποζημίωση μετακινούμενων αιρετών.",
+  "protocol_number": "3972",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6108",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80941"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω4Λ4ΩΡΤ-Χ0Υ"
+      }
+    ]
+  },
+  "issued": "2017-03-30",
+  "posted": "2017-03-30",
+  "publish_timestamp_ms": 1490851933351,
+  "version_id": "dfb871cf-4ca6-4905-933f-dc4f5793f3c0",
+  "in_force": "2017-03-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A70%CE%A9%CE%A1%CE%A4-%CE%999%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A70%CE%A9%CE%A1%CE%A4-%CE%999%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9A70%CE%A9%CE%A1%CE%A4-%CE%999%CE%98",
+  "listing_sha256": "f0a994021b52f67bc8283c6e22134df5187b7d5b2d607f8cd780a0b70e163b38",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
