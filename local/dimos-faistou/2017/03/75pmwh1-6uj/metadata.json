@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "75ΠΜΩΗ1-6ΘΞ",
+  "subject": "Μισθωση χωρου σταθμευσης οχηματων Δ.Ε. Ζαρου",
+  "protocol_number": "4819",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6304",
+    "label": "ΔΗΜΟΣ ΦΑΙΣΤΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83703"
+  ],
+  "thematic_category_ids": [
+    "66"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-03-31",
+  "posted": "2017-03-31",
+  "publish_timestamp_ms": 1490938118890,
+  "version_id": "dafcb94e-56b6-4367-ac48-7e7f8dfad473",
+  "in_force": "2017-03-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/75%CE%A0%CE%9C%CE%A9%CE%971-6%CE%98%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/75%CE%A0%CE%9C%CE%A9%CE%971-6%CE%98%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/75%CE%A0%CE%9C%CE%A9%CE%971-6%CE%98%CE%9E",
+  "listing_sha256": "be7a2daac5943546cbc1f581e82e7fdee837c066a8635ca8a26d3438b67585d3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
