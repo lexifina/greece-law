@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠΗ2Ω98-Φ9Λ",
+  "subject": "Επικύρωση πρακτικών δημοπρασίας για την εκμίσθωση Κοιν. Καταστήματος  Τ.Κ Αρτοπούλας",
+  "protocol_number": "2656",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6084",
+    "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83282"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΧΛ5Ω98-Ω94"
+      },
+      {
+        "relatedDecisionsADA": "673ΗΩ98-ΟΛΨ"
+      }
+    ]
+  },
+  "issued": "2017-03-29",
+  "posted": "2017-04-05",
+  "publish_timestamp_ms": 1491381214029,
+  "version_id": "c4895006-1db5-482e-ac10-75ff224988f0",
+  "in_force": "2017-04-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%972%CE%A998-%CE%A69%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%972%CE%A998-%CE%A69%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A0%CE%972%CE%A998-%CE%A69%CE%9B",
+  "listing_sha256": "2cbd1ce15c460fa4794ff94c291a4d795c3036607508c24678b5a085f8e05107",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
