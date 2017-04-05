@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ1Ν5Ε-1ΦΡ",
+  "subject": "ΥΠΟΥΡΓΙΚΗ ΑΠΟΦΑΣΗ ΑΝΑΦΟΡΙΚΑ ΜΕ ΑΠΟΦΑΣΗ 2317 (2016) ΤΟΥ ΣΥΜΒΟΥΛΙΟΥ ΑΣΦΑΛΕΙΑΣ Ο.Η.Ε. ΣΧΕΤΙΚΑ ΜΕ ΤΗ ΣΟΜΑΛΙΑ",
+  "protocol_number": "3460/ΑΣ 59538",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72603"
+  ],
+  "thematic_category_ids": [
+    "76"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "244",
+      "issue": "fektype_A",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-12-30",
+  "posted": "2017-04-05",
+  "publish_timestamp_ms": 1491390094091,
+  "version_id": "1510038a-896b-43b5-8266-c3c4779e129d",
+  "in_force": "2017-04-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A81%CE%9D5%CE%95-1%CE%A6%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A81%CE%9D5%CE%95-1%CE%A6%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A81%CE%9D5%CE%95-1%CE%A6%CE%A1",
+  "listing_sha256": "13bcc981e0611e81ed75f2e094e3c730e0f204ba0c7b020d5c03fabd2ce4b610",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
