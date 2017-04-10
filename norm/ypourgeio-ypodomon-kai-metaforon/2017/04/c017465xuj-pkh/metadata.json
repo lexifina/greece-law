@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ017465ΧΘΞ-ΠΚΗ",
+  "subject": "Ειδοποίηση παρακατάθεσης αποζημίωσης ακινήτων που έχουν απαλλοτριωθεί με την απόφαση 1017462/1097/Δ0010/21.2.2008, (ΑΑΠ 86) των Υπουργών Οικονομίας και Οικονομικών και ΠΕΧΩΔΕ για την κατασκευή του έργου: Συμπληρωματική απαλλοτρίωση του Α/Κ Πλαγίων στο Δήμο Ν.Τρίγλιας στο Ν.Χαλκιδικής.",
+  "protocol_number": "Φ11/οικ/2126",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007478"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "70",
+      "issue": "fektype_AAP",
+      "issueyear": 2017
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-04-10",
+  "posted": "2017-04-10",
+  "publish_timestamp_ms": 1491820457753,
+  "version_id": "8f9ba86c-5da7-411c-a5c6-cd6d104d0c51",
+  "in_force": "2017-04-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8017465%CE%A7%CE%98%CE%9E-%CE%A0%CE%9A%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8017465%CE%A7%CE%98%CE%9E-%CE%A0%CE%9A%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8017465%CE%A7%CE%98%CE%9E-%CE%A0%CE%9A%CE%97",
+  "listing_sha256": "7931555d335ef9b81673f3a6378557799f42d10c94333d357383b524509fa61d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
