@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΒ1Ε465ΧΘΞ-1ΥΕ",
+  "subject": "ΒΕΒΑΙΩΣΗ Προόδου Εργασιών Επισκευής Β΄Δόση #7.475,89€#",
+  "protocol_number": "231/Δ9, Σχετ. :5664/7-12-2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008126"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10003",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "73ΛΩ1-ΜΒΚ"
+      },
+      {
+        "relatedDecisionsADA": "61Θ04653ΟΞ-ΧΞ9"
+      }
+    ]
+  },
+  "issued": "2017-04-10",
+  "posted": "2017-04-11",
+  "publish_timestamp_ms": 1491906407693,
+  "version_id": "0087a2b2-c726-4f3a-bd5c-690ef97a4faa",
+  "in_force": "2017-04-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%921%CE%95465%CE%A7%CE%98%CE%9E-1%CE%A5%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%921%CE%95465%CE%A7%CE%98%CE%9E-1%CE%A5%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%921%CE%95465%CE%A7%CE%98%CE%9E-1%CE%A5%CE%95",
+  "listing_sha256": "363f285016ececcea59f4c3c904da14c1b148820a6429dbe93340d2161017247",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
