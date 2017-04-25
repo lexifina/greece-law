@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΒΩΩΛΚ-27Ε",
+  "subject": "ΕΓΚΡΙΣΗ ΚΥΚΛΟΦΟΡΙΑΚΩΝ ΡΥΘΜΙΣΕΩΝ",
+  "protocol_number": "20/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6166",
+    "label": "ΔΗΜΟΣ ΛΑΜΙΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83288"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-04-25",
+  "posted": "2017-04-25",
+  "publish_timestamp_ms": 1493103161475,
+  "version_id": "822c2b6d-f0f2-4cda-a6f7-797c55884ff7",
+  "in_force": "2017-04-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%92%CE%A9%CE%A9%CE%9B%CE%9A-27%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%92%CE%A9%CE%A9%CE%9B%CE%9A-27%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%92%CE%A9%CE%A9%CE%9B%CE%9A-27%CE%95",
+  "listing_sha256": "a014e30e17d69e1b7eb117a8890a011eafbf3addc626df9821fd9e17975ddf18",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
