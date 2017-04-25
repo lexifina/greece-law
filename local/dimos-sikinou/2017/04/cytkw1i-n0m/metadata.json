@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΥΤΚΩ1Ι-Ν0Μ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ για απευθείας ανάθεση για μεταφορά ειδών",
+  "protocol_number": "23",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6275",
+    "label": "ΔΗΜΟΣ ΣΙΚΙΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100001367"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-04-18",
+  "posted": "2017-04-25",
+  "publish_timestamp_ms": 1493118526475,
+  "version_id": "b4210afd-6090-4e8f-9c6c-2c782bc5e928",
+  "in_force": "2017-04-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A5%CE%A4%CE%9A%CE%A91%CE%99-%CE%9D0%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A5%CE%A4%CE%9A%CE%A91%CE%99-%CE%9D0%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A5%CE%A4%CE%9A%CE%A91%CE%99-%CE%9D0%CE%9C",
+  "listing_sha256": "f00b045aca2a7225409ee410cf4d98f60a6b0ce92043be0f1e6cca40b4543886",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
