@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω0Π47ΛΚ-ΤΚΠ",
+  "subject": "ΠΡΌΣΛΗΨΗ",
+  "protocol_number": "82341",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81119"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-04-25",
+  "posted": "2017-04-26",
+  "publish_timestamp_ms": 1493206214909,
+  "version_id": "536ac269-518e-49c1-b8c1-3ec3f05ad833",
+  "in_force": "2017-04-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%A047%CE%9B%CE%9A-%CE%A4%CE%9A%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%A047%CE%9B%CE%9A-%CE%A4%CE%9A%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A90%CE%A047%CE%9B%CE%9A-%CE%A4%CE%9A%CE%A0",
+  "listing_sha256": "a014e30e17d69e1b7eb117a8890a011eafbf3addc626df9821fd9e17975ddf18",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
