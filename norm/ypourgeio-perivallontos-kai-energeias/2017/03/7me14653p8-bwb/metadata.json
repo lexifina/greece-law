@@ -1,0 +1,99 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΜΕ14653Π8-ΒΩΒ",
+  "subject": "Τροποποίηση της Κοινής Υπουργικής Απόφασης αριθ. 134627/5835/23-12-2015 (ΦΕΚ 2872 Β΄) «Καθορισμός αρμόδιων αρχών, μέτρων και διαδικασιών για την εφαρμογή του Κανονισμού (ΕΕ) αριθ. 995/2010 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 20ης Οκτωβρίου 2010 «για τη θέσπιση των υποχρεώσεων των φορέων εκμετάλλευσης που διαθέτουν ξυλεία και προϊόντα ξυλείας στην αγορά» και των σχετικών με αυτόν, κατ’ εξουσιοδότηση και εκτελεστικών, Κανονισμών της Επιτροπής που εκδίδονται για την εφαρμογή του».",
+  "protocol_number": "152149/1472",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100006895"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1273",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "152149/147",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025896",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100025149"
+        ]
+      },
+      {
+        "ministryId": "100025896",
+        "unitId": [
+          "100011721"
+        ],
+        "signerIds": [
+          "100015166"
+        ]
+      },
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100025103"
+        ]
+      },
+      {
+        "ministryId": "10",
+        "unitId": [
+          "100024992"
+        ],
+        "signerIds": [
+          "100015495"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70114"
+        ],
+        "signerIds": [
+          "100025440"
+        ]
+      },
+      {
+        "ministryId": "100015996",
+        "unitId": [
+          "100019602"
+        ],
+        "signerIds": [
+          "100025088"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-03-21",
+  "posted": "2017-05-02",
+  "publish_timestamp_ms": 1493727880717,
+  "version_id": "cf0d26b0-2857-416b-98e3-2a708267b326",
+  "in_force": "2017-05-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%9514653%CE%A08-%CE%92%CE%A9%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%9514653%CE%A08-%CE%92%CE%A9%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9C%CE%9514653%CE%A08-%CE%92%CE%A9%CE%92",
+  "listing_sha256": "e346bbdb7624b0fd008f49c3cd3beb2b0aed287d213053b8e11da04a1f780e61",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
