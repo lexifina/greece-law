@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "71ΟΨΩΕΙ-4ΝΟ",
+  "subject": "ΟΡΙΣΜΟΣ ΕΠΙΤΡΟΠΗΣ",
+  "protocol_number": "ΔΥ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6139",
+    "label": "ΔΗΜΟΣ ΚΑΣΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81040"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-05-02",
+  "posted": "2017-05-02",
+  "publish_timestamp_ms": 1493725183795,
+  "version_id": "411ad90b-542a-4f4d-b5e6-02852f0edec0",
+  "in_force": "2017-05-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/71%CE%9F%CE%A8%CE%A9%CE%95%CE%99-4%CE%9D%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/71%CE%9F%CE%A8%CE%A9%CE%95%CE%99-4%CE%9D%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/71%CE%9F%CE%A8%CE%A9%CE%95%CE%99-4%CE%9D%CE%9F",
+  "listing_sha256": "dffc579760a64acbc21947bf02c545e9580d147a1b805aaad6648d0b9f7d8e66",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
