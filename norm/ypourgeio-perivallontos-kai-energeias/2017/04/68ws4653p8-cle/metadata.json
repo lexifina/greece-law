@@ -1,0 +1,57 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "68ΩΣ4653Π8-ΨΛΕ",
+  "subject": "Καθορισμός των κατηγοριών και των προδιαγραφών των Πράσινων Σημείων (ΠΣ), των Κέντρων Ανακύκλωσης, Εκπαίδευσης και Διαλογής στην Πηγή (ΚΑΕΔΙΣΠ), των Γωνιών Ανακύκλωσης (ΓΑ) και των Κινητών Πράσινων Σημείων (ΚΙΠΣ), σύμφωνα με το άρθρο 38 του νόμου 4042/2012, όπως ισχύει.",
+  "protocol_number": "οικ.18485/10-04-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100006785"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1412",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "οικ.18485",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100015996",
+        "unitId": [
+          "100019602"
+        ],
+        "signerIds": [
+          "100025088"
+        ]
+      },
+      {
+        "ministryId": "100025896"
+      }
+    ]
+  },
+  "issued": "2017-04-28",
+  "posted": "2017-05-02",
+  "publish_timestamp_ms": 1493717622144,
+  "version_id": "5caebf93-cce1-4d9b-94ba-07242a3882db",
+  "in_force": "2017-05-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/68%CE%A9%CE%A34653%CE%A08-%CE%A8%CE%9B%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/68%CE%A9%CE%A34653%CE%A08-%CE%A8%CE%9B%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/68%CE%A9%CE%A34653%CE%A08-%CE%A8%CE%9B%CE%95",
+  "listing_sha256": "f9bbdec2544e2abb64e63829e97e9233a424210f477155e0a8f314427e583d78",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
