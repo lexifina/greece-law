@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΒΕ0465ΦΥΟ-Γ01",
+  "subject": "Χορήγηση άδειας λειτουργίας στη Μονάδα Μεταμόσχευσης Νεφρού/Νεφρού Παίδων και Ήπατος/ Ήπατος Παίδων του Γ.Ν.Θ. \"ΙΠΠΟΚΡΑΤΕΙΟ\"",
+  "protocol_number": "A3γ/Γ.Π./95021/16",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007933"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1409",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-05-02",
+  "posted": "2017-05-02",
+  "publish_timestamp_ms": 1493715992769,
+  "version_id": "65936e6a-2b9b-4549-8305-b1540d021545",
+  "in_force": "2017-05-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%92%CE%950465%CE%A6%CE%A5%CE%9F-%CE%9301",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%92%CE%950465%CE%A6%CE%A5%CE%9F-%CE%9301/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%92%CE%950465%CE%A6%CE%A5%CE%9F-%CE%9301",
+  "listing_sha256": "dffc579760a64acbc21947bf02c545e9580d147a1b805aaad6648d0b9f7d8e66",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
