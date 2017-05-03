@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΒΨ3Ω97-Π1Μ",
+  "subject": "Επανάληψη δημοπρασίας",
+  "protocol_number": "6202",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6056",
+    "label": "ΔΗΜΟΣ ΒΟΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85682"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "732-2017",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-05-03",
+  "posted": "2017-05-03",
+  "publish_timestamp_ms": 1493798532006,
+  "version_id": "fdd0b27e-ae09-4a49-903f-72b21c91608b",
+  "in_force": "2017-05-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%92%CE%A83%CE%A997-%CE%A01%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%92%CE%A83%CE%A997-%CE%A01%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%92%CE%A83%CE%A997-%CE%A01%CE%9C",
+  "listing_sha256": "7951828920f65a8c306440a837f5f07af0cb7027a4b9b2ae70c80a2f33e152fb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
