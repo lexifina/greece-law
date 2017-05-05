@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΘΩΗΩΗΙ-ΘΟΓ",
+  "subject": "ΑΟΕ 121/2017 Έγκριση και δέσμευση - ψήφιση πιστώσεων Δήμου Φλώρινας προϋπολογισμού 2017",
+  "protocol_number": "8475/171",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84862"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "121/2017",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-05-05",
+  "posted": "2017-05-05",
+  "publish_timestamp_ms": 1493966609093,
+  "version_id": "20f3aab8-3aac-4053-a64f-4d092a172886",
+  "in_force": "2017-05-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%A9%CE%97%CE%A9%CE%97%CE%99-%CE%98%CE%9F%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%A9%CE%97%CE%A9%CE%97%CE%99-%CE%98%CE%9F%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%98%CE%A9%CE%97%CE%A9%CE%97%CE%99-%CE%98%CE%9F%CE%93",
+  "listing_sha256": "0f05314f98646766b9347c0185c8dd3a793b57c23fa34e0c60e48d5d26868c3f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
