@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Μ02ΩΗΡ-432",
+  "subject": "Αποστολή για έγκριση του Εσωτερικού Κανονισμού Υπηρεσιών της ΔΕΠΕ Τρίπολης",
+  "protocol_number": "316/2017 Α.Δ.Σ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6299",
+    "label": "ΔΗΜΟΣ ΤΡΙΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83634"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-05-17",
+  "posted": "2017-05-19",
+  "publish_timestamp_ms": 1495191590750,
+  "version_id": "01d0ca0a-4e3f-4831-a792-0027548b5d13",
+  "in_force": "2017-05-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C02%CE%A9%CE%97%CE%A1-432",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C02%CE%A9%CE%97%CE%A1-432/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9C02%CE%A9%CE%97%CE%A1-432",
+  "listing_sha256": "cae8a755e4e0be39f75ef10730517a02f9afa9b3057648105646438c92388352",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
