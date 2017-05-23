@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΜΜ6Η-Φ4Β",
+  "subject": "Τροποποίηση της υπ΄ αριθ. ΓΔΟΠ 0001750 ΕΞ 2016/ΧΠ 2385/02-12-2016 απόφασης του Υπουργού Οικονομικών για τη σύσταση της νομοπαρασκευαστικής επιτροπής σχετικά με την ενσωμάτωση της Οδηγίας (ΕΕ) 2015/2366 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 25ης Νοεμβρίου 2015 σχετικά με υπηρεσίες πληρωμών στην εσωτερική αγορά, την τροποποίηση των Οδηγιών 2002/65/ΕΚ, 2009/110/ΕΚ, 2013/36/ΕΕ και του Κανονισμού (ΕΕ) αριθ. 1093/2010 και την κατάργηση της Οδηγίας 2007/64/ΕΚ",
+  "protocol_number": "Γ.Δ.Ο.Π.0000805 ΕΞ 2017/Χ.Π.: 466",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7773Η-ΤΨΘ"
+      }
+    ]
+  },
+  "issued": "2017-05-22",
+  "posted": "2017-05-23",
+  "publish_timestamp_ms": 1495519692417,
+  "version_id": "063d0c5b-8ed7-445b-a4bb-9a6664b72f75",
+  "in_force": "2017-05-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%9C6%CE%97-%CE%A64%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%9C6%CE%97-%CE%A64%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9C%CE%9C6%CE%97-%CE%A64%CE%92",
+  "listing_sha256": "b582810f72052cd0b3893f1bbefe57ff6f932f76bbd812508b3f51c207dd6cec",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
