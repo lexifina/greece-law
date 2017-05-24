@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ζ6ΑΩ1Ε-0ΛΘ",
+  "subject": "Ψήφιση πίστωσης ποσού 4.836,00 €  (με Φ.Π.Α) για «Προμήθεια κιγκλιδωμάτων».",
+  "protocol_number": "Δ.Υ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6266",
+    "label": "ΔΗΜΟΣ ΣΑΛΑΜΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82820"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "140/2017",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-05-16",
+  "posted": "2017-05-24",
+  "publish_timestamp_ms": 1495622475672,
+  "version_id": "7873fc8b-619f-4c4d-82e7-05cd7a8d874f",
+  "in_force": "2017-05-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%966%CE%91%CE%A91%CE%95-0%CE%9B%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%966%CE%91%CE%A91%CE%95-0%CE%9B%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%966%CE%91%CE%A91%CE%95-0%CE%9B%CE%98",
+  "listing_sha256": "0dec6a62efa9ab0c08373d2b3755bbd2ede5993d3af340c5b7eae1ec7bbe7361",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
