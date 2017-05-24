@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ι16Ω9Ρ-ΦΔΖ",
+  "subject": "Αποδοχή ή μη της γνωμοδότησης του Δικηγόρου κ. Κούνα Δημητρίου σχετικά με την άσκηση ή μη του ενδίκου μέσου της έφεσης κατά των υπ’αριθ. 5721/2017, 4082/2017, 4083/2017 και 4084/2017 αποφάσεων του Διοικητικού Πρωτοδικείου Αθηνών επί προσφυγών των εταιρειών «ΕΣΤΙΑΤΟΡΙΑ ΒΡΙΛΗΣΣΙΩΝ ΑΝΩΝΥΜΗ ΕΤΑΙΡΙΑ – SNACK BAR FAST FOOD – ΕΣΤΙΑΤΟΡΙΑ ΕΥΡΩΠΑΪΚΟΥ ΤΥΠΟΥ ΓΡΗΓΟΡΗΣ ΕΞΥΠΗΡΕΤΗΣΗΣ» και « ALPHA ΤΡΑΠΕΖΑ ΑΝΩΝΥΜΟΣ ΕΤΑΙΡΕΙΑ»",
+  "protocol_number": "ΑΟΕ 202/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6061",
+    "label": "ΔΗΜΟΣ ΒΡΙΛΗΣΣΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80701"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-05-23",
+  "posted": "2017-05-24",
+  "publish_timestamp_ms": 1495608438370,
+  "version_id": "2d5bba2d-94eb-42e4-8c85-7db6175dd82b",
+  "in_force": "2017-05-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9916%CE%A99%CE%A1-%CE%A6%CE%94%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9916%CE%A99%CE%A1-%CE%A6%CE%94%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9916%CE%A99%CE%A1-%CE%A6%CE%94%CE%96",
+  "listing_sha256": "4a1bee3adb0b5ef71e9645a40a7c02498611b42ca7a0dc58f2c3b55980522a8e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
