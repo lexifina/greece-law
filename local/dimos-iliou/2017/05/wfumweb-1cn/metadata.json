@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΘΜΩΕΒ-1ΨΝ",
+  "subject": "Τροποποίηση της υπ΄ αριθμ. 348/2016 Απόφασης Δημοτικού Συμβουλίου",
+  "protocol_number": "21829",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6123",
+    "label": "ΔΗΜΟΣ ΙΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78734"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "152",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΧΘΤΩΕΒ-ΦΔ0"
+      }
+    ]
+  },
+  "issued": "2017-05-22",
+  "posted": "2017-05-24",
+  "publish_timestamp_ms": 1495608509633,
+  "version_id": "336708e2-7ba9-470b-99c6-90a2f47290c6",
+  "in_force": "2017-05-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%98%CE%9C%CE%A9%CE%95%CE%92-1%CE%A8%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%98%CE%9C%CE%A9%CE%95%CE%92-1%CE%A8%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%98%CE%9C%CE%A9%CE%95%CE%92-1%CE%A8%CE%9D",
+  "listing_sha256": "b582810f72052cd0b3893f1bbefe57ff6f932f76bbd812508b3f51c207dd6cec",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
