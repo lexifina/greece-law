@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΛΘΗΗ-45Φ",
+  "subject": "Παροχή εγγύησης του Ελληνικού Δημοσίου για κάλυψη ομολογιακού δανείου εκδόσεως της τράπεζας “ALPHA BANK Α.Ε. ” συνολικού ποσού 1.000.000.000 ευρώ.",
+  "protocol_number": "2/94535/0025",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4264",
+      "issue": "fektype_B",
+      "issueyear": 2016
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-12-20",
+  "posted": "2017-05-25",
+  "publish_timestamp_ms": 1495717993073,
+  "version_id": "e094b52e-264c-4195-bab9-585c9fbe155d",
+  "in_force": "2017-05-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9B%CE%98%CE%97%CE%97-45%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9B%CE%98%CE%97%CE%97-45%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9B%CE%98%CE%97%CE%97-45%CE%A6",
+  "listing_sha256": "89cf67a87a8cbb65c885411a015c3252ccc310faadb10868909e7a633fb803e0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
