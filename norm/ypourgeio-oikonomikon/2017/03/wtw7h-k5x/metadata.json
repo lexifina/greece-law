@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΩ7Η-Κ5Χ",
+  "subject": "Παροχή εγγύησης του Ελληνικού Δημοσίου για κάλυψη ομολογιακού δανείου εκδόσεως της τράπεζας “EUROBANK ERGASIAS Α.Ε. ” συνολικού ποσού 1.500.000.000 ευρώ.",
+  "protocol_number": "2/22208/0025",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1187",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-03-28",
+  "posted": "2017-05-25",
+  "publish_timestamp_ms": 1495716777995,
+  "version_id": "ebaf0790-e834-4af5-9642-6d7286c51f24",
+  "in_force": "2017-05-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A97%CE%97-%CE%9A5%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A97%CE%97-%CE%9A5%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%A97%CE%97-%CE%9A5%CE%A7",
+  "listing_sha256": "0ef5d96f0a319e18b8629fe52c4e98291688ecc4755a16e139e04f776027a221",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
