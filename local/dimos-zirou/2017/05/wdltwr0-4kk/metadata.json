@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΛΤΩΡ0-4ΚΚ",
+  "subject": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΩΝ ΥΔΡΕΥΣΗΣ",
+  "protocol_number": "7426",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6102",
+    "label": "ΔΗΜΟΣ ΖΗΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79818"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-05-26",
+  "posted": "2017-05-26",
+  "publish_timestamp_ms": 1495775573425,
+  "version_id": "dfcb191e-8214-46d0-a75c-fff240f5f7f3",
+  "in_force": "2017-05-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%9B%CE%A4%CE%A9%CE%A10-4%CE%9A%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%9B%CE%A4%CE%A9%CE%A10-4%CE%9A%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%9B%CE%A4%CE%A9%CE%A10-4%CE%9A%CE%9A",
+  "listing_sha256": "5e4ff2c96940232473b1c410d0b4dc4b34005468866acce59d410b652c582e09",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
