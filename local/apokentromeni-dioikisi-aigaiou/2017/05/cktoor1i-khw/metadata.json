@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚΤΟΟΡ1Ι-ΚΗΩ",
+  "subject": "Απόφαση έγκρισης κυκλοφοριακών ρυθμίσεων που αφορά στην κυκλοφοριακή σύνδεση της νέας πύλης Γ. Νοσοκομείου Χίου με την οδό Έλενας Βενιζέλου, στο Δήμο Χίου",
+  "protocol_number": "28927",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76828"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1826",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-05-17",
+  "posted": "2017-05-29",
+  "publish_timestamp_ms": 1496058008176,
+  "version_id": "7f60fa72-d834-4b11-8633-8833329045ac",
+  "in_force": "2017-05-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%A4%CE%9F%CE%9F%CE%A11%CE%99-%CE%9A%CE%97%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%A4%CE%9F%CE%9F%CE%A11%CE%99-%CE%9A%CE%97%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A%CE%A4%CE%9F%CE%9F%CE%A11%CE%99-%CE%9A%CE%97%CE%A9",
+  "listing_sha256": "cae8a755e4e0be39f75ef10730517a02f9afa9b3057648105646438c92388352",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
