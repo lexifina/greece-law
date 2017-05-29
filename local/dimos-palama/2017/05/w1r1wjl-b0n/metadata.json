@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω1Ρ1ΩΞΛ-Β0Ν",
+  "subject": "Συζήτηση και λήψη απόφασης για την εγκατάσταση ηλεκτρονικών υπηρεσιών (σύστημα DIAS, internet banking, phone banking κ.τ.λ.)",
+  "protocol_number": "Α.Δ.Σ. 287 / 2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6233",
+    "label": "ΔΗΜΟΣ ΠΑΛΑΜΑ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85004"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-05-29",
+  "posted": "2017-05-29",
+  "publish_timestamp_ms": 1496036251176,
+  "version_id": "a2995b43-200c-4054-b4e0-f931fabdbe0f",
+  "in_force": "2017-05-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%A11%CE%A9%CE%9E%CE%9B-%CE%920%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%A11%CE%A9%CE%9E%CE%9B-%CE%920%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A91%CE%A11%CE%A9%CE%9E%CE%9B-%CE%920%CE%9D",
+  "listing_sha256": "06c9a0373e974265d06bd8419790dcb1461f211d663efc2060f0275affed2507",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
