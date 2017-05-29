@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΟΑΨΩΛ1-Λ9Μ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ 307/2017 - ΕΓΚΡΙΣΗ ΤΗΣ ΥΠ' ΑΡΙΘΜ.22/2017 ΜΕΛΕΤΗΣ ΔΙΕΥΘΥΝΣΗΣ ΤΕΧΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ",
+  "protocol_number": "8570",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6168",
+    "label": "ΔΗΜΟΣ ΛΑΥΡΕΩΤΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80804"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-05-24",
+  "posted": "2017-05-29",
+  "publish_timestamp_ms": 1496060881774,
+  "version_id": "ea9d9e13-5254-4149-b9ba-ed0c3c81df8c",
+  "in_force": "2017-05-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F%CE%91%CE%A8%CE%A9%CE%9B1-%CE%9B9%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F%CE%91%CE%A8%CE%A9%CE%9B1-%CE%9B9%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9F%CE%91%CE%A8%CE%A9%CE%9B1-%CE%9B9%CE%9C",
+  "listing_sha256": "e580982f320c7c93c580271ed821bb490c75272f55de11ea76bdb2a378c16bd8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
