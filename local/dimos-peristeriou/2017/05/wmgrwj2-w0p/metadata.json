@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΓΡΩΞ2-Ω0Π",
+  "subject": "Λήψη απόφασης για επιστροφή εγγυητικής καλής εκτέλεσης με αριθμό 614/7707563-4 17-12-2015 ποσού 1.000 € στην WIND ΕΛΛΑΣ, από την ΕΘΝΙΚΗ ΤΡΑΠΕΖΑ.",
+  "protocol_number": "Α.Ο.Ε. 341/17",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78044"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-05-25",
+  "posted": "2017-05-30",
+  "publish_timestamp_ms": 1496121280806,
+  "version_id": "bb367592-70f6-4ef6-80a6-0e954bb6e827",
+  "in_force": "2017-05-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%93%CE%A1%CE%A9%CE%9E2-%CE%A90%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%93%CE%A1%CE%A9%CE%9E2-%CE%A90%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%93%CE%A1%CE%A9%CE%9E2-%CE%A90%CE%A0",
+  "listing_sha256": "3fa0639c4c3338f7cfdcb092fa233821cf28cb2b789d7cc900795ddbf799be88",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
