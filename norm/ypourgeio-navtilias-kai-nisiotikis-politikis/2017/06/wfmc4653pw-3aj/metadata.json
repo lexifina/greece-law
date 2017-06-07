@@ -1,0 +1,65 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΜΨ4653ΠΩ-3ΑΞ",
+  "subject": "Επιβολή κυρώσεων σύμφωνα με τον Κανονισμό (ΕΕ) 2015/757 ΤΟΥ ΕΥΡΩΠΑΪΚΟΥ  ΚΟΙΝΟΒΟΥΛΙΟΥ ΚΑΙ ΤΟΥ ΣΥΜΒΟΥΛΙΟΥ της 29ης Απριλίου 2015 για την παρακολούθηση, την υποβολή εκθέσεων και επαλήθευση των εκπομπών διοξειδίου του άνθρακα από θαλάσσιες μεταφορές και για την τροποποίηση της οδηγίας 2009/16/ΕΚ",
+  "protocol_number": "2263.4-1/39239/2017/30-05-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100014022"
+  ],
+  "thematic_category_ids": [
+    "48",
+    "10",
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1922",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "5",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100015996",
+        "unitId": [
+          "100019602"
+        ],
+        "signerIds": [
+          "100025088"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "100013859"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-06-01",
+  "posted": "2017-06-07",
+  "publish_timestamp_ms": 1496826550503,
+  "version_id": "a5cfe5d1-c192-443d-b766-0b34cb98c25c",
+  "in_force": "2017-06-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%9C%CE%A84653%CE%A0%CE%A9-3%CE%91%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%9C%CE%A84653%CE%A0%CE%A9-3%CE%91%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%9C%CE%A84653%CE%A0%CE%A9-3%CE%91%CE%9E",
+  "listing_sha256": "e36c97dbe56cb3e0b1a94ae09b05988c672c2c030502a99a03e0b6609d56579e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
