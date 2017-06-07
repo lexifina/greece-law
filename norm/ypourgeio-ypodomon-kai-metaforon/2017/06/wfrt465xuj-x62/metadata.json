@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΡΤ465ΧΘΞ-Χ62",
+  "subject": "Ειδοποίηση παρακατάθεσης αποζημίωσης ακινήτων , που ρυμοτομήθηκαν για τη διεύρυνση της Ε.Ο. Σταυρού Ελευσίνας στο τμήμα αυτής από την οδό Πεντέλης μέχρι την οδό Αργυροκάστρου σύμφωνα με τις ενδείξεις της Π.Α. 41/96 και των διορθωτικών αυτής 28/99 και 7/2000 στους Δήμους Χαλανδρίου – Βριλησσίων του Νομού Αττικής.",
+  "protocol_number": "ο/3511",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007478"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "118",
+      "issue": "fektype_AAP",
+      "issueyear": 2017
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-06-07",
+  "posted": "2017-06-07",
+  "publish_timestamp_ms": 1496817205826,
+  "version_id": "0dea5684-e321-4c4b-a504-1ce355b433c4",
+  "in_force": "2017-06-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%A1%CE%A4465%CE%A7%CE%98%CE%9E-%CE%A762",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%A1%CE%A4465%CE%A7%CE%98%CE%9E-%CE%A762/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%A1%CE%A4465%CE%A7%CE%98%CE%9E-%CE%A762",
+  "listing_sha256": "7b6ab9c69dc60a4c10cc7cabbeab3c184aa01823ec88e1804d22c6b848087747",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
