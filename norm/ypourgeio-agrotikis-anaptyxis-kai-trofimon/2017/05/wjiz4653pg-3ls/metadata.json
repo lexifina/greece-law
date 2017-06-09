@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΞΙΖ4653ΠΓ-3ΛΣ",
+  "subject": "ΕΓΚΡΙΣΗ ΠΙΣΤΩΣΕΩΝ ΓΙΑ ΤΗΝ ΚΑΤΑΒΟΛΗ ΑΝΕΙΛΗΜΜΕΝΩΝ ΥΠΟΧΡΕΩΣΕΩΝ ΤΟΥ ΜΕΤΡΟΥ 10 ¨ΓΕΩΡΓΟΠΕΡΙΒΑΛΛΟΝΤΙΚΑ ΚΑΙ ΚΛΙΜΑΤΙΚΑ ΜΕΤΡΑ¨ ΚΑΙ ΤΟΥ ΜΕΤΡΟΥ 11 ¨ΒΙΟΛΟΓΙΚΕΣ ΚΑΛΛΙΕΡΓΕΙΕΣ¨ ΤΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ (ΠΑΑ) 2014-2020 ΚΑΤΑ ΤΟ ΕΤΟΣ 2017",
+  "protocol_number": "593/58837",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100002666"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1972",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-05-30",
+  "posted": "2017-06-09",
+  "publish_timestamp_ms": 1496988481972,
+  "version_id": "f9f912ee-a463-42f8-ac9a-a80aa9796193",
+  "in_force": "2017-06-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9E%CE%99%CE%964653%CE%A0%CE%93-3%CE%9B%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9E%CE%99%CE%964653%CE%A0%CE%93-3%CE%9B%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9E%CE%99%CE%964653%CE%A0%CE%93-3%CE%9B%CE%A3",
+  "listing_sha256": "c1490a2dfa32cd8d45e57afb694ef1631d7374a5f1c88ce442c48069030acf27",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
