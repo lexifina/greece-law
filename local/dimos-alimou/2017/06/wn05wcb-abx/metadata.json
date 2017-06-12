@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝ05ΩΨΒ-ΑΒΧ",
+  "subject": "Εξωδικαστικός συμβιβασμός με την εταιρεία \"ΔΕΛΤΑ ΑΝΩΝΥΜΗ ΒΙΟΜΗΧΑΝΙΚΗ ΚΑΙ ΕΜΠΟΡΙΚΗ ΕΤΑΙΡΕΙΑ ΤΡΟΦΙΜΩΝ » με το διακριτικό τίτλο  «ΔΕΛΤΑ ΤΡΟΦΙΜΑ ΑΕ»",
+  "protocol_number": "11854",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82630"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "11854",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΧΒΩΩΨΒ-ΛΓΚ"
+      },
+      {
+        "relatedDecisionsADA": "7Ν3ΕΩΨΒ-ΝΡ0"
+      }
+    ]
+  },
+  "issued": "2017-06-09",
+  "posted": "2017-06-12",
+  "publish_timestamp_ms": 1497253884041,
+  "version_id": "b737f0c7-e7f4-4e1c-bbc5-76a6d036e6bd",
+  "in_force": "2017-06-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D05%CE%A9%CE%A8%CE%92-%CE%91%CE%92%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D05%CE%A9%CE%A8%CE%92-%CE%91%CE%92%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D05%CE%A9%CE%A8%CE%92-%CE%91%CE%92%CE%A7",
+  "listing_sha256": "50efb8a7f7ce4ba0fe000bd999b211bc418c84875d95e6370c18d5bdd85fbc50",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
