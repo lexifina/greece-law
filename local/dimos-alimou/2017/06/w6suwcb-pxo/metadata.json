@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω6ΣΘΩΨΒ-ΠΧΟ",
+  "subject": "Ακύρωση της υπ’ αριθμ. 25/2017 απόφασης Επιτροπής Ποιότητας Ζωής",
+  "protocol_number": "27-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82635"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "27",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΞ1ΨΩΨΒ-ΒΝΙ"
+      }
+    ]
+  },
+  "issued": "2017-06-13",
+  "posted": "2017-06-14",
+  "publish_timestamp_ms": 1497421692534,
+  "version_id": "75794223-0387-4df1-9c2f-d806f010dfd9",
+  "in_force": "2017-06-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%A3%CE%98%CE%A9%CE%A8%CE%92-%CE%A0%CE%A7%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%A3%CE%98%CE%A9%CE%A8%CE%92-%CE%A0%CE%A7%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A96%CE%A3%CE%98%CE%A9%CE%A8%CE%92-%CE%A0%CE%A7%CE%9F",
+  "listing_sha256": "cbb442e5c594a4cf0bbd555d252a3954c22ffbaafec7d7384b7c992fc7018479",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
