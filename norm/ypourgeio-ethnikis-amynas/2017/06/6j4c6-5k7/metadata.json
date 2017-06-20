@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ξ4Ψ6-5Κ7",
+  "subject": "ΔΑΠΑΝΕΣ ΠΡΟΜΗΘΕΙΩΝ - ΕΠΙΣΚΕΥΩΝ - ΚΑΤΑΣΚΕΥΩΝ (ΕΝΕΡΓΟΠΟΙΗΣΗ 4ου ΕΤΟΥΣ ΣΥΜΦΩΝΙΑΣ - ΠΛΑΙΣΙΟ ΣΥΝΤΗΡΗΣΗΣ ΑΞΟΝΙΚΟΥ ΤΟΜΟΓΡΑΦΟΥ 251ΓΝΑ)",
+  "protocol_number": "Φ.831/ΑΔ.1241/Σ.378/19-6-17/ΔΑΥ/Γ3/3",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76857"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10002",
+    "kanonistikipraxiaa": "1241",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΕΕΝ6-Κ0Ν"
+      }
+    ]
+  },
+  "issued": "2017-06-19",
+  "posted": "2017-06-20",
+  "publish_timestamp_ms": 1497938085649,
+  "version_id": "7ab71129-a3bb-446e-a28b-bb05143d0577",
+  "in_force": "2017-06-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E4%CE%A86-5%CE%9A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E4%CE%A86-5%CE%9A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9E4%CE%A86-5%CE%9A7",
+  "listing_sha256": "2fb7321cdbf90015bd40ed1aadabee48fee9d17f696557dd8143e1563f91c94f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
