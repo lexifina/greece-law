@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "66ΔΙΩ1Ν-ΖΝΔ",
+  "subject": "«Έγκριση δαπανών  που προέρχονται από δικαστικές αποφάσεις. Διάθεση πιστώσεων ».",
+  "protocol_number": "180",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6286",
+    "label": "ΔΗΜΟΣ ΣΠΑΡΤΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80737"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-06-20",
+  "posted": "2017-06-23",
+  "publish_timestamp_ms": 1498205193187,
+  "version_id": "3ec999e8-c830-4adb-8a98-7b025f1cefc3",
+  "in_force": "2017-06-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/66%CE%94%CE%99%CE%A91%CE%9D-%CE%96%CE%9D%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/66%CE%94%CE%99%CE%A91%CE%9D-%CE%96%CE%9D%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/66%CE%94%CE%99%CE%A91%CE%9D-%CE%96%CE%9D%CE%94",
+  "listing_sha256": "bbd285120ee938d3a3bd520765b87120101c44b6c289c5a03a8cd0d0a451bddf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
