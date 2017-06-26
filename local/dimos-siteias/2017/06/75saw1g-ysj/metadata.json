@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "75ΣΑΩ1Γ-ΥΣΞ",
+  "subject": "Σύμβαση μίσθωσης κυλικείου Γυμνασίου Παλαικάστρου",
+  "protocol_number": "69/26-6-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6273",
+    "label": "ΔΗΜΟΣ ΣΗΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87959"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΞΨΦΩ1Γ-Ρ43"
+      }
+    ]
+  },
+  "issued": "2017-06-26",
+  "posted": "2017-06-26",
+  "publish_timestamp_ms": 1498466577046,
+  "version_id": "240edcc1-b747-4ce3-8334-771b7e1e6955",
+  "in_force": "2017-06-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/75%CE%A3%CE%91%CE%A91%CE%93-%CE%A5%CE%A3%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/75%CE%A3%CE%91%CE%A91%CE%93-%CE%A5%CE%A3%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/75%CE%A3%CE%91%CE%A91%CE%93-%CE%A5%CE%A3%CE%9E",
+  "listing_sha256": "ae6af3902e72c6254d08f3c0c65488c282b41aab28d1c357c4b3886a9873c5ce",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
