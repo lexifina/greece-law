@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "63ΡΛΩΕ3-ΧΨ7",
+  "subject": "Ανάκληση της υπ’αριθμ. 87/2017 απόφαση σας η οποία αφορά σε «Έγκριση μελέτης , καθορισμός τρόπου εκτέλεσης του έργου: Κατασκευή φρεατίων όμβριων υδάτων Δ.Κ. Κ. Νευροκοπίου»",
+  "protocol_number": "118-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6143",
+    "label": "ΔΗΜΟΣ ΚΑΤΩ ΝΕΥΡΟΚΟΠΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85476"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω2Τ8ΩΕ3-ΝΩΗ"
+      }
+    ]
+  },
+  "issued": "2017-06-21",
+  "posted": "2017-06-26",
+  "publish_timestamp_ms": 1498459974267,
+  "version_id": "0b203157-a80b-44ba-b891-ee4b818dd9c6",
+  "in_force": "2017-06-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/63%CE%A1%CE%9B%CE%A9%CE%953-%CE%A7%CE%A87",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/63%CE%A1%CE%9B%CE%A9%CE%953-%CE%A7%CE%A87/document",
+  "page": "https://diavgeia.gov.gr/decision/view/63%CE%A1%CE%9B%CE%A9%CE%953-%CE%A7%CE%A87",
+  "listing_sha256": "76f75aa165fb0af2558990c5e2b272e4b69be2802c24f6874e0d9a2454f4744f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
