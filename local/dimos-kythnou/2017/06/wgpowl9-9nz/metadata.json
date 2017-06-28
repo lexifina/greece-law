@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΠΟΩΛ9-9ΝΖ",
+  "subject": "Έγκριση διαγραφής ποσού από τέλη ύδρευσης, αποχέτευσης, κ.α. – υπηρεσιακό λάθος.",
+  "protocol_number": "67/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6162",
+    "label": "ΔΗΜΟΣ ΚΥΘΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83013"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "67/2017",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-06-19",
+  "posted": "2017-06-28",
+  "publish_timestamp_ms": 1498641775503,
+  "version_id": "1f66b937-9e45-420e-95af-dc0f5d43a6d4",
+  "in_force": "2017-06-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A0%CE%9F%CE%A9%CE%9B9-9%CE%9D%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A0%CE%9F%CE%A9%CE%9B9-9%CE%9D%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%A0%CE%9F%CE%A9%CE%9B9-9%CE%9D%CE%96",
+  "listing_sha256": "2fb7321cdbf90015bd40ed1aadabee48fee9d17f696557dd8143e1563f91c94f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
