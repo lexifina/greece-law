@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω35ΧΩ9Ψ-2ΒΞ",
+  "subject": "Ψήφιση πίστωσης και έγκριση δαπάνης για την προμήθεια και τοποθέτηση κιγκλιδωμάτων.",
+  "protocol_number": "6335",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6059",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80793"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-06-29",
+  "posted": "2017-06-29",
+  "publish_timestamp_ms": 1498721972225,
+  "version_id": "b88fc171-6937-41b7-8af2-928fba2be8c9",
+  "in_force": "2017-06-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A935%CE%A7%CE%A99%CE%A8-2%CE%92%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A935%CE%A7%CE%A99%CE%A8-2%CE%92%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A935%CE%A7%CE%A99%CE%A8-2%CE%92%CE%9E",
+  "listing_sha256": "ae62f378b6ea6f5656477a36adf5469882152461a997a08089acd6f0678dfe5a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
