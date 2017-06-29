@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΛΖΟΡ1Ι-0ΦΙ",
+  "subject": "Έλεγχος νομιμότητας της αρίθμ. 123/2017 απόφασης του Δ.Σ. της ΔΕΥΑ Λέσβου",
+  "protocol_number": "36280",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76675"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-06-21",
+  "posted": "2017-06-29",
+  "publish_timestamp_ms": 1498721918860,
+  "version_id": "58c5805a-91dc-4a87-9ce9-f81698b43941",
+  "in_force": "2017-06-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%9B%CE%96%CE%9F%CE%A11%CE%99-0%CE%A6%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%9B%CE%96%CE%9F%CE%A11%CE%99-0%CE%A6%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%9B%CE%96%CE%9F%CE%A11%CE%99-0%CE%A6%CE%99",
+  "listing_sha256": "76f75aa165fb0af2558990c5e2b272e4b69be2802c24f6874e0d9a2454f4744f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
