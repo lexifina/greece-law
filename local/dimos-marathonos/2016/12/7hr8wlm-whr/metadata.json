@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΗΡ8ΩΛΜ-ΩΗΡ",
+  "subject": "ΛΗΨΗ ΑΠΟΦΑΣΗΣ ΓΙΑ ΤΟ ΑΙΤΗΜΑ ΤΗΣ ΕΝΩΣΗΣ ΑΛΒΑΝΩΝ",
+  "protocol_number": "374/2016",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6183",
+    "label": "ΔΗΜΟΣ ΜΑΡΑΘΩΝΟΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78302"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-12-22",
+  "posted": "2017-06-29",
+  "publish_timestamp_ms": 1498720400827,
+  "version_id": "8a5d3ff1-a211-47e5-b71d-19f56cd1854a",
+  "in_force": "2017-06-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%97%CE%A18%CE%A9%CE%9B%CE%9C-%CE%A9%CE%97%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%97%CE%A18%CE%A9%CE%9B%CE%9C-%CE%A9%CE%97%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%97%CE%A18%CE%A9%CE%9B%CE%9C-%CE%A9%CE%97%CE%A1",
+  "listing_sha256": "ef44f6ac0a3121ab07f2dc6b69215d512a1c7677fff4001481e1c16aeba16cf5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
