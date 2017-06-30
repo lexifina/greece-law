@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΠΟΕΩΨΑ-ΘΤΟ",
+  "subject": "ΧΟΡΗΓΗΣΗ ΓΕΝΙΚΗΣ ΘΕΣΗΣ ΣΤΑΘΜΕΥΣΗΣ",
+  "protocol_number": "27/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6045",
+    "label": "ΔΗΜΟΣ ΑΡΤΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "89256"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "27/2017",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-06-27",
+  "posted": "2017-06-30",
+  "publish_timestamp_ms": 1498808694596,
+  "version_id": "439c2450-462e-4532-b2a7-917f8028a2bd",
+  "in_force": "2017-06-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A0%CE%9F%CE%95%CE%A9%CE%A8%CE%91-%CE%98%CE%A4%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A0%CE%9F%CE%95%CE%A9%CE%A8%CE%91-%CE%98%CE%A4%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A0%CE%9F%CE%95%CE%A9%CE%A8%CE%91-%CE%98%CE%A4%CE%9F",
+  "listing_sha256": "6d2b480f17881e689229cb4e491e2cace0ac6d506a2bb52a4cce959a5bf9cd16",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
