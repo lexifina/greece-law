@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ7ΝΛΟΡ1Φ-ΑΦ4",
+  "subject": "Έγκριση τροποποίησης Χερσαίας Ζώνης Λιμένα Κατακόλου",
+  "protocol_number": "73772",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87448"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "110",
+      "issue": "fektype_AAP",
+      "issueyear": 2016
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-07-03",
+  "posted": "2017-07-03",
+  "publish_timestamp_ms": 1499072980700,
+  "version_id": "d269e689-e09c-4042-845b-4fd7aea9d5f4",
+  "in_force": "2017-07-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A87%CE%9D%CE%9B%CE%9F%CE%A11%CE%A6-%CE%91%CE%A64",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A87%CE%9D%CE%9B%CE%9F%CE%A11%CE%A6-%CE%91%CE%A64/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A87%CE%9D%CE%9B%CE%9F%CE%A11%CE%A6-%CE%91%CE%A64",
+  "listing_sha256": "02fd4aebe0640b5444990a21a045e33ba32ee4b417d1149d31f3617ad245e619",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
