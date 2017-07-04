@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΧ8ΟΡ1Φ-ΓΔΠ",
+  "subject": "Έγκριση κίνησης του με αριθμ. κυκλοφορίας KHΙ 9188 απορριμματοφόρου οχήματος του Δήμου Ναυπλιέων.",
+  "protocol_number": "139140",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76450"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-06-22",
+  "posted": "2017-07-04",
+  "publish_timestamp_ms": 1499162407169,
+  "version_id": "16c997e5-a652-49ee-bef0-f8bf6967fbea",
+  "in_force": "2017-07-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A78%CE%9F%CE%A11%CE%A6-%CE%93%CE%94%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A78%CE%9F%CE%A11%CE%A6-%CE%93%CE%94%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%A78%CE%9F%CE%A11%CE%A6-%CE%93%CE%94%CE%A0",
+  "listing_sha256": "b523efd82c1c3e1998b119ee2620786f3579367a533e3c95b3a6844e8a30cb2e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
