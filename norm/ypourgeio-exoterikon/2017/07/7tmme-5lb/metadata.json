@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΤΜΜΕ-5ΛΒ",
+  "subject": "ΑΝΑΚΛΗΤΙΚΗ ΑΠΟΦΑΣΗ ΛΟΓΩ ΜΗ ΧΡΗΣΗΣ ΜΕΡΟΥΣ ΠΟΣΟΥ",
+  "protocol_number": "5135",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "85706"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "4653",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-07-04",
+  "posted": "2017-07-04",
+  "publish_timestamp_ms": 1499170910841,
+  "version_id": "76073fd9-7db5-4035-a8e8-d21095069e50",
+  "in_force": "2017-07-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A4%CE%9C%CE%9C%CE%95-5%CE%9B%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A4%CE%9C%CE%9C%CE%95-5%CE%9B%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A4%CE%9C%CE%9C%CE%95-5%CE%9B%CE%92",
+  "listing_sha256": "e6565cbda8cf07b6d6da3c7c2554b5b7e26f2170d844385928e6004666a71754",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
