@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΖΗ97ΛΛ-ΖΞΞ",
+  "subject": "ΣΥΓΚΡΟΤΗΣΗ ΣΥΝΕΡΓΕΙΟΥ ΥΠΕΡΩΡΙΑΚΗΣ ΑΠΟΓΕΥΜΑΤΙΝΗΣ ΑΠΑΣΧΟΛΗΣΗΣ ΠΕΣΕΡΡΩΝ",
+  "protocol_number": "274916/2778",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5009",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "100026240"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2150",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "274916/277",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΠΔΞ7ΛΛ-ΦΑΜ"
+      }
+    ]
+  },
+  "issued": "2017-07-05",
+  "posted": "2017-07-05",
+  "publish_timestamp_ms": 1499254308169,
+  "version_id": "f71b9b9e-06c9-495a-99e5-21c55ec07471",
+  "in_force": "2017-07-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%96%CE%9797%CE%9B%CE%9B-%CE%96%CE%9E%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%96%CE%9797%CE%9B%CE%9B-%CE%96%CE%9E%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%96%CE%9797%CE%9B%CE%9B-%CE%96%CE%9E%CE%9E",
+  "listing_sha256": "cf63483c5e715c13a7ad999ffd79beef930ad37f3e8c8db18dede9a9f12f8cef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
