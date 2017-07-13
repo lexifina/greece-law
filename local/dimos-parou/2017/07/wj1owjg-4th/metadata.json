@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΞ1ΟΩΞΓ-4ΤΗ",
+  "subject": "ΕΚΘΕΣΗ ΑΥΤΟΨΙΑΣ ΕΠΙΚΙΝΔΥΝΩΣ ΕΤΟΙΜΟΡΡΟΠΟΥ",
+  "protocol_number": "7083",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6239",
+    "label": "ΔΗΜΟΣ ΠΑΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "94411"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-07-03",
+  "posted": "2017-07-13",
+  "publish_timestamp_ms": 1499926949939,
+  "version_id": "ffe7c2fd-bb82-4788-bd67-3db42c5c026e",
+  "in_force": "2017-07-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9E1%CE%9F%CE%A9%CE%9E%CE%93-4%CE%A4%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9E1%CE%9F%CE%A9%CE%9E%CE%93-4%CE%A4%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9E1%CE%9F%CE%A9%CE%9E%CE%93-4%CE%A4%CE%97",
+  "listing_sha256": "915f33b61f397cbdaecc8ca5440b02acc33e26fb6718877ac6eb45d1ec47db98",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
