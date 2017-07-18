@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥΘ26-Σ3Ζ",
+  "subject": "ΔΑΠΑΝΕΣ ΠΡΟΜΗΘΕΙΩΝ -ΕΠΙΣΚΕΥΩΝ - ΚΑΤΑΣΚΕΥΩΝ (ΠΡΟΜΗΘΕΙΑ ΙΜΑΤΙΣΜΟΥ Δ.28/15 - Σ-Π 4/16 - Ε.Σ. 3/17)",
+  "protocol_number": "Φ.831/ΑΔ.1550/Σ.450/17-7-17/ΔΑΥ/Γ3/3",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76857"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10002",
+    "kanonistikipraxiaa": "1550",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΘ2Τ6-3Ο2"
+      }
+    ]
+  },
+  "issued": "2017-07-17",
+  "posted": "2017-07-18",
+  "publish_timestamp_ms": 1500358224172,
+  "version_id": "7830b8c1-d03d-463d-ac5a-41eb55c070dc",
+  "in_force": "2017-07-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%9826-%CE%A33%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%9826-%CE%A33%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A5%CE%9826-%CE%A33%CE%96",
+  "listing_sha256": "81f161c3b177bc893e0dcc1e6fc7441f1b3a912d6ed91658e653617a91b7e8b4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
