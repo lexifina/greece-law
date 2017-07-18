@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω1Ξ9ΟΡ1Υ-3ΟΚ",
+  "subject": "Έλεγχος νομιμότητας της αριθμ. 243/2017 απόφασης του Δημοτικού Συμβουλίου του Δήμου Κ. Νευροκοπίου Ν.Δράμας σχετικά με την «Έγκριση προγραμματικής σύμβασης με την Περιφέρεια Ανατολικής Μακεδονίας – Θράκης, για την άσκηση αρμοδιοτήτων συντήρησης Επαρχιακού Δημοτικού Οδικού Δικτύου με την παραχώρηση χρήσης του μηχανήματος έργου ΜΕ122158 ΙΧ ισοπεδωτή Γαιών (GRADER) από την Περιφέρεια Ανατολικής Μακεδονίας Θράκης / ΠΕ Δράμας στο Δήμο Κ. Νευροκοπίου».",
+  "protocol_number": "10100",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "79034"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Α48ΩΕ3-ΚΓΑ"
+      }
+    ]
+  },
+  "issued": "2017-07-18",
+  "posted": "2017-07-18",
+  "publish_timestamp_ms": 1500377026630,
+  "version_id": "66bc4d67-0033-44d1-b2aa-2c07637d091b",
+  "in_force": "2017-07-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%9E9%CE%9F%CE%A11%CE%A5-3%CE%9F%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%9E9%CE%9F%CE%A11%CE%A5-3%CE%9F%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A91%CE%9E9%CE%9F%CE%A11%CE%A5-3%CE%9F%CE%9A",
+  "listing_sha256": "b965fc174fd6575ec8860a89afcae544c872ada09cb00125aba447ec888a0599",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
