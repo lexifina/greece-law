@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ρ5946ΜΠ3Ζ-84Μ",
+  "subject": "ΕΚΔΟΣΗ ΧΕΠ ΚΑΙ ΟΡΙΣΜΟΣ ΥΠΟΛΟΓΟΥ",
+  "protocol_number": "5477",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100029645"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω0ΨΘ46ΜΠ3Ζ-ΚΛΡ"
+      }
+    ]
+  },
+  "issued": "2017-07-20",
+  "posted": "2017-07-20",
+  "publish_timestamp_ms": 1500544345434,
+  "version_id": "2fc38319-27df-405b-9c77-1241cfa7518d",
+  "in_force": "2017-07-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A15946%CE%9C%CE%A03%CE%96-84%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A15946%CE%9C%CE%A03%CE%96-84%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A15946%CE%9C%CE%A03%CE%96-84%CE%9C",
+  "listing_sha256": "e82f9088e5a928d54671bd0bce34b9012617852a95025bca38d44871c485f6cb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
