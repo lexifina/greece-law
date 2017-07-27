@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΡΜΟΡ1Ι-1Κ2",
+  "subject": "ΕΛΕΓΧΟΣ ΝΟΜΙΜΟΤΗΤΑΣ ΤΗΣ ΑΡΙΘ 506/2017 ΑΠΟΦΑΗΣ ΤΟΥ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ ΤΟΥ ΔΗΜΟΥ ΛΕΣΒΟΥ",
+  "protocol_number": "44408",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76698"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "506",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-07-25",
+  "posted": "2017-07-27",
+  "publish_timestamp_ms": 1501136523573,
+  "version_id": "a57bf007-134a-4269-be8f-b414af6516cf",
+  "in_force": "2017-07-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A1%CE%9C%CE%9F%CE%A11%CE%99-1%CE%9A2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A1%CE%9C%CE%9F%CE%A11%CE%99-1%CE%9A2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%A1%CE%9C%CE%9F%CE%A11%CE%99-1%CE%9A2",
+  "listing_sha256": "dccc600c0865b62f71790cc6ac010fd0542ba5e1c61a6948b05c2c72e6995bfe",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
