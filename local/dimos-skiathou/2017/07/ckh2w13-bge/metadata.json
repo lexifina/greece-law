@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚΗ2Ω13-ΒΓΕ",
+  "subject": "Διαγραφή οφειλής ΤΑΠ από τον 811/2017 χρηματικό κατάλογο ποσού 3,70€.",
+  "protocol_number": "143",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6279",
+    "label": "ΔΗΜΟΣ ΣΚΙΑΘΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82117"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-07-26",
+  "posted": "2017-07-27",
+  "publish_timestamp_ms": 1501158959324,
+  "version_id": "33f0e741-d244-4b78-85cc-aaedf924ddd9",
+  "in_force": "2017-07-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%972%CE%A913-%CE%92%CE%93%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%972%CE%A913-%CE%92%CE%93%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A%CE%972%CE%A913-%CE%92%CE%93%CE%95",
+  "listing_sha256": "966a2f4895ddfd109be6221b265014bd7049e04583635f6c851a5caa6933c191",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
