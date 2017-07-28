@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "61ΠΙΩ6Ι-43Γ",
+  "subject": "Αποδοχή επιχορήγησης ποσού 25.027,07€ από το Υπουργείο Εσωτερικών για την πληρωμή ληξιπρόθεσμων υποχρεώσεων από τελεσίδικες δικαστικές αποφάσεις.",
+  "protocol_number": "7145/123/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6003",
+    "label": "ΔΗΜΟΣ ΑΓΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80383"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΘΡΔ465ΧΘ7-ΝΘ9"
+      }
+    ]
+  },
+  "issued": "2017-07-21",
+  "posted": "2017-07-28",
+  "publish_timestamp_ms": 1501226584432,
+  "version_id": "85adf14a-512d-4d99-9b15-26bb6aacd8c7",
+  "in_force": "2017-07-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/61%CE%A0%CE%99%CE%A96%CE%99-43%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/61%CE%A0%CE%99%CE%A96%CE%99-43%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/61%CE%A0%CE%99%CE%A96%CE%99-43%CE%93",
+  "listing_sha256": "c5e6970523f23ee3caa191e048aaffdf62ff80ab20d3315fed92ac08aeb27ccf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
