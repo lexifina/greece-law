@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΖΟ2ΩΨ3-ΣΤ2",
+  "subject": "99-2017 ΑΠΟΦΑΣΗ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ",
+  "protocol_number": "3127",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6041",
+    "label": "ΔΗΜΟΣ ΑΡΓΙΘΕΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83024"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-07-28",
+  "posted": "2017-07-28",
+  "publish_timestamp_ms": 1501231421460,
+  "version_id": "d238b25e-37d1-4bd8-82e8-cd7efbd86f95",
+  "in_force": "2017-07-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%96%CE%9F2%CE%A9%CE%A83-%CE%A3%CE%A42",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%96%CE%9F2%CE%A9%CE%A83-%CE%A3%CE%A42/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%96%CE%9F2%CE%A9%CE%A83-%CE%A3%CE%A42",
+  "listing_sha256": "24ed671b3b99ef6b2effa84654f8b528fbc0bdb8b6aaf69f553af2bd4ae65d2b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
