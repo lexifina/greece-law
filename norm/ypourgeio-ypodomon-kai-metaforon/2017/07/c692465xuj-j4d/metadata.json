@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ692465ΧΘΞ-Ξ4Δ",
+  "subject": "Τροποποίηση των διατάξεων του Π.Δ. 77/1998 «Προσαρμογή της Ελληνικής Νομοθεσίας προς τις διατάξεις της οδηγίας 96/53/ΕΚ του Συμβουλίου της 25ης Ιουλίου 1996 σχετικά με τον καθορισμό, για ορισμένα οδικά οχήματα που κυκλοφορούν στην Κοινότητα, των μέγιστων επιτρεπόμενων διαστάσεων στις εθνικές και διεθνείς μεταφορές και των μέγιστων επιτρεπόμενων βαρών στις διεθνείς μεταφορές» (ΦΕΚ Α’71/07.04.1998) σε συμμόρφωση προς τις διατάξεις της οδηγίας 2015/719/ΕΕ του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 29ης Απριλίου 2015 που τροποποιεί την οδηγία 96/53/ΕΚ.",
+  "protocol_number": "οικ. 26330/1329/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70366"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2660",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "100006354"
+        ],
+        "signerIds": [
+          "100025103"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-07-31",
+  "posted": "2017-07-31",
+  "publish_timestamp_ms": 1501515562879,
+  "version_id": "8249c28f-8863-4eb0-8701-208424ccbdb0",
+  "in_force": "2017-07-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8692465%CE%A7%CE%98%CE%9E-%CE%9E4%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8692465%CE%A7%CE%98%CE%9E-%CE%9E4%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8692465%CE%A7%CE%98%CE%9E-%CE%9E4%CE%94",
+  "listing_sha256": "ba5e93e019256195c7c125438175e0208b33e34d9c59ef37e210f5b14f069dc5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
