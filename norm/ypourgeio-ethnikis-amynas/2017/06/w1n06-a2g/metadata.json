@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω1Ν06-Α2Γ",
+  "subject": "Τροποποίηση της υπ’ αριθμ. Φ.871/155/417344/09-02-1978 κοινής απόφασης των Υπουργών Εθνικής Άμυνας και Οικονομικών «Περί συστάσεως παγίας προκαταβολής εις το Μετοχικόν Ταμείον Στρατού. (Β΄ 228)",
+  "protocol_number": "988090",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78006"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2635",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "988090",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-06-27",
+  "posted": "2017-08-02",
+  "publish_timestamp_ms": 1501655624598,
+  "version_id": "6adafe4f-f89a-4d57-9830-ffa5a081612f",
+  "in_force": "2017-08-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%9D06-%CE%912%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%9D06-%CE%912%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A91%CE%9D06-%CE%912%CE%93",
+  "listing_sha256": "6d2b480f17881e689229cb4e491e2cace0ac6d506a2bb52a4cce959a5bf9cd16",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
