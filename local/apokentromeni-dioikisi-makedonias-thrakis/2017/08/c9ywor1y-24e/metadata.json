@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ9ΥΩΟΡ1Υ-24Ε",
+  "subject": "Έλεγχος νομιμότητας της υπ’ αριθμ. 238/2017 απόφασης του Διοικητικού Συμβουλίου της Δημοτικής Επιχείρησης Ύδρευσης - Αποχέτευσης Δράμας (Δ.Ε.Υ.Α.Δ.) σχετικά με την «Έγκριση της δαπάνης, ψήφιση της πίστωσης και απ’ ευθείας ανάθεση για  την συντήρηση και την προμήθεια αναλωσίμων υλικών φωτοτυπικών».",
+  "protocol_number": "11211",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "79034"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΧ7ΜΟΡΝΚ-51Α"
+      }
+    ]
+  },
+  "issued": "2017-08-08",
+  "posted": "2017-08-08",
+  "publish_timestamp_ms": 1502185438484,
+  "version_id": "c255fee0-547a-45ea-94b1-3cb8983b3727",
+  "in_force": "2017-08-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A89%CE%A5%CE%A9%CE%9F%CE%A11%CE%A5-24%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A89%CE%A5%CE%A9%CE%9F%CE%A11%CE%A5-24%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A89%CE%A5%CE%A9%CE%9F%CE%A11%CE%A5-24%CE%95",
+  "listing_sha256": "86108c9cf26e9b94ff18b2e7b7f6fa064000fa8919bc34101fa72e39cd948c09",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
