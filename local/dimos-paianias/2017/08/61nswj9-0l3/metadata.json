@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "61ΝΣΩΞ9-0Λ3",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ 309/09-08-2017",
+  "protocol_number": "309/09-08-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6230",
+    "label": "ΔΗΜΟΣ ΠΑΙΑΝΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81859"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-08-10",
+  "posted": "2017-08-10",
+  "publish_timestamp_ms": 1502355314102,
+  "version_id": "999af9fb-a8be-4a71-b98f-e2a2c7767147",
+  "in_force": "2017-08-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/61%CE%9D%CE%A3%CE%A9%CE%9E9-0%CE%9B3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/61%CE%9D%CE%A3%CE%A9%CE%9E9-0%CE%9B3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/61%CE%9D%CE%A3%CE%A9%CE%9E9-0%CE%9B3",
+  "listing_sha256": "053e1f3f6ac51d454f0f3d7c157d4f82b2081066ebf611f2fae3f85cabb76b7b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
