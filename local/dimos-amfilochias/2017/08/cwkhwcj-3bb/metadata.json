@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΩΚΗΩΨΞ-3ΒΒ",
+  "subject": "ΑΠΟΦΑΣΗ ΣΥΜΒΟΥΛΙΟΥ_ Λειτουργία ΔΙΕΚ",
+  "protocol_number": "94",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6031",
+    "label": "ΔΗΜΟΣ ΑΜΦΙΛΟΧΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81313"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-08-10",
+  "posted": "2017-08-10",
+  "publish_timestamp_ms": 1502357200391,
+  "version_id": "cdbe974a-ad0e-4f02-ae58-060c6d1a9025",
+  "in_force": "2017-08-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%9A%CE%97%CE%A9%CE%A8%CE%9E-3%CE%92%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%9A%CE%97%CE%A9%CE%A8%CE%9E-3%CE%92%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A9%CE%9A%CE%97%CE%A9%CE%A8%CE%9E-3%CE%92%CE%92",
+  "listing_sha256": "053e1f3f6ac51d454f0f3d7c157d4f82b2081066ebf611f2fae3f85cabb76b7b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
