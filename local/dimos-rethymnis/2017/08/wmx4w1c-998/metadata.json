@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΧ4Ω1Ψ-998",
+  "subject": "«Χορήγηση παράτασης προθεσμίας του έργου “Κατασκευή κλειστού γυμναστηρίου Περιβολίων Δήμου Ρεθύμνης”»",
+  "protocol_number": "378",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6263",
+    "label": "ΔΗΜΟΣ ΡΕΘΥΜΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83369"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "378,17",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ψ093Ω1Ψ-2ΤΘ"
+      }
+    ]
+  },
+  "issued": "2017-08-09",
+  "posted": "2017-08-18",
+  "publish_timestamp_ms": 1503051087922,
+  "version_id": "ee30e426-e5e4-433a-abb0-222517c7be7f",
+  "in_force": "2017-08-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A74%CE%A91%CE%A8-998",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A74%CE%A91%CE%A8-998/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%A74%CE%A91%CE%A8-998",
+  "listing_sha256": "5b19363cfcbae6824de18404083533f4d4e5fdece32f2104b8a6f0784444e755",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
