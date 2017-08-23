@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΘ44ΟΡ10-3ΛΑ",
+  "subject": "ΑΡΙΘΜ 36 ΔΑΔ ΘΗΡΑΣ ΠΕΝΤΑΕΤΟΥΣ ΔΙΑΡΚΕΙΑΣ ΣΤΗΝ Τ.Κ. ΡΑΞΑΣ ΠΕΡΙΦΕΡΕΙΑΣ ΤΡΙΚΑΛΩΝ",
+  "protocol_number": "4335/132879",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77328"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "273",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "2339/11289",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-08-23",
+  "posted": "2017-08-23",
+  "publish_timestamp_ms": 1503484227994,
+  "version_id": "51ccbfab-bfb6-4106-bcf1-51fb46a36933",
+  "in_force": "2017-08-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9844%CE%9F%CE%A110-3%CE%9B%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9844%CE%9F%CE%A110-3%CE%9B%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9844%CE%9F%CE%A110-3%CE%9B%CE%91",
+  "listing_sha256": "fbef0fce8550b95f90e6799146b7204fac9a3bf5b0fbae6dd3e92e7f8cc19561",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
