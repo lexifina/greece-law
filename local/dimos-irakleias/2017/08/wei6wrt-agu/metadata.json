@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΕΙ6ΩΡΤ-ΑΓΘ",
+  "subject": "Aπόφαση  Ανάληψης Υποχρέωσης για δαπάνη επέκτασης / συμπλήρωσης δικτύου ΦΟΠ στην Τ.Κ. Χρυσοχωράφων.",
+  "protocol_number": "12377",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6108",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80941"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΡΦΠΩΡΤ-ΚΧΘ"
+      }
+    ]
+  },
+  "issued": "2017-08-23",
+  "posted": "2017-08-23",
+  "publish_timestamp_ms": 1503484844744,
+  "version_id": "ef3b3c06-f48e-445c-8499-c9dc8afae0bc",
+  "in_force": "2017-08-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%95%CE%996%CE%A9%CE%A1%CE%A4-%CE%91%CE%93%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%95%CE%996%CE%A9%CE%A1%CE%A4-%CE%91%CE%93%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%95%CE%996%CE%A9%CE%A1%CE%A4-%CE%91%CE%93%CE%98",
+  "listing_sha256": "fbef0fce8550b95f90e6799146b7204fac9a3bf5b0fbae6dd3e92e7f8cc19561",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
