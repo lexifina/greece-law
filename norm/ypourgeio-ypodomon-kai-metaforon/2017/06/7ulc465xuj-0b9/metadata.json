@@ -1,0 +1,80 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΘΛΨ465ΧΘΞ-0Β9",
+  "subject": "Εναρμόνιση της ελληνικής νομοθεσίας με την Οδηγία 2014/47/ΕΕ του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 3ης Απριλίου 2014 σχετικά με την τεχνική οδική επιθεώρηση της καλής τεχνικής κατάστασης των οχημάτων επαγγελματικής χρήσεως που κυκλοφορούν στην Ένωση και την κατάργηση της Οδηγίας 2000/30/ΕΚ",
+  "protocol_number": "39804/2812",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007428"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2918",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100025103"
+        ]
+      },
+      {
+        "ministryId": "100012977",
+        "unitId": [
+          "100020574"
+        ],
+        "signerIds": [
+          "100025000"
+        ]
+      },
+      {
+        "ministryId": "100015981",
+        "unitId": [
+          "100004172"
+        ],
+        "signerIds": [
+          "100016019"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100025429"
+        ],
+        "signerIds": [
+          "100013859"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-06-01",
+  "posted": "2017-08-25",
+  "publish_timestamp_ms": 1503641591799,
+  "version_id": "aaa401ff-e484-4406-a5c1-49913b9f628b",
+  "in_force": "2017-08-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%98%CE%9B%CE%A8465%CE%A7%CE%98%CE%9E-0%CE%929",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%98%CE%9B%CE%A8465%CE%A7%CE%98%CE%9E-0%CE%929/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%98%CE%9B%CE%A8465%CE%A7%CE%98%CE%9E-0%CE%929",
+  "listing_sha256": "e36c97dbe56cb3e0b1a94ae09b05988c672c2c030502a99a03e0b6609d56579e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
