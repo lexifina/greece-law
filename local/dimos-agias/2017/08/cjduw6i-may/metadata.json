@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΞΔΘΩ6Ι-ΜΑΥ",
+  "subject": "Αποδοχή και κατανομή χρηματοδότησης, ποσού 41.650,00€, από το Υπουργείο Εσωτερικών, για 1η και 2η κατανομή κάλυψης έργων & επενδυτικών δραστηριοτήτων",
+  "protocol_number": "8182/145/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6003",
+    "label": "ΔΗΜΟΣ ΑΓΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80383"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "65ΟΥ465ΧΘ7-ΕΞΨ"
+      }
+    ]
+  },
+  "issued": "2017-08-25",
+  "posted": "2017-09-01",
+  "publish_timestamp_ms": 1504262604983,
+  "version_id": "dc5bd50b-0f4b-4084-8ec3-38f417fe882d",
+  "in_force": "2017-09-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E%CE%94%CE%98%CE%A96%CE%99-%CE%9C%CE%91%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E%CE%94%CE%98%CE%A96%CE%99-%CE%9C%CE%91%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9E%CE%94%CE%98%CE%A96%CE%99-%CE%9C%CE%91%CE%A5",
+  "listing_sha256": "8f7e9f0b85f8d3326d52aee19446836ff45fcdd2ba0fc1da917026cf5122e291",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
