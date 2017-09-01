@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΣΨ5465ΦΥΟ-7Δ4",
+  "subject": "Ανακατανομή κενών οργανικών θέσεων ειδικευμένων ιατρών Ε.Σ.Υ., στην αποκεντρωμένη οργανική μονάδα «ΣΗΤΕΙΑ» του «Γενικού Νοσοκομείου Λασιθίου»",
+  "protocol_number": "A3α/22090",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78927"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2947",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025899",
+        "unitId": [
+          "100005000"
+        ],
+        "signerIds": [
+          "100025919"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-08-09",
+  "posted": "2017-09-01",
+  "publish_timestamp_ms": 1504252777039,
+  "version_id": "6f9b6711-760a-445c-87a2-1808bc70f407",
+  "in_force": "2017-09-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A3%CE%A85465%CE%A6%CE%A5%CE%9F-7%CE%944",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A3%CE%A85465%CE%A6%CE%A5%CE%9F-7%CE%944/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A3%CE%A85465%CE%A6%CE%A5%CE%9F-7%CE%944",
+  "listing_sha256": "5b19363cfcbae6824de18404083533f4d4e5fdece32f2104b8a6f0784444e755",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
