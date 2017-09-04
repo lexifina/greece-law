@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60ΓΔΩ98-6Δ0",
+  "subject": "περίληψηδημοπρασίας «Σκιότσιες» Τ. Κ. Μουσιωτίτσα",
+  "protocol_number": "8071",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6084",
+    "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82459"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω367Ω98-Π6Δ"
+      },
+      {
+        "relatedDecisionsADA": "7ΖΟΒΩ98-3Η4"
+      }
+    ]
+  },
+  "issued": "2017-08-31",
+  "posted": "2017-09-04",
+  "publish_timestamp_ms": 1504510657706,
+  "version_id": "14918338-bc79-4dcf-981b-239db3a356d9",
+  "in_force": "2017-09-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%93%CE%94%CE%A998-6%CE%940",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%93%CE%94%CE%A998-6%CE%940/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%93%CE%94%CE%A998-6%CE%940",
+  "listing_sha256": "0cd602a63759476c4af255062b52e78a21becd21d91d911745cd8482bcbe7aec",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
