@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "71ΕΘΟΡ1Φ-ΔΞ6",
+  "subject": "Έγκριση διατήρησης σε κυκλοφορία αυτοκινήτου άνω των 1.400 cc του Δήμου Ναυπακτίας κατόπιν αλλαγής του αριθμού κυκλοφορίας",
+  "protocol_number": "196541",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87448"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "69ΤΑΟΡ1Φ-Ν0Ω"
+      }
+    ]
+  },
+  "issued": "2017-09-06",
+  "posted": "2017-09-06",
+  "publish_timestamp_ms": 1504696414637,
+  "version_id": "687dfe21-5df4-4edc-a26e-7f5671df1e6f",
+  "in_force": "2017-09-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/71%CE%95%CE%98%CE%9F%CE%A11%CE%A6-%CE%94%CE%9E6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/71%CE%95%CE%98%CE%9F%CE%A11%CE%A6-%CE%94%CE%9E6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/71%CE%95%CE%98%CE%9F%CE%A11%CE%A6-%CE%94%CE%9E6",
+  "listing_sha256": "cc18f68f869a7f12530a6916a719826ec5f7bf7af1714d061045df11b067eb2e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
