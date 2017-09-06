@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΚΙ8ΟΡ1Φ-3Ω7",
+  "subject": "Έγκριση της 18-659/2016 αποφάσεως του Δημοτικού Συμβουλίου του Δήμου Κέρκυρας",
+  "protocol_number": "164240",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76448"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3039",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "164240",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΝΚΣΩΕΑ-ΕΒΤ"
+      },
+      {
+        "relatedDecisionsADA": "ΩΑΙ8ΟΡ1Φ-ΦΑ1"
+      },
+      {
+        "relatedDecisionsADA": "ΩΩ6ΩΩΕΑ-ΞΥ1"
+      }
+    ]
+  },
+  "issued": "2017-09-06",
+  "posted": "2017-09-06",
+  "publish_timestamp_ms": 1504690836059,
+  "version_id": "39ee8753-4d0b-40f6-bfed-e07d8b8c77a0",
+  "in_force": "2017-09-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9A%CE%998%CE%9F%CE%A11%CE%A6-3%CE%A97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9A%CE%998%CE%9F%CE%A11%CE%A6-3%CE%A97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9A%CE%998%CE%9F%CE%A11%CE%A6-3%CE%A97",
+  "listing_sha256": "cc18f68f869a7f12530a6916a719826ec5f7bf7af1714d061045df11b067eb2e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
