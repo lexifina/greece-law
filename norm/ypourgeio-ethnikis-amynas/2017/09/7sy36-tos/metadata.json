@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΣΥ36-ΤΟΣ",
+  "subject": "Απόφαση Έκπτωσης Αναδόχων από την υπ’ αριθμ. 23/2015 Συμφωνία-Πλαίσιο για την «Παροχή Υπηρεσιών Διαμονής, Διατροφής και Λουτροθεραπείας σε Κέντρα Λουτροθεραπείας Αναπήρων Πολέμου (ΚΛΑΠ) για τα Έτη 2015-2018»",
+  "protocol_number": "Φ.800/1484/62312/Σ.14438/ 11 Σεπ 17/ΓΔΟΣΥ/ΔΟΙ/Τμ.Προμ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70167"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Β476-ΨΗ6"
+      },
+      {
+        "relatedDecisionsADA": "6ΤΥΔ6-5ΩΦ"
+      }
+    ]
+  },
+  "issued": "2017-09-11",
+  "posted": "2017-09-11",
+  "publish_timestamp_ms": 1505120600695,
+  "version_id": "5a41877e-704f-44b5-9b72-4ef7ab72ac10",
+  "in_force": "2017-09-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A3%CE%A536-%CE%A4%CE%9F%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A3%CE%A536-%CE%A4%CE%9F%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A3%CE%A536-%CE%A4%CE%9F%CE%A3",
+  "listing_sha256": "4e58e31aa57d39b94e8739c3c701f2014f4a96e7ce7fe06a0bc1547aa032136a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
