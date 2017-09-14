@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Σ1ΔΩΕΣ-Η0Δ",
+  "subject": "ΔΙΑΓΡΑΦΗ ΑΠΟ ΒΕΒΑΙΩΤΙΚΟΥΣ ΚΑΤΑΛΟΓΟΥΣ",
+  "protocol_number": "48444",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6146",
+    "label": "ΔΗΜΟΣ ΚΕΡΑΤΣΙΝΙΟΥ - ΔΡΑΠΕΤΣΩΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84352"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-09-14",
+  "posted": "2017-09-14",
+  "publish_timestamp_ms": 1505372041127,
+  "version_id": "3353ca16-f546-47f5-a7b7-92b50d7dfab7",
+  "in_force": "2017-09-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A31%CE%94%CE%A9%CE%95%CE%A3-%CE%970%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A31%CE%94%CE%A9%CE%95%CE%A3-%CE%970%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A31%CE%94%CE%A9%CE%95%CE%A3-%CE%970%CE%94",
+  "listing_sha256": "e0545f46e73a634202c2c7f027425a042e58f24c7caa6eb92c844b08f09154a0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
