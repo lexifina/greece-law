@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΥΠΨ465ΦΥΟ-ΦΙ1",
+  "subject": "Τροποποίηση της υπ. αριθμ Γ1δ/Γ.Π. οικ. 53794/ 12-7-2017 «Τμήματα ακτών της Περιφέρειας Αττικής, στα οποία δεν επιτρέπεται η κολύμβηση», όπως ισχύει",
+  "protocol_number": "Γ1δ/Γ.Π. οικ.70949",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100027516"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "10007"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΑΞΖ465ΦΥΟ-ΒΒ7"
+      },
+      {
+        "relatedDecisionsADA": "ΩΙΩΧ465ΦΥΟ-Ι59"
+      }
+    ]
+  },
+  "issued": "2017-09-20",
+  "posted": "2017-09-20",
+  "publish_timestamp_ms": 1505905447472,
+  "version_id": "7172dbb0-6961-438e-bab2-6fc399781c40",
+  "in_force": "2017-09-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A5%CE%A0%CE%A8465%CE%A6%CE%A5%CE%9F-%CE%A6%CE%991",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A5%CE%A0%CE%A8465%CE%A6%CE%A5%CE%9F-%CE%A6%CE%991/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A5%CE%A0%CE%A8465%CE%A6%CE%A5%CE%9F-%CE%A6%CE%991",
+  "listing_sha256": "4a330d07396f268f2e6d57eb1b754e41e66f1084e3955bdbab270975e187f7e2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
