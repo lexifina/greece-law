@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "70ΑΟΩΡ5-Δ5Λ",
+  "subject": "Εγκρίνει ομόφωνα την ορθή επανάληψη της υπ' αρ. 1112/2017 ΑΔΣ που αφορά στη “τροποποίηση – διόρθωση της με αρ. 2022/2013 απόφασης Δημοτικού Συμβουλίου σχετικά με την κήρυξη απαλλοτρίωσης στο Ο.Τ. που περικλείεται από τις οδούς Πυλαίας, Αμφιπόλεως, Επιδαύρου και Ανατολικής Ρωμυλίας στην περιοχή Άνω Τούμπας Θεσσαλονίκης”, ως προς τα τετραγωνικά μέτρα του εμβαδού της υπό απαλλοτρίωση έκτασης.",
+  "protocol_number": "1226/2017 ΑΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91706"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΑΖΣΩΡ5-43Θ"
+      },
+      {
+        "relatedDecisionsADA": "ΒΛΓΓΩΡ5-ΜΜΟ"
+      }
+    ]
+  },
+  "issued": "2017-09-18",
+  "posted": "2017-09-26",
+  "publish_timestamp_ms": 1506408139696,
+  "version_id": "65f03999-350b-482c-b050-d80ba7340fdb",
+  "in_force": "2017-09-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/70%CE%91%CE%9F%CE%A9%CE%A15-%CE%945%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/70%CE%91%CE%9F%CE%A9%CE%A15-%CE%945%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/70%CE%91%CE%9F%CE%A9%CE%A15-%CE%945%CE%9B",
+  "listing_sha256": "30a7e39e6aec96f2ea57689dff935182bc6a5fd372ce21d00c98a0bda1883f00",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
