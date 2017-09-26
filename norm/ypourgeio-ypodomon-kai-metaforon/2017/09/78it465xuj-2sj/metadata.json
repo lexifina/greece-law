@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "78ΙΤ465ΧΘΞ-2ΣΞ",
+  "subject": "Ορισμός Προέδρου, Διευθύνοντος Συμβούλου και μελών του Διοικητικού Συμβουλίου της Ανώνυμης Εταιρείας με την επωνυμία «Oργανισμός Συγκοινωνιακού Έργου Θεσσαλονίκης Ανώνυμη Εταιρεία» και διακριτικό τίτλο «Ο.Σ.Ε.Θ. Α.Ε.»",
+  "protocol_number": "ΔΝΣα/οικ.67021/Φ.50ε",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007413"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "468",
+      "issue": "fektype_YODD",
+      "issueyear": 2017
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-09-22",
+  "posted": "2017-09-26",
+  "publish_timestamp_ms": 1506405569141,
+  "version_id": "6a72a73f-a5fa-4133-b311-c8600758c1bd",
+  "in_force": "2017-09-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/78%CE%99%CE%A4465%CE%A7%CE%98%CE%9E-2%CE%A3%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/78%CE%99%CE%A4465%CE%A7%CE%98%CE%9E-2%CE%A3%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/78%CE%99%CE%A4465%CE%A7%CE%98%CE%9E-2%CE%A3%CE%9E",
+  "listing_sha256": "d45e93f5127a343bcb4d59dda05e0e816e0b0e5fa76e3115f91b0c8d5ddb9e8d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
