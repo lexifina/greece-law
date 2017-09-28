@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω2Κ9Ω1Ω-6Α9",
+  "subject": "Απόφαση Δημάρχου 426/2017 επιβολής προστίμου",
+  "protocol_number": "8957/28-09-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6261",
+    "label": "ΔΗΜΟΣ ΠΩΓΩΝΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "89868"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-09-28",
+  "posted": "2017-09-28",
+  "publish_timestamp_ms": 1506598100962,
+  "version_id": "350ca5e4-c16d-43e5-9ed8-46756e906e9a",
+  "in_force": "2017-09-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%9A9%CE%A91%CE%A9-6%CE%919",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%9A9%CE%A91%CE%A9-6%CE%919/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A92%CE%9A9%CE%A91%CE%A9-6%CE%919",
+  "listing_sha256": "5b6e79069bb0111fa6cd0e20f1f462354398610399b9f7078efdb600efd72b2b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
