@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΔΜΨΩΕ4-9Δ2",
+  "subject": "έγκριση πρακτικού επιτροπής αξιολόγησης ενστάσεων",
+  "protocol_number": "115.2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6122",
+    "label": "ΔΗΜΟΣ ΙΚΑΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84599"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-06",
+  "posted": "2017-10-06",
+  "publish_timestamp_ms": 1507279372502,
+  "version_id": "f31635b7-65e0-47e8-9311-d18a4f17ab58",
+  "in_force": "2017-10-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%94%CE%9C%CE%A8%CE%A9%CE%954-9%CE%942",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%94%CE%9C%CE%A8%CE%A9%CE%954-9%CE%942/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%94%CE%9C%CE%A8%CE%A9%CE%954-9%CE%942",
+  "listing_sha256": "901d7527f4ee7b7f68c778bdd4e15ca1b4339c7d79252bb4e5c9df7a49f66096",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
