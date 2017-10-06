@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΗΑ3ΩΞΩ-Α7Ω",
+  "subject": "Μεταφορά των πλεοναζόντων κεφαλαίων και ταμειακών διαθεσίμων του Δήμου Οροπεδίου Λασιθίου στην Τράπεζα της Ελλάδος.",
+  "protocol_number": "175",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6227",
+    "label": "ΔΗΜΟΣ ΟΡΟΠΕΔΙΟΥ ΛΑΣΙΘΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84456"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-09-28",
+  "posted": "2017-10-06",
+  "publish_timestamp_ms": 1507290342402,
+  "version_id": "5e5182d6-c06e-48f7-afd1-6d0d3d239fc1",
+  "in_force": "2017-10-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%913%CE%A9%CE%9E%CE%A9-%CE%917%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%913%CE%A9%CE%9E%CE%A9-%CE%917%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%97%CE%913%CE%A9%CE%9E%CE%A9-%CE%917%CE%A9",
+  "listing_sha256": "009343ca63b543912ac813c6805bd413d3bcaf309c69aeb204e188b0151333a6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
