@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Υ9ΙΗ-ΣΦ7",
+  "subject": "ΕΚΧΩΡΗΣΗ ΤΗΣ ΕΞΟΥΣΙΟΔΟΤΗΣΗΣ ΥΠΟΓΡΑΦΗΣ ΑΠΟ ΤΗΝ ΠΡΟΙΣΤΑΜΕΝΗ ΤΗΣ ΔΟΥ ΗΛΙΟΥΠΟΛΗΣ ΣΕ ΥΦΙΣΤΑΜΕΝΑ ΟΡΓΑΝΑ",
+  "protocol_number": "53338",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "94556"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3452",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Πράξη Ανεξάρτητης Αρχής",
+    "kanonistikipraxiaa": "53338",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-09-25",
+  "posted": "2017-10-06",
+  "publish_timestamp_ms": 1507289660510,
+  "version_id": "f38147eb-9dc7-4d07-a93c-af0a5ee4ea27",
+  "in_force": "2017-10-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A59%CE%99%CE%97-%CE%A3%CE%A67",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A59%CE%99%CE%97-%CE%A3%CE%A67/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A59%CE%99%CE%97-%CE%A3%CE%A67",
+  "listing_sha256": "76058ef8335f08295b36953a3ed7f34b286c64888a68d028d5d0e076fa4c6dc5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
