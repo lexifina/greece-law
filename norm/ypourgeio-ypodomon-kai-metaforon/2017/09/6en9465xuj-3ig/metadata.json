@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΕΝ9465ΧΘΞ-3ΙΓ",
+  "subject": "Έγκριση του Οικείου Κανονισμού Επίγειας Εξυπηρέτησης του Αερολιμένα Κέρκυρας \"Ιωάννης Καποδίστριας\"",
+  "protocol_number": "Δ3/Β/20485/7604",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76403"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3502",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-09-29",
+  "posted": "2017-10-10",
+  "publish_timestamp_ms": 1507617359171,
+  "version_id": "defa2b87-5bdb-4d73-9a0c-42bfa2348237",
+  "in_force": "2017-10-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%9D9465%CE%A7%CE%98%CE%9E-3%CE%99%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%9D9465%CE%A7%CE%98%CE%9E-3%CE%99%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%95%CE%9D9465%CE%A7%CE%98%CE%9E-3%CE%99%CE%93",
+  "listing_sha256": "35e2bd71d0492c093eb324d3fd93d263731b84d26e8ab2077a0cc92f808e7b06",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
