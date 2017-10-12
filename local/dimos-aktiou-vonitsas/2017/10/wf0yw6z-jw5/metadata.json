@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦ0ΥΩ6Ζ-ΞΩ5",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΓΙΑ ΠΑΡΑΓΩΓΗ-ΕΚΤΥΠΩΣΗ ΟΔΗΓΟΥ",
+  "protocol_number": "13730",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6017",
+    "label": "ΔΗΜΟΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93482"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-12",
+  "posted": "2017-10-12",
+  "publish_timestamp_ms": 1507803929367,
+  "version_id": "3541e3ae-56bd-4952-87b9-6943b659111b",
+  "in_force": "2017-10-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A60%CE%A5%CE%A96%CE%96-%CE%9E%CE%A95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A60%CE%A5%CE%A96%CE%96-%CE%9E%CE%A95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A60%CE%A5%CE%A96%CE%96-%CE%9E%CE%A95",
+  "listing_sha256": "46a44315717ecd13ce8f70ca8391055ac90e3635148763b1fa6e7ec46432e602",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
