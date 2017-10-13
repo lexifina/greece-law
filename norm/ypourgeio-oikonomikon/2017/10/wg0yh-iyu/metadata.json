@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓ0ΥΗ-ΙΥΘ",
+  "subject": "Αποδοχή παραίτησης μέλους του Γενικού Συμβουλίου του Ταμείου Χρηματοπιστωτικής Σταθερότητας",
+  "protocol_number": "Γ.Δ.Ο.Π. 0001458 ΕΞ 2017/Χ.Π. 1658",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "498",
+      "issue": "fektype_YODD",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-03",
+  "posted": "2017-10-13",
+  "publish_timestamp_ms": 1507875765856,
+  "version_id": "84ea075f-de9e-4d9b-8043-83aa8f7b1f07",
+  "in_force": "2017-10-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%930%CE%A5%CE%97-%CE%99%CE%A5%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%930%CE%A5%CE%97-%CE%99%CE%A5%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%930%CE%A5%CE%97-%CE%99%CE%A5%CE%98",
+  "listing_sha256": "d6ec17cd70af01b134c6d96b8ca5721c2c1213ad37d1ab3e4993910f46c8e329",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
