@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ε74ΩΗ0-ΣΑ6",
+  "subject": "Έγκριση ή μη πρακτικών δημοπράτησης για εκμίσθωση Δημοτικής έκτασης  στην Τοπική Κοινότητα Καλλιθέας, Δημοτικής Ενότητας Ναρθακίου",
+  "protocol_number": "15866",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6306",
+    "label": "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82053"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "231/2017",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "673ΒΩΗ0-ΗΡΔ"
+      }
+    ]
+  },
+  "issued": "2017-10-11",
+  "posted": "2017-10-16",
+  "publish_timestamp_ms": 1508152423015,
+  "version_id": "c6d182cc-f5f2-4acb-a1ee-3552f19ab58b",
+  "in_force": "2017-10-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9574%CE%A9%CE%970-%CE%A3%CE%916",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9574%CE%A9%CE%970-%CE%A3%CE%916/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9574%CE%A9%CE%970-%CE%A3%CE%916",
+  "listing_sha256": "bf96f5dc30701e4e36c13d4e77857dea7a2d256704ca52c417fd1c6c7bec8cc2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
