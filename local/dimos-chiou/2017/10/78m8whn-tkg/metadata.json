@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "78Μ8ΩΗΝ-ΤΚΓ",
+  "subject": "Η αριθμ 303/2017 Απόφαση Δημάρχου Χίου.",
+  "protocol_number": "36544",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78547"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-16",
+  "posted": "2017-10-17",
+  "publish_timestamp_ms": 1508218903125,
+  "version_id": "dfff17cc-0ca8-4754-b858-b99780bce068",
+  "in_force": "2017-10-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/78%CE%9C8%CE%A9%CE%97%CE%9D-%CE%A4%CE%9A%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/78%CE%9C8%CE%A9%CE%97%CE%9D-%CE%A4%CE%9A%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/78%CE%9C8%CE%A9%CE%97%CE%9D-%CE%A4%CE%9A%CE%93",
+  "listing_sha256": "81f91d25d0e1828cf4ccab54147a99bb502b63cdfe9fd3266058897b4dd863d0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
