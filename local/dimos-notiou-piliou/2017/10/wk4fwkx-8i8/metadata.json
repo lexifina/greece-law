@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΚ4ΦΩΚΧ-8Ι8",
+  "subject": "297/2017\tΠερί αναμόρφωσης πρου/σμού οικον. Έτους 2017.",
+  "protocol_number": "14606",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6219",
+    "label": "ΔΗΜΟΣ ΝΟΤΙΟΥ ΠΗΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93050"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-12",
+  "posted": "2017-10-17",
+  "publish_timestamp_ms": 1508239557234,
+  "version_id": "3e246ac3-3aac-45a0-940e-677d1344fa94",
+  "in_force": "2017-10-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A4%CE%A6%CE%A9%CE%9A%CE%A7-8%CE%998",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A4%CE%A6%CE%A9%CE%9A%CE%A7-8%CE%998/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9A4%CE%A6%CE%A9%CE%9A%CE%A7-8%CE%998",
+  "listing_sha256": "3d517e96d88777f390b6dcb6eba6848035f442c21f069bcf89b0cc0ddff5cf37",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
