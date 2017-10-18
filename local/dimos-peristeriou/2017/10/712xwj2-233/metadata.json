@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "712ΧΩΞ2-233",
+  "subject": "Απόφαση έγκρισης διενέργειας δαπάνης για την προμήθεια ενός οπίσθιου δεξιού ελαστικού διαστάσεων 315/80-22,5, με τη διαδικασία της απευθείας ανάθεσης, προϋπολογισμού 582,80€, λόγω κατεπείγουσας ανάγκης και εξαιτίας αιφνίδιας και απρόβλεπτης φθοράς του ελαστικού του ΚΗΗ 7396 SCANIA απορριμματοφόρου οχήματος του Δήμου.",
+  "protocol_number": "41053",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78053"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-18",
+  "posted": "2017-10-18",
+  "publish_timestamp_ms": 1508310906297,
+  "version_id": "d3d1bd91-71c3-4dd3-8b90-7ab197823634",
+  "in_force": "2017-10-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/712%CE%A7%CE%A9%CE%9E2-233",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/712%CE%A7%CE%A9%CE%9E2-233/document",
+  "page": "https://diavgeia.gov.gr/decision/view/712%CE%A7%CE%A9%CE%9E2-233",
+  "listing_sha256": "6a4c48c249dd91cebd79a3831118bfe424b93943d95c69b5585e51af8a8e1cde",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
