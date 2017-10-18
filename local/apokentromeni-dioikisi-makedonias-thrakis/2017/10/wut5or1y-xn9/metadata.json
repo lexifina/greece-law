@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΘΤ5ΟΡ1Υ-ΧΝ9",
+  "subject": "Εφαρμογή μόνιμων κυκλοφοριακών ρυθμίσεων επί του εθνικού και επαρχιακού δικτύου της Π.Ε. Ροδόπης σε πέντε (5) κόμβους του Αυτοκινητόδρομου της Εγνατίας οδού (Κόμβος Ιάσμου,  Δυτικός κόμβος Κομοτηνής, Ανατολικός κόμβος Κομοτηνής, Κόμβος Βιομηχανικής Περιοχής, Κόμβος Μέστης), σύμφωνα με την υπ’ αριθ. 148/2017 απόφαση του Περιφερειακού Συμβουλίου Ανατολικής Μακεδονίας και Θράκης",
+  "protocol_number": "3777/2-10-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77655"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3581",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "3777",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-02",
+  "posted": "2017-10-18",
+  "publish_timestamp_ms": 1508309831625,
+  "version_id": "f07f4143-b2c8-4bf9-9145-93d63107c49c",
+  "in_force": "2017-10-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%A45%CE%9F%CE%A11%CE%A5-%CE%A7%CE%9D9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%A45%CE%9F%CE%A11%CE%A5-%CE%A7%CE%9D9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%98%CE%A45%CE%9F%CE%A11%CE%A5-%CE%A7%CE%9D9",
+  "listing_sha256": "db6d912828c7a25094d59ceffbf84f86a5cd43edd0a872ce13fbfeb3bf85fd3e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
