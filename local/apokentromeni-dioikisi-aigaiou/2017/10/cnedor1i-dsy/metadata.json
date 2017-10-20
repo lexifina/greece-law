@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΝΕΔΟΡ1Ι-ΔΣΥ",
+  "subject": "ΝΟΜΙΜΟΤΗΤΑ ΤΗΣ ΑΡΙΘ 728/2017 ΑΠΟΦΑΣΗΣ ΤΟΥ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ ΤΟΥ ΔΗΜΟΥ ΛΕΣΒΟΥ",
+  "protocol_number": "66453",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76698"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "728",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-20",
+  "posted": "2017-10-20",
+  "publish_timestamp_ms": 1508499122154,
+  "version_id": "df7c0e64-ddfb-4866-b523-8df61311693d",
+  "in_force": "2017-10-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9D%CE%95%CE%94%CE%9F%CE%A11%CE%99-%CE%94%CE%A3%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9D%CE%95%CE%94%CE%9F%CE%A11%CE%99-%CE%94%CE%A3%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9D%CE%95%CE%94%CE%9F%CE%A11%CE%99-%CE%94%CE%A3%CE%A5",
+  "listing_sha256": "5faf5ca731b994c68f902f7788a067d48aa68ee48c3afd81a6cec704b4d91a31",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
