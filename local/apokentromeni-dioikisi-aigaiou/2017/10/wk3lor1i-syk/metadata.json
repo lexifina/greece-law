@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΚ3ΛΟΡ1Ι-ΣΥΚ",
+  "subject": "ΔΙΑΠΙΣΤΩΤΙΚΗ ΠΡΑΞΗ ΓΙΑ ΤΗΝ ΑΡΙΘ 9/2017 ΑΠΟΦΑΣΗ ΤΟΥ ΠΕΡΙΦΕΡΕΙΑΚΟΥ ΤΑΜΕΙΟΥ ΑΝΑΠΤΥΞΗΣ ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+  "protocol_number": "65809",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76675"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "9",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-19",
+  "posted": "2017-10-20",
+  "publish_timestamp_ms": 1508487362504,
+  "version_id": "4d5e45c0-cccc-4723-8412-b8ba2408a2dc",
+  "in_force": "2017-10-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A3%CE%9B%CE%9F%CE%A11%CE%99-%CE%A3%CE%A5%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A3%CE%9B%CE%9F%CE%A11%CE%99-%CE%A3%CE%A5%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9A3%CE%9B%CE%9F%CE%A11%CE%99-%CE%A3%CE%A5%CE%9A",
+  "listing_sha256": "ebdf1f0fb960de48012cd5dcf57b4401c19e6325371d68165ad88a520eed6ac6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
