@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ7ΚΙΟΡ1Υ-Χ9Ω",
+  "subject": "ΑΝΑΚΟΙΝΩΣΗ_ΠΡΟΓΡΑΜΜΑΤΟΣ_ΕΚΜΕΤΑΛΛΕΥΣΗΣ_2018_ΔΝΣΗ_ΔΑΣΩΝ_ΡΟΔΟΠΗΣ",
+  "protocol_number": "18642",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77332"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΠΧΝΟΡ1Υ-ΓΦΓ"
+      }
+    ]
+  },
+  "issued": "2017-10-16",
+  "posted": "2017-10-20",
+  "publish_timestamp_ms": 1508491990501,
+  "version_id": "182c72c9-be7e-4da2-b61f-db7974c2b326",
+  "in_force": "2017-10-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A87%CE%9A%CE%99%CE%9F%CE%A11%CE%A5-%CE%A79%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A87%CE%9A%CE%99%CE%9F%CE%A11%CE%A5-%CE%A79%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A87%CE%9A%CE%99%CE%9F%CE%A11%CE%A5-%CE%A79%CE%A9",
+  "listing_sha256": "81f91d25d0e1828cf4ccab54147a99bb502b63cdfe9fd3266058897b4dd863d0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
