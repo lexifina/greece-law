@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "75ΛΡΗ-Μ6Ε",
+  "subject": "Αντικατάσταση μελών της Συμβουλευτικής Επιτροπής της Επιτροπής Κεφαλαιαγοράς",
+  "protocol_number": "Γ.Δ.Ο.Π. 0001552 ΕΞ 2017/ ΧΠ 1756",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "520",
+      "issue": "fektype_YODD",
+      "issueyear": 2017
+    },
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7Ρ2ΕΗ-7ΙΟ"
+      }
+    ]
+  },
+  "issued": "2017-10-17",
+  "posted": "2017-10-24",
+  "publish_timestamp_ms": 1508825496562,
+  "version_id": "586790c0-494e-4d83-99d7-43ea53a29766",
+  "in_force": "2017-10-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/75%CE%9B%CE%A1%CE%97-%CE%9C6%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/75%CE%9B%CE%A1%CE%97-%CE%9C6%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/75%CE%9B%CE%A1%CE%97-%CE%9C6%CE%95",
+  "listing_sha256": "a32ecb3f991dfdc0e85fab8f201096233cbe8d1ba441a8b592f7a7fd8442e6cc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
