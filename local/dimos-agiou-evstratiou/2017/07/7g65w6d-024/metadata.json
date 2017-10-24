@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Γ65Ω6Δ-024",
+  "subject": "53/2017 ΑΠΟΦΑΣΗ ΔΣ",
+  "protocol_number": "53",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6008",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΕΥΣΤΡΑΤΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93631"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-07-17",
+  "posted": "2017-10-24",
+  "publish_timestamp_ms": 1508840599016,
+  "version_id": "aace7a81-26c0-4345-bebc-63e13f47f7ff",
+  "in_force": "2017-10-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9365%CE%A96%CE%94-024",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9365%CE%A96%CE%94-024/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9365%CE%A96%CE%94-024",
+  "listing_sha256": "81f161c3b177bc893e0dcc1e6fc7441f1b3a912d6ed91658e653617a91b7e8b4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
