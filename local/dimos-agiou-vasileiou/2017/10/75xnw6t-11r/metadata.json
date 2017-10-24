@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "75ΧΝΩ6Τ-11Ρ",
+  "subject": "Αποδοχή παραχώρησης τμήματος ακινήτου εντός Σχεδίου Πόλεως Αγίας Γαλήνης, σε κοινή χρήση",
+  "protocol_number": "15877",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6006",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΒΑΣΙΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83413"
+  ],
+  "thematic_category_ids": [
+    "72"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-16",
+  "posted": "2017-10-24",
+  "publish_timestamp_ms": 1508823451454,
+  "version_id": "fdad0afe-b0f1-4732-a8f9-80c2f3747674",
+  "in_force": "2017-10-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/75%CE%A7%CE%9D%CE%A96%CE%A4-11%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/75%CE%A7%CE%9D%CE%A96%CE%A4-11%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/75%CE%A7%CE%9D%CE%A96%CE%A4-11%CE%A1",
+  "listing_sha256": "81f91d25d0e1828cf4ccab54147a99bb502b63cdfe9fd3266058897b4dd863d0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
