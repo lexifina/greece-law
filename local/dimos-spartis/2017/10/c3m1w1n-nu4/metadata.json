@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ3Μ1Ω1Ν-ΝΘ4",
+  "subject": "434/2017 Α.Δ.Σ.    Συνεργασία με την EUROBANK για την είσπραξη των οφειλών του Δήμου Σπάρτης με χρήση τερματικών υποδοχής καρτών (POS)",
+  "protocol_number": "434",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6286",
+    "label": "ΔΗΜΟΣ ΣΠΑΡΤΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100033602"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-23",
+  "posted": "2017-10-26",
+  "publish_timestamp_ms": 1509016535077,
+  "version_id": "f7b8d0fb-18c6-4221-a65b-d422d81c1a7d",
+  "in_force": "2017-10-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A83%CE%9C1%CE%A91%CE%9D-%CE%9D%CE%984",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A83%CE%9C1%CE%A91%CE%9D-%CE%9D%CE%984/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A83%CE%9C1%CE%A91%CE%9D-%CE%9D%CE%984",
+  "listing_sha256": "9db5172931e0c3bd7710f56d15e53631f98aedc4f0c69fa9262abcfce2d025da",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
