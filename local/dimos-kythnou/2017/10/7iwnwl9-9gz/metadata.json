@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΙΩΝΩΛ9-9ΓΖ",
+  "subject": "Α-Αρ.Απόφασης 6-2017-Ανασυγκρότηση σώματος",
+  "protocol_number": "6",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6162",
+    "label": "ΔΗΜΟΣ ΚΥΘΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88963"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-26",
+  "posted": "2017-10-27",
+  "publish_timestamp_ms": 1509094588953,
+  "version_id": "df9083f4-9a4c-42fb-8b29-54a9b57fdb19",
+  "in_force": "2017-10-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%99%CE%A9%CE%9D%CE%A9%CE%9B9-9%CE%93%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%99%CE%A9%CE%9D%CE%A9%CE%9B9-9%CE%93%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%99%CE%A9%CE%9D%CE%A9%CE%9B9-9%CE%93%CE%96",
+  "listing_sha256": "baadb415eea8832c19dd5fe51406f7e1ae5cd35a6c05abf49122911b74dbaed7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
