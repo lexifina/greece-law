@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΞΝΒ7ΛΗ-6Ι5",
+  "subject": "ΑΠΟΦΑΣΗ",
+  "protocol_number": "236024/4307",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5013",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "100005070"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-30",
+  "posted": "2017-10-30",
+  "publish_timestamp_ms": 1509351706849,
+  "version_id": "0ced7f92-833c-4081-b9db-e3d2c75cb1b9",
+  "in_force": "2017-10-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9E%CE%9D%CE%927%CE%9B%CE%97-6%CE%995",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9E%CE%9D%CE%927%CE%9B%CE%97-6%CE%995/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9E%CE%9D%CE%927%CE%9B%CE%97-6%CE%995",
+  "listing_sha256": "ddc7ca4f94b2ddbbd64bf7dcfab8f7d7c3848691ac51dd5f08d49a6bd585764a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
