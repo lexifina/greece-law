@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΟΑ4Ε-ΨΛΘ",
+  "subject": "ΔΑΠΑΝΗ ΑΓΟΡΑΣ ΑΤΜΟΣΙΔΕΡΟΥ\nΣΕ ΑΝΤΙΚΑΣΤΑΣΗ ΠΡΕΣΒΕΙΑ ΒΟΥΚΟΥΡΕΣΤΙΟΥ",
+  "protocol_number": "8499",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "85706"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-24",
+  "posted": "2017-10-30",
+  "publish_timestamp_ms": 1509356754369,
+  "version_id": "5c692f19-ed39-4f6d-a78b-98fffb3c121e",
+  "in_force": "2017-10-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F%CE%914%CE%95-%CE%A8%CE%9B%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F%CE%914%CE%95-%CE%A8%CE%9B%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9F%CE%914%CE%95-%CE%A8%CE%9B%CE%98",
+  "listing_sha256": "0cb35138549b262e938ae31884aadff502392980da36cf53ce1aedc995626304",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
