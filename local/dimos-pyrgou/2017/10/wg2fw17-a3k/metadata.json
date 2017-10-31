@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓ2ΦΩ17-Α3Κ",
+  "subject": "Έγκριση του πρωτοκόλλου οριστικής παραλαβής του αντικειμένου «Βιβλιοδέτηση 5 ληξιαρχικών βιβλίων Πύργου - 1 βιβλίου Μ. Αρρένων Πύργου - Αναβιβλιοδέτηση 24 βιβλίων Δημοτολογίου ΔΕ Ωλένης & Βώλακος - Βιβλιοδέτηση 3 πανόδετων & 3 δερματόδετων πρακτικών Δ.Σ. 2016»",
+  "protocol_number": "33896",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6260",
+    "label": "ΔΗΜΟΣ ΠΥΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80114"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "338/2017",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-31",
+  "posted": "2017-10-31",
+  "publish_timestamp_ms": 1509448334588,
+  "version_id": "df05e244-bd44-499f-9ff2-c3667271879f",
+  "in_force": "2017-10-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%932%CE%A6%CE%A917-%CE%913%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%932%CE%A6%CE%A917-%CE%913%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%932%CE%A6%CE%A917-%CE%913%CE%9A",
+  "listing_sha256": "db9750adfd82e5d19a6116b82a031c53c5d645071f1b9bb85dcb24b0250266c3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
