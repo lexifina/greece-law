@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΧΕΙΟΡ1Υ-ΒΤ5",
+  "subject": "Ανάκληση  απόφασης που αφορά μη άσκηση αντιρρήσεων επί πράξης χαρακτηρισμού",
+  "protocol_number": "12433",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "78177"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "696ΜΟΡ1Υ-Ξ0Μ"
+      }
+    ]
+  },
+  "issued": "2017-10-31",
+  "posted": "2017-10-31",
+  "publish_timestamp_ms": 1509440344998,
+  "version_id": "bbf0ac04-b450-4b55-b187-3f561258c9c8",
+  "in_force": "2017-10-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A7%CE%95%CE%99%CE%9F%CE%A11%CE%A5-%CE%92%CE%A45",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A7%CE%95%CE%99%CE%9F%CE%A11%CE%A5-%CE%92%CE%A45/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A7%CE%95%CE%99%CE%9F%CE%A11%CE%A5-%CE%92%CE%A45",
+  "listing_sha256": "d3878b6570fb7b6994536358d639074735d735c993fc6a1268e6ad0661e9b876",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
