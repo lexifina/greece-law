@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΗΧΖ4653Π8-4ΦΜ",
+  "subject": "Τροποποίηση της κοινής υπουργικής απόφασης υπ’ αρ. ΥΠΕΧΩΔΕ/ΕΥΠΕ/οικ.107017/2006 «Εκτίμηση των περιβαλλοντικών επιπτώσεων ορισμένων σχεδίων και προγραμμάτων, σε συμμόρφωση με τις διατάξεις της οδηγίας 2001/42/ΕΚ “σχετικά με την εκτίμηση των περιβαλλοντικών επιπτώσεων ορισμένων σχεδίων και προγραμμάτων” του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 27ης Ιουνίου 2001»",
+  "protocol_number": "οικ. 40238",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100006783"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3759",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025896",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100025149"
+        ]
+      },
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100025103"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-09-28",
+  "posted": "2017-10-31",
+  "publish_timestamp_ms": 1509438774178,
+  "version_id": "14a486ce-8fa0-41c2-8e54-6db906b6c964",
+  "in_force": "2017-10-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%A7%CE%964653%CE%A08-4%CE%A6%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%A7%CE%964653%CE%A08-4%CE%A6%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%97%CE%A7%CE%964653%CE%A08-4%CE%A6%CE%9C",
+  "listing_sha256": "009343ca63b543912ac813c6805bd413d3bcaf309c69aeb204e188b0151333a6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
