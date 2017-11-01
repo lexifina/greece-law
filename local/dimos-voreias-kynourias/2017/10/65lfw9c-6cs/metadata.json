@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "65ΛΦΩ9Ψ-6ΨΣ",
+  "subject": "Διαγραφή οφειλών.",
+  "protocol_number": "11376",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6059",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80793"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-27",
+  "posted": "2017-11-01",
+  "publish_timestamp_ms": 1509536479773,
+  "version_id": "8bc52481-a59d-4811-b37c-b2c74ecba246",
+  "in_force": "2017-11-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/65%CE%9B%CE%A6%CE%A99%CE%A8-6%CE%A8%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/65%CE%9B%CE%A6%CE%A99%CE%A8-6%CE%A8%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/65%CE%9B%CE%A6%CE%A99%CE%A8-6%CE%A8%CE%A3",
+  "listing_sha256": "6e6994bebc1854fc49bca52db30afc7a022b11b36f5494d9db63b91fd70dcdf0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
