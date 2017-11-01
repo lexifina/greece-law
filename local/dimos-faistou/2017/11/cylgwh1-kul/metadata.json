@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΥΛΓΩΗ1-ΚΘΛ",
+  "subject": "Τροποποιηση Π/Υ οικ. ετους 2017 του Δημου Φαιστου με μεταφορα απο το αποθεματικο ποσού 2.000,00 ευρώ με δημιουργια νεου ΚΑ 35.7135.0008 με τίτλο \"Προμηθεια ξυλοκοπτικων και αναλωσιμων\"",
+  "protocol_number": "19193",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6304",
+    "label": "ΔΗΜΟΣ ΦΑΙΣΤΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83703"
+  ],
+  "thematic_category_ids": [
+    "66"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-11-01",
+  "posted": "2017-11-01",
+  "publish_timestamp_ms": 1509539447634,
+  "version_id": "9fb32951-8bc2-41fa-84a1-562e59f51c62",
+  "in_force": "2017-11-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A5%CE%9B%CE%93%CE%A9%CE%971-%CE%9A%CE%98%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A5%CE%9B%CE%93%CE%A9%CE%971-%CE%9A%CE%98%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A5%CE%9B%CE%93%CE%A9%CE%971-%CE%9A%CE%98%CE%9B",
+  "listing_sha256": "2b50e1c108ab7b9126345232b05f17a242e99c53184357abe5b77c433efd83d2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
