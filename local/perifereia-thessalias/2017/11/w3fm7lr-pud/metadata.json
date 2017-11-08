@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω3ΦΜ7ΛΡ-ΠΘΔ",
+  "subject": "ΜΕΙΩΣΗ ΕΓΓΥΗΤΙΚΗΣ ΚΑΛΗΣ ΕΚΤΕΛΕΣΗΣ",
+  "protocol_number": "7407",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "82118"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-11-08",
+  "posted": "2017-11-08",
+  "publish_timestamp_ms": 1510137523676,
+  "version_id": "6b9dce83-d846-42a1-ae5a-2bf810a9ce61",
+  "in_force": "2017-11-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%A6%CE%9C7%CE%9B%CE%A1-%CE%A0%CE%98%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%A6%CE%9C7%CE%9B%CE%A1-%CE%A0%CE%98%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A93%CE%A6%CE%9C7%CE%9B%CE%A1-%CE%A0%CE%98%CE%94",
+  "listing_sha256": "d6e099b8a3406208645ca658232a30dc9ec20d99cc4522993cf74e076f94eab0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
