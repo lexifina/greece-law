@@ -1,0 +1,52 @@
+{
+  "year": 2017,
+  "number": 4496,
+  "url": "https://api.et.gr/apiLAW/1/2017/4496/pdf",
+  "source_sha256": "2f3c5e66b5948bcdcbdda62e56b45b4e52edc8c115330b9a1d4bb8c4ed3a5a7c",
+  "published": "2017-11-08",
+  "in_force": "2017-11-08",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 36,
+  "images": [
+    {
+      "page": 33,
+      "sha256": "3eacda2f9c97a5ad2f6da3e8734ba4a529ade7fab76e23b95b2c631daacb4a45",
+      "ext": "png",
+      "bytes": 113395,
+      "bbox": [
+        68.0,
+        93.5,
+        521.1,
+        760.5
+      ]
+    },
+    {
+      "page": 34,
+      "sha256": "9bef15894c18ed6536b77651a0888aee88f1182eef53c178f80975512a80a48c",
+      "ext": "png",
+      "bytes": 134931,
+      "bbox": [
+        57.9,
+        98.9,
+        503.6,
+        786.7
+      ]
+    },
+    {
+      "page": 35,
+      "sha256": "7aa190b2ef47f46fbcd20e5f66e641a2356925431ef08f906f8eeff4e1478759",
+      "ext": "png",
+      "bytes": 100275,
+      "bbox": [
+        68.0,
+        93.5,
+        544.3,
+        799.7
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
