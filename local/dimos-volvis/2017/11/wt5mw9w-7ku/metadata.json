@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤ5ΜΩ9Ω-7ΚΘ",
+  "subject": "Απονομή τιμής στον εκλιπόντα καταδρομέα Αθανάσιο Ζαφειρίου.",
+  "protocol_number": "197-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6057",
+    "label": "ΔΗΜΟΣ ΒΟΛΒΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78101"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-11-09",
+  "posted": "2017-11-09",
+  "publish_timestamp_ms": 1510217878153,
+  "version_id": "984a82d3-2edf-433d-bfee-4a577808ca10",
+  "in_force": "2017-11-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A45%CE%9C%CE%A99%CE%A9-7%CE%9A%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A45%CE%9C%CE%A99%CE%A9-7%CE%9A%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A45%CE%9C%CE%A99%CE%A9-7%CE%9A%CE%98",
+  "listing_sha256": "5896d12f4018029a45aa570f3316648b7f5ae57ee7f0b816c305596c6d1986c1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
