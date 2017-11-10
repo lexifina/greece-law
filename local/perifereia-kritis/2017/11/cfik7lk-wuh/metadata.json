@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΦΙΚ7ΛΚ-ΩΘΗ",
+  "subject": "Ανάθεση προμηθειών",
+  "protocol_number": "233848",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81119"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-11-03",
+  "posted": "2017-11-10",
+  "publish_timestamp_ms": 1510320438107,
+  "version_id": "a4cad0cf-a538-4161-b5ce-5726da685564",
+  "in_force": "2017-11-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A6%CE%99%CE%9A7%CE%9B%CE%9A-%CE%A9%CE%98%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A6%CE%99%CE%9A7%CE%9B%CE%9A-%CE%A9%CE%98%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A6%CE%99%CE%9A7%CE%9B%CE%9A-%CE%A9%CE%98%CE%97",
+  "listing_sha256": "3169ed04248f77ae23fd8ad12872f6fb480b13fec2f6bea54749a4249ba62e51",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
