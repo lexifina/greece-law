@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω7ΞΗ6-ΕΡΞ",
+  "subject": "ΠΡΟΜΗΘΕΙΑ ΕΝΟΣ (1) ΚΙΤ ΑΝΑΒΑΘΜΙΣΗΣ ΥΛΙΚΟΥ AHRU ΑΠΟ AH-800 ΣΕ CR-100 (KIT P/N 215K4437C) ΚΑΙ ΕΝΟΣ ΤΕΜΑΧΙΟΥ AHRU ΤΥΠΟΥ LCR-100 (P/N\n215T53208-2)",
+  "protocol_number": "3008",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76857"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Φορέων Ευρύτερου Δημοσίου Τομέα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-11-10",
+  "posted": "2017-11-10",
+  "publish_timestamp_ms": 1510311791380,
+  "version_id": "bab90514-ba32-4634-a052-62ac60612230",
+  "in_force": "2017-11-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%9E%CE%976-%CE%95%CE%A1%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%9E%CE%976-%CE%95%CE%A1%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A97%CE%9E%CE%976-%CE%95%CE%A1%CE%9E",
+  "listing_sha256": "be97b948598ad11a18f6f23b21b3872f61303d43e8196937b80cc3ba2a722770",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
