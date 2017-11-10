@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΘΖΣΩΨ3-1ΧΩ",
+  "subject": "102-2017 ΑΠΟΦΑΣΗ ΟΙΚΟΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ",
+  "protocol_number": "4566",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6041",
+    "label": "ΔΗΜΟΣ ΑΡΓΙΘΕΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003945"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-11-10",
+  "posted": "2017-11-10",
+  "publish_timestamp_ms": 1510310928062,
+  "version_id": "d0e90cd0-8c80-43a9-8ea8-658f3f2ff331",
+  "in_force": "2017-11-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%96%CE%A3%CE%A9%CE%A83-1%CE%A7%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%96%CE%A3%CE%A9%CE%A83-1%CE%A7%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%98%CE%96%CE%A3%CE%A9%CE%A83-1%CE%A7%CE%A9",
+  "listing_sha256": "be97b948598ad11a18f6f23b21b3872f61303d43e8196937b80cc3ba2a722770",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
