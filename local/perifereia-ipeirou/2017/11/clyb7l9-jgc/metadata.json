@@ -1,0 +1,50 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΛΥΒ7Λ9-ΞΓΨ",
+  "subject": "Αριθμ. 9/48/8-11-2017 απόφαση Περιφερειακού Συμβουλίου Ηπείρου, με θέμα: ΄΄Έγκριση τροποποίησης Περιφερειακών Προγραμμάτων''",
+  "protocol_number": "9/48/8-11-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5006",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "83394"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΖ6Λ7Λ9-ΘΘ1"
+      },
+      {
+        "relatedDecisionsADA": "Ψ0ΛΜ7Λ9-ΑΛΥ"
+      },
+      {
+        "relatedDecisionsADA": "ΨΦΙΟ7Λ9-ΟΑΕ"
+      },
+      {
+        "relatedDecisionsADA": "Ω5ΓΣ7Λ9-ΞΚΨ"
+      }
+    ]
+  },
+  "issued": "2017-11-08",
+  "posted": "2017-11-13",
+  "publish_timestamp_ms": 1510568470795,
+  "version_id": "f5985cd4-7a87-4124-a62a-005207a4940e",
+  "in_force": "2017-11-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B%CE%A5%CE%927%CE%9B9-%CE%9E%CE%93%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B%CE%A5%CE%927%CE%9B9-%CE%9E%CE%93%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9B%CE%A5%CE%927%CE%9B9-%CE%9E%CE%93%CE%A8",
+  "listing_sha256": "8789540b0d3277c472ea73eabce67ecac7edb776205aa7547902c57fd65626d2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
