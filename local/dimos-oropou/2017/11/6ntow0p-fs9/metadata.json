@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΝΤΟΩ0Π-ΦΣ9",
+  "subject": "Απόφαση Δημάρχου 485/15-11-2017_Έγκριση τεχνικής περιγραφής για την ΠΡΟΜΗΘΕΙΑ ΕΠΙΠΛΩΝ ΔΕ ΩΡΩΠΙΩΝ",
+  "protocol_number": "485/15-11-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6324",
+    "label": "ΔΗΜΟΣ ΩΡΩΠΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81452"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7Φ65Ω0Π-ΑΤΗ"
+      },
+      {
+        "relatedDecisionsADA": "9Π8ΤΩ0Π-ΔΣΞ"
+      }
+    ]
+  },
+  "issued": "2017-11-15",
+  "posted": "2017-11-15",
+  "publish_timestamp_ms": 1510752579214,
+  "version_id": "9ae655ae-7a5d-4400-9c1e-0f7b56d0100f",
+  "in_force": "2017-11-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%A4%CE%9F%CE%A90%CE%A0-%CE%A6%CE%A39",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%A4%CE%9F%CE%A90%CE%A0-%CE%A6%CE%A39/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9D%CE%A4%CE%9F%CE%A90%CE%A0-%CE%A6%CE%A39",
+  "listing_sha256": "c99d9b153e2eb1a10dbc3ae6e5564644911c28df4d18fce71c4c991efc18918b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
