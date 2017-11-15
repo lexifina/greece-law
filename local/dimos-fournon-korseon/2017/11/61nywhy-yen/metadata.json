@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "61ΝΥΩΗΥ-ΥΕΝ",
+  "subject": "συντηρηση και επισκευη φορτηγου οχηματοσ απο ΟΔΔΥ",
+  "protocol_number": "2418/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6311",
+    "label": "ΔΗΜΟΣ ΦΟΥΡΝΩΝ ΚΟΡΣΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100020465"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-11-03",
+  "posted": "2017-11-15",
+  "publish_timestamp_ms": 1510739183546,
+  "version_id": "2a54970a-a0a8-4d34-b993-20d000480866",
+  "in_force": "2017-11-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/61%CE%9D%CE%A5%CE%A9%CE%97%CE%A5-%CE%A5%CE%95%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/61%CE%9D%CE%A5%CE%A9%CE%97%CE%A5-%CE%A5%CE%95%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/61%CE%9D%CE%A5%CE%A9%CE%97%CE%A5-%CE%A5%CE%95%CE%9D",
+  "listing_sha256": "3169ed04248f77ae23fd8ad12872f6fb480b13fec2f6bea54749a4249ba62e51",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
