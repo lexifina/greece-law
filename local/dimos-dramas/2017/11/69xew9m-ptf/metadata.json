@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "69ΧΕΩ9Μ-ΠΤΦ",
+  "subject": "ΔΙΑΘΕΣΗ ΧΡΗΣΗΣ ΤΟΥ ΑΜΦΙΘΕΑΤΡΟΥ ΤΟΥ 1ΟΥ ΛΥΚΕΙΟΥ ΣΤΟ ΣΥΛΛΟΓΟ ΦΙΛΟΛΟΓΩΝ ΔΡΑΜΑΣ.",
+  "protocol_number": "50194",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100025961"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "1864",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-11-15",
+  "posted": "2017-11-16",
+  "publish_timestamp_ms": 1510829524137,
+  "version_id": "d748f937-3af0-4366-a33a-2d412f9ae6ed",
+  "in_force": "2017-11-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/69%CE%A7%CE%95%CE%A99%CE%9C-%CE%A0%CE%A4%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/69%CE%A7%CE%95%CE%A99%CE%9C-%CE%A0%CE%A4%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/69%CE%A7%CE%95%CE%A99%CE%9C-%CE%A0%CE%A4%CE%A6",
+  "listing_sha256": "c99d9b153e2eb1a10dbc3ae6e5564644911c28df4d18fce71c4c991efc18918b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
