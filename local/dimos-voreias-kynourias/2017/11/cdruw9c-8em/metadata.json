@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΔΡΘΩ9Ψ-8ΕΜ",
+  "subject": "Ψήφιση πίστωσης και έγκριση δαπάνης προμήθειας υλικών για συντήρηση δρόμων.",
+  "protocol_number": "11970",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6059",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80793"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-11-13",
+  "posted": "2017-11-16",
+  "publish_timestamp_ms": 1510835911906,
+  "version_id": "46a1948a-94b1-4b2f-8e8d-f1b1c08f49b8",
+  "in_force": "2017-11-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%94%CE%A1%CE%98%CE%A99%CE%A8-8%CE%95%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%94%CE%A1%CE%98%CE%A99%CE%A8-8%CE%95%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%94%CE%A1%CE%98%CE%A99%CE%A8-8%CE%95%CE%9C",
+  "listing_sha256": "4e816de859d23ddab549eb5e290b1bd660d83a86a56f47dba20e10627a538792",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
