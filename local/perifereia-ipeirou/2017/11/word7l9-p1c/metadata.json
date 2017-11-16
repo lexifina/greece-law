@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΟΡΔ7Λ9-Π1Ψ",
+  "subject": "ΕΝΤΟΛΗ ΔΙΕΝΕΡΓΕΙΑΣ\nΚΤΗΝΙΑΤΡΙΚΗΣ ΥΓΕΙΟΝΟΜΙΚΗΣ ΕΠΙΘΕΩΡΗΣΗΣ\nΕΚΤΟΣ ΚΑΝΟΝΙΚΟΥ ΩΡΑΡΙΟΥ",
+  "protocol_number": "15111",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5006",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "86228"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-11-16",
+  "posted": "2017-11-16",
+  "publish_timestamp_ms": 1510816218529,
+  "version_id": "351c6308-16f4-4bdb-9645-ebae78a4071a",
+  "in_force": "2017-11-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F%CE%A1%CE%947%CE%9B9-%CE%A01%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F%CE%A1%CE%947%CE%9B9-%CE%A01%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9F%CE%A1%CE%947%CE%9B9-%CE%A01%CE%A8",
+  "listing_sha256": "efe5ef95ea72adb4fb95d6f3898d8aa151393d819e0a366b444019a21d7aafa0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
