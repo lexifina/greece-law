@@ -1,0 +1,39 @@
+{
+  "year": 2017,
+  "number": 4498,
+  "url": "https://api.et.gr/apiLAW/1/2017/4498/pdf",
+  "source_sha256": "0cb73b31c1b6b9b86d8cb1fc5d6c542f71060eb25f12a6486cdfc3cb5f87617a",
+  "published": "2017-11-16",
+  "in_force": "2017-11-16",
+  "clause": "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός εάν ορίζεται διαφορετικά στις επιμέρους διατάξεις του.",
+  "in_force_general_day": true,
+  "pages": 12,
+  "images": [
+    {
+      "page": 7,
+      "sha256": "6ac0a5c3885b265749e08c9158f43a1890978b931848a6037a4b7de86b6c929a",
+      "ext": "png",
+      "bytes": 2225,
+      "bbox": [
+        88.7,
+        603.3,
+        273.4,
+        640.3
+      ]
+    },
+    {
+      "page": 7,
+      "sha256": "eada5e2294ebee3db210747694fb707e7f012790042c256b998afdace346d6d9",
+      "ext": "png",
+      "bytes": 8525,
+      "bbox": [
+        69.4,
+        726.1,
+        294.0,
+        772.4
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
