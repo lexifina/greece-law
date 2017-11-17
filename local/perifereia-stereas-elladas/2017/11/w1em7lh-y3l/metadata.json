@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω1ΕΜ7ΛΗ-Υ3Λ",
+  "subject": "ΑΠΟΦΑΣΗ 202-2017 ΠΕΡΙΦΕΡΕΙΑΟΥ ΣΥΜΒΟΥΛΙΟΥ ΣΤΕΡΕΑΣ  ΕΛΛΑΔΑΣ",
+  "protocol_number": "ΔΥ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5013",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "87363"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-11-13",
+  "posted": "2017-11-17",
+  "publish_timestamp_ms": 1510909566986,
+  "version_id": "469b3109-234a-4a4a-9cce-71b2c17e5dc0",
+  "in_force": "2017-11-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%95%CE%9C7%CE%9B%CE%97-%CE%A53%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%95%CE%9C7%CE%9B%CE%97-%CE%A53%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A91%CE%95%CE%9C7%CE%9B%CE%97-%CE%A53%CE%9B",
+  "listing_sha256": "4e816de859d23ddab549eb5e290b1bd660d83a86a56f47dba20e10627a538792",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
