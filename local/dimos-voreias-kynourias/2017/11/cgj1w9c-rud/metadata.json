@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΓΞ1Ω9Ψ-ΡΘΔ",
+  "subject": "Ψήφιση πίστωσης και έγκριση δαπάνης για εξόφληση προστίμων που έχουν επιβληθεί από τη Λιμενική Αρχή Ναυπλίου στο Δήμο.",
+  "protocol_number": "12042",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6059",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80793"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-11-13",
+  "posted": "2017-11-20",
+  "publish_timestamp_ms": 1511181594516,
+  "version_id": "a6b6d921-086b-4b3e-bced-29bb6e1e1442",
+  "in_force": "2017-11-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%9E1%CE%A99%CE%A8-%CE%A1%CE%98%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%9E1%CE%A99%CE%A8-%CE%A1%CE%98%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%93%CE%9E1%CE%A99%CE%A8-%CE%A1%CE%98%CE%94",
+  "listing_sha256": "4e816de859d23ddab549eb5e290b1bd660d83a86a56f47dba20e10627a538792",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
