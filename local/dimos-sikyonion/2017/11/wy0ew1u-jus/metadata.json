@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥ0ΕΩ1Θ-ΞΘΣ",
+  "subject": "Έγκριση της υπ’ αριθ. 263-2017 απόφασης Δημάρχου, περί ορισμού συνηγόρου υπεράσπισης",
+  "protocol_number": "414-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6276",
+    "label": "ΔΗΜΟΣ ΣΙΚΥΩΝΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78904"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-11-24",
+  "posted": "2017-11-24",
+  "publish_timestamp_ms": 1511522755190,
+  "version_id": "bb3910b8-d37b-4cbc-9ff2-65dddc7e646f",
+  "in_force": "2017-11-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A50%CE%95%CE%A91%CE%98-%CE%9E%CE%98%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A50%CE%95%CE%A91%CE%98-%CE%9E%CE%98%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A50%CE%95%CE%A91%CE%98-%CE%9E%CE%98%CE%A3",
+  "listing_sha256": "9f0950bbddf31433d677eaa8117b9e8d837275c46f8e6fcc982bd0afd331f559",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
