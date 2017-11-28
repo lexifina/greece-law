@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "67ΤΝΩΞ1-ΞΩΨ",
+  "subject": "Έγκριση διενέργειας και τεχνικών προδιαγραφών της Προμήθειας με τίτλο: «ΠΡΟΜΗΘΕΙΑ ΣΗΜΑΙΩΝ ΓΙΑ ΤΙΣ ΑΝΑΓΚΕΣ ΤΟΥ ΔΗΜΟΥ»",
+  "protocol_number": "2609",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6236",
+    "label": "ΔΗΜΟΣ ΠΑΠΑΓΟΥ - ΧΟΛΑΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78137"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΔΒ7ΩΞ1-ΥΙΝ"
+      }
+    ]
+  },
+  "issued": "2017-11-28",
+  "posted": "2017-11-28",
+  "publish_timestamp_ms": 1511865562280,
+  "version_id": "e4cdc8e9-6c75-45cf-a7f0-60a646aa34fd",
+  "in_force": "2017-11-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/67%CE%A4%CE%9D%CE%A9%CE%9E1-%CE%9E%CE%A9%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/67%CE%A4%CE%9D%CE%A9%CE%9E1-%CE%9E%CE%A9%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/67%CE%A4%CE%9D%CE%A9%CE%9E1-%CE%9E%CE%A9%CE%A8",
+  "listing_sha256": "b4d0dd3811e85f257a1cd80e49f86c39e569de2e05b0d5e2170810303dabefc2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
