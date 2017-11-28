@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "67Λ16-Τ6Θ",
+  "subject": "ΟΡΟΙ  ΚΑΙ ΠΡΟΥΠΟΘΕΣΕΙΣ  ΕΚΜΙΣΘΩΣΗΣ ΦΑΝΩΝ ΚΑΙ ΦΩΤΟΣΗΜΑΝΤΗΡΩΝ",
+  "protocol_number": "Φ.454/135/255949/Σ.949",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "77438"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4099",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "Φ.454/135",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      },
+      {
+        "ministryId": "100015966",
+        "unitId": [
+          "100005251"
+        ],
+        "signerIds": [
+          "100024997"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-11-23",
+  "posted": "2017-11-28",
+  "publish_timestamp_ms": 1511867831412,
+  "version_id": "65cdca9e-a203-422e-8258-c3ace81ce967",
+  "in_force": "2017-11-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/67%CE%9B16-%CE%A46%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/67%CE%9B16-%CE%A46%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/67%CE%9B16-%CE%A46%CE%98",
+  "listing_sha256": "4d30efe5ab57c8a028ab7e252589c0eedb2f0cb5dfefd363af1237c5802b0728",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
