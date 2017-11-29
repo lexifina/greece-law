@@ -1,0 +1,55 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "71ΘΠ465ΧΘΞ-Μ0Ι",
+  "subject": "Διαδικασία χορήγησης επιδόματος προς πληγέντα φυσικά πρόσωπα και επιχειρήσεις από τις φυσικές καταστροφές των μηνών Σεπτεμβρίου, Οκτωβρίου και Νοεμβρίου 2017 σύμφωνα με το άρθρο 4 του ν. 4501/2017.",
+  "protocol_number": "ΔΑΕΦΚ-ΚΕ/οικ. 1720 /A32",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035939"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "24",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4155",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-11-28",
+  "posted": "2017-11-29",
+  "publish_timestamp_ms": 1511940915859,
+  "version_id": "1043b0ed-f101-4cc5-bd30-8da6f2e531bd",
+  "in_force": "2017-11-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/71%CE%98%CE%A0465%CE%A7%CE%98%CE%9E-%CE%9C0%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/71%CE%98%CE%A0465%CE%A7%CE%98%CE%9E-%CE%9C0%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/71%CE%98%CE%A0465%CE%A7%CE%98%CE%9E-%CE%9C0%CE%99",
+  "listing_sha256": "e2932e662ac269135837b89507bfad0f020c66fbc54e3310c580d1094cfcec5c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
