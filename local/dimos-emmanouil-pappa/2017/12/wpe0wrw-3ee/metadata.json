@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΠΕ0ΩΡΩ-3ΕΕ",
+  "subject": "Τροποποίηση της αριθμ. 185/2017 Απόφαση Οικ. Επιτροπής",
+  "protocol_number": "276",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6091",
+    "label": "ΔΗΜΟΣ ΕΜΜΑΝΟΥΗΛ ΠΑΠΠΑ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82019"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-12-01",
+  "posted": "2017-12-01",
+  "publish_timestamp_ms": 1512130512956,
+  "version_id": "ec3e8262-1c7c-4f12-a5c7-92d823aafe64",
+  "in_force": "2017-12-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%950%CE%A9%CE%A1%CE%A9-3%CE%95%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%950%CE%A9%CE%A1%CE%A9-3%CE%95%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A0%CE%950%CE%A9%CE%A1%CE%A9-3%CE%95%CE%95",
+  "listing_sha256": "c9e1c431d7ada36fb398b98b6dc1894557a2c8b61023c87c0d14fab95778a483",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
