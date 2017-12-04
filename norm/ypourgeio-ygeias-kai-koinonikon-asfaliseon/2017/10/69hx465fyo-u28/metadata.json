@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "69ΗΧ465ΦΥΟ-Θ28",
+  "subject": "Χαρακτηρισμός Περιφερειακού Ιατρείου Πόρου ως Πολυδύναμου Περιφερειακού Ιατρείου (Π.Π.Ι.) Πόρου, το οποίο αποτελεί αποκεντρωμένη μονάδα του Κέντρου Υγείας (Κ.Υ.) Γαλατά, αρμοδιότητας 2ης Υγειονομικής Περιφέρειας Πειραιώς και Αιγαίου.",
+  "protocol_number": "Γ3α/Γ.Π.40205",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008904"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3830",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-06",
+  "posted": "2017-12-04",
+  "publish_timestamp_ms": 1512373377253,
+  "version_id": "78b41db4-bb80-479b-8d3d-7d608d844bc1",
+  "in_force": "2017-12-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/69%CE%97%CE%A7465%CE%A6%CE%A5%CE%9F-%CE%9828",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/69%CE%97%CE%A7465%CE%A6%CE%A5%CE%9F-%CE%9828/document",
+  "page": "https://diavgeia.gov.gr/decision/view/69%CE%97%CE%A7465%CE%A6%CE%A5%CE%9F-%CE%9828",
+  "listing_sha256": "cbfb92f6f0d5eabe16ccf3e54958a5efb2f48d0a2f09e4b74905c5df766bd7e0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
