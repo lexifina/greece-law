@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω76046ΜΠ3Ζ-Ν64",
+  "subject": "ΒΡΑΧΥΧΡΟΝΙΑ ΜΙΣΘΩΣΗ ΑΚΙΝΗΤΩΝ ΣΤΟ ΠΛΑΙΣΙΟ ΤΗΣ ΟΙΚΟΝΟΜΙΑΣ ΤΟΥ ΔΙΑΜΟΙΡΑΣΜΟΥ",
+  "protocol_number": "pol.1187",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100030129"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4232",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Πράξη Ανεξάρτητης Αρχής",
+    "kanonistikipraxiaa": "1187",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-12-05",
+  "posted": "2017-12-05",
+  "publish_timestamp_ms": 1512460744184,
+  "version_id": "9a831202-245e-4520-a4ce-4f586e3fd643",
+  "in_force": "2017-12-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A976046%CE%9C%CE%A03%CE%96-%CE%9D64",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A976046%CE%9C%CE%A03%CE%96-%CE%9D64/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A976046%CE%9C%CE%A03%CE%96-%CE%9D64",
+  "listing_sha256": "831c9984513e8baa7783bfc6e26ede34012ae83a79273ec5e3b653c76af3cf79",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
