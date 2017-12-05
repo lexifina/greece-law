@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "73Ξ8Ω0Ο-Ε5Λ",
+  "subject": "Ακύρωση της με αρ. 549/2017 απόφασης του Δημοτικού Συμβουλίου. Έγκριση εκτέλεσης του έργου αυτεπιστασίας με τίτλο «Ασφαλτοστρώσεις δρόμων Δήμου Ηρακλείου (με αυτεπιστασία».",
+  "protocol_number": "912/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81430"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΔΠΣΩ0Ο-Ν98"
+      }
+    ]
+  },
+  "issued": "2017-11-29",
+  "posted": "2017-12-05",
+  "publish_timestamp_ms": 1512476343258,
+  "version_id": "a5b1c021-1e9c-4a96-940e-f4ebabd8a589",
+  "in_force": "2017-12-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/73%CE%9E8%CE%A90%CE%9F-%CE%955%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/73%CE%9E8%CE%A90%CE%9F-%CE%955%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/73%CE%9E8%CE%A90%CE%9F-%CE%955%CE%9B",
+  "listing_sha256": "e378898847ead1f9892c385b382b5666aca32bc4a8c19e53ad4fede81f324159",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
