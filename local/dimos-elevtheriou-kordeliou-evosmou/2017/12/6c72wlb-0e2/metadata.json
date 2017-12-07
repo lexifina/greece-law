@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ψ72ΩΛΒ-0Ε2",
+  "subject": "Λήψη απόφασης για το κατεπείγον της συνεδρίασης.",
+  "protocol_number": "520/17",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6157",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΘΕΡΙΟΥ ΚΟΡΔΕΛΙΟΥ ΕΥΟΣΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84570"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-12-06",
+  "posted": "2017-12-07",
+  "publish_timestamp_ms": 1512631500426,
+  "version_id": "6f47abbc-224f-444d-86c8-492fbc5fa078",
+  "in_force": "2017-12-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A872%CE%A9%CE%9B%CE%92-0%CE%952",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A872%CE%A9%CE%9B%CE%92-0%CE%952/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A872%CE%A9%CE%9B%CE%92-0%CE%952",
+  "listing_sha256": "b8ed36102de5bc2891db92f51f581e963d81194b87b2bc82cbb2c24655bf20d5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
