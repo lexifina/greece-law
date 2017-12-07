@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧ7Θ7ΛΡ-Υ7Ψ",
+  "subject": "Τροποποίηση της Επιτροπής Γνωμοδότησης για την ιδιότητα του νέου αγρότη, επαγγελματία αγρότη βάσει του ν.2520/1997",
+  "protocol_number": "18409",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "82000"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "617",
+      "issue": "fektype_YODD",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "1840",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω0ΔΓ7ΛΡ-ΨΑΤ"
+      }
+    ]
+  },
+  "issued": "2017-11-20",
+  "posted": "2017-12-07",
+  "publish_timestamp_ms": 1512630898970,
+  "version_id": "86c17a56-5620-46a2-9868-e874640003a6",
+  "in_force": "2017-12-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A77%CE%987%CE%9B%CE%A1-%CE%A57%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A77%CE%987%CE%9B%CE%A1-%CE%A57%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A77%CE%987%CE%9B%CE%A1-%CE%A57%CE%A8",
+  "listing_sha256": "c1605883a9175ddd070a8b1ed020346569f0c3ee454cef1b481f0f5735c893b1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
