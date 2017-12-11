@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ω29Ω62-4Υ0",
+  "subject": "Απόφαση Δημάρχου υπερωριακής απασχόλησης Νοεμβρίου",
+  "protocol_number": "504",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6009",
+    "label": "ΔΗΜΟΣ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78641"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "504",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-16",
+  "posted": "2017-12-11",
+  "publish_timestamp_ms": 1512994809680,
+  "version_id": "d37361bb-d110-4c2e-886d-72c8d081c093",
+  "in_force": "2017-12-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A929%CE%A962-4%CE%A50",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A929%CE%A962-4%CE%A50/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A929%CE%A962-4%CE%A50",
+  "listing_sha256": "81f91d25d0e1828cf4ccab54147a99bb502b63cdfe9fd3266058897b4dd863d0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
