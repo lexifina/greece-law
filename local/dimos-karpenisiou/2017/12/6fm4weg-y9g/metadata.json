@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΦΜ4ΩΕΓ-Υ9Γ",
+  "subject": "ΕΠΙΣΤΡΟΦΗ ΕΓΓΥΗΣΕΩΝ",
+  "protocol_number": "18688",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6137",
+    "label": "ΔΗΜΟΣ ΚΑΡΠΕΝΗΣΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83746"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-12-13",
+  "posted": "2017-12-13",
+  "publish_timestamp_ms": 1513161041405,
+  "version_id": "e00c7978-515b-41df-ab84-bb0a78746049",
+  "in_force": "2017-12-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A6%CE%9C4%CE%A9%CE%95%CE%93-%CE%A59%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A6%CE%9C4%CE%A9%CE%95%CE%93-%CE%A59%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A6%CE%9C4%CE%A9%CE%95%CE%93-%CE%A59%CE%93",
+  "listing_sha256": "3ca5731796258dfd02f8b3f4a878dc0d9effea6e620e0909fe37555952af3b1e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
