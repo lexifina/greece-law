@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Σ6146ΜΠ3Ζ-ΖΜΥ",
+  "subject": "ΣΥΣΤΑΣΗ ΧΙΛΙΩΝ ΟΚΤΑΚΟΣΙΩΝ (1.800) ΟΡΓΑΝΙΚΩΝ ΘΕΣΕΩΝ ΔΙΑΦΟΡΩΝ ΚΛΑΔΩΝ ΜΟΝΙΜΟΥ ΠΡΟΣΩΠΙΚΟΥ ΤΗΣ ΑΝΕΞΑΡΤΗΤΗΣ ΑΡΧΗΣ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ (Α.Α.Δ.Ε.), ΚΑΤΗΓΟΡΙΑΣ ΠΕ, ΤΕ, ΔΕ ΚΑΙ ΥΕ",
+  "protocol_number": "Δ.ΟΡΓ.Α 1179904 ΕΞ2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100030147"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4373",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1179904",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      },
+      {
+        "ministryId": "100025899",
+        "unitId": [
+          "100004988"
+        ],
+        "signerIds": [
+          "100025919"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-12-01",
+  "posted": "2017-12-14",
+  "publish_timestamp_ms": 1513243686707,
+  "version_id": "1ca029ff-206a-4fae-944f-7e6baa70afca",
+  "in_force": "2017-12-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A36146%CE%9C%CE%A03%CE%96-%CE%96%CE%9C%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A36146%CE%9C%CE%A03%CE%96-%CE%96%CE%9C%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A36146%CE%9C%CE%A03%CE%96-%CE%96%CE%9C%CE%A5",
+  "listing_sha256": "c9e1c431d7ada36fb398b98b6dc1894557a2c8b61023c87c0d14fab95778a483",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
