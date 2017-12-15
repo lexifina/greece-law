@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΗΠ7ΩΞ1-Ρ2Β",
+  "subject": "Έγκριση διενέργειας και τεχνικών προδιαγραφών της Υπηρεσίας με τίτλο: «ΕΠΙΣΚΕΥΗ ΚΚΜ ΚΤΙΡΙΟΥ Δ. ΚΟΙΝΟΤΗΤΑΣ ΠΑΠΑΓΟΥ», μετά των απαραίτητων υλικών",
+  "protocol_number": "2776",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6236",
+    "label": "ΔΗΜΟΣ ΠΑΠΑΓΟΥ - ΧΟΛΑΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78137"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "70Τ9ΩΞ1-ΙΟ2"
+      }
+    ]
+  },
+  "issued": "2017-12-15",
+  "posted": "2017-12-15",
+  "publish_timestamp_ms": 1513337973285,
+  "version_id": "fe87cba3-05eb-4c63-92b1-4210a08ff9e7",
+  "in_force": "2017-12-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%A07%CE%A9%CE%9E1-%CE%A12%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%A07%CE%A9%CE%9E1-%CE%A12%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%97%CE%A07%CE%A9%CE%9E1-%CE%A12%CE%92",
+  "listing_sha256": "bee2897eaff0bea68ea2b4a084e041fe3f19629f0c2268db0fdc3c734352978a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
