@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "78ΝΛ46ΜΠ3Ζ-7ΒΕ",
+  "subject": "Τροποποίηση της αριθ. ΔΙΠΑΕΕ ΕΞ 2016/29-12-2016 (Φ.Ε.Κ. Β΄4396/2016) Απόφασης του Γενικού Γραμματέα Δημοσίων Εσόδων περί καθορισμού του αριθμού φορολογικών ελέγχων που θα διενεργηθούν κατά το έτος 2017, όπως ισχύει.",
+  "protocol_number": "ΔΙ.Π.Α.Ε.Ε. 158908 ΕΞ 2017 ΕΜΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100030125"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4383",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-12-05",
+  "posted": "2017-12-15",
+  "publish_timestamp_ms": 1513319196890,
+  "version_id": "8830c0ef-2478-490d-b645-443675cc9b91",
+  "in_force": "2017-12-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/78%CE%9D%CE%9B46%CE%9C%CE%A03%CE%96-7%CE%92%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/78%CE%9D%CE%9B46%CE%9C%CE%A03%CE%96-7%CE%92%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/78%CE%9D%CE%9B46%CE%9C%CE%A03%CE%96-7%CE%92%CE%95",
+  "listing_sha256": "75fb76770701d8fdb7fb3c31598f01502cbadae309c7c2c5e6a52be424346ea5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
