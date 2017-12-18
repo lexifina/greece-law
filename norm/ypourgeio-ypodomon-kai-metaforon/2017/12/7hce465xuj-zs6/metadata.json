@@ -1,0 +1,73 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΗΨΕ465ΧΘΞ-ΖΣ6",
+  "subject": "Οριοθέτηση περιοχών και χορήγηση στεγαστικής συνδρομής για την αποκατάσταση των ζημιών σε κτίρια από τις πυρκαγιές της  1ης, 2ας και 3ης Ιουλίου 2017 σε περιοχές του Δήμου Ανατολικής Μάνης της Περιφερειακής Ενότητας Λακωνίας της Περιφέρειας Πελοποννήσου, καθώς και της 3ης Αυγούστου 2017  σε περιοχές  του Δήμου Σαρωνικού και της 13ης Αυγούστου 2017 σε περιοχές των Δήμων Μαραθώνος και Ωρωπού της Περιφερειακής Ενότητας Ανατολικής Αττικής  της Περιφέρειας Αττικής.",
+  "protocol_number": "Δ.Α.Ε.Φ.Κ.-Κ.Ε./οικ.2449/Α325      Σχετ. αρ.πρωτ.Δ.Α.Ε.Φ.Κ.: 2617, 2887, 2954, 3070, 3368, 3389, 3392, 3474, 3360, 3411, 3481, 3488, 3489, 3553, 3651, 3683, 3716, 3778, 3750, 3751, 4010, 4273, 4331, 4349, 4465, 5349, 5526, ΔΑΕΦΚ-ΚΕ/ 1812, 3530",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035939"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4388",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025896",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100025149"
+        ]
+      },
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100011935"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "100013859"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-12-01",
+  "posted": "2017-12-18",
+  "publish_timestamp_ms": 1513589008586,
+  "version_id": "24dd76da-ad06-4e70-a986-996d9d661556",
+  "in_force": "2017-12-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%97%CE%A8%CE%95465%CE%A7%CE%98%CE%9E-%CE%96%CE%A36",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%97%CE%A8%CE%95465%CE%A7%CE%98%CE%9E-%CE%96%CE%A36/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%97%CE%A8%CE%95465%CE%A7%CE%98%CE%9E-%CE%96%CE%A36",
+  "listing_sha256": "c9e1c431d7ada36fb398b98b6dc1894557a2c8b61023c87c0d14fab95778a483",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
