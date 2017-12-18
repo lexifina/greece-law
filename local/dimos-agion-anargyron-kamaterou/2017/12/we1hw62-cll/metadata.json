@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΕ1ΗΩ62-ΨΛΛ",
+  "subject": "΄Εγκριση αποφάσεων ανάληψης υποχρέωσης",
+  "protocol_number": "441/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6009",
+    "label": "ΔΗΜΟΣ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78024"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "441/2017",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-12-12",
+  "posted": "2017-12-18",
+  "publish_timestamp_ms": 1513585380060,
+  "version_id": "eaf8dcf5-deae-4f74-a3ad-7cef8e2382ac",
+  "in_force": "2017-12-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%951%CE%97%CE%A962-%CE%A8%CE%9B%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%951%CE%97%CE%A962-%CE%A8%CE%9B%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%951%CE%97%CE%A962-%CE%A8%CE%9B%CE%9B",
+  "listing_sha256": "eb245d2faa2472ee46d0b22d33f551f6380e13d734fdec376457c5240a7f7cff",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
