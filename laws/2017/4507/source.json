@@ -1,0 +1,40 @@
+{
+  "year": 2017,
+  "number": 4507,
+  "url": "https://api.et.gr/apiLAW/1/2017/4507/pdf",
+  "source_sha256": "329693a2c6e6ca05893ee09d15c0dac6757ce0286e75a02a7ccfe4b56d5834fd",
+  "published": "2017-12-20",
+  "in_force": "2017-12-20",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 2,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "cb962b099ebb2a387d2cc154890c79e5cfbcdb3b33408d71c6e7546c48bb57b9",
+      "ext": "png",
+      "bytes": 35613,
+      "bbox": [
+        65.2,
+        392.9,
+        549.0,
+        799.4
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "a8da4963aad7442d79117e35ca65c0e648c9463eca0de9c88238dafb62a9141a",
+      "ext": "png",
+      "bytes": 103693,
+      "bbox": [
+        58.3,
+        133.2,
+        532.2,
+        610.9
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
