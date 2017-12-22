@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω19ΟΟΡ1Φ-05Β",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 13/2017 απόφασης του Διοικητικού Συμβουλίου του Νομικού Προσώπου με την επωνυμία «Κέντρο Πολιτισμού, Αθλητισμού και Περιβάλλοντος Δήμου Θέρμου»",
+  "protocol_number": "317436",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΓΠ4ΟΚ60-ΔΨΤ"
+      }
+    ]
+  },
+  "issued": "2017-12-21",
+  "posted": "2017-12-22",
+  "publish_timestamp_ms": 1513927889196,
+  "version_id": "aa5abb90-e917-44ac-9b4d-246bda3e111c",
+  "in_force": "2017-12-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A919%CE%9F%CE%9F%CE%A11%CE%A6-05%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A919%CE%9F%CE%9F%CE%A11%CE%A6-05%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A919%CE%9F%CE%9F%CE%A11%CE%A6-05%CE%92",
+  "listing_sha256": "0c8676c7281e3d582fcaf8ea44611ef726152301ecd2ba4c3a8fc39dd1db86f3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
