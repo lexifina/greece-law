@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΨΛΩΚΤ-ΞΞΣ",
+  "subject": "Έγκριση της υπ’ αριθμ. 92/2017 απόφασης Δ.Σ. Δημοτικού Λιμενικού Ταμείου, σχετικά με την ψήφιση του προϋπολογισμού του, έτους 2018.",
+  "protocol_number": "1382",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6210",
+    "label": "ΔΗΜΟΣ ΝΕΑΣ ΠΡΟΠΟΝΤΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82159"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-12-20",
+  "posted": "2017-12-22",
+  "publish_timestamp_ms": 1513923496466,
+  "version_id": "27ab905c-5c58-4fbb-8f71-49abe6751da8",
+  "in_force": "2017-12-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%A8%CE%9B%CE%A9%CE%9A%CE%A4-%CE%9E%CE%9E%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%A8%CE%9B%CE%A9%CE%9A%CE%A4-%CE%9E%CE%9E%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%A8%CE%9B%CE%A9%CE%9A%CE%A4-%CE%9E%CE%9E%CE%A3",
+  "listing_sha256": "23b1c9e56895669bbe516230baee1c6592ea0abd7591552b2fae923d5505a360",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
