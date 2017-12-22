@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΜΣΓΩΡΡ-ΓΓ7",
+  "subject": "Έκτακτες επισκευές μεταφορικών μέσων",
+  "protocol_number": "45",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6095",
+    "label": "ΔΗΜΟΣ ΕΡΜΙΟΝΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81515"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-12-08",
+  "posted": "2017-12-22",
+  "publish_timestamp_ms": 1513926590670,
+  "version_id": "4aba664e-5fdc-462a-ab28-76aff922728a",
+  "in_force": "2017-12-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%A3%CE%93%CE%A9%CE%A1%CE%A1-%CE%93%CE%937",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%A3%CE%93%CE%A9%CE%A1%CE%A1-%CE%93%CE%937/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9C%CE%A3%CE%93%CE%A9%CE%A1%CE%A1-%CE%93%CE%937",
+  "listing_sha256": "0c18bbe108efae5d03686936cd4315ef6d6a84d78489e617f41c1c8230f4656e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
