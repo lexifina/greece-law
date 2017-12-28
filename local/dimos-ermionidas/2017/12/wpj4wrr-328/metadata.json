@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΠΞ4ΩΡΡ-328",
+  "subject": "Απόφαση Επιτροπής οχημάτων ΜΕ 047163",
+  "protocol_number": "41",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6095",
+    "label": "ΔΗΜΟΣ ΕΡΜΙΟΝΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81515"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-12-08",
+  "posted": "2017-12-28",
+  "publish_timestamp_ms": 1514468947766,
+  "version_id": "79d05b0d-ed74-453f-abaa-ec94dec517c1",
+  "in_force": "2017-12-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%9E4%CE%A9%CE%A1%CE%A1-328",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%9E4%CE%A9%CE%A1%CE%A1-328/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A0%CE%9E4%CE%A9%CE%A1%CE%A1-328",
+  "listing_sha256": "0c18bbe108efae5d03686936cd4315ef6d6a84d78489e617f41c1c8230f4656e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
