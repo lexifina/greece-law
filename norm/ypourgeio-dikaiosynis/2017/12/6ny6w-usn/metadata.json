@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΝΥ6Ω-ΘΣΝ",
+  "subject": "ΑΠΟΖΗΜΙΩΣΗ ΥΠΕΡΩΡΙΑΚΗΣ ΑΠΑΣΧΟΛΗΣΗΣ ΣΤΑ ΚΑΤΑΣΤΗΜΑΤΑ ΚΡΑΤΗΣΗΣ ΤΗΣ ΧΩΡΑΣ",
+  "protocol_number": "89030, 89029, 91999/12-12-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100009018"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4612",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-12-28",
+  "posted": "2017-12-29",
+  "publish_timestamp_ms": 1514540829867,
+  "version_id": "5330c1d6-8f3c-4cad-85ff-791325884b03",
+  "in_force": "2017-12-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%A56%CE%A9-%CE%98%CE%A3%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%A56%CE%A9-%CE%98%CE%A3%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9D%CE%A56%CE%A9-%CE%98%CE%A3%CE%9D",
+  "listing_sha256": "dbf6bf75d0060b3762dbab3e4928cda510938534e32e006b845ff30f10e11766",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
