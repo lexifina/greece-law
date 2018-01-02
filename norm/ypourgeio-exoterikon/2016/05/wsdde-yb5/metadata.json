@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΣΔΔΕ-ΥΒ5",
+  "subject": "ΠΡΟΕΔΡΙΚΟ ΔΙΑΤΑΓΜΑ 62/2016 \"ΕΦΑΡΜΟΓΗ ΤΗΣ ΑΠΟΦΑΣΗΣ 1988 (2011) ΤΟΥ ΣΥΜΒΟΥΛΙΟΥ ΑΣΦΑΛΕΙΑΣ ΤΟΥ ΟΡΓΑΝΙΣΜΟΥ ΗΝΩΜΕΝΩΝ ΕΘΝΩΝ\" ΣΧΕΤΙΚΑ ΜΕ ΤΟ ΑΦΓΑΝΙΣΤΑΝ (ΤΑΛΙΜΠΑΝ)",
+  "protocol_number": "4710/ΑΣ 24620",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72603"
+  ],
+  "thematic_category_ids": [
+    "76"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "101",
+      "issue": "fektype_A",
+      "issueyear": 2016
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "kanonistikipraxiaa": "62/2016",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2016-05-31",
+  "posted": "2018-01-02",
+  "publish_timestamp_ms": 1514895726237,
+  "version_id": "e80a567b-5470-495b-9f32-bd3d9f16bd88",
+  "in_force": "2018-01-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%94%CE%94%CE%95-%CE%A5%CE%925",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%94%CE%94%CE%95-%CE%A5%CE%925/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A3%CE%94%CE%94%CE%95-%CE%A5%CE%925",
+  "listing_sha256": "a0bf9068daff2f5fc8a6f5f3541a104d6d050edf1f976d3679edd0ac95169d1b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
