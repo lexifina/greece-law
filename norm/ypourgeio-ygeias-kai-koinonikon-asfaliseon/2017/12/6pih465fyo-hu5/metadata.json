@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΠΙΗ465ΦΥΟ-ΗΘ5",
+  "subject": "Τροποποίηση και συμπλήρωση της υπ΄αρ. Α2γ/οικ.43080/28-06-2016 (Β΄1919) κοινής υπουργικής απόφασης «Χαρακτηρισμός Π.Ε.Δ.Υ.-Περιφερειακών Ιατρείων, Π.Ε.Δ.Υ.-Πολυδύναμων Περιφερειακών Ιατρείων, ΠΕΔΥ-Ειδικών Περιφερειακών Ιατρείων και Π.Ε.Δ.Υ.-Κέντρων Υγείας ως Περιφερειακά Ιατρεία και Κέντρα Υγείας προβληματικών και άγονων περιοχών, για την παροχή οικονομικών κινήτρων σε ιατρούς υπηρεσίας υπαίθρου (υπόχρεους και επί θητεία) που διορίζονται σε αυτά».",
+  "protocol_number": "Γ4γ/Γ. Π. οικ. 91676",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100026975"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4466",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "οικ. 91676",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100009869"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-12-08",
+  "posted": "2018-01-02",
+  "publish_timestamp_ms": 1514884341528,
+  "version_id": "2fcc33e3-723c-4283-85e4-aedc40a669d8",
+  "in_force": "2018-01-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A0%CE%99%CE%97465%CE%A6%CE%A5%CE%9F-%CE%97%CE%985",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A0%CE%99%CE%97465%CE%A6%CE%A5%CE%9F-%CE%97%CE%985/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A0%CE%99%CE%97465%CE%A6%CE%A5%CE%9F-%CE%97%CE%985",
+  "listing_sha256": "0c18bbe108efae5d03686936cd4315ef6d6a84d78489e617f41c1c8230f4656e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
