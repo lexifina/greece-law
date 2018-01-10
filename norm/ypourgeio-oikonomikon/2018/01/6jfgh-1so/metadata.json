@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΞΦΓΗ-1ΣΟ",
+  "subject": "ΜΕΡΙΚΗ ΑΝΑΚΛΗΣΗ ΑΠΟΦΑΣΗΣ ΔΙΟΡΙΣΜΟΥ ΚΛΑΔΟΥ ΠΕ ΧΗΜΙΚΩΝ",
+  "protocol_number": "ΔΔΑΔ Β 1192055 ΕΞ2017/22-12-2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "74537"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1394",
+      "issue": "fektype_C",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Πράξη Ανεξάρτητης Αρχής",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-01-10",
+  "posted": "2018-01-10",
+  "publish_timestamp_ms": 1515570464260,
+  "version_id": "8ac35cac-cbda-4268-835d-547354db4398",
+  "in_force": "2018-01-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E%CE%A6%CE%93%CE%97-1%CE%A3%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E%CE%A6%CE%93%CE%97-1%CE%A3%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9E%CE%A6%CE%93%CE%97-1%CE%A3%CE%9F",
+  "listing_sha256": "534cd8df4eb834682cdb863d95dd0b2a293cccb290a228c927c40f275aaeffca",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
