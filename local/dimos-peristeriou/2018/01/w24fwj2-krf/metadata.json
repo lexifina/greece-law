@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω24ΦΩΞ2-ΚΡΦ",
+  "subject": "Απόφαση ανάκλησης των με αριθμ.πρωτ. 36338/21-9-2017 (ΑΔΑ 715ΤΩΞ2-Μ05) και 52541/29-12-2017 (AΔΑ ΩΣ78ΩΞ2-6ΓΛ) προηγούμενων αποφάσεων της επιτροπής επισκευής και συντήρησης οχημάτων, προμήθειας ανταλλακτικών, ελαστικών επισώτρων κ.λπ.",
+  "protocol_number": "1213",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91728"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "715ΤΩΞ2-Μ05"
+      },
+      {
+        "relatedDecisionsADA": "ΩΣ78ΩΞ2-6ΓΛ"
+      }
+    ]
+  },
+  "issued": "2018-01-11",
+  "posted": "2018-01-11",
+  "publish_timestamp_ms": 1515658288475,
+  "version_id": "45ba5572-5ca3-42d4-a20d-bfe7611c45e7",
+  "in_force": "2018-01-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A924%CE%A6%CE%A9%CE%9E2-%CE%9A%CE%A1%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A924%CE%A6%CE%A9%CE%9E2-%CE%9A%CE%A1%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A924%CE%A6%CE%A9%CE%9E2-%CE%9A%CE%A1%CE%A6",
+  "listing_sha256": "97c762f61253057046cf16fbc7a91dd5b494af22bf07638652b7680fdfecea49",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
