@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΑΑΣΗ-73Π",
+  "subject": "«Καθορισμός αποζημίωσης του προέδρου, των μελών και γραμματέων της Ομάδας και της Υποομάδας του Υποέργου «Κατάρτιση Ενιαίου Λογιστικού Σχεδίου για την Γενική Κυβέρνηση» με Α/Α 4 της Πράξης «Ολοκληρωμένο Πληροφοριακό Σύστημα Διαχείρισης Δημοσιονομικών Ελέγχων» του Επιχειρησιακού Προγράμματος «Μεταρρύθμιση Δημοσίου Τομέα 2014-2020» που εκτελείται με τη μέθοδο της Αυτεπιστασίας».",
+  "protocol_number": "2/61821/ΔΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "6",
+      "issue": "fektype_YODD",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-01-02",
+  "posted": "2018-01-17",
+  "publish_timestamp_ms": 1516177846596,
+  "version_id": "a34f8c09-60c5-40a6-940d-0c9e8ce191e2",
+  "in_force": "2018-01-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%91%CE%91%CE%A3%CE%97-73%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%91%CE%91%CE%A3%CE%97-73%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%91%CE%91%CE%A3%CE%97-73%CE%A0",
+  "listing_sha256": "2826134d8a79653cc7809d33d6735443463343e602f24d0255e2537f7e390de3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
