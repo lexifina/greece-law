@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΣΟ9465ΦΥΟ-ΚΦΘ",
+  "subject": "Λειτουργία του Εθνικού Κέντρου Τεκμηρίωσης και Πληροφόρησης για τα Ναρκωτικά (Ε.Κ.ΤΕ.Π.Ν.) ως μονάδα του Ερευνητικού Πανεπιστημιακού Ινστιτούτου Ψυχικής Υγιεινής (Ε.Π.Ι.Ψ.Υ.) σε εφαρμογή του άρθρου 19  \"Εθνικό Κέντρο Τεκμηρίωσης και πληροφόρησης για τα Ναρκωτικά (Ε.Κ.ΤΕ.Π.Ν.) του ν.4461/2017 (ΦΕΚ Α` 38)",
+  "protocol_number": "Δ2α/90073/17",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71133"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "32",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "Δ2α/90073/",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100015990",
+        "unitId": [
+          "100007927"
+        ],
+        "signerIds": [
+          "100024973"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100028190"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-12-27",
+  "posted": "2018-01-18",
+  "publish_timestamp_ms": 1516277555419,
+  "version_id": "a9b50fde-89cf-49e9-a439-c9d7f2e48b45",
+  "in_force": "2018-01-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A3%CE%9F9465%CE%A6%CE%A5%CE%9F-%CE%9A%CE%A6%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A3%CE%9F9465%CE%A6%CE%A5%CE%9F-%CE%9A%CE%A6%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A3%CE%9F9465%CE%A6%CE%A5%CE%9F-%CE%9A%CE%A6%CE%98",
+  "listing_sha256": "3343aedc1758bc2e38a21124b52c9b955304d6d944efb3b1daab2080278b633f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
