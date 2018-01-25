@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΩΗΗΩΡ3-7ΩΙ",
+  "subject": "Έγκριση πραγματοποίησης δαπάνης και διάθεσης πίστωσης ποσού\n1026,73 € σε βάρος του ΚΑ 20-6211 και προμήθεια τραπέζης 1,10 € σε βάρος του\nΚΑ 00-6515.001 του προϋπολογισμού του Δήμου έτους 2018, καθώς και έκδοση\nισόποσου χρηματικού εντάλματος προπληρωμής 1027,83 € στο όνομα του\nυπαλλήλου του Δήμου, Κολοβός Δημήτρης, με απόδοση λογαριασμού εντός\nτριμήνου.",
+  "protocol_number": "1895",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003097"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "5",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-01-25",
+  "posted": "2018-01-25",
+  "publish_timestamp_ms": 1516875138074,
+  "version_id": "0aa2d395-a116-48c7-a693-fab4e40a74e3",
+  "in_force": "2018-01-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A9%CE%97%CE%97%CE%A9%CE%A13-7%CE%A9%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A9%CE%97%CE%97%CE%A9%CE%A13-7%CE%A9%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A9%CE%97%CE%97%CE%A9%CE%A13-7%CE%A9%CE%99",
+  "listing_sha256": "c9ff3cffeb1c5d980b26c156553ea7e4fad1edb30a27174512ddd1b2ed5161ef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
