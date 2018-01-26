@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6269ΩΞΩ-ΗΛΣ",
+  "subject": "ΟΡΙΣΜΟΣ ΥΠΑΛΛΗΛΟΥ",
+  "protocol_number": "458",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6227",
+    "label": "ΔΗΜΟΣ ΟΡΟΠΕΔΙΟΥ ΛΑΣΙΘΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85363"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-01-26",
+  "posted": "2018-01-26",
+  "publish_timestamp_ms": 1516962147565,
+  "version_id": "70a9bb06-4ee8-4376-8588-29025ff20302",
+  "in_force": "2018-01-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6269%CE%A9%CE%9E%CE%A9-%CE%97%CE%9B%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6269%CE%A9%CE%9E%CE%A9-%CE%97%CE%9B%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6269%CE%A9%CE%9E%CE%A9-%CE%97%CE%9B%CE%A3",
+  "listing_sha256": "71b75e15867e9e94bedb10607a40a97d7ae20e5e6bb63d80a66e9d7f2efc8b82",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
