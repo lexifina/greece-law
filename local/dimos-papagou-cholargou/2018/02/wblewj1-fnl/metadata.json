@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΒΛΕΩΞ1-ΦΝΛ",
+  "subject": "Έγκριση διενέργειας και τεχνικών προδιαγραφών της Προμήθειας με τίτλο: «ΠΡΟΜΗΘΕΙΑ ΖΩΟΤΡΟΦΩΝ ΓΙΑ ΤΟ ΖΩΟΛΟΓΙΚΟ ΚΗΠΟ»",
+  "protocol_number": "148",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6236",
+    "label": "ΔΗΜΟΣ ΠΑΠΑΓΟΥ - ΧΟΛΑΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81505"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΘ8ΚΩΞ1-ΗΝΔ"
+      }
+    ]
+  },
+  "issued": "2018-02-05",
+  "posted": "2018-02-05",
+  "publish_timestamp_ms": 1517815979769,
+  "version_id": "bdcfda2f-bc1c-426a-9bc8-294620a11fba",
+  "in_force": "2018-02-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%92%CE%9B%CE%95%CE%A9%CE%9E1-%CE%A6%CE%9D%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%92%CE%9B%CE%95%CE%A9%CE%9E1-%CE%A6%CE%9D%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%92%CE%9B%CE%95%CE%A9%CE%9E1-%CE%A6%CE%9D%CE%9B",
+  "listing_sha256": "2191c28a9b055f4612fdde9fc6b027fe77f6ecfa54bcc3d56a10b4d2688de66d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
