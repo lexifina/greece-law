@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠΕΚΩΚΑ-ΧΙ4",
+  "subject": "ΠΡΟΕΓΚΡΙΣΗ ΥΠΕΡΩΡΙΩΝ ΦΕΒΡΟΥΑΡΙΟΥ 2018",
+  "protocol_number": "738/26-01-18",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6215",
+    "label": "ΔΗΜΟΣ ΝΙΚΑΙΑΣ - ΑΓΙΟΥ Ι. ΡΕΝΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93101"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4696",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "738",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-01-26",
+  "posted": "2018-02-05",
+  "publish_timestamp_ms": 1517818510276,
+  "version_id": "5d6d88f2-762a-4425-b4e3-c1d9abed4dd8",
+  "in_force": "2018-02-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%95%CE%9A%CE%A9%CE%9A%CE%91-%CE%A7%CE%994",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%95%CE%9A%CE%A9%CE%9A%CE%91-%CE%A7%CE%994/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A0%CE%95%CE%9A%CE%A9%CE%9A%CE%91-%CE%A7%CE%994",
+  "listing_sha256": "edfe3daa785d186cbb36d79ba141631e07a2ecb2683e9f83596c247cd59de24e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
