@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΨ78ΙΜΞ-1Ν8",
+  "subject": "ΚΟΙΝΗ ΥΠΟΥΡΓΙΚΗ ΑΠΟΦΑΣΗ ΓΙΑ ΤΟΝ ΚΑΘΟΡΙΣΜΟ ΑΜΟΙΒΗΣ ΤΗΣ ΔΙΚΗΓΟΡΙΚΗΣ ΕΤΑΙΡΕΙΑΣ ''ΤΕΛΛΗΣ ΝΙΚΟΛΑΟΣ, ΖΟΥΖΟΥΛΑ ΑΙΚΑΤΕΡΙΝΗ & ΣΥΝΕΡΓΑΤΕΣ'' ΓΙΑ ΤΗ ΝΟΜΙΚΗ ΕΚΠΡΟΣΩΠΗΣΗ ΤΗΣ ΕΑ",
+  "protocol_number": "54",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "22963",
+    "label": "ΕΠΙΤΡΟΠΗ ΑΝΤΑΓΩΝΙΣΜΟΥ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100026076"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "312",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "54",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΣ78ΙΜΞ-ΛΨ4"
+      }
+    ]
+  },
+  "issued": "2018-01-04",
+  "posted": "2018-02-06",
+  "publish_timestamp_ms": 1517899006480,
+  "version_id": "c4b6cb60-809e-4713-a3b7-8697d3ffa684",
+  "in_force": "2018-02-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A878%CE%99%CE%9C%CE%9E-1%CE%9D8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A878%CE%99%CE%9C%CE%9E-1%CE%9D8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A878%CE%99%CE%9C%CE%9E-1%CE%9D8",
+  "listing_sha256": "303cf321415a98eeb0b77e9e5597a02d308a61f36a6a6a5bbb698b0c15cbade5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
