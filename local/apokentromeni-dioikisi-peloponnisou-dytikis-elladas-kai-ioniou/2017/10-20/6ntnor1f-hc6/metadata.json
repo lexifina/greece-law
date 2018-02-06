@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΝΤΝΟΡ1Φ-ΗΨ6",
+  "subject": "Καθορισμός αποζημίωσης  προέδρου του Διοικητικού Συμβουλίου της ΔΕΥΑ Δυμαίων.",
+  "protocol_number": "253245",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87448"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "545",
+      "issue": "fektype_YODD",
+      "issueyear": 2017
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2017-10-20",
+  "posted": "2018-02-06",
+  "publish_timestamp_ms": 1517915965769,
+  "version_id": "a36a1d14-c93f-4232-b395-ae95d9c08595",
+  "in_force": "2018-02-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%A4%CE%9D%CE%9F%CE%A11%CE%A6-%CE%97%CE%A86",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%A4%CE%9D%CE%9F%CE%A11%CE%A6-%CE%97%CE%A86/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9D%CE%A4%CE%9D%CE%9F%CE%A11%CE%A6-%CE%97%CE%A86",
+  "listing_sha256": "5faf5ca731b994c68f902f7788a067d48aa68ee48c3afd81a6cec704b4d91a31",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
