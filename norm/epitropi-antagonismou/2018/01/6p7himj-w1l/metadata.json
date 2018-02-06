@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Π7ΗΙΜΞ-Ω1Λ",
+  "subject": "ΚΟΙΝΗ ΥΠΟΥΡΓΙΚΗ ΑΠΟΦΑΣΗ ΓΙΑ ΤΟΝ ΚΑΘΟΡΙΣΜΟ ΑΜΟΙΒΗΣ ΤΗΣ ΔΙΚΗΓΟΡΟΥ ΡΕΓΓΙΝΑΣ ΚΑΡΡΑ ΓΙΑ ΤΗ ΝΟΜΙΚΗ ΕΚΠΡΟΣΩΠΗΣΗ ΤΗΣ ΕΑ",
+  "protocol_number": "53",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "22963",
+    "label": "ΕΠΙΤΡΟΠΗ ΑΝΤΑΓΩΝΙΣΜΟΥ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100026076"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "312",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "53",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΕΠΕΙΜΞ-5ΤΩ"
+      }
+    ]
+  },
+  "issued": "2018-01-04",
+  "posted": "2018-02-06",
+  "publish_timestamp_ms": 1517898765025,
+  "version_id": "e27d04e7-ddb2-436d-832b-1978c707fc18",
+  "in_force": "2018-02-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A07%CE%97%CE%99%CE%9C%CE%9E-%CE%A91%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A07%CE%97%CE%99%CE%9C%CE%9E-%CE%A91%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A07%CE%97%CE%99%CE%9C%CE%9E-%CE%A91%CE%9B",
+  "listing_sha256": "303cf321415a98eeb0b77e9e5597a02d308a61f36a6a6a5bbb698b0c15cbade5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
