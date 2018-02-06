@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΩΞΚ469Β7Α-9ΑΡ",
+  "subject": "Αποδόσεις Χρηματικών Ενταλμάτων Προπληρωμής.",
+  "protocol_number": "20180202/25-1",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206927",
+    "label": "ΠΑΝΤΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΚΟΙΝΩΝΙΚΩΝ & ΠΟΛΙΤΙΚΩΝ ΕΠΙΣΤΗΜΩΝ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "73610"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω7ΠΦ469Β7Α-9ΓΓ"
+      }
+    ]
+  },
+  "issued": "2018-02-06",
+  "posted": "2018-02-06",
+  "publish_timestamp_ms": 1517911823917,
+  "version_id": "52d1a3a0-e18c-4e2a-a242-92ca86ebda8c",
+  "in_force": "2018-02-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A9%CE%9E%CE%9A469%CE%927%CE%91-9%CE%91%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A9%CE%9E%CE%9A469%CE%927%CE%91-9%CE%91%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A9%CE%9E%CE%9A469%CE%927%CE%91-9%CE%91%CE%A1",
+  "listing_sha256": "649be2ae6744d9098a7d1a13121ec511308bb143bd5a96f12cd76f195feb3994",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
