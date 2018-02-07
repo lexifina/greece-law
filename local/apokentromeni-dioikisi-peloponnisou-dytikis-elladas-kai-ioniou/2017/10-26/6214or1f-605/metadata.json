@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6214ΟΡ1Φ-605",
+  "subject": "Διόρθωση σφάλματος σε απόφαση τροποποίησης του ΟΕΥ ΔΕΥΑ Μεσολογγίου",
+  "protocol_number": "οικ. 268238",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87448"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3893",
+      "issue": "fektype_B",
+      "issueyear": 2017
+    },
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "67ΙΩΟΡ1Φ-ΞΕΣ"
+      }
+    ]
+  },
+  "issued": "2017-10-26",
+  "posted": "2018-02-07",
+  "publish_timestamp_ms": 1517992230829,
+  "version_id": "3045f574-c5ab-43b7-8f2a-6369736e2ea6",
+  "in_force": "2018-02-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6214%CE%9F%CE%A11%CE%A6-605",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6214%CE%9F%CE%A11%CE%A6-605/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6214%CE%9F%CE%A11%CE%A6-605",
+  "listing_sha256": "baadb415eea8832c19dd5fe51406f7e1ae5cd35a6c05abf49122911b74dbaed7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
