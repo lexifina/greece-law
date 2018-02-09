@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΡ58ΩΡ0-ΙΕΚ",
+  "subject": "ΑΔΕΙΑ ΛΕΙΤΟΥΡΓΙΑΣ ΓΗΠΕΔΟΥ ΑΝΤΙΣΦΑΙΡΙΣΗΣ ΘΕΣΠΡΩΤΙΚΟΥ",
+  "protocol_number": "1513",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6102",
+    "label": "ΔΗΜΟΣ ΖΗΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79818"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-02-08",
+  "posted": "2018-02-09",
+  "publish_timestamp_ms": 1518167489693,
+  "version_id": "bf8dd197-a78b-4218-a5cc-52f20716ba12",
+  "in_force": "2018-02-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A158%CE%A9%CE%A10-%CE%99%CE%95%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A158%CE%A9%CE%A10-%CE%99%CE%95%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A158%CE%A9%CE%A10-%CE%99%CE%95%CE%9A",
+  "listing_sha256": "977c8ea0475087b58cd9141ab7fa329cead895e18ce9bae16e43777a28b2f293",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
