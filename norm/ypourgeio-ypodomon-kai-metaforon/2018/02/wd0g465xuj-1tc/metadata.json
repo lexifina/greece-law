@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔ0Γ465ΧΘΞ-1ΤΨ",
+  "subject": "Ειδοποίηση παρακατάθεσης αποζημίωσης ακινήτων, που έχουν απαλλοτριωθεί με την συμπληρωματικά με την Υ.Α. Δ12 /Φ.0091385/οικ.3196/2-6-14 (τ.Α.Α.Π. 190) για την κατασκευή του έργου: «ΚΑΤΑΣΚΕΥΗ ΤΟΥ ΝΟΤΙΟΥ ΤΜΗΜΑΤΟΣ ΑΠΟ Χ.Θ. 0+000 έως Χ.Θ. 8+700 ΤΟΥ ΚΑΘΕΤΟΥ ΑΞΟΝΑ 75 ΚΟΜΟΤΗΝΗ – ΝΥΜΦΑΙΑ – ΕΛΛΗΝΟΒΟΥΛΓΑΡΙΚΑ ΣΥΝΟΡΑ ΤΗΣ ΕΓΝΑΤΙΑΣ ΟΔΟΥ».",
+  "protocol_number": "Φ.0091385/οικ.196",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007478"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "12",
+      "issue": "fektype_AAP",
+      "issueyear": 2018
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-02-09",
+  "posted": "2018-02-09",
+  "publish_timestamp_ms": 1518170159607,
+  "version_id": "9faad089-0b4e-4f2d-b050-48e3c2cbf9ee",
+  "in_force": "2018-02-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%940%CE%93465%CE%A7%CE%98%CE%9E-1%CE%A4%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%940%CE%93465%CE%A7%CE%98%CE%9E-1%CE%A4%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%940%CE%93465%CE%A7%CE%98%CE%9E-1%CE%A4%CE%A8",
+  "listing_sha256": "04a340656f17f7c3b67458ab23325f4512f8b4c9ef07944e9b52415baa3492c6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
