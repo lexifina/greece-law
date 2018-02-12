@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΛΧ84653Π8-7ΔΕ",
+  "subject": "Καθορισμός της ημερομηνίας μέχρι την οποία είναι επιτρεπτή η υποβολή εκπρόθεσμων δηλώσεων και η κατάθεση αιτήσεων διόρθωσης προδήλου σφάλματος για τις υπό κτηματογράφηση περιοχές, για το σύνολο των ακινήτων που βρίσκονται στην Περιφερειακή Ενότητα Ανατολικής Αττικής, στον Καλλικρατικό Δήμο Ωρωπού, στον οποίο περιλαμβάνονται οι προ- Καποδιστριακοί Δήμοι και Κοινότητες Αυλώνος, Αφιδνών, Μαλακάσης και\nΠολυδενδρίου και στην Περιφερειακή Ενότητα Βοιωτίας, στον Καλλικρατικό Δήμο Τανάγρας, στον οποίο περιλαμβάνονται οι προ- Καποδιστριακοί Δήμοι Οινοφύτων (Τοπικά διαμερίσματα Αγίου Θωμά, Κλειδίου και Οινοφύτων) και Δερβενοχωρίων (Τοπικά διαμερίσματα\nΔάφνης, Πύλης, Σκούρτων και Στεφάνης).",
+  "protocol_number": "177",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035647"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "74",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-01-04",
+  "posted": "2018-02-12",
+  "publish_timestamp_ms": 1518436350466,
+  "version_id": "2e5e812f-827f-41d0-892b-35270cd53318",
+  "in_force": "2018-02-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B%CE%A784653%CE%A08-7%CE%94%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B%CE%A784653%CE%A08-7%CE%94%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9B%CE%A784653%CE%A08-7%CE%94%CE%95",
+  "listing_sha256": "303cf321415a98eeb0b77e9e5597a02d308a61f36a6a6a5bbb698b0c15cbade5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
