@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΜΠ946ΜΠ3Ζ-26Ρ",
+  "subject": "ΑΠΟΦΑΣΗ ΑΝΑΛΗΨΗΣ ΥΠΕΡΩΡΙΩΝ",
+  "protocol_number": "123/1",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100029692"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "16032",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-02-12",
+  "posted": "2018-02-12",
+  "publish_timestamp_ms": 1518425844813,
+  "version_id": "10bf30dd-2682-4519-b4be-ac26601760d3",
+  "in_force": "2018-02-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C%CE%A0946%CE%9C%CE%A03%CE%96-26%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C%CE%A0946%CE%9C%CE%A03%CE%96-26%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9C%CE%A0946%CE%9C%CE%A03%CE%96-26%CE%A1",
+  "listing_sha256": "7bf934f501480ccf30adcc4d3c218476c5cc33affef4534f31b1fa91121ca2a5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
