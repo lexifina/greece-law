@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ3ΨΥΩΡ7-23Κ",
+  "subject": "Έγκριση διαφόρων δαπανών, διάθεση πίστωσης, ανάληψη υποχρέωσης.",
+  "protocol_number": "44",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6090",
+    "label": "ΔΗΜΟΣ ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81671"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-02-13",
+  "posted": "2018-02-13",
+  "publish_timestamp_ms": 1518526652217,
+  "version_id": "8db91433-e53f-4045-a0f4-56d18e5da1d2",
+  "in_force": "2018-02-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A83%CE%A8%CE%A5%CE%A9%CE%A17-23%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A83%CE%A8%CE%A5%CE%A9%CE%A17-23%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A83%CE%A8%CE%A5%CE%A9%CE%A17-23%CE%9A",
+  "listing_sha256": "873e1042eb166d6952e2c2df262c8bb40a67c9933e89af6aebb97b35e8cc14b9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
