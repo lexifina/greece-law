@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "675Ω4653Π8-ΡΨΚ",
+  "subject": "Καθορισμός διαδικασίας εγκατάστασης και λειτουργίας ηλεκτρομηχανολογικών εγκαταστάσεων εντός λατομικών ή μεταλλευτικών χώρων, στην περίπτωση που προηγείται έγκριση εκμετάλλευσης",
+  "protocol_number": "ΔΑΠ/Α/Φ.4.2/οικ.171314/429",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100006936"
+  ],
+  "thematic_category_ids": [
+    "66"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "481",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "100025272"
+        ],
+        "signerIds": [
+          "100011935"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-02-14",
+  "posted": "2018-02-21",
+  "publish_timestamp_ms": 1519210301341,
+  "version_id": "aee4daf1-48bc-4a93-bb04-40d3101f9e3f",
+  "in_force": "2018-02-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/675%CE%A94653%CE%A08-%CE%A1%CE%A8%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/675%CE%A94653%CE%A08-%CE%A1%CE%A8%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/675%CE%A94653%CE%A08-%CE%A1%CE%A8%CE%9A",
+  "listing_sha256": "53aab7b769a717a913473fdbece882e3ae7753b56970e234cb7952f6ceb62307",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
