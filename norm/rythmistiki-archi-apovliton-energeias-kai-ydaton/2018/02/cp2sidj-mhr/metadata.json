@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠ2ΣΙΔΞ-ΜΗΡ",
+  "subject": "ΑΠΟΦΑΣΗ ΡΑΕ ΥΠ’ ΑΡΙΘΜ. 124/2018\nYποβολή αιτήματος προς τον Οργανισμό Συνεργασίας Ρυθμιστικών\nΑρχών Ενέργειας (ΟΣΡΑΕ – ACER) για την έκδοση απόφασης σχετικά με την πρόταση των Ορισθέντων Διαχειριστών Αγοράς Ηλεκτρικής\nΕνέργειας (ΟΔΑΗΕ / NEMO) για τον αλγόριθμο σύζευξης τιμών και τον\nαλγόριθμο αντιστοίχισης συνεχούς συναλλαγής (price coupling\nalgorithm and continuous trading matching algorithm), σύμφωνα με το\nάρθρο 37 παρ. 5 του Κανονισμού (ΕΕ) 2015/1222 της 24ης Ιουλίου\n2015 της Επιτροπής σχετικά με τον καθορισμό κατευθυντήριων\nγραμμών για την κατανομή της δυναμικότητας και τη διαχείριση της\nσυμφόρησης.",
+  "protocol_number": "124/2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "22793",
+    "label": "ΡΥΘΜΙΣΤΙΚΗ ΑΡΧΗ ΑΠΟΒΛΗΤΩΝ ΕΝΕΡΓΕΙΑΣ ΚΑΙ ΥΔΑΤΩΝ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "94266"
+  ],
+  "thematic_category_ids": [
+    "66"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "489",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Πράξη Ρυθμιστικής Αρχής",
+    "kanonistikipraxiaa": "124/2018",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-02-22",
+  "posted": "2018-02-22",
+  "publish_timestamp_ms": 1519306237207,
+  "version_id": "f5d05d6d-861b-48ec-ab90-ece1b821a21a",
+  "in_force": "2018-02-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A02%CE%A3%CE%99%CE%94%CE%9E-%CE%9C%CE%97%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A02%CE%A3%CE%99%CE%94%CE%9E-%CE%9C%CE%97%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A02%CE%A3%CE%99%CE%94%CE%9E-%CE%9C%CE%97%CE%A1",
+  "listing_sha256": "dbb43937f468f4d06091ff39917d9a4362e2f762fc7911f143a819a5fb00ed87",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
