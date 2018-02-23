@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "68ΧΙΗ-ΩΤ3",
+  "subject": "Τροποποίηση της αριθμ.2/9288/ΔΕΠ απόφασης",
+  "protocol_number": "2/14421/ΔΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100009869"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10003",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΒ4ΩΗ-Ε7Ι"
+      }
+    ]
+  },
+  "issued": "2018-02-21",
+  "posted": "2018-02-23",
+  "publish_timestamp_ms": 1519387213930,
+  "version_id": "b12935e1-1903-4b68-b291-ed06f12332cd",
+  "in_force": "2018-02-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/68%CE%A7%CE%99%CE%97-%CE%A9%CE%A43",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/68%CE%A7%CE%99%CE%97-%CE%A9%CE%A43/document",
+  "page": "https://diavgeia.gov.gr/decision/view/68%CE%A7%CE%99%CE%97-%CE%A9%CE%A43",
+  "listing_sha256": "0634b4d0466160bdaffee32b978f3cf90c3c74407268a4723d2ff1242c32f886",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
