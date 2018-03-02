@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΜ5ΟΡ10-ΤΙΛ",
+  "subject": "ΑΚΥΡΩΣΗ ΤΗΣ ΥΠ'ΑΡΙΘΜ. 101/2018 ΑΠΟΦΑΣΗΣ ΔΣ ΔΗΜΟΥ ΒΟΛΟΥ ΠΕΡΙ ¨ΕΓΚΡΙΣΗΣ ΤΗΣ ΥΠ'ΑΡΙΘΜ. 316/2017 ΚΑΝΟΝΙΣΤΙΚΗΣ ΑΠΟΦΑΣΗΣ ΓΙΑ ΤΗΝ ΟΡΓΑΝΩΣΗ & ΤΙΣ ΠΡΟΫΠΟΘΕΣΕΙΣ ΛΕΙΤΟΥΡΓΙΑΣ ΚΑΙ ΤΟΝ ΚΑΘΟΡΙΣΜΟ ΤΩΝ ΟΡΩΝ ΓΙΑ ΤΗΝ ΔΙΑΘΕΣΗ ΚΑΙ ΚΑΤΑΚΥΡΩΣΗ ΧΩΡΩΝ ΤΗΣ ΕΤΗΣΙΑΣ ΕΜΠΟΡΟΠΑΝΗΓΥΡΗΣ ΤΟΥ ΔΗΜΟΥ ΒΟΛΟΥ\"",
+  "protocol_number": "274/19313",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77990"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΤΝΖΩ96-Ρ5Ψ"
+      }
+    ]
+  },
+  "issued": "2018-02-26",
+  "posted": "2018-03-02",
+  "publish_timestamp_ms": 1519985172329,
+  "version_id": "73877116-ea43-4baa-b777-ff573e5b9a28",
+  "in_force": "2018-03-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%9C5%CE%9F%CE%A110-%CE%A4%CE%99%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%9C5%CE%9F%CE%A110-%CE%A4%CE%99%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%9C5%CE%9F%CE%A110-%CE%A4%CE%99%CE%9B",
+  "listing_sha256": "9cce6b502c30c94a8f0c7289de1451f999eb6e35db8182154b658212b5b1685c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
