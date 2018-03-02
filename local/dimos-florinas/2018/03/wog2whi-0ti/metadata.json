@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΟΓ2ΩΗΙ-0ΤΙ",
+  "subject": "«ΟΡΙΣΜΟΣ ΔΙΚΗΓΟΡΟΥ»",
+  "protocol_number": "527",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87159"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "kanonistikipraxiaa": "29/2018",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-03-02",
+  "posted": "2018-03-02",
+  "publish_timestamp_ms": 1519974557299,
+  "version_id": "71a38a55-93ae-4216-8b17-a552b8864f48",
+  "in_force": "2018-03-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F%CE%932%CE%A9%CE%97%CE%99-0%CE%A4%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F%CE%932%CE%A9%CE%97%CE%99-0%CE%A4%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9F%CE%932%CE%A9%CE%97%CE%99-0%CE%A4%CE%99",
+  "listing_sha256": "1e0ea3713517c3a930f78f0d3af2018c17cf8a1cd8a8de07cb6dfb13edcc8ff3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
