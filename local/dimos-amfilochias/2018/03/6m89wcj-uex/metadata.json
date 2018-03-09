@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Μ89ΩΨΞ-ΘΕΧ",
+  "subject": "ΣΥΜΠΛΗΡΩΣΗ  ΑΠΟΦΑΣΗΣ  ΑΝΑΘΕΣΗΣ  ΥΠΟΓΡΑΦΩΝ",
+  "protocol_number": "2202",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6031",
+    "label": "ΔΗΜΟΣ ΑΜΦΙΛΟΧΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81345"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΗΕ1ΩΨΞ-2ΕΛ"
+      }
+    ]
+  },
+  "issued": "2018-03-09",
+  "posted": "2018-03-09",
+  "publish_timestamp_ms": 1520582871298,
+  "version_id": "c4fa39e9-aebb-4de1-927b-ca1ce717b072",
+  "in_force": "2018-03-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C89%CE%A9%CE%A8%CE%9E-%CE%98%CE%95%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C89%CE%A9%CE%A8%CE%9E-%CE%98%CE%95%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9C89%CE%A9%CE%A8%CE%9E-%CE%98%CE%95%CE%A7",
+  "listing_sha256": "a6f4982d93ed1c92129e7b564f590733302709a38ae097f36d098b8d319caec7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
