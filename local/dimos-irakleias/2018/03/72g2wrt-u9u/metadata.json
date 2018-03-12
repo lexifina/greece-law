@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "72Γ2ΩΡΤ-Θ9Θ",
+  "subject": "Απόφαση Ανάληψης Υποχρέωσης για συντήρηση κοιμητηρίων (συνεχιζόμενο).",
+  "protocol_number": "2464",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6108",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80941"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΨΨΔΩΡΤ-ΙΘΚ"
+      }
+    ]
+  },
+  "issued": "2018-03-12",
+  "posted": "2018-03-12",
+  "publish_timestamp_ms": 1520849614557,
+  "version_id": "4eb00ecd-0397-4fd6-b2e7-46fef804189b",
+  "in_force": "2018-03-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/72%CE%932%CE%A9%CE%A1%CE%A4-%CE%989%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/72%CE%932%CE%A9%CE%A1%CE%A4-%CE%989%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/72%CE%932%CE%A9%CE%A1%CE%A4-%CE%989%CE%98",
+  "listing_sha256": "42f5cdab645e8cac72442a9ebf61c8df73cc0ebdb5679c67caeef1fed4edb0c9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
