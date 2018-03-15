@@ -1,0 +1,88 @@
+{
+  "year": 2018,
+  "number": 4524,
+  "url": "https://api.et.gr/apiLAW/1/2018/4524/pdf",
+  "source_sha256": "84b7c20e414d955ce15c3c3ba2a800840f963f25f8333b0ace45159c04403178",
+  "published": "2018-03-15",
+  "in_force": "2018-03-15",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 152,
+  "images": [
+    {
+      "page": 37,
+      "sha256": "26645f0dcc6defb07e818a900b60a5db9f484c08382dec8319ea283fbb58ffd4",
+      "ext": "png",
+      "bytes": 53552,
+      "bbox": [
+        84.7,
+        193.3,
+        505.5,
+        395.1
+      ]
+    },
+    {
+      "page": 38,
+      "sha256": "3ab6b82f970a53b77fbf5997d160cb812f30adeedb36c917731b4fa0ca5a49db",
+      "ext": "png",
+      "bytes": 69691,
+      "bbox": [
+        134.9,
+        225.3,
+        440.4,
+        652.8
+      ]
+    },
+    {
+      "page": 130,
+      "sha256": "6ebf5996d6d9cd45bfcb2a7741a44df2d3e0c1a0cd1a2fe8ce38bde956b8ad88",
+      "ext": "png",
+      "bytes": 18211,
+      "bbox": [
+        102.6,
+        325.0,
+        504.2,
+        517.5
+      ]
+    },
+    {
+      "page": 130,
+      "sha256": "1af0bb2a13aac7117b5b19e2e0a914be37ae906cfb13f9e088a44e4f6f562cb5",
+      "ext": "png",
+      "bytes": 4494,
+      "bbox": [
+        97.2,
+        560.3,
+        504.9,
+        606.0
+      ]
+    },
+    {
+      "page": 131,
+      "sha256": "4fa38e808b2328b2e08c71f51ba3a75305487930676ea0827a6a23941ea95cb1",
+      "ext": "png",
+      "bytes": 91256,
+      "bbox": [
+        129.1,
+        208.2,
+        453.2,
+        660.1
+      ]
+    },
+    {
+      "page": 152,
+      "sha256": "477b8c8ccea973e21fb8b2a7763d241861461e740cb3ebcec7e3b0420c5c7f1f",
+      "ext": "png",
+      "bytes": 39746,
+      "bbox": [
+        59.5,
+        126.1,
+        527.2,
+        337.3
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
