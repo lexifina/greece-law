@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΓΔΖ46ΜΠ3Ζ-4ΩΡ",
+  "subject": "Τροποποίηση της Απόφασης του Υπουργού Οικονομικών  1070650/4752/0014/ΠΟΛ.1196/20.5.1993, περί απαλλαγής από το φόρο  προστιθέμενης  αξίας (Φ.Π.Α.) των Ενόπλων Δυνάμεων του ΝΑΤΟ",
+  "protocol_number": "ΠΟΛ. 1038",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100029749"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "916",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Πράξη Ανεξάρτητης Αρχής",
+    "kanonistikipraxiaa": "ΠΟΛ. 1038",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-02-28",
+  "posted": "2018-03-16",
+  "publish_timestamp_ms": 1521210997905,
+  "version_id": "e62f3e6c-7679-43dd-9c77-1effb773c403",
+  "in_force": "2018-03-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%93%CE%94%CE%9646%CE%9C%CE%A03%CE%96-4%CE%A9%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%93%CE%94%CE%9646%CE%9C%CE%A03%CE%96-4%CE%A9%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%93%CE%94%CE%9646%CE%9C%CE%A03%CE%96-4%CE%A9%CE%A1",
+  "listing_sha256": "a810fddcd571ba351fae5b167e94554c1ada0cf49e071af510366867c1b36b02",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
