@@ -1,0 +1,64 @@
+{
+  "year": 2018,
+  "number": 4527,
+  "url": "https://api.et.gr/apiLAW/1/2018/4527/pdf",
+  "source_sha256": "f6f6eaae5f643c1f1dbae354a6e94c64cdeb1a5aecab56e150a602a5d20fe050",
+  "published": "2018-03-16",
+  "in_force": "2018-03-16",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 196,
+  "images": [
+    {
+      "page": 37,
+      "sha256": "8bac3e1a0de8f62d4fe133c1c867cb9563500696e4f9fda7beb6ce118786de4a",
+      "ext": "png",
+      "bytes": 22374,
+      "bbox": [
+        101.8,
+        195.8,
+        502.0,
+        413.9
+      ]
+    },
+    {
+      "page": 38,
+      "sha256": "3ab6b82f970a53b77fbf5997d160cb812f30adeedb36c917731b4fa0ca5a49db",
+      "ext": "png",
+      "bytes": 69691,
+      "bbox": [
+        139.8,
+        243.5,
+        465.4,
+        699.0
+      ]
+    },
+    {
+      "page": 160,
+      "sha256": "8974555efe23f423a3815f88ee4497b5c7ad3a6c9ddb45c1207f4400b99f68c6",
+      "ext": "png",
+      "bytes": 21251,
+      "bbox": [
+        90.3,
+        217.8,
+        520.4,
+        468.4
+      ]
+    },
+    {
+      "page": 161,
+      "sha256": "4fa38e808b2328b2e08c71f51ba3a75305487930676ea0827a6a23941ea95cb1",
+      "ext": "png",
+      "bytes": 91256,
+      "bbox": [
+        127.7,
+        190.7,
+        469.3,
+        667.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
