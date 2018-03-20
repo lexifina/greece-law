@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΚΘΕΟΡ1Γ-Α95",
+  "subject": "τροποποίηση απόφασης εκτός έδρας Δήμου Κοζάνης",
+  "protocol_number": "32753",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76529"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "926",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "32753",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-03-02",
+  "posted": "2018-03-20",
+  "publish_timestamp_ms": 1521524799500,
+  "version_id": "6bbdd656-be4b-4269-b8e6-4b78d86e5351",
+  "in_force": "2018-03-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%98%CE%95%CE%9F%CE%A11%CE%93-%CE%9195",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%98%CE%95%CE%9F%CE%A11%CE%93-%CE%9195/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9A%CE%98%CE%95%CE%9F%CE%A11%CE%93-%CE%9195",
+  "listing_sha256": "c29e9180d599c6655dc9f99a2a752a090f314e73b14abd30966d1b4899fa6465",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
