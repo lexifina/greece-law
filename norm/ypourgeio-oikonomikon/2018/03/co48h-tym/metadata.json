@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟ48Η-ΤΥΜ",
+  "subject": "π.δ. Έγκριση του Σχεδίου Ολοκληρωμένης Ανάπτυξης (ΣΟΑ) του Μητροπολιτικού Πόλου Ελληνικού Αγίου Κοσμά Περιφέρειας Αττικής",
+  "protocol_number": "28.2.2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "35",
+      "issue": "fektype_AAP",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "kanonistikipraxiaa": "01.03.2018",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-03-01",
+  "posted": "2018-03-21",
+  "publish_timestamp_ms": 1521630305317,
+  "version_id": "0a256a30-282d-44b2-839d-4c4a4fcc52f8",
+  "in_force": "2018-03-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F48%CE%97-%CE%A4%CE%A5%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F48%CE%97-%CE%A4%CE%A5%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F48%CE%97-%CE%A4%CE%A5%CE%9C",
+  "listing_sha256": "1a943d9f4d66ad1d7004b173b2e18800a2e195544a9744dc8ff744820c374ffe",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
