@@ -1,0 +1,66 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΕΒΛΟΡ1Υ-6ΤΥ",
+  "subject": "Τροποποίηση των Αποφάσεων Συγκρότησης των ΕΠΕΑ Δασικών Χαρτών Εβρου, Ροδόπης, Ξάνθης, Δράμας, Καβάλας,Πέλλας και Θεσσαλονίκης",
+  "protocol_number": "12379",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77097"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "156",
+      "issue": "fektype_YODD",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "12379",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω4ΛΠΟΡ1Υ-14Ε"
+      },
+      {
+        "relatedDecisionsADA": "ΨΥΝΠΟΡ1Υ-ΘΓ3"
+      },
+      {
+        "relatedDecisionsADA": "Ω7ΝΧΟΡ1Υ-ΞΒ8"
+      },
+      {
+        "relatedDecisionsADA": "6ΡΑΞΟΡ1Υ-ΒΞΣ"
+      },
+      {
+        "relatedDecisionsADA": "7ΤΔ2ΟΡ1Υ-2Ι9"
+      },
+      {
+        "relatedDecisionsADA": "7Τ45ΟΡ1Υ-ΧΝ5"
+      },
+      {
+        "relatedDecisionsADA": "6Ω0ΟΟΡ1Υ-46Ω"
+      }
+    ]
+  },
+  "issued": "2018-02-26",
+  "posted": "2018-03-21",
+  "publish_timestamp_ms": 1521633571659,
+  "version_id": "af2b0559-f216-4571-a144-c1b075df6660",
+  "in_force": "2018-03-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%92%CE%9B%CE%9F%CE%A11%CE%A5-6%CE%A4%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%92%CE%9B%CE%9F%CE%A11%CE%A5-6%CE%A4%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%95%CE%92%CE%9B%CE%9F%CE%A11%CE%A5-6%CE%A4%CE%A5",
+  "listing_sha256": "9cce6b502c30c94a8f0c7289de1451f999eb6e35db8182154b658212b5b1685c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
