@@ -1,0 +1,73 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω6ΧΟ465ΧΘΞ-Χ44",
+  "subject": "Χορήγηση στεγαστικής συνδρομής για την αποκατάσταση των ζημιών των κτιρίων από τις κατολισθήσεις 2015 στην Τοπική Κοινότητα Κάτω Σχολαρίου της Δημοτικής Ενότητας Μίκρας του Δήμου Θέρμης της Περιφερειακής Ενότητας Θεσσαλονίκης της Περιφέρειας Κεντρικής Μακεδονίας",
+  "protocol_number": "ΔΑΕΦΚ/ 2857 /Α325 Σχετ.:2468",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1014",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025896",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100025149"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "100013859"
+        ]
+      },
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100011935"
+        ]
+      }
+    ]
+  },
+  "issued": "2017-09-29",
+  "posted": "2018-03-27",
+  "publish_timestamp_ms": 1522140674198,
+  "version_id": "59b53d36-8d4b-43e1-88bc-a242edeca0ad",
+  "in_force": "2018-03-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%A7%CE%9F465%CE%A7%CE%98%CE%9E-%CE%A744",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%A7%CE%9F465%CE%A7%CE%98%CE%9E-%CE%A744/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A96%CE%A7%CE%9F465%CE%A7%CE%98%CE%9E-%CE%A744",
+  "listing_sha256": "35e2bd71d0492c093eb324d3fd93d263731b84d26e8ab2077a0cc92f808e7b06",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
