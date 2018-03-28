@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΠΔΟΡ10-Λ4Ι",
+  "subject": "Δημοσίευση των πρωτότυπων σχεδιαγραμμάτων που συνόδευαν την Υπ΄ Αριθμ. 2941/05-09-1990 Απόφαση Νομάρχη Τρικάλων, οποία  δημοσιεύτηκε στο ΦΕΚ 539/Δ΄/90 χωρίς αυτά και αναδημοσίευση του κειμένου της Υπ΄ Αριθμ. 2941/05-09-1990 Απόφασης Νομάρχη Τρικάλων.",
+  "protocol_number": "508/34144",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "100010936"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "54",
+      "issue": "fektype_AAP",
+      "issueyear": 2018
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-03-12",
+  "posted": "2018-03-28",
+  "publish_timestamp_ms": 1522221081545,
+  "version_id": "bf2b6149-ba64-41f1-900a-df5af46a07b2",
+  "in_force": "2018-03-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A0%CE%94%CE%9F%CE%A110-%CE%9B4%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A0%CE%94%CE%9F%CE%A110-%CE%9B4%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%A0%CE%94%CE%9F%CE%A110-%CE%9B4%CE%99",
+  "listing_sha256": "3a771413222dbdb2b211112721e8f6b3d5081dbf8b7bbe883e9d10dcff6a9fc5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
