@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΖΚ7ΛΞ-Ξ9Ε",
+  "subject": "ΒΕΒΑΙΩΣΗ ΝΟΜΙΜΗΣ ΛΕΙΤΟΥΡΓΙΑΣ ΣΥΝΕΡΓΕΙΟΥ",
+  "protocol_number": "1336",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5011",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78655"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-03-12",
+  "posted": "2018-03-29",
+  "publish_timestamp_ms": 1522305210972,
+  "version_id": "84a17063-8e9e-4d89-a67f-0de934ba7204",
+  "in_force": "2018-03-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%96%CE%9A7%CE%9B%CE%9E-%CE%9E9%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%96%CE%9A7%CE%9B%CE%9E-%CE%9E9%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%96%CE%9A7%CE%9B%CE%9E-%CE%9E9%CE%95",
+  "listing_sha256": "3a771413222dbdb2b211112721e8f6b3d5081dbf8b7bbe883e9d10dcff6a9fc5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
