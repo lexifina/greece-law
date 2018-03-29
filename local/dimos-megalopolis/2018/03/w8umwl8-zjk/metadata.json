@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω8ΘΜΩΛ8-ΖΞΚ",
+  "subject": "Αποδοχή ή μη γνωμοδότησης δικηγόρου σχετικά με την άσκηση ή μη του ενδίκου μέσου της έφεσης κατά της με αριθμό 240/2017 αποφάσεως του Μονομελούς Πρωτοδικείου Τρίπολης (Τακτική Διαδικασία)",
+  "protocol_number": "82-2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6186",
+    "label": "ΔΗΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85025"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-03-26",
+  "posted": "2018-03-29",
+  "publish_timestamp_ms": 1522324080732,
+  "version_id": "e27b6828-d497-47b8-8e70-5709712758c1",
+  "in_force": "2018-03-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%98%CE%9C%CE%A9%CE%9B8-%CE%96%CE%9E%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%98%CE%9C%CE%A9%CE%9B8-%CE%96%CE%9E%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A98%CE%98%CE%9C%CE%A9%CE%9B8-%CE%96%CE%9E%CE%9A",
+  "listing_sha256": "b91fcf1a5127236024da9fe11b031d77ed4e3d022c3e9275341a4b4f4973f672",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
