@@ -1,0 +1,55 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΜΔΣ7ΛΕ-ΗΥΥ",
+  "subject": "Προκήρυξη πλήρωσης θέσεων ευθύνης επιπέδου Γενικής Διεύθυνσης της Περιφέρειας Ιονίων Νήσων κατ΄ εφαρμογή των διατάξεων των άρθρων 84-86 του Υ.Κ. (ν.3528/2007), όπως ισχύει.",
+  "protocol_number": "8891",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5008",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΙΟΝΙΩΝ ΝΗΣΩΝ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "100036041"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "8891",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ψ15Ο465ΧΘ7-ΕΨΤ"
+      }
+    ],
+    "co_competent": [
+      {
+        "ministryId": "100025896",
+        "unitId": [
+          "100016293"
+        ],
+        "signerIds": [
+          "100025916",
+          "100025014"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-03-30",
+  "posted": "2018-03-30",
+  "publish_timestamp_ms": 1522416148411,
+  "version_id": "34f6825b-5408-4acf-9128-f54bc8e2323a",
+  "in_force": "2018-03-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%94%CE%A37%CE%9B%CE%95-%CE%97%CE%A5%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%94%CE%A37%CE%9B%CE%95-%CE%97%CE%A5%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9C%CE%94%CE%A37%CE%9B%CE%95-%CE%97%CE%A5%CE%A5",
+  "listing_sha256": "ca95004fd735aff2a0d2f7aa58f7f625e446f4617213e3e57614130f7406ac80",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
