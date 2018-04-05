@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΜΣΡΩΡΤ-1Γ1",
+  "subject": "Απόφαση Ανάληψης Υποχρέωσης για αποζημίωση ελεγκτών δόμησης.",
+  "protocol_number": "3603",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6108",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80941"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΣΞΦΩΡΤ-ΟΛ0"
+      }
+    ]
+  },
+  "issued": "2018-04-05",
+  "posted": "2018-04-05",
+  "publish_timestamp_ms": 1522915269275,
+  "version_id": "f99266aa-b052-4f81-a25a-5d099609f2df",
+  "in_force": "2018-04-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C%CE%A3%CE%A1%CE%A9%CE%A1%CE%A4-1%CE%931",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C%CE%A3%CE%A1%CE%A9%CE%A1%CE%A4-1%CE%931/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9C%CE%A3%CE%A1%CE%A9%CE%A1%CE%A4-1%CE%931",
+  "listing_sha256": "d43316e2718a3bce50cfacad83d4814709690944b0cb3742897dc746e1a01f71",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
