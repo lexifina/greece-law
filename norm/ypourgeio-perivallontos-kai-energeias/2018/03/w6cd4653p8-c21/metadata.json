@@ -1,0 +1,55 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω6ΨΔ4653Π8-Ψ21",
+  "subject": "Διαδικασία ηλεκτρονικής καταχώρησης παραβόλου κατά την εγγραφή φυσικών και νομικών προσώπων στο Μητρώο Ενεργειακών Επιθεωρητών και κατά την υποβολή των ενεργειακών επιθεωρήσεων στο Αρχείο Επιθεωρήσεως Κτιρίων. Καθορισμός του ύψους και της διαδικασίας ελέγχου τους, των όρων απευθείας έκδοσης των πράξεων υπολογισμού.",
+  "protocol_number": "15418/1294",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035833"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1242",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "15418/1294",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684",
+          "100013859"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-03-15",
+  "posted": "2018-04-12",
+  "publish_timestamp_ms": 1523547428269,
+  "version_id": "a9879391-a60e-417d-a5bb-4a3ede8f8248",
+  "in_force": "2018-04-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%A8%CE%944653%CE%A08-%CE%A821",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%A8%CE%944653%CE%A08-%CE%A821/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A96%CE%A8%CE%944653%CE%A08-%CE%A821",
+  "listing_sha256": "47519b29b47587a3202c789dd36ceebeff2ff72395988b45220a00368320ef48",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
