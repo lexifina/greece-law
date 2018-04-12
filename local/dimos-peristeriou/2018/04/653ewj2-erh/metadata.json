@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "653ΕΩΞ2-ΕΡΗ",
+  "subject": "Έγκριση διάθεσης πίστωσης 5.000 € για Δημοσίευση Πράξεων Δημοτικού Συμβουλίου σε ημερήσιες εφημερίδες",
+  "protocol_number": "248",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78115"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-04-04",
+  "posted": "2018-04-12",
+  "publish_timestamp_ms": 1523542047678,
+  "version_id": "c9b2b3bf-1b4b-4f7f-abcf-b45d14865124",
+  "in_force": "2018-04-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/653%CE%95%CE%A9%CE%9E2-%CE%95%CE%A1%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/653%CE%95%CE%A9%CE%9E2-%CE%95%CE%A1%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/653%CE%95%CE%A9%CE%9E2-%CE%95%CE%A1%CE%97",
+  "listing_sha256": "52f5f746714b8f72a495a022d3338d830af8a9734e4722882bb67619e4713d42",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
