@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΞΠΩΞΗ-7Θ1",
+  "subject": "Έγκριση ή μη παραχώρησης προς χρήση του πυροσβεστικού οχήματος  του Δήμου στο Πυροσβεστικό Κλιμάκιο Παρανεστίου",
+  "protocol_number": "69",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6237",
+    "label": "ΔΗΜΟΣ ΠΑΡΑΝΕΣΤΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85007"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-04-16",
+  "posted": "2018-04-16",
+  "publish_timestamp_ms": 1523876940280,
+  "version_id": "755e3c17-9053-4c05-a926-35c588ad6555",
+  "in_force": "2018-04-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%9E%CE%A0%CE%A9%CE%9E%CE%97-7%CE%981",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%9E%CE%A0%CE%A9%CE%9E%CE%97-7%CE%981/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%9E%CE%A0%CE%A9%CE%9E%CE%97-7%CE%981",
+  "listing_sha256": "977a56811a142818f8f4115043df7432b9faeca8b01cea1ce3fcd462ef87b984",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
