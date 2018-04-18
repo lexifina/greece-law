@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΕ48ΩΛ0-Ζ02",
+  "subject": "Δαπάνη προμήθειας έτοιμων φαγητών για την εορταστική εκδήλωση της Κυριακής του Πάσχα την 8-4-2018",
+  "protocol_number": "XEP A130",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6170",
+    "label": "ΔΗΜΟΣ ΛΕΙΨΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83486"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-04-18",
+  "posted": "2018-04-18",
+  "publish_timestamp_ms": 1524043093686,
+  "version_id": "ba0b8946-069a-4cb6-8d6e-a39075fa8f69",
+  "in_force": "2018-04-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9548%CE%A9%CE%9B0-%CE%9602",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9548%CE%A9%CE%9B0-%CE%9602/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9548%CE%A9%CE%9B0-%CE%9602",
+  "listing_sha256": "b1efafed243cb927837721d4777f975786f679b920b83ec73d67036660e7ca55",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
