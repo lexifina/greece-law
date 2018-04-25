@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω9ΘΤΩ9Γ-ΔΥ5",
+  "subject": "Απόφαση 160/2018 Δ.Σ. με θέμα: Εκμίσθωση Δημοτικού καταστήματος (κτίριο πολλαπλών χρήσεων) που βρίσκεται στον οικισμό Έξαρχου του Δήμου Γρεβενών.",
+  "protocol_number": "5584",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6069",
+    "label": "ΔΗΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003163"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "160/2018",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΡΞ2Ω9Γ-ΕΑ6"
+      }
+    ]
+  },
+  "issued": "2018-04-25",
+  "posted": "2018-04-25",
+  "publish_timestamp_ms": 1524651852787,
+  "version_id": "ea50d7d5-7150-41f7-80c2-293bfb648025",
+  "in_force": "2018-04-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%98%CE%A4%CE%A99%CE%93-%CE%94%CE%A55",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%98%CE%A4%CE%A99%CE%93-%CE%94%CE%A55/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A99%CE%98%CE%A4%CE%A99%CE%93-%CE%94%CE%A55",
+  "listing_sha256": "bc273629e599b5a8882c2f1d2e5e018e2ce0b309503eddb79224e42fafb0667d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
