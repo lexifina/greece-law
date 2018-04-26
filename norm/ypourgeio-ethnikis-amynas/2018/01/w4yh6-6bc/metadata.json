@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω4ΥΗ6-6ΒΨ",
+  "subject": "Καθορισμός αριθμού Εθνοφυλάκων που θα χρησιμοποιηθούν για φρούρηση αποθηκών πυρομαχικών, καυσίμων, υλικών επιστράτευσης και λοιπών εγκαταστάσεων του Στρατού Ξηράς, κατά το έτος 2018 και ημερήσια αποζημίωση αυτών.",
+  "protocol_number": "1383167",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78006"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "293",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1383167",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-01-12",
+  "posted": "2018-04-26",
+  "publish_timestamp_ms": 1524728552450,
+  "version_id": "c089c925-91c4-4681-8953-4137a0b472ff",
+  "in_force": "2018-04-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A94%CE%A5%CE%976-6%CE%92%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A94%CE%A5%CE%976-6%CE%92%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A94%CE%A5%CE%976-6%CE%92%CE%A8",
+  "listing_sha256": "8883fcf081b2d8287e4418ec240102d72266dc1fb5da520015a3ff978d780625",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
