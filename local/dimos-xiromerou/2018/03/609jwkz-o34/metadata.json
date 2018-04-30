@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "609ΞΩΚΖ-Ο34",
+  "subject": "ΑΠΟΦΑΣΗ 16/2018 ΔΗΜΑΡΧΟΥ ΠΕΡΙ 'ΑΝΑΣΤΟΛΗ ΕΚΤΕΛΕΣΕΩΣ ΤΗΣ ΑΡΙΘ. 159 /22.9.2017 ΑΠΟΦΑΣΕΩΣ ΔΗΜΑΡΧΟΥ \nΠΕΡΙ ‘ΑΝΑΚΛΗΣΗ ΔΙΟΡΙΣΜΟΥ ΤΑΚΤΙΚΟΥ ΥΠΑΛΛΗΛΟΥ’ ΚΑΤΟΠΙ ΔΙΚΑΣΤΙΚΗΣΝΑΠΟΦΑΣΕΩΣ'.",
+  "protocol_number": "2003",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6221",
+    "label": "ΔΗΜΟΣ ΞΗΡΟΜΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "11248"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "445",
+      "issue": "fektype_C",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "16",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΝΤΡΩΚΖ-79Ε"
+      }
+    ]
+  },
+  "issued": "2018-03-14",
+  "posted": "2018-04-30",
+  "publish_timestamp_ms": 1525087687265,
+  "version_id": "f6ac6249-ad2f-4836-8cd2-a6800d01c391",
+  "in_force": "2018-04-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/609%CE%9E%CE%A9%CE%9A%CE%96-%CE%9F34",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/609%CE%9E%CE%A9%CE%9A%CE%96-%CE%9F34/document",
+  "page": "https://diavgeia.gov.gr/decision/view/609%CE%9E%CE%A9%CE%9A%CE%96-%CE%9F34",
+  "listing_sha256": "ede26b4c94ad999caab6f6316bd34e214ba9b351ac7759a606bcfbaefb2db5e9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
