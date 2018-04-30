@@ -1,0 +1,64 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΡΩΔ465ΧΘΞ-86Ζ",
+  "subject": "Ορισμός νέας προθεσμίας υποβολής αιτήσεων σχετικά με τη χορήγηση Στεγαστικής Συνδρομής για την αποκατάσταση των ζημιών σε κτίρια (εκτός κτιρίων που ανήκουν σε επιχείρηση) που επλήγησαν από τον σεισμό της α) 26.1.2014 στις Περιφερειακές Ενότητες Κεφαλληνίας και Ιθάκης, β) 7.8.2013 και 6.2.2014 σε περιοχές των Περιφερειακών Ενοτήτων Φθιώτιδας, Φωκίδας και Βοιωτίας",
+  "protocol_number": "ΔΑΕΦΚ-ΚΕ/οικ4207/Α362",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1439",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "100013859"
+        ]
+      },
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "100001074"
+        ],
+        "signerIds": [
+          "100011935"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-04-16",
+  "posted": "2018-04-30",
+  "publish_timestamp_ms": 1525083043091,
+  "version_id": "1cb9b596-69cd-4cea-8f70-ddba71998497",
+  "in_force": "2018-04-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A1%CE%A9%CE%94465%CE%A7%CE%98%CE%9E-86%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A1%CE%A9%CE%94465%CE%A7%CE%98%CE%9E-86%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A1%CE%A9%CE%94465%CE%A7%CE%98%CE%9E-86%CE%96",
+  "listing_sha256": "977a56811a142818f8f4115043df7432b9faeca8b01cea1ce3fcd462ef87b984",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
