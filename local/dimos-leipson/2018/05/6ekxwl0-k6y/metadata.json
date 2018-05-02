@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΕΚΧΩΛ0-Κ6Υ",
+  "subject": "ΔΑΠΑΝΗ ΕΞΌΔΩΝ ΑΠΟΣΤΟΛΗΣ EΓΓΡΑΦΩΝ 4ου/ 2017",
+  "protocol_number": "XEP A137",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6170",
+    "label": "ΔΗΜΟΣ ΛΕΙΨΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83486"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-05-02",
+  "posted": "2018-05-02",
+  "publish_timestamp_ms": 1525252290069,
+  "version_id": "a2f1eaa9-a75a-4988-82cb-c9ecff83fd1d",
+  "in_force": "2018-05-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%9A%CE%A7%CE%A9%CE%9B0-%CE%9A6%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%9A%CE%A7%CE%A9%CE%9B0-%CE%9A6%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%95%CE%9A%CE%A7%CE%A9%CE%9B0-%CE%9A6%CE%A5",
+  "listing_sha256": "7a2803f49ff84285e4cf26a3d2a013d827edf8f030e810a1a98c9761b58ad6a5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
