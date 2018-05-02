@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "66ΑΡΩΛ0-Α17",
+  "subject": "ΑΠΟΔΟΣΗ ΚΡΑΤΗΣΕΩΝ ΓΙΑ ΦΟΡΟΣ 4%,ΦΟΡΟΣ 8% ΧΕΠ: Α/36,Α/41,Α/43,Α/44,Α/45,Α/37,Α/39,Α/40,Α/42",
+  "protocol_number": "XEP Δ54",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6170",
+    "label": "ΔΗΜΟΣ ΛΕΙΨΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83486"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-05-02",
+  "posted": "2018-05-02",
+  "publish_timestamp_ms": 1525242923733,
+  "version_id": "07b4bb5e-3903-4fc5-be0c-015eaede3dba",
+  "in_force": "2018-05-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/66%CE%91%CE%A1%CE%A9%CE%9B0-%CE%9117",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/66%CE%91%CE%A1%CE%A9%CE%9B0-%CE%9117/document",
+  "page": "https://diavgeia.gov.gr/decision/view/66%CE%91%CE%A1%CE%A9%CE%9B0-%CE%9117",
+  "listing_sha256": "9ffff2ab91eacc1ab2068cc8299b1af5094a5dc6f79cf108aab8cca59019dbe1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
