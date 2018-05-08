@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΩ5ΤΩΞΗ-ΥΒΞ",
+  "subject": "Αποδοχή χρηματοδότησης ποσού 205.291,60€ - 5 η Αναμόρφωση Προϋπολογισμού οικ. έτους 2018",
+  "protocol_number": "66",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6237",
+    "label": "ΔΗΜΟΣ ΠΑΡΑΝΕΣΤΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85007"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-05-08",
+  "posted": "2018-05-08",
+  "publish_timestamp_ms": 1525769397339,
+  "version_id": "0a894b09-3f2a-4d5e-b268-9d22b2825a2f",
+  "in_force": "2018-05-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A95%CE%A4%CE%A9%CE%9E%CE%97-%CE%A5%CE%92%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A95%CE%A4%CE%A9%CE%9E%CE%97-%CE%A5%CE%92%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A95%CE%A4%CE%A9%CE%9E%CE%97-%CE%A5%CE%92%CE%9E",
+  "listing_sha256": "b7642c34e3ad417932364cc20bc32777b5a8ab1fd21ca718b8e5958fc7f6f2c6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
