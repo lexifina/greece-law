@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔ60ΘΩΠ-ΗΘ7",
+  "subject": "Τροποποίηση απόφασης ανάθεσης αρμοδιοτήτων στην Αναπληρώτρια Υπουργό Εργασίας, Κοινωνικής Ασφάλισης και Κοινωνικής Αλληλεγγύης, Θεανώ Φωτίου",
+  "protocol_number": "Y24",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "70711"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1546",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Πράξη Πρωθυπουργού",
+    "kanonistikipraxiaa": "Y24",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-05-02",
+  "posted": "2018-05-09",
+  "publish_timestamp_ms": 1525856619403,
+  "version_id": "e410e7c4-5a7e-4bd3-9f1d-b2134a92d280",
+  "in_force": "2018-05-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9460%CE%98%CE%A9%CE%A0-%CE%97%CE%987",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9460%CE%98%CE%A9%CE%A0-%CE%97%CE%987/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9460%CE%98%CE%A9%CE%A0-%CE%97%CE%987",
+  "listing_sha256": "1fbca3b0679cdce46575c67c412004947000ee581030fe7ea487f54a7bd57eee",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
