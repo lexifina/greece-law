@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΩΚΡΩΛ1-ΞΡΦ",
+  "subject": "ΑΠΟΦΑΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ 97/2018 - Λήψη απόφασης περί άσκησης ή μη ένδικου μέσου (ανακοπή και αίτηση αναστολής) του Δήμου Λαυρεωτικής κατά της υπ’ αριθμ.19/2018 διαταγής πληρωμής που εκδόθηκε από το Ειρηνοδικείο Λαυρίου (ΣΠΥΡΟΠΟΥΛΟΙ – ΜΙΧΑΗΛΙΔΗ Ο.Ε.)",
+  "protocol_number": "6036",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6168",
+    "label": "ΔΗΜΟΣ ΛΑΥΡΕΩΤΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84234"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-04-30",
+  "posted": "2018-05-10",
+  "publish_timestamp_ms": 1525933849545,
+  "version_id": "dbc757b2-17ce-485e-9f79-fa6f51ce4eb8",
+  "in_force": "2018-05-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%9A%CE%A1%CE%A9%CE%9B1-%CE%9E%CE%A1%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%9A%CE%A1%CE%A9%CE%9B1-%CE%9E%CE%A1%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A9%CE%9A%CE%A1%CE%A9%CE%9B1-%CE%9E%CE%A1%CE%A6",
+  "listing_sha256": "5626cae2093946c6d8009e92cf489b3e764e471eee4c026329d0a54934935d27",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
