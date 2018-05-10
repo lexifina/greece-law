@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω5454653ΠΓ-Α9Η",
+  "subject": "Τροποποίηση της υπ’ αριθ. 826/72508/04-7-2017 ΚΥΑ (Β΄2334)",
+  "protocol_number": "354/57329",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100034237"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1556",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΖΡΗ4653ΠΓ-1ΨΝ"
+      }
+    ]
+  },
+  "issued": "2018-04-19",
+  "posted": "2018-05-10",
+  "publish_timestamp_ms": 1525951844109,
+  "version_id": "580b95eb-b89c-4791-a280-f5f4a01c315f",
+  "in_force": "2018-05-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95454653%CE%A0%CE%93-%CE%919%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95454653%CE%A0%CE%93-%CE%919%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A95454653%CE%A0%CE%93-%CE%919%CE%97",
+  "listing_sha256": "cf575e6a6648e148c85198ac031fff4be7b0e2116594d13d1f1d3ffb8aa33d24",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
