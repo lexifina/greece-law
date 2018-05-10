@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΜΒΞΩΡΑ-ΞΥΘ",
+  "subject": "ΑΡΙΘ. 63/2018 ΑΔΣ Προτάσεις Συμβουλίου Τ.Κ. Μυρτιάς",
+  "protocol_number": "1876",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6113",
+    "label": "ΔΗΜΟΣ ΘΕΡΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81712"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-04-12",
+  "posted": "2018-05-10",
+  "publish_timestamp_ms": 1525942978406,
+  "version_id": "6092f048-e7b1-4e48-9420-b76746e3f4a1",
+  "in_force": "2018-05-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C%CE%92%CE%9E%CE%A9%CE%A1%CE%91-%CE%9E%CE%A5%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C%CE%92%CE%9E%CE%A9%CE%A1%CE%91-%CE%9E%CE%A5%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9C%CE%92%CE%9E%CE%A9%CE%A1%CE%91-%CE%9E%CE%A5%CE%98",
+  "listing_sha256": "33fb436a2e7af241f0172feae4448388e5f704585a1ac7c4321935a062cfa809",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
