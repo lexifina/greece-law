@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΞΓΤΩ0Ο-0ΓΖ",
+  "subject": "Μερική ανάκληση της αριθμ. 321/2018 (σε Ορθή Επανάληψη)  απόφασης Δημοτικού Συμβουλίου.",
+  "protocol_number": "331/2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81430"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6176Ω0Ο-ΜΧΙ"
+      }
+    ]
+  },
+  "issued": "2018-05-07",
+  "posted": "2018-05-10",
+  "publish_timestamp_ms": 1525951408722,
+  "version_id": "74ac5990-bc0b-43d6-aedb-be4043f1c130",
+  "in_force": "2018-05-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9E%CE%93%CE%A4%CE%A90%CE%9F-0%CE%93%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9E%CE%93%CE%A4%CE%A90%CE%9F-0%CE%93%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9E%CE%93%CE%A4%CE%A90%CE%9F-0%CE%93%CE%96",
+  "listing_sha256": "8d1bc66da86324f7e15197d45d646a12d79ebf3445e687830729ecb3ec4a5c7c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
