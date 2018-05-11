@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΒ55ΩΚΜ-9ΔΒ",
+  "subject": "ΑΝΑΘΕΣΗ ΔΗΜΑΡΧΟΥ",
+  "protocol_number": "182",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6217",
+    "label": "ΔΗΜΟΣ ΝΙΣΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82452"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-05-11",
+  "posted": "2018-05-11",
+  "publish_timestamp_ms": 1526038446079,
+  "version_id": "3a133f39-af9a-40a4-bf1d-db0b022c1be0",
+  "in_force": "2018-05-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9255%CE%A9%CE%9A%CE%9C-9%CE%94%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9255%CE%A9%CE%9A%CE%9C-9%CE%94%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9255%CE%A9%CE%9A%CE%9C-9%CE%94%CE%92",
+  "listing_sha256": "56def544aef6ff405930c0c57f1b67c464a3d5ee4f725c18793452ace898d751",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
