@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΙΠΩΛΑ-1ΧΛ",
+  "subject": "Δέσμευση πίστωσης ποσού 4.000,00€ σε βάρος του ΚΑΕ 15.6413.0002 για μίσθωση πούλμαν για μεταφορά πληθυσμού σε περίπτωση έκτακτης ανάγκης",
+  "protocol_number": "7141",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6181",
+    "label": "ΔΗΜΟΣ ΜΑΝΔΡΑΣ - ΕΙΔΥΛΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83442"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-05-14",
+  "posted": "2018-05-14",
+  "publish_timestamp_ms": 1526277832573,
+  "version_id": "7bbeaa85-b2ff-47fa-8032-2097d6a92d24",
+  "in_force": "2018-05-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%99%CE%A0%CE%A9%CE%9B%CE%91-1%CE%A7%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%99%CE%A0%CE%A9%CE%9B%CE%91-1%CE%A7%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%99%CE%A0%CE%A9%CE%9B%CE%91-1%CE%A7%CE%9B",
+  "listing_sha256": "007e4f7b7939d49673eb64a5cb4e81a0b2a8c6da228cd49f1ae9d1af5ec8bc34",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
