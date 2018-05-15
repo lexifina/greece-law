@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΟΗ3ΩΞΤ-ΙΙΝ",
+  "subject": "Έγκριση μετάβασης του Δ.Σ κ. Παναγιωτίδη Μιχαήλ, στο Παρίσι και ψήφιση σχετικών δαπανών μετακίνησής του",
+  "protocol_number": "144/2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6244",
+    "label": "ΔΗΜΟΣ ΠΕΛΛΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79895"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-03-26",
+  "posted": "2018-05-15",
+  "publish_timestamp_ms": 1526363824674,
+  "version_id": "8fece92a-20dd-4185-856a-f720ff812e48",
+  "in_force": "2018-05-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F%CE%973%CE%A9%CE%9E%CE%A4-%CE%99%CE%99%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F%CE%973%CE%A9%CE%9E%CE%A4-%CE%99%CE%99%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9F%CE%973%CE%A9%CE%9E%CE%A4-%CE%99%CE%99%CE%9D",
+  "listing_sha256": "b91fcf1a5127236024da9fe11b031d77ed4e3d022c3e9275341a4b4f4973f672",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
