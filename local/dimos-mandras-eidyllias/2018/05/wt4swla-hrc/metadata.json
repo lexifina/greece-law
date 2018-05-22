@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤ4ΣΩΛΑ-ΗΡΨ",
+  "subject": "Δέσμευση πίστωσης ποσού 185.000,00€ σε βάρος του ΚΑΕ 30.7326.0006 για την κατασκευή γηπέδου ποδοσφαίρου στο ΟΤ 11 στη περιοχή «ΒΑΛΑΡΙΑ» της ΔΚ Μάνδρας.",
+  "protocol_number": "4961",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6181",
+    "label": "ΔΗΜΟΣ ΜΑΝΔΡΑΣ - ΕΙΔΥΛΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83442"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-05-22",
+  "posted": "2018-05-22",
+  "publish_timestamp_ms": 1526994083648,
+  "version_id": "65967d47-66b9-4e8c-bf52-1ca686320c24",
+  "in_force": "2018-05-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A44%CE%A3%CE%A9%CE%9B%CE%91-%CE%97%CE%A1%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A44%CE%A3%CE%A9%CE%9B%CE%91-%CE%97%CE%A1%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A44%CE%A3%CE%A9%CE%9B%CE%91-%CE%97%CE%A1%CE%A8",
+  "listing_sha256": "29fedc9e9c9cd3abc6e1937338c14b67116ec7a4ed8349595f285d836c3484e2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
