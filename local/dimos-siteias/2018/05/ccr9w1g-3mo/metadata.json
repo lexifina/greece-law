@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΨΡ9Ω1Γ-3ΜΟ",
+  "subject": "Έγκριση πρακτικού Επιτροπής και κατακύρωση αποτελέσματος συνοπτικού διαγωνισμού για την εκτέλεση της υπηρεσίας « Συντήρηση Εφαρμογών Λογισμικού έτους 2018 » Δήμου Σητείας.",
+  "protocol_number": "096/018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6273",
+    "label": "ΔΗΜΟΣ ΣΗΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80150"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "73ΣΓΩ1Γ-643"
+      }
+    ]
+  },
+  "issued": "2018-05-22",
+  "posted": "2018-05-24",
+  "publish_timestamp_ms": 1527156506685,
+  "version_id": "ffc0486a-2c76-4dd8-8859-0ecd3b94cb7d",
+  "in_force": "2018-05-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A8%CE%A19%CE%A91%CE%93-3%CE%9C%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A8%CE%A19%CE%A91%CE%93-3%CE%9C%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A8%CE%A19%CE%A91%CE%93-3%CE%9C%CE%9F",
+  "listing_sha256": "ea32727959be58cbdc3def2cec7beaf095f7e983546f2c5a59078108b61e79e8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
