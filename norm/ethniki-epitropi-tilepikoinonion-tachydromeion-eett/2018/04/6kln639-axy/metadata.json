@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΚΛΝ639-ΑΧΥ",
+  "subject": "Μεταβίβαση Αρμοδιοτήτων στους Αντιπροέδρους της ΕΕΤΤ",
+  "protocol_number": "847/36",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "7726",
+    "label": "ΕΘΝΙΚΗ ΕΠΙΤΡΟΠΗ ΤΗΛΕΠΙΚΟΙΝΩΝΙΩΝ & ΤΑΧΥΔΡΟΜΕΙΩΝ (ΕΕΤΤ)",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100005678"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1845",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Πράξη Ανεξάρτητης Αρχής",
+    "kanonistikipraxiaa": "847",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-04-16",
+  "posted": "2018-05-25",
+  "publish_timestamp_ms": 1527230071532,
+  "version_id": "7ce7cbb0-7142-486d-bf0d-5056c7472818",
+  "in_force": "2018-05-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%9B%CE%9D639-%CE%91%CE%A7%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%9B%CE%9D639-%CE%91%CE%A7%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9A%CE%9B%CE%9D639-%CE%91%CE%A7%CE%A5",
+  "listing_sha256": "977a56811a142818f8f4115043df7432b9faeca8b01cea1ce3fcd462ef87b984",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
