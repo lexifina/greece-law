@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Π6Ζ465ΦΥΟ-3ΗΞ",
+  "subject": "Επικαιροποίηση καταλόγου μηχανημάτων, εργαλείων, και οργάνων οπτικού καταστήματος και τμήματος φακών επαφής",
+  "protocol_number": "Γ1β/ΓΠ/32182",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008798"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1982",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-05-16",
+  "posted": "2018-06-05",
+  "publish_timestamp_ms": 1528183058312,
+  "version_id": "1d144efc-37c6-4332-8e70-44d60e9f1fa0",
+  "in_force": "2018-06-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A06%CE%96465%CE%A6%CE%A5%CE%9F-3%CE%97%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A06%CE%96465%CE%A6%CE%A5%CE%9F-3%CE%97%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A06%CE%96465%CE%A6%CE%A5%CE%9F-3%CE%97%CE%9E",
+  "listing_sha256": "03164a633a7006123a33662acd5a71de32104c1a4c66664807ab53e50f291aae",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
