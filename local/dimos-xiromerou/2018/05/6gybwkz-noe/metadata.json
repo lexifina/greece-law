@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΓΥΒΩΚΖ-ΝΟΕ",
+  "subject": "ΑΠΟΦΑΣΗ 72/2018 ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ ΠΕΡΙ 'ΕΓΚΡΙΣΗ ΚΑΝΟΝΙΣΜΟΥ ΕΣΩΤΕΡΙΚΩΝ ΥΠΗΡΕΣΙΩΝ Ν.Π.Ι.Δ.   ‘ΚΟΙΝΩΦΕΛΗΣ ΕΠΙΧΕΙΡΗΣΗ  ΔΗΜΟΥ  ΞΗΡΟΜΕΡΟΥ’",
+  "protocol_number": "3806",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6221",
+    "label": "ΔΗΜΟΣ ΞΗΡΟΜΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88039"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "72",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "9Ω1ΓΟΞ15-6ΤΚ"
+      }
+    ]
+  },
+  "issued": "2018-05-29",
+  "posted": "2018-06-07",
+  "publish_timestamp_ms": 1528356772732,
+  "version_id": "ed0fdb24-4bd9-417c-931f-df4722d01961",
+  "in_force": "2018-06-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%93%CE%A5%CE%92%CE%A9%CE%9A%CE%96-%CE%9D%CE%9F%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%93%CE%A5%CE%92%CE%A9%CE%9A%CE%96-%CE%9D%CE%9F%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%93%CE%A5%CE%92%CE%A9%CE%9A%CE%96-%CE%9D%CE%9F%CE%95",
+  "listing_sha256": "3606f0d7155618b1d2e6aa924ad95d351d7fe4a5d0e6fde108f09036641d494b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
