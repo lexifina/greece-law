@@ -1,0 +1,75 @@
+{
+  "year": 2018,
+  "number": 4545,
+  "url": "https://api.et.gr/apiLAW/1/2018/4545/pdf",
+  "source_sha256": "d93d90cb2e9eedc390a4a74be458f798ef723e538975e9731e2711d038986619",
+  "published": "2018-06-08",
+  "in_force": "2018-06-08",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων του άρθρου 9.",
+  "in_force_general_day": true,
+  "pages": 12,
+  "images": [
+    {
+      "page": 2,
+      "sha256": "b59e94fa3ff5bd5cf1cd9b72e5a8a5e76066a3ed2c9ff4caab30c2c7c3f13348",
+      "ext": "png",
+      "bytes": 31815,
+      "bbox": [
+        80.2,
+        106.3,
+        509.8,
+        700.5
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "e7f2478600ee1236e785c61e8c0f0b97871a3b91d940754133fd32aeeea49cc1",
+      "ext": "png",
+      "bytes": 147046,
+      "bbox": [
+        68.0,
+        111.9,
+        526.6,
+        773.9
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "81a3dde5c34a1f427dfc7640c37723c4abb64b8afaf872dd51fe738d1d8a64ea",
+      "ext": "png",
+      "bytes": 150431,
+      "bbox": [
+        59.8,
+        97.2,
+        526.1,
+        754.7
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "0fbe4188193dd0441195bd486681e098fe5e4d56191070c6d8a491ce3ff6eb00",
+      "ext": "png",
+      "bytes": 150566,
+      "bbox": [
+        68.0,
+        93.5,
+        535.3,
+        773.9
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "0f58bde1be326000713ecc21faf50668c865dc443014c29612135428c44f5f8c",
+      "ext": "png",
+      "bytes": 80618,
+      "bbox": [
+        60.9,
+        104.3,
+        527.2,
+        603.8
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
