@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΡΓΔΩΚΒ-ΚΙΖ",
+  "subject": "ΕΠΙΚΑΙΡΟΠΟΙΗΣΗ ΤΗΣ ΥΠ’ ΑΡΘΜ. 295/2016 ΑΠΟΦΑΣΗΣ ΔΗΜΑΡΧΟΥ",
+  "protocol_number": "11838",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6191",
+    "label": "ΔΗΜΟΣ ΜΕΤΑΜΟΡΦΩΣΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79340"
+  ],
+  "thematic_category_ids": [
+    "10015"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "385",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "624ΡΩΚΒ-ΖΥΕ"
+      }
+    ]
+  },
+  "issued": "2018-06-08",
+  "posted": "2018-06-08",
+  "publish_timestamp_ms": 1528452734388,
+  "version_id": "0bc304a3-ab7f-49d4-b26a-2354f170bb63",
+  "in_force": "2018-06-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%93%CE%94%CE%A9%CE%9A%CE%92-%CE%9A%CE%99%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%93%CE%94%CE%A9%CE%9A%CE%92-%CE%9A%CE%99%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A1%CE%93%CE%94%CE%A9%CE%9A%CE%92-%CE%9A%CE%99%CE%96",
+  "listing_sha256": "55a0de55e03d83b102044d696b429a2efdd439e003fcff928cb258ea12672446",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
