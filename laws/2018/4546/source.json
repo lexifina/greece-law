@@ -1,0 +1,39 @@
+{
+  "year": 2018,
+  "number": 4546,
+  "url": "https://api.et.gr/apiLAW/1/2018/4546/pdf",
+  "source_sha256": "514500fb23d055cc28abe65b0064a9d0eec9b04144ee2014b8b8da259be942b7",
+  "published": "2018-06-12",
+  "in_force": "2018-06-12",
+  "clause": "Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις του.",
+  "in_force_general_day": true,
+  "pages": 92,
+  "images": [
+    {
+      "page": 40,
+      "sha256": "3d8c0768ec582d059fd431d126634a0f52373da9bcbfab9f0a029ccddbf0346c",
+      "ext": "png",
+      "bytes": 3305,
+      "bbox": [
+        67.1,
+        385.6,
+        515.8,
+        414.0
+      ]
+    },
+    {
+      "page": 60,
+      "sha256": "5c945659b65ad338b052d9cd1adfd080d8f72732302a8786b4a707f00e8078e6",
+      "ext": "png",
+      "bytes": 15222,
+      "bbox": [
+        59.5,
+        499.6,
+        282.7,
+        529.8
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
