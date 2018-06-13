@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΓΙΗΩ0Ο-7Α4",
+  "subject": "Αναμόρφωση προϋπολογισμού για εγγραφή νέου κωδικού με τίτλο «Αποφευκτέα και μη τρoφικά υπολείμματα : Μια ολιστική προσέγγιση διαχείρισης για αστικές περιοχές» (απόφαση 616/2018 Οικονομικής Επιτροπής).",
+  "protocol_number": "445/2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81430"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "9ΟΦΡΩ0Ο-Ι6Δ"
+      }
+    ]
+  },
+  "issued": "2018-06-11",
+  "posted": "2018-06-13",
+  "publish_timestamp_ms": 1528869440025,
+  "version_id": "ffbcedd9-c2ba-4a6c-9a89-d260301af68f",
+  "in_force": "2018-06-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%93%CE%99%CE%97%CE%A90%CE%9F-7%CE%914",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%93%CE%99%CE%97%CE%A90%CE%9F-7%CE%914/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%93%CE%99%CE%97%CE%A90%CE%9F-7%CE%914",
+  "listing_sha256": "3c22db6301209c5f8b91bf539136f2ef0b6ae58f591830ed6e412fe331ba1a8d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
