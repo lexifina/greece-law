@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "934Ζ4653Π8-Ο4Ζ",
+  "subject": "Καθορισμός πράξεων, ύψους και διαδικασίας χρηματοδότησης της Ανώνυμης Εταιρείας με την επωνυμία «Διαχειριστής του Ελληνικού Δικτύου Διανομής Ηλεκτρικής Ενέργειας» (ΔΕΔΔΗΕ ΑΕ), μέσω του Προγράμματος Δημοσίων Επενδύσεων",
+  "protocol_number": "175073/382",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100030641"
+  ],
+  "thematic_category_ids": [
+    "66"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2124",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "100006584"
+        ],
+        "signerIds": [
+          "100011935"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-05-16",
+  "posted": "2018-06-14",
+  "publish_timestamp_ms": 1528991742632,
+  "version_id": "8388e2ba-1b1e-4f91-ba80-f2c544ebb295",
+  "in_force": "2018-06-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/934%CE%964653%CE%A08-%CE%9F4%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/934%CE%964653%CE%A08-%CE%9F4%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/934%CE%964653%CE%A08-%CE%9F4%CE%96",
+  "listing_sha256": "03164a633a7006123a33662acd5a71de32104c1a4c66664807ab53e50f291aae",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
