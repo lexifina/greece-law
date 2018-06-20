@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΩΞΩΡΩ-ΚΚ5",
+  "subject": "Έγκριση πραγματοποίησης δαπανών – αίτημα έκδοσης Α.Α.Υ.»",
+  "protocol_number": "103",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6091",
+    "label": "ΔΗΜΟΣ ΕΜΜΑΝΟΥΗΛ ΠΑΠΠΑ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82019"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-06-18",
+  "posted": "2018-06-20",
+  "publish_timestamp_ms": 1529482608238,
+  "version_id": "cde810dc-8783-4afd-b509-da0fbced7b83",
+  "in_force": "2018-06-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A9%CE%9E%CE%A9%CE%A1%CE%A9-%CE%9A%CE%9A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A9%CE%9E%CE%A9%CE%A1%CE%A9-%CE%9A%CE%9A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%A9%CE%9E%CE%A9%CE%A1%CE%A9-%CE%9A%CE%9A5",
+  "listing_sha256": "5375447815a469ab0d1bd84e0ea071e797cfc0aaee031c794e10f14dbfed7d6c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
