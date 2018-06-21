@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΣΒΨΟΡ10-ΡΦ8",
+  "subject": "ΕΛΕΓΧΟΣ ΝΟΜΙΜΟΤΗΤΑΣ ΤΗΣ 157/2018 ΑΠΟΦΑΣΗΣ ΟΕ ΔΗΜΟΥ ΑΛΜΥΡΟΥ",
+  "protocol_number": "1518/89132",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77990"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΙ63ΩΨ7-ΘΧΤ"
+      }
+    ]
+  },
+  "issued": "2018-06-20",
+  "posted": "2018-06-21",
+  "publish_timestamp_ms": 1529567755776,
+  "version_id": "43213098-41bf-48d5-8c32-141f79808ea6",
+  "in_force": "2018-06-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A3%CE%92%CE%A8%CE%9F%CE%A110-%CE%A1%CE%A68",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A3%CE%92%CE%A8%CE%9F%CE%A110-%CE%A1%CE%A68/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A3%CE%92%CE%A8%CE%9F%CE%A110-%CE%A1%CE%A68",
+  "listing_sha256": "d214f347734137eb4d5947622192cd69f1656b48d7f22146e9fccc8317420bd3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
