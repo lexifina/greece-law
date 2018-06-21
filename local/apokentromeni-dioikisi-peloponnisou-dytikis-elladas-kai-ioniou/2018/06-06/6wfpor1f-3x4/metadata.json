@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΩΦΠΟΡ1Φ-3Χ4",
+  "subject": "Απόφαση Κατ΄αποκοπή χορηγημάτος καθαριότητας Ε.Φ. 071-Β΄εξαμήνου",
+  "protocol_number": "69490",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76454"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2357",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-06-06",
+  "posted": "2018-06-21",
+  "publish_timestamp_ms": 1529576224578,
+  "version_id": "18b5a1d0-0282-4aa6-b528-9dd3a6507dbf",
+  "in_force": "2018-06-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%A6%CE%A0%CE%9F%CE%A11%CE%A6-3%CE%A74",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%A6%CE%A0%CE%9F%CE%A11%CE%A6-3%CE%A74/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A9%CE%A6%CE%A0%CE%9F%CE%A11%CE%A6-3%CE%A74",
+  "listing_sha256": "31db516ea022db4e20c9e835ad65e3bb2cf6d64fa89e9a95ed24bcfe4dd47b6a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
