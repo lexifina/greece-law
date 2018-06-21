@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ6ΜΥ465ΧΘΟ-ΘΦΨ",
+  "subject": "ΑΝΑΓΝΩΡΙΣΗ ΤΟΥ ΦΥΣΙΚΟΥ ΠΟΡΟΥ «ΠΗΓΗ ΚΑΒΑΣΙΛΑ» ΔΗΜΟΥ ΚΟΝΙΤΣΑΣ, ΩΣ ΙΑΜΑΤΙΚΟΥ",
+  "protocol_number": "8866",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025893",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΤΟΥΡΙΣΜΟΥ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008186"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2165",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-05-22",
+  "posted": "2018-06-21",
+  "publish_timestamp_ms": 1529580310749,
+  "version_id": "f8105e0f-86db-4898-b9b4-27d64dc3b69d",
+  "in_force": "2018-06-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%9C%CE%A5465%CE%A7%CE%98%CE%9F-%CE%98%CE%A6%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%9C%CE%A5465%CE%A7%CE%98%CE%9F-%CE%98%CE%A6%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A86%CE%9C%CE%A5465%CE%A7%CE%98%CE%9F-%CE%98%CE%A6%CE%A8",
+  "listing_sha256": "ea32727959be58cbdc3def2cec7beaf095f7e983546f2c5a59078108b61e79e8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
