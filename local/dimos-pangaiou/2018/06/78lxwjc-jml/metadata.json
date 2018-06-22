@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "78ΛΧΩΞΨ-ΞΜΛ",
+  "subject": "Επιβολή διοικητικών κυρώσεων στον  NASI JORGO  του ΜΕΤΙ",
+  "protocol_number": "8002",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6229",
+    "label": "ΔΗΜΟΣ ΠΑΓΓΑΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78415"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-06-20",
+  "posted": "2018-06-22",
+  "publish_timestamp_ms": 1529648312649,
+  "version_id": "11c448b7-c591-4555-84ff-fa18aeff63e4",
+  "in_force": "2018-06-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/78%CE%9B%CE%A7%CE%A9%CE%9E%CE%A8-%CE%9E%CE%9C%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/78%CE%9B%CE%A7%CE%A9%CE%9E%CE%A8-%CE%9E%CE%9C%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/78%CE%9B%CE%A7%CE%A9%CE%9E%CE%A8-%CE%9E%CE%9C%CE%9B",
+  "listing_sha256": "16c1b7502c7614ed8c2ba695739fe6a329e1879adbb4719f132237bed55a783c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
