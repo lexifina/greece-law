@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΜΗΟ465ΧΘΞ-3Ψ8",
+  "subject": "Χρωματισμός των Ενδεικτικών Σημάτων Τεχνικού Ελέγχου (ΕΣΤΕ) το έτος 2021",
+  "protocol_number": "Φ23/48433/530",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035926"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΒΣ9465ΧΘΞ-ΝΗ5"
+      }
+    ]
+  },
+  "issued": "2018-06-21",
+  "posted": "2018-06-22",
+  "publish_timestamp_ms": 1529656190307,
+  "version_id": "204b727b-de90-47c9-a322-1c02309ffc7d",
+  "in_force": "2018-06-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%97%CE%9F465%CE%A7%CE%98%CE%9E-3%CE%A88",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%97%CE%9F465%CE%A7%CE%98%CE%9E-3%CE%A88/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9C%CE%97%CE%9F465%CE%A7%CE%98%CE%9E-3%CE%A88",
+  "listing_sha256": "88a999a598756a49f211ed4aa3ed3da94aa02e9e5ed3b8d24ad3a0c6fc601733",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
