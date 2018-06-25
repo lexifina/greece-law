@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΨΔΚΩΚ8-ΨΜΜ",
+  "subject": "Μέτρα ρύθμισης κυκλοφορίας στον οικισμό Ευμοίρου",
+  "protocol_number": "Α.Δ.Σ.160.2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6220",
+    "label": "ΔΗΜΟΣ ΞΑΝΘΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81034"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-06-25",
+  "posted": "2018-06-25",
+  "publish_timestamp_ms": 1529913268480,
+  "version_id": "dc32e702-0b51-415b-ace3-811c61b64a07",
+  "in_force": "2018-06-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%94%CE%9A%CE%A9%CE%9A8-%CE%A8%CE%9C%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%94%CE%9A%CE%A9%CE%9A8-%CE%A8%CE%9C%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A8%CE%94%CE%9A%CE%A9%CE%9A8-%CE%A8%CE%9C%CE%9C",
+  "listing_sha256": "af27c28b5ca7c464184c596a605c27c34966bf42bfebe3dbb13c03c51658fd2d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
