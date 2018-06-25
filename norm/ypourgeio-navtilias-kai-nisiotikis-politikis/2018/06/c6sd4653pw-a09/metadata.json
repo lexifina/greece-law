@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ6ΣΔ4653ΠΩ-Α09",
+  "subject": "ΑΠΟΦΑΣΗ ΔΙΑΘΕΣΗΣ ΕΝΟΣ ΚΑΤΑΣΧΕΜΕΝΟΥ ΟΧΗΜΑΤΟΣ ΣΤΟ ΛΣ-ΕΛ.ΑΚΤ ΓΙΑ ΚΑΛΥΨΗ ΑΝΑΓΚΩΝ ΤΟΥ.",
+  "protocol_number": "2122.7-3/42101/18",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100011376"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2378",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "2",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-06-06",
+  "posted": "2018-06-25",
+  "publish_timestamp_ms": 1529914571192,
+  "version_id": "5a733554-237c-4a95-901a-b099dde560ef",
+  "in_force": "2018-06-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%A3%CE%944653%CE%A0%CE%A9-%CE%9109",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%A3%CE%944653%CE%A0%CE%A9-%CE%9109/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A86%CE%A3%CE%944653%CE%A0%CE%A9-%CE%9109",
+  "listing_sha256": "31db516ea022db4e20c9e835ad65e3bb2cf6d64fa89e9a95ed24bcfe4dd47b6a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
