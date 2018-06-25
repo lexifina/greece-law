@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΧΣΟΩΚΨ-1ΑΑ",
+  "subject": "Λήψη απόφασης σχετικά με το κληροδότημα Μαρίας χήρας  Κων/νου Παπαδάκη  κατόπιν της μη εκδήλωσης ενδιαφέροντος για την εκμίσθωση του ακινήτου αυτού",
+  "protocol_number": "9405",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6195",
+    "label": "ΔΗΜΟΣ AΓΙΟΥ ΝΙΚΟΛΑΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81923"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΨΒ5ΩΚΨ-97Γ"
+      }
+    ]
+  },
+  "issued": "2018-06-25",
+  "posted": "2018-06-25",
+  "publish_timestamp_ms": 1529904633034,
+  "version_id": "b1a7a1d5-cb90-4eab-b74b-f56c8b1904a4",
+  "in_force": "2018-06-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A7%CE%A3%CE%9F%CE%A9%CE%9A%CE%A8-1%CE%91%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A7%CE%A3%CE%9F%CE%A9%CE%9A%CE%A8-1%CE%91%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A7%CE%A3%CE%9F%CE%A9%CE%9A%CE%A8-1%CE%91%CE%91",
+  "listing_sha256": "b400e8a0fcd60492fa8f56e9bd3091b56735639c84c3223e27cf39fa296fb0bc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
