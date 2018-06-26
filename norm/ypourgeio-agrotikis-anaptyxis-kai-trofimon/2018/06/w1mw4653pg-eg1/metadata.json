@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω1ΜΩ4653ΠΓ-ΕΓ1",
+  "subject": "«Διαδικασίες ταξινόμησης, πιστοποίησης της συμμόρφωσης προς τις διατάξεις του π.δ. 57/2010 (Α΄97) και έγκρισης τύπου ή απογραφής βαμβακοσυλλεκτικών μηχανών που εισάγονται από χώρες εκτός Ε.Ε., σε εφαρμογή του Κανονισμού (ΕΕ) 2016/1628 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου (ΕΕ L 252, 16.9.1016, σ.53)»",
+  "protocol_number": "Ε2 915 / 81586",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100034197"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2362",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "100013859"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-06-08",
+  "posted": "2018-06-26",
+  "publish_timestamp_ms": 1530009189850,
+  "version_id": "865a78c3-6f7f-4022-8249-3735379c831c",
+  "in_force": "2018-06-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%9C%CE%A94653%CE%A0%CE%93-%CE%95%CE%931",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%9C%CE%A94653%CE%A0%CE%93-%CE%95%CE%931/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A91%CE%9C%CE%A94653%CE%A0%CE%93-%CE%95%CE%931",
+  "listing_sha256": "55a0de55e03d83b102044d696b429a2efdd439e003fcff928cb258ea12672446",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
