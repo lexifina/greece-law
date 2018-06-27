@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΒΕΙΩΞ1-ΓΥΚ",
+  "subject": "Έγκριση διενέργειας και τεχνικών προδιαγραφών της Υπηρεσίας με τίτλο: «Υπηρεσία απολύμανσης (απεντόμωσης & μυοκτονίας) κτιρίων και των χώρων του Δήμου Παπάγου - Χολαργού»",
+  "protocol_number": "1090",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6236",
+    "label": "ΔΗΜΟΣ ΠΑΠΑΓΟΥ - ΧΟΛΑΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81505"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΕΖ1ΩΞ1-ΤΦΘ"
+      }
+    ]
+  },
+  "issued": "2018-06-27",
+  "posted": "2018-06-27",
+  "publish_timestamp_ms": 1530085064012,
+  "version_id": "74b54664-c99f-41e9-bf65-15d3594e5b84",
+  "in_force": "2018-06-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%92%CE%95%CE%99%CE%A9%CE%9E1-%CE%93%CE%A5%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%92%CE%95%CE%99%CE%A9%CE%9E1-%CE%93%CE%A5%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%92%CE%95%CE%99%CE%A9%CE%9E1-%CE%93%CE%A5%CE%9A",
+  "listing_sha256": "d4125baaae30a3a91defc86766d505a9515d143f615faa3cc8affaf88038b597",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
