@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω09ΦΩΡΣ-Ι47",
+  "subject": "ΠΕΡΙΟΡΙΣΤΙΚΑ ΜΕΤΡΑ  ΚΥΚΛΟΦΟΡΙΑΣ",
+  "protocol_number": "22906",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6112",
+    "label": "ΔΗΜΟΣ ΘΕΡΜΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100020751"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "1592",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-06-28",
+  "posted": "2018-06-28",
+  "publish_timestamp_ms": 1530173508887,
+  "version_id": "eb543685-db5d-4a0a-9829-c6e3f275a958",
+  "in_force": "2018-06-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A909%CE%A6%CE%A9%CE%A1%CE%A3-%CE%9947",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A909%CE%A6%CE%A9%CE%A1%CE%A3-%CE%9947/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A909%CE%A6%CE%A9%CE%A1%CE%A3-%CE%9947",
+  "listing_sha256": "7e65455a2d8352a6c24d65e4f7cab58969180a2a21475869355d9ae200999217",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
