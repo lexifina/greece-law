@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΔΓΩΗ0-ΗΘ0",
+  "subject": "Μετατόπιση κλειστού περίπτερου στο πεζο-δρόμιο της οδού Λαμίας (κάτοχος αδείας εκ-μετάλλευσης περιπτέρου Φωτεινή Βουτσιλά)",
+  "protocol_number": "6353",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6306",
+    "label": "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82054"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "13/2018",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6379ΩΗ0-ΞΝΜ"
+      },
+      {
+        "relatedDecisionsADA": "ΩΒΨΤΩΗ0-94Γ"
+      }
+    ]
+  },
+  "issued": "2018-06-26",
+  "posted": "2018-07-05",
+  "publish_timestamp_ms": 1530787600269,
+  "version_id": "394dc9cb-a196-4f00-9ebe-d1608e67e59a",
+  "in_force": "2018-07-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%94%CE%93%CE%A9%CE%970-%CE%97%CE%980",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%94%CE%93%CE%A9%CE%970-%CE%97%CE%980/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%94%CE%93%CE%A9%CE%970-%CE%97%CE%980",
+  "listing_sha256": "437e7117850da57513a60d4db5d4b3673723991318e6849e168a2da95f534e14",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
