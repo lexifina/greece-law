@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Β0ΜΟΡ1Φ-0ΝΒ",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 124/2018 απόφασης του Δημοτικού Συμβουλίου του Δήμου Ακτίου-Βόνιτσας",
+  "protocol_number": "137071",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΕΟΝΩ6Ζ-ΛΡ6"
+      }
+    ]
+  },
+  "issued": "2018-07-05",
+  "posted": "2018-07-06",
+  "publish_timestamp_ms": 1530860405920,
+  "version_id": "bd5439d8-3b3c-4375-b2e7-9b968099d9bf",
+  "in_force": "2018-07-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%920%CE%9C%CE%9F%CE%A11%CE%A6-0%CE%9D%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%920%CE%9C%CE%9F%CE%A11%CE%A6-0%CE%9D%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%920%CE%9C%CE%9F%CE%A11%CE%A6-0%CE%9D%CE%92",
+  "listing_sha256": "9517a1f473f386ef3541667a60c71d1027cfbf6a4945fda17ae73eb04ab130ba",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
