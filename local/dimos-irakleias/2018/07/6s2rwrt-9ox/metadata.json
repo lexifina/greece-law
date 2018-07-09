@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Σ2ΡΩΡΤ-9ΟΧ",
+  "subject": "Απόφαση Ανάληψης Υποχρέωσης για συντήρηση και επισκευή των κλιματιστικών μηχανημάτων .",
+  "protocol_number": "7027",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6108",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80941"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΕΡΥΩΡΤ-Δ3Ε"
+      }
+    ]
+  },
+  "issued": "2018-07-09",
+  "posted": "2018-07-09",
+  "publish_timestamp_ms": 1531134524489,
+  "version_id": "8bde0cee-b534-48dd-881a-de2500b8ed36",
+  "in_force": "2018-07-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A32%CE%A1%CE%A9%CE%A1%CE%A4-9%CE%9F%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A32%CE%A1%CE%A9%CE%A1%CE%A4-9%CE%9F%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A32%CE%A1%CE%A9%CE%A1%CE%A4-9%CE%9F%CE%A7",
+  "listing_sha256": "f04094d52efd982cada203d818d53f4a50d6ef391c9703d5e5ccb717e5a3d699",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
