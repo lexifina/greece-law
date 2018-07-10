@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΑΗΗ-ΔΕ8",
+  "subject": "Καθορισμός αποζημίωσης των πληγέντων από τις πλημμύρες της 31ης\nΙανουαρίου 2015 και 1ης Φεβρουαρίου 2015 σε περιοχές της Περιφέρειας\nΣτερεάς Ελλάδας",
+  "protocol_number": "ΔΧΠ 0001662 ΕΞ 2018/Χ.Π. 1309",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2562",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-06-27",
+  "posted": "2018-07-10",
+  "publish_timestamp_ms": 1531208591761,
+  "version_id": "ff0481d8-cd8c-4b47-991b-43dcfe31319b",
+  "in_force": "2018-07-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%91%CE%97%CE%97-%CE%94%CE%958",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%91%CE%97%CE%97-%CE%94%CE%958/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%91%CE%97%CE%97-%CE%94%CE%958",
+  "listing_sha256": "0a6ec8af0c65ca932e268ef1b3af107c831f115dcb1ecee12e185cfea304537a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
