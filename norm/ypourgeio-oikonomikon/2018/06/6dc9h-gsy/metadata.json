@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΔΨ9Η-ΓΣΥ",
+  "subject": "Τροποποίηση της υπ’ αριθμ. Γ.Δ.Ο.Π. 0000945 ΕΞ 2016/Χ.Π. 1314/27-06-2016 (2062/Β’/06-07-2016) Κοινής Υπουργικής Απόφασης «Καθορισμός αποζημίωσης των πληγέντων από τις πλημμύρες του Νοεμβρίου και Δεκεμβρίου 2013 στη νήσο Ψέριμο της Περιφερειακής Ενότητας Καλύμνου»",
+  "protocol_number": "ΔΧΠ 0001657 ΕΞ 2018/Χ.Π. 1306",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2598",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-06-27",
+  "posted": "2018-07-10",
+  "publish_timestamp_ms": 1531209296424,
+  "version_id": "94c98e21-11e7-43ec-b797-a09b22fed81c",
+  "in_force": "2018-07-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%94%CE%A89%CE%97-%CE%93%CE%A3%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%94%CE%A89%CE%97-%CE%93%CE%A3%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%94%CE%A89%CE%97-%CE%93%CE%A3%CE%A5",
+  "listing_sha256": "0a6ec8af0c65ca932e268ef1b3af107c831f115dcb1ecee12e185cfea304537a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
