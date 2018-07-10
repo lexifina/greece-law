@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΝΨΥΗ-ΦΗ2",
+  "subject": "Τροποποίηση της υπ’ αριθμ. Γ.Δ.Ο.Π. 0000933 ΕΞ2016/Χ.Π. 1310/23-06-2016 (1930/Β’/29-06-2016) Κοινής Υπουργικής Απόφασης «Καθορισμός αποζημίωσης των πληγέντων από τις πλημμύρες του Νοεμβρίου και Δεκεμβρίου 2013 σε περιοχές της Περιφερειακής Ενότητας Ρόδου»",
+  "protocol_number": "ΔΧΠ 0001658 ΕΞ 2018 /Χ.Π. 1307",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2572",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-06-26",
+  "posted": "2018-07-10",
+  "publish_timestamp_ms": 1531208904046,
+  "version_id": "a601c619-4d92-4030-91d3-38642d6608d8",
+  "in_force": "2018-07-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%A8%CE%A5%CE%97-%CE%A6%CE%972",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%A8%CE%A5%CE%97-%CE%A6%CE%972/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9D%CE%A8%CE%A5%CE%97-%CE%A6%CE%972",
+  "listing_sha256": "437e7117850da57513a60d4db5d4b3673723991318e6849e168a2da95f534e14",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
