@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΧΦΓΩΚ1-ΡΤΘ",
+  "subject": "Ψήφιση πίστωσης  για κόστος επισκευής INVERTER DELTA CP-2000 series 37KW/50HP/73A",
+  "protocol_number": "10/382/2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6202",
+    "label": "ΔΗΜΟΣ ΚΑΜΕΝΩΝ ΒΟΥΡΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81097"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-07-10",
+  "posted": "2018-07-13",
+  "publish_timestamp_ms": 1531469346714,
+  "version_id": "db8b4a70-fa7c-4b8b-b62f-246c0abba0f5",
+  "in_force": "2018-07-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%A6%CE%93%CE%A9%CE%9A1-%CE%A1%CE%A4%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%A6%CE%93%CE%A9%CE%9A1-%CE%A1%CE%A4%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A7%CE%A6%CE%93%CE%A9%CE%9A1-%CE%A1%CE%A4%CE%98",
+  "listing_sha256": "cc0b0ea85b8dac0cc022d06a85c13894c6b64c09bc8196902ac30115a6787d1c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
