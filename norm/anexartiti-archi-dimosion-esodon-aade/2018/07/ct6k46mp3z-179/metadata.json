@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΤ6Κ46ΜΠ3Ζ-179",
+  "subject": "Προσθήκη νέων Κωδικών Αριθμών Δραστηριότητας",
+  "protocol_number": "ΠΟΛ 1134",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100029749"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2983",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Πράξη Ανεξάρτητης Αρχής",
+    "kanonistikipraxiaa": "ΠΟΛ 1134",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-07-17",
+  "posted": "2018-07-25",
+  "publish_timestamp_ms": 1532514499373,
+  "version_id": "b68dbbf7-522a-4748-ae6d-1fc5f5e2bbde",
+  "in_force": "2018-07-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A46%CE%9A46%CE%9C%CE%A03%CE%96-179",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A46%CE%9A46%CE%9C%CE%A03%CE%96-179/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A46%CE%9A46%CE%9C%CE%A03%CE%96-179",
+  "listing_sha256": "215903095f80251b02d8001cf786998565002e659e7c1d03e8795e4410437b9b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
