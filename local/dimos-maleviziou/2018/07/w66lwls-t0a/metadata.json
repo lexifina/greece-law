@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω66ΛΩΛΣ-Τ0Α",
+  "subject": "Διαγραφή απαιτήσεων κατά Δήμου Μαλεβιζίου, λόγω παραγραφής τους, (Παρέλευση 5ετίας).",
+  "protocol_number": "10896",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6180",
+    "label": "ΔΗΜΟΣ ΜΑΛΕΒΙΖΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82090"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-07-17",
+  "posted": "2018-07-26",
+  "publish_timestamp_ms": 1532585857686,
+  "version_id": "a1d5cf03-1e57-49b3-bfbe-ec64f6f394c9",
+  "in_force": "2018-07-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A966%CE%9B%CE%A9%CE%9B%CE%A3-%CE%A40%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A966%CE%9B%CE%A9%CE%9B%CE%A3-%CE%A40%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A966%CE%9B%CE%A9%CE%9B%CE%A3-%CE%A40%CE%91",
+  "listing_sha256": "215903095f80251b02d8001cf786998565002e659e7c1d03e8795e4410437b9b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
