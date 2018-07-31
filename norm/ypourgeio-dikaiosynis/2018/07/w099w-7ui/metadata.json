@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω099Ω-7ΘΙ",
+  "subject": "Σύσταση του Συμβουλίου Επιλογής Προϊσταμένων (Σ.Ε.Π.) του Υπουργείου Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων",
+  "protocol_number": "52759",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100010981"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3089",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "52759",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-07-31",
+  "posted": "2018-07-31",
+  "publish_timestamp_ms": 1533018616452,
+  "version_id": "8ec03ff5-d4b4-4074-8509-e91c127ab2ac",
+  "in_force": "2018-07-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9099%CE%A9-7%CE%98%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9099%CE%A9-7%CE%98%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9099%CE%A9-7%CE%98%CE%99",
+  "listing_sha256": "2311c0375d109fc59cdc537f380753ed8ea8a38657459812c6d190480b5f2999",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
