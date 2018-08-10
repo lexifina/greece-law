@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΘΘ2Ω-ΘΚΠ",
+  "subject": "\"Μεταβίβαση δικαιώματος υπογραφής «με εντολή Αναπληρωτή Υπουργού», στο Γενικό Γραμματέα Αντεγκληματικής Πολιτικής, στους Προϊσταμένους οργανικών μονάδων της Γενικής Διεύθυνσης Οικονομικών Υπηρεσιών Διοικητικής Υποστήριξης και Ηλεκτρονικής Διακυβέρνησης, στον Προϊστάμενο του Τμήματος Ποινικού Μητρώου και Απονομής Χάριτος της Κεντρικής Υπηρεσίας του Υπουργείου Δικαιοσύνης, Διαφάνειας και Ανθρωπίνων Δικαιωμάτων, καθώς και στους Προϊσταμένους των Ιατροδικαστικών Υπηρεσιών\"",
+  "protocol_number": "51744",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "94049"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3187",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "51744",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-07-25",
+  "posted": "2018-08-10",
+  "publish_timestamp_ms": 1533881763551,
+  "version_id": "d2b282ad-4824-4120-bbf1-9e40e157a77a",
+  "in_force": "2018-08-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%98%CE%982%CE%A9-%CE%98%CE%9A%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%98%CE%982%CE%A9-%CE%98%CE%9A%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%98%CE%982%CE%A9-%CE%98%CE%9A%CE%A0",
+  "listing_sha256": "ab8f7957fe3c276aaf3119a0ce0e255bf1833e27ee0ffc58e7ac8b275e150a7a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
