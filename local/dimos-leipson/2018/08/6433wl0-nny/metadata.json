@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6433ΩΛ0-ΝΝΥ",
+  "subject": "ΔΑΠΑΝΗ ΕΞΟΔΩΝ ΜΕΤΑΚΙΝΗΣΗΣ ΑΜΕΡΙΚΑΝΟΥ ΔΗΜΟΣΙΟΓΡΑΦΟΥ ΣΤΙΣ 02/05/2018",
+  "protocol_number": "XEP A314",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6170",
+    "label": "ΔΗΜΟΣ ΛΕΙΨΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83486"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-08-10",
+  "posted": "2018-08-10",
+  "publish_timestamp_ms": 1533886271848,
+  "version_id": "674123af-1c9b-47e0-9d9d-41020cb970cf",
+  "in_force": "2018-08-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6433%CE%A9%CE%9B0-%CE%9D%CE%9D%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6433%CE%A9%CE%9B0-%CE%9D%CE%9D%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6433%CE%A9%CE%9B0-%CE%9D%CE%9D%CE%A5",
+  "listing_sha256": "bb00d12f0e9800f319b532bb2799875d0eb69756bc0c9f766164fb6c522087b2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
