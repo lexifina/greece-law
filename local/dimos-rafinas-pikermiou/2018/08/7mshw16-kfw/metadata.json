@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΜΣΗΩ16-ΚΦΩ",
+  "subject": "Απόφαση Ο.Ε. υπ' αριθμ. 355/2018 περί: \"έγκρισης αποδοχής δωρεάς από την εταιρία HOUSEMARKET AE επίπλων και ειδών αποθήκευσης, λόγω της πυρκαγιάς την 23/7/2018 στο Δήμο Ραφήνας-Πικερμίου\"",
+  "protocol_number": "355/2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6262",
+    "label": "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "10734"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "24",
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-08-07",
+  "posted": "2018-08-10",
+  "publish_timestamp_ms": 1533892749778,
+  "version_id": "9c348e43-dde8-451c-9be8-342496f01571",
+  "in_force": "2018-08-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%A3%CE%97%CE%A916-%CE%9A%CE%A6%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%A3%CE%97%CE%A916-%CE%9A%CE%A6%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9C%CE%A3%CE%97%CE%A916-%CE%9A%CE%A6%CE%A9",
+  "listing_sha256": "c0e8b7935d124c2092bde42a03d2fbc1c54005f8067c6424939965f80aab18c8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
