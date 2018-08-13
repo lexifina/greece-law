@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Μ04ΩΕ1-ΥΜΧ",
+  "subject": "ΑΔΕΙΑ ΧΡΗΣΗΣ ΚΟΙΝΟΧΡΗΣΤΟΥ ΧΩΡΟΥ",
+  "protocol_number": "4733",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6134",
+    "label": "ΔΗΜΟΣ ΚΑΝΤΑΝΟΥ - ΣΕΛΙΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85160"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-08-13",
+  "posted": "2018-08-13",
+  "publish_timestamp_ms": 1534141858369,
+  "version_id": "145e9385-abd4-47fe-8b2b-f5458a7a6bb5",
+  "in_force": "2018-08-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C04%CE%A9%CE%951-%CE%A5%CE%9C%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C04%CE%A9%CE%951-%CE%A5%CE%9C%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9C04%CE%A9%CE%951-%CE%A5%CE%9C%CE%A7",
+  "listing_sha256": "554cd8854716d006bf984da616c7b37d77347d3424e12b774c112f376093e7e2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
