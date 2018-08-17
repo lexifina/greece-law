@@ -1,0 +1,49 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΨΛ8ΩΗ0-Δ31",
+  "subject": "Έγκριση ή μη πρακτικού διαγωνισμού εκμίσθωσης δημοτικής έκτασης στην Τοπική Κοινότητα Χαλκιάδων, για εγκατάσταση κτηνοτροφικών μονάδων",
+  "protocol_number": "8078",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6306",
+    "label": "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82053"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "166/2018",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω1Β6ΩΗ0-ΕΑΤ"
+      },
+      {
+        "relatedDecisionsADA": "ΩΧ8ΓΩΗ0-Ε4Ε"
+      },
+      {
+        "relatedDecisionsADA": "78ΗΔΩΗ0-Β4Ξ"
+      }
+    ]
+  },
+  "issued": "2018-08-17",
+  "posted": "2018-08-17",
+  "publish_timestamp_ms": 1534505848247,
+  "version_id": "ad481190-617a-4d6a-b661-2e8bf14555e5",
+  "in_force": "2018-08-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A8%CE%9B8%CE%A9%CE%970-%CE%9431",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A8%CE%9B8%CE%A9%CE%970-%CE%9431/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A8%CE%9B8%CE%A9%CE%970-%CE%9431",
+  "listing_sha256": "b1116aaff4fe31ce8ff7a58b400ad478a1834b40884ba65b4a451c11b7850662",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
