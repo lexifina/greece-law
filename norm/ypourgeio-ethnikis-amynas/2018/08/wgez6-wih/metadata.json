@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΕΖ6-ΩΙΗ",
+  "subject": "Τοποθέτηση οπλίτη θητείας πτυχιούχου Ιατρικής στο  Περιφερειακό Ιατρείο Οθωνών",
+  "protocol_number": "Φ. 400/237/315678 /Σ. 5167/ 2 Αυγ 18",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72216"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3452",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "3452",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100010899",
+        "unitId": [
+          "100001513"
+        ],
+        "signerIds": [
+          "100015133"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-08-17",
+  "posted": "2018-08-21",
+  "publish_timestamp_ms": 1534836261499,
+  "version_id": "ae2f4bc8-d77a-4490-963f-b2394209f312",
+  "in_force": "2018-08-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%95%CE%966-%CE%A9%CE%99%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%95%CE%966-%CE%A9%CE%99%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%95%CE%966-%CE%A9%CE%99%CE%97",
+  "listing_sha256": "b1116aaff4fe31ce8ff7a58b400ad478a1834b40884ba65b4a451c11b7850662",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
