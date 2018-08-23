@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΚ7465ΦΥΟ-Β7Μ",
+  "subject": "Σύσταση Κέντρου Ψυχικής Υγείας του Ψυχιατρικού Νοσοκομείου Αττικής με έδρα τον Δήμο Αθηναίων για την κάλυψη των αναγκών του 9ου Τομέα Ψυχικής Υγείας Αττικής.",
+  "protocol_number": "Γ3α/Γ.Π. 16079 (Σχετ: 65102, 67784)",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "91607"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3456",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025899",
+        "unitId": [
+          "100035704"
+        ],
+        "signerIds": [
+          "100025919"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-08-20",
+  "posted": "2018-08-23",
+  "publish_timestamp_ms": 1535007071258,
+  "version_id": "fe1f1a90-974e-4769-a1f7-757777cfd1b9",
+  "in_force": "2018-08-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%9A7465%CE%A6%CE%A5%CE%9F-%CE%927%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%9A7465%CE%A6%CE%A5%CE%9F-%CE%927%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%9A7465%CE%A6%CE%A5%CE%9F-%CE%927%CE%9C",
+  "listing_sha256": "2f0a480485ad087b5fa52d3aadfc13674a49fc3b1d29c5c4f1a9b1517332d55a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
