@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜ80Η-Β57",
+  "subject": "Τροποποίηση-Συμπλήρωση της υπ’ αριθ. 322/2000 Κ.Υ.Α. (ΦΕΚ 122/Β/07.02.2001) «Γράσσα οχημάτων-Προδιαγραφές και μέθοδοι ελέγχου»",
+  "protocol_number": "76/2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3292",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "76/2018",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "100025272"
+        ],
+        "signerIds": [
+          "100011935"
+        ]
+      },
+      {
+        "ministryId": "100015996",
+        "unitId": [
+          "100022141"
+        ],
+        "signerIds": [
+          "100025047"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-08-08",
+  "posted": "2018-08-23",
+  "publish_timestamp_ms": 1535009174195,
+  "version_id": "87be3575-0a33-4563-bc69-55adec4279cb",
+  "in_force": "2018-08-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C80%CE%97-%CE%9257",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C80%CE%97-%CE%9257/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C80%CE%97-%CE%9257",
+  "listing_sha256": "e5ce7763ff1c9ec606e09c3586396879433fb46bed1f003676901d8543705012",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
