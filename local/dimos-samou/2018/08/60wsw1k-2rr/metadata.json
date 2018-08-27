@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60ΩΣΩ1Κ-2ΡΡ",
+  "subject": "Αντικατάσταση μελών του Δκ/Σ του ΝΠΔΔ Δ.Ο.Π.ΠΟ.Ν.Α.Σ.",
+  "protocol_number": "217-18",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6268",
+    "label": "ΔΗΜΟΣ ΣΑΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80375"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "217",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-08-27",
+  "posted": "2018-08-27",
+  "publish_timestamp_ms": 1535362910380,
+  "version_id": "a51c258b-fcfd-410e-babd-059e76cb9297",
+  "in_force": "2018-08-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%A9%CE%A3%CE%A91%CE%9A-2%CE%A1%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%A9%CE%A3%CE%A91%CE%9A-2%CE%A1%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%A9%CE%A3%CE%A91%CE%9A-2%CE%A1%CE%A1",
+  "listing_sha256": "ce8179233d6c3d73d375cd87059264bf59f06568f9dff0850adb472e7d8060bd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
