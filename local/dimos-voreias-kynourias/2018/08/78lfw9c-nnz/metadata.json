@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "78ΛΦΩ9Ψ-ΝΝΖ",
+  "subject": "Ψήφιση πίστωσης και έγκριση δαπάνης για την υπηρεσία υποθηκοφύλακα.",
+  "protocol_number": "9005",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6059",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80793"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-08-29",
+  "posted": "2018-08-29",
+  "publish_timestamp_ms": 1535522361578,
+  "version_id": "075e9913-5994-4b4e-b8c2-8993a59ae9ca",
+  "in_force": "2018-08-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/78%CE%9B%CE%A6%CE%A99%CE%A8-%CE%9D%CE%9D%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/78%CE%9B%CE%A6%CE%A99%CE%A8-%CE%9D%CE%9D%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/78%CE%9B%CE%A6%CE%A99%CE%A8-%CE%9D%CE%9D%CE%96",
+  "listing_sha256": "7bf2bccc8d36e744fc4e4ba8d065b79304b245184594d067fd5a874e32548c9d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
