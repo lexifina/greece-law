@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Σ02465ΦΥΟ-ΝΜ1",
+  "subject": "Τροποποίηση της υπ΄ αριθμ. Α3γ/οικ. 84270/4-11-2015 (Β΄2437) υπουργικής απόφασης : Σύσταση και λειτουργία Εξωτερικού Διαβητολογικού Ιατρείου (Ε.Δ.Ι.) στην Οργανική Μονάδα έδρας στο Γενικό Νοσοκομείο Θεσσαλονίκης «Γ. Γεννηματάς».",
+  "protocol_number": "Γ2β/οικ.64146/27-8-2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035419"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3675",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "2",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-08-27",
+  "posted": "2018-08-29",
+  "publish_timestamp_ms": 1535531765078,
+  "version_id": "0da5e710-65b5-4fa1-85ab-9bb7e55fa0f3",
+  "in_force": "2018-08-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A302465%CE%A6%CE%A5%CE%9F-%CE%9D%CE%9C1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A302465%CE%A6%CE%A5%CE%9F-%CE%9D%CE%9C1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A302465%CE%A6%CE%A5%CE%9F-%CE%9D%CE%9C1",
+  "listing_sha256": "7448bc295dea598c1a3a7563743c4019dfb837d8e711a6084f0e65cecbc2a5ce",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
