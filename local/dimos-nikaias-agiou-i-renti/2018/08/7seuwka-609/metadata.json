@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΣΕΘΩΚΑ-609",
+  "subject": "Προέγκριση για υπερωριακή εργασία",
+  "protocol_number": "5983",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6215",
+    "label": "ΔΗΜΟΣ ΝΙΚΑΙΑΣ - ΑΓΙΟΥ Ι. ΡΕΝΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100037946"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-08-30",
+  "posted": "2018-08-30",
+  "publish_timestamp_ms": 1535608925072,
+  "version_id": "0e2ac864-ade0-435b-b58a-f0389cf49c24",
+  "in_force": "2018-08-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A3%CE%95%CE%98%CE%A9%CE%9A%CE%91-609",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A3%CE%95%CE%98%CE%A9%CE%9A%CE%91-609/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A3%CE%95%CE%98%CE%A9%CE%9A%CE%91-609",
+  "listing_sha256": "c30e1f6b0a1b923132b845ce196150889e3d337d57aa262cfa03c71b04fecc30",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
