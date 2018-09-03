@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "73ΖΖ465ΧΘΞ-0ΒΠ",
+  "subject": "Ορισμός Οργανικής Μονάδας της Γενικής Γραμματείας Υποδομών του Υπουργείου ΥΠΟ.ΜΕ. ως αρμόδιας για την επεξεργασία σχεδίων αποφάσεων, που εκδίδονται σύμφωνα με τον ν. 4412/2016.",
+  "protocol_number": "52",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100036610"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3435",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-09-03",
+  "posted": "2018-09-03",
+  "publish_timestamp_ms": 1535966807973,
+  "version_id": "c5b8d8e9-5dfe-4ee1-a9db-8a9c62829a62",
+  "in_force": "2018-09-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/73%CE%96%CE%96465%CE%A7%CE%98%CE%9E-0%CE%92%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/73%CE%96%CE%96465%CE%A7%CE%98%CE%9E-0%CE%92%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/73%CE%96%CE%96465%CE%A7%CE%98%CE%9E-0%CE%92%CE%A0",
+  "listing_sha256": "76bbbcbb3afa04d93d9239532953f0bd23d772596a99d8dc8307982f92adee9b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
