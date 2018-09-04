@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦ22ΩΨΒ-ΤΛΣ",
+  "subject": "Ένστασης της εταιρείας VASARTIS S.A. με αριθμό πρωτ. 13376/25-06-2018 κατά της πράξης της Διευθύνουσας Υπηρεσίας με αρ.πρωτ. 11990/08-06-2018 με θέμα την έκπτωση της εταιρείας VASARTIS S.A.",
+  "protocol_number": "297-2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82631"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-08-31",
+  "posted": "2018-09-04",
+  "publish_timestamp_ms": 1536045116974,
+  "version_id": "9f724a88-eb17-4210-9e3a-06c92c37ce8d",
+  "in_force": "2018-09-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A622%CE%A9%CE%A8%CE%92-%CE%A4%CE%9B%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A622%CE%A9%CE%A8%CE%92-%CE%A4%CE%9B%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A622%CE%A9%CE%A8%CE%92-%CE%A4%CE%9B%CE%A3",
+  "listing_sha256": "077996fa9c649f00d0850c063123ec21f595825b4f9831d5f0f3e9c060b4a168",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
