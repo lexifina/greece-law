@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜ10ΩΗ4-6Θ5",
+  "subject": "Έγκριση τεχνικών προδιαγραφών  προμήθειας υλικών γεώτρησης Βρασκά και γεώτρησης Αγίου Νεκταρίου",
+  "protocol_number": "2385",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6292",
+    "label": "ΔΗΜΟΣ ΣΦΑΚΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100012096"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "195",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΡ72ΩΗ4-ΨΞ3"
+      },
+      {
+        "relatedDecisionsADA": "6Γ6ΒΩΗ4-ΕΣ1"
+      }
+    ]
+  },
+  "issued": "2018-09-07",
+  "posted": "2018-09-07",
+  "publish_timestamp_ms": 1536317090247,
+  "version_id": "6b3a03eb-affd-4fe5-a10d-0e2c4fe843b1",
+  "in_force": "2018-09-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C10%CE%A9%CE%974-6%CE%985",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C10%CE%A9%CE%974-6%CE%985/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C10%CE%A9%CE%974-6%CE%985",
+  "listing_sha256": "bccb189edbd61f8bc825d1948f7cb2737f117afb04316c3f4aaa0cb9917d0340",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
