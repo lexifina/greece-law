@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΩ3ΡΩ-4Λ2",
+  "subject": "Δημοσίευση μίας (1) διόρθωσης σφάλματος στην Εφημερίδα της Κυβερνήσεως.",
+  "protocol_number": "51751",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "94049"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3811",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxiaa": "51751",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΘΘ2Ω-ΘΚΠ"
+      }
+    ]
+  },
+  "issued": "2018-08-22",
+  "posted": "2018-09-10",
+  "publish_timestamp_ms": 1536571005445,
+  "version_id": "124fd817-6b9d-4090-aed3-35661aaec469",
+  "in_force": "2018-09-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A93%CE%A1%CE%A9-4%CE%9B2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A93%CE%A1%CE%A9-4%CE%9B2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A93%CE%A1%CE%A9-4%CE%9B2",
+  "listing_sha256": "f24147dce223600784f8afecc38494ba8d8136e27fa99c57742d44834b83e5f0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
