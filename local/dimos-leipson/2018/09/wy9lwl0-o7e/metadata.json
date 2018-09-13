@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥ9ΛΩΛ0-Ο7Ε",
+  "subject": "Έγκριση πρωτοκόλλων παραλαβής υπηρεσιών",
+  "protocol_number": "85/2018 Απόφαση ΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6170",
+    "label": "ΔΗΜΟΣ ΛΕΙΨΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83928"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-09-13",
+  "posted": "2018-09-13",
+  "publish_timestamp_ms": 1536827172258,
+  "version_id": "6dcd4a7e-2825-4be0-891a-5a4f303ff34d",
+  "in_force": "2018-09-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A59%CE%9B%CE%A9%CE%9B0-%CE%9F7%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A59%CE%9B%CE%A9%CE%9B0-%CE%9F7%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A59%CE%9B%CE%A9%CE%9B0-%CE%9F7%CE%95",
+  "listing_sha256": "23acb17f716fce14a7ff5dfcb11ecb4e1375d2a464dd50744b2d8c771b7e9500",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
