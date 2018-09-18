@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΗΚΘΩΚ6-ΤΧ5",
+  "subject": "ΣΥΜΦΩΝΗΤΙΚΟ ΔΩΡΕΑΝ ΠΑΡΑΧΩΡΗΣΗΣ ΧΡΗΣΗΣ ΤΟΥ ΠΑΛΑΙΟΥ ΠΕΤΡΟΚΤΙΣΤΟΥ ΔΗΜΟΤΙΚΟΥ ΣΧΟΛΕΙΟΥ ΑΠΟΣΤΟΛΩΝ ΣΤΟΝ ΠΟΛΙΤΙΣΤΙΚΟ ΣΥΛΛΟΓΟ ΑΠΟΣΤΟΛΙΑΝΩΝ \"ΟΙ ΑΠΟΣΤΟΛΟΙ\"",
+  "protocol_number": "11192",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6194",
+    "label": "ΔΗΜΟΣ ΜΙΝΩΑ ΠΕΔΙΑΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83870"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΕΙΔΩΚ6-ΠΞΤ"
+      },
+      {
+        "relatedDecisionsADA": "6ΜΜΓΩΚ6-5ΑΔ"
+      }
+    ]
+  },
+  "issued": "2018-09-18",
+  "posted": "2018-09-18",
+  "publish_timestamp_ms": 1537260819428,
+  "version_id": "28d76a9a-3ae4-41eb-9ef8-4c1773eaf6b1",
+  "in_force": "2018-09-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%97%CE%9A%CE%98%CE%A9%CE%9A6-%CE%A4%CE%A75",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%97%CE%9A%CE%98%CE%A9%CE%9A6-%CE%A4%CE%A75/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%97%CE%9A%CE%98%CE%A9%CE%9A6-%CE%A4%CE%A75",
+  "listing_sha256": "f65892a549464c2f3509f1dafa2b35c3ee28929ba97d76502ee2e30913029056",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
