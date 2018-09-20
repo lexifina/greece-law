@@ -1,0 +1,57 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9Ο8Ι4653ΠΓ-ΙΨ1",
+  "subject": "Σύσταση Πολιτικού Γραφείου Υφυπουργού Αγροτικής Ανάπτυξης και Τροφίμων και σύσταση θέσεων μετακλητών διοικητικών υπαλλήλων και ενιαίων θέσεων ειδικών συμβούλων και ειδικών συνεργατών",
+  "protocol_number": "2517/124619",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100034376"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4095",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "5",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100015981",
+        "unitId": [
+          "100034376"
+        ],
+        "signerIds": [
+          "100042436"
+        ]
+      },
+      {
+        "ministryId": "15"
+      }
+    ]
+  },
+  "issued": "2018-09-17",
+  "posted": "2018-09-20",
+  "publish_timestamp_ms": 1537450046110,
+  "version_id": "a76a92ea-1eb3-4891-9d25-d31bf305a2bb",
+  "in_force": "2018-09-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9F8%CE%994653%CE%A0%CE%93-%CE%99%CE%A81",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9F8%CE%994653%CE%A0%CE%93-%CE%99%CE%A81/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%9F8%CE%994653%CE%A0%CE%93-%CE%99%CE%A81",
+  "listing_sha256": "c8fc1aa5383080cd6b9a95492f3f97553f7444c464a0e4890ccd3eb8c330f2da",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
