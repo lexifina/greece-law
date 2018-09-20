@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΣΓ7ΛΚ-ΨΓΚ",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ ΚΑΚΑΒΑΣ ΚΩΝ/ΝΟΣ",
+  "protocol_number": "218285",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81209"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-09-20",
+  "posted": "2018-09-20",
+  "publish_timestamp_ms": 1537428498719,
+  "version_id": "76ac1b97-5baf-4bc5-a2ce-285cfc16e2c0",
+  "in_force": "2018-09-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%A3%CE%937%CE%9B%CE%9A-%CE%A8%CE%93%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%A3%CE%937%CE%9B%CE%9A-%CE%A8%CE%93%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%A3%CE%937%CE%9B%CE%9A-%CE%A8%CE%93%CE%9A",
+  "listing_sha256": "279ec13abc5cf8759be385b8cc9a2aaa8ea1f2b9db55a1f604fdc2f62abe8b65",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
