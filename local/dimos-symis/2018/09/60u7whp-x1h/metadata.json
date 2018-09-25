@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60Θ7ΩΗΠ-Χ1Η",
+  "subject": "Αίτηση Ειρήνης Στριλιγκά για διαγραφή προσαυξήσεων τελών ύδρευσης",
+  "protocol_number": "3306",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6290",
+    "label": "ΔΗΜΟΣ ΣΥΜΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78543"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-09-25",
+  "posted": "2018-09-25",
+  "publish_timestamp_ms": 1537867225801,
+  "version_id": "30011305-a9ee-4239-8da3-e8df15fe980d",
+  "in_force": "2018-09-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%987%CE%A9%CE%97%CE%A0-%CE%A71%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%987%CE%A9%CE%97%CE%A0-%CE%A71%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%987%CE%A9%CE%97%CE%A0-%CE%A71%CE%97",
+  "listing_sha256": "4da8c512fe30f7c31f6cc84ddb3b922d69501a32552940508491b43139468261",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
