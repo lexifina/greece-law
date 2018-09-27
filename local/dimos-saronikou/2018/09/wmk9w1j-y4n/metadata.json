@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΚ9Ω1Ξ-Υ4Ν",
+  "subject": "Αναστολή λειτουργίας σχολικών μονάδων Δήμου Σαρωνικού",
+  "protocol_number": "421-18",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6269",
+    "label": "ΔΗΜΟΣ ΣΑΡΩΝΙΚΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79387"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-09-27",
+  "posted": "2018-09-27",
+  "publish_timestamp_ms": 1538024296800,
+  "version_id": "d4e1045a-c8bf-43fc-8367-e4f115bc4cc0",
+  "in_force": "2018-09-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%9A9%CE%A91%CE%9E-%CE%A54%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%9A9%CE%A91%CE%9E-%CE%A54%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%9A9%CE%A91%CE%9E-%CE%A54%CE%9D",
+  "listing_sha256": "880e10c01b99d9f20dd397144ce6b6537ea62c4d4c89efc925c0f546f1f2e7c8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
