@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΕΕ8ΟΡ1Κ-9ΑΡ",
+  "subject": "Έγκριση κυκλοφοριακών ρυθμίσεων σύμφωνα με τις υπ' αριθμ. 744/17 Απόφασης του Δημοτικού Συμβουλίου του Δήμου Κηφισιάς.",
+  "protocol_number": "55824/538",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50196",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΤΤΙΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76318"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4144",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-09-07",
+  "posted": "2018-10-01",
+  "publish_timestamp_ms": 1538392808040,
+  "version_id": "c5006f0e-cd3b-4552-b02f-4af47f7f0cad",
+  "in_force": "2018-10-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%95%CE%958%CE%9F%CE%A11%CE%9A-9%CE%91%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%95%CE%958%CE%9F%CE%A11%CE%9A-9%CE%91%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%95%CE%958%CE%9F%CE%A11%CE%9A-9%CE%91%CE%A1",
+  "listing_sha256": "bccb189edbd61f8bc825d1948f7cb2737f117afb04316c3f4aaa0cb9917d0340",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
