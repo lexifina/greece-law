@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΦΞΩΞΤ-1ΜΡ",
+  "subject": "Αντικατάσταση μελών του Διοικητικού Συμβουλίου του ΚΕΚΑΠΠΑ Δήμου Πέλλας",
+  "protocol_number": "004/2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6244",
+    "label": "ΔΗΜΟΣ ΠΕΛΛΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79895"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-01-26",
+  "posted": "2018-10-04",
+  "publish_timestamp_ms": 1538641846628,
+  "version_id": "a400328a-8cb1-4f54-b0e1-ed1de10f308d",
+  "in_force": "2018-10-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%A6%CE%9E%CE%A9%CE%9E%CE%A4-1%CE%9C%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%A6%CE%9E%CE%A9%CE%9E%CE%A4-1%CE%9C%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%A6%CE%9E%CE%A9%CE%9E%CE%A4-1%CE%9C%CE%A1",
+  "listing_sha256": "edfe3daa785d186cbb36d79ba141631e07a2ecb2683e9f83596c247cd59de24e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
