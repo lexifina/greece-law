@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΙΘΧΕ-Κ7Κ",
+  "subject": "ΠΡΟΕΔΡΙΚΟ ΔΙΑΤΑΓΜΑ 55/2018 \n\"ΕΦΑΡΜΟΓΗ ΤΗΣ ΑΠΟΦΑΣΗΣ 2316 (2016) ΤΟΥ ΣΥΜΒΟΥΛΙΟΥ ΑΣΦΑΛΕΙΑΣ ΤΟΥ ΟΡΓΑΝΙΣΜΟΥ ΗΝΩΜΕΝΩΝ ΕΘΝΩΝ (Ο.Η.Ε.)\" ΣΧΕΤΙΚΑ ΜΕ ΤΗ ΣΟΜΑΛΙΑ",
+  "protocol_number": "3460/ΑΣ 32669",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72603"
+  ],
+  "thematic_category_ids": [
+    "76"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "109",
+      "issue": "fektype_A",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "kanonistikipraxiaa": "55/2018",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-06-22",
+  "posted": "2018-10-04",
+  "publish_timestamp_ms": 1538664161162,
+  "version_id": "c90b7c26-6695-4348-a2dd-36aa0be070fd",
+  "in_force": "2018-10-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%99%CE%98%CE%A7%CE%95-%CE%9A7%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%99%CE%98%CE%A7%CE%95-%CE%9A7%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%99%CE%98%CE%A7%CE%95-%CE%9A7%CE%9A",
+  "listing_sha256": "bb476890fc64f2d310ef7f0aac2b11a1b613e144ea237420ee499d2509fca679",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
