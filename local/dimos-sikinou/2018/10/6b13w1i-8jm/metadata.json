@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Β13Ω1Ι-8ΞΜ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ για απευθείας ανάθεση για δημοσίευση αποφάσεων Δημοτικού Συμβουλίου",
+  "protocol_number": "129",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6275",
+    "label": "ΔΗΜΟΣ ΣΙΚΙΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100001367"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-10-01",
+  "posted": "2018-10-05",
+  "publish_timestamp_ms": 1538727723851,
+  "version_id": "137777c1-b48b-4721-9c19-15afb6c24c48",
+  "in_force": "2018-10-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9213%CE%A91%CE%99-8%CE%9E%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9213%CE%A91%CE%99-8%CE%9E%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9213%CE%A91%CE%99-8%CE%9E%CE%9C",
+  "listing_sha256": "d7e383c5964cc9d6239eb47942b421445cf4819ae07d320dafe3e3077d59b11a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
