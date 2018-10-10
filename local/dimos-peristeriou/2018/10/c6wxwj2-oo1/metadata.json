@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ6ΩΧΩΞ2-ΟΟ1",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ ΤΕΣΣΑΡΩΝ ΥΠΑΛΛΗΛΩΝ ΤΟΥ ΔΗΜΟΥ",
+  "protocol_number": "οικ.39793",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78010"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-10-09",
+  "posted": "2018-10-10",
+  "publish_timestamp_ms": 1539156001772,
+  "version_id": "5ce03c3d-77bd-4a02-8029-828035ee0228",
+  "in_force": "2018-10-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%A9%CE%A7%CE%A9%CE%9E2-%CE%9F%CE%9F1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%A9%CE%A7%CE%A9%CE%9E2-%CE%9F%CE%9F1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A86%CE%A9%CE%A7%CE%A9%CE%9E2-%CE%9F%CE%9F1",
+  "listing_sha256": "7dcd6478b2a99efd11c334edd65099934dfa71898f76985ddecbb0723f4d08b7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
