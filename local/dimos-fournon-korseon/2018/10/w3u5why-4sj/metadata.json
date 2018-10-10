@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω3Θ5ΩΗΥ-4ΣΞ",
+  "subject": "ΠΡΟΣΚΛΗΣΗ ΓΙΑ Ο.Ε.",
+  "protocol_number": "1615",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6311",
+    "label": "ΔΗΜΟΣ ΦΟΥΡΝΩΝ ΚΟΡΣΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85390"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-10-09",
+  "posted": "2018-10-10",
+  "publish_timestamp_ms": 1539163943229,
+  "version_id": "d1862e6a-63d2-4bb6-851f-e26d9f10e495",
+  "in_force": "2018-10-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%985%CE%A9%CE%97%CE%A5-4%CE%A3%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%985%CE%A9%CE%97%CE%A5-4%CE%A3%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A93%CE%985%CE%A9%CE%97%CE%A5-4%CE%A3%CE%9E",
+  "listing_sha256": "7dcd6478b2a99efd11c334edd65099934dfa71898f76985ddecbb0723f4d08b7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
