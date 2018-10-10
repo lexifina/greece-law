@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60ΕΩΩ0Ο-9ΛΙ",
+  "subject": "Μη άσκηση ενδίκου μέσου κατά της με αριθμό 414/2018 απόφασης του Μ.Π.Η",
+  "protocol_number": "938/2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81432"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "938/2018",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-10-09",
+  "posted": "2018-10-10",
+  "publish_timestamp_ms": 1539151547325,
+  "version_id": "6020d14b-d9b1-49a2-aa81-aaaa6ef81ad0",
+  "in_force": "2018-10-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%95%CE%A9%CE%A90%CE%9F-9%CE%9B%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%95%CE%A9%CE%A90%CE%9F-9%CE%9B%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%95%CE%A9%CE%A90%CE%9F-9%CE%9B%CE%99",
+  "listing_sha256": "059f64ad860f8a5e71f1cf156846b59d1354bfa9c6c1b44b09a6f571ea2c66b3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
