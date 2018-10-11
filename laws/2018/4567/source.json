@@ -1,0 +1,63 @@
+{
+  "year": 2018,
+  "number": 4567,
+  "url": "https://api.et.gr/apiLAW/1/2018/4567/pdf",
+  "source_sha256": "199dce8048d88931bbe2ed8b2c5b783d28a03172fa7f36027fcb4eac2cac4985",
+  "published": "2018-10-11",
+  "in_force": "2018-10-11",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως και της Συμφωνίας που κυρώνεται από την πλήρωση των προϋποθέσεων της παραγράφου 9α αυτής.",
+  "in_force_general_day": true,
+  "pages": 8,
+  "images": [
+    {
+      "page": 2,
+      "sha256": "5795b845dc5a574307b92edb6b8e8dbced6148e6f93eb5c81a83c416a928e22d",
+      "ext": "png",
+      "bytes": 81634,
+      "bbox": [
+        96.4,
+        100.6,
+        493.2,
+        717.2
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "bc2344d91ffd55ec3e01c97dc5464b3b5ffbd9eeb0ac51a86d1c809441388440",
+      "ext": "png",
+      "bytes": 109451,
+      "bbox": [
+        104.9,
+        106.3,
+        501.7,
+        717.2
+      ]
+    },
+    {
+      "page": 4,
+      "sha256": "c852d7a7fc8ee9df784cd8220b8aba94999dd4f1a6be3472199d84fe5fae3c1c",
+      "ext": "png",
+      "bytes": 118495,
+      "bbox": [
+        99.9,
+        113.4,
+        491.1,
+        727.1
+      ]
+    },
+    {
+      "page": 5,
+      "sha256": "1a2596c0d8e8ba829bb470b455b3c8ce2e47267a083f52d771a6a9850968f085",
+      "ext": "png",
+      "bytes": 38725,
+      "bbox": [
+        106.3,
+        113.4,
+        497.5,
+        504.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
