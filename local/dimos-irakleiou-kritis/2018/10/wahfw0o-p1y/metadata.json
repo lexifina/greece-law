@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΑΗΦΩ0Ο-Π1Υ",
+  "subject": "Έγκριση πρωτοκόλλου παραλαβής αντικειμένου σύμβασης παροχής υπηρεσιών για το  φεστιβάλ «Κρήτη, Μία ιστορία, 5+1 πολιτισμοί».",
+  "protocol_number": "854/2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81430"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΜΠΥΩ0Ο-93Π"
+      },
+      {
+        "relatedDecisionsADA": "ΨΤΕΖΩ0Ο-Γ4Υ"
+      }
+    ]
+  },
+  "issued": "2018-10-08",
+  "posted": "2018-10-11",
+  "publish_timestamp_ms": 1539241590425,
+  "version_id": "db2db82a-0d90-4d55-90f2-a6eb0fa92dd1",
+  "in_force": "2018-10-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%91%CE%97%CE%A6%CE%A90%CE%9F-%CE%A01%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%91%CE%97%CE%A6%CE%A90%CE%9F-%CE%A01%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%91%CE%97%CE%A6%CE%A90%CE%9F-%CE%A01%CE%A5",
+  "listing_sha256": "336841816b726b931f8ac80dab732ad6ffeda96af5d37f872a07709317ea9943",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
