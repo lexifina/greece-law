@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω4ΘΙΩΛ8-54Θ",
+  "subject": "Εγκριση δαπάνης/ Εξειδίκευση πίστωσης για ορισμό πληρεξουσίου Δικηγόρου για την παράστασή του ενώπιον του Ειρηνοδικείου Μεγαλόπολης στη δικάσιμο της 16ης Οκτωβρίου 2018 κατά τη συζήτηση αγωγής των 1) Παναγιώτη Μαντζουράνη, 2) Ιωάννη Μαντζουράνη και 3) Παύλου Μαντζουράνη κατά του Δήμου Μεγαλόπολης",
+  "protocol_number": "436/2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6186",
+    "label": "ΔΗΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85027"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-10-11",
+  "posted": "2018-10-12",
+  "publish_timestamp_ms": 1539333985206,
+  "version_id": "101904a8-2750-41c2-a86a-05d997d77c5c",
+  "in_force": "2018-10-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A94%CE%98%CE%99%CE%A9%CE%9B8-54%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A94%CE%98%CE%99%CE%A9%CE%9B8-54%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A94%CE%98%CE%99%CE%A9%CE%9B8-54%CE%98",
+  "listing_sha256": "1fe6908d9d17e0ceaf3110ed893f1d521dea34263f764037aabc5df64cd396cc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
