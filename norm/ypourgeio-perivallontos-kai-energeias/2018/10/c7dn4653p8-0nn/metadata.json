@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ7ΔΝ4653Π8-0ΝΝ",
+  "subject": "Σύσταση και συγκρότηση Επιτελικής Επιτροπής Παρακολούθησης της εκπόνησης του νέου Ειδικού Χωροταξικού Πλαισίου για τον Τουρισμό",
+  "protocol_number": "66495/9696",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100022141"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025893",
+        "unitId": [
+          "100022158"
+        ],
+        "signerIds": [
+          "100015646"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-10-03",
+  "posted": "2018-10-25",
+  "publish_timestamp_ms": 1540464868312,
+  "version_id": "3a8d252b-366a-4da0-9094-a6627eeed215",
+  "in_force": "2018-10-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A87%CE%94%CE%9D4653%CE%A08-0%CE%9D%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A87%CE%94%CE%9D4653%CE%A08-0%CE%9D%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A87%CE%94%CE%9D4653%CE%A08-0%CE%9D%CE%9D",
+  "listing_sha256": "818b5714a6e835ae85ed383a623e482859e88fe0b40d1eeb181fededd5126b7a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
