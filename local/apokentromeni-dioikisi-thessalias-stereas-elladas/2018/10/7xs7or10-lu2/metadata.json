@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΧΣ7ΟΡ10-ΛΘ2",
+  "subject": "ΕΛΕΓΧΟΣ ΝΟΜΙΜΟΤΗΤΑΣ ΤΗΣ ΥΠ'ΑΡΙΘΜ. 468/2018 ΑΠΟΦΑΣΗΣ ΔΣ ΔΕΥΑΜΒ",
+  "protocol_number": "3008/173589",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77990"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΞΨΕΟΕΠΘ-ΗΣΔ"
+      }
+    ]
+  },
+  "issued": "2018-10-25",
+  "posted": "2018-10-26",
+  "publish_timestamp_ms": 1540536398365,
+  "version_id": "69a77142-4036-4987-aa9a-58c059f9d492",
+  "in_force": "2018-10-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A7%CE%A37%CE%9F%CE%A110-%CE%9B%CE%982",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A7%CE%A37%CE%9F%CE%A110-%CE%9B%CE%982/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A7%CE%A37%CE%9F%CE%A110-%CE%9B%CE%982",
+  "listing_sha256": "7ab8594d8170c6512df61268817997259752fd125d5f15be36c5377cdcd3c7a8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
