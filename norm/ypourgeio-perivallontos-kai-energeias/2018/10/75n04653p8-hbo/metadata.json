@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "75Ν04653Π8-ΗΒΟ",
+  "subject": "Τροποποίηση της αριθμ. ΥΠΕΝ/ΥΠΡΓ/48123/6983/23.7.2018 απόφασης του Υπουργού Περιβάλλοντος και Ενέργειας «Διαδικασίες ηλεκτρονικής υποβολής, ελέγχου και έκδοσης των διοικητικών πράξεων του άρθρου 29 του ν.4495/2017 και καθορισμός ηλεκτρονικών υπηρεσιών σύμφωνα με τις διατάξεις του άρθρου 33 του ν.4495/2017» (Β’ 3136) όπως ισχύει.",
+  "protocol_number": "ΥΠΕΝ/ΔΑΟΚΑ/71913/4555",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100022141"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4747",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-10-19",
+  "posted": "2018-10-31",
+  "publish_timestamp_ms": 1540971377640,
+  "version_id": "578bb289-40f3-4376-9d66-3888b1b846c2",
+  "in_force": "2018-10-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/75%CE%9D04653%CE%A08-%CE%97%CE%92%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/75%CE%9D04653%CE%A08-%CE%97%CE%92%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/75%CE%9D04653%CE%A08-%CE%97%CE%92%CE%9F",
+  "listing_sha256": "60082f843c62a0192a73447e341f3a347dafc9c883985c44b3e2951eb5ad9f31",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
