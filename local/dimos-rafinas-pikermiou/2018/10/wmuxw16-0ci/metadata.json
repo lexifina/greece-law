@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΘΧΩ16-0ΨΙ",
+  "subject": "ΑΠΟΦΑΣΗ Δ.Σ. ΥΠ. ΑΡΙΘΜΟΝ 403/2018 (ΠΕΡΙ ΓΝΩΜΟΔΟΤΗΣΗΣ ΕΠΙ ΤΗΣ ΠΟΛΕΟΔΟΜΙΚΗΣ ΜΕΛΕΤΗΣ ΕΠΕΚΤΑΣΗΣ ΚΑΙ ΑΝΑΘΕΩΡΗΣΗΣ ΣΤΟ Ο.Τ. 255 ΤΟΥ ΣΧΕΔΙΟΥ ΠΟΛΕΩΣ ΤΗΣ ΠΕΡΙΟΧΗΣ ΄΄ΚΟΚΚΙΝΟ ΛΙΜΑΝΑΚΙ΄΄ ΠΟΥ ΕΓΚΡΙΘΗΚΕ ΜΕ ΤΟ ΦΕΚ 43/ΑΑΠ/2012",
+  "protocol_number": "403",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6262",
+    "label": "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100007442"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "52",
+    "72"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "403/2018",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-10-22",
+  "posted": "2018-10-31",
+  "publish_timestamp_ms": 1540977801855,
+  "version_id": "435bdacb-90a7-4b7d-80d4-bcb4a7807a73",
+  "in_force": "2018-10-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%98%CE%A7%CE%A916-0%CE%A8%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%98%CE%A7%CE%A916-0%CE%A8%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%98%CE%A7%CE%A916-0%CE%A8%CE%99",
+  "listing_sha256": "8e4b82b67abab5bc6d880b7540e999d3dc8c0deb1336b387a9af1682f5470eb9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
