@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΩΙΖΩΡΡ-ΦΚΘ",
+  "subject": "΄Εκτακτη απόφαση γνωμοδότηση επιτροπής οχημάτων",
+  "protocol_number": "56",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6095",
+    "label": "ΔΗΜΟΣ ΕΡΜΙΟΝΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81515"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-10-31",
+  "posted": "2018-11-02",
+  "publish_timestamp_ms": 1541162465989,
+  "version_id": "58f2b5a3-107c-405a-94de-74f54305e412",
+  "in_force": "2018-11-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%99%CE%96%CE%A9%CE%A1%CE%A1-%CE%A6%CE%9A%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%99%CE%96%CE%A9%CE%A1%CE%A1-%CE%A6%CE%9A%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A9%CE%99%CE%96%CE%A9%CE%A1%CE%A1-%CE%A6%CE%9A%CE%98",
+  "listing_sha256": "4e5ac9afd30f8cfd06188db529954223bd619641b41a0a3ee76ced6d3e991095",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
