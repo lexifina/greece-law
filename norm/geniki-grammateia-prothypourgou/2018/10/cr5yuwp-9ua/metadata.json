@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΡ5ΥΘΩΠ-9ΘΑ",
+  "subject": "Ανάθεση αρμοδιοτήτων στον Αναπληρωτή Υπουργό Εξωτερικών Γεώργιο Κατρούγκαλο",
+  "protocol_number": "Υ97",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "70711"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4897",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Πράξη Πρωθυπουργού",
+    "kanonistikipraxiaa": "Υ97",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-10-30",
+  "posted": "2018-11-02",
+  "publish_timestamp_ms": 1541158200236,
+  "version_id": "673d76a5-95b0-4155-b958-0c13995b534f",
+  "in_force": "2018-11-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A15%CE%A5%CE%98%CE%A9%CE%A0-9%CE%98%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A15%CE%A5%CE%98%CE%A9%CE%A0-9%CE%98%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A15%CE%A5%CE%98%CE%A9%CE%A0-9%CE%98%CE%91",
+  "listing_sha256": "ad570e4075eec63cd4a37681369f34464ddfb044e58ecf88022b512191afb0b3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
