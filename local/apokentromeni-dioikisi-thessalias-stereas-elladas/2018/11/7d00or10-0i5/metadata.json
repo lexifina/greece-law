@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Δ00ΟΡ10-0Ι5",
+  "subject": "ΕΛΕΓΧΟΣ ΝΟΜΙΜΟΤΗΤΑΣ ΤΗΣ ΥΠ'ΑΡΙΘΜ. 719/2018 ΑΠΟΦΑΣΗΣ ΔΣ ΔΗΜΟΥ ΒΟΛΟΥ",
+  "protocol_number": "3034/175690",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77990"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΔΦΩΩ96-ΜΡΟ"
+      }
+    ]
+  },
+  "issued": "2018-11-05",
+  "posted": "2018-11-06",
+  "publish_timestamp_ms": 1541488710898,
+  "version_id": "a54af92d-0091-40c0-acea-8ce3b6609c43",
+  "in_force": "2018-11-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9400%CE%9F%CE%A110-0%CE%995",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9400%CE%9F%CE%A110-0%CE%995/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9400%CE%9F%CE%A110-0%CE%995",
+  "listing_sha256": "904f3391d9fb97c922ae8f82824aa2a3677963fb0e7cf5b9350e20a331cba81d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
