@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΤΣΩΨ4-ΜΟΛ",
+  "subject": "Περί της απαλλαγής υπολόγου του υπό αριθ.46/Β/23-7-2018, χρηματικού εντάλματος.",
+  "protocol_number": "6632/6-11-2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6020",
+    "label": "ΔΗΜΟΣ ΑΛΙΑΡΤΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "94966"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "139/2018",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-11-06",
+  "posted": "2018-11-06",
+  "publish_timestamp_ms": 1541503309194,
+  "version_id": "a678f564-e712-4742-ae1b-bad8e4c56a89",
+  "in_force": "2018-11-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A4%CE%A3%CE%A9%CE%A84-%CE%9C%CE%9F%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A4%CE%A3%CE%A9%CE%A84-%CE%9C%CE%9F%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%A4%CE%A3%CE%A9%CE%A84-%CE%9C%CE%9F%CE%9B",
+  "listing_sha256": "2560c66ed9106502ed3203693c24b4b507748604e4d1ec58aa7606c2989c3555",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
