@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΚΚΚΩΨΚ-4ΑΡ",
+  "subject": "Απόφαση Δημάρχου για έγκριση δαπανών και διάθεση πιστώσεων",
+  "protocol_number": "9298/2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6030",
+    "label": "ΔΗΜΟΣ ΑΜΦΙΚΛΕΙΑΣ - ΕΛΑΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83427"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "9298/2018",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-11-14",
+  "posted": "2018-11-14",
+  "publish_timestamp_ms": 1542197407293,
+  "version_id": "02d0e4c9-582e-4c97-afda-c14e7f59c0e9",
+  "in_force": "2018-11-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%9A%CE%9A%CE%A9%CE%A8%CE%9A-4%CE%91%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%9A%CE%9A%CE%A9%CE%A8%CE%9A-4%CE%91%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9A%CE%9A%CE%9A%CE%A9%CE%A8%CE%9A-4%CE%91%CE%A1",
+  "listing_sha256": "004c1542e9c4879b1b0f45f77de05f6d94b55a0ebb57f26f01669cc9ce51cf55",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
