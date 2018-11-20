@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "78ΚΕΟΡ1Ι-ΦΦΑ",
+  "subject": "Απόφαση έγκρισης τευχών δημοπράτησης και δημοπράτηση για το έργο «Παρόδιοι Καθαρισμοί Βλάστησης και Βελτίωση -  Ολοκλήρωση Δασικού Φυλακίου Δημόσιου Δάσους Κρατήγου»",
+  "protocol_number": "68961",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76960"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΜΑ6ΟΡ1Ι-Δ5Ε"
+      },
+      {
+        "relatedDecisionsADA": "ΩΑΤΖ4653Π8-ΙΩΗ"
+      },
+      {
+        "relatedDecisionsADA": "ΩΡΙΥΟΡ1Ι-ΟΞΙ"
+      }
+    ]
+  },
+  "issued": "2018-11-14",
+  "posted": "2018-11-20",
+  "publish_timestamp_ms": 1542704274046,
+  "version_id": "d6c81f90-ee75-4372-bc52-48030f1134be",
+  "in_force": "2018-11-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/78%CE%9A%CE%95%CE%9F%CE%A11%CE%99-%CE%A6%CE%A6%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/78%CE%9A%CE%95%CE%9F%CE%A11%CE%99-%CE%A6%CE%A6%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/78%CE%9A%CE%95%CE%9F%CE%A11%CE%99-%CE%A6%CE%A6%CE%91",
+  "listing_sha256": "ecde39f7a689de3fa79746d854c834f45a94afe446b532937b341aeac1cf6fd8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
