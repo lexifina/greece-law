@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΔΧΦΩ9Ψ-934",
+  "subject": "Καθιέρωση υπερωριακής απασχόλησης Α' εξαμήνου 2019",
+  "protocol_number": "11937",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6059",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83001"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5212",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-11-14",
+  "posted": "2018-11-21",
+  "publish_timestamp_ms": 1542799596257,
+  "version_id": "b155fbd4-a5db-4596-8f6c-ffba8c140fa0",
+  "in_force": "2018-11-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%94%CE%A7%CE%A6%CE%A99%CE%A8-934",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%94%CE%A7%CE%A6%CE%A99%CE%A8-934/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%94%CE%A7%CE%A6%CE%A99%CE%A8-934",
+  "listing_sha256": "ecde39f7a689de3fa79746d854c834f45a94afe446b532937b341aeac1cf6fd8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
