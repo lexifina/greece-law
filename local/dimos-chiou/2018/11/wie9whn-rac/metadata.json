@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΕ9ΩΗΝ-ΡΑΨ",
+  "subject": "Καθιέρωση λειτουργίας Πολιτικής Προστασίας σε 24ωρη βάση, καθιέρωση ωραρίου κατά τις νυχτερινές ώρες και Κυριακές και εξαιρέσιμες προς συμπλήρωση της εβδομαδιαίας υποχρεωτικής εργασίας.",
+  "protocol_number": "37257",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81042"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "190",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "732/2018",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-11-23",
+  "posted": "2018-11-23",
+  "publish_timestamp_ms": 1542956406189,
+  "version_id": "a2607b7c-3e4b-4b73-b972-ea541364b161",
+  "in_force": "2018-11-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%959%CE%A9%CE%97%CE%9D-%CE%A1%CE%91%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%959%CE%A9%CE%97%CE%9D-%CE%A1%CE%91%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%959%CE%A9%CE%97%CE%9D-%CE%A1%CE%91%CE%A8",
+  "listing_sha256": "d20a6b9bcf0cba3d87f3bfd40f81d65c6a79f77f2b92c05a8cb88516d1b47a08",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
