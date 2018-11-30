@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΡΒΑΩΡΞ-91Ρ",
+  "subject": "Ανάκληση της υπ’ αριθ. 202/2018 απόφασης του Δημοτικού Συμβουλίου με θέμα: «Ορισμός διαχειριστών του Δήμου Ζαγορίου στην Τράπεζα της Ελλάδος» και ορισμός εκ νέου.",
+  "protocol_number": "261",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6099",
+    "label": "ΔΗΜΟΣ ΖΑΓΟΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93560"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Χ85ΩΡΞ-ΙΚΙ"
+      }
+    ]
+  },
+  "issued": "2018-11-19",
+  "posted": "2018-11-30",
+  "publish_timestamp_ms": 1543569103557,
+  "version_id": "70e05cd7-8e9b-4171-b4f9-ce333628e1a4",
+  "in_force": "2018-11-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%92%CE%91%CE%A9%CE%A1%CE%9E-91%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%92%CE%91%CE%A9%CE%A1%CE%9E-91%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A1%CE%92%CE%91%CE%A9%CE%A1%CE%9E-91%CE%A1",
+  "listing_sha256": "7044a783fae57ee749b2f0e851a51176109d2cfb4b58c09bfa5afed874dca402",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
