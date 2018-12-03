@@ -1,0 +1,52 @@
+{
+  "year": 2018,
+  "number": 4577,
+  "url": "https://api.et.gr/apiLAW/1/2018/4577/pdf",
+  "source_sha256": "c5f0af433db1e11a264f056908d7ca22a03e74b403a7e30615ec54f4d2ebb825",
+  "published": "2018-12-03",
+  "in_force": "2018-12-03",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 12,
+  "images": [
+    {
+      "page": 9,
+      "sha256": "bc80ce61b65916fcf5a34772bc7fcd5ad9a4ea155cc82fca46cede3c5b696998",
+      "ext": "png",
+      "bytes": 125049,
+      "bbox": [
+        83.7,
+        93.5,
+        520.2,
+        728.4
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "4c94b4316718a432484147f307e63a78d134d947c2de947f1df23be10c00ac36",
+      "ext": "png",
+      "bytes": 135747,
+      "bbox": [
+        75.2,
+        93.5,
+        511.7,
+        727.0
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "08412a6ca0db29d9221074c101e1d979b50db6aa0516bf91e57b0b95c8c9f12c",
+      "ext": "jpeg",
+      "bytes": 1852402,
+      "bbox": [
+        68.0,
+        93.5,
+        535.7,
+        773.9
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: qualified commencement: Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν άλλως ορίζεται στις επιμέρους διατάξεις."
+}
