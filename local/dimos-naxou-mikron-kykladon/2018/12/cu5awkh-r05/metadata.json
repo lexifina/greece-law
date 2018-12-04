@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΘ5ΑΩΚΗ-Ρ05",
+  "subject": "Έγκριση πρωτοκόλλων παραλαβής-βεβαιώσεων καλής εκτέλεσης υπηρεσιών",
+  "protocol_number": "ΑΠ109_2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6203",
+    "label": "ΔΗΜΟΣ ΝΑΞΟΥ & ΜΙΚΡΩΝ ΚΥΚΛΑΔΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91144"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΕΒΟΩΚΗ-5ΕΓ"
+      }
+    ]
+  },
+  "issued": "2018-12-04",
+  "posted": "2018-12-04",
+  "publish_timestamp_ms": 1543918147773,
+  "version_id": "7c225174-3013-42e3-a109-c09f32408e98",
+  "in_force": "2018-12-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%985%CE%91%CE%A9%CE%9A%CE%97-%CE%A105",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%985%CE%91%CE%A9%CE%9A%CE%97-%CE%A105/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%985%CE%91%CE%A9%CE%9A%CE%97-%CE%A105",
+  "listing_sha256": "42242a6eeb8f1ca5e7b1f9eef9a8e9dff01af9936875af6478d8a59820965881",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
