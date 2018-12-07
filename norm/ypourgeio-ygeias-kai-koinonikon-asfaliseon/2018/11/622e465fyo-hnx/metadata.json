@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "622Ε465ΦΥΟ-ΗΝΧ",
+  "subject": "Επέκταση της ειδικής άδειας μετ΄ αποδοχών του άρθρου 105 του ν.2071/1992 σε περαιτέρω τμήματα και ειδικές μονάδες των Νοσηλευτικών Ιδρυμάτων Ν.Π.Δ.Δ. και Ν.Π.Ι.Δ.",
+  "protocol_number": "Γ2α/65797",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78927"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5489",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025899",
+        "unitId": [
+          "100005000"
+        ],
+        "signerIds": [
+          "100042376"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100009868"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-11-27",
+  "posted": "2018-12-07",
+  "publish_timestamp_ms": 1544179692726,
+  "version_id": "5890a4d9-801d-4b8c-9f77-b80c3a7d8edb",
+  "in_force": "2018-12-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/622%CE%95465%CE%A6%CE%A5%CE%9F-%CE%97%CE%9D%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/622%CE%95465%CE%A6%CE%A5%CE%9F-%CE%97%CE%9D%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/622%CE%95465%CE%A6%CE%A5%CE%9F-%CE%97%CE%9D%CE%A7",
+  "listing_sha256": "36fbacb954514cccc3baa4482a2a53c93cf45e695f3ec5af0e60366f9e46df20",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
