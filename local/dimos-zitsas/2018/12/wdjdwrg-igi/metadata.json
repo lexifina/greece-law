@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΞΔΩΡΓ-ΙΓΙ",
+  "subject": "Μερική Ανάκληση ποσού από τον Κ.Α.Ε. με τίτλο \"Ανακαίνιση Πνευματικού κέντρου Τ.Κ Πετσαλίου\".",
+  "protocol_number": "17141",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6103",
+    "label": "ΔΗΜΟΣ ΖΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81762"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-12-10",
+  "posted": "2018-12-10",
+  "publish_timestamp_ms": 1544426281291,
+  "version_id": "5a30aeae-34b2-4b8a-8bc9-48a71f5a317d",
+  "in_force": "2018-12-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%9E%CE%94%CE%A9%CE%A1%CE%93-%CE%99%CE%93%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%9E%CE%94%CE%A9%CE%A1%CE%93-%CE%99%CE%93%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%9E%CE%94%CE%A9%CE%A1%CE%93-%CE%99%CE%93%CE%99",
+  "listing_sha256": "e99f280706c07d0199395c9f38c3ae04c9eae996f6f4943326c15007dc0fc49b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
