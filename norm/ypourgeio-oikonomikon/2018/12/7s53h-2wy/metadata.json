@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Σ53Η-2ΩΥ",
+  "subject": "Καταβολή εφάπαξ χρηματικού ποσού στα πρόσωπα του άρθρου 15 του ν.4575/2018",
+  "protocol_number": "170285/0092",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100009869"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5503",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "170285",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100012977",
+        "unitId": [
+          "100035798"
+        ],
+        "signerIds": [
+          "100015491"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-12-05",
+  "posted": "2018-12-10",
+  "publish_timestamp_ms": 1544433315131,
+  "version_id": "848b7882-ee4e-41e3-89d1-c0b69b92f065",
+  "in_force": "2018-12-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A353%CE%97-2%CE%A9%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A353%CE%97-2%CE%A9%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A353%CE%97-2%CE%A9%CE%A5",
+  "listing_sha256": "d73669d06a006dbd23d968211444593ebc2be481aa3ae39820ced2871f4b2e04",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
