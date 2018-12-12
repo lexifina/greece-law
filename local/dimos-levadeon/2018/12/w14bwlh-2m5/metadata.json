@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω14ΒΩΛΗ-2Μ5",
+  "subject": "Απαλλαγή υπολόγου και έγκριση απόδοσης λογαριασμού.",
+  "protocol_number": "30950",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6169",
+    "label": "ΔΗΜΟΣ ΛΕΒΑΔΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78290"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-12-12",
+  "posted": "2018-12-12",
+  "publish_timestamp_ms": 1544597763347,
+  "version_id": "ee623dca-4991-4038-8866-e25d0996b860",
+  "in_force": "2018-12-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A914%CE%92%CE%A9%CE%9B%CE%97-2%CE%9C5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A914%CE%92%CE%A9%CE%9B%CE%97-2%CE%9C5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A914%CE%92%CE%A9%CE%9B%CE%97-2%CE%9C5",
+  "listing_sha256": "6439ba63b648972a96d2255e17c6f0f4dc74b4b4a1f6b56523b421036d5a8815",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
