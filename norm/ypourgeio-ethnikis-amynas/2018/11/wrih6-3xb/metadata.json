@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΡΙΗ6-3ΧΒ",
+  "subject": "Αποδοχή δωρεάς υπέρ του Υπουργείου Εθνικής Άμυνας",
+  "protocol_number": "88124",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "86278"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5558",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-11-29",
+  "posted": "2018-12-13",
+  "publish_timestamp_ms": 1544689400424,
+  "version_id": "ccbc65dc-a8af-446f-bc5d-f363ab6e8d24",
+  "in_force": "2018-12-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%99%CE%976-3%CE%A7%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%99%CE%976-3%CE%A7%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A1%CE%99%CE%976-3%CE%A7%CE%92",
+  "listing_sha256": "1a419118dd4eea0044cc317ac2b1b3e7af49ad91e369d84eb9f3fe745a756b5d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
