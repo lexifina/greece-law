@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΤΣΩΕΜ-Ι5Α",
+  "subject": "ΚΑΘΙΕΡΩΣΗ ΓΙΑ ΤΟ ΕΤΟΣ 2019 ΥΠΕΡΩΡΙΑΚΗΣ ΑΠΟΣΧΟΛΗΣΗΣ ΛΗΞΙΑΡΧΩΝ",
+  "protocol_number": "64424/18",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6149",
+    "label": "ΔΗΜΟΣ ΚΗΦΙΣΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83366"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5586",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "1062",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-12-03",
+  "posted": "2018-12-13",
+  "publish_timestamp_ms": 1544694215643,
+  "version_id": "5641d48b-3115-40a3-8b20-5d2cada98212",
+  "in_force": "2018-12-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%A4%CE%A3%CE%A9%CE%95%CE%9C-%CE%995%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%A4%CE%A3%CE%A9%CE%95%CE%9C-%CE%995%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%A4%CE%A3%CE%A9%CE%95%CE%9C-%CE%995%CE%91",
+  "listing_sha256": "e7d6b75696fd1aefa360931631b1643fb8710c25f1bcda72e253445d1800a8dc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
