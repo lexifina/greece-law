@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "61ΙΧΩ1Η-Ω3Μ",
+  "subject": "ΕΓΚΡΙΣΗ ΔΑΠΑΝΗΣ ΓΙΑ ΕΠΙΣΚΕΥΗ ΛΕΩΦΟΡΕΙΟΥ",
+  "protocol_number": "75/2018 ΔΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6271",
+    "label": "ΔΗΜΟΣ ΣΕΡΙΦΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83428"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-08-01",
+  "posted": "2018-12-17",
+  "publish_timestamp_ms": 1545034047778,
+  "version_id": "a1eaf73e-505d-4cbf-bdaf-fc07ee660303",
+  "in_force": "2018-12-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/61%CE%99%CE%A7%CE%A91%CE%97-%CE%A93%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/61%CE%99%CE%A7%CE%A91%CE%97-%CE%A93%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/61%CE%99%CE%A7%CE%A91%CE%97-%CE%A93%CE%9C",
+  "listing_sha256": "1218bd1decc2b91d3a1bf7201110402e3a148082b6bd575d7e2a9a0cf3637c43",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
