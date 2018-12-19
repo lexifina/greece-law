@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΚΘΘ469Β7Θ-ΧΑ2",
+  "subject": "ΑΠΟΣΠΑΣΜΑ ΑΠΟ ΤΟ ΑΡΙΘ. 575/17.12.2018 ΠΡΑΚΤΙΚΟ ΤΗΣ ΕΠΙΤΡΟΠΗΣ ΕΡΕΥΝΩΝ",
+  "protocol_number": "74235",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206920",
+    "label": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΑΤΡΩΝ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "74045"
+  ],
+  "thematic_category_ids": [
+    "64"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΘ8Ν469Β7Θ-ΘΚΛ"
+      }
+    ]
+  },
+  "issued": "2018-12-19",
+  "posted": "2018-12-19",
+  "publish_timestamp_ms": 1545226653143,
+  "version_id": "5fbe14b3-91c5-4b8f-aad5-5a957cf8b27f",
+  "in_force": "2018-12-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%98%CE%98469%CE%927%CE%98-%CE%A7%CE%912",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%98%CE%98469%CE%927%CE%98-%CE%A7%CE%912/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9A%CE%98%CE%98469%CE%927%CE%98-%CE%A7%CE%912",
+  "listing_sha256": "38f94f318d4103814a993cb63b68bd7fd9b80455ec826ad8d5dba640258e338d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
