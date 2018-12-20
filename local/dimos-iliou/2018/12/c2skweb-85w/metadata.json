@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ2ΣΚΩΕΒ-85Ω",
+  "subject": "Λήψη απόφασης για χορήγηση προέγκρισης εγκατάστασης και λειτουργίας παγοδρομίου",
+  "protocol_number": "46969",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6123",
+    "label": "ΔΗΜΟΣ ΙΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79672"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "024",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-12-18",
+  "posted": "2018-12-20",
+  "publish_timestamp_ms": 1545306443812,
+  "version_id": "d5ba1635-2af5-46d7-8d08-1c3b1cda1444",
+  "in_force": "2018-12-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A82%CE%A3%CE%9A%CE%A9%CE%95%CE%92-85%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A82%CE%A3%CE%9A%CE%A9%CE%95%CE%92-85%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A82%CE%A3%CE%9A%CE%A9%CE%95%CE%92-85%CE%A9",
+  "listing_sha256": "f549bee3cf819aae5e5b27e380faf3130e55ffa4fc47bd5bfbbfd7b6feff613f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
