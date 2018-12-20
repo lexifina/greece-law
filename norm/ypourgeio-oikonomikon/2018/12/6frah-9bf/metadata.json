@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΦΡΑΗ-9ΒΦ",
+  "subject": "Ανάθεση των ταχυδρομικών υπηρεσιών για λογαριασμό του\nΜ.Τ.Π.Υ για το έτος 2019",
+  "protocol_number": "49A15_18-12-2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "73871"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "kanonistikipraxiaa": "49Α15",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6670Η-ΩΟΩ"
+      }
+    ]
+  },
+  "issued": "2018-12-18",
+  "posted": "2018-12-20",
+  "publish_timestamp_ms": 1545292845891,
+  "version_id": "4792f0c8-4439-49e3-a6cf-5a5683eeb901",
+  "in_force": "2018-12-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A6%CE%A1%CE%91%CE%97-9%CE%92%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A6%CE%A1%CE%91%CE%97-9%CE%92%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A6%CE%A1%CE%91%CE%97-9%CE%92%CE%A6",
+  "listing_sha256": "f549bee3cf819aae5e5b27e380faf3130e55ffa4fc47bd5bfbbfd7b6feff613f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
