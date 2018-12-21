@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΕΧ4Ω16-ΘΧ8",
+  "subject": "ΑΠΟΦΑΣΗ Δ.Σ. ΥΠ. ΑΡΙΘΜΟΝ 490/2018 (ΠΕΡΙ ΧΟΡΗΓΗΣΗΣ ΠΑΡΑΤΑΣΗΣ ΥΠΟΒΟΛΗΣ ΔΙΚΑΙΟΛΟΓΗΤΙΚΩΝ ΓΙΑ ΤΟ ΕΡΓΟ ΤΗΣ ΑΠΟΠΕΡΑΤΩΣΗΣ ΑΜΦΙΘΕΑΤΡΟΥ ΜΕ ΟΛΕΣ ΤΙΣ ΣΧΕΤΙΚΕΣ ΥΠΟΔΟΜΕΣ ΚΑΙ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΤΟΥ ΠΝΕΥΜΑΤΙΚΟΥ ΠΟΛΙΤΙΣΤΙΚΟΥ ΚΕΝΤΡΟΥ ΡΑΦΗΝΑΣ )",
+  "protocol_number": "490",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6262",
+    "label": "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100007442"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "32",
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "490/2018",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-12-04",
+  "posted": "2018-12-21",
+  "publish_timestamp_ms": 1545374725010,
+  "version_id": "ab3ff6a9-06b4-4342-8343-c111a2c8d7d1",
+  "in_force": "2018-12-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%95%CE%A74%CE%A916-%CE%98%CE%A78",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%95%CE%A74%CE%A916-%CE%98%CE%A78/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%95%CE%A74%CE%A916-%CE%98%CE%A78",
+  "listing_sha256": "8bdf3fdb02d6e1137a9b54b27fdcf547a269c6eaeb0cdb91876ef9196f90789b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
