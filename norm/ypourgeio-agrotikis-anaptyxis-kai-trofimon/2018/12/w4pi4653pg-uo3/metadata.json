@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω4ΠΙ4653ΠΓ-ΘΟ3",
+  "subject": "Ανάθεση στο Μπενάκειο Φυτοπαθολογικό Ινστιτούτο εργασιών του προγράμματος των επισκοπήσεων (surveys) κατά ορισμένων επιβλαβών οργανισμών για την περίοδο από 1 Ιανουαρίου 2019 έως και 31 Δεκεμβρίου 2019",
+  "protocol_number": "13057/174719",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100002685"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5743",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-12-17",
+  "posted": "2018-12-24",
+  "publish_timestamp_ms": 1545641813780,
+  "version_id": "8203c876-ea5d-455d-9a72-7e3a8ac618a3",
+  "in_force": "2018-12-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A94%CE%A0%CE%994653%CE%A0%CE%93-%CE%98%CE%9F3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A94%CE%A0%CE%994653%CE%A0%CE%93-%CE%98%CE%9F3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A94%CE%A0%CE%994653%CE%A0%CE%93-%CE%98%CE%9F3",
+  "listing_sha256": "9f0bd8a448babc6373c9b3eb8d54a521a7ad1b344d152f544b67eb2d2a57a844",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
