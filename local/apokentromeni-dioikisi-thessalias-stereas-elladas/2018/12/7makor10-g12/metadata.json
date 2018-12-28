@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΜΑΚΟΡ10-Γ12",
+  "subject": "ΑΠΟΦΑΣΗ ΠΑΡΑΧΩΡΗΣΗ ΕΚΜΕΤΑΛΕΥΣΗΣ ΔΗΜΟΣΙΩΝ ΔΑΣΩΝ ΣΥΣΤΑΔΑ 13 α ΤΟΥ ΔΗΜΟΣΙΟΥ ΔΑΣΙΚΟΥ ΣΥΜΠΛΕΓΜΑΤΟΣ ΑΓΡΑΦΩΝ ΣΤΟΝ ΔΑΣΙΚΟ ΣΥΝΕΤΑΙΡΙΣΜΟ ΓΙΑΝΝΟΥΣΕΪΚΑ",
+  "protocol_number": "2592/219164",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77113"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "62ΧΑΟΡ10-72Ι"
+      }
+    ]
+  },
+  "issued": "2018-12-28",
+  "posted": "2018-12-28",
+  "publish_timestamp_ms": 1545990123567,
+  "version_id": "de813b1d-a5a2-41da-8794-2933e410e816",
+  "in_force": "2018-12-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%91%CE%9A%CE%9F%CE%A110-%CE%9312",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%91%CE%9A%CE%9F%CE%A110-%CE%9312/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9C%CE%91%CE%9A%CE%9F%CE%A110-%CE%9312",
+  "listing_sha256": "e700eef67eced67ded4798f4389f9f79fce770b838bfff90ce321c90a4b5f192",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
