@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΨΝ8Ω1Ξ-Ν43",
+  "subject": "Αποστολή ανακοίνωσης για δημοσίευση",
+  "protocol_number": "638-18",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6269",
+    "label": "ΔΗΜΟΣ ΣΑΡΩΝΙΚΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79387"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "657",
+      "issue": "fektype_C",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-12-31",
+  "posted": "2018-12-31",
+  "publish_timestamp_ms": 1546250047035,
+  "version_id": "b8ad3dd5-099e-496d-8ac6-e70143ec4e59",
+  "in_force": "2018-12-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A8%CE%9D8%CE%A91%CE%9E-%CE%9D43",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A8%CE%9D8%CE%A91%CE%9E-%CE%9D43/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A8%CE%9D8%CE%A91%CE%9E-%CE%9D43",
+  "listing_sha256": "2c4772e7fdafbd0df13cdb1ff07106e4a72e9d8b810bd444d758dc5f450b7fa8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
