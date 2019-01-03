@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Τ68465ΧΘΞ-Π5Ξ",
+  "subject": "Οριοθέτηση περιοχών και χορήγηση στεγαστικής συνδρομής για την αποκατάσταση των ζημιών σε κτίρια από τον σεισμό της 26ης Οκτωβρίου 2018, σε περιοχές της Περιφερειακής Ενότητας Ζακύνθου  της Περιφέρειας Ιονίων Νήσων.",
+  "protocol_number": "Δ.Α.Ε.Φ.Κ.-Κ.Ε./13683 /Α325  Σχετ.:13909,13582,13911,13671,13591",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5796",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100042446"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "100013859"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-12-07",
+  "posted": "2019-01-03",
+  "publish_timestamp_ms": 1546514281693,
+  "version_id": "1aa7d397-1df8-4ad6-8235-fe0618e961d2",
+  "in_force": "2019-01-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A468465%CE%A7%CE%98%CE%9E-%CE%A05%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A468465%CE%A7%CE%98%CE%9E-%CE%A05%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A468465%CE%A7%CE%98%CE%9E-%CE%A05%CE%9E",
+  "listing_sha256": "999d391f53dd220bef3fe962a293f3c5229eaff7c940c53a0a7ab98cbd0173d5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
