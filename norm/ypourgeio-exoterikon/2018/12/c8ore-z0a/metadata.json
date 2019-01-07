@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ8ΟΡΕ-Ζ0Α",
+  "subject": "ΑΝΑΚΛΗΤΙΚΗ ΑΠΟΦΑΣΗ ΛΟΓΩ ΜΗ ΧΡΗΣΗΣ ΠΟΣΟΥ",
+  "protocol_number": "11182",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "85706"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-12-31",
+  "posted": "2019-01-07",
+  "publish_timestamp_ms": 1546864938218,
+  "version_id": "3f991e1b-d70d-45c3-9988-ac8aaf63dead",
+  "in_force": "2019-01-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A88%CE%9F%CE%A1%CE%95-%CE%960%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A88%CE%9F%CE%A1%CE%95-%CE%960%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A88%CE%9F%CE%A1%CE%95-%CE%960%CE%91",
+  "listing_sha256": "7c068887f16cd4791321b87f82e0525d8b27e53a02082e114cdc91565706a254",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
