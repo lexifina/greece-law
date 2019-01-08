@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΤΠ6Ω1Λ-ΘΥ9",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΔΙΑΚΟΠΗ ΜΑΘΗΜΑΤΩΝ",
+  "protocol_number": "29",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6267",
+    "label": "ΔΗΜΟΣ ΣΑΜΟΘΡΑΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81766"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "5",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-01-08",
+  "posted": "2019-01-08",
+  "publish_timestamp_ms": 1546949910919,
+  "version_id": "1efcd3c7-2c89-4eb3-8777-658df80a3588",
+  "in_force": "2019-01-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A4%CE%A06%CE%A91%CE%9B-%CE%98%CE%A59",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A4%CE%A06%CE%A91%CE%9B-%CE%98%CE%A59/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A4%CE%A06%CE%A91%CE%9B-%CE%98%CE%A59",
+  "listing_sha256": "8aa1bb0233ea4514c6114d663d5a57d851b3a8760a471e626300793ba2659596",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
