@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΚΖΓ6-ΚΘΧ",
+  "subject": "Καθορισμός αριθμού Εθνοφυλάκων που θα χρησιμοποιηθούν για φρούρηση αποθηκών πυρομαχικών, καυσίμων, υλικών επιστράτευσης και λοιπών εγκαταστάσεων του Στρατού Ξηράς, κατά το έτος 2019 και ημερήσια αποζημίωση αυτών.",
+  "protocol_number": "1421227",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78006"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5949",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1421227",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-12-28",
+  "posted": "2019-01-08",
+  "publish_timestamp_ms": 1546931962411,
+  "version_id": "2166bc85-e10b-4971-af67-836b312aa8e4",
+  "in_force": "2019-01-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%96%CE%936-%CE%9A%CE%98%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%96%CE%936-%CE%9A%CE%98%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9A%CE%96%CE%936-%CE%9A%CE%98%CE%A7",
+  "listing_sha256": "16222ef05c402474ebb833ed8c7cb4b23b95f56ce300ff56b6b1bee5ac54d7e3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
