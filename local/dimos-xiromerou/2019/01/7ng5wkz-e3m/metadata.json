@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΝΓ5ΩΚΖ-Ε3Μ",
+  "subject": "ΑΠΟΦΑΣΗ 06/2019 ΔΗΜΑΡΧΟΥ ΠΕΡΙ 'ΟΡΙΣΜΟΣ ΑΝΤΙΔΗΜΑΡΧΟΥ'",
+  "protocol_number": "83",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6221",
+    "label": "ΔΗΜΟΣ ΞΗΡΟΜΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "11248"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "944ΖΩΚΖ-ΓΟΜ"
+      }
+    ]
+  },
+  "issued": "2019-01-08",
+  "posted": "2019-01-08",
+  "publish_timestamp_ms": 1546940469966,
+  "version_id": "7c865585-50d7-41f5-ac66-a40fa4e502c5",
+  "in_force": "2019-01-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9D%CE%935%CE%A9%CE%9A%CE%96-%CE%953%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9D%CE%935%CE%A9%CE%9A%CE%96-%CE%953%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9D%CE%935%CE%A9%CE%9A%CE%96-%CE%953%CE%9C",
+  "listing_sha256": "8aa1bb0233ea4514c6114d663d5a57d851b3a8760a471e626300793ba2659596",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
