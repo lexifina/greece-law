@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΟΓΡΩΗΨ-ΕΨΟ",
+  "subject": "Διακοπή μαθημάτων λόγω έκτακτων καιρικών συνθηκών",
+  "protocol_number": "120",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6297",
+    "label": "ΔΗΜΟΣ ΤΟΠΕΙΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78500"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "16/2019",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-01-09",
+  "posted": "2019-01-09",
+  "publish_timestamp_ms": 1547037693636,
+  "version_id": "565c1cc9-b1e8-47a1-9e99-0b90d2a26905",
+  "in_force": "2019-01-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F%CE%93%CE%A1%CE%A9%CE%97%CE%A8-%CE%95%CE%A8%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F%CE%93%CE%A1%CE%A9%CE%97%CE%A8-%CE%95%CE%A8%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9F%CE%93%CE%A1%CE%A9%CE%97%CE%A8-%CE%95%CE%A8%CE%9F",
+  "listing_sha256": "52208157bb8ab211a0049af886c6bb01c29ea9072f84ff4301fa7cccff12807e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
