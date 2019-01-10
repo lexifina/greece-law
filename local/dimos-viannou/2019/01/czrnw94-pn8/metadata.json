@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΖΡΝΩ94-ΠΝ8",
+  "subject": "Σύμβαση εργασίας Καργάκη Γεωργίου - Ειδικός Συνεργάτης Δημάρχου",
+  "protocol_number": "223",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6054",
+    "label": "ΔΗΜΟΣ ΒΙΑΝΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81442"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1565",
+      "issue": "fektype_C",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "446/2018",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-01-10",
+  "posted": "2019-01-10",
+  "publish_timestamp_ms": 1547118534474,
+  "version_id": "07891042-f020-414d-871e-5b30a931aab5",
+  "in_force": "2019-01-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%96%CE%A1%CE%9D%CE%A994-%CE%A0%CE%9D8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%96%CE%A1%CE%9D%CE%A994-%CE%A0%CE%9D8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%96%CE%A1%CE%9D%CE%A994-%CE%A0%CE%9D8",
+  "listing_sha256": "d32590a61babcc09431279544ad3e6f43d9119570dc9b907f686253d685a38e9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
