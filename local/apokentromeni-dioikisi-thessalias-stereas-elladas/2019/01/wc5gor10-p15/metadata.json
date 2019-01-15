@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΨ5ΓΟΡ10-Π15",
+  "subject": "ΕΛΕΓΧΟΣ ΝΟΜΙΜΟΤΗΤΑΣ ΤΗΣ 375/2018 ΑΠΟΦΑΣΗΣ ΔΣ ΔΗΜΟΥ ΑΛΜΥΡΟΥ",
+  "protocol_number": "51/3580",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77990"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "99Ω2ΩΨ7-ΗΗΒ"
+      }
+    ]
+  },
+  "issued": "2019-01-14",
+  "posted": "2019-01-15",
+  "publish_timestamp_ms": 1547548936754,
+  "version_id": "adc4f3e7-a257-4c5a-92be-2469063fc07e",
+  "in_force": "2019-01-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A85%CE%93%CE%9F%CE%A110-%CE%A015",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A85%CE%93%CE%9F%CE%A110-%CE%A015/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A85%CE%93%CE%9F%CE%A110-%CE%A015",
+  "listing_sha256": "3bae714ce14ff523b515ac5c81ca86cadd4a74723834395be43f61b2ff4242e8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
