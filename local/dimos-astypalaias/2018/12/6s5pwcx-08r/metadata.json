@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Σ5ΠΩΨΧ-08Ρ",
+  "subject": "Απόφαση Δ.Σ. με θέμα «Έγκριση Ψηφίσματος»",
+  "protocol_number": "297",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6049",
+    "label": "ΔΗΜΟΣ ΑΣΤΥΠΑΛΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81543"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-12-21",
+  "posted": "2019-01-15",
+  "publish_timestamp_ms": 1547545238084,
+  "version_id": "dc773616-a105-4932-bb0b-a7a747245a36",
+  "in_force": "2019-01-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A35%CE%A0%CE%A9%CE%A8%CE%A7-08%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A35%CE%A0%CE%A9%CE%A8%CE%A7-08%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A35%CE%A0%CE%A9%CE%A8%CE%A7-08%CE%A1",
+  "listing_sha256": "c45336d7f7948784f13ab95f7d1d8a4bc660829572d400166eeeac03723ab9c4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
