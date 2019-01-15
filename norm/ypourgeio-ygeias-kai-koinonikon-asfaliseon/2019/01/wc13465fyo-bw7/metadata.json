@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΨ13465ΦΥΟ-ΒΩ7",
+  "subject": "Τροποποίηση της υπ΄αριθμ. Γ4β/Γ.Π.οικ.54033/26-07-2018 (ΦΕΚ 439/ΥΟΔΔ/02-08-18, Α.Δ.Α.: 6Ω1Ο465ΦΥΟ-ΦΙ7) κοινής απόφασης του Υπουργού και του Αναπληρωτή Υπουργού Υγείας με περιεχόμενο τον ορισμό μελών στο Διοικητικό Συμβούλιο του Γενικού Νοσοκομείου Φλώρινας «ΕΛΕΝΗ Θ. ΔΗΜΗΤΡΙΟΥ», αρμοδιότητας 3ης Υ.ΠΕ. Μακεδονίας.",
+  "protocol_number": "1160",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100026975"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "14",
+      "issue": "fektype_YODD",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Πράξη Συλλογικού Κυβερνητικού Οργάνου",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Ω1Ο465ΦΥΟ-ΦΙ7"
+      }
+    ]
+  },
+  "issued": "2019-01-08",
+  "posted": "2019-01-15",
+  "publish_timestamp_ms": 1547553386826,
+  "version_id": "dbf7dd80-b84c-480e-a9db-dd476b563e66",
+  "in_force": "2019-01-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A813465%CE%A6%CE%A5%CE%9F-%CE%92%CE%A97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A813465%CE%A6%CE%A5%CE%9F-%CE%92%CE%A97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A813465%CE%A6%CE%A5%CE%9F-%CE%92%CE%A97",
+  "listing_sha256": "8aa1bb0233ea4514c6114d663d5a57d851b3a8760a471e626300793ba2659596",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
