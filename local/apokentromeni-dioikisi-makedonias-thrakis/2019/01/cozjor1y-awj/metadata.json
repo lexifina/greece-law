@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟΖΞΟΡ1Υ-ΑΩΞ",
+  "subject": "Δημοπρασία Δασικών Προιόντων",
+  "protocol_number": "23234",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77264"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-01-15",
+  "posted": "2019-01-15",
+  "publish_timestamp_ms": 1547537611108,
+  "version_id": "99a48dc5-d0f7-4a62-94a1-ce9a469b4976",
+  "in_force": "2019-01-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%96%CE%9E%CE%9F%CE%A11%CE%A5-%CE%91%CE%A9%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%96%CE%9E%CE%9F%CE%A11%CE%A5-%CE%91%CE%A9%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F%CE%96%CE%9E%CE%9F%CE%A11%CE%A5-%CE%91%CE%A9%CE%9E",
+  "listing_sha256": "5e5dc5ba054a4e94f13d4426d8e50fc168ed3d629f55e6b979d6527360f061d1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
