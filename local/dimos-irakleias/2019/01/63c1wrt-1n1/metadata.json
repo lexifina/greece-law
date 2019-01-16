@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "63Ψ1ΩΡΤ-1Ν1",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΕΓΚΡΙΣΗΣ ΔΑΠΑΝΗΣ ΚΑΙ ΔΙΑΘΕΣΗΣ ΠΙΣΤΩΣΗΣ",
+  "protocol_number": "393",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6108",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80941"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-01-16",
+  "posted": "2019-01-16",
+  "publish_timestamp_ms": 1547636067284,
+  "version_id": "678dc834-9e52-42d1-ac5e-60caae493e10",
+  "in_force": "2019-01-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/63%CE%A81%CE%A9%CE%A1%CE%A4-1%CE%9D1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/63%CE%A81%CE%A9%CE%A1%CE%A4-1%CE%9D1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/63%CE%A81%CE%A9%CE%A1%CE%A4-1%CE%9D1",
+  "listing_sha256": "03e4dade22dfe06aada4546cd12bfffd56d078a699a45a16455dd947eb746042",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
