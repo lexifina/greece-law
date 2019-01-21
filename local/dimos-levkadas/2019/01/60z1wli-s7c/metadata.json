@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60Ζ1ΩΛΙ-Σ7Ψ",
+  "subject": "Απόφαση Ο.Ε. για την επικαιροποίηση των αρ. 358/14 και 147/2015 αποφάσεων Δ.Σ. περί καθορισμού τελών υπηρεσιών ύδρευσης-άρδευσης-αποχέτευσης του Δήμου Λευκάδας.",
+  "protocol_number": "9/2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6173",
+    "label": "ΔΗΜΟΣ ΛΕΥΚΑΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84369"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΠΨΜΩΛΙ-ΡΔ1"
+      },
+      {
+        "relatedDecisionsADA": "ΩΓΨ2ΩΛΙ-ΛΜΗ"
+      }
+    ]
+  },
+  "issued": "2019-01-21",
+  "posted": "2019-01-21",
+  "publish_timestamp_ms": 1548066301290,
+  "version_id": "5c1c5fd1-15f5-4ed7-930e-eee2d33eee5c",
+  "in_force": "2019-01-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%961%CE%A9%CE%9B%CE%99-%CE%A37%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%961%CE%A9%CE%9B%CE%99-%CE%A37%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%961%CE%A9%CE%9B%CE%99-%CE%A37%CE%A8",
+  "listing_sha256": "06e173265efb31de91409d12bd10331146994de04b9ff816eae11619d324847f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
