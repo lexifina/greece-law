@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω0Ξ1Ω1Η-6ΚΛ",
+  "subject": "Πρόσκληση εκδήλωσησς ενδιαφέροντος για χωματουργικά",
+  "protocol_number": "ΔΥ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6271",
+    "label": "ΔΗΜΟΣ ΣΕΡΙΦΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83430"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-01-21",
+  "posted": "2019-01-21",
+  "publish_timestamp_ms": 1548056887186,
+  "version_id": "a8a6e095-fa86-4923-94b7-74497e19ddb1",
+  "in_force": "2019-01-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%9E1%CE%A91%CE%97-6%CE%9A%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%9E1%CE%A91%CE%97-6%CE%9A%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A90%CE%9E1%CE%A91%CE%97-6%CE%9A%CE%9B",
+  "listing_sha256": "06e173265efb31de91409d12bd10331146994de04b9ff816eae11619d324847f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
