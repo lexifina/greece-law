@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60ΘΘΩ9Φ-ΥΩΒ",
+  "subject": "Διαγραφή βεβαιωμένων οφειλών από πρόστιμα ΚΟΚ που θα επαναβεβαιωθούν",
+  "protocol_number": "3",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6070",
+    "label": "ΔΗΜΟΣ ΔΑΦΝΗΣ - ΥΜΗΤΤΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79819"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-01-22",
+  "posted": "2019-01-25",
+  "publish_timestamp_ms": 1548401293316,
+  "version_id": "769f671f-ea0f-43e1-b36a-989167f5f849",
+  "in_force": "2019-01-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%98%CE%98%CE%A99%CE%A6-%CE%A5%CE%A9%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%98%CE%98%CE%A99%CE%A6-%CE%A5%CE%A9%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%98%CE%98%CE%A99%CE%A6-%CE%A5%CE%A9%CE%92",
+  "listing_sha256": "2ae4bdcf0e8e397ecdc5de151885280fe5740494815f16fde66d24d4ca175d31",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
