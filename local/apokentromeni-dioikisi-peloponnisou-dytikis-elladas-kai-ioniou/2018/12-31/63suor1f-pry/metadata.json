@@ -1,0 +1,50 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "63ΣΘΟΡ1Φ-ΠΡΥ",
+  "subject": "Τροποποίηση-συμπλήρωση της Α.Π. 140634/22-06-2017 απόφασης του Συντονιστή Αποκεντρωμένης Διοίκησης, όπως έχει τροποποιηθεί με την Α.Π. 304768/04-12-2017 όμοια, αναφορικά με την «Μεταβίβαση δικαιώματος υπογραφής «Με εντολή Συντονιστή» στον  προϊστάμενο της Γενικής Διεύθυνσης Εσωτερικής Λειτουργίας και στους προϊσταμένους των Υπηρεσιών της Γενικής Διεύθυνσης Εσωτερικής Λειτουργίας της Αποκεντρωμένης Διοίκησης Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου.",
+  "protocol_number": "291101",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76448"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "86",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΗΞΒΟΡ1Φ-7ΘΘ"
+      },
+      {
+        "relatedDecisionsADA": "ΩΜΜ0ΟΡ1Φ-ΕΞΒ"
+      }
+    ]
+  },
+  "issued": "2018-12-31",
+  "posted": "2019-01-25",
+  "publish_timestamp_ms": 1548403394407,
+  "version_id": "f4f1e426-02d8-405a-b361-3fdbc284a7fa",
+  "in_force": "2019-01-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/63%CE%A3%CE%98%CE%9F%CE%A11%CE%A6-%CE%A0%CE%A1%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/63%CE%A3%CE%98%CE%9F%CE%A11%CE%A6-%CE%A0%CE%A1%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/63%CE%A3%CE%98%CE%9F%CE%A11%CE%A6-%CE%A0%CE%A1%CE%A5",
+  "listing_sha256": "2c4772e7fdafbd0df13cdb1ff07106e4a72e9d8b810bd444d758dc5f450b7fa8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
