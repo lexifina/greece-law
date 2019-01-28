@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω0ΤΧ465ΦΥΟ-ΓΘΙ",
+  "subject": "Οργανισμός του Γενικού Νοσοκομείου Xανίων «ΑΓΙΟΣ ΓΕΩΡΓΙΟΣ»",
+  "protocol_number": "Γ2α/73800/17",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78927"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "6166",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025899",
+        "unitId": [
+          "100005000"
+        ],
+        "signerIds": [
+          "100042376"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100009868"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2018-12-18",
+  "posted": "2019-01-28",
+  "publish_timestamp_ms": 1548661126675,
+  "version_id": "c2af56e6-28b6-4f59-a879-12600c6c1498",
+  "in_force": "2019-01-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%A4%CE%A7465%CE%A6%CE%A5%CE%9F-%CE%93%CE%98%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%A4%CE%A7465%CE%A6%CE%A5%CE%9F-%CE%93%CE%98%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A90%CE%A4%CE%A7465%CE%A6%CE%A5%CE%9F-%CE%93%CE%98%CE%99",
+  "listing_sha256": "f549bee3cf819aae5e5b27e380faf3130e55ffa4fc47bd5bfbbfd7b6feff613f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
