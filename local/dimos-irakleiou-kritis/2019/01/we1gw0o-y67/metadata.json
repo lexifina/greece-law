@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΕ1ΓΩ0Ο-Υ67",
+  "subject": "Έγκριση 1ου Ανακεφαλαιωτικού-Τακτοποιητικού Πίνακα Εργασιών (Α.Π.Ε.) για το έργο με τίτλο  «Συντήρηση και επισκευή δημοτικού κτιρίου Βασιλειών».",
+  "protocol_number": "55/2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81430"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΕΟΧΩ0Ο-ΣΘΘ"
+      }
+    ]
+  },
+  "issued": "2019-01-21",
+  "posted": "2019-01-30",
+  "publish_timestamp_ms": 1548851861351,
+  "version_id": "d13cd9af-80d4-4461-ba85-ed3a93e7054c",
+  "in_force": "2019-01-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%951%CE%93%CE%A90%CE%9F-%CE%A567",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%951%CE%93%CE%A90%CE%9F-%CE%A567/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%951%CE%93%CE%A90%CE%9F-%CE%A567",
+  "listing_sha256": "e95d61bdef4e7e05eb31810c38c0375d5dc6d3fdba85dce56e7ac099307d67d0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
