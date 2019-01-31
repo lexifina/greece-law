@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "689ΕΩ9Χ-0ΥΒ",
+  "subject": "ΣΗΜΑΝΤΙΚΗ ΔΙΕΥΚΡΙΝΙΣΗ",
+  "protocol_number": "606",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6083",
+    "label": "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΜΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "94543"
+  ],
+  "thematic_category_ids": [
+    "40",
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω1ΖΑΩ9Χ-ΥΦ3"
+      }
+    ]
+  },
+  "issued": "2019-01-31",
+  "posted": "2019-01-31",
+  "publish_timestamp_ms": 1548929770938,
+  "version_id": "f22d4322-9e31-4b81-9f08-d6107f8769c1",
+  "in_force": "2019-01-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/689%CE%95%CE%A99%CE%A7-0%CE%A5%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/689%CE%95%CE%A99%CE%A7-0%CE%A5%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/689%CE%95%CE%A99%CE%A7-0%CE%A5%CE%92",
+  "listing_sha256": "2acf0555ce1fb7e3fd70044ce81a2635de13d92057f5477699b7a19edbbe87ac",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
