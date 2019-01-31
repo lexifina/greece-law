@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "69Λ5Η-Π94",
+  "subject": "«Απόφαση καθορισμού ποσού, επιτοκίου, ημερομηνίας έκδοσης και λήξης και τιμής έκδοσης των ομολόγων του Ελληνικού Δημοσίου διάρκειας 5 ετών στις 5/2/2019 μέσω κοινοπραξίας και λήξης στις 2/4/2024»",
+  "protocol_number": "75",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "172",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "75",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-01-29",
+  "posted": "2019-01-31",
+  "publish_timestamp_ms": 1548920860494,
+  "version_id": "06178c23-11d8-4f63-826e-900a519cadb1",
+  "in_force": "2019-01-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/69%CE%9B5%CE%97-%CE%A094",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/69%CE%9B5%CE%97-%CE%A094/document",
+  "page": "https://diavgeia.gov.gr/decision/view/69%CE%9B5%CE%97-%CE%A094",
+  "listing_sha256": "a8868ef7a99f63a7c5311595d58988ee1c5d9164355e484f7fe5c2066fe720fb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
