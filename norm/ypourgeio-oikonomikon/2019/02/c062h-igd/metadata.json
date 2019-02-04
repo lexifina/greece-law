@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ062Η-ΙΓΔ",
+  "subject": "«Επανακαθορισμός του είδους και του ποσοστού των δαπανών που πληρώνονται σε βάρος της πάγιας προκαταβολής της Ειδικής Γραμματείας Σ.Δ.Ο.Ε/ Επιχειρησιακή Δ/νση Σ.Δ.Ο.Ε. Αττικής»",
+  "protocol_number": "Δ ΠΡΟΜΓ0000402ΕΞ2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "194",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-02-04",
+  "posted": "2019-02-04",
+  "publish_timestamp_ms": 1549273137523,
+  "version_id": "f5f5cc10-16ce-4443-8316-61e0a5f497a9",
+  "in_force": "2019-02-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8062%CE%97-%CE%99%CE%93%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8062%CE%97-%CE%99%CE%93%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8062%CE%97-%CE%99%CE%93%CE%94",
+  "listing_sha256": "f406e0c5b7ba816bd4e3ed70c7fe94b1461c579a8307820d7df80e353c809ed1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
