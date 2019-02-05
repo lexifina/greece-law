@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΡΠΓΗ-1ΝΓ",
+  "subject": "Καθορισμός αποζημίωσης των πληγέντων από την πλημμύρα της 15ης Νοεμβρίου 2017 σε περιοχές της Περιφερειακής Ενότητας Δυτικής Αττικής της Περιφέρειας Αττικής",
+  "protocol_number": "ΔΧΠ 0000184 ΕΞ 2019/Χ.Π. 37",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "230",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-01-22",
+  "posted": "2019-02-05",
+  "publish_timestamp_ms": 1549367933035,
+  "version_id": "0f4a9a44-ab41-4259-b233-74ca44dd1689",
+  "in_force": "2019-02-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%A0%CE%93%CE%97-1%CE%9D%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%A0%CE%93%CE%97-1%CE%9D%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A1%CE%A0%CE%93%CE%97-1%CE%9D%CE%93",
+  "listing_sha256": "2ae4bdcf0e8e397ecdc5de151885280fe5740494815f16fde66d24d4ca175d31",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
