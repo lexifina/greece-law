@@ -1,0 +1,71 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΦΨ4653ΠΓ-Ρ66",
+  "subject": "ΠΕΡΙ ΛΕΠΤΟΜΕΡΕΙΩΝ ΑΠΟΔΟΣΗΣ ΑΠΑΙΤΗΣΕΩΝ ΤΩΝ ΔΙΚΑΙΟΥΧΩΝ ΜΕΛΩΝ ΤΩΝ ΕΠΙΤΡΟΠΩΝ ΠΟΥ ΑΦΟΡΟΥΝ ΣΤΗΝ ΥΛΟΠΟΙΗΣΗ ΤΩΝ ΔΡΑΣΕΩΝ ΤΟΥ ΜΕΤΡΟΥ 123Α ΤΟΥ ΠΑΑ 2007-2013 ΚΑΙ ΠΑΡΑΚΟΛΟΥΘΗΣΗ ΤΩΝ ΕΡΓΩΝ ΤΟΥ ΜΕΤΡΟΥ 123Α ΤΟΥ ΠΑΑ 2007-2013 ΚΑΙ ΤΟΥ ΕΠΑΑ&ΑΥ 2000-2006.",
+  "protocol_number": "116/21008/01-02-2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100034192"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "251",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "100007500"
+        ],
+        "signerIds": [
+          "100042446"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100008321"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      },
+      {
+        "ministryId": "100015981",
+        "unitId": [
+          "100034192"
+        ],
+        "signerIds": [
+          "100025562"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-02-01",
+  "posted": "2019-02-06",
+  "publish_timestamp_ms": 1549457428420,
+  "version_id": "c9fe4167-be50-455b-85d5-dd038c206485",
+  "in_force": "2019-02-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%A6%CE%A84653%CE%A0%CE%93-%CE%A166",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%A6%CE%A84653%CE%A0%CE%93-%CE%A166/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%A6%CE%A84653%CE%A0%CE%93-%CE%A166",
+  "listing_sha256": "a88bcf35087ab4b66c15c37f4f27f336b0c34bfeb15bac4467bd0631b45b34f2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
