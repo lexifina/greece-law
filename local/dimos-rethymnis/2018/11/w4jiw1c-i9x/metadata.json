@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω4ΞΙΩ1Ψ-Ι9Χ",
+  "subject": "«Τροποποίηση Οργανισμού Εσωτερικής Υπηρεσίας Δήμου Ρεθύμνης»",
+  "protocol_number": "660",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6263",
+    "label": "ΔΗΜΟΣ ΡΕΘΥΜΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83369"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "248",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "248",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΨΒ7Ω1Ψ-8ΔΠ"
+      }
+    ]
+  },
+  "issued": "2018-11-14",
+  "posted": "2019-02-07",
+  "publish_timestamp_ms": 1549520403216,
+  "version_id": "c0e9ea62-44d2-4c93-8cf6-da60bd813423",
+  "in_force": "2019-02-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A94%CE%9E%CE%99%CE%A91%CE%A8-%CE%999%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A94%CE%9E%CE%99%CE%A91%CE%A8-%CE%999%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A94%CE%9E%CE%99%CE%A91%CE%A8-%CE%999%CE%A7",
+  "listing_sha256": "ecde39f7a689de3fa79746d854c834f45a94afe446b532937b341aeac1cf6fd8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
