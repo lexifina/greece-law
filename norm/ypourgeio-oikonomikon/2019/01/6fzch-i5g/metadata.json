@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΦΖΨΗ-Ι5Γ",
+  "subject": "ΑΝΑΠΡΟΣΑΡΜΟΓΗ ΟΝΟΜΑΣΤΙΚΗΣ ΑΞΙΑΣ ΤΙΜΑΡΙΘΜΟΠΟΙΗΜΕΝΩΝ ΟΜΟΛΟΓΩΝ ΛΗΞΗΣ 25/7/2030 ΣΤΙΣ 28/2/2019",
+  "protocol_number": "80",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "410",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "80",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-01-31",
+  "posted": "2019-02-14",
+  "publish_timestamp_ms": 1550151092602,
+  "version_id": "4d9e3c04-45c3-43b2-90f1-bcd10d430858",
+  "in_force": "2019-02-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A6%CE%96%CE%A8%CE%97-%CE%995%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A6%CE%96%CE%A8%CE%97-%CE%995%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A6%CE%96%CE%A8%CE%97-%CE%995%CE%93",
+  "listing_sha256": "212317d1f66624d7c7251a1ff29ba3a716d3a03f07fd9bd116d866bd45be8513",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
