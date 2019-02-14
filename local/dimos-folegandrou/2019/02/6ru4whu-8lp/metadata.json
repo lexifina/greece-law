@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΡΘ4ΩΗΘ-8ΛΠ",
+  "subject": "ΑΔΣ 18-2019 Διόρθωση χρεώσεων ύδρευσης",
+  "protocol_number": "390",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6310",
+    "label": "ΔΗΜΟΣ ΦΟΛΕΓΑΝΔΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84031"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-02-02",
+  "posted": "2019-02-14",
+  "publish_timestamp_ms": 1550135795307,
+  "version_id": "5cd8bbf3-7050-4cd4-bb14-726df43eb65b",
+  "in_force": "2019-02-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%984%CE%A9%CE%97%CE%98-8%CE%9B%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%984%CE%A9%CE%97%CE%98-8%CE%9B%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A1%CE%984%CE%A9%CE%97%CE%98-8%CE%9B%CE%A0",
+  "listing_sha256": "3ad51ac315ad75a449e17cec7f3ab4ae574f55b8a423214ceeb79f4fe15ae076",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
