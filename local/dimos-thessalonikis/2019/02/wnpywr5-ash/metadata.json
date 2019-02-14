@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΠΥΩΡ5-ΑΣΗ",
+  "subject": "Ανάκληση της υπ΄αριθμ. 1641/21-11-2018 Α.Ο.Ε. που αφορά: “Τροποποίηση του υφιστάμενου Κανονισμού Λειτουργίας των Δημοτικών Κοιμητηρίων”",
+  "protocol_number": "92 Α.Ο.Ε.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100000996"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΒΒΦΩΡ5-Ρ2Ξ"
+      }
+    ]
+  },
+  "issued": "2019-02-13",
+  "posted": "2019-02-14",
+  "publish_timestamp_ms": 1550133442766,
+  "version_id": "2f133a06-5a23-414f-b7ca-3b79369480d2",
+  "in_force": "2019-02-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%A0%CE%A5%CE%A9%CE%A15-%CE%91%CE%A3%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%A0%CE%A5%CE%A9%CE%A15-%CE%91%CE%A3%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%A0%CE%A5%CE%A9%CE%A15-%CE%91%CE%A3%CE%97",
+  "listing_sha256": "97a403e7cc793292852f1e234dbc6166b96b2fc3a0c4d35364c1c24f0a4edbee",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
