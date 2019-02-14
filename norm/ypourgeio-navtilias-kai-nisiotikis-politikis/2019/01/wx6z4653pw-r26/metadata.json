@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧ6Ζ4653ΠΩ-Ρ26",
+  "subject": "ΔΙΑΘΕΣΗ ΕΝΟΣ ΚΑΤΑΣΧΕΜΕΝΟΥ ΟΧΗΜΑΤΟΣ ΣΤΟ ΛΣ-ΕΛ.ΑΚΤ ΓΙΑ ΚΑΛΥΨΗ ΑΝΑΓΚΩΝ ΤΟΥ.",
+  "protocol_number": "2122.7-3/7470",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100011376"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "367",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-01-30",
+  "posted": "2019-02-14",
+  "publish_timestamp_ms": 1550150567869,
+  "version_id": "399ee456-5499-4e4c-9163-81844b554643",
+  "in_force": "2019-02-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A76%CE%964653%CE%A0%CE%A9-%CE%A126",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A76%CE%964653%CE%A0%CE%A9-%CE%A126/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A76%CE%964653%CE%A0%CE%A9-%CE%A126",
+  "listing_sha256": "0d398e24a44656cc7bc4897bce28a504164f32a9607a41fbfc87ac7d3fa42444",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
