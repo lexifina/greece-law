@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΜΦ8Η-ΒΓ0",
+  "subject": "«Απόφαση προεξόφλησης δανείου και έκδοσης ομολόγων»",
+  "protocol_number": "124",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "460",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "124",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-02-15",
+  "posted": "2019-02-18",
+  "publish_timestamp_ms": 1550477072349,
+  "version_id": "28f47538-1fdf-493c-832a-d7d9ca32ae31",
+  "in_force": "2019-02-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%A68%CE%97-%CE%92%CE%930",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%A68%CE%97-%CE%92%CE%930/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9C%CE%A68%CE%97-%CE%92%CE%930",
+  "listing_sha256": "190e443407835aa4b790964ec36095d561d56e3294e275a6aa89ea92b6eb9d09",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
