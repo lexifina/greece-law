@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΡΚΓΒΘΩΠ-ΤΚ3",
+  "subject": "Ανάθεση αρμοδιοτήτων στον Αναπληρωτή Υπουργό Οικονομίας και Ανάπτυξης, Αστέριο Πιτσιόρλα",
+  "protocol_number": "Υ59",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "23290",
+    "label": "ΓΕΝΙΚΗ ΓΡΑΜΜΑΤΕΙΑ ΠΡΩΘΥΠΟΥΡΓΟΥ",
+    "category": "PRIME_MINISTER"
+  },
+  "unit_ids": [
+    "70711"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "04"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3818",
+      "issue": "fektype_B",
+      "issueyear": 2018
+    },
+    "kanonistikipraxitype": "Πράξη Πρωθυπουργού",
+    "kanonistikipraxiaa": "Υ59",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-09-03",
+  "posted": "2019-02-20",
+  "publish_timestamp_ms": 1550690893844,
+  "version_id": "c5253000-fa70-4b3b-94e7-e83e29eff383",
+  "in_force": "2019-02-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%9A%CE%93%CE%92%CE%98%CE%A9%CE%A0-%CE%A4%CE%9A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%9A%CE%93%CE%92%CE%98%CE%A9%CE%A0-%CE%A4%CE%9A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A1%CE%9A%CE%93%CE%92%CE%98%CE%A9%CE%A0-%CE%A4%CE%9A3",
+  "listing_sha256": "696bc6f05c5dd666d9bb8f017a08e61af1829c2544934fd4c50b1c412f24df76",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
