@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ω9ΛΩ0Π-ΗΓ5",
+  "subject": "Απόφαση Δημάρχου 58/27-02-2019_Έγκριση τεχνικής περιγραφής για την ΚΑΤΕΠΕΙΓΟΥΣΑ ΑΠΟΚΑΤΑΣΤΑΣΗ ΒΛΑΒΗΣ ΑΝΤΛΗΤΙΚΟΥ ΣΥΓΚΡΟΤΗΜΑΤΟΣ ΑΜΦΙΑΡΑΕΙΟ ΔΕ ΚΑΛΑΜΟΥ",
+  "protocol_number": "58/27-02-2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6324",
+    "label": "ΔΗΜΟΣ ΩΡΩΠΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81452"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ψ0ΦΠΩ0Π-379"
+      }
+    ]
+  },
+  "issued": "2019-02-27",
+  "posted": "2019-02-27",
+  "publish_timestamp_ms": 1551264949412,
+  "version_id": "2089c66f-b889-421b-b6e4-87ae25c273b6",
+  "in_force": "2019-02-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A99%CE%9B%CE%A90%CE%A0-%CE%97%CE%935",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A99%CE%9B%CE%A90%CE%A0-%CE%97%CE%935/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A99%CE%9B%CE%A90%CE%A0-%CE%97%CE%935",
+  "listing_sha256": "cb39514e1251cbbc52d8f780c3a4c189e6d35bdb2c9d0840b40a88b9d969ecc6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
