@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΓΟΙ7Λ6-ΨΤΝ",
+  "subject": "ΑΠΟΦΑΣΗ ΠΑΡΑΛΑΒΗΣ ΕΡΓΟΥ",
+  "protocol_number": "65121/1210",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5004",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78386"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-02-28",
+  "posted": "2019-02-28",
+  "publish_timestamp_ms": 1551347080900,
+  "version_id": "de6fbf70-11d9-462d-9703-ebf0d60d9951",
+  "in_force": "2019-02-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%93%CE%9F%CE%997%CE%9B6-%CE%A8%CE%A4%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%93%CE%9F%CE%997%CE%9B6-%CE%A8%CE%A4%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%93%CE%9F%CE%997%CE%9B6-%CE%A8%CE%A4%CE%9D",
+  "listing_sha256": "3ed385bf429950f1e8a5b55c8edfd7f6486cf358343be3b60efd1e8243943380",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
