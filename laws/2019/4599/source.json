@@ -1,0 +1,63 @@
+{
+  "year": 2019,
+  "number": 4599,
+  "url": "https://api.et.gr/apiLAW/1/2019/4599/pdf",
+  "source_sha256": "be60e59f4a244ac5d1f808449a581fdec390abe8c70d31da1549c7b99ead7848",
+  "published": "2019-03-04",
+  "in_force": "2019-03-04",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις του.",
+  "in_force_general_day": true,
+  "pages": 32,
+  "images": [
+    {
+      "page": 25,
+      "sha256": "50c0e9baec1639bd16d4f3aa46a3754d0076d58892493b27ea08ad703b10bc68",
+      "ext": "png",
+      "bytes": 7935,
+      "bbox": [
+        397.1,
+        189.2,
+        456.2,
+        284.5
+      ]
+    },
+    {
+      "page": 25,
+      "sha256": "80a1179f2e101f27971b782b6fe41e4676206f62d28762bf5ec1287cd1504dd6",
+      "ext": "png",
+      "bytes": 1831,
+      "bbox": [
+        392.2,
+        348.4,
+        461.1,
+        388.4
+      ]
+    },
+    {
+      "page": 25,
+      "sha256": "37a19b87c1d8d3d53619fc48d7b1d45065f70f2e2d57f5ec15ebb6899d254e19",
+      "ext": "png",
+      "bytes": 3036,
+      "bbox": [
+        389.4,
+        417.0,
+        463.8,
+        474.4
+      ]
+    },
+    {
+      "page": 27,
+      "sha256": "5193df57927923e7cd6c1fa528753e98b82e91fb30dc0d20a78b416bd6ee1f50",
+      "ext": "png",
+      "bytes": 54417,
+      "bbox": [
+        62.4,
+        99.2,
+        544.6,
+        751.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
