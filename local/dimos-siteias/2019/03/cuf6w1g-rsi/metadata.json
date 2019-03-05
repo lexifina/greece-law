@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΘΦ6Ω1Γ-ΡΣΙ",
+  "subject": "Έγκριση Ο.Ε.Υ. της Δημοτικής Επιχ/σης Ύδρευσης Αποχέτευσης Σητείας (ΔΕΥΑΣ).",
+  "protocol_number": "53/019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6273",
+    "label": "ΔΗΜΟΣ ΣΗΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80115"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΚΞ0ΟΕΘΕ-ΒΤΕ"
+      }
+    ]
+  },
+  "issued": "2019-03-01",
+  "posted": "2019-03-05",
+  "publish_timestamp_ms": 1551786953780,
+  "version_id": "d6d531ee-066e-47ea-931a-4ee1bd853266",
+  "in_force": "2019-03-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%98%CE%A66%CE%A91%CE%93-%CE%A1%CE%A3%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%98%CE%A66%CE%A91%CE%93-%CE%A1%CE%A3%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%98%CE%A66%CE%A91%CE%93-%CE%A1%CE%A3%CE%99",
+  "listing_sha256": "cff6f216634b8e4b0d17367a453226b61ec57f4c83486da4b13128a63b3682e7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
