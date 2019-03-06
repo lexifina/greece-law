@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΒ3ΟΡ1Κ-115",
+  "subject": "Απόφαση έγκρισης κυκλοφοριακών ρυθμίσεων σύμφωνα με την υπ’ αριθ.\n499/2018 απόφαση του Δημοτικού Συμβουλίου του Δήμου Κηφισιάς",
+  "protocol_number": "14435/102",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50196",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΤΤΙΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76318"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "662",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-03-06",
+  "posted": "2019-03-06",
+  "publish_timestamp_ms": 1551866470214,
+  "version_id": "c7553845-1bec-41b9-b81d-a66c24dd82a7",
+  "in_force": "2019-03-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%923%CE%9F%CE%A11%CE%9A-115",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%923%CE%9F%CE%A11%CE%9A-115/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%923%CE%9F%CE%A11%CE%9A-115",
+  "listing_sha256": "68595e106259bff30f1b816a2bc1eb6f1106edeb58541504c44f9a822e0be0ba",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
