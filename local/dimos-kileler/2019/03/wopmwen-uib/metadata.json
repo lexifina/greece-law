@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΟΠΜΩΕΝ-ΘΙΒ",
+  "subject": "Ανοιγμα ειδικού Τραπεζικού Λογαριασμού του Δήμου για τη    διαχείριση ενταλμάτων προπληρωμής προς τον Διαχειριστή\nΕλληνικού Δικτύου Διανομής Ηλεκτρικής Ενέργειας  (ΔΕΔΔΗΕ Α.Ε.)  καθώς και άνοιγμα Τραπεζικού Λογαριασμού του Δήμου Κιλελέρ για τη διαχείριση της πάγιας προκαταβολής",
+  "protocol_number": "3376",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6150",
+    "label": "ΔΗΜΟΣ ΚΙΛΕΛΕΡ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80956"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "60/2019",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-03-04",
+  "posted": "2019-03-07",
+  "publish_timestamp_ms": 1551960681726,
+  "version_id": "1348870f-37d0-49cc-a906-11f7685bcec1",
+  "in_force": "2019-03-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F%CE%A0%CE%9C%CE%A9%CE%95%CE%9D-%CE%98%CE%99%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9F%CE%A0%CE%9C%CE%A9%CE%95%CE%9D-%CE%98%CE%99%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9F%CE%A0%CE%9C%CE%A9%CE%95%CE%9D-%CE%98%CE%99%CE%92",
+  "listing_sha256": "8b725791063a63dc9250a54a8a856243ecfba9c93e17c898c067e66a472b2bcf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
