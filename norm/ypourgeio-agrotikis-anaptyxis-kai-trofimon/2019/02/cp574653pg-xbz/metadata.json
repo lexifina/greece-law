@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠ574653ΠΓ-ΧΒΖ",
+  "subject": "Αναπροσαρμογή του ύψους των επιβαλλόμενων προστίμων για παραβάσεις του ν.4036/2012 (ΦΕΚ Α΄8)",
+  "protocol_number": "1840/31408",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100002685"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "778",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "71834"
+        ],
+        "signerIds": [
+          "100025762",
+          "100038133"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-02-15",
+  "posted": "2019-03-08",
+  "publish_timestamp_ms": 1552037898610,
+  "version_id": "ade82582-9186-4d38-82e7-d20090804649",
+  "in_force": "2019-03-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0574653%CE%A0%CE%93-%CE%A7%CE%92%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0574653%CE%A0%CE%93-%CE%A7%CE%92%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A0574653%CE%A0%CE%93-%CE%A7%CE%92%CE%96",
+  "listing_sha256": "190e443407835aa4b790964ec36095d561d56e3294e275a6aa89ea92b6eb9d09",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
