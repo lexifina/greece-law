@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΡ24Ω0Ο-Π94",
+  "subject": "Τριμερής Σύμβαση Δεσμευμένου Λογαριασμού (escrow account) στο πλαίσιο του Χρηματοδοτικού Προγράμματος του Πράσινου Ταμείου «ΔΡΑΣΕΙΣ ΠΕΡΙΒΑΛΛΟΝΤΙΚΟΥ ΙΣΟΖΥΓΙΟΥ» που αφορά το ενταγμένο έργο «ΑΝΑΠΛΑΣΗ ΟΔΟΥ ΣΤΑΔΙΟΥ ΑΠΟ ΟΔΟ ΙΚΑΡΟΥ ΕΩΣ ΟΔΟ ΔΙΟΝΥΣΙΟΥ».",
+  "protocol_number": "226/2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81430"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-03-04",
+  "posted": "2019-03-08",
+  "publish_timestamp_ms": 1552045104328,
+  "version_id": "ea6ea0a1-03e6-4c82-a06c-a151d16fbfc7",
+  "in_force": "2019-03-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A124%CE%A90%CE%9F-%CE%A094",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A124%CE%A90%CE%9F-%CE%A094/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A124%CE%A90%CE%9F-%CE%A094",
+  "listing_sha256": "8b725791063a63dc9250a54a8a856243ecfba9c93e17c898c067e66a472b2bcf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
