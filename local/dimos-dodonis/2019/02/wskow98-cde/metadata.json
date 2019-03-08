@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΣΚΟΩ98-ΨΔΕ",
+  "subject": "Αποδοχή εγγράφου της αναδόχου εταιρείας για  «ΠΡΟΜΗΘΕΙΑΣ ΕΞΟΠΛΙΣΜΟΥ ΑΝΑΒΑΘΜΙΣΗΣ ΠΑΙΔΙΚΩΝ ΧΑΡΩΝ   ΔΗΜΟΥ ΔΩΔΩΝΗΣ",
+  "protocol_number": "1723",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6084",
+    "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83282"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω1ΟΝΩ98-ΩΙΡ"
+      }
+    ]
+  },
+  "issued": "2019-02-27",
+  "posted": "2019-03-08",
+  "publish_timestamp_ms": 1552033092524,
+  "version_id": "49921804-c6be-41e7-8644-50e8e6d294d4",
+  "in_force": "2019-03-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%9A%CE%9F%CE%A998-%CE%A8%CE%94%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%9A%CE%9F%CE%A998-%CE%A8%CE%94%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A3%CE%9A%CE%9F%CE%A998-%CE%A8%CE%94%CE%95",
+  "listing_sha256": "b037446e51d61543052313ee33e302fc1286f3f715dbcb47cff3044d4cb07fb8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
