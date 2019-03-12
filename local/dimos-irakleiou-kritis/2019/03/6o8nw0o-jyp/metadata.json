@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ο8ΝΩ0Ο-ΞΥΠ",
+  "subject": "Εξειδίκευση της δαπάνης «Επικοινωνιακό Σχέδιο Ενημέρωσης Πολιτών για θέματα Πολιτισμού», με προϋπολογισμό 32.000€ που θα βαρύνει τον Κ.Α. ΕΞΟΔΩΝ 00-6431.010 «Έξοδα διαφημιστικής προβολής ΔΗ ( έντυπα μέσα, εφημερίδες, περιοδικά, ραδιόφωνο, τηλεόραση, ημερίδες, συνέδρια κλπ)».",
+  "protocol_number": "210/2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81430"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7Μ6ΕΩ0Ο-ΝΛ9"
+      }
+    ]
+  },
+  "issued": "2019-03-04",
+  "posted": "2019-03-12",
+  "publish_timestamp_ms": 1552381532113,
+  "version_id": "3b497c99-874e-4ca9-952d-cee77097de0c",
+  "in_force": "2019-03-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F8%CE%9D%CE%A90%CE%9F-%CE%9E%CE%A5%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F8%CE%9D%CE%A90%CE%9F-%CE%9E%CE%A5%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9F8%CE%9D%CE%A90%CE%9F-%CE%9E%CE%A5%CE%A0",
+  "listing_sha256": "8b725791063a63dc9250a54a8a856243ecfba9c93e17c898c067e66a472b2bcf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
