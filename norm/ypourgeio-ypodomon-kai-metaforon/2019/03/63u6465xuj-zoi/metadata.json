@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "63Θ6465ΧΘΞ-ΖΟΙ",
+  "subject": "Σύσταση Τομέα Αποκατάστασης Επιπτώσεων Φυσικών Καταστροφών Ν. Χανίων (ΤΑΕΦΚ Ν. ΧΑΝΙΩΝ).",
+  "protocol_number": "Oικ.16973",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035901"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "730",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-03-13",
+  "posted": "2019-03-13",
+  "publish_timestamp_ms": 1552464872052,
+  "version_id": "582756da-6ecc-4d1b-9f3c-bb5e7fa33d6c",
+  "in_force": "2019-03-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/63%CE%986465%CE%A7%CE%98%CE%9E-%CE%96%CE%9F%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/63%CE%986465%CE%A7%CE%98%CE%9E-%CE%96%CE%9F%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/63%CE%986465%CE%A7%CE%98%CE%9E-%CE%96%CE%9F%CE%99",
+  "listing_sha256": "ac6a2dd5e9edf1810c9c5309b81e045f542ee2e9fc7374663ec03bfa7cbbdcf9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
