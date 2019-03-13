@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ8ΡΗΩΡΘ-Ψ3Ξ",
+  "subject": "Δημοτικού Συμβουλίου Ήλιδας.\n\nΑριθμός απόφασης: 44 /2019\n\nΘΕΜΑ: «Τροποποίηση Οργανισμού Εσωτερικών Υπηρεσιών (ΟΕΥ) Δήμου Ήλιδας για ένταξη του Προγράμματος  ‘Βοήθεια στο Σπίτι’ σε οργανικές μονάδες τού δήμου»",
+  "protocol_number": "44 /2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6106",
+    "label": "ΔΗΜΟΣ ΗΛΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81104"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "583",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Πράξη Γενικού Γραμματέα Αποκεντρωμένης Διοίκησης",
+    "kanonistikipraxiaa": "20859",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-01-28",
+  "posted": "2019-03-13",
+  "publish_timestamp_ms": 1552473116121,
+  "version_id": "7b12d088-f03b-4838-bb38-0999babd60e8",
+  "in_force": "2019-03-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A88%CE%A1%CE%97%CE%A9%CE%A1%CE%98-%CE%A83%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A88%CE%A1%CE%97%CE%A9%CE%A1%CE%98-%CE%A83%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A88%CE%A1%CE%97%CE%A9%CE%A1%CE%98-%CE%A83%CE%9E",
+  "listing_sha256": "b52340c2873d80dbd989b3b3dbacaabcd9211d88e4719d553317559fecfcdd89",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
