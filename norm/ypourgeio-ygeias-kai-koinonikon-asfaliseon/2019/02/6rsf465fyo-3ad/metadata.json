@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΡΣΦ465ΦΥΟ-3ΑΔ",
+  "subject": "Τροποποίηση του οργανισμού της αποκεντρωμένης οργανικής μονάδας ¨Καλύμνου ΤΟ ΒΟΥΒΑΛΕΙΟ¨, του Γενικού Νοσοκομείου Ρόδου «ΑΝΔΡΕΑΣ ΠΑΠΑΝΔΡΕΟΥ» - Γενικού Νοσοκομείου- Κ.Υ. ΚΩ «ΙΠΠΟΚΡΑΤΕΙΟΝ» - Γενικού Νοσοκομείου-Κ.Υ. Καλύμνου «ΤΟ ΒΟΥΒΑΛΕΙΟ»",
+  "protocol_number": "Γ2α/76502/18",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78927"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "829",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025899",
+        "unitId": [
+          "100005000"
+        ],
+        "signerIds": [
+          "100042376"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100009868"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-02-21",
+  "posted": "2019-03-13",
+  "publish_timestamp_ms": 1552472213110,
+  "version_id": "f0459b6f-0803-431e-9bd8-8d876620e360",
+  "in_force": "2019-03-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%A3%CE%A6465%CE%A6%CE%A5%CE%9F-3%CE%91%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%A3%CE%A6465%CE%A6%CE%A5%CE%9F-3%CE%91%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A1%CE%A3%CE%A6465%CE%A6%CE%A5%CE%9F-3%CE%91%CE%94",
+  "listing_sha256": "12dbab6b5ddd2ed61b1c2f708505d06ffc30d72da8f17c4b5e1f739e4169d71c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
