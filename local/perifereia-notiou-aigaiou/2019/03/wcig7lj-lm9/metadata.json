@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΨΙΓ7ΛΞ-ΛΜ9",
+  "subject": "ΑΠΟΦΑΣΗ ΧΟΡΗΓΗΣΗΣ ΔΙΑΚΡΙΤΙΚΟΥ ΑΡΙΘΜΟΥ ΩΟΠΑΡΑΓΩΓΩΝ ΟΡΝΙΘΩΝ",
+  "protocol_number": "32300/107",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5011",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "100016100"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΧΒ37ΛΞ-ΥΚΟ"
+      }
+    ]
+  },
+  "issued": "2019-03-13",
+  "posted": "2019-03-13",
+  "publish_timestamp_ms": 1552456594344,
+  "version_id": "7ece4e1e-709e-4cdc-ae04-d5691926e99c",
+  "in_force": "2019-03-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A8%CE%99%CE%937%CE%9B%CE%9E-%CE%9B%CE%9C9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A8%CE%99%CE%937%CE%9B%CE%9E-%CE%9B%CE%9C9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A8%CE%99%CE%937%CE%9B%CE%9E-%CE%9B%CE%9C9",
+  "listing_sha256": "d7588035e859fbc31733c8789c7e8a267f9c10588f0bb1e375292293dc255a98",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
