@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΩΗΩΩΕ1-ΓΙΠ",
+  "subject": "Έγκριση πραγματοποιηθείσας μετακίνησης Δημάρχου Καντάνου-Σελίνου στην Αθήνα",
+  "protocol_number": "1433",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6134",
+    "label": "ΔΗΜΟΣ ΚΑΝΤΑΝΟΥ - ΣΕΛΙΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85159"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "49",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-03-13",
+  "posted": "2019-03-13",
+  "publish_timestamp_ms": 1552461698049,
+  "version_id": "0ddbd24c-c6ac-48ee-85f5-80ebc7961d27",
+  "in_force": "2019-03-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A9%CE%97%CE%A9%CE%A9%CE%951-%CE%93%CE%99%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A9%CE%97%CE%A9%CE%A9%CE%951-%CE%93%CE%99%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A9%CE%97%CE%A9%CE%A9%CE%951-%CE%93%CE%99%CE%A0",
+  "listing_sha256": "ac6a2dd5e9edf1810c9c5309b81e045f542ee2e9fc7374663ec03bfa7cbbdcf9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
