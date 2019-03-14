@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΗΕΚ465ΧΘΞ-ΣΛΥ",
+  "subject": "Επανακαθορισμός του είδους και του ποσοστού δαπανών που πληρώνονται σε βάρος της Παγίας Προκαταβολής της Υπηρεσίας Πολιτικής Αεροπορίας (ΥΠΑ)",
+  "protocol_number": "Δ11/Α/5936/2096/28-2-19",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76595"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "858",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "Δ11/Α/5936",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-03-14",
+  "posted": "2019-03-14",
+  "publish_timestamp_ms": 1552555633025,
+  "version_id": "bf357af0-058c-42e1-839a-28af8262d184",
+  "in_force": "2019-03-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%95%CE%9A465%CE%A7%CE%98%CE%9E-%CE%A3%CE%9B%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%95%CE%9A465%CE%A7%CE%98%CE%9E-%CE%A3%CE%9B%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%97%CE%95%CE%9A465%CE%A7%CE%98%CE%9E-%CE%A3%CE%9B%CE%A5",
+  "listing_sha256": "c444b4db6b5c2c7495627fdd908213f59c161e09ec7d091bce46023dba4b85f3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
