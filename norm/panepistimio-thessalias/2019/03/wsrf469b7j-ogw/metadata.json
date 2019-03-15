@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΣΡΦ469Β7Ξ-ΟΓΩ",
+  "subject": "ΑΠΟΦΑΣΗ",
+  "protocol_number": "6376/19/ΓΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206913",
+    "label": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "73390"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "9Ψ9Ζ469Β7Ξ-ΤΡΓ"
+      }
+    ]
+  },
+  "issued": "2019-03-15",
+  "posted": "2019-03-15",
+  "publish_timestamp_ms": 1552651515970,
+  "version_id": "b4566913-04e8-465b-9583-23b1c364c669",
+  "in_force": "2019-03-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%A1%CE%A6469%CE%927%CE%9E-%CE%9F%CE%93%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%A1%CE%A6469%CE%927%CE%9E-%CE%9F%CE%93%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A3%CE%A1%CE%A6469%CE%927%CE%9E-%CE%9F%CE%93%CE%A9",
+  "listing_sha256": "c9babb5634e0ab052cc5c9822cf0c3664e548b7c5aaf62532358033476b997b5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
