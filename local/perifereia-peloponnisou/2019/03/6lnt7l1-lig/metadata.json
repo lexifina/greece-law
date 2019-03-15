@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΛΝΤ7Λ1-ΛΙΓ",
+  "subject": "Έγκριση δαπάνης και διάθεση πίστωσης",
+  "protocol_number": "341942/81641",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5012",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "82276"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-03-15",
+  "posted": "2019-03-15",
+  "publish_timestamp_ms": 1552657656336,
+  "version_id": "4aee98b4-31f1-4faa-ba4b-1f7130d66579",
+  "in_force": "2019-03-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B%CE%9D%CE%A47%CE%9B1-%CE%9B%CE%99%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B%CE%9D%CE%A47%CE%9B1-%CE%9B%CE%99%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9B%CE%9D%CE%A47%CE%9B1-%CE%9B%CE%99%CE%93",
+  "listing_sha256": "c9babb5634e0ab052cc5c9822cf0c3664e548b7c5aaf62532358033476b997b5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
