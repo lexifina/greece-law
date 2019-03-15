@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΤΓ2ΩΡΡ-Λ6Ν",
+  "subject": "Απόφαση Ανάθεσης προμήθειας 2054 / 2019",
+  "protocol_number": "2054",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6095",
+    "label": "ΔΗΜΟΣ ΕΡΜΙΟΝΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81515"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-03-15",
+  "posted": "2019-03-15",
+  "publish_timestamp_ms": 1552648869236,
+  "version_id": "f2682ed9-430c-4716-93c5-373ad9c3dd09",
+  "in_force": "2019-03-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A4%CE%932%CE%A9%CE%A1%CE%A1-%CE%9B6%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A4%CE%932%CE%A9%CE%A1%CE%A1-%CE%9B6%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A4%CE%932%CE%A9%CE%A1%CE%A1-%CE%9B6%CE%9D",
+  "listing_sha256": "c9babb5634e0ab052cc5c9822cf0c3664e548b7c5aaf62532358033476b997b5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
