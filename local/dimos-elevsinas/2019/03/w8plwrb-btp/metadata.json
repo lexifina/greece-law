@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω8ΠΛΩΡΒ-ΒΤΠ",
+  "subject": "Λήψη απόφασης για την εξειδίκευση πίστωσης ποσού 496,00 € για την πραγματοποίηση δαπάνης που αφορά στο χειρισμό της ΠΡ3291/12-11-2015 και ΓΑΚ 20613/2015 προσφυγής που άσκησε ο «Διαχειριστής Ελληνικού Δικτύου Διανομής Ηλεκτρικής Ενέργειας Α.Ε.» κατά του Δήμου Ελευσίνας.",
+  "protocol_number": "19-88",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6089",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΣΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80043"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-03-15",
+  "posted": "2019-03-15",
+  "publish_timestamp_ms": 1552639732128,
+  "version_id": "37f03898-340f-479a-956a-9d9b78703cb5",
+  "in_force": "2019-03-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%A0%CE%9B%CE%A9%CE%A1%CE%92-%CE%92%CE%A4%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%A0%CE%9B%CE%A9%CE%A1%CE%92-%CE%92%CE%A4%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A98%CE%A0%CE%9B%CE%A9%CE%A1%CE%92-%CE%92%CE%A4%CE%A0",
+  "listing_sha256": "0411d060d00708f9ee1ee631ef4e19a81ab0109a81167e030a278fd479418f29",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
