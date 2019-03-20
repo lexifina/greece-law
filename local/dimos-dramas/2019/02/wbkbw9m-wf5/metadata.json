@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΒΚΒΩ9Μ-ΩΦ5",
+  "subject": "Έγκριση ενός (1) πρωτοκόλλου οριστικής παραλαβής της Δ/νσης Καθαριότητας και Ανακύκλωσης",
+  "protocol_number": "4416/13-02-2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100025925"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "105-2019",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "60ΜΝΩ9Μ-1ΨΗ"
+      },
+      {
+        "relatedDecisionsADA": "67Π8Ω9Μ-ΤΥ6"
+      }
+    ]
+  },
+  "issued": "2019-02-25",
+  "posted": "2019-03-20",
+  "publish_timestamp_ms": 1553065739454,
+  "version_id": "bae34820-d89d-4f17-880d-9b8f64c961c7",
+  "in_force": "2019-03-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%92%CE%9A%CE%92%CE%A99%CE%9C-%CE%A9%CE%A65",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%92%CE%9A%CE%92%CE%A99%CE%9C-%CE%A9%CE%A65/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%92%CE%9A%CE%92%CE%A99%CE%9C-%CE%A9%CE%A65",
+  "listing_sha256": "e89065bcbc3788cb8abdef2c68941bae01732849c2e6c2df6d6133da785bae93",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
