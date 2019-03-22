@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω96ΙΩΞΧ-ΝΗ2",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ",
+  "protocol_number": "5610",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6253",
+    "label": "ΔΗΜΟΣ ΠΡΕΒΕΖΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81663"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-03-22",
+  "posted": "2019-03-22",
+  "publish_timestamp_ms": 1553258355357,
+  "version_id": "80b0a943-e2ac-4e0f-8c3a-4da6ef5bd95f",
+  "in_force": "2019-03-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A996%CE%99%CE%A9%CE%9E%CE%A7-%CE%9D%CE%972",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A996%CE%99%CE%A9%CE%9E%CE%A7-%CE%9D%CE%972/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A996%CE%99%CE%A9%CE%9E%CE%A7-%CE%9D%CE%972",
+  "listing_sha256": "673af920804b9a29887c80c3c6a528b553dbb0e63da7447c611188dac1dc315e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
