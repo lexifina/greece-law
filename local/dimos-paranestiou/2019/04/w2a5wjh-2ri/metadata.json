@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω2Α5ΩΞΗ-2ΡΙ",
+  "subject": "Διόρθωση του  τίτλου του θέματος, των υπ΄ αριθ. 226/2018,227/2018 και 229/2018 αποφάσεων του ΔΣ, περί «Έγκρισης κανονισμού  Δικτύου  Ύδρευσης Δήμου Παρανεστίου», « Έγκρισης κανονισμού  Δικτύου  άρδευσης Δήμου Παρανεστίου» «Έγκρισης κανονισμού  Δικτύου  αποχέτευσης Δήμου Παρανεστίου» αντίστοιχα",
+  "protocol_number": "64",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6237",
+    "label": "ΔΗΜΟΣ ΠΑΡΑΝΕΣΤΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85007"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-04-01",
+  "posted": "2019-04-01",
+  "publish_timestamp_ms": 1554097379187,
+  "version_id": "4fbf2fc7-6636-40c0-a02e-7ca93173a8f5",
+  "in_force": "2019-04-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%915%CE%A9%CE%9E%CE%97-2%CE%A1%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%915%CE%A9%CE%9E%CE%97-2%CE%A1%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A92%CE%915%CE%A9%CE%9E%CE%97-2%CE%A1%CE%99",
+  "listing_sha256": "01a957d3fb45e36614f7f61d5ae348da8f733d4c1f27b85bf17fc2bf57c02ef0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
