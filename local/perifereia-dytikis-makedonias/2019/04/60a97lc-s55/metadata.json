@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60Α97ΛΨ-Σ55",
+  "subject": "Έγκριση έκδοσης Χρηματικού Εντάλματος Προπληρωμής (Χ.Ε.Π.), ποσού <119,00> € και ορισμός Υπολόγου",
+  "protocol_number": "54400",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5005",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79831"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-04-01",
+  "posted": "2019-04-01",
+  "publish_timestamp_ms": 1554104278435,
+  "version_id": "e2ce422a-7cbc-4ab2-b903-f84abc7078ca",
+  "in_force": "2019-04-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%9197%CE%9B%CE%A8-%CE%A355",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%9197%CE%9B%CE%A8-%CE%A355/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%9197%CE%9B%CE%A8-%CE%A355",
+  "listing_sha256": "cded8e8c7afa9f187d3f10a59225b0cf85f89b7abbc0495c7f2df778ae607252",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
