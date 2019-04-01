@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΚΩΛ465ΧΘΞ-ΥΔ3",
+  "subject": "Εφαρμογή των διατάξεων του ν. 4599/2019 (Α’ 40) «Δοκιμασία προσόντων και συμπεριφοράς υποψηφίων οδηγών και οδηγών για τη χορήγηση αδειών οδήγησης οχημάτων, άλλες διατάξεις για τις άδειες οδήγησης και λοιπές διατάξεις»",
+  "protocol_number": "Α3/οικ. 25125/2663",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007425"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "9Ο57465ΧΘΞ-ΖΩ0"
+      },
+      {
+        "relatedDecisionsADA": "6ΑΛΧ465ΧΘΞ-7ΡΕ"
+      }
+    ]
+  },
+  "issued": "2019-04-01",
+  "posted": "2019-04-01",
+  "publish_timestamp_ms": 1554122093263,
+  "version_id": "927931b8-3452-4277-8b09-ea0156f01ccc",
+  "in_force": "2019-04-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%A9%CE%9B465%CE%A7%CE%98%CE%9E-%CE%A5%CE%943",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%A9%CE%9B465%CE%A7%CE%98%CE%9E-%CE%A5%CE%943/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9A%CE%A9%CE%9B465%CE%A7%CE%98%CE%9E-%CE%A5%CE%943",
+  "listing_sha256": "7bc51331b37f206ce7dd0df9144262aaad8cf52b6ffa156db24690039b6696e5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
