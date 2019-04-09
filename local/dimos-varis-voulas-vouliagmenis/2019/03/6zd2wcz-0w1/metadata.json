@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΖΔ2ΩΨΖ-0Ω1",
+  "subject": "ΑΠΟΦΑΣΗ 59/2019 ΚΑΘΙΕΡΩΣΗΣ ΥΠΕΡΩΡΙΑΚΗΣ ΕΡΓΑΣΙΑΣ ΕΤΟΥΣ 2019",
+  "protocol_number": "9982",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6051",
+    "label": "ΔΗΜΟΣ ΒΑΡΗΣ - ΒΟΥΛΑΣ - ΒΟΥΛΙΑΓΜΕΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003159"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1164",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "59/2019",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-03-14",
+  "posted": "2019-04-09",
+  "publish_timestamp_ms": 1554791486861,
+  "version_id": "62d84b35-1f8c-4a1e-bd6e-89a0f6a4e63b",
+  "in_force": "2019-04-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%96%CE%942%CE%A9%CE%A8%CE%96-0%CE%A91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%96%CE%942%CE%A9%CE%A8%CE%96-0%CE%A91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%96%CE%942%CE%A9%CE%A8%CE%96-0%CE%A91",
+  "listing_sha256": "017fe0c77ac6c955b48e2ab4c5e84528e0e133662fa9bf26aea31768994f24a2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
