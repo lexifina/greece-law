@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω1Ξ6ΩΛ1-ΞΙΠ",
+  "subject": "ΑΠΟΦΑΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ 50/2019 - Λήψη απόφασης περί άσκησης ή μη εφέσεως κατά της αριθμ.1903/2019 απόφασης Μονομελούς Πρωτοδικείου Αθηνών",
+  "protocol_number": "5669",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6168",
+    "label": "ΔΗΜΟΣ ΛΑΥΡΕΩΤΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84234"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-04-09",
+  "posted": "2019-04-09",
+  "publish_timestamp_ms": 1554803899767,
+  "version_id": "0c1c9b34-647d-4d6b-9afb-647a8ebf29f6",
+  "in_force": "2019-04-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%9E6%CE%A9%CE%9B1-%CE%9E%CE%99%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%9E6%CE%A9%CE%9B1-%CE%9E%CE%99%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A91%CE%9E6%CE%A9%CE%9B1-%CE%9E%CE%99%CE%A0",
+  "listing_sha256": "ec6737a4dcada5dcf04094a82b840c27759876cbaad4da948710e99d0bb02750",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
