@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΒΤΒΩΞΕ-Κ3Λ",
+  "subject": "Έγκριση έκδοσης εντάλματος προπληρωμής στο όνομα της υπαλλήλου Κυριακής Γαβαλά για έξοδα: α) Εγγραφής στο Κτηματολόγιο της με αρ. 10950/8.3.2019 συμβολαιογραφικής  Πράξης εξόφλησης συμβολαίου και άρση διαλυτικής αιρέσεως (ακίνητο επί της οδού Έλλης 5), ποσού 50,00€ και β)Μεταγραφής στο Υποθηκοφυλακείο Π. Φαλήρου της παραπάνω Πράξης, ποσού 50,00€.",
+  "protocol_number": "45/09.04.2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6232",
+    "label": "ΔΗΜΟΣ ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83226"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-04-17",
+  "posted": "2019-04-17",
+  "publish_timestamp_ms": 1555500922559,
+  "version_id": "76f3c20d-6df5-41e5-b088-e7011090577c",
+  "in_force": "2019-04-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%92%CE%A4%CE%92%CE%A9%CE%9E%CE%95-%CE%9A3%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%92%CE%A4%CE%92%CE%A9%CE%9E%CE%95-%CE%9A3%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%92%CE%A4%CE%92%CE%A9%CE%9E%CE%95-%CE%9A3%CE%9B",
+  "listing_sha256": "ddc6ff82304b982c9f19adba6415eb9aaf5690657068ba8ca62f06d925070505",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
