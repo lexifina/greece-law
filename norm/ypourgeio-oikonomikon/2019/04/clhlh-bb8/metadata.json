@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΛΗΛΗ-ΒΒ8",
+  "subject": "ΚΑΘΙΕΡΩΣΗ ΥΠΕΡΩΡΙΑΚΗΣ ΕΡΓΑΣΙΑΣ",
+  "protocol_number": "33389 ΕΞ 2019 ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100011008"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1362",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΚ3ΠΗ-0ΤΓ"
+      }
+    ]
+  },
+  "issued": "2019-04-04",
+  "posted": "2019-04-22",
+  "publish_timestamp_ms": 1555921075860,
+  "version_id": "632e8694-1770-4bf2-80bf-834940b0d863",
+  "in_force": "2019-04-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B%CE%97%CE%9B%CE%97-%CE%92%CE%928",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B%CE%97%CE%9B%CE%97-%CE%92%CE%928/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9B%CE%97%CE%9B%CE%97-%CE%92%CE%928",
+  "listing_sha256": "f3a4863044e2a0b00962d0b85a77786229da497f6fc1502a802465efb045c21d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
