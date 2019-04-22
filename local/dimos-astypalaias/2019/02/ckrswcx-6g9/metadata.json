@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚΡΣΩΨΧ-6Γ9",
+  "subject": "Απόφαση Δ.Σ. με θέμα «Γνωμοδότηση του Δημοτικού Συμβουλίου επί της Μελέτης Περιβαλλοντικών Επιπτώσεων (Μ.Π.Ε.) που αφορά «Αιολικοί Σταθμοί Παραγωγής Ηλεκτρικής Ενέργειας (ΑΣΠΗΕ) συνολικής ισχύος 486 MW (106 Α/Γ)»»",
+  "protocol_number": "51",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6049",
+    "label": "ΔΗΜΟΣ ΑΣΤΥΠΑΛΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81543"
+  ],
+  "thematic_category_ids": [
+    "64"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-02-25",
+  "posted": "2019-04-22",
+  "publish_timestamp_ms": 1555932818310,
+  "version_id": "1e1805c1-7642-4a0d-b8db-b88d1f95c66d",
+  "in_force": "2019-04-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%A1%CE%A3%CE%A9%CE%A8%CE%A7-6%CE%939",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%A1%CE%A3%CE%A9%CE%A8%CE%A7-6%CE%939/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A%CE%A1%CE%A3%CE%A9%CE%A8%CE%A7-6%CE%939",
+  "listing_sha256": "e89065bcbc3788cb8abdef2c68941bae01732849c2e6c2df6d6133da785bae93",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
