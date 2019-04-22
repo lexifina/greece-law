@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΛΠΔ7ΛΡ-7Υ2",
+  "subject": "ΧΟΡΗΓΗΣΗ ΑΔΕΙΑΣ ΕΓΚΑΤΑΣΤΑΣΗΣ ΣΕ ΚΤΗΝΟΤΡΟΦΙΚΗ ΕΓΚΑΤΑΣΤΑΣΗ ΚΑΤΗΓΟΡΙΑΣ 1  του Ν. 4056/2012 (ΠΡΟΧΕΙΡΟ ΚΑΤΑΛΥΜΑ)",
+  "protocol_number": "2585/2017",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81128"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΩΧ37ΛΡ-17Θ"
+      }
+    ]
+  },
+  "issued": "2019-04-19",
+  "posted": "2019-04-22",
+  "publish_timestamp_ms": 1555911506293,
+  "version_id": "956338d2-d195-40b2-b6d1-3b452f465aa1",
+  "in_force": "2019-04-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B%CE%A0%CE%947%CE%9B%CE%A1-7%CE%A52",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B%CE%A0%CE%947%CE%9B%CE%A1-7%CE%A52/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9B%CE%A0%CE%947%CE%9B%CE%A1-7%CE%A52",
+  "listing_sha256": "4d954aa2e302d15238becd946f79acc1b5f82ccdad54e8041e418438ca116b25",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
