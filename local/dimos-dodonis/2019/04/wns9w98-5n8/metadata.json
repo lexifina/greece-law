@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΣ9Ω98-5Ν8",
+  "subject": "Απόφαση υλοποίησης με ίδια μέσα του Υποέργου \" ΚΕΝΤΡΟΥ ΚΟΙΝΟΤΗΤΑΣ\" Δήμου Δωδώνης",
+  "protocol_number": "98",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6084",
+    "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82459"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-04-18",
+  "posted": "2019-04-25",
+  "publish_timestamp_ms": 1556171716711,
+  "version_id": "991f2b1c-a341-4fb2-928e-d504ea3286c1",
+  "in_force": "2019-04-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%A39%CE%A998-5%CE%9D8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%A39%CE%A998-5%CE%9D8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%A39%CE%A998-5%CE%9D8",
+  "listing_sha256": "b62103fbe72143ffba4c7e712a97d75864746c652174bbcdecbf44f72b4d55a3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
