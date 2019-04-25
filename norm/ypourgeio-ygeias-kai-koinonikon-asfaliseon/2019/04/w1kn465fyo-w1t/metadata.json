@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω1ΚΝ465ΦΥΟ-Ω1Τ",
+  "subject": "ΚΑΘΟΡΙΣΜΟΣ ΔΙΚΑΙΟΛΟΓΗΤΙΚΩΝ, ΔΙΑΔΙΚΑΣΙΑΣ, ΟΡΩΝ ΚΑΙ ΠΡΟΫΠΟΘΕΣΕΩΝ ΓΙΑ ΤΗ ΧΟΡΗΓΗΣΗ ΒΕΒΑΙΩΣΗΣ ΑΣΚΗΣΗΣ ΟΔΟΝΤΙΑΤΡΙΚΟΥ ΕΠΑΓΓΕΛΜΑΤΟΣ, ΚΑΘΩΣ ΚΑΙ ΤΙΤΛΟΥ ΟΔΟΝΤΙΑΤΡΙΚΗΣ ΕΙΔΙΚΟΤΗΤΑΣ",
+  "protocol_number": "Γ5α/ΓΠοικ24814",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100044265"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1372",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-04-25",
+  "posted": "2019-04-25",
+  "publish_timestamp_ms": 1556209549618,
+  "version_id": "b237e73b-1bb0-4756-b380-8f7699bb99b9",
+  "in_force": "2019-04-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%9A%CE%9D465%CE%A6%CE%A5%CE%9F-%CE%A91%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%9A%CE%9D465%CE%A6%CE%A5%CE%9F-%CE%A91%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A91%CE%9A%CE%9D465%CE%A6%CE%A5%CE%9F-%CE%A91%CE%A4",
+  "listing_sha256": "bc3c6f100179ea246f59e7bc1f382a3da10e857b36eaddf6e0a5737470f38e31",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
