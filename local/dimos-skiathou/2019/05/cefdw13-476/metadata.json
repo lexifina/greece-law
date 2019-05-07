@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΕΦΔΩ13-476",
+  "subject": "Εξέταση του πρακτικού γνωμοδότησης επί της υπ’ αρίθμ. 3680/3.5.2019 ένστασης",
+  "protocol_number": "77",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6279",
+    "label": "ΔΗΜΟΣ ΣΚΙΑΘΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82117"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-05-06",
+  "posted": "2019-05-07",
+  "publish_timestamp_ms": 1557217835187,
+  "version_id": "10971d0f-8c25-47e4-8a25-448a03bdedfa",
+  "in_force": "2019-05-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%A6%CE%94%CE%A913-476",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%A6%CE%94%CE%A913-476/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%95%CE%A6%CE%94%CE%A913-476",
+  "listing_sha256": "f3a2e90cb6c2244f72df30ec82e76c7652e668339ff113b0d0a300104e542143",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
