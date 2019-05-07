@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧΦΟΩΛΒ-5ΣΒ",
+  "subject": "Διακοπή νερού σε σχολεία (11ο-21ο Δ.Σ., 3ο-4ο Γυμνάσιο Ευόσμου,  9ο νηπιαγωγείο και 14ο νηπιαγωγείο Ευόσμου",
+  "protocol_number": "16818",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6157",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΘΕΡΙΟΥ ΚΟΡΔΕΛΙΟΥ ΕΥΟΣΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93348"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "907",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-05-07",
+  "posted": "2019-05-07",
+  "publish_timestamp_ms": 1557229224902,
+  "version_id": "d6ddeb5c-ec68-4a4f-bfa5-4d074ab1ffc8",
+  "in_force": "2019-05-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%A6%CE%9F%CE%A9%CE%9B%CE%92-5%CE%A3%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%A6%CE%9F%CE%A9%CE%9B%CE%92-5%CE%A3%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A7%CE%A6%CE%9F%CE%A9%CE%9B%CE%92-5%CE%A3%CE%92",
+  "listing_sha256": "dfae883d893a5a9498f46fd9a9b2ec1b81280b8d8674b568b7d29707dbd3cad9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
