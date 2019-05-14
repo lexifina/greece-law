@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "62ΧΦ6-01Ν",
+  "subject": "Επιχορήγηση του Ταµείου Αλληλοβοηθείας Υπαλλήλων Μετοχικού Ταµείου\nΣτρατού (ΤΑΥ/ΜΤΣ) από το Νοσηλευτικό Ίδρυµα Μετοχικού Ταµείου Στρατού\n(ΝΙΜΤΣ), για το έτος 2018",
+  "protocol_number": "1171056",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78006"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "issue": "fektype_B",
+      "aa": "1592",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1171056",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-04-05",
+  "posted": "2019-05-14",
+  "publish_timestamp_ms": 1557810645490,
+  "version_id": "236af760-bff2-4ec6-9021-c9f551e16969",
+  "in_force": "2019-05-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/62%CE%A7%CE%A66-01%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/62%CE%A7%CE%A66-01%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/62%CE%A7%CE%A66-01%CE%9D",
+  "listing_sha256": "3a2e915bb5695bf942857e6dbf1eac9714b8c2905bfb249ca4545ff54d63e5d4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
