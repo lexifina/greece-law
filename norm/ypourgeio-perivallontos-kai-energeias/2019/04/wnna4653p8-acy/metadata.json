@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΝΑ4653Π8-ΑΨΥ",
+  "subject": "Καθορισμός της ημερομηνίας μέχρι την οποία είναι επιτρεπτή η υποβολή εκπρόθεσμων δηλώσεων και η κατάθεση αιτήσεων διόρθωσης προδήλου σφάλματος για τις υπό κτηματογράφηση περιοχές: α) του Καλλικρατικού Δήμου Αμφίπολης, β) του Καλλικρατικού Δήμου Βισαλτίας, γ) των προκαποδιστριακών Δήμων/Κοινοτήτων Αγίου Πνεύματος, Βαλτοτοπίου, Δαφνουδίου, Εμμανουήλ Παππά, Μεσοκώμης, Μετάλλων, Μονόβρυσης, Νέου Σκοπού, Νέου Σουλίου, Παραλιμνίου, Πεθελινού, Πενταπόλεως, Τούμπας, Χρυσού και Ψυχικού του Καλλικρατικού Δήμου Εμμανουήλ Παππά και δ) του Καλλικρατικού Δήμου Νέας Ζίχνης της Περιφερειακής Ενότητας Σερρών της Περιφέρειας Κεντρικής Μακεδονίας.",
+  "protocol_number": "31752",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035647"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1555",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-04-12",
+  "posted": "2019-05-15",
+  "publish_timestamp_ms": 1557915480960,
+  "version_id": "50f74394-344f-45c3-b310-ae2c85c6446d",
+  "in_force": "2019-05-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%9D%CE%914653%CE%A08-%CE%91%CE%A8%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%9D%CE%914653%CE%A08-%CE%91%CE%A8%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%9D%CE%914653%CE%A08-%CE%91%CE%A8%CE%A5",
+  "listing_sha256": "3077bd40761f875478930d6290c33ea8e88f8f2af07728b7f7b05c112f07ba76",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
