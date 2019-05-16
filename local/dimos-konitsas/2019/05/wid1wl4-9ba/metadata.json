@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΔ1ΩΛ4-9ΒΑ",
+  "subject": "ΒΕΒΑΙΩΣΗ ΕΓΚΑΤΑΣΤΑΣΗΣ",
+  "protocol_number": "-",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6156",
+    "label": "ΔΗΜΟΣ ΚΟΝΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81788"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "-",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-05-16",
+  "posted": "2019-05-16",
+  "publish_timestamp_ms": 1557999925938,
+  "version_id": "c32fd0ef-4e5a-419a-ac2b-12b971283f70",
+  "in_force": "2019-05-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%941%CE%A9%CE%9B4-9%CE%92%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%941%CE%A9%CE%9B4-9%CE%92%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%941%CE%A9%CE%9B4-9%CE%92%CE%91",
+  "listing_sha256": "84fe9142b0e4219c964c06b3ca05dc359ac41905dbcd1b59db46daa36ebd3438",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
