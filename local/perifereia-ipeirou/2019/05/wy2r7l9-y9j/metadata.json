@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥ2Ρ7Λ9-Υ9Ξ",
+  "subject": "ΚΑΤΑΝΟΜΗ ΚΟΙΝΟΤΙΚΗΣ ΣΥΜΜΕΤΟΧΗΣ MEDINNO",
+  "protocol_number": "72950/2365",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5006",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81229"
+  ],
+  "thematic_category_ids": [
+    "10"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-05-17",
+  "posted": "2019-05-17",
+  "publish_timestamp_ms": 1558073431283,
+  "version_id": "351e3b1b-bf8a-44a5-a78c-0753854a0440",
+  "in_force": "2019-05-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A52%CE%A17%CE%9B9-%CE%A59%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A52%CE%A17%CE%9B9-%CE%A59%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A52%CE%A17%CE%9B9-%CE%A59%CE%9E",
+  "listing_sha256": "d272ee28302e21f44f41b71865a1f974f603a80889b103750c665b9543279ea1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
