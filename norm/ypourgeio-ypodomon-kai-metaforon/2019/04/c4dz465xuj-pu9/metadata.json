@@ -1,0 +1,72 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ4ΔΖ465ΧΘΞ-ΠΘ9",
+  "subject": "Οριοθέτηση περιοχών και χορήγηση Στεγαστικής Συνδρομής για την αποκατάσταση των ζημιών σε κτίρια που επλήγησαν  από τις πλημμύρες της 30ης Νοεμβρίου 2017 έως 4ης Δεκεμβρίου 2017 σε περιοχές της Περιφερειακής Ενότητας Αιτωλοακαρνανίας της Περιφέρειας Δυτικής Ελλάδας.",
+  "protocol_number": "Δ.Α.Ε.Φ.Κ.- Κ.Ε./ 5762/2018 /Α325      Σχετ. : Δ.Α.Ε.Φ.Κ. - Κ.Ε.: 5580/2018, 5592/2018, 5516/2018, 5106/2018, 4749/2018, 3016/2018, 1060/2018, 2931/2017, 2660/2018, 2654/2018",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1701",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025896",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100042349"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "100013859"
+        ]
+      },
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100042446"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-04-18",
+  "posted": "2019-05-17",
+  "publish_timestamp_ms": 1558090504888,
+  "version_id": "eb91aa02-dc53-40d2-a3d2-4584d12fcb4a",
+  "in_force": "2019-05-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%94%CE%96465%CE%A7%CE%98%CE%9E-%CE%A0%CE%989",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%94%CE%96465%CE%A7%CE%98%CE%9E-%CE%A0%CE%989/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A84%CE%94%CE%96465%CE%A7%CE%98%CE%9E-%CE%A0%CE%989",
+  "listing_sha256": "b62103fbe72143ffba4c7e712a97d75864746c652174bbcdecbf44f72b4d55a3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
