@@ -1,0 +1,68 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΜΤΙ4653ΠΩ-ΧΩ5",
+  "subject": "ΚΑΘΟΡΙΣΜΟΣ ΔΙΑΔΙΚΑΣΙΑΣ ΚΑΙ ΔΙΚΑΙΟΛΟΓΗΤΙΚΩΝ ΓΙΑ ΤΗΝ ΠΛΗΡΩΜΗ ΤΟΥ ΕΠΙΔΟΜΑΤΟΣ ΣΙΤΙΣΗΣ ΤΩΝ ΣΠΟΥΔΑΣΤΩΝ ΤΩΝ ΑΚΑΔΗΜΙΩΝ ΕΜΠΟΡΙΚΟΥ ΝΑΥΤΙΚΟΥ (ΑΕΝ) ΤΟΥ ΥΠΟΥΡΓΕΙΟΥ ΝΑΥΤΙΛΙΑΣ & ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ ΓΙΑ ΤΟ ΕΚΠΑΙΔΕΥΤΙΚΟ ΕΤΟΣ 2018-2019",
+  "protocol_number": "2812.50/29946/2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "89529"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1738",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΘΔΨ465ΧΙ8-ΔΑΣ"
+      }
+    ],
+    "co_competent": [
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "100006584"
+        ],
+        "signerIds": [
+          "100042446"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-04-23",
+  "posted": "2019-05-20",
+  "publish_timestamp_ms": 1558334913573,
+  "version_id": "112938f3-c22e-4ff1-9ae2-101ce0a0caaf",
+  "in_force": "2019-05-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%A4%CE%994653%CE%A0%CE%A9-%CE%A7%CE%A95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%A4%CE%994653%CE%A0%CE%A9-%CE%A7%CE%A95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9C%CE%A4%CE%994653%CE%A0%CE%A9-%CE%A7%CE%A95",
+  "listing_sha256": "5ce02cec2b724cacc9719531dd79e8855529bf28ff73fd5ca76ad8c7d63e7d0c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
