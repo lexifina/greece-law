@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΠΗΒΩ98-ΦΤΙ",
+  "subject": "Περίληψη Δημοπρασίας εκμίσθωσης Δημοτικής έκτασης στη θέση ««Μπουχάρι ή Τσούκα» Τ.Κ Δερβιζιάνων   Δ.Ε Λάκκας Σουλίου του Δήμου Δωδώνης 500 τ.μ »",
+  "protocol_number": "4245",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6084",
+    "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82459"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΚΟΒΩ98-ΜΗΣ"
+      }
+    ]
+  },
+  "issued": "2019-05-20",
+  "posted": "2019-05-22",
+  "publish_timestamp_ms": 1558521823506,
+  "version_id": "db95cbc2-3f22-4a3b-ab00-43043112f060",
+  "in_force": "2019-05-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%97%CE%92%CE%A998-%CE%A6%CE%A4%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A0%CE%97%CE%92%CE%A998-%CE%A6%CE%A4%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A0%CE%97%CE%92%CE%A998-%CE%A6%CE%A4%CE%99",
+  "listing_sha256": "07ca2acf6c33b51b977739d525d8996889dd33fe0b25e1f13005bbb93b27425f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
