@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΨΔ6Ω9Ω-ΝΣΞ",
+  "subject": "Πρόγραμμα Ψηφοφορίας Δημοτικών Εκλογών  της 26ης Μαΐου 2019",
+  "protocol_number": "9879",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6057",
+    "label": "ΔΗΜΟΣ ΒΟΛΒΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78098"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-05-21",
+  "posted": "2019-05-22",
+  "publish_timestamp_ms": 1558515558895,
+  "version_id": "54606841-df39-46ec-aa56-05a7774a466f",
+  "in_force": "2019-05-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%946%CE%A99%CE%A9-%CE%9D%CE%A3%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%946%CE%A99%CE%A9-%CE%9D%CE%A3%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A8%CE%946%CE%A99%CE%A9-%CE%9D%CE%A3%CE%9E",
+  "listing_sha256": "33c28e3fba737e41e8943729dd9f73999f76e3239c4c456c8cac94bc7f5cec6b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
