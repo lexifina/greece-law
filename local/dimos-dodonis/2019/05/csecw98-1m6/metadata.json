@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΣΕΨΩ98-1Μ6",
+  "subject": "Περίληψη Δημοπρασίας εκμίσθωσης Δημοτικής έκτασης στη θέση «Γραβιά 6217» Τ.Κ Πολυγύρου  Δ.Ε Δωδώνης του Δήμου Δωδώνης 1000 τ.μ",
+  "protocol_number": "4243",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6084",
+    "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82459"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΘΟ6Ω98-ΣΩΛ"
+      }
+    ]
+  },
+  "issued": "2019-05-20",
+  "posted": "2019-05-22",
+  "publish_timestamp_ms": 1558521010850,
+  "version_id": "b1f8e4e4-175f-42e5-a37a-32f5986c1e2d",
+  "in_force": "2019-05-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A3%CE%95%CE%A8%CE%A998-1%CE%9C6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A3%CE%95%CE%A8%CE%A998-1%CE%9C6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A3%CE%95%CE%A8%CE%A998-1%CE%9C6",
+  "listing_sha256": "07ca2acf6c33b51b977739d525d8996889dd33fe0b25e1f13005bbb93b27425f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
