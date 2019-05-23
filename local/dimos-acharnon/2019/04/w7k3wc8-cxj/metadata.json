@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω7Κ3ΩΨ8-ΨΧΞ",
+  "subject": "ΠΡΟΓΡΑΜΜΑΤΙΚΗ ΣΥΜΦΩΝΙΑ ΟΙΚΟΝΟΜΙΚΗΣ ΥΠΟΣΤΗΡΙΞΗΣ Δ. ΑΧΑΡΝΩΝ ΓΙΑ ΤΟ ΟΙΚΟΝΟΜΙΚΟ ΕΤΟΣ 2019.",
+  "protocol_number": "ΔΥ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6050",
+    "label": "ΔΗΜΟΣ ΑΧΑΡΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82440"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1635",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "ΔΥ",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-04-18",
+  "posted": "2019-05-23",
+  "publish_timestamp_ms": 1558599774418,
+  "version_id": "1f53dbdb-225a-4b69-906b-d3b5e8d7c1e4",
+  "in_force": "2019-05-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%9A3%CE%A9%CE%A88-%CE%A8%CE%A7%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%9A3%CE%A9%CE%A88-%CE%A8%CE%A7%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A97%CE%9A3%CE%A9%CE%A88-%CE%A8%CE%A7%CE%9E",
+  "listing_sha256": "b62103fbe72143ffba4c7e712a97d75864746c652174bbcdecbf44f72b4d55a3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
