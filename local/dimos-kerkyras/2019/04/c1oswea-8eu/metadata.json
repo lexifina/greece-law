@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ1ΟΣΩΕΑ-8ΕΘ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΓΙΑ ΥΠΕΡΩΡΙΑΚΗ ΑΠΑΣΧΟΛΗΣΗ",
+  "protocol_number": "16484",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6147",
+    "label": "ΔΗΜΟΣ ΚΕΡΚΥΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "90980"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1839",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxiaa": "5",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-04-09",
+  "posted": "2019-05-29",
+  "publish_timestamp_ms": 1559121461057,
+  "version_id": "0c1c0cf8-c8fb-4e82-9b51-340e94289f69",
+  "in_force": "2019-05-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A81%CE%9F%CE%A3%CE%A9%CE%95%CE%91-8%CE%95%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A81%CE%9F%CE%A3%CE%A9%CE%95%CE%91-8%CE%95%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A81%CE%9F%CE%A3%CE%A9%CE%95%CE%91-8%CE%95%CE%98",
+  "listing_sha256": "d806fb26c906bb5bde11445b49f0996e1ec614b083717451e9d554811b8fbd7a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
