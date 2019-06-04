@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΡΙ5ΩΗ0-ΚΣΩ",
+  "subject": "Έγκριση οφειλόμενου ποσού μετά από την αριθμ. 476/2018 απόφαση του Διοικητικού Εφετείου Λάρισας (υπόθεση Τσιανάκα Σωτήριο και τριών μελών οικογένειας, με τον πρώην Δήμο Ενιπέα)",
+  "protocol_number": "6370",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6306",
+    "label": "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82053"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "120/2019",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΛ41ΩΗ0-ΝΙΦ"
+      },
+      {
+        "relatedDecisionsADA": "Ω567ΩΗ0-Ω0Η"
+      }
+    ]
+  },
+  "issued": "2019-05-31",
+  "posted": "2019-06-04",
+  "publish_timestamp_ms": 1559631135338,
+  "version_id": "060015cb-5394-48c1-8903-933e5c57f7a2",
+  "in_force": "2019-06-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%995%CE%A9%CE%970-%CE%9A%CE%A3%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%995%CE%A9%CE%970-%CE%9A%CE%A3%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A1%CE%995%CE%A9%CE%970-%CE%9A%CE%A3%CE%A9",
+  "listing_sha256": "8bafa17817ebf32558b1313573d0336b7431549b9f2efb6b67852d555c907525",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
