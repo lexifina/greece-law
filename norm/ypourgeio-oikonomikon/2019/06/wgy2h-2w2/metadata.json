@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΥ2Η-2Ω2",
+  "subject": "Αναστολή επιχορήγησης ή απόδοσης πόρων ή οποιασδήποτε μορφής ενίσχυσης και καταβολής των αμοιβών των μελών του Διοικητικού Συμβουλίου της Δημοτικής Κοινωφελούς Επιχείρησης Περιβάλλοντος και Πολιτισμού Κύμης Αλιβερίου",
+  "protocol_number": "42065 ΕΞ2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100025300"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1550",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "42065ΕΞ201",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025896",
+        "unitId": [
+          "100033585"
+        ],
+        "signerIds": [
+          "100042349"
+        ]
+      },
+      {
+        "ministryId": "100025899",
+        "unitId": [
+          "100005013"
+        ],
+        "signerIds": [
+          "100042376"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-06-05",
+  "posted": "2019-06-05",
+  "publish_timestamp_ms": 1559720783458,
+  "version_id": "5d30511a-fc0b-4797-8107-8079cda432ea",
+  "in_force": "2019-06-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A52%CE%97-2%CE%A92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A52%CE%97-2%CE%A92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%A52%CE%97-2%CE%A92",
+  "listing_sha256": "e708a83a2002e132ec630085fca0a9ff242a24955892b51fc639f8a32710c56e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
