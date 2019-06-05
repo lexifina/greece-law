@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΛΚΟΡ1Γ-1Σ9",
+  "subject": "Επικύρωση καθορισμού οριογραμμών υδατορεμάτων στην περιοχή μετεγκατάστασης οικισμού Μαυροπηγής στη θέση «Ρεμιναλάρ» του αγροκτήματος Μαυροπηγής στον Δήμο Εορδαίας, της Π.Ε. Κοζάνης στην Περιφέρεια Δυτικής Μακεδονίας, σύμφωνα με το άρθρο 3, περ. Α, του ν. 4258/14.",
+  "protocol_number": "65805",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76543"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "255",
+      "issue": "fektype_D",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-05-09",
+  "posted": "2019-06-05",
+  "publish_timestamp_ms": 1559719473009,
+  "version_id": "1176eb53-af5c-41f5-a47a-dd53eb6b3407",
+  "in_force": "2019-06-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%9B%CE%9A%CE%9F%CE%A11%CE%93-1%CE%A39",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%9B%CE%9A%CE%9F%CE%A11%CE%93-1%CE%A39/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%9B%CE%9A%CE%9F%CE%A11%CE%93-1%CE%A39",
+  "listing_sha256": "38dce1a45b5c8c519707c9f1b544afe935bc763bdce411536d8a993e9c941e08",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
