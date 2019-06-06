@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΡΩ6Η-ΑΕΗ",
+  "subject": "Άνοιγμα του λογαριασμού \"Ε.Δ. - Λογαριασμός αποδοχών ΠΔΕ Υπουργείου Οικονομικών\" στην Τράπεζα της Ελλάδος και καθορισμός κινησής του.",
+  "protocol_number": "2/36852/ΔΛΓΚ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2001",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "2/36852",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-05-08",
+  "posted": "2019-06-06",
+  "publish_timestamp_ms": 1559804369865,
+  "version_id": "de86f880-f264-465f-93a0-d66b391327d8",
+  "in_force": "2019-06-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A1%CE%A96%CE%97-%CE%91%CE%95%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A1%CE%A96%CE%97-%CE%91%CE%95%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A1%CE%A96%CE%97-%CE%91%CE%95%CE%97",
+  "listing_sha256": "36a5c48a73de7b51bd7cb8b4b9a650996c7c3f50f80d07bcbcdd106bca890351",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
