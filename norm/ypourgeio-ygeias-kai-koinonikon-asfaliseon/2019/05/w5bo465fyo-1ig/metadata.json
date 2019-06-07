@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω5ΒΟ465ΦΥΟ-1ΙΓ",
+  "subject": "Τροποποίηση – συμπλήρωση Οργανισμού του Γενικού Νοσοκομείου ‘’ΒΕΝΙΖΕΛΕΙΟ - ΠΑΝΑΝΕΙΟ’’",
+  "protocol_number": "Γ2α/60432/18",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78927"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2084",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025899",
+        "unitId": [
+          "100005000"
+        ],
+        "signerIds": [
+          "100042376"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100009868"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-05-13",
+  "posted": "2019-06-07",
+  "publish_timestamp_ms": 1559884966169,
+  "version_id": "4749dc10-2d11-48b5-8a0f-d372ce3bc560",
+  "in_force": "2019-06-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%92%CE%9F465%CE%A6%CE%A5%CE%9F-1%CE%99%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%92%CE%9F465%CE%A6%CE%A5%CE%9F-1%CE%99%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A95%CE%92%CE%9F465%CE%A6%CE%A5%CE%9F-1%CE%99%CE%93",
+  "listing_sha256": "ac4c3449619038476205b3f8fdf4b822005164e7d340ec98e50963afdf87e59a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
