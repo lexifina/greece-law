@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60Μ2Ω62-ΚΜΒ",
+  "subject": "Παροχή εντολής στους Νομικούς Συμβούλους για την εκπροσώπηση του Δήμου Αγίων Αναργύρων - Καματερού, όπως παραστούν ενώπιον των δικαστηρίων Αθην",
+  "protocol_number": "151/2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6009",
+    "label": "ΔΗΜΟΣ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78024"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "151/2019",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-06-04",
+  "posted": "2019-06-07",
+  "publish_timestamp_ms": 1559893090239,
+  "version_id": "d5870051-b59c-4686-add6-c5e5b0347ce2",
+  "in_force": "2019-06-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%9C2%CE%A962-%CE%9A%CE%9C%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%9C2%CE%A962-%CE%9A%CE%9C%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%9C2%CE%A962-%CE%9A%CE%9C%CE%92",
+  "listing_sha256": "8214caf9e6774010468e2083c087a6ef54a84301a4d8177bba6b0e257cf02e10",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
