@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "62ΖΛ465ΧΘΞ-ΜΛΓ",
+  "subject": "Δημοσίευση της με αριθμ. πρωτ. οικ. 44464/452/31-5-2019 (ΦΕΚ 2140/Β΄/2019) απόφασης του Υπουργού Υποδομών και Μεταφορών.",
+  "protocol_number": "οικ. 46988/474",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100036519"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΔΝΒ465ΧΘΞ-750"
+      }
+    ]
+  },
+  "issued": "2019-06-10",
+  "posted": "2019-06-10",
+  "publish_timestamp_ms": 1560153424573,
+  "version_id": "9a0be872-1d2e-4013-b4c8-229432b0cffc",
+  "in_force": "2019-06-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/62%CE%96%CE%9B465%CE%A7%CE%98%CE%9E-%CE%9C%CE%9B%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/62%CE%96%CE%9B465%CE%A7%CE%98%CE%9E-%CE%9C%CE%9B%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/62%CE%96%CE%9B465%CE%A7%CE%98%CE%9E-%CE%9C%CE%9B%CE%93",
+  "listing_sha256": "d8c6a24beea072db27951c679d1e3a63978c011dfd104b56508802b1e6bb8992",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
