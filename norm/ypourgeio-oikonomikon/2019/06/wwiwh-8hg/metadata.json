@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΩΙΩΗ-8ΗΓ",
+  "subject": "ΑΠΟΦΑΣΗ ΥΠΕΡΩΡΙΩΝ ΑΔΑΔΟ",
+  "protocol_number": "60817 ΕΞ 2019 ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100011008"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2293",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "69Α5Η-9ΞΠ"
+      }
+    ]
+  },
+  "issued": "2019-06-04",
+  "posted": "2019-06-14",
+  "publish_timestamp_ms": 1560496129441,
+  "version_id": "63eecfff-b5d0-4850-8d2e-92ade621b7c4",
+  "in_force": "2019-06-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A9%CE%99%CE%A9%CE%97-8%CE%97%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A9%CE%99%CE%A9%CE%97-8%CE%97%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A9%CE%99%CE%A9%CE%97-8%CE%97%CE%93",
+  "listing_sha256": "8214caf9e6774010468e2083c087a6ef54a84301a4d8177bba6b0e257cf02e10",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
