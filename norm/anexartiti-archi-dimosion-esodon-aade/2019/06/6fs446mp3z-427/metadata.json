@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΦΣ446ΜΠ3Ζ-427",
+  "subject": "ΤΡΟΠΟΠΟΙΗΣΗ ΤΗΣ Α.1007/9.1.2019 (Β' 38)ΑΠΟΦΑΣΗΣ ΤΩΝ ΥΠΟΥΡΓΩΝ ΟΙΚΟΝΟΜΙΚΩΝ, ΨΗΦΙΑΚΗΣ ΠΟΛΙΤΙΚΗΣ, ΤΗΛΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΝΗΜΕΡΩΣΗΣ ΚΑΙ ΠΟΛΙΤΙΣΜΟΥ ΚΑΙ ΑΘΛΗΤΙΣΜΟΥ ΚΑΙ ΤΟΥ ΔΙΟΙΚΗΤΗ ΤΗΣ ΑΝΕΞΑΡΤΗΤΗΣ ΑΡΧΗΣ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ \"ΚΑΘΟΡΙΣΜΟΣ ΤΩΝ ΕΠΙΛΕΞΙΜΩΝ ΔΑΠΑΝΩΝ, ΤΩΝ ΚΑΤΗΓΟΡΙΩΝ ΤΩΝ ΟΠΤΙΚΟΑΚΟΥΣΤΙΚΩΝ ΕΡΓΩΝ,  ΤΗΣ ΔΙΑΔΙΚΑΣΙΑΣ ΚΑΙ ΤΟΥ ΧΡΟΝΟΥ ΕΛΕΓΧΟΥ ΤΗΣ ΤΗΡΗΣΗΣ ΤΩΝ ΟΡΩΝ ΚΑΙ ΠΡΟΫΠΟΘΕΣΕΩΝ ΤΩΝ ΔΙΑΤΑΞΕΩΝ ΤΟΥ ΑΡΘΡΟΥ 71Ε ΤΟΥ ν.4172/2013 (ΦΕΚ Α' 167), ΚΑΘΩΣ ΚΑΙ ΤΩΝ ΠΡΟΫΠΟΘΕΣΕΩΝ, ΤΩΝ ΟΡΩΝ ΚΑΙ ΤΗΣ ΔΙΑΔΙΚΑΣΙΑΣ ΚΑΙ ΚΑΘΕ ΑΛΛΗΣ ΛΕΠΤΟΜΕΡΕΙΑΣ ΓΙΑ ΤΗΝ ΕΦΑΡΜΟΓΗ ΤΟΥ ΑΡΘΡΟΥ ΑΥΤΟΥ\".",
+  "protocol_number": "Α.1220",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100029749"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2383",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1220",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100015966",
+        "unitId": [
+          "100005251"
+        ],
+        "signerIds": [
+          "100042263"
+        ]
+      },
+      {
+        "ministryId": "100025908",
+        "unitId": [
+          "100022084"
+        ],
+        "signerIds": [
+          "100034332"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-06-20",
+  "posted": "2019-06-20",
+  "publish_timestamp_ms": 1561011962385,
+  "version_id": "c62dc5fb-0329-4a06-babd-4c645b6e1e24",
+  "in_force": "2019-06-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A6%CE%A3446%CE%9C%CE%A03%CE%96-427",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A6%CE%A3446%CE%9C%CE%A03%CE%96-427/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A6%CE%A3446%CE%9C%CE%A03%CE%96-427",
+  "listing_sha256": "74d647a2eb904d83fb0478059ba78fdb13aed298c34e07be4660486f9b1e6f35",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
