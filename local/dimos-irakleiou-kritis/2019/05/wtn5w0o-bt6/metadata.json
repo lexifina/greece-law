@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΝ5Ω0Ο-ΒΤ6",
+  "subject": "ΑΠΟΦΑΣΗ ΚΑΘΙΕΡΩΣΗΣ ΥΠΕΡΩΡΙΩΝ Β΄ΕΞΑΜΗΝΟΥ 2019 ΥΠΗΡΕΣΙΩΝ ΤΟΥ ΔΗΜΟΥ ΗΡΑΚΛΕΙΟΥ ΚΡΗΤΗΣ",
+  "protocol_number": "51911",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100002582"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2345",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-05-30",
+  "posted": "2019-06-20",
+  "publish_timestamp_ms": 1561010314862,
+  "version_id": "f8a32cfb-911a-4cc2-a676-ccd5da58f117",
+  "in_force": "2019-06-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%9D5%CE%A90%CE%9F-%CE%92%CE%A46",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%9D5%CE%A90%CE%9F-%CE%92%CE%A46/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%9D5%CE%A90%CE%9F-%CE%92%CE%A46",
+  "listing_sha256": "b263600cd4cbddc81025bb92cc4ad03c968797fc7604778607c44d0368ed3736",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
