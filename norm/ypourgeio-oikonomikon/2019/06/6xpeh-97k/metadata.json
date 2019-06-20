@@ -1,0 +1,49 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΧΠΕΗ-97Κ",
+  "subject": "Παραχώρηση δωρεάν και κατά κυριότητα του δημοσίου κτήματος Άρτας με ΑΒΚ238 στο Ταμείο Χρηματοδότησης Δικαστικών Κτιρίων",
+  "protocol_number": "68227 ΕΞ 2019/20-06-2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100025432"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "68227",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100038133"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-06-20",
+  "posted": "2019-06-20",
+  "publish_timestamp_ms": 1561031329148,
+  "version_id": "bdedf952-b18f-463a-a19e-76e0617d325c",
+  "in_force": "2019-06-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%A0%CE%95%CE%97-97%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%A0%CE%95%CE%97-97%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A7%CE%A0%CE%95%CE%97-97%CE%9A",
+  "listing_sha256": "755ab43d96446ffdfbf9a636bdf821c28cc9bd0b4581e5b01583d07b7ce33770",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
