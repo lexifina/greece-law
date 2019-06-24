@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΕΑΩΟΡ1Ι-ΙΚΘ",
+  "subject": "Απόφαση έγκρισης κυκλοφοριακών ρυθμίσεων που αφορά στην Δημοτική\nΚοινότητα Μύρινας του Δήμου Λήμνου.",
+  "protocol_number": "26938",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76674"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2428",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "26938",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-06-24",
+  "posted": "2019-06-24",
+  "publish_timestamp_ms": 1561369794900,
+  "version_id": "0460dbeb-156a-4ede-a959-55cf32c38411",
+  "in_force": "2019-06-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%91%CE%A9%CE%9F%CE%A11%CE%99-%CE%99%CE%9A%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%91%CE%A9%CE%9F%CE%A11%CE%99-%CE%99%CE%9A%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%95%CE%91%CE%A9%CE%9F%CE%A11%CE%99-%CE%99%CE%9A%CE%98",
+  "listing_sha256": "3d7381ef3ac12414d22bbf5875055b5356b25b6b1aa1e60b35954832448107ea",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
