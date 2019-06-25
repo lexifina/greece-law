@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΧΓΥΗ-1ΣΕ",
+  "subject": "Καταβολή επιδόματος αεροθεραπείας σε ανάπηρους συνταξιούχους του Δημοσίου και του Ενιαίου Φορέα Κοινωνικής Ασφάλισης (Ε.Φ.Κ.Α.), για τη θερινή περίοδο 2019.",
+  "protocol_number": "85096",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100009869"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2476",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "85096",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100012977",
+        "unitId": [
+          "71771"
+        ],
+        "signerIds": [
+          "100015491"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-05-24",
+  "posted": "2019-06-25",
+  "publish_timestamp_ms": 1561448942388,
+  "version_id": "b5e71527-173b-49be-979b-8c4b3a28e08b",
+  "in_force": "2019-06-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A7%CE%93%CE%A5%CE%97-1%CE%A3%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%A7%CE%93%CE%A5%CE%97-1%CE%A3%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%A7%CE%93%CE%A5%CE%97-1%CE%A3%CE%95",
+  "listing_sha256": "0364fb8740c8e14d63431e6d958023fea982e27a0608f1051bad8f9d753dd410",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
