@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΙΥ3ΟΡ1Κ-7Γ8",
+  "subject": "Απόφαση έγκρισης κυκλοφοριακών ρυθμίσεων σύμφωνα με την υπ’ αριθ. 59/2019 απόφαση του Δημοτικού Συμβουλίου του Δήμου Ωρωπού.",
+  "protocol_number": "53021/369",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50196",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΤΤΙΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76318"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2493",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-05-24",
+  "posted": "2019-06-26",
+  "publish_timestamp_ms": 1561537716765,
+  "version_id": "3a34d06c-1a87-4d1c-8a77-09f5a53ed243",
+  "in_force": "2019-06-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%A53%CE%9F%CE%A11%CE%9A-7%CE%938",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%A53%CE%9F%CE%A11%CE%9A-7%CE%938/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%99%CE%A53%CE%9F%CE%A11%CE%9A-7%CE%938",
+  "listing_sha256": "0364fb8740c8e14d63431e6d958023fea982e27a0608f1051bad8f9d753dd410",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
