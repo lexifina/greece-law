@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΩΕΤΟΡ10-ΗΑ7",
+  "subject": "«Έλεγχος νομιμότητας της υπ’ αριθμ. 439/2019 απόφασης του Δ.Σ. Δήμου Βόλου »",
+  "protocol_number": "1232/103804",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77990"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΝ3ΚΩ96-60Δ"
+      }
+    ]
+  },
+  "issued": "2019-06-27",
+  "posted": "2019-06-27",
+  "publish_timestamp_ms": 1561615577474,
+  "version_id": "6fc8d27f-fc71-4703-ad60-83621223e8f0",
+  "in_force": "2019-06-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A9%CE%95%CE%A4%CE%9F%CE%A110-%CE%97%CE%917",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A9%CE%95%CE%A4%CE%9F%CE%A110-%CE%97%CE%917/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A9%CE%95%CE%A4%CE%9F%CE%A110-%CE%97%CE%917",
+  "listing_sha256": "a9b1aef5f62469b26040d9cc1c0b03606ffc4afbc363b5f5d5c611bc848ecb76",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
