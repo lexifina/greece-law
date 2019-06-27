@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΓΛΩΕΒ-Ρ6Ν",
+  "subject": "ΤΡΟΠΟΠΟΙΗΣΗ ΑΠΟΦΑΣΗΣ ΓΙΑ ΤΗΝ ΑΝΑΘΕΣΗ ΑΡΜΟΔΙΟΤΗΤΩΝ ΓΙΑ ΤΗ ΔΙΕΝΕΡΓΕΙΑ ΤΩΝ ΕΚΛΟΓΩΝ ΤΗΣ 26ΗΣ ΜΑΙΟΥ ΚΑΙ ΤΩΝ ΕΠΑΝΑΛΗΠΤΙΚΩΝ ΤΗΣ 2ΑΣ ΙΟΥΝΙΟΥ",
+  "protocol_number": "16233",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6123",
+    "label": "ΔΗΜΟΣ ΙΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93789"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ψ9ΑΖΩΕΒ-1ΙΨ"
+      }
+    ]
+  },
+  "issued": "2019-05-22",
+  "posted": "2019-06-27",
+  "publish_timestamp_ms": 1561620480959,
+  "version_id": "baf84c27-b790-4a99-b743-c11bf7cb19be",
+  "in_force": "2019-06-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%93%CE%9B%CE%A9%CE%95%CE%92-%CE%A16%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%93%CE%9B%CE%A9%CE%95%CE%92-%CE%A16%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%93%CE%9B%CE%A9%CE%95%CE%92-%CE%A16%CE%9D",
+  "listing_sha256": "ebe1def251f9a7d474478fbdf367fd3ea89046073cd2fac9a32d1adf948601b9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
