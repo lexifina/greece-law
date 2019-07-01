@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ17ΛΩΨ7-ΤΦΩ",
+  "subject": "6η αναμόρφωση προϋπολογισμού οικον. έτους 2019.",
+  "protocol_number": "12174",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6022",
+    "label": "ΔΗΜΟΣ ΑΛΜΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79081"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-07-01",
+  "posted": "2019-07-01",
+  "publish_timestamp_ms": 1561978111236,
+  "version_id": "dd914839-4f73-4b45-a98e-17cb02533c21",
+  "in_force": "2019-07-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A817%CE%9B%CE%A9%CE%A87-%CE%A4%CE%A6%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A817%CE%9B%CE%A9%CE%A87-%CE%A4%CE%A6%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A817%CE%9B%CE%A9%CE%A87-%CE%A4%CE%A6%CE%A9",
+  "listing_sha256": "b1ad77cbbf206f6e5564b69bbc7f1c454961178e9ce1b366951be97811fa6381",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
