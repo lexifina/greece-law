@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΓ2ΤΩΕΑ-ΡΔ8",
+  "subject": "«Έγκριση του υπ’ αριθμόν 2-3/20-04-2017 πρακτικού της Επιτροπής Επίλυσης Φορολογικών Διαφορών με Συμβιβασμό».",
+  "protocol_number": "10-393",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6147",
+    "label": "ΔΗΜΟΣ ΚΕΡΚΥΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83170"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Ο0ΙΩΕΑ-Ψ1Ψ"
+      },
+      {
+        "relatedDecisionsADA": "73Η8465ΦΘΕ-ΔΥΑ"
+      },
+      {
+        "relatedDecisionsADA": "6ΣΩΟΩΕΑ-8Θ3"
+      }
+    ]
+  },
+  "issued": "2019-06-21",
+  "posted": "2019-07-01",
+  "publish_timestamp_ms": 1561975715691,
+  "version_id": "067362a9-6a98-4a09-8fd2-846f53f6411f",
+  "in_force": "2019-07-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%932%CE%A4%CE%A9%CE%95%CE%91-%CE%A1%CE%948",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%932%CE%A4%CE%A9%CE%95%CE%91-%CE%A1%CE%948/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%932%CE%A4%CE%A9%CE%95%CE%91-%CE%A1%CE%948",
+  "listing_sha256": "72d36d143b04bb30c8b06f4a94269e0e20532c8abc8a433d4945be77c95b1d6e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
