@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω2Ω146ΜΠ3Ζ-77Δ",
+  "subject": "Τροποποίηση της αριθμ. πρωτ. ΔΙ.Π.Α.Ε.Ε. 1003215 ΕΞ 2019/9-1-2019 (Β΄233) Απόφασης του Διοικητή της Α.Α.Δ.Ε. περί καθορισμού του αριθμού φορολογικών ελέγχων και ερευνών που θα διενεργηθούν από τις Υ.Ε.Δ.Δ.Ε. κατά το έτος 2019.",
+  "protocol_number": "ΔΙ.Π.Α.Ε.Ε. 1093062 ΕΞ 2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100030125"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2657",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-06-27",
+  "posted": "2019-07-02",
+  "publish_timestamp_ms": 1562044678099,
+  "version_id": "89b69a52-e706-490e-88ea-6599b52de01a",
+  "in_force": "2019-07-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%A9146%CE%9C%CE%A03%CE%96-77%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%A9146%CE%9C%CE%A03%CE%96-77%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A92%CE%A9146%CE%9C%CE%A03%CE%96-77%CE%94",
+  "listing_sha256": "f0aff69bdae83fd3a54f3365f5eb81541a1cdcb6052c494d9a157910657a3ea8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
