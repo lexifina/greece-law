@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΨΗΩΗ-8ΥΚ",
+  "subject": "Τροποποίηση του άρθρου 5 της με αριθμό 170285/0092/05.12.2018 κοινής απόφασης των Υπουργών Εργασίας, Κοινωνικής Ασφάλισης και Κοινωνικής Αλληλεγγύης και Οικονομικών \"Καταβολή εφάπαξ χρηματικού ποσού στα πρόσωπα του άρθρου 15 του ν. 4575/2018\" (ΦΕΚ Β΄ 5503).",
+  "protocol_number": "17059",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100009869"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2647",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "17059",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100012977",
+        "unitId": [
+          "100009305"
+        ],
+        "signerIds": [
+          "100015491"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-06-24",
+  "posted": "2019-07-02",
+  "publish_timestamp_ms": 1562066488699,
+  "version_id": "16290da2-7ff6-49de-b0b8-c8fdb58ed3f2",
+  "in_force": "2019-07-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%97%CE%A9%CE%97-8%CE%A5%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%97%CE%A9%CE%97-8%CE%A5%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A8%CE%97%CE%A9%CE%97-8%CE%A5%CE%9A",
+  "listing_sha256": "578eeaf81d8e449d95f3053f83da08b641acf35910570120994f9c322fe1e616",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
