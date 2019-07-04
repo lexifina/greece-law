@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "606ΨΩ9Μ-Σ00",
+  "subject": "Έγκριση της 120/2019 απόφασης - εισήγησης της Ο.Ε. σχετικά με την 5η Αναμόρφωση Προϋπολογισμού Δήμου Δράμας οικ. έτους 2019",
+  "protocol_number": "17599/25-06-2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100025925"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "287-2019",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΔΤΣΩ9Μ-ΘΚΟ"
+      }
+    ]
+  },
+  "issued": "2019-06-26",
+  "posted": "2019-07-04",
+  "publish_timestamp_ms": 1562217063937,
+  "version_id": "77451aab-9f44-42ea-8f9e-6cfd41084442",
+  "in_force": "2019-07-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/606%CE%A8%CE%A99%CE%9C-%CE%A300",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/606%CE%A8%CE%A99%CE%9C-%CE%A300/document",
+  "page": "https://diavgeia.gov.gr/decision/view/606%CE%A8%CE%A99%CE%9C-%CE%A300",
+  "listing_sha256": "79ac79837640fae89352830991dc6488e16d4541cb0a2d21ce841f5596324055",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
