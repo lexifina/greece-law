@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΣΝΔ6-757",
+  "subject": "Νομοθεσία Στρατολογίας",
+  "protocol_number": "Φ.429.1/42/217818/Σ.4199/23 Ιουνίου 2019/ΓΕΕΘΑ/Β4(ΔΝΣ)/ΤΜΗΜΑ ΣΤΡΑΤΟΛΟΓΙΚΗΣ ΝΟΜΟΘΕΣΙΑΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100023360"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2699",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-06-23",
+  "posted": "2019-07-04",
+  "publish_timestamp_ms": 1562219631126,
+  "version_id": "a717bbb2-2e8c-49ff-a96d-83714797bf5e",
+  "in_force": "2019-07-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A3%CE%9D%CE%946-757",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A3%CE%9D%CE%946-757/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A3%CE%9D%CE%946-757",
+  "listing_sha256": "961719c6ce8d6288edac9cc9f93c0a17ac3e958be8b5ae280f750295bfeded84",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
