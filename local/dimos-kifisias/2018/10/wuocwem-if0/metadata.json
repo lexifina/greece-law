@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΘΟΨΩΕΜ-ΙΦ0",
+  "subject": "Αρ. Αποφ. 500/2018 με ΘΕΜΑ 3ο: Επί της υπ’αρ. 60/2018 απόφασης της ΕΠΖ, η οποία αφορά: «Λήψη μέτρων μείωσης ταχύτητας επί της οδού Θέτιδος στην Εκάλη».",
+  "protocol_number": "45409",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6149",
+    "label": "ΔΗΜΟΣ ΚΗΦΙΣΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82397"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1081",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "14434/101",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2018-10-12",
+  "posted": "2019-07-05",
+  "publish_timestamp_ms": 1562310345926,
+  "version_id": "af88ab87-f157-4988-a4ab-cb53e7056b19",
+  "in_force": "2019-07-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%9F%CE%A8%CE%A9%CE%95%CE%9C-%CE%99%CE%A60",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%9F%CE%A8%CE%A9%CE%95%CE%9C-%CE%99%CE%A60/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%98%CE%9F%CE%A8%CE%A9%CE%95%CE%9C-%CE%99%CE%A60",
+  "listing_sha256": "eff016e2969020aad9c5120dbcd3e35da160792c826e5b13b5b80d351a92f7ba",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
