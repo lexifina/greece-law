@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ4ΚΩ4653ΠΓ-8ΚΗ",
+  "subject": "Καθορισμός ανωτάτου ορίου επιτρεπόμενων κατ’ έτος ημερών εκτός έδρας μετακινούμενων προσώπων του Ενιαίου Φορέα Ελέγχου Τροφίμων (ΕΦΕΤ) - ΝΠΔΔ",
+  "protocol_number": "579/143013",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007195"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2488",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-06-14",
+  "posted": "2019-07-05",
+  "publish_timestamp_ms": 1562322176738,
+  "version_id": "35cf8d5b-0000-4b5f-bcaa-0405ed9bbd62",
+  "in_force": "2019-07-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%9A%CE%A94653%CE%A0%CE%93-8%CE%9A%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%9A%CE%A94653%CE%A0%CE%93-8%CE%9A%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A84%CE%9A%CE%A94653%CE%A0%CE%93-8%CE%9A%CE%97",
+  "listing_sha256": "1e6eaed7deb0daedf5859cc364206c6ec3fce52b5c1d26842fbb1c48c0638b4d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
