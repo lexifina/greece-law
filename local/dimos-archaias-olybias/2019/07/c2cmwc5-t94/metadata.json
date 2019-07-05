@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ2ΨΜΩΨ5-Τ94",
+  "subject": "Αναμορφώσεις προϋπολογισμού.",
+  "protocol_number": "4412",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6046",
+    "label": "ΔΗΜΟΣ ΑΡΧΑΙΑΣ ΟΛΥΜΠΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87869"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-07-02",
+  "posted": "2019-07-05",
+  "publish_timestamp_ms": 1562316024342,
+  "version_id": "58ca8609-9eca-485c-ad07-da9cb9279dd7",
+  "in_force": "2019-07-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A82%CE%A8%CE%9C%CE%A9%CE%A85-%CE%A494",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A82%CE%A8%CE%9C%CE%A9%CE%A85-%CE%A494/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A82%CE%A8%CE%9C%CE%A9%CE%A85-%CE%A494",
+  "listing_sha256": "7ef826a659964b84665667fed6d6b6f1bd101f8292380f42f58ccdfbb3e93c3d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
