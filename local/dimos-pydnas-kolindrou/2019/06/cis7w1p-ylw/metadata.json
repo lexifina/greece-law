@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΙΣ7Ω1Π-ΥΛΩ",
+  "subject": "Έκτακτη επιχορήγηση ποσού 7.000,00 € από το Δήμο προς το ΔΗ.ΦΟ.Π.Α. Π.Ο.Υ. κατόπιν αιτήματός του",
+  "protocol_number": "146/24-06-2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6256",
+    "label": "ΔΗΜΟΣ ΠΥΔΝΑΣ - ΚΟΛΙΝΔΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "77979"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "146/2019",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-06-24",
+  "posted": "2019-07-05",
+  "publish_timestamp_ms": 1562323121392,
+  "version_id": "16c3c709-b8a2-4803-a921-520c75c6293a",
+  "in_force": "2019-07-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%99%CE%A37%CE%A91%CE%A0-%CE%A5%CE%9B%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%99%CE%A37%CE%A91%CE%A0-%CE%A5%CE%9B%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%99%CE%A37%CE%A91%CE%A0-%CE%A5%CE%9B%CE%A9",
+  "listing_sha256": "578eeaf81d8e449d95f3053f83da08b641acf35910570120994f9c322fe1e616",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
