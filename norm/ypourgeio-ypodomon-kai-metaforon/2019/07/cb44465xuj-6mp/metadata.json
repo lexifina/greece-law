@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΒ44465ΧΘΞ-6ΜΠ",
+  "subject": ": Δημιουργία και διαχείριση έντοκου Τραπεζικού Λογαριασμού από το  TΜΕΔΕ για την συλλογή του  πόρου 2,5‰",
+  "protocol_number": "ΔΝΣβ/ 51667 /ΦΝ 466",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007413"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2780",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-07-05",
+  "posted": "2019-07-05",
+  "publish_timestamp_ms": 1562320265714,
+  "version_id": "f7e25e62-7b5d-4c7c-8891-c18c9c627be5",
+  "in_force": "2019-07-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9244465%CE%A7%CE%98%CE%9E-6%CE%9C%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9244465%CE%A7%CE%98%CE%9E-6%CE%9C%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9244465%CE%A7%CE%98%CE%9E-6%CE%9C%CE%A0",
+  "listing_sha256": "e225fd91339e654892d691931a6f40ff89f3cd36e6cd8b9c5c64719351bfa6c3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
