@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠ604653Π8-861",
+  "subject": "Σύσταση και συγκρότηση της Επιτελικής Επιτροπής Συντονισμού και Παρακολούθησης της εκπόνησης του Ειδικού Χωροταξικού Πλαισίου για τις Ορυκτές Πρώτες Ύλες",
+  "protocol_number": "ΥΠΕΝ/ΔΧΩΡΣ/59864/695",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100006905"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2832",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-07-01",
+  "posted": "2019-07-08",
+  "publish_timestamp_ms": 1562574197510,
+  "version_id": "967debc4-2e6f-4c36-8cb3-16b5f0a0ab7b",
+  "in_force": "2019-07-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0604653%CE%A08-861",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0604653%CE%A08-861/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A0604653%CE%A08-861",
+  "listing_sha256": "b1ad77cbbf206f6e5564b69bbc7f1c454961178e9ce1b366951be97811fa6381",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
