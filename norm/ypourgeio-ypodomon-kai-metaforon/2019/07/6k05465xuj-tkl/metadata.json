@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Κ05465ΧΘΞ-ΤΚΛ",
+  "subject": "Νομική κάλυψη τεχνικών υπαλλήλων σε περίπτωση ποινικών διώξεων εις βάρος τους",
+  "protocol_number": "ΔΝΣβ/οικ.54351/ΦΝ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035917"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2844",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-07-08",
+  "posted": "2019-07-08",
+  "publish_timestamp_ms": 1562570102706,
+  "version_id": "c32a9198-6b9c-4ae7-9a65-8558ad689700",
+  "in_force": "2019-07-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A05465%CE%A7%CE%98%CE%9E-%CE%A4%CE%9A%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A05465%CE%A7%CE%98%CE%9E-%CE%A4%CE%9A%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9A05465%CE%A7%CE%98%CE%9E-%CE%A4%CE%9A%CE%9B",
+  "listing_sha256": "65d95a55e9337e13ea9e65f05dc85c7d696c0dd9ff0154bcf6e11e1b07f612a0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
