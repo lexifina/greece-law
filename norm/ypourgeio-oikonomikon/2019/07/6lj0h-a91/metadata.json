@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΛΞ0Η-Α91",
+  "subject": "Παροχή της εγγύησης του Ελληνικού Δημοσίου στην Ευρωπαϊκή Τράπεζα Επενδύσεων (ΕΤΕπ) για δανεισμό της Τράπεζας «EUROBANK ERGASIAS A.E.» ποσού 11.500.000,00 €.",
+  "protocol_number": "2/46234/0025",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87525"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2830",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "2/46234",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-07-08",
+  "posted": "2019-07-08",
+  "publish_timestamp_ms": 1562585369726,
+  "version_id": "78a46aaa-8434-44c9-8691-0540b7a5e980",
+  "in_force": "2019-07-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B%CE%9E0%CE%97-%CE%9191",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B%CE%9E0%CE%97-%CE%9191/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9B%CE%9E0%CE%97-%CE%9191",
+  "listing_sha256": "abd431c001826c445a314579ccfdebd9144b7c8b0ce03d2a36c0bf3795a7519d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
