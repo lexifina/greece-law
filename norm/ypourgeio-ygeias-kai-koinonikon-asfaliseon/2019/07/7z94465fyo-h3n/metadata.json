@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7Ζ94465ΦΥΟ-Η3Ν",
+  "subject": "Διάθεση κινήτρου απόδοσης στο προσωπικό Ε.Ο.Φ. στα πλαίσια της εφαρμογής του άρθρου 52 του Ν.44862017 (ΦΕΚ Α΄115)»",
+  "protocol_number": "Δ3(α)/49730",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047546"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2867",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-07-08",
+  "posted": "2019-07-08",
+  "publish_timestamp_ms": 1562575694421,
+  "version_id": "c24796a1-d8f5-4a29-9080-337fa8df0691",
+  "in_force": "2019-07-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9694465%CE%A6%CE%A5%CE%9F-%CE%973%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9694465%CE%A6%CE%A5%CE%9F-%CE%973%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9694465%CE%A6%CE%A5%CE%9F-%CE%973%CE%9D",
+  "listing_sha256": "abd431c001826c445a314579ccfdebd9144b7c8b0ce03d2a36c0bf3795a7519d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
