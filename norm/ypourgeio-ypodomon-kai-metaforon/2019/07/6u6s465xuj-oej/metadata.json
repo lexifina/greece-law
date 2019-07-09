@@ -1,0 +1,72 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Θ6Σ465ΧΘΞ-ΟΕΞ",
+  "subject": "Διαδικασία χορήγησης έκτακτης εφάπαξ ενίσχυσης σε πληγέντα φυσικά πρόσωπα και επιχειρήσεις από τις πυρκαγιές στις 23 και 24 Ιουλίου 2018 που έπληξαν περιοχές  της Δημοτικής Ενότητας Αγίων Θεοδώρων και της Δημοτικής Κοινότητας Ισθμίας του Δήμου Λουτρακίου-Περαχώρας-Αγίων Θεοδώρων, της Περιφερειακής Ενότητας Κορινθίας της Περιφέρειας Πελοποννήσου.",
+  "protocol_number": "ΔΑΕΦΚ-ΚΕ/6726/ΤΑΕΦΚ    Σχετ.:  6311",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2874",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "100007500"
+        ],
+        "signerIds": [
+          "100042446"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      },
+      {
+        "ministryId": "100012977",
+        "unitId": [
+          "100020658"
+        ],
+        "signerIds": [
+          "100011626"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-07-01",
+  "posted": "2019-07-09",
+  "publish_timestamp_ms": 1562666450238,
+  "version_id": "9c81aa40-d934-4344-a626-b95fc46a261a",
+  "in_force": "2019-07-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%986%CE%A3465%CE%A7%CE%98%CE%9E-%CE%9F%CE%95%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%986%CE%A3465%CE%A7%CE%98%CE%9E-%CE%9F%CE%95%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%986%CE%A3465%CE%A7%CE%98%CE%9E-%CE%9F%CE%95%CE%9E",
+  "listing_sha256": "b1ad77cbbf206f6e5564b69bbc7f1c454961178e9ce1b366951be97811fa6381",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
