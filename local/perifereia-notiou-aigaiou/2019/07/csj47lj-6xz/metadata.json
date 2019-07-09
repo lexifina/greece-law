@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΣΞ47ΛΞ-6ΧΖ",
+  "subject": "Έγκριση τροποποίησης καταστατικού Α.Ε.",
+  "protocol_number": "1842",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5011",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78651"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-07-09",
+  "posted": "2019-07-09",
+  "publish_timestamp_ms": 1562671595374,
+  "version_id": "c5249dec-b9b3-49aa-a39b-b41a4370be61",
+  "in_force": "2019-07-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A3%CE%9E47%CE%9B%CE%9E-6%CE%A7%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A3%CE%9E47%CE%9B%CE%9E-6%CE%A7%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A3%CE%9E47%CE%9B%CE%9E-6%CE%A7%CE%96",
+  "listing_sha256": "6217a0d9cecae8af2cbb36c0bacb7117ab5002dd4819eb591f3f6ed8f4bdc793",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
