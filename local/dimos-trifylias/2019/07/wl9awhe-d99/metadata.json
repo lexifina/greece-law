@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΛ9ΑΩΗΕ-Δ99",
+  "subject": "ΜΙΣΘΟΔΟΣΙΑ Β' 15ΝΘΗΜΕΡΟ ΙΟΥΛΙΟΥ 2019",
+  "protocol_number": "475/2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6300",
+    "label": "ΔΗΜΟΣ ΤΡΙΦΥΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93116"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-07-09",
+  "posted": "2019-07-09",
+  "publish_timestamp_ms": 1562656003724,
+  "version_id": "1bbb0d37-0927-46b2-bbce-9a945f68665e",
+  "in_force": "2019-07-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B9%CE%91%CE%A9%CE%97%CE%95-%CE%9499",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B9%CE%91%CE%A9%CE%97%CE%95-%CE%9499/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9B9%CE%91%CE%A9%CE%97%CE%95-%CE%9499",
+  "listing_sha256": "a40372e4c41de0688ce5991b9116f50c4c699e826e5b41be62e975485f52a2d9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
