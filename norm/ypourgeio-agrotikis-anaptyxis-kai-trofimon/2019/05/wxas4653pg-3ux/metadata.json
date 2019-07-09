@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧΑΣ4653ΠΓ-3ΘΧ",
+  "subject": "Χορήγηση ενισχύσεων ήσσονος σημασίας (de minimis) στον γεωργικό τομέα  και ειδικότερα σε αιγοπροβατοτρόφους της Περιφέρειας Κρήτης που διατηρούν εκμεταλλεύσεις με θηλυκά ενήλικα αιγοπρόβατα (τουλάχιστον ενός έτους), οι οποίοι έχουν παραδώσει γάλα εντός του 2018 ή/και προχωρήσει σε επίσημες σφαγές για τα έτη 2018-2019, στο πλαίσιο του Κανονισμού (ΕΕ) 1408/2013 της Επιτροπής (ΕΕ L 352, 24.12.2013) Επιτροπής  όπως τροποποιήθηκε με τον Καν. (ΕΕ) αριθ. 316/2019 (L51/1/22-02-2019)",
+  "protocol_number": "453/112672",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100002605"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1791",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "87525"
+        ],
+        "signerIds": [
+          "100014684"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-05-20",
+  "posted": "2019-07-09",
+  "publish_timestamp_ms": 1562654615031,
+  "version_id": "3badb317-d02f-4d97-ac6a-b5253ee6a79e",
+  "in_force": "2019-07-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%91%CE%A34653%CE%A0%CE%93-3%CE%98%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%91%CE%A34653%CE%A0%CE%93-3%CE%98%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A7%CE%91%CE%A34653%CE%A0%CE%93-3%CE%98%CE%A7",
+  "listing_sha256": "07ca2acf6c33b51b977739d525d8996889dd33fe0b25e1f13005bbb93b27425f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
