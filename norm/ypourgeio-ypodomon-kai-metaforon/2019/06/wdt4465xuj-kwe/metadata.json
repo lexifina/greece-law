@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΤ4465ΧΘΞ-ΚΩΕ",
+  "subject": "Ειδοποίηση παρακατάθεσης αποζημίωσης δικηγορικής αμοιβής και δικαστικών εξόδων των ακινήτων που έχουν απαλλοτριωθεί με την απόφαση Φ81116/οικ.4335/24.8.15 (ΑΑΠ' 191) του Υπουργού Υποδομών, Μεταφορών και Δικτύων, για το έργο: «Κατασκευή της Ιόνιας Οδού στο τμήμα Κουβαράς – Κομπότι και ειδικότερα στο οδικό τμήμα από Χ.Θ. 105+700,00 – Χ.Θ. 108+000,00 (περιοχή Κρίκελο), στην περιοχή του Δ.Δ. Λουτρού και Δ.Δ. Ανοιξιάτικου του Δήμου Αμφιλοχίας, της Π.Ε. Αιτωλοακαρνανίας».",
+  "protocol_number": "3231",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007478"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "388",
+      "issue": "fektype_D",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-06-21",
+  "posted": "2019-07-10",
+  "publish_timestamp_ms": 1562751926937,
+  "version_id": "78fcac65-59d9-439c-a795-c9865b0869a3",
+  "in_force": "2019-07-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A44465%CE%A7%CE%98%CE%9E-%CE%9A%CE%A9%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A44465%CE%A7%CE%98%CE%9E-%CE%9A%CE%A9%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%A44465%CE%A7%CE%98%CE%9E-%CE%9A%CE%A9%CE%95",
+  "listing_sha256": "72d36d143b04bb30c8b06f4a94269e0e20532c8abc8a433d4945be77c95b1d6e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
