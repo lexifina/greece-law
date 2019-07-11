@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ792ΩΨ7-4ΨΦ",
+  "subject": "Έγκριση της έκθεσης αποτελεσμάτων του προϋπολογισμού του Δήμου, για το μήνα Μάϊο 2019",
+  "protocol_number": "12940",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6022",
+    "label": "ΔΗΜΟΣ ΑΛΜΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79081"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-07-11",
+  "posted": "2019-07-11",
+  "publish_timestamp_ms": 1562827163183,
+  "version_id": "e1853c22-d6f7-4532-9b79-951a15ace9b4",
+  "in_force": "2019-07-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8792%CE%A9%CE%A87-4%CE%A8%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8792%CE%A9%CE%A87-4%CE%A8%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8792%CE%A9%CE%A87-4%CE%A8%CE%A6",
+  "listing_sha256": "ef7b7c995a371044291bbdf6086ff93d6cc21d6a68dcc61468c10782bc63c57c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
