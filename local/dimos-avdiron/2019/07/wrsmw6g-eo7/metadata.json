@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΡΣΜΩ6Γ-ΕΟ7",
+  "subject": "ΟΡΙΣΜΟΣ ΕΠΟΠΤΗ ΛΑΙΚΩΝ ΑΓΟΡΩΝ ΔΗΜΟΥ ΑΒΔΗΡΩΝ",
+  "protocol_number": "9824",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6001",
+    "label": "ΔΗΜΟΣ ΑΒΔΗΡΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80597"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "1089",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-07-12",
+  "posted": "2019-07-12",
+  "publish_timestamp_ms": 1562935499135,
+  "version_id": "1f87caba-209e-4899-8825-6ff30c8f55e7",
+  "in_force": "2019-07-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%A3%CE%9C%CE%A96%CE%93-%CE%95%CE%9F7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%A3%CE%9C%CE%A96%CE%93-%CE%95%CE%9F7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A1%CE%A3%CE%9C%CE%A96%CE%93-%CE%95%CE%9F7",
+  "listing_sha256": "d788b9d9fa13a866aa3d3a99a0be32b4e5db80f6dda5acfbdfd2a07f0006bc4a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
