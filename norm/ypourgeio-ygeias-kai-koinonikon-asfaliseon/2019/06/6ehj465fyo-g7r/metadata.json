@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΕΗΞ465ΦΥΟ-Γ7Ρ",
+  "subject": "Σύσταση Συντονιστικού Οργάνου των Περιφερειακών Διοικήσεων Τομέων Ψυχικής Υγείας (Πε.Δι.Το.Ψυ.)",
+  "protocol_number": "Γ3α/Γ.Π.οικ47908",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "91607"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2647",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-06-25",
+  "posted": "2019-07-16",
+  "publish_timestamp_ms": 1563273388980,
+  "version_id": "d13f8fbb-1948-416f-9270-d252b55a402a",
+  "in_force": "2019-07-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%97%CE%9E465%CE%A6%CE%A5%CE%9F-%CE%937%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%97%CE%9E465%CE%A6%CE%A5%CE%9F-%CE%937%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%95%CE%97%CE%9E465%CE%A6%CE%A5%CE%9F-%CE%937%CE%A1",
+  "listing_sha256": "1f2bd16493d76fc9178a5b8af368b809717afe9fe1b251dd88ebd1df7545a67f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
