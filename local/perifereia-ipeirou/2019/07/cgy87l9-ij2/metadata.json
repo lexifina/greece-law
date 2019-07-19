@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΓΥ87Λ9-ΙΞ2",
+  "subject": "Τουριστικές πλεύσεις στον ποταμό Αχέροντα",
+  "protocol_number": "9/35/17-7-2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5006",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "83394"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω6107Λ9-75Θ"
+      }
+    ]
+  },
+  "issued": "2019-07-17",
+  "posted": "2019-07-19",
+  "publish_timestamp_ms": 1563533172536,
+  "version_id": "12e63427-4b7a-4f2b-ac5f-1757c44341b7",
+  "in_force": "2019-07-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%A587%CE%9B9-%CE%99%CE%9E2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%A587%CE%9B9-%CE%99%CE%9E2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%93%CE%A587%CE%9B9-%CE%99%CE%9E2",
+  "listing_sha256": "379e738c558d62a1cf5bf0891efe4b2b6ccdaa38256ec862f526b32cd429f397",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
