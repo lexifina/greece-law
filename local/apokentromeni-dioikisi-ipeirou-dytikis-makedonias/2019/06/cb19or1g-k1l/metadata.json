@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΒ19ΟΡ1Γ-Κ1Λ",
+  "subject": "Έγκριση κυκλοφοριακών ρυθμίσεων της αριθμ. 186/2019 Απόφασης του Δ.Σ. Δήμου Πρέβεζας, για την πεζοδρόμηση του υπό διαμόρφωση τμήματος (πάροδος Δ. Μπάλκου), από την οδό Δημητρίου Μπαλκου έως την Περδικάρη (μεταξύ των ΟΤ.47 και ΚΧ 51) στα πλαίσια της υποβαλλόμενης μελέτης «ΔΙΑΜΟΡΦΩΣΗ ΤΑΦΡΟΥ ΑΓΙΟΥ ΑΝΔΡΕΑ».",
+  "protocol_number": "89186",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76542"
+  ],
+  "thematic_category_ids": [
+    "48",
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2925",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-06-26",
+  "posted": "2019-07-29",
+  "publish_timestamp_ms": 1564386635463,
+  "version_id": "f655546c-e3e1-4e08-a8f3-671acb237b77",
+  "in_force": "2019-07-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9219%CE%9F%CE%A11%CE%93-%CE%9A1%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9219%CE%9F%CE%A11%CE%93-%CE%9A1%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9219%CE%9F%CE%A11%CE%93-%CE%9A1%CE%9B",
+  "listing_sha256": "79ac79837640fae89352830991dc6488e16d4541cb0a2d21ce841f5596324055",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
