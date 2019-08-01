@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "65ΞΡ46ΜΚ6Π-Φ0Χ",
+  "subject": "Απόλυση Πυροσβέστη,ύστερα από αίτησή του.",
+  "protocol_number": "47476",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054489",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100004190"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1301",
+      "issue": "fektype_C",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-07-23",
+  "posted": "2019-08-01",
+  "publish_timestamp_ms": 1564645995533,
+  "version_id": "e64cca9d-aa7b-4dfd-a71b-03c759dbebd5",
+  "in_force": "2019-08-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/65%CE%9E%CE%A146%CE%9C%CE%9A6%CE%A0-%CE%A60%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/65%CE%9E%CE%A146%CE%9C%CE%9A6%CE%A0-%CE%A60%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/65%CE%9E%CE%A146%CE%9C%CE%9A6%CE%A0-%CE%A60%CE%A7",
+  "listing_sha256": "a170696d6d1444164aa9eabe1c2442f7214b2d45f9110d787ae873bebdb753cf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
