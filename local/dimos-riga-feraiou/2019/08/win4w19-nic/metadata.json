@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΝ4Ω19-ΝΙΨ",
+  "subject": "Έγκριση της υπ’ αριθ. 159/2019 Απόφασης Δημάρχου.",
+  "protocol_number": "5614",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6264",
+    "label": "ΔΗΜΟΣ ΡΗΓΑ ΦΕΡΑΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82483"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-08-07",
+  "posted": "2019-08-07",
+  "publish_timestamp_ms": 1565168044502,
+  "version_id": "5d9e7e55-bc2f-4a93-a1de-1cda7a17fda0",
+  "in_force": "2019-08-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%9D4%CE%A919-%CE%9D%CE%99%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%9D4%CE%A919-%CE%9D%CE%99%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%9D4%CE%A919-%CE%9D%CE%99%CE%A8",
+  "listing_sha256": "6c8929d10eb990dbe7dbef80daf88db0e97e68a4d97e702147c1b531f2a384a4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
