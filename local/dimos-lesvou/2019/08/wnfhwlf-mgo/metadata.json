@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΦΗΩΛΦ-ΜΓΟ",
+  "subject": "Έγκριση διαγραφής του αριθμ. 251/5-6-2018 τιμολογίου της εφημερίδας «ΔΗΜΟΚΡΑΤΗΣ» για την δημοσίευση που αφορά το έργο «ΑΝΑΒΑΘΜΙΣΗ 1ου ΔΗΜΟΤΙΚΟΥ ΒΡΕΦΟΝΗΠΙΑΚΟΥ ΣΤΑΘΜΟΥ ΜΥΤΙΛΗΝΗΣ»",
+  "protocol_number": "Δ.Υ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6172",
+    "label": "ΔΗΜΟΣ ΛΕΣΒΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80013"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-08-08",
+  "posted": "2019-08-08",
+  "publish_timestamp_ms": 1565241841213,
+  "version_id": "c4970521-5cf2-4947-a94a-d3890eccfde0",
+  "in_force": "2019-08-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%A6%CE%97%CE%A9%CE%9B%CE%A6-%CE%9C%CE%93%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%A6%CE%97%CE%A9%CE%9B%CE%A6-%CE%9C%CE%93%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%A6%CE%97%CE%A9%CE%9B%CE%A6-%CE%9C%CE%93%CE%9F",
+  "listing_sha256": "2a87dc7f1bb54063c6b0bd0cff5ff5f7c597022cd9ab3be3763a13486f33ec4a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
