@@ -1,9 +1,9 @@
 {
   "act_id": "nomos-2019-4620",
   "title": "Κύρωση του Κώδικα Ποινικής Δικονομίας.",
-  "history": "as-enacted",
+  "history": "as enacted, then amended (amending acts replayed in order)",
   "status": "amended, not consolidated",
-  "text_as_of": "2019-07-01",
+  "text_as_of": "2019-08-09",
   "published": "2019-06-11",
   "in_force": "2019-07-01",
   "in_force_basis": "Άρθρο Δεύτερο: Ο παρών νόμος αρχίζει να ισχύει από την 1η Ιουλίου 2019.",
@@ -12,6 +12,18 @@
   "source_images": 0,
   "images_referenced": 0,
   "images_omitted": 0,
-  "amendments_applied": [],
+  "amendments_applied": [
+    {
+      "act": "ν. 4623/2019",
+      "articles": [
+        "96"
+      ],
+      "in_force": "2019-08-09",
+      "published": "2019-08-09",
+      "source": "https://api.et.gr/apiLAW/1/2019/4623/pdf",
+      "source_sha256": "8577a13f3b31045a3426f0773a78bf0fbacafc947cd352e97d54b8f8045c480e",
+      "changes": 15
+    }
+  ],
   "note": "The official ratification and code as enacted. Later amendments are not applied in this version; this is not the current consolidated text."
 }
