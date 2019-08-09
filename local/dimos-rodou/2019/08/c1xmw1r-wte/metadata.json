@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ1ΧΜΩ1Ρ-ΩΤΕ",
+  "subject": "Απόφαση έγκρισης 2ης Αναλυτικής Επιμέτρησης του έργου \"Ασφαλτοστρώσεις οδών σε Δημοτικές Ενότητες εκτός πόλεως Ρόδου\".",
+  "protocol_number": "16/37106",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6265",
+    "label": "ΔΗΜΟΣ ΡΟΔΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81145"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-08-09",
+  "posted": "2019-08-09",
+  "publish_timestamp_ms": 1565340199183,
+  "version_id": "3ad110a4-d76b-4395-9918-2bcffcad2395",
+  "in_force": "2019-08-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A81%CE%A7%CE%9C%CE%A91%CE%A1-%CE%A9%CE%A4%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A81%CE%A7%CE%9C%CE%A91%CE%A1-%CE%A9%CE%A4%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A81%CE%A7%CE%9C%CE%A91%CE%A1-%CE%A9%CE%A4%CE%95",
+  "listing_sha256": "86a96c82fe0d2ee80f78176eb65abe4e956c5054c8f433e4642a089719c68c31",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
