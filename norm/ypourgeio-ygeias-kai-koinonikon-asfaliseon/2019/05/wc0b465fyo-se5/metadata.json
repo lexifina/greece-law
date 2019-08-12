@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΨ0Β465ΦΥΟ-ΣΕ5",
+  "subject": "Εγκατάσταση και λειτουργία της Πανεπιστημιακών Κλινικών του Τμήματος Ιατρικής του Εθνικού και Καποδιστριακού Πανεπιστημίου Αθηνών στο Γενικό Νοσοκομείο Αθηνών ΛΑΙΚΟ",
+  "protocol_number": "Γ2α/24555",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78927"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3140",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "unitId": []
+      }
+    ]
+  },
+  "issued": "2019-05-04",
+  "posted": "2019-08-12",
+  "publish_timestamp_ms": 1565592000758,
+  "version_id": "23182fb5-36c8-4297-81e5-4901b93a1e5a",
+  "in_force": "2019-08-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A80%CE%92465%CE%A6%CE%A5%CE%9F-%CE%A3%CE%955",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A80%CE%92465%CE%A6%CE%A5%CE%9F-%CE%A3%CE%955/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A80%CE%92465%CE%A6%CE%A5%CE%9F-%CE%A3%CE%955",
+  "listing_sha256": "dc8e66ab239a894c8eb65dae406a741c4dc2c04bcd53945494efa43868ce472a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
