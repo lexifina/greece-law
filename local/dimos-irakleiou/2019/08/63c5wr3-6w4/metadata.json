@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "63Ψ5ΩΡ3-6Ω4",
+  "subject": "Απόφαση Δημάρχου για την έγκριση μελέτης και διενέργειας για την υπηρεσία με τίτλο «Συντήρηση & επισκευή πυλώνων φωτισμού γηπέδων»",
+  "protocol_number": "3577",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003101"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "3577",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-08-12",
+  "posted": "2019-08-12",
+  "publish_timestamp_ms": 1565611184047,
+  "version_id": "939d1a44-70c4-472c-a09f-7b0d2e1b3439",
+  "in_force": "2019-08-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/63%CE%A85%CE%A9%CE%A13-6%CE%A94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/63%CE%A85%CE%A9%CE%A13-6%CE%A94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/63%CE%A85%CE%A9%CE%A13-6%CE%A94",
+  "listing_sha256": "4cf2e42b2f172bad69a858aa0d9085c519e1c0820e1b6e48a4a4a40965ad70b0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
