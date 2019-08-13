@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜ0ΦΩ9Ψ-ΝΥΞ",
+  "subject": "ΠΑΡΑΧΩΡΗΣΗ ΘΕΑΤΡΟΥ ΠΑΡΑΛΙΟΥ ΑΣΤΡΟΥΣ",
+  "protocol_number": "8324",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6059",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83001"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-08-13",
+  "posted": "2019-08-13",
+  "publish_timestamp_ms": 1565675104628,
+  "version_id": "2f6f046e-39e6-4c32-bdb6-8a3ce2e68682",
+  "in_force": "2019-08-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C0%CE%A6%CE%A99%CE%A8-%CE%9D%CE%A5%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C0%CE%A6%CE%A99%CE%A8-%CE%9D%CE%A5%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C0%CE%A6%CE%A99%CE%A8-%CE%9D%CE%A5%CE%9E",
+  "listing_sha256": "e8bf3553d92b380c4476818f84c52f45bb6e79884a3f2816b7ff0295f9a8d119",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
