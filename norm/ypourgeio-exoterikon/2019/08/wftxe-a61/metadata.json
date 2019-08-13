@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΤΧΕ-Α61",
+  "subject": "ΥΠΟΥΡΓΙΚΗ ΑΠΟΦΑΣΗ ΓΙΑ ΤΗ ΔΗΜΟΣΙΕΥΣΗ ΤΗΣ ΑΠΟΦΑΣΗΣ 2473 (2019) ΤΟΥ ΣΥΜΒΟΥΛΙΟΥ ΑΣΦΑΛΕΙΑΣ Ο.Η.Ε. ΣΧΕΤΙΚΑ ΜΕ ΤΗ ΛΙΒΥΗ",
+  "protocol_number": "3440/ΑΣ 43842",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72603"
+  ],
+  "thematic_category_ids": [
+    "76"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "130",
+      "issue": "fektype_A",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-08-05",
+  "posted": "2019-08-13",
+  "publish_timestamp_ms": 1565700211874,
+  "version_id": "e0b7db80-e5a4-423e-ae7a-8c5e2ee1aefc",
+  "in_force": "2019-08-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%A4%CE%A7%CE%95-%CE%9161",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%A4%CE%A7%CE%95-%CE%9161/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%A4%CE%A7%CE%95-%CE%9161",
+  "listing_sha256": "11654d722b135ddb8a9984bb62e59fedafe20a0d7e07a975bfce3d9e6ccdca21",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
