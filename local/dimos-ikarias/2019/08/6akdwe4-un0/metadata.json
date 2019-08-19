@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΑΚΔΩΕ4-ΘΝ0",
+  "subject": "Ορισμός Δικηγόρου - Δικαστικού επιμελητή",
+  "protocol_number": "120",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6122",
+    "label": "ΔΗΜΟΣ ΙΚΑΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84599"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-08-19",
+  "posted": "2019-08-19",
+  "publish_timestamp_ms": 1566202415930,
+  "version_id": "6ef42eac-dcf4-4e9c-b8c8-8e0465205360",
+  "in_force": "2019-08-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%91%CE%9A%CE%94%CE%A9%CE%954-%CE%98%CE%9D0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%91%CE%9A%CE%94%CE%A9%CE%954-%CE%98%CE%9D0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%91%CE%9A%CE%94%CE%A9%CE%954-%CE%98%CE%9D0",
+  "listing_sha256": "6bbd8fd75a66b987307afb1a88fc6209cd3fe9751d3ae4d0fb55838dfb71170c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
