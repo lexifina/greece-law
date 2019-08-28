@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΕΞΓΟΡ1Κ-Φ4Ι",
+  "subject": "Έγκριση των κυκλοφοριακών ρυθμίσεων της υπ' αριθμ. 107/2017 απόφασης του  Δ. Σ. του Δ. Μοσχάτου-Ταύρου.",
+  "protocol_number": "57144/415/2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50196",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΤΤΙΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76318"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3130",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-07-05",
+  "posted": "2019-08-28",
+  "publish_timestamp_ms": 1566979187235,
+  "version_id": "6b9cbdbf-438a-46b1-ae1b-ff1e95693584",
+  "in_force": "2019-08-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%9E%CE%93%CE%9F%CE%A11%CE%9A-%CE%A64%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%9E%CE%93%CE%9F%CE%A11%CE%9A-%CE%A64%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%95%CE%9E%CE%93%CE%9F%CE%A11%CE%9A-%CE%A64%CE%99",
+  "listing_sha256": "e225fd91339e654892d691931a6f40ff89f3cd36e6cd8b9c5c64719351bfa6c3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
