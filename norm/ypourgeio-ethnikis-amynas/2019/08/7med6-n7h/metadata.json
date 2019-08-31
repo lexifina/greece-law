@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΜΕΔ6-Ν7Η",
+  "subject": "Μεταβίβαση Αρμοδιοτήτων Υπουργού Εθνικής Άμυνας στον Γενικό Γραμματέα του Υπουργείου Εθνικής Άμυνας",
+  "protocol_number": "54609",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3351",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-08-27",
+  "posted": "2019-08-31",
+  "publish_timestamp_ms": 1567226579101,
+  "version_id": "9c729a14-2372-47ca-b9bf-afe149f69845",
+  "in_force": "2019-08-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%95%CE%946-%CE%9D7%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9C%CE%95%CE%946-%CE%9D7%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9C%CE%95%CE%946-%CE%9D7%CE%97",
+  "listing_sha256": "6b802de7c658f27c6bdd697aa197cbba14f9be4647c5ece5a2b7e89f472a18df",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
