@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "68ΓΑΩΚΘ-ΑΣ3",
+  "subject": "Απόφαση ορισμού Ταμία και αναπληρωτή αυτού στο Δήμο Νέας Ζίχνης",
+  "protocol_number": "5906",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6208",
+    "label": "ΔΗΜΟΣ ΝΕΑΣ ΖΙΧΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78780"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-09-02",
+  "posted": "2019-09-02",
+  "publish_timestamp_ms": 1567408918263,
+  "version_id": "ab24193d-50cf-4465-bdb4-0881659592f2",
+  "in_force": "2019-09-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/68%CE%93%CE%91%CE%A9%CE%9A%CE%98-%CE%91%CE%A33",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/68%CE%93%CE%91%CE%A9%CE%9A%CE%98-%CE%91%CE%A33/document",
+  "page": "https://diavgeia.gov.gr/decision/view/68%CE%93%CE%91%CE%A9%CE%9A%CE%98-%CE%91%CE%A33",
+  "listing_sha256": "13dda143809243064702440ed94d9c1eab1c968da4e91119bdec39fcfd17043a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
