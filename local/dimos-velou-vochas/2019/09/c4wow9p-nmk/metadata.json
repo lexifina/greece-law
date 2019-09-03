@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ4ΩΟΩ9Π-ΝΜΚ",
+  "subject": "Ορισμός δικηγόρου για την εκπροσώπηση του Δήμου ενώπιον του Εφετείου Αθηνών",
+  "protocol_number": "310-2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6052",
+    "label": "ΔΗΜΟΣ ΒΕΛΟΥ - ΒΟΧΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80846"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-09-03",
+  "posted": "2019-09-03",
+  "publish_timestamp_ms": 1567502965834,
+  "version_id": "1fd99700-3c19-4747-abc0-508cb6a0021b",
+  "in_force": "2019-09-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%A9%CE%9F%CE%A99%CE%A0-%CE%9D%CE%9C%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%A9%CE%9F%CE%A99%CE%A0-%CE%9D%CE%9C%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A84%CE%A9%CE%9F%CE%A99%CE%A0-%CE%9D%CE%9C%CE%9A",
+  "listing_sha256": "0ed4cd300f125586c7b926c6cffb68ed5806a89539d0830a88d8ad7de6ed6677",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
