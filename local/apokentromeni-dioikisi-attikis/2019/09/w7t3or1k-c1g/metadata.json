@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω7Τ3ΟΡ1Κ-Ψ1Γ",
+  "subject": "Έγκριση οδήγησης  του υπηρεσιακού αυτοκινήτου  με αριθ.κυκλ.ΚΥ 9109 της Δ/νσης Δασών Αθηνών από υπάλληλο   που δεν κατέχει   οργανική θέση οδηγού",
+  "protocol_number": "οικ.86519/8716",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50196",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΤΤΙΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76309"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-09-04",
+  "posted": "2019-09-04",
+  "publish_timestamp_ms": 1567586852552,
+  "version_id": "78790d4c-08c2-46cb-bb41-880d37aac771",
+  "in_force": "2019-09-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%A43%CE%9F%CE%A11%CE%9A-%CE%A81%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%A43%CE%9F%CE%A11%CE%9A-%CE%A81%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A97%CE%A43%CE%9F%CE%A11%CE%9A-%CE%A81%CE%93",
+  "listing_sha256": "cc864fe40246eaca63b97b279ae22e7832e3841bd50e8d0ad49ed5e42c210b78",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
