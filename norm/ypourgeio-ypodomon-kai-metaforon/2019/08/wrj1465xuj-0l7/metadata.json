@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΡΞ1465ΧΘΞ-0Λ7",
+  "subject": "Τροποποίηση της υπ’ αριθμ. 15732/13.11.2012 (ΦΕΚ Β’ 3053) κ.υ.α. με θέμα: «Όροι και προϋποθέσεις εκμίσθωσης επιβατηγών ιδιωτικής χρήσης αυτοκινήτων με οδηγό από τουριστικά γραφεία, γραφεία ενοικιάσεως αυτοκινήτων και εταιρείες και συνεταιρισμούς Επιβατηγών Δημόσιας Χρήσης αυτοκινήτων», όπως ισχύει.",
+  "protocol_number": "οικ Α 61583/2723",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035902"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3377",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025893",
+        "unitId": [
+          "100022158"
+        ],
+        "signerIds": [
+          "100047901"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-08-20",
+  "posted": "2019-09-04",
+  "publish_timestamp_ms": 1567577752862,
+  "version_id": "d490ce37-8b52-469c-b6d0-26b796cbade3",
+  "in_force": "2019-09-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%9E1465%CE%A7%CE%98%CE%9E-0%CE%9B7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%9E1465%CE%A7%CE%98%CE%9E-0%CE%9B7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A1%CE%9E1465%CE%A7%CE%98%CE%9E-0%CE%9B7",
+  "listing_sha256": "076374d4810fcf83edde194439313d23ac2c09278ffcfc2fa5a85dd5eaa69243",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
