@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ45Π46ΜΠ3Ζ-ΤΗΠ",
+  "subject": "ΚΑΘΟΡΙΣΜΟΣ ΑΠΛΟΥΣΤΕΥΜΕΝΩΝ ΔΙΑΔΙΚΑΣΙΩΝ ΣΤΑ ΚΑΘΕΣΤΩΤΑ ΔΙΑΜΕΤΑΚΟΜΙΣΗΣ, ΘΕΣΗΣ ΣΕ ΕΛΕΥΘΕΡΗ ΚΥΚΛΟΦΟΡΙΑ ΚΑΙ ΕΞΑΓΩΓΗΣ ΤΟΥ ΦΥΣΙΚΟΥ ΑΕΡΙΟΥ ΠΟΥ ΔΙΑΚΙΝΕΙΤΑΙ ΜΕΣΩ ΣΤΑΘΕΡΩΝ ΕΓΚΑΤΑΣΤΑΣΕΩΝ ΜΕΤΑΦΟΡΑΣ (ΔΙΚΤΥΟ ΑΓΩΓΩΝ)",
+  "protocol_number": "Α.1330",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100029610"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3383",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Πράξη Ανεξάρτητης Αρχής",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-08-21",
+  "posted": "2019-09-04",
+  "publish_timestamp_ms": 1567577783105,
+  "version_id": "7eee4cf1-e832-4d88-ae4f-c55bfcc209ce",
+  "in_force": "2019-09-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A845%CE%A046%CE%9C%CE%A03%CE%96-%CE%A4%CE%97%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A845%CE%A046%CE%9C%CE%A03%CE%96-%CE%A4%CE%97%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A845%CE%A046%CE%9C%CE%A03%CE%96-%CE%A4%CE%97%CE%A0",
+  "listing_sha256": "44f45d3e10e45e4ad2c01fde1ced6b99d24db2688177657f983624e88e76309e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
