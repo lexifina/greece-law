@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "62ΠΑΩΡ3-47Δ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΕΝΤΕΤΑΛΜΕΝΟΥ ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΟΥ",
+  "protocol_number": "3887",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003098"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "3887",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-09-10",
+  "posted": "2019-09-10",
+  "publish_timestamp_ms": 1568116179130,
+  "version_id": "49e08356-a862-4634-a868-644fe6d6abd9",
+  "in_force": "2019-09-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/62%CE%A0%CE%91%CE%A9%CE%A13-47%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/62%CE%A0%CE%91%CE%A9%CE%A13-47%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/62%CE%A0%CE%91%CE%A9%CE%A13-47%CE%94",
+  "listing_sha256": "cd531023bd88dec0ed67d181a29745a729494b83a5f9f74ce162e0faa12db78b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
