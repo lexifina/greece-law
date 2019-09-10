@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΕΕ47ΛΡ-6ΒΦ",
+  "subject": "ΑΠΟΦΑΣΗ ΣΥΓΚΡΟΤΗΣΗΣ ΟΡΓΑΝΟΥ ΕΠΑΛΗΘΕΥΣΗΣ\nΣΤΗΝ ΠΡΑΞΗ ΜΕ ΚΩΔΙΚΟ ΟΠΣ 5022217",
+  "protocol_number": "3212",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "100010360"
+  ],
+  "thematic_category_ids": [
+    "10"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-09-10",
+  "posted": "2019-09-10",
+  "publish_timestamp_ms": 1568107913094,
+  "version_id": "0bee603a-05da-4934-adc1-7bf19e4b0c58",
+  "in_force": "2019-09-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%9547%CE%9B%CE%A1-6%CE%92%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%9547%CE%9B%CE%A1-6%CE%92%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%95%CE%9547%CE%9B%CE%A1-6%CE%92%CE%A6",
+  "listing_sha256": "cd531023bd88dec0ed67d181a29745a729494b83a5f9f74ce162e0faa12db78b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
