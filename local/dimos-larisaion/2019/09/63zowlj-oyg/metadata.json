@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "63ΖΟΩΛΞ-ΟΥΓ",
+  "subject": "Ορισμός αναπληρωτή  Προέδρου",
+  "protocol_number": "11",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6167",
+    "label": "ΔΗΜΟΣ ΛΑΡΙΣΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100049320"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-09-10",
+  "posted": "2019-09-12",
+  "publish_timestamp_ms": 1568287715746,
+  "version_id": "aefec973-fd94-4d1e-a7e8-f0955c6703be",
+  "in_force": "2019-09-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/63%CE%96%CE%9F%CE%A9%CE%9B%CE%9E-%CE%9F%CE%A5%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/63%CE%96%CE%9F%CE%A9%CE%9B%CE%9E-%CE%9F%CE%A5%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/63%CE%96%CE%9F%CE%A9%CE%9B%CE%9E-%CE%9F%CE%A5%CE%93",
+  "listing_sha256": "cd531023bd88dec0ed67d181a29745a729494b83a5f9f74ce162e0faa12db78b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
