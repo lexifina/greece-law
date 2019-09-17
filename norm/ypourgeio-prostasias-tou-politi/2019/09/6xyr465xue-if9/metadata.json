@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΧΥΡ465ΧΘΕ-ΙΦ9",
+  "subject": "ΧΟΡΗΓΗΣΗ ΕΙΔΙΚΗΣ ΕΓΚΡΙΣΗΣ",
+  "protocol_number": "20504/17-09-2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054489",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100019183"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-09-17",
+  "posted": "2019-09-17",
+  "publish_timestamp_ms": 1568714109864,
+  "version_id": "e54597cd-fa02-4772-8b7a-116a42103cb9",
+  "in_force": "2019-09-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%A5%CE%A1465%CE%A7%CE%98%CE%95-%CE%99%CE%A69",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%A5%CE%A1465%CE%A7%CE%98%CE%95-%CE%99%CE%A69/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A7%CE%A5%CE%A1465%CE%A7%CE%98%CE%95-%CE%99%CE%A69",
+  "listing_sha256": "fdb982b04af3a3581a79367b7b043b797db38f57dec44c1fa250d051c61ee0c4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
