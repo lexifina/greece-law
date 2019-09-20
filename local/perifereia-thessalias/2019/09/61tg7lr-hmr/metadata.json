@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "61ΤΓ7ΛΡ-ΗΜΡ",
+  "subject": "ΠΑΡΟΧΗ ΕΞΟΥΣΙΟΔΟΤΗΣΗΣ ΥΠΟΓΡΑΦΗΣ \"ΜΕ ΕΝΤΟΛΗ ΠΕΡΙΦΕΡΕΙΑΡΧΗ\" ΣΤΟ ΔΙΕΥΘΥΝΤΗ ΚΑΙ ΤΟΥΣ ΠΡΟΪΣΤΑΜΕΝΟΥΣ ΤΜΗΜΑΤΩΝ ΤΗΣ ΔΙΕΥΘΥΝΣΗΣ ΚΟΙΝΩΝΙΚΗΣ ΜΕΡΙΜΝΑΣ ΠΕΡΙΦΕΡΕΙΑΣ ΘΕΣΣΑΛΙΑΣ.",
+  "protocol_number": "654",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "82007"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3466",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-09-10",
+  "posted": "2019-09-20",
+  "publish_timestamp_ms": 1568962226058,
+  "version_id": "dc9850b6-a0c1-4255-b7e8-01332f517f6c",
+  "in_force": "2019-09-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/61%CE%A4%CE%937%CE%9B%CE%A1-%CE%97%CE%9C%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/61%CE%A4%CE%937%CE%9B%CE%A1-%CE%97%CE%9C%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/61%CE%A4%CE%937%CE%9B%CE%A1-%CE%97%CE%9C%CE%A1",
+  "listing_sha256": "cd531023bd88dec0ed67d181a29745a729494b83a5f9f74ce162e0faa12db78b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
