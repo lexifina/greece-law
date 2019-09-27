@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΦΧ6ΩΕ9-2ΓΝ",
+  "subject": "Εκλογή Αντιπροέδρου Οικονομικής Επιτροπής.",
+  "protocol_number": "ΟΙΚΟΘΕΝ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6128",
+    "label": "ΔΗΜΟΣ ΚΑΛΑΒΡΥΤΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80706"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-09-27",
+  "posted": "2019-09-27",
+  "publish_timestamp_ms": 1569575748925,
+  "version_id": "6c291390-97b0-4185-a6fd-31fb2ef8a699",
+  "in_force": "2019-09-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A6%CE%A76%CE%A9%CE%959-2%CE%93%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A6%CE%A76%CE%A9%CE%959-2%CE%93%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A6%CE%A76%CE%A9%CE%959-2%CE%93%CE%9D",
+  "listing_sha256": "4c1f644df3c134e29039e23f87aa53aad3ac1c8613503253e4623e68c614603e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
