@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Δ0ΣΩΕΞ-ΗΥΖ",
+  "subject": "ΨΗΦΙΑΚΕΣ ΥΠΟΓΡΑΦΕΣ ΑΙΡΕΤΩΝ.",
+  "protocol_number": "17773/27-09-2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6133",
+    "label": "ΔΗΜΟΣ ΚΑΛΥΜΝΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81323"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-09-27",
+  "posted": "2019-09-27",
+  "publish_timestamp_ms": 1569581404306,
+  "version_id": "309a91e5-a7e5-4f44-9cb3-bfef96360321",
+  "in_force": "2019-09-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%940%CE%A3%CE%A9%CE%95%CE%9E-%CE%97%CE%A5%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%940%CE%A3%CE%A9%CE%95%CE%9E-%CE%97%CE%A5%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%940%CE%A3%CE%A9%CE%95%CE%9E-%CE%97%CE%A5%CE%96",
+  "listing_sha256": "4c1f644df3c134e29039e23f87aa53aad3ac1c8613503253e4623e68c614603e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
