@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΖΡΩ6Μ-Μ30",
+  "subject": "ΚΑΘΙΕΡΩΣΗ ΥΠΕΡΩΡΙΑΚΗΣ ΓΙΑ ΤΟΥΣ ΜΗΝΕΣ ΟΚΤΩΒΡΙΟ ΕΩΣ ΔΕΚΕΜΒΡΙΟ 2019 ΓΙΑ ΤΟΥΣ ΥΠΑΛΛΗΛΟΥΣ ΙΔΙΩΤΙΚΟΥ ΔΙΚΑΙΟΥ",
+  "protocol_number": "243799",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6013",
+    "label": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100044986"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3609",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-09-25",
+  "posted": "2019-09-30",
+  "publish_timestamp_ms": 1569821535045,
+  "version_id": "31b6d9aa-3941-483e-a8fe-bdfba29762f1",
+  "in_force": "2019-09-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%96%CE%A1%CE%A96%CE%9C-%CE%9C30",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%96%CE%A1%CE%A96%CE%9C-%CE%9C30/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%96%CE%A1%CE%A96%CE%9C-%CE%9C30",
+  "listing_sha256": "afc5317213519ab8464bf72360e1d1506609a6f496a0474fa7f34a1dc99c8fce",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
