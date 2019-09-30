@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΑΛ465ΧΘ7-7ΨΘ",
+  "subject": "Εγκατάσταση μη δημοσίων υπηρεσιών και εκμίσθωση ακινήτου στο Σημείο Συνοριακής  Διέλευσης  Προμαχώνα Ν. Σερρών",
+  "protocol_number": "64241",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100018317"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3589",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-09-30",
+  "posted": "2019-09-30",
+  "publish_timestamp_ms": 1569827933598,
+  "version_id": "103f06e4-ccb8-4919-a4f7-a335c63c1c04",
+  "in_force": "2019-09-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%91%CE%9B465%CE%A7%CE%987-7%CE%A8%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%91%CE%9B465%CE%A7%CE%987-7%CE%A8%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%91%CE%9B465%CE%A7%CE%987-7%CE%A8%CE%98",
+  "listing_sha256": "bbfa97688427c6857212c75e6784b4846c51a39a07c061e2e22b9e23e3af43ac",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
