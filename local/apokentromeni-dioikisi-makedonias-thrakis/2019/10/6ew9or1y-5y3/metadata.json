@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΕΩ9ΟΡ1Υ-5Υ3",
+  "subject": "ΕΓΚΡΙΣΗ ΥΛΟΤΟΜΙΑΣ ΣΕ ΑΓΡΟΤΕΜΑΧΙΟ",
+  "protocol_number": "12001",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77406"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-10-01",
+  "posted": "2019-10-01",
+  "publish_timestamp_ms": 1569932436299,
+  "version_id": "292bfbd0-e3c0-4f63-8076-129166982e6c",
+  "in_force": "2019-10-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%A99%CE%9F%CE%A11%CE%A5-5%CE%A53",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%A99%CE%9F%CE%A11%CE%A5-5%CE%A53/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%95%CE%A99%CE%9F%CE%A11%CE%A5-5%CE%A53",
+  "listing_sha256": "c88c1c793a0512b43f04ec3178706ca1c116360e3850611afc9f9596e85c6c52",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
