@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Α9ΛΩΞ4-516",
+  "subject": "ΣΥΜΒΑΣΗ ΕΠΙΣΤΗΜΟΝΙΚΟΥ ΣΥΝΕΡΓΑΤΗ",
+  "protocol_number": "9567/2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6224",
+    "label": "ΔΗΜΟΣ ΟΙΧΑΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81458"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1640",
+      "issue": "fektype_C",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-10-04",
+  "posted": "2019-10-04",
+  "publish_timestamp_ms": 1570176324744,
+  "version_id": "068360bf-64e1-4ee1-8347-6d30dc733966",
+  "in_force": "2019-10-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%919%CE%9B%CE%A9%CE%9E4-516",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%919%CE%9B%CE%A9%CE%9E4-516/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%919%CE%9B%CE%A9%CE%9E4-516",
+  "listing_sha256": "906c4784faf2d68966aabba96531d864082e0972f116dac8bbdecb4ec87126e0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
