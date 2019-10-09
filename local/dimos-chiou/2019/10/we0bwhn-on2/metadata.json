@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΕ0ΒΩΗΝ-ΟΝ2",
+  "subject": "545/2019 Απόφαση ΔΣ Χίου με θέμα: \"Μεταφορά ή μη ταμειακών διαθεσίμων στην Τράπεζα στις Ελλάδος\"",
+  "protocol_number": "42726",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81042"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-10-09",
+  "posted": "2019-10-09",
+  "publish_timestamp_ms": 1570614255656,
+  "version_id": "80bbdc33-270d-4088-b731-d8aefb20f13c",
+  "in_force": "2019-10-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%950%CE%92%CE%A9%CE%97%CE%9D-%CE%9F%CE%9D2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%950%CE%92%CE%A9%CE%97%CE%9D-%CE%9F%CE%9D2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%950%CE%92%CE%A9%CE%97%CE%9D-%CE%9F%CE%9D2",
+  "listing_sha256": "092abe852bff818e3a7fb6333caf34ac78dbb00460284474266a7ec8d5c84100",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
