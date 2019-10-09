@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "68ΥΠΩ98-Η4Π",
+  "subject": "Επικύρωση ή μη Ι πρακτικού  του έργου: «Αποπεράτωση Δημοτικού δρόμου Τ.Κ Πλατανίων",
+  "protocol_number": "7745",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6084",
+    "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83282"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω631Ω98-ΤΗΑ"
+      }
+    ]
+  },
+  "issued": "2019-09-27",
+  "posted": "2019-10-09",
+  "publish_timestamp_ms": 1570599936222,
+  "version_id": "39326f6d-bc7e-4fca-a904-722e8b011c49",
+  "in_force": "2019-10-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/68%CE%A5%CE%A0%CE%A998-%CE%974%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/68%CE%A5%CE%A0%CE%A998-%CE%974%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/68%CE%A5%CE%A0%CE%A998-%CE%974%CE%A0",
+  "listing_sha256": "502597111381c22a8e30be0986a2938c7774b31703c1dfdae6765e65767cee53",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
