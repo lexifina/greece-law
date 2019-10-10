@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω44ΟΩ98-Τ2Λ",
+  "subject": "Εγκριση της υπ΄αριθμ. 11/20-6-2019 απόφασης του Διοικητικού Συμβουλίου του Πνευματικού Κέντρου του Δήμου Δωδώνης με θέμα :  «Αποδοχή χορηγίας και αναμόρφωση προϋπολογισμού",
+  "protocol_number": "7756",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6084",
+    "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83282"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΝ0ΑΟΞ95-Χ7Ι"
+      }
+    ]
+  },
+  "issued": "2019-09-27",
+  "posted": "2019-10-10",
+  "publish_timestamp_ms": 1570698265331,
+  "version_id": "34598ffd-3507-4083-91f2-e8e1b0d6aa18",
+  "in_force": "2019-10-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A944%CE%9F%CE%A998-%CE%A42%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A944%CE%9F%CE%A998-%CE%A42%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A944%CE%9F%CE%A998-%CE%A42%CE%9B",
+  "listing_sha256": "502597111381c22a8e30be0986a2938c7774b31703c1dfdae6765e65767cee53",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
