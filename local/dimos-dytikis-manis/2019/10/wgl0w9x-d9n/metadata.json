@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΛ0Ω9Χ-Δ9Ν",
+  "subject": "Διαγραφή οφειλής από χρηματικό κατάλογο και δημιουργία νέου Χρηματικού Καταλόγου με χρέωση στον σωστό οφειλέτη",
+  "protocol_number": "7600",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6083",
+    "label": "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΜΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84851"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "201/2019",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-10-10",
+  "posted": "2019-10-10",
+  "publish_timestamp_ms": 1570688956361,
+  "version_id": "6c8cae91-00a4-468f-b8c6-903a74acf98f",
+  "in_force": "2019-10-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%9B0%CE%A99%CE%A7-%CE%949%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%9B0%CE%A99%CE%A7-%CE%949%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%9B0%CE%A99%CE%A7-%CE%949%CE%9D",
+  "listing_sha256": "1c90946ff352685ce493f2aedbc1f5303a4a7132b032806f3cf309b7bf159133",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
