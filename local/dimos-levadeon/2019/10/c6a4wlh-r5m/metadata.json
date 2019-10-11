@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ6Α4ΩΛΗ-Ρ5Μ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΓΙΑ ΟΡΙΣΜΟ ΜΕΛΩΝ ΕΠΙΤΡΟΠΗΣ ΕΚΤΙΜΗΣΗΣ ΑΚΙΝΗΤΩΝ ΚΑΙ ΚΑΤΑΤΜΕΤΡΗΣΗΣ",
+  "protocol_number": "22377",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6169",
+    "label": "ΔΗΜΟΣ ΛΕΒΑΔΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78290"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΑΛΙΩΛΗ-3ΧΛ"
+      }
+    ]
+  },
+  "issued": "2019-10-11",
+  "posted": "2019-10-11",
+  "publish_timestamp_ms": 1570796297446,
+  "version_id": "47f1fb76-0cc0-475d-8051-215bf6a894d9",
+  "in_force": "2019-10-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%914%CE%A9%CE%9B%CE%97-%CE%A15%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%914%CE%A9%CE%9B%CE%97-%CE%A15%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A86%CE%914%CE%A9%CE%9B%CE%97-%CE%A15%CE%9C",
+  "listing_sha256": "eb92d033218e7bd5741b8cf2236910920d4516ec6a8bd57e5776d793a6f47537",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
