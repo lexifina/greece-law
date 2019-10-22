@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "609ΤΩΛΓ-Υ4Μ",
+  "subject": "ΑΠΟΡΡΙΜΜΑΤΟΦΟΡΟ VOLVO  KHY 1135",
+  "protocol_number": "6317",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6171",
+    "label": "ΔΗΜΟΣ ΛΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82877"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-10-22",
+  "posted": "2019-10-22",
+  "publish_timestamp_ms": 1571739231004,
+  "version_id": "83417f7a-24a1-45c3-82c4-8ca5e323b762",
+  "in_force": "2019-10-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/609%CE%A4%CE%A9%CE%9B%CE%93-%CE%A54%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/609%CE%A4%CE%A9%CE%9B%CE%93-%CE%A54%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/609%CE%A4%CE%A9%CE%9B%CE%93-%CE%A54%CE%9C",
+  "listing_sha256": "0e2afcec0d7b373472bfd55eed0d2532cd7215c773b51d91dc67b7d72c181718",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
