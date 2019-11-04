@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΑ4Α7ΛΞ-7Σ5",
+  "subject": "αποφαση αναθεσησ",
+  "protocol_number": "135711/538/8-10-2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5011",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78536"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "66Ω97ΛΞ-9ΗΘ"
+      }
+    ]
+  },
+  "issued": "2019-11-04",
+  "posted": "2019-11-04",
+  "publish_timestamp_ms": 1572853229700,
+  "version_id": "47ed42b6-ec7c-4727-ba2a-c467c5187e90",
+  "in_force": "2019-11-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%914%CE%917%CE%9B%CE%9E-7%CE%A35",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%914%CE%917%CE%9B%CE%9E-7%CE%A35/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%914%CE%917%CE%9B%CE%9E-7%CE%A35",
+  "listing_sha256": "289b446c2230be19c7a1bda10877ca187aa029416eea55f3f12a62f4930f2516",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
