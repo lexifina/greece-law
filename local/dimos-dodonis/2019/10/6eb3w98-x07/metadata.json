@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΕΒ3Ω98-Χ07",
+  "subject": "Έγκριση ή μη  πρακτικού Ι προμήθειας Μηχανημάτων ΄Εργου, οχημάτων ή και συνοδευτικού εξοπλισμού του Δήμου Δωδώνης",
+  "protocol_number": "8543",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6084",
+    "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83282"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΘΕ7Ω98-ΓΑΕ"
+      }
+    ]
+  },
+  "issued": "2019-10-29",
+  "posted": "2019-11-05",
+  "publish_timestamp_ms": 1572935271756,
+  "version_id": "b33be4e1-7c62-4a6d-957e-273729d9f176",
+  "in_force": "2019-11-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%923%CE%A998-%CE%A707",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%923%CE%A998-%CE%A707/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%95%CE%923%CE%A998-%CE%A707",
+  "listing_sha256": "ce5515a415f2b1e30ff5f1b41a09ef3a0b08e2fe9502bd2b99ee4c5753f8395a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
