@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΥΘΖΩΡΞ-67Μ",
+  "subject": "(7η) Έγκριση παροχών ύδρευσης.",
+  "protocol_number": "191",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6099",
+    "label": "ΔΗΜΟΣ ΖΑΓΟΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93560"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-11-01",
+  "posted": "2019-11-05",
+  "publish_timestamp_ms": 1572939617153,
+  "version_id": "d34bc3ba-7edd-4652-8b28-f1d7748f6581",
+  "in_force": "2019-11-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A5%CE%98%CE%96%CE%A9%CE%A1%CE%9E-67%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A5%CE%98%CE%96%CE%A9%CE%A1%CE%9E-67%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A5%CE%98%CE%96%CE%A9%CE%A1%CE%9E-67%CE%9C",
+  "listing_sha256": "b7549f7065e3e9ea5c5c04714b75f8f1cb5041c0cbfa897c712d92c98cb23d28",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
