@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΡ1ΙΩΡΓ-97Ψ",
+  "subject": "Μερική Ανάκληση",
+  "protocol_number": "19148",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6103",
+    "label": "ΔΗΜΟΣ ΖΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81762"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-11-06",
+  "posted": "2019-11-06",
+  "publish_timestamp_ms": 1573050956441,
+  "version_id": "55b203ef-2d20-48ae-a43d-a6a69fe6037d",
+  "in_force": "2019-11-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A11%CE%99%CE%A9%CE%A1%CE%93-97%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A11%CE%99%CE%A9%CE%A1%CE%93-97%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A11%CE%99%CE%A9%CE%A1%CE%93-97%CE%A8",
+  "listing_sha256": "a8d29c261d1e2d8cf37ef9239fd7b3c90701fae8505d4e0fa9284aeb86c69353",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
