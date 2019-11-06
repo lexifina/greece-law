@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦ01ΟΡ1Υ-3ΒΑ",
+  "subject": "Υποβολή Πρωτοκόλλου  Τελικής Επιθεώρησης (Π.Τ.Ε.) συστάδας",
+  "protocol_number": "21584",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77264"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΚΙΓΟΡ1Υ-ΘΥΝ"
+      },
+      {
+        "relatedDecisionsADA": "6Ε1ΔΟΡ1Υ-ΡΧΨ"
+      }
+    ]
+  },
+  "issued": "2019-11-06",
+  "posted": "2019-11-06",
+  "publish_timestamp_ms": 1573036280098,
+  "version_id": "b30bfe89-9490-4639-83a8-a684f77dd63d",
+  "in_force": "2019-11-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A601%CE%9F%CE%A11%CE%A5-3%CE%92%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A601%CE%9F%CE%A11%CE%A5-3%CE%92%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A601%CE%9F%CE%A11%CE%A5-3%CE%92%CE%91",
+  "listing_sha256": "a8d29c261d1e2d8cf37ef9239fd7b3c90701fae8505d4e0fa9284aeb86c69353",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
