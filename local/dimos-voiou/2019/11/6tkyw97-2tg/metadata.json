@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΤΚΥΩ97-2ΤΓ",
+  "subject": "ΠΡΟΜΗΘΕΙΑ ΠΕΤΡΕΛΑΙΟΥ Δ. Σ. ΝΕΑΠΟΛΗΣ",
+  "protocol_number": "157",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6056",
+    "label": "ΔΗΜΟΣ ΒΟΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "89694"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-11-07",
+  "posted": "2019-11-07",
+  "publish_timestamp_ms": 1573106467485,
+  "version_id": "c98b00fa-94f2-4754-9e3f-c70c481c4dfb",
+  "in_force": "2019-11-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A4%CE%9A%CE%A5%CE%A997-2%CE%A4%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A4%CE%9A%CE%A5%CE%A997-2%CE%A4%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A4%CE%9A%CE%A5%CE%A997-2%CE%A4%CE%93",
+  "listing_sha256": "b92c5b07b55c35b03395510eaad731db053a12f83bc163e2db041d858316b5f2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
