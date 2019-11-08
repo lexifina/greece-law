@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΙΧΣΟΞΤΒ-7ΒΒ",
+  "subject": "Καθορισμός μηνιαίων αποδοχών των Μελών πλήρους και αποκλειστικής απασχόλησης της Ενιαίας Ανεξάρτητης Αρχής Δημοσίων Συμβάσεων",
+  "protocol_number": "5698",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "55083",
+    "label": "ΕΝΙΑΙΑ ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΣΥΜΒΑΣΕΩΝ (ΕΑΑΔΗΣΥ)",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "92553"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "928",
+      "issue": "fektype_YODD",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "5658",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100048285"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "100025890",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-10-31",
+  "posted": "2019-11-08",
+  "publish_timestamp_ms": 1573198309862,
+  "version_id": "d6779dfc-9ee6-4d9a-b16f-9126c44f2fcf",
+  "in_force": "2019-11-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%A7%CE%A3%CE%9F%CE%9E%CE%A4%CE%92-7%CE%92%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%A7%CE%A3%CE%9F%CE%9E%CE%A4%CE%92-7%CE%92%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%99%CE%A7%CE%A3%CE%9F%CE%9E%CE%A4%CE%92-7%CE%92%CE%92",
+  "listing_sha256": "bce3fa2aeea113f120122d53312d3408a2cc69d27d848d6eb92b694bea68052c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
