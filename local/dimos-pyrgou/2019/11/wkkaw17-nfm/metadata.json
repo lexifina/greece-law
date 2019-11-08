@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΚΚΑΩ17-ΝΦΜ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ  ΠΕΡΙ ΤΟΠΟΘΕΤΗΣΗΣ ΠΡΟΣΩΠΙΚΟΥ  ΔΗΜΟΥ ΠΥΡΓΟΥ",
+  "protocol_number": "31539/8-11-2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6260",
+    "label": "ΔΗΜΟΣ ΠΥΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80106"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-11-08",
+  "posted": "2019-11-08",
+  "publish_timestamp_ms": 1573200206007,
+  "version_id": "3f051fb4-3d41-4a0f-9264-061946713b07",
+  "in_force": "2019-11-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%9A%CE%91%CE%A917-%CE%9D%CE%A6%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%9A%CE%91%CE%A917-%CE%9D%CE%A6%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9A%CE%9A%CE%91%CE%A917-%CE%9D%CE%A6%CE%9C",
+  "listing_sha256": "bd39620f248ff2f87b858c619de8f03957081c9e6ff52f69867da0b935e087a9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
