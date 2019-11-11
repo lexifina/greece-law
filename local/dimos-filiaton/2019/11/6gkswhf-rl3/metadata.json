@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΓΚΣΩΗΦ-ΡΛ3",
+  "subject": "Τοποθέτηση νεοδιοριζόμενου υπαλλήλου του Δήμου .",
+  "protocol_number": "198/2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6308",
+    "label": "ΔΗΜΟΣ ΦΙΛΙΑΤΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100000190"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-11-01",
+  "posted": "2019-11-11",
+  "publish_timestamp_ms": 1573472088895,
+  "version_id": "d41601dd-9ccd-4ff6-b41a-29d611145b48",
+  "in_force": "2019-11-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%93%CE%9A%CE%A3%CE%A9%CE%97%CE%A6-%CE%A1%CE%9B3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%93%CE%9A%CE%A3%CE%A9%CE%97%CE%A6-%CE%A1%CE%9B3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%93%CE%9A%CE%A3%CE%A9%CE%97%CE%A6-%CE%A1%CE%9B3",
+  "listing_sha256": "b7549f7065e3e9ea5c5c04714b75f8f1cb5041c0cbfa897c712d92c98cb23d28",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
