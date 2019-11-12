@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΘΙ9465ΧΘΞ-ΒΝΣ",
+  "subject": "Ειδοποίηση παρακατάθεσης νομιμότοκης αποζημίωσης δικαιούχων, δικηγορικής αμοιβής και δικαστικών εξόδων ακινήτου που έχει απαλλοτριωθεί με την ΚΥΑ 1119727/8468/0010/4.12.1997 (ΦΕΚ Δ΄ 1116 24.12.1997) για την κυκλοφοριακή σύνδεση Λιμένα Ηγουμενίτσας..",
+  "protocol_number": "4761",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007478"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "653",
+      "issue": "fektype_D",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-09-18",
+  "posted": "2019-11-12",
+  "publish_timestamp_ms": 1573549998903,
+  "version_id": "b8240e98-6d87-4096-ac50-d5bcf5911e29",
+  "in_force": "2019-11-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%98%CE%999465%CE%A7%CE%98%CE%9E-%CE%92%CE%9D%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%98%CE%999465%CE%A7%CE%98%CE%9E-%CE%92%CE%9D%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%98%CE%999465%CE%A7%CE%98%CE%9E-%CE%92%CE%9D%CE%A3",
+  "listing_sha256": "ec76be8d9fb97d5df5caba3bf65557f87253b4c7bf29d5038e4cdff72d8bfaaa",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
