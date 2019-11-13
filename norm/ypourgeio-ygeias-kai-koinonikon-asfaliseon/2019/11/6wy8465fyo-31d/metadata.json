@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΩΥ8465ΦΥΟ-31Δ",
+  "subject": "Εξουσιοδότηση υπογραφής εγγράφων «Με εντολή Υπουργού» στον Γενικό Γραμματέα Υπηρεσιών Υγείας και στον Γενικό Γραμματέα Δημόσιας Υγείας του Υπουργείου Υγείας.",
+  "protocol_number": "οικ.76972",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047532"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4141",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-11-13",
+  "posted": "2019-11-13",
+  "publish_timestamp_ms": 1573638579136,
+  "version_id": "47aaa27a-8048-41f8-845d-b79c612295eb",
+  "in_force": "2019-11-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%A58465%CE%A6%CE%A5%CE%9F-31%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%A58465%CE%A6%CE%A5%CE%9F-31%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A9%CE%A58465%CE%A6%CE%A5%CE%9F-31%CE%94",
+  "listing_sha256": "69fd75d124423fe9fb5ecbabebf89883040bacf0e799abf8cdb3f1da1a4297bc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
