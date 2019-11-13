@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΘ2ΔΟΡ1Γ-ΙΦ7",
+  "subject": "τροποποίηση συστατικής πράξης ΔΕΤΗΠ",
+  "protocol_number": "155932",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76529"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4113",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "155932",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-10-18",
+  "posted": "2019-11-13",
+  "publish_timestamp_ms": 1573642076258,
+  "version_id": "9c70a7f6-4cce-4820-9608-4a665d3cb87d",
+  "in_force": "2019-11-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%982%CE%94%CE%9F%CE%A11%CE%93-%CE%99%CE%A67",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%982%CE%94%CE%9F%CE%A11%CE%93-%CE%99%CE%A67/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%982%CE%94%CE%9F%CE%A11%CE%93-%CE%99%CE%A67",
+  "listing_sha256": "19ee6786e5041d4e6b76a4602dd4db8619e234722f64e5860cd32099a197d157",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
