@@ -6,7 +6,7 @@
 
 ν. 4619/2019 · ΦΕΚ Α΄ 95/11.6.2019 · In force: 2019-07-01
 
-History: **as enacted, then amended**: 1 amending act applied in order, each as its own commit (last: ν. 4623/2019, in force 2019-08-09); the list is in `source.json` (`amendments_applied`). Amendments in force after 2019-08-09 are not yet applied, so this is not yet the current consolidated text.
+History: **as enacted, then amended**: 2 amending acts applied in order, each as its own commit (last: ν. 4637/2019, in force 2019-11-18); the list is in `source.json` (`amendments_applied`). Amendments in force after 2019-11-18 are not yet applied, so this is not yet the current consolidated text.
 
 Source: <https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2019/20190100095.pdf>
 
