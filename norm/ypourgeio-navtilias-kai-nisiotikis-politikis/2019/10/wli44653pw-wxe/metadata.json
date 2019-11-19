@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΛΙ44653ΠΩ-ΩΧΕ",
+  "subject": "Μετατροπή οργανικής  θέσης  μετά την αποχώρηση του υπαλλήλου  που την κατείχε .",
+  "protocol_number": "2901.03/78156/2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70379"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4202",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "78156",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-10-30",
+  "posted": "2019-11-19",
+  "publish_timestamp_ms": 1574150966333,
+  "version_id": "ce6c3e23-36fe-4059-a289-c6139ce36558",
+  "in_force": "2019-11-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%9944653%CE%A0%CE%A9-%CE%A9%CE%A7%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%9944653%CE%A0%CE%A9-%CE%A9%CE%A7%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9B%CE%9944653%CE%A0%CE%A9-%CE%A9%CE%A7%CE%95",
+  "listing_sha256": "d9af1e2a878d90af3c655f9dd92cc31d3944b53d77e602600f38b29a7fbfa99e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
