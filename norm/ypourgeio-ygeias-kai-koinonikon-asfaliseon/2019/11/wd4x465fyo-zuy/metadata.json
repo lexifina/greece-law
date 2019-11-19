@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔ4Χ465ΦΥΟ-ΖΘΥ",
+  "subject": "Αναγνώριση της Α‘ Παθολογικής Κλινικής (Ενδοκρινολογική Μονάδα) του Εθνικού και Καποδιστριακού Πανεπιστημίου Αθηνών του Γενικού Νοσοκομείου Αθηνών «ΛΑΪΚΟ», ως Κέντρου Εμπειρογνωμοσύνης Σπανίων Ενδοκρινολογικών Νοσημάτων Ενηλίκων.",
+  "protocol_number": "Υ.Π.Σχ./οικ. 78005",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047527"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4202",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "78005",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-11-19",
+  "posted": "2019-11-19",
+  "publish_timestamp_ms": 1574160960016,
+  "version_id": "48b72cc8-d993-4172-955a-86784d38ee2b",
+  "in_force": "2019-11-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%944%CE%A7465%CE%A6%CE%A5%CE%9F-%CE%96%CE%98%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%944%CE%A7465%CE%A6%CE%A5%CE%9F-%CE%96%CE%98%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%944%CE%A7465%CE%A6%CE%A5%CE%9F-%CE%96%CE%98%CE%A5",
+  "listing_sha256": "53c9b393cca2f9d0d387367fe40afc8d8485adfaa0e79a8c288fe3c6cbb23b6e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
