@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧΥ5Η-Χ5Χ",
+  "subject": "Έγκριση απόδοσης πλεονάσματος της Επιτροπής Εποπτείας και Ελέγχου Παιγνίων (Ε.Ε.Ε.Π.), σύμφωνα με την διάταξη της  παραγράφου 8 του άρθρου 28 του ν.4002/2011 (ΦΕΚ 180 Α΄)",
+  "protocol_number": "124624 ΕΞ2019/11.11.2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100038757"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4211",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "124624",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100048285"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-11-20",
+  "posted": "2019-11-20",
+  "publish_timestamp_ms": 1574232112200,
+  "version_id": "480d8485-9dcf-41a4-98e0-6f6da26e0df5",
+  "in_force": "2019-11-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%A55%CE%97-%CE%A75%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%A55%CE%97-%CE%A75%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A7%CE%A55%CE%97-%CE%A75%CE%A7",
+  "listing_sha256": "2071bd1f355f45bfaeebae1efe718fa9f1796298f0601fdb67d06e265f2b7986",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
