@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Η44ΩΞ2-0ΦΡ",
+  "subject": "Απόδοση λογαριασμού για το αρ. 1872/2019 χρηματικό ένταλμα προπληρωμής",
+  "protocol_number": "ΠΟΕ 377/19",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78115"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-11-22",
+  "posted": "2019-11-22",
+  "publish_timestamp_ms": 1574416422019,
+  "version_id": "41d97535-847b-40f8-b74f-7fa335781141",
+  "in_force": "2019-11-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9744%CE%A9%CE%9E2-0%CE%A6%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9744%CE%A9%CE%9E2-0%CE%A6%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9744%CE%A9%CE%9E2-0%CE%A6%CE%A1",
+  "listing_sha256": "6153e736c07c12c1d1afa3c8a61bf2e65ab3125630c4788eb8d14e2543597b95",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
