@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "652ΟΩ94-Δ1Ι",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΔΗΜΟΥ ΒΙΑΝΝΟΥ ΓΙΑ ΤΗΝ ΠΟΛΙΤΙΚΗ ΠΡΟΣΤΑΣΙΑ",
+  "protocol_number": "8639",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6054",
+    "label": "ΔΗΜΟΣ ΒΙΑΝΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81442"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "784/2019",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-11-25",
+  "posted": "2019-11-25",
+  "publish_timestamp_ms": 1574685178923,
+  "version_id": "b49eb08a-3707-4031-8542-c310e232d9f5",
+  "in_force": "2019-11-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/652%CE%9F%CE%A994-%CE%941%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/652%CE%9F%CE%A994-%CE%941%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/652%CE%9F%CE%A994-%CE%941%CE%99",
+  "listing_sha256": "2577efc638e4c13aa7c4a732fdc44f69aaa1f63fad1c07ccd4ca85ae9a239059",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
