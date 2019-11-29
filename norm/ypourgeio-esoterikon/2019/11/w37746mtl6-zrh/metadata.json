@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω37746ΜΤΛ6-ΖΡΗ",
+  "subject": "Καθορισμός ποσοστού και διαδικασία  απόδοσης ποσού από το Ελληνικό Δημόσιο σε δήμους της χώρας και στη Δημόσια Αρχή Λιμένος ως αντισταθμιστικά ωφελήματα από τη λιμενική και εμπορευματική δραστηριότητα της «Οργανισμός Λιμένος Θεσσαλονίκης Α.Ε».",
+  "protocol_number": "77484",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "91264"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4300",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100048285"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "100015969",
+        "unitId": [
+          "90678"
+        ],
+        "signerIds": [
+          "100047767"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-11-04",
+  "posted": "2019-11-29",
+  "publish_timestamp_ms": 1575012174186,
+  "version_id": "b930b4b3-c21b-4e72-896b-a2745e6a56d2",
+  "in_force": "2019-11-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A937746%CE%9C%CE%A4%CE%9B6-%CE%96%CE%A1%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A937746%CE%9C%CE%A4%CE%9B6-%CE%96%CE%A1%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A937746%CE%9C%CE%A4%CE%9B6-%CE%96%CE%A1%CE%97",
+  "listing_sha256": "7227f0f54af1c0747794ae219af94e8ada5c17eb16312dccca831bfee0c55f9b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
