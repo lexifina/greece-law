@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΨΟ9ΟΡ1Φ-2ΑΥ",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 35/2019 απόφασης του Διοικητικού Συμβουλίου του Νομικού Προσώπου με την επωνυμία «Κέντρο Κοινωνικής Ανάπτυξης Δήμου Αμφιλοχίας»",
+  "protocol_number": "268291",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΨΙΔΟΚΨΔ-ΡΘΡ"
+      }
+    ]
+  },
+  "issued": "2019-12-02",
+  "posted": "2019-12-02",
+  "publish_timestamp_ms": 1575281167814,
+  "version_id": "9138a97b-0eb6-4a12-99f7-7d1dc7a0ec47",
+  "in_force": "2019-12-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A8%CE%9F9%CE%9F%CE%A11%CE%A6-2%CE%91%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A8%CE%9F9%CE%9F%CE%A11%CE%A6-2%CE%91%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A8%CE%9F9%CE%9F%CE%A11%CE%A6-2%CE%91%CE%A5",
+  "listing_sha256": "678802642aace83ce6415a2fa89326c6d1204ba189f2336dd49d43ae981134e6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
