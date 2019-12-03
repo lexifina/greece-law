@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Τ3Α465ΦΥΟ-8ΞΗ",
+  "subject": "«Αρμοδιότητες Υποδιοικητών 7ης Υγειονομικής Περιφέρειας (Υ.Πε.) Κρήτης»",
+  "protocol_number": "ΥΠΕ/Γ.Π. οικ. 82282",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100039877"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4308",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-11-22",
+  "posted": "2019-12-03",
+  "publish_timestamp_ms": 1575358914201,
+  "version_id": "89183f4d-273d-4774-ac58-3175db0f7bb7",
+  "in_force": "2019-12-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A43%CE%91465%CE%A6%CE%A5%CE%9F-8%CE%9E%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A43%CE%91465%CE%A6%CE%A5%CE%9F-8%CE%9E%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A43%CE%91465%CE%A6%CE%A5%CE%9F-8%CE%9E%CE%97",
+  "listing_sha256": "424495b31e04ffa3708c51e01ab08f2f0f35dc7d29e97dba334427e9b8297db7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
