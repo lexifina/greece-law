@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠΠ2ΩΛΣ-ΞΦΩ",
+  "subject": "Λήψη απόφασης για την 4/2019 απόφαση της Επιτροπής Επίλυσης Φορολογικών Διαφορών & Αμφισβητήσεων του Δήμου Μαλεβιζίου που αφορά την κ.Μαστρογιαννάκη Ελένη του Κων/νου",
+  "protocol_number": "23984/2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6180",
+    "label": "ΔΗΜΟΣ ΜΑΛΕΒΙΖΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81414"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-12-03",
+  "posted": "2019-12-05",
+  "publish_timestamp_ms": 1575553974337,
+  "version_id": "5bbb2ae5-4f9c-4e00-8b81-1646f6b5f01a",
+  "in_force": "2019-12-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%A02%CE%A9%CE%9B%CE%A3-%CE%9E%CE%A6%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%A02%CE%A9%CE%9B%CE%A3-%CE%9E%CE%A6%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A0%CE%A02%CE%A9%CE%9B%CE%A3-%CE%9E%CE%A6%CE%A9",
+  "listing_sha256": "9f985dba365fbe8c547285aa0fca8f229d3c69bbcb3df3dc2510a7bceee52aab",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
