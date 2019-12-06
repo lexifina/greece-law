@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΞΘΩΨΩ-038",
+  "subject": "«Ψήφισμα κατά του κλεισίματος του Αγροτικού  Κτηνιατρείου Φούστανης»",
+  "protocol_number": "258-2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6023",
+    "label": "ΔΗΜΟΣ ΑΛΜΩΠΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85102"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-11-14",
+  "posted": "2019-12-06",
+  "publish_timestamp_ms": 1575617032671,
+  "version_id": "fc3503a4-d012-4a41-9ec9-e705a8be3088",
+  "in_force": "2019-12-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%9E%CE%98%CE%A9%CE%A8%CE%A9-038",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%9E%CE%98%CE%A9%CE%A8%CE%A9-038/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%9E%CE%98%CE%A9%CE%A8%CE%A9-038",
+  "listing_sha256": "750ec921c00f27adfab9b645e82cdadec8b7afa640b93d779fdb3f0a933cfa41",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
