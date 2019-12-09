@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΣ2ΔΕ-ΤΔΦ",
+  "subject": "ΑΝΑΚΛΗΤΙΚΗ ΑΠΟΦΑΣΗ ΔΑΠΑΝΗΣ ΠΡΕΣΒΕΙΑΣ ΜΑΔΡΙΤΗΣ",
+  "protocol_number": "ΜΕ.2/085/2420989001/401.9365",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72585"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-12-09",
+  "posted": "2019-12-09",
+  "publish_timestamp_ms": 1575889200628,
+  "version_id": "a6bcb17b-39aa-4e95-a815-7948bd394dac",
+  "in_force": "2019-12-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A32%CE%94%CE%95-%CE%A4%CE%94%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A32%CE%94%CE%95-%CE%A4%CE%94%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A32%CE%94%CE%95-%CE%A4%CE%94%CE%A6",
+  "listing_sha256": "e4241b819053f5e6f9d2dafe3c21c528acce8c20a0b36fe6fde4baceb46820e3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
