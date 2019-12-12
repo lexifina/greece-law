@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΞ5ΜΩΡ3-Σ0Ψ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΑΝΑΘΕΣΗΣ ΓΙΑ ΣΥΝΔΡΟΜΗ ΣΤΗΝ ΗΛΕΚΤΡΟΝΙΚΗ ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ ΝΟΜΟΣ",
+  "protocol_number": "5086",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79498"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "5086",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-12-12",
+  "posted": "2019-12-12",
+  "publish_timestamp_ms": 1576138685830,
+  "version_id": "2a77ac0f-2eaa-4151-8432-c748495acb37",
+  "in_force": "2019-12-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E5%CE%9C%CE%A9%CE%A13-%CE%A30%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E5%CE%9C%CE%A9%CE%A13-%CE%A30%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9E5%CE%9C%CE%A9%CE%A13-%CE%A30%CE%A8",
+  "listing_sha256": "5dfef1ba199f38d0ede8629ee52b282f0b2cb6b5027f4e5e756350c18da99e22",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
