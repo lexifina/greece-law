@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω4Δ9465ΧΘΞ-ΣΡΩ",
+  "subject": "Σύσταση Τομέα Αποκατάστασης Επιπτώσεων Φυσικών Καταστροφών Νομού Χαλκιδικής (ΤΑΕΦΚ Ν. ΧΑΛΚΙΔΙΚΗΣ).",
+  "protocol_number": "Οικ. 87473",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035901"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4545",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ψ6ΥΓ465ΧΘΞ-2ΝΠ"
+      }
+    ]
+  },
+  "issued": "2019-12-12",
+  "posted": "2019-12-12",
+  "publish_timestamp_ms": 1576138297815,
+  "version_id": "af5112f6-fd1a-4ad7-b28c-20bca0026dd7",
+  "in_force": "2019-12-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A94%CE%949465%CE%A7%CE%98%CE%9E-%CE%A3%CE%A1%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A94%CE%949465%CE%A7%CE%98%CE%9E-%CE%A3%CE%A1%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A94%CE%949465%CE%A7%CE%98%CE%9E-%CE%A3%CE%A1%CE%A9",
+  "listing_sha256": "880e3456275596e7119bdbc57f31252cf1efeaa7ec53e0d7c8ceb8febe4d8849",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
