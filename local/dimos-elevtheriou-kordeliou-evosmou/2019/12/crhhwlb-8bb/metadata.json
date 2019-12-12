@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΡΗΗΩΛΒ-8ΒΒ",
+  "subject": "«Αναστολή λειτουργίας σχολείων Κορδελιού-Ευόσμου ((ΕΠΑΛ Ελευθερίου- Κορδελιού, 1ο Γυμνάσιο Ελευθερίου- Κορδελιού, 1ο Λύκειο Ελευθερίου- Κορδελιού, 18ο Δημοτικό Ευόσμου, 7ο Δημοτικό Ευόσμου 19ο νηπιαγωγείο Ευόσμου, 24ο νηπιαγωγείο Ευόσμου, 2ο Γυμνάσιο Ευόσμου, ΕΠΑΛ Ευόσμου πρωϊνής λειτουργίας) εξαιτίας προγραμματισμένης διακοπής ρεύματος »",
+  "protocol_number": "49406",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6157",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΘΕΡΙΟΥ ΚΟΡΔΕΛΙΟΥ ΕΥΟΣΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93348"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "2442",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-12-12",
+  "posted": "2019-12-12",
+  "publish_timestamp_ms": 1576141336827,
+  "version_id": "5d8b6fad-87ef-4590-90d4-dd91cb4eb1ec",
+  "in_force": "2019-12-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A1%CE%97%CE%97%CE%A9%CE%9B%CE%92-8%CE%92%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A1%CE%97%CE%97%CE%A9%CE%9B%CE%92-8%CE%92%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A1%CE%97%CE%97%CE%A9%CE%9B%CE%92-8%CE%92%CE%92",
+  "listing_sha256": "5dfef1ba199f38d0ede8629ee52b282f0b2cb6b5027f4e5e756350c18da99e22",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
