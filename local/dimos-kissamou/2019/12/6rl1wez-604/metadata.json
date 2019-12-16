@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΡΛ1ΩΕΖ-604",
+  "subject": "ΔΙΟΡΘΩΣΗ ΤΗΣ 196/2019 ΑΠΟΦΑΣΗΣ Δ.Σ.",
+  "protocol_number": "12238",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6153",
+    "label": "ΔΗΜΟΣ ΚΙΣΣΑΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86026"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-12-16",
+  "posted": "2019-12-16",
+  "publish_timestamp_ms": 1576484066918,
+  "version_id": "01f703e0-8c0f-431f-988d-849fb3df3c76",
+  "in_force": "2019-12-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%9B1%CE%A9%CE%95%CE%96-604",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%9B1%CE%A9%CE%95%CE%96-604/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A1%CE%9B1%CE%A9%CE%95%CE%96-604",
+  "listing_sha256": "bfb7ce749bec1e98f1c8be476a86767009d2115a027dd4211c6b08b7a9105cf8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
