@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΜΓΤΩΛΝ-ΜΟΩ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΣ 63/2019 ΚΑΘΟΡΙΣΜΟΣ ΥΨΟΥΣ ΤΡΟΦΕΙΩΝ ΠΑΙΔΙΚΩΝ ΣΤΑΘΜΩΝ",
+  "protocol_number": "1540",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6184",
+    "label": "ΔΗΜΟΣ ΜΑΡΚΟΠΟΥΛΟΥ ΜΕΣΟΓΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88621"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-11-20",
+  "posted": "2019-12-16",
+  "publish_timestamp_ms": 1576484158121,
+  "version_id": "a3e293f4-4906-49e4-a290-ad3b3aa29a84",
+  "in_force": "2019-12-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C%CE%93%CE%A4%CE%A9%CE%9B%CE%9D-%CE%9C%CE%9F%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C%CE%93%CE%A4%CE%A9%CE%9B%CE%9D-%CE%9C%CE%9F%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9C%CE%93%CE%A4%CE%A9%CE%9B%CE%9D-%CE%9C%CE%9F%CE%A9",
+  "listing_sha256": "5ca5ebdf37f71d1148d7cfc0792f108c91f24d76bd04453471d0edc044b68131",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
