@@ -1,0 +1,64 @@
+{
+  "year": 2019,
+  "number": 4649,
+  "url": "https://api.et.gr/apiLAW/1/2019/4649/pdf",
+  "source_sha256": "8d7d6d9ec163229c913252696edef99720d58bcad8842a0d88aebfb609394bf3",
+  "published": "2019-12-16",
+  "in_force": "2019-12-16",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 36,
+  "images": [
+    {
+      "page": 16,
+      "sha256": "e8538a040078c15f501d68aaaae7bfb32ac4f932030d444fddbcadd5b8c55c88",
+      "ext": "png",
+      "bytes": 5500,
+      "bbox": [
+        165.7,
+        116.6,
+        495.9,
+        320.3
+      ]
+    },
+    {
+      "page": 32,
+      "sha256": "4b138da8989be1b90c42e680e5fdd46afa69a0aa1e2008f0d636d34b7a5e2ab7",
+      "ext": "png",
+      "bytes": 28217,
+      "bbox": [
+        59.3,
+        236.3,
+        520.1,
+        433.2
+      ]
+    },
+    {
+      "page": 33,
+      "sha256": "e2323589136b4c4d7745c117280a6d644970907653cf5b4ea7672abc1d6a4bb5",
+      "ext": "png",
+      "bytes": 19121,
+      "bbox": [
+        68.0,
+        115.7,
+        528.9,
+        315.9
+      ]
+    },
+    {
+      "page": 34,
+      "sha256": "d86ea77d651bc0c5cbcf5d6a7106b42dbddfe5a9d191ad2be3d4dded1aabab01",
+      "ext": "png",
+      "bytes": 30716,
+      "bbox": [
+        141.6,
+        120.3,
+        474.6,
+        554.7
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
