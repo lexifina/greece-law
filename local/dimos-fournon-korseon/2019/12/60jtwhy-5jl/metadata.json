@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60ΞΤΩΗΥ-5ΞΛ",
+  "subject": "ΠΡΟΣΚΛΗΣΗ ΓΙΑ ΕΚΤΑΚΤΗ ΣΥΝΕΔΡΙΑΣΗ",
+  "protocol_number": "2245",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6311",
+    "label": "ΔΗΜΟΣ ΦΟΥΡΝΩΝ ΚΟΡΣΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85389"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-12-13",
+  "posted": "2019-12-16",
+  "publish_timestamp_ms": 1576477495150,
+  "version_id": "5b2da23e-f09d-4270-955b-4c96b28791cf",
+  "in_force": "2019-12-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%9E%CE%A4%CE%A9%CE%97%CE%A5-5%CE%9E%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%9E%CE%A4%CE%A9%CE%97%CE%A5-5%CE%9E%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%9E%CE%A4%CE%A9%CE%97%CE%A5-5%CE%9E%CE%9B",
+  "listing_sha256": "f941dd53252a9489dbbe24f1ddd0668d7ebf704fe529d844a90a3d0042675e8e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
