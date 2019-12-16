@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΛΑΣ46ΜΦΟ8-595",
+  "subject": "ΟΡΙΣΜΟΣ ΣΥΜΒΟΛΑΙΟΓΡΑΦΟΥ",
+  "protocol_number": "17/2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100049554",
+    "label": "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΣΑΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100053576"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-12-06",
+  "posted": "2019-12-16",
+  "publish_timestamp_ms": 1576479163885,
+  "version_id": "e860bf80-1aa3-4749-8c41-e2df2142ac02",
+  "in_force": "2019-12-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%91%CE%A346%CE%9C%CE%A6%CE%9F8-595",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%91%CE%A346%CE%9C%CE%A6%CE%9F8-595/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9B%CE%91%CE%A346%CE%9C%CE%A6%CE%9F8-595",
+  "listing_sha256": "e7e4285455f8174fe9268106a1c379d97655846896ccfd03f988cdce2673e2f0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
