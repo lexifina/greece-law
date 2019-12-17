@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤ28ΩΡΞ-2Θ6",
+  "subject": "(8η)  Έγκριση  διακοπών  ύδρευσης.",
+  "protocol_number": "215",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6099",
+    "label": "ΔΗΜΟΣ ΖΑΓΟΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93560"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-12-13",
+  "posted": "2019-12-17",
+  "publish_timestamp_ms": 1576565148453,
+  "version_id": "e410b31c-b499-4ba3-bb7c-cde6e3d9c4bd",
+  "in_force": "2019-12-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A428%CE%A9%CE%A1%CE%9E-2%CE%986",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A428%CE%A9%CE%A1%CE%9E-2%CE%986/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A428%CE%A9%CE%A1%CE%9E-2%CE%986",
+  "listing_sha256": "f941dd53252a9489dbbe24f1ddd0668d7ebf704fe529d844a90a3d0042675e8e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
