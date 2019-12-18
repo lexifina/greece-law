@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΩΝΙΩΚΞ-ΗΝ7",
+  "subject": "Απαλλαγή υπολόγου και έγκριση απόδοσης λογαριασμού (Γαράζο)",
+  "protocol_number": "273ΟΕ/2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6201",
+    "label": "ΔΗΜΟΣ ΜΥΛΟΠΟΤΑΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79242"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-12-16",
+  "posted": "2019-12-18",
+  "publish_timestamp_ms": 1576658247861,
+  "version_id": "a0d62101-e486-449c-8556-630000ecf1ea",
+  "in_force": "2019-12-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%9D%CE%99%CE%A9%CE%9A%CE%9E-%CE%97%CE%9D7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%9D%CE%99%CE%A9%CE%9A%CE%9E-%CE%97%CE%9D7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A9%CE%9D%CE%99%CE%A9%CE%9A%CE%9E-%CE%97%CE%9D7",
+  "listing_sha256": "9a2c6eebb57a63f9bb564a33bbb0f09c46d22311e856e657dd4a0b481df76a53",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
