@@ -1,0 +1,40 @@
+{
+  "year": 2019,
+  "number": 4651,
+  "url": "https://api.et.gr/apiLAW/1/2019/4651/pdf",
+  "source_sha256": "3d6f762ed47d3e435e16ff613b8083c0c7766b640d971af32721e93a4a08dc6d",
+  "published": "2019-12-19",
+  "in_force": "2019-12-19",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 2,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "eadb59bb7e2fb8635417ed536e10ba14490af445c70261e095e8cb9d9f16cfe9",
+      "ext": "png",
+      "bytes": 55227,
+      "bbox": [
+        81.2,
+        391.2,
+        522.6,
+        773.8
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "4874d08fdf2080235adf87d09b189396eb41d2ed85507e5d4c9e96ab2c2685d7",
+      "ext": "png",
+      "bytes": 83107,
+      "bbox": [
+        65.9,
+        131.1,
+        520.9,
+        574.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
