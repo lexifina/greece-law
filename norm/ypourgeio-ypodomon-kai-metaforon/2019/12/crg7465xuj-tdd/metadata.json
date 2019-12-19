@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΡΓ7465ΧΘΞ-ΤΔΔ",
+  "subject": "Απόφαση έγκρισης  εβδομήντα (70) Ελληνικών Τεχνικών Προδιαγραφών (ΕΤΕΠ), με υποχρεωτική εφαρμογή σε όλα τα Δημόσια Έργα και Μελέτες.",
+  "protocol_number": "Δ22/4193",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035937"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4607",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-12-19",
+  "posted": "2019-12-19",
+  "publish_timestamp_ms": 1576758025545,
+  "version_id": "bed9aacc-877f-4e42-ab8c-81fcc2df61da",
+  "in_force": "2019-12-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A1%CE%937465%CE%A7%CE%98%CE%9E-%CE%A4%CE%94%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A1%CE%937465%CE%A7%CE%98%CE%9E-%CE%A4%CE%94%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A1%CE%937465%CE%A7%CE%98%CE%9E-%CE%A4%CE%94%CE%94",
+  "listing_sha256": "a61c89bea3d6175ebea2ede3958cdb4f1cc073b411cb4ac824b5597bf27eab12",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
