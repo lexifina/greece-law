@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΙΝΡ6-Ρ4Ρ",
+  "subject": "Έγκριση υπέρβασης του ανώτατου αριθμού των επιτρεπομένων κατ’ έτος ημερών εκτός έδρας του πολιτικού προσωπικού του Υπουργείου Εθνικής Άμυνας, ανάλογα με τον κλάδο, την κατηγορία και ειδικότητα που ανήκουν, για το έτος 2019.",
+  "protocol_number": "80073",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70167"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4666",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-12-13",
+  "posted": "2019-12-20",
+  "publish_timestamp_ms": 1576829954288,
+  "version_id": "262ad672-a10a-41ea-9e53-fcacbb32b3f8",
+  "in_force": "2019-12-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%9D%CE%A16-%CE%A14%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%9D%CE%A16-%CE%A14%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%99%CE%9D%CE%A16-%CE%A14%CE%A1",
+  "listing_sha256": "f941dd53252a9489dbbe24f1ddd0668d7ebf704fe529d844a90a3d0042675e8e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
