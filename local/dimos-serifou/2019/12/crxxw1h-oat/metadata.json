@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΡΧΧΩ1Η-ΟΑΤ",
+  "subject": "ΧΕΠ Β278 ΕΦΗΜΕΡΙΔΑ",
+  "protocol_number": "ΧΕΠ Β278",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6271",
+    "label": "ΔΗΜΟΣ ΣΕΡΙΦΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83430"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-12-22",
+  "posted": "2019-12-22",
+  "publish_timestamp_ms": 1577009450147,
+  "version_id": "0a28c34e-a63f-4986-9991-8422b6b6d354",
+  "in_force": "2019-12-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A1%CE%A7%CE%A7%CE%A91%CE%97-%CE%9F%CE%91%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A1%CE%A7%CE%A7%CE%A91%CE%97-%CE%9F%CE%91%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A1%CE%A7%CE%A7%CE%A91%CE%97-%CE%9F%CE%91%CE%A4",
+  "listing_sha256": "d9b498a54de22396d322601ccbd495ea79a15a722c2f2b251e59ca3b9c6f68bb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
