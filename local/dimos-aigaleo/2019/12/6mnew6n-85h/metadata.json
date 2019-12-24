@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΜΝΕΩ6Ν-85Η",
+  "subject": "Ψήφισμα για την συνέχιση του προγράμματος ΦΙΛΟΔΗΜΟΣ",
+  "protocol_number": "369",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6014",
+    "label": "ΔΗΜΟΣ ΑΙΓΑΛΕΩ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82073"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-12-19",
+  "posted": "2019-12-24",
+  "publish_timestamp_ms": 1577170805038,
+  "version_id": "357a9ad3-347c-41a9-bc13-ecbe2b81a299",
+  "in_force": "2019-12-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C%CE%9D%CE%95%CE%A96%CE%9D-85%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C%CE%9D%CE%95%CE%A96%CE%9D-85%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9C%CE%9D%CE%95%CE%A96%CE%9D-85%CE%97",
+  "listing_sha256": "a4a70e46b4275ea9105da9e3253be840f02f385cb659267e4d05ae5c9aa7083b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
