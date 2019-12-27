@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΑΣ4653ΠΓ-ΞΗ5",
+  "subject": "Ορισμός της Ειδικής Υπηρεσίας Διαχείρισης και Εφαρμογής Τομέα Τεχνολογιών Πληροφορικής και Επικοινωνιών (ΕΥΔΕ-ΤΠΕ) ως Ενδιάμεσου Φορέα Διαχείρισης (ΕΦΔ) Πράξεων ΠΑΑ και εκχώρηση αρμοδιοτήτων σε αυτή.",
+  "protocol_number": "4023",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100024525"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4748",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "4023",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054486"
+      }
+    ]
+  },
+  "issued": "2019-12-16",
+  "posted": "2019-12-27",
+  "publish_timestamp_ms": 1577438966292,
+  "version_id": "e0d98362-7e13-41d1-bb7c-9c43bba04841",
+  "in_force": "2019-12-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%91%CE%A34653%CE%A0%CE%93-%CE%9E%CE%975",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%91%CE%A34653%CE%A0%CE%93-%CE%9E%CE%975/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%91%CE%A34653%CE%A0%CE%93-%CE%9E%CE%975",
+  "listing_sha256": "9a2c6eebb57a63f9bb564a33bbb0f09c46d22311e856e657dd4a0b481df76a53",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
