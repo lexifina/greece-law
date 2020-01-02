@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ1ΟΘΟΡ1Ι-07Ψ",
+  "subject": "Επικύρωση νομιμότητας της αριθμ. 54/2019 απόφασης Δημοτικού Συμβουλίου του Δήμου Δυτικής Σάμου «Έγκριση Κανονισμού Λειτουργίας Δημοτικής Επιτροπής Διαβούλευσης Δήμου Δυτικής Σάμου».",
+  "protocol_number": "84",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76699"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "54/2019",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-01-02",
+  "posted": "2020-01-02",
+  "publish_timestamp_ms": 1577958469865,
+  "version_id": "398f09f8-283b-41ea-bce0-c614bd6eb206",
+  "in_force": "2020-01-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A81%CE%9F%CE%98%CE%9F%CE%A11%CE%99-07%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A81%CE%9F%CE%98%CE%9F%CE%A11%CE%99-07%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A81%CE%9F%CE%98%CE%9F%CE%A11%CE%99-07%CE%A8",
+  "listing_sha256": "0fd88b932e3b8307bc339f80f5ba43cb959599e50bfa026d346676df26706654",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
