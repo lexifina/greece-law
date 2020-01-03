@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΥ0ΦΩ0Ο-9Φ6",
+  "subject": "Τροποποίηση Σύμβασης Μίσθωσης Ακινήτου στα Δυο Αοράκια.",
+  "protocol_number": "998/2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81430"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΞΥΡΩ0Ο-Α9Γ"
+      }
+    ]
+  },
+  "issued": "2019-12-16",
+  "posted": "2020-01-03",
+  "publish_timestamp_ms": 1578047309003,
+  "version_id": "37be1aaf-c15b-442a-ba23-88ad6b93d366",
+  "in_force": "2020-01-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A50%CE%A6%CE%A90%CE%9F-9%CE%A66",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A50%CE%A6%CE%A90%CE%9F-9%CE%A66/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A50%CE%A6%CE%A90%CE%9F-9%CE%A66",
+  "listing_sha256": "9a2c6eebb57a63f9bb564a33bbb0f09c46d22311e856e657dd4a0b481df76a53",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
