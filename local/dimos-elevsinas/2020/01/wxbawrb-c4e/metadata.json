@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧΒΑΩΡΒ-Ψ4Ε",
+  "subject": "Έγκριση του 2ου ΑΠΕ του έργου: «Κατασκευή σταμπωτών δαπέδων τεσσάρων οδών στην Άνω Ελευσίνα (Αθ. Διάκου, Ραιδεστού, Σινασσού, Αλ. Παναγούλη)».",
+  "protocol_number": "19-533",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6089",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΣΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80043"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΧΒΑΩΡΒ-Ψ4Ε"
+      }
+    ]
+  },
+  "issued": "2020-01-03",
+  "posted": "2020-01-03",
+  "publish_timestamp_ms": 1578033042229,
+  "version_id": "d609b603-b996-4bf5-a6ae-bea0647fc669",
+  "in_force": "2020-01-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%92%CE%91%CE%A9%CE%A1%CE%92-%CE%A84%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%92%CE%91%CE%A9%CE%A1%CE%92-%CE%A84%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A7%CE%92%CE%91%CE%A9%CE%A1%CE%92-%CE%A84%CE%95",
+  "listing_sha256": "76fd11627359cbe6ff4014aa05392e47cd2f878deae9292efb3181c98a249d73",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
