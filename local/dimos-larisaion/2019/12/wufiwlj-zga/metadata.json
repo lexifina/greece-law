@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΘΦΙΩΛΞ-ΖΓΑ",
+  "subject": "Λήψη Κανονιστικής Απόφασης με θέμα: Παραχώρηση Θέσεων Στάθμευσης:1) Μια θέση για ΑΜΕΑ στην οδό ΑΣΚΛΗΠΙΟΥ, (Ο.Τ. 811Β ) 2) Μια θέση για ΑΜΕΑ στην οδό ΦΑΡΜΑΚΗ 6, (Ο.Τ.786 ) 3) Μια θέση για ΑΜΕΑ στην οδό ΣΟΛΩΜΟΥ, (Ο.Τ.984Β ) 4) Μια θέση για ΑΜΕΑ στην οδό 23ης Οκτωβρίου 60-62, (Ο.Τ.968Α ) 5) Μια θέση για ΑΜΕΑ στην οδό TAΓΜ. ΒΕΛΗΣΣΑΡΙΟΥ 7, (Ο.Τ.806Β ) 6)Μια θέση ΑΜΕΑ στην οδό ΑΞΕΝΙΔΟΥ 8, (Ο.Τ. 779Α).",
+  "protocol_number": "67",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6167",
+    "label": "ΔΗΜΟΣ ΛΑΡΙΣΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80183"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-12-18",
+  "posted": "2020-01-08",
+  "publish_timestamp_ms": 1578467027541,
+  "version_id": "65e5f293-deec-44d5-9241-01138c4a731d",
+  "in_force": "2020-01-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%A6%CE%99%CE%A9%CE%9B%CE%9E-%CE%96%CE%93%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%A6%CE%99%CE%A9%CE%9B%CE%9E-%CE%96%CE%93%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%98%CE%A6%CE%99%CE%A9%CE%9B%CE%9E-%CE%96%CE%93%CE%91",
+  "listing_sha256": "0af109c38ac2ea2cced70b1caf3df33c01bc9ee31dcf60182d9719785ed539ad",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
