@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Τ1ΒΩΡ3-5Ξ9",
+  "subject": "Απαγόρευση στάθμευσης στην οδό Παλλάδος",
+  "protocol_number": "532",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003097"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "31",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-01-10",
+  "posted": "2020-01-10",
+  "publish_timestamp_ms": 1578650093688,
+  "version_id": "2f640f10-4f2b-4c54-af12-fc9f0cda2b40",
+  "in_force": "2020-01-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A41%CE%92%CE%A9%CE%A13-5%CE%9E9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A41%CE%92%CE%A9%CE%A13-5%CE%9E9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A41%CE%92%CE%A9%CE%A13-5%CE%9E9",
+  "listing_sha256": "1eb12a3969eda44235c28643f14fb559d956fd4d0f047497ed8bd0e67c6e382c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
