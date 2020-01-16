@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "65ΖΝ4653ΠΩ-ΜΑΤ",
+  "subject": "ΑΠΟΦΑΣΗ",
+  "protocol_number": "2151.1.3/01/2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "90473"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-01-16",
+  "posted": "2020-01-16",
+  "publish_timestamp_ms": 1579157790898,
+  "version_id": "cf8d2d1e-bfa6-4177-aba5-71ce14bcc566",
+  "in_force": "2020-01-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/65%CE%96%CE%9D4653%CE%A0%CE%A9-%CE%9C%CE%91%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/65%CE%96%CE%9D4653%CE%A0%CE%A9-%CE%9C%CE%91%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/65%CE%96%CE%9D4653%CE%A0%CE%A9-%CE%9C%CE%91%CE%A4",
+  "listing_sha256": "c1704586de18a4884ff714f2ba4ec7c1ac439dec761c533f6c4a4ff21d575635",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
