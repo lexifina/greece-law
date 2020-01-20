@@ -1,0 +1,50 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ29Υ4653ΠΓ-Θ3Ν",
+  "subject": "Όροι και προϋποθέσεις άσκησης αλιείας των άκρως μεταναστευτικών ειδών, τόννου (Thunnus thynnus BFT), μακρύπτερου τόννου (Thunnus alalunga ALB) και ξιφία (Xiphias gladius SWO).",
+  "protocol_number": "4189/340423",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100034248"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "35",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΑΙΞ465ΦΘΗ-769"
+      },
+      {
+        "relatedDecisionsADA": "7ΚΦΦ4653ΠΓ-ΔΗ2"
+      }
+    ]
+  },
+  "issued": "2019-12-31",
+  "posted": "2020-01-20",
+  "publish_timestamp_ms": 1579515465379,
+  "version_id": "6cd1e8b5-8c04-4af9-9cfd-e993ec7aa177",
+  "in_force": "2020-01-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A829%CE%A54653%CE%A0%CE%93-%CE%983%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A829%CE%A54653%CE%A0%CE%93-%CE%983%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A829%CE%A54653%CE%A0%CE%93-%CE%983%CE%9D",
+  "listing_sha256": "195ae20143bd136b663c6338e103ad98e6ba4c7de6abb630f926ea6acf14fc1f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
