@@ -1,0 +1,71 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΖΠ465ΧΘΞ-ΓΦ7",
+  "subject": "Μέτρα περιορισμού κυκλοφορίας φορτηγών αυτοκινήτων σε τμήματα των αυτοκινητοδρόμων και εθνικών οδών κατά τη διάρκεια του έτους 2020.",
+  "protocol_number": "Δ30/Δ5α/81473/9813/10-01-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007425"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "58",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054489",
+        "unitId": [
+          "100042838"
+        ],
+        "signerIds": [
+          "100048511"
+        ]
+      },
+      {
+        "ministryId": "100015996",
+        "unitId": [
+          "100022141"
+        ],
+        "signerIds": [
+          "100047843"
+        ]
+      },
+      {
+        "ministryId": "100025905",
+        "unitId": [
+          "100045352"
+        ],
+        "signerIds": [
+          "100048080"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-01-22",
+  "posted": "2020-01-22",
+  "publish_timestamp_ms": 1579686820518,
+  "version_id": "4cd6e795-9c5d-4e0b-bddb-61cf16a44837",
+  "in_force": "2020-01-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%96%CE%A0465%CE%A7%CE%98%CE%9E-%CE%93%CE%A67",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%96%CE%A0465%CE%A7%CE%98%CE%9E-%CE%93%CE%A67/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%96%CE%A0465%CE%A7%CE%98%CE%9E-%CE%93%CE%A67",
+  "listing_sha256": "35f162357f23ff47ceaab7d159c65652a68fb8a0e8b4b02e829942a56ade9272",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
