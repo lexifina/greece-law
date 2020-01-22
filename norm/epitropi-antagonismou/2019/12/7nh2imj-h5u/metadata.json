@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "7ΝΗ2ΙΜΞ-Η5Θ",
+  "subject": "ΚΟΙΝΗ ΥΠΟΥΡΓΙΚΗ ΑΠΟΦΑΣΗ ΚΑΘΟΡΙΣΜΟΥ ΑΠΟΖΗΜΙΩΣΗΣ ΔΙΚΗΓΟΡΟΥ ΔΗΜΗΤΡΙΟΥ ΑΥΓΗΤΙΔΗ ΜΕΛΟΥΣ ΤΗΣ ΔΙΚΗΓΟΡΙΚΗΣ ΕΤΑΙΡΕΙΑΣ \"Δ.Κ.ΑΥΓΗΤΙΔΗΣ ΚΑΙ ΣΥΝΕΡΓΑΤΕΣ\" ΓΙΑ ΤΗ ΝΟΜΙΚΗ ΕΚΠΡΟΣΩΠΗΣΗ ΤΗΣ ΕΠΙΤΡΟΠΗΣ ΑΝΤΑΓΩΝΙΣΜΟΥ ΕΝΩΠΙΟΝ ΤΟΥ ΔΙΟΙΚΗΤΙΚΟΥ ΕΦΕΤΕΙΟΥ ΑΘΗΝΩΝ ΣΤΗΝ ΥΠΟΘΕΣΗ ΠΡΟΣΦΥΓΗΣ ΤΗΣ ΕΤΑΙΡΕΙΑΣ   ΣΤΑΘΗΣ ΚΟΚΚΙΝΗΣ ΚΑΤΑ ΤΗΣ ΥΠ΄ΑΡΙΘ. 674/2018 ΑΠΟΦΑΣΗΣ ΤΗΣ ΕΠΙΤΡΟΠΗΣ",
+  "protocol_number": "8437",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "22963",
+    "label": "ΕΠΙΤΡΟΠΗ ΑΝΤΑΓΩΝΙΣΜΟΥ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100050426"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5072",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "5072",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "100025272"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100048285"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-12-19",
+  "posted": "2020-01-22",
+  "publish_timestamp_ms": 1579691223655,
+  "version_id": "e51a65d2-86df-40d9-bcea-d27474032a76",
+  "in_force": "2020-01-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9D%CE%972%CE%99%CE%9C%CE%9E-%CE%975%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/7%CE%9D%CE%972%CE%99%CE%9C%CE%9E-%CE%975%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/7%CE%9D%CE%972%CE%99%CE%9C%CE%9E-%CE%975%CE%98",
+  "listing_sha256": "a4a70e46b4275ea9105da9e3253be840f02f385cb659267e4d05ae5c9aa7083b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
