@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΣΥΠΩ6Μ-ΒΛ9",
+  "subject": "Τροποποίηση της υπ’ αριθμό 243638/25-9-2019 απόφασης καθιέρωσης υπερωριακής κ.λπ. εργασίας Δ΄ Τριμήνου 2019 που αφορά τους μονίμους υπαλλήλους των διαφόρων υπηρεσιών του Δήμου Αθηναίων, για το χρονικό διάστημα από τη δημοσίευση της παρούσας και έως 31-12-2019 ως προς τα αναγραφόμενα όρια του ανώτατου επιτρεπόμενου αριθμού των υπαλλήλων των Δ/νσεων Καθαριότητας – Ανακύκλωσης και Μηχανολογικού",
+  "protocol_number": "321185",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6013",
+    "label": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100044986"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5166",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω4ΒΘΩ6Μ-ΠΘΞ"
+      }
+    ]
+  },
+  "issued": "2019-12-16",
+  "posted": "2020-01-24",
+  "publish_timestamp_ms": 1579869157666,
+  "version_id": "ab1214e8-48da-4d04-9811-c86491688eea",
+  "in_force": "2020-01-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A3%CE%A5%CE%A0%CE%A96%CE%9C-%CE%92%CE%9B9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A3%CE%A5%CE%A0%CE%A96%CE%9C-%CE%92%CE%9B9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A3%CE%A5%CE%A0%CE%A96%CE%9C-%CE%92%CE%9B9",
+  "listing_sha256": "9a2c6eebb57a63f9bb564a33bbb0f09c46d22311e856e657dd4a0b481df76a53",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
