@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥΥΙΩΡΟ-54Φ",
+  "subject": "346-2019 ΕΓΚΡΙΣΗ ΚΑΤΑΒΟΛΗΣ ΕΞΟΔΩΝ ΜΕΤΑΚΙΝΗΣΗΣ",
+  "protocol_number": "346-2019",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6087",
+    "label": "ΔΗΜΟΣ ΕΛΑΣΣΟΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83681"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "346-2019",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-01-28",
+  "posted": "2020-01-28",
+  "publish_timestamp_ms": 1580206829911,
+  "version_id": "0a4b4958-8abd-4126-9612-30ecdc3b72cd",
+  "in_force": "2020-01-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%A5%CE%99%CE%A9%CE%A1%CE%9F-54%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%A5%CE%99%CE%A9%CE%A1%CE%9F-54%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A5%CE%A5%CE%99%CE%A9%CE%A1%CE%9F-54%CE%A6",
+  "listing_sha256": "dc5f30370c2f5f4fe438bf7e6a11ba8b79e158bb3b057951d8249944907d5a53",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
