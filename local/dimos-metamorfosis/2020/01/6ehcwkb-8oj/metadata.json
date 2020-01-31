@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΕΗΨΩΚΒ-8ΟΞ",
+  "subject": "ΔΙΑΚΟΠΗ ΜΑΘΗΜΑΤΩΝ ΛΟΓΩ ΚΡΟΥΣΜΑΤΩΝ ΕΠΟΧΙΚΗΣ ΓΡΙΠΗΣ",
+  "protocol_number": "2624",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6191",
+    "label": "ΔΗΜΟΣ ΜΕΤΑΜΟΡΦΩΣΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79340"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-01-31",
+  "posted": "2020-01-31",
+  "publish_timestamp_ms": 1580471358027,
+  "version_id": "b5947467-757c-4cfa-ac3b-c729f18034a0",
+  "in_force": "2020-01-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%97%CE%A8%CE%A9%CE%9A%CE%92-8%CE%9F%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%97%CE%A8%CE%A9%CE%9A%CE%92-8%CE%9F%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%95%CE%97%CE%A8%CE%A9%CE%9A%CE%92-8%CE%9F%CE%9E",
+  "listing_sha256": "26fa61e26de415687769336a02cd6f3c568bb5c998a54dd81a8067154b20a6ba",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
