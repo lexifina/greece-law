@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΓΔΨΩΕΧ-6Θ1",
+  "subject": "Αναστολή λειτουργίας σχολικών μονάδων Πρωτοβάθμιας Εκπαίδευσης Δήμου Κιλκίς, λόγω έξαρσης της εποχικής γρίπης",
+  "protocol_number": "2260",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6151",
+    "label": "ΔΗΜΟΣ ΚΙΛΚΙΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79218"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-02-03",
+  "posted": "2020-02-03",
+  "publish_timestamp_ms": 1580722345850,
+  "version_id": "43ef5cad-3615-4faa-891b-3f77844dba9e",
+  "in_force": "2020-02-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%94%CE%A8%CE%A9%CE%95%CE%A7-6%CE%981",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%94%CE%A8%CE%A9%CE%95%CE%A7-6%CE%981/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%93%CE%94%CE%A8%CE%A9%CE%95%CE%A7-6%CE%981",
+  "listing_sha256": "4e973ce811137b1753601f1415a69fc836a07423a275871c474e1440a52d823c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
