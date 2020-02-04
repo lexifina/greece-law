@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΙΡΑΩΚΗ-1Κ2",
+  "subject": "Έγκριση πληρωμής χρηματοδοτούμενων μισθωμάτων έτους 2020.",
+  "protocol_number": "9/2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6203",
+    "label": "ΔΗΜΟΣ ΝΑΞΟΥ & ΜΙΚΡΩΝ ΚΥΚΛΑΔΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82010"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-01-24",
+  "posted": "2020-02-04",
+  "publish_timestamp_ms": 1580800697631,
+  "version_id": "5cca5a5b-3141-4294-b1d2-14da4026148a",
+  "in_force": "2020-02-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%A1%CE%91%CE%A9%CE%9A%CE%97-1%CE%9A2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%A1%CE%91%CE%A9%CE%9A%CE%97-1%CE%9A2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%99%CE%A1%CE%91%CE%A9%CE%9A%CE%97-1%CE%9A2",
+  "listing_sha256": "2e310103817f57e5c54d2e6d4736f8e9b198136a34d8464c573847c2711eb5ff",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
