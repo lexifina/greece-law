@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΘΤ646ΜΤΛ6-Π1Π",
+  "subject": "Ανακατανομή μίας κενής οργανικής θέσης μόνιμου προσωπικού του Υπουργείου Εσωτερικών (Τομέας Μακεδονίας και Θράκης)",
+  "protocol_number": "388",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100036676"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "256",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "100005000"
+        ],
+        "signerIds": [
+          "100047761"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-01-23",
+  "posted": "2020-02-05",
+  "publish_timestamp_ms": 1580893989056,
+  "version_id": "383350be-1518-46c8-a723-17678d41bdcf",
+  "in_force": "2020-02-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%98%CE%A4646%CE%9C%CE%A4%CE%9B6-%CE%A01%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%98%CE%A4646%CE%9C%CE%A4%CE%9B6-%CE%A01%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%98%CE%A4646%CE%9C%CE%A4%CE%9B6-%CE%A01%CE%A0",
+  "listing_sha256": "9dc9d05b1074c40e8549b33eedb5dc68d701e8e09afb7234561316c43e5c420f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
