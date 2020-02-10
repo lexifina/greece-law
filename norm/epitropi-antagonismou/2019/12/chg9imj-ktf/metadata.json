@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΗΓ9ΙΜΞ-ΚΤΦ",
+  "subject": "Κοινή Υπουργική Απόφαση καθορισμού αμοιβής δικηγόρου Ρεγγίνας Καρρά για την καταθεση πρόσθετου λόγου στην υπόθεση αναίρεσης 3597/20218 ΔΕφΑ εκδοθείσας επί προσφυγής G4S κατά 609/2015 ΕΑ",
+  "protocol_number": "8268",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "22963",
+    "label": "ΕΠΙΤΡΟΠΗ ΑΝΤΑΓΩΝΙΣΜΟΥ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100050426"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5186",
+      "issue": "fektype_B",
+      "issueyear": 2019
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "8268",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "100025272"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100048285"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2019-12-17",
+  "posted": "2020-02-10",
+  "publish_timestamp_ms": 1581326670576,
+  "version_id": "53702c64-dd99-4795-977b-add7f1070244",
+  "in_force": "2020-02-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%97%CE%939%CE%99%CE%9C%CE%9E-%CE%9A%CE%A4%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%97%CE%939%CE%99%CE%9C%CE%9E-%CE%9A%CE%A4%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%97%CE%939%CE%99%CE%9C%CE%9E-%CE%9A%CE%A4%CE%A6",
+  "listing_sha256": "2913c97d963dbadc64e58cea947e8a996ac10367b138e4ff6cc7b20535518ee4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
