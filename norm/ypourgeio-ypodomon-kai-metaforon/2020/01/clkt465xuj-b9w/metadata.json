@@ -1,0 +1,72 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΛΚΤ465ΧΘΞ-Β9Ω",
+  "subject": "Οριοθέτηση περιοχών και χορήγηση Στεγαστικής Συνδρομής για την αποκατάσταση των ζημιών σε κτίρια από τις πλημμύρες της 29ης και 30ης Σεπτεμβρίου 2018 σε περιοχές των Δήμων Ιστιαίας-Αιδηψού και Μαντουδίου-Λίμνης-Αγίας Άννας της Περιφερειακής Ενότητας Εύβοιας της Περιφέρειας Στερεάς Ελλάδας.",
+  "protocol_number": "Δ.Α.Ε.Φ.Κ.-Κ.Ε./9386/Α325            Σχετ. : 972/19, 2000/19, 2012/19, 2037/19, 2038/19, 2039/19, 2040/19, 2096/19, 2097/19, 2098/19, 2099/19, 2100/19, 2736/19, 2737/19, 2738/19, 2739/19, 2740/19, 2742/19, 2743/19, 3229/19, 3230/19, 3231/19, 3232/19, 3233/19, 3821/19, 3888/19, 4010/19, 4092/19, 4777/19, 4778/19, 4779/19, 4780/19, 4781/19, 4808/19, 5818/19, 5819/19, 8712/19, 9142/19, 9316/19, 9379/19, 10992/18, 11176/18, 14905/18, 14906/18, 14907/18, 14908/18, 14909/18, 14910/18, 14911/18, 14912/18, 14913/18, 14914/18, 14915/18, 14916/18, 14917/18, 14918/18, 14919/18, 14920/18, 14921/18, 14922/18, 14923/18, 14924/18, 14925/18, 14926/18, 14927/18, 15288/1814928/18, 14929/18, 14930/18, 14931/18, 14932/18, 14933/18, 14934/18, 14935/18, 14936/18, 14937/18, 14938/18",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008126"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "299",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70114"
+        ],
+        "signerIds": [
+          "100047836"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      },
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100047760"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-01-20",
+  "posted": "2020-02-10",
+  "publish_timestamp_ms": 1581328010288,
+  "version_id": "700e78e1-ace9-4fc3-991b-7c09b285528e",
+  "in_force": "2020-02-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B%CE%9A%CE%A4465%CE%A7%CE%98%CE%9E-%CE%929%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B%CE%9A%CE%A4465%CE%A7%CE%98%CE%9E-%CE%929%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9B%CE%9A%CE%A4465%CE%A7%CE%98%CE%9E-%CE%929%CE%A9",
+  "listing_sha256": "2fe27dc2628a75f1c8fab8c7953166ddd466873ca581df98015c47bc7a4ef599",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
