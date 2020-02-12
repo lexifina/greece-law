@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "94Ω1Ω1Υ-3ΡΥ",
+  "subject": "Έγκριση καταβολής προστίμου προς το ΙΚΑ",
+  "protocol_number": "20",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6277",
+    "label": "ΔΗΜΟΣ ΣΙΝΤΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84189"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-02-12",
+  "posted": "2020-02-12",
+  "publish_timestamp_ms": 1581511947940,
+  "version_id": "530a516f-25a5-4e2f-b246-b33c8f107c2f",
+  "in_force": "2020-02-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/94%CE%A91%CE%A91%CE%A5-3%CE%A1%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/94%CE%A91%CE%A91%CE%A5-3%CE%A1%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/94%CE%A91%CE%A91%CE%A5-3%CE%A1%CE%A5",
+  "listing_sha256": "c43c003d60315d9e31be40feaf6734939c747705e56445650ce00e1bcb5f10eb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
