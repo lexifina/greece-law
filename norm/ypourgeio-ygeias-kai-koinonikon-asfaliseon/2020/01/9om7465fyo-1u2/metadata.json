@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΟΜ7465ΦΥΟ-1Θ2",
+  "subject": "Χορήγηση άδειας λειτουργίας Μονάδας Εφαρμογής (Μεταμόσχευσης) Αυτόλογων Αρχέγονων Αιμοποιητικών Κυττάρων της κλινικής Αιματολογίας και Ογκολογίας Παίδων του Πανεπιστημιακού Γενικού Νοσοκομείου Ηρακλείου (ΠΑΓΝΗ).",
+  "protocol_number": "Γ2γ/85622/19/15-1-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047539"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "326",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-01-15",
+  "posted": "2020-02-12",
+  "publish_timestamp_ms": 1581506527794,
+  "version_id": "39091ef6-228b-4ed4-b3a7-5eed57069c3f",
+  "in_force": "2020-02-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9F%CE%9C7465%CE%A6%CE%A5%CE%9F-1%CE%982",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9F%CE%9C7465%CE%A6%CE%A5%CE%9F-1%CE%982/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%9F%CE%9C7465%CE%A6%CE%A5%CE%9F-1%CE%982",
+  "listing_sha256": "112325c48a250d4d05404f36457723760db4a2a8d18679aae49db5be135ee951",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
