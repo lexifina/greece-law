@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟ6Δ465ΦΥΟ-67Δ",
+  "subject": "«Μεταφορά/Μετατροπή οργανικών θέσεων ειδικευόμενων ιατρών στην οργανική μονάδα «Βέροια» του Γενικού Νοσοκομείου Ημαθίας»",
+  "protocol_number": "Γ2α/ οικ. 5464",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047539"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "325",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-01-29",
+  "posted": "2020-02-14",
+  "publish_timestamp_ms": 1581666355893,
+  "version_id": "11d9b6e6-8eb7-4e57-932f-bbea464f6e96",
+  "in_force": "2020-02-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F6%CE%94465%CE%A6%CE%A5%CE%9F-67%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F6%CE%94465%CE%A6%CE%A5%CE%9F-67%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F6%CE%94465%CE%A6%CE%A5%CE%9F-67%CE%94",
+  "listing_sha256": "1d63e25322ded08cdaf61ea47027252f46c53e95c497b88f98ef20d4a7ea4969",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
