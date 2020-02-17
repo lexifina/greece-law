@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΖ0Α6-ΙΞ0",
+  "subject": "Τακτικά Χρηματικά Εντάλματα Δαπανών Εσωτερικού (Αρχική Έγκριση) (0068Ν/2018 Σ-Π για την προμήθεια του εφοδίου φασόλια)",
+  "protocol_number": "411316",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78138"
+  ],
+  "thematic_category_ids": [
+    "60"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΝ586-ΥΛ4"
+      }
+    ]
+  },
+  "issued": "2020-02-17",
+  "posted": "2020-02-17",
+  "publish_timestamp_ms": 1581942376943,
+  "version_id": "54c09c7c-84ff-491c-bbae-4cbe1b2967a2",
+  "in_force": "2020-02-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%960%CE%916-%CE%99%CE%9E0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%960%CE%916-%CE%99%CE%9E0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%960%CE%916-%CE%99%CE%9E0",
+  "listing_sha256": "60a06b6b38b4e4ec11311ae47ba2f0abcbad83a2e515e300d523c2d1af758e6b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
