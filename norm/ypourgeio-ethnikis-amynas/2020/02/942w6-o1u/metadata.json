@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "942Ω6-Ο1Θ",
+  "subject": "Τακτικά Χρηματικά Εντάλματα Δαπανών Εσωτερικού (Αρχική Έγκριση)(0049N/2018 Σ-Π για την προμήθεια ζάχαρης)",
+  "protocol_number": "411319",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78138"
+  ],
+  "thematic_category_ids": [
+    "60"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΜΘ66-10Π"
+      }
+    ]
+  },
+  "issued": "2020-02-17",
+  "posted": "2020-02-17",
+  "publish_timestamp_ms": 1581941681174,
+  "version_id": "b1d3ca12-31ef-465e-b6e4-768e49667778",
+  "in_force": "2020-02-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/942%CE%A96-%CE%9F1%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/942%CE%A96-%CE%9F1%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/942%CE%A96-%CE%9F1%CE%98",
+  "listing_sha256": "60a06b6b38b4e4ec11311ae47ba2f0abcbad83a2e515e300d523c2d1af758e6b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
