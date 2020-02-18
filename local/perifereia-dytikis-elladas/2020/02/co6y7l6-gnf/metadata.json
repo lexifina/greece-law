@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟ6Υ7Λ6-ΓΝΦ",
+  "subject": "ΑΔΕΙΑ ΚΑΤΑΧΩΡΙΣΗΣ ΑΛΙΕΥΤΙΚΟΥ ΣΚΑΦΟΥΣ",
+  "protocol_number": "9046/469",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5004",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80308"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-02-18",
+  "posted": "2020-02-18",
+  "publish_timestamp_ms": 1582024288805,
+  "version_id": "19c3fa6d-e17c-4ba0-bd6f-f9ad6614a361",
+  "in_force": "2020-02-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F6%CE%A57%CE%9B6-%CE%93%CE%9D%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F6%CE%A57%CE%9B6-%CE%93%CE%9D%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F6%CE%A57%CE%9B6-%CE%93%CE%9D%CE%A6",
+  "listing_sha256": "4626ff4e335dbf727bc87fc5051bef401e62a48a7ed1125c0c25e7d5e69ae11b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
