@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω0Α2ΩΞΤ-4ΩΩ",
+  "subject": "Έγκριση της αριθμ. 04/2020 απόφασης της Επιτροπής Ποιότητας Ζωής που αφορά την ετήσια έκθεση πεπραγμένων της για το έτος 2015",
+  "protocol_number": "006/2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6244",
+    "label": "ΔΗΜΟΣ ΠΕΛΛΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79895"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-01-27",
+  "posted": "2020-02-18",
+  "publish_timestamp_ms": 1582016408550,
+  "version_id": "81da30dd-2c5a-4fc1-927e-2596b6f81a82",
+  "in_force": "2020-02-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%912%CE%A9%CE%9E%CE%A4-4%CE%A9%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%912%CE%A9%CE%9E%CE%A4-4%CE%A9%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A90%CE%912%CE%A9%CE%9E%CE%A4-4%CE%A9%CE%A9",
+  "listing_sha256": "463e1428683a4a8267798f4c036b5689b6a189071ac833503b91f49e98926f34",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
