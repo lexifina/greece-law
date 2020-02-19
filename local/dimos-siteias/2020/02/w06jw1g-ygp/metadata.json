@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω06ΞΩ1Γ-ΥΓΠ",
+  "subject": "Λήψη απόφασης για τη συστέγαση σχολικών μονάδων Α/θμιας Εκπαίδευσης.",
+  "protocol_number": "18/020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6273",
+    "label": "ΔΗΜΟΣ ΣΗΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80115"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΠΗΗ4655ΓΨ-Θ5Ω"
+      }
+    ]
+  },
+  "issued": "2020-02-17",
+  "posted": "2020-02-19",
+  "publish_timestamp_ms": 1582099459224,
+  "version_id": "c11d967f-3b67-4402-a6f2-1a6509acb336",
+  "in_force": "2020-02-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A906%CE%9E%CE%A91%CE%93-%CE%A5%CE%93%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A906%CE%9E%CE%A91%CE%93-%CE%A5%CE%93%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A906%CE%9E%CE%A91%CE%93-%CE%A5%CE%93%CE%A0",
+  "listing_sha256": "60a06b6b38b4e4ec11311ae47ba2f0abcbad83a2e515e300d523c2d1af758e6b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
