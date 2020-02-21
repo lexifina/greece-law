@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠΛ9ΟΡ1Ι-ΝΞ7",
+  "subject": "Απόφαση έγκρισης 1ου ΑΠΕ του έργου: «Καθαρισμοί αναδασώσεων δημοσίου δάσους Κρατήγου»",
+  "protocol_number": "8025",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76960"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΕ3ΖΟΡ1Ι-2ΡΨ"
+      }
+    ]
+  },
+  "issued": "2020-02-20",
+  "posted": "2020-02-21",
+  "publish_timestamp_ms": 1582274755897,
+  "version_id": "eabb314b-cbf6-41c7-88ca-3e3e59b6eabd",
+  "in_force": "2020-02-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%9B9%CE%9F%CE%A11%CE%99-%CE%9D%CE%9E7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%9B9%CE%9F%CE%A11%CE%99-%CE%9D%CE%9E7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A0%CE%9B9%CE%9F%CE%A11%CE%99-%CE%9D%CE%9E7",
+  "listing_sha256": "94d52c83e464c79b622c0f070884602a6502a878aa5d826dfe4f30cf3f7506a4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
