@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΒΚΩ1Γ-ΩΔΠ",
+  "subject": "Ανανέωση-παράταση της από 15/9/2015 συναφθείσας προγραμματικής σύμβασης μεταξύ Ι.ΝΕ.ΔΙ.ΒΙ.Μ., ΕΛΛΗΝΙΚΟΥ \nΜΕΣΟΓΕΙΑΚΟΥ ΠΑΝΕΠΙΣΤΗΜΙΟΥ (ΕΛ.ΜΕ.ΠΑ) και Δήμου Σητείας για τη λειτουργία Μαθητικής και Φοιτητικής Εστίας στη \nΣητεία.",
+  "protocol_number": "31/020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6273",
+    "label": "ΔΗΜΟΣ ΣΗΤΕΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80115"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΑ2ΗΩ1Γ-Υ31"
+      }
+    ]
+  },
+  "issued": "2020-02-24",
+  "posted": "2020-02-25",
+  "publish_timestamp_ms": 1582633516583,
+  "version_id": "da7baf8f-9657-4a4b-9174-c333f04017f2",
+  "in_force": "2020-02-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%92%CE%9A%CE%A91%CE%93-%CE%A9%CE%94%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%92%CE%9A%CE%A91%CE%93-%CE%A9%CE%94%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%92%CE%9A%CE%A91%CE%93-%CE%A9%CE%94%CE%A0",
+  "listing_sha256": "5cb823be4f7966eb47fff6733b34ea2f3ac405cf1c6ad7a2d560d1e0db4bb4c2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
