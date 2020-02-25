@@ -1,0 +1,49 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟ6Ρ46ΜΓ2Α-0ΘΖ",
+  "subject": "«Καθιέρωση εργασίας καθ’ υπέρβαση του υποχρεωτικού ωραρίου της Ειδικής Γραμματέως - Πρακτικογράφου του Δημοτικού Συμβουλίου του Δήμου Κεντρικής Κέρκυρας και Διαποντίων Νήσων, για το διάστημα έως 31η Δεκεμβρίου 2020».",
+  "protocol_number": "1412",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100049209",
+    "label": "ΔΗΜΟΣ ΚΕΝΤΡΙΚΗΣ ΚΕΡΚΥΡΑΣ ΚΑΙ ΔΙΑΠΟΝΤΙΩΝ ΝΗΣΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100049311"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "413",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "9Ο9Ω46ΜΓ2Α-ΡΕ0"
+      },
+      {
+        "relatedDecisionsADA": "68Λ946ΜΓ2Α-Ο0Τ"
+      }
+    ]
+  },
+  "issued": "2020-02-12",
+  "posted": "2020-02-25",
+  "publish_timestamp_ms": 1582632305624,
+  "version_id": "4d455b6e-7caf-442d-ac40-39d2d80d0c49",
+  "in_force": "2020-02-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F6%CE%A146%CE%9C%CE%932%CE%91-0%CE%98%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F6%CE%A146%CE%9C%CE%932%CE%91-0%CE%98%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F6%CE%A146%CE%9C%CE%932%CE%91-0%CE%98%CE%96",
+  "listing_sha256": "05f751f88fe04c9b48c5eaf95bfbba446611a0c75b57439b37ecbe10e5211a4c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
