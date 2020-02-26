@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΛ0ΒΩ9Ν-Κ5Π",
+  "subject": "Παράταση του χρόνου ισχύος της σύμβασης προμήθειας γάλακτος μέχρι 30/4/2020",
+  "protocol_number": "27",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6082",
+    "label": "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΑΧΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82649"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "27",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω4Ρ5Ω9Ν-ΙΘΙ"
+      }
+    ]
+  },
+  "issued": "2020-02-21",
+  "posted": "2020-02-26",
+  "publish_timestamp_ms": 1582706022273,
+  "version_id": "8a123334-be42-4d1a-bc2b-587666e7deeb",
+  "in_force": "2020-02-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B0%CE%92%CE%A99%CE%9D-%CE%9A5%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B0%CE%92%CE%A99%CE%9D-%CE%9A5%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9B0%CE%92%CE%A99%CE%9D-%CE%9A5%CE%A0",
+  "listing_sha256": "2bf4d7fa37e9b54bf86a0622ba57707b31edf983a645d36138b71b805e7d2e9c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
