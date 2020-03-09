@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω3ΣΖΟΡ10-85Φ",
+  "subject": "Μη άσκηση αντίρρησης σε πράξη χαρακτηρισμού",
+  "protocol_number": "539/25195",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77588"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ψ6ΗΛΟΡ10-ΕΑΙ"
+      }
+    ]
+  },
+  "issued": "2020-03-09",
+  "posted": "2020-03-09",
+  "publish_timestamp_ms": 1583739199400,
+  "version_id": "420c8f6d-e27f-46c9-aa8a-c9e72f847d46",
+  "in_force": "2020-03-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%A3%CE%96%CE%9F%CE%A110-85%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%A3%CE%96%CE%9F%CE%A110-85%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A93%CE%A3%CE%96%CE%9F%CE%A110-85%CE%A6",
+  "listing_sha256": "a68667c0b587c29c9d89b103e45c0fc1c215d149c3161e3f058e0d294c5267a6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
