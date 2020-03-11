@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΘ0Ι7ΛΨ-Ξ6Υ",
+  "subject": "ΤΡΟΠΟΠΟΙΗΣΗ ΚΑΤΑΣΤΑΤΙΚΟΥ PENTAGON AE",
+  "protocol_number": "190642",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5005",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "85069"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΘ0Ι7ΛΨ-Ξ6Υ"
+      }
+    ]
+  },
+  "issued": "2020-03-11",
+  "posted": "2020-03-11",
+  "publish_timestamp_ms": 1583926960634,
+  "version_id": "c38bb953-5644-43fa-b389-53757f8bbab9",
+  "in_force": "2020-03-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%980%CE%997%CE%9B%CE%A8-%CE%9E6%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%980%CE%997%CE%9B%CE%A8-%CE%9E6%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%980%CE%997%CE%9B%CE%A8-%CE%9E6%CE%A5",
+  "listing_sha256": "c55f27d99737341be787be92bf5afe91ec21b51d24235b00b48532815a3ea3b4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
