@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚΞΠΗ-ΜΕ8",
+  "subject": "«Καθορισμός ανώτατου συνολικού ποσού εγγυήσεων του Ελληνικού Δημοσίου, για το έτος 2020».",
+  "protocol_number": "οικ.2/7469/0025/10-02-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "780",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "2/7469",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-03-11",
+  "posted": "2020-03-11",
+  "publish_timestamp_ms": 1583929025277,
+  "version_id": "09bb612f-1e98-4947-a617-7a26466c8d72",
+  "in_force": "2020-03-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%9E%CE%A0%CE%97-%CE%9C%CE%958",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%9E%CE%A0%CE%97-%CE%9C%CE%958/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A%CE%9E%CE%A0%CE%97-%CE%9C%CE%958",
+  "listing_sha256": "e6a3c8dca73fd8fd9862828b3576f793421d7eeed74f369b09c05b9422ce5aa1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
