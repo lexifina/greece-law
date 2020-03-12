@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΧΣΓΟΡ1Φ-0ΘΤ",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 53/2020 απόφασης του Δημοτικού Συμβουλίου του Δήμου Ναυπακτίας",
+  "protocol_number": "41083",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΨΝΒΩΚΓ-ΞΓΩ"
+      },
+      {
+        "relatedDecisionsADA": "ΨΙΦΦΩΚΓ-91Υ"
+      }
+    ]
+  },
+  "issued": "2020-03-11",
+  "posted": "2020-03-12",
+  "publish_timestamp_ms": 1583999648723,
+  "version_id": "8394d6e7-e358-4a99-9694-c5fa98271ca2",
+  "in_force": "2020-03-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%A3%CE%93%CE%9F%CE%A11%CE%A6-0%CE%98%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%A3%CE%93%CE%9F%CE%A11%CE%A6-0%CE%98%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A7%CE%A3%CE%93%CE%9F%CE%A11%CE%A6-0%CE%98%CE%A4",
+  "listing_sha256": "e6a3c8dca73fd8fd9862828b3576f793421d7eeed74f369b09c05b9422ce5aa1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
