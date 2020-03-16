@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΨΨΒΩΞ2-ΗΦΥ",
+  "subject": "Έγκριση απόδοσης λογαριασμού για το υπ’ αριθμ. 117/20.02.2020\nχρηματικό ένταλμα προπληρωμής.",
+  "protocol_number": "71",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78115"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-03-12",
+  "posted": "2020-03-16",
+  "publish_timestamp_ms": 1584360675263,
+  "version_id": "6417dd12-cc9c-4039-bec1-c8a59200be5c",
+  "in_force": "2020-03-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%A8%CE%92%CE%A9%CE%9E2-%CE%97%CE%A6%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%A8%CE%92%CE%A9%CE%9E2-%CE%97%CE%A6%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A8%CE%A8%CE%92%CE%A9%CE%9E2-%CE%97%CE%A6%CE%A5",
+  "listing_sha256": "7d11cc1fd9d11a32b28352faee6ac4db7e5310dcff450f19a78b4b9e3b6ac132",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
