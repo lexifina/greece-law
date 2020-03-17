@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΚΩΚΟΡ1Θ-ΧΛΧ",
+  "subject": "Παράταση ισχύος προσωρινών κυκλοφοριακών ρυθμίσεων εργοταξιακού χαρακτήρα, της με αρ. 760/2019 Απόφασης Δημοτικού Συμβουλίου Δήμου Ηρακλείου, για τις ανάγκες εκτέλεσης του έργου \"Αντιπλημμυρικές παρεμβάσεις στην πόλη Ηρακλείου 2017\" της ΔΕΥΑ Ηρακλείου.",
+  "protocol_number": "819",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76908"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "843",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "819",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω07ΑΟΡ1Θ-ΝΜΜ"
+      }
+    ]
+  },
+  "issued": "2020-03-04",
+  "posted": "2020-03-17",
+  "publish_timestamp_ms": 1584432072005,
+  "version_id": "16bec57a-ac1c-46af-9cc3-428c2ae5fd78",
+  "in_force": "2020-03-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%A9%CE%9A%CE%9F%CE%A11%CE%98-%CE%A7%CE%9B%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%A9%CE%9A%CE%9F%CE%A11%CE%98-%CE%A7%CE%9B%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9A%CE%A9%CE%9A%CE%9F%CE%A11%CE%98-%CE%A7%CE%9B%CE%A7",
+  "listing_sha256": "6be1e8cf9c2ce4ab11427ea3d2befcf4b5f7fb24e23b5af9e5b92d2bb43b0dbb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
