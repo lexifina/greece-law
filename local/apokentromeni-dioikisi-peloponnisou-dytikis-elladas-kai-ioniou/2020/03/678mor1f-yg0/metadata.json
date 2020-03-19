@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "678ΜΟΡ1Φ-ΥΓ0",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 28/2020 απόφασης του Δημοτικού Συμβουλίου του Δήμου Θέρμου",
+  "protocol_number": "45800",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Μ0ΜΩΡΑ-ΔΜΟ"
+      }
+    ]
+  },
+  "issued": "2020-03-19",
+  "posted": "2020-03-19",
+  "publish_timestamp_ms": 1584619672806,
+  "version_id": "b37097b9-09c1-4204-99e1-8229c51695e0",
+  "in_force": "2020-03-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/678%CE%9C%CE%9F%CE%A11%CE%A6-%CE%A5%CE%930",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/678%CE%9C%CE%9F%CE%A11%CE%A6-%CE%A5%CE%930/document",
+  "page": "https://diavgeia.gov.gr/decision/view/678%CE%9C%CE%9F%CE%A11%CE%A6-%CE%A5%CE%930",
+  "listing_sha256": "a4a5225e75207eec18a61f15a8a103e4d1874387a46a68ee416bd3e20591d486",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
