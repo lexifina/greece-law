@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΑΠΤΟΡ10-421",
+  "subject": "ΚΑΘΟΡΙΣΜΟΣ ΑΠΟΖΗΜΙΩΣΗΣ ΜΕΛΟΥΣ ΜΕ ΠΛΗΡΗ ΑΠΑΣΧΟΛΗΣΗ  ΤΗΣ ΔΕΥΑ ΜΑΝΤΟΥΔΙΟΥ",
+  "protocol_number": "200/13082",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "79808"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "192",
+      "issue": "fektype_YODD",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "200/13082",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-03-19",
+  "posted": "2020-03-19",
+  "publish_timestamp_ms": 1584611998160,
+  "version_id": "b3f3f2c4-ed84-48e6-8151-64bef74ebb4e",
+  "in_force": "2020-03-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%91%CE%A0%CE%A4%CE%9F%CE%A110-421",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%91%CE%A0%CE%A4%CE%9F%CE%A110-421/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%91%CE%A0%CE%A4%CE%9F%CE%A110-421",
+  "listing_sha256": "a4a5225e75207eec18a61f15a8a103e4d1874387a46a68ee416bd3e20591d486",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
