@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ4ΣΟ6-Τ10",
+  "subject": "Τροποποίηση της υπ’ αριθμ. 2412/Φ.951/360/431347/1984 κοινής απόφασης των\nΥπουργών Εθνικής Άμυνας και Οικονομικών «Βοήθημα οικογενειακής ή\nεπαγγελματικής αυτοτέλειας για τα παιδιά των μετόχων και των μερισματούχων\nτου Μ.Τ.Σ.» (Β΄ 74)",
+  "protocol_number": "1245010",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78006"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "888",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1245010",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100048285"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-02-25",
+  "posted": "2020-03-20",
+  "publish_timestamp_ms": 1584687797343,
+  "version_id": "3999fd50-88e0-4106-86b1-22a93c1a1ebc",
+  "in_force": "2020-03-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%A3%CE%9F6-%CE%A410",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%A3%CE%9F6-%CE%A410/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A84%CE%A3%CE%9F6-%CE%A410",
+  "listing_sha256": "1ac4c2d84ba3255c23945d504defa78a5aeebe15b692debf7ef5b548191dc429",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
