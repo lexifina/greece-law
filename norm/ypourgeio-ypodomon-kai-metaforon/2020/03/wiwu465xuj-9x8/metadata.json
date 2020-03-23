@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΩΘ465ΧΘΞ-9Χ8",
+  "subject": "Καθορισμός των αρμοδίων οργάνων για τη χορήγηση της προσωρινής άδειας οδήγησης των\nάρθρων 42 έως 47 του ν. 4663/2020 (Α’ 30), των προδιαγραφών του εντύπου, των αναγραφόμενων στο έντυπο πληροφοριών και της διαδικασίας χορήγησης.",
+  "protocol_number": "A3/οικ. 16110/1967",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007425"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "952",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "16110/1967",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-03-23",
+  "posted": "2020-03-23",
+  "publish_timestamp_ms": 1584947716558,
+  "version_id": "4201dd0e-2a92-41b2-a8b1-4eed8dafebb0",
+  "in_force": "2020-03-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%A9%CE%98465%CE%A7%CE%98%CE%9E-9%CE%A78",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%A9%CE%98465%CE%A7%CE%98%CE%9E-9%CE%A78/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%A9%CE%98465%CE%A7%CE%98%CE%9E-9%CE%A78",
+  "listing_sha256": "03290bb6c9bd4de38cefcad699b166a1b455018a328661de924a5b8c5d303090",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
