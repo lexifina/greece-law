@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "682ΣΩΨΖ-09Κ",
+  "subject": "ΑΠΟΦΑΣΗ 47/2020 ΔΙΟΡΙΣΜΟΥ ΜΟΝΙΜΟΥ ΠΡΟΣΩΠΙΚΟΥ ΕΠΙΤΥΧΟΝΤΩΝ ΔΙΑΓΩΝΙΣΜΟΥ 3Κ/2018",
+  "protocol_number": "844",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6051",
+    "label": "ΔΗΜΟΣ ΒΑΡΗΣ - ΒΟΥΛΑΣ - ΒΟΥΛΙΑΓΜΕΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003159"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "335",
+      "issue": "fektype_C",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "47/2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-01-13",
+  "posted": "2020-03-26",
+  "publish_timestamp_ms": 1585203983320,
+  "version_id": "24cce711-0b1e-412a-8c48-d1d26a35aeeb",
+  "in_force": "2020-03-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/682%CE%A3%CE%A9%CE%A8%CE%96-09%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/682%CE%A3%CE%A9%CE%A8%CE%96-09%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/682%CE%A3%CE%A9%CE%A8%CE%96-09%CE%9A",
+  "listing_sha256": "e4d555cc0bc916224b8285590459c130ac8732bdbb9841bf5b385d5aab6ab72e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
