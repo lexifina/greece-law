@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΙΜ646ΜΠ3Ζ-ΤΛΛ",
+  "subject": "Τροποποίηση της Α.Υ.Ο.Ο. υπ΄ αριθ. Φ.1554/811/17-12-2008 (Β’ 2694) «Όροι και διατυπώσεις για την μετουσίωση και την απαλλαγή από τον Ειδικό Φόρο Κατανάλωσης της αιθυλικής αλκοόλης, που παραλαμβάνεται από βιομηχανίες και βιοτεχνίες, κατ’ εφαρμογή της περιπτώσεως β’ της παραγράφου 1 του άρθρου 83 του ν.2960/2001»,",
+  "protocol_number": "Α.1056",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100029610"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1020",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-03-20",
+  "posted": "2020-03-26",
+  "publish_timestamp_ms": 1585220417026,
+  "version_id": "407f6102-d7dd-4bee-a572-cda560c0c162",
+  "in_force": "2020-03-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%99%CE%9C646%CE%9C%CE%A03%CE%96-%CE%A4%CE%9B%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%99%CE%9C646%CE%9C%CE%A03%CE%96-%CE%A4%CE%9B%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%99%CE%9C646%CE%9C%CE%A03%CE%96-%CE%A4%CE%9B%CE%9B",
+  "listing_sha256": "c50bffef67fddf64b2d4e322eb42a4c5a459aacfcf9f11d728d51dfa3936f990",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
