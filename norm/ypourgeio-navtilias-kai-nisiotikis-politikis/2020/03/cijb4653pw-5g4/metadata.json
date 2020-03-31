@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΙΞΒ4653ΠΩ-5Γ4",
+  "subject": "Αποδοχή τροποποιήσεων στο Παράρτημα της Διεθνούς Σύμβασης για την πρόληψη ρύπανσης από πλοία, 1973, όπως τροποποιήθηκε με το Πρωτόκολλο του 1978 σχετικά με αυτή - Τροποποιήσεις στα Παραρτήματα I, II και V της Δ.Σ. MARPOL (Ηλεκτρονικά Βιβλία Καταγραφής)",
+  "protocol_number": "2263.1-2/17146/2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100014022"
+  ],
+  "thematic_category_ids": [
+    "48",
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "976",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "10",
+        "unitId": [
+          "100024476"
+        ],
+        "signerIds": [
+          "100017757"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-03-10",
+  "posted": "2020-03-31",
+  "publish_timestamp_ms": 1585645786637,
+  "version_id": "1019d14b-06f5-4cdf-bd52-cb2b12e3b0b1",
+  "in_force": "2020-03-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%99%CE%9E%CE%924653%CE%A0%CE%A9-5%CE%934",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%99%CE%9E%CE%924653%CE%A0%CE%A9-5%CE%934/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%99%CE%9E%CE%924653%CE%A0%CE%A9-5%CE%934",
+  "listing_sha256": "4015a89262f78bd302cb43ec6ca824e8bca42681716c6193e1be2dec96dceab2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
