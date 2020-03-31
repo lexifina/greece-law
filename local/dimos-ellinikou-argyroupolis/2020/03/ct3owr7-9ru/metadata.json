@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΤ3ΟΩΡ7-9ΡΘ",
+  "subject": "ΕΓΚΡΙΣΗ ΠΡΑΚΤΙΚΟΥ ΕΠΙΤΡΟΠΗΣ ΔΙΑΓΩΝΙΣΜΟΥ ΚΑΙ ΑΝΑΔΕΙΞΗ ΑΝΑΔΟΧΩΝ ΓΙΑ\"ΕΡΓΑΣΙΑ ΚΑΙ\nΑΝΤΑΛΛΑΚΤΙΚΑ ΓΙΑ ΤΗ ΛΕΙΤΟΥΡΓΙΑ ΣΥΝΤΗΡΗΣΗ ΚΑΙ ΕΠΙΣΚΕΥΗ ΕΞΟΠΛΙΣΜΟΥ ΜΗΧΑΝΟΓΡΑΦΗΣΗΣ\n2020-2021\"",
+  "protocol_number": "2020-19346-87-oe-ALL",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6090",
+    "label": "ΔΗΜΟΣ ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81671"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "66ΨΠΩΡ7-23Ξ"
+      },
+      {
+        "relatedDecisionsADA": "ΨΕΜΕΩΡ7-ΖΜΑ"
+      }
+    ]
+  },
+  "issued": "2020-03-31",
+  "posted": "2020-03-31",
+  "publish_timestamp_ms": 1585639108384,
+  "version_id": "028de702-78b4-4af8-bbb4-aaa8fe76afa7",
+  "in_force": "2020-03-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A43%CE%9F%CE%A9%CE%A17-9%CE%A1%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A43%CE%9F%CE%A9%CE%A17-9%CE%A1%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A43%CE%9F%CE%A9%CE%A17-9%CE%A1%CE%98",
+  "listing_sha256": "5ef0a25f746a8f7ab78d4f488310b4f32e7b93dc76fc07f186a7b42f92f91074",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
