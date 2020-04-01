@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Μ6Ω46ΜΤΛ6-ΙΞΞ",
+  "subject": "Συμψηφισμός οφειλών Δήμου Μινώα Πεδιάδας, Νομού Ηρακλείου  προς το Ελληνικό Δημόσιο και τα Ασφαλιστικά Ταμεία σύμφωνα με το άρθρο 79 του ν.4316/2014 (A΄270).",
+  "protocol_number": "13179",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "91264"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1063",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100048285"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "100054498",
+        "unitId": [
+          "100020574"
+        ],
+        "signerIds": [
+          "126721"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-02-26",
+  "posted": "2020-04-01",
+  "publish_timestamp_ms": 1585745459197,
+  "version_id": "9a251ca7-1598-410b-b828-b882502e02d8",
+  "in_force": "2020-04-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C6%CE%A946%CE%9C%CE%A4%CE%9B6-%CE%99%CE%9E%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C6%CE%A946%CE%9C%CE%A4%CE%9B6-%CE%99%CE%9E%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9C6%CE%A946%CE%9C%CE%A4%CE%9B6-%CE%99%CE%9E%CE%9E",
+  "listing_sha256": "bfee605bed3f95208798d9ccda52f2b2ca5eee4487d6de876ce9faa0caf602d2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
