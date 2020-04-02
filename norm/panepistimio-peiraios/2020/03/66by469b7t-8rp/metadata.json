@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "66ΒΥ469Β7Τ-8ΡΠ",
+  "subject": "ΕΓΚΡΙΤΙΚΟ ΕΤΗΣΙΩΝ ΑΝΑΤΡΟΠΩΝ ΑΝΑΛΗΨΕΩΝ ΥΠΟΧΡΕΩΣΗΣ / C.407",
+  "protocol_number": "44505",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206922",
+    "label": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "74304"
+  ],
+  "thematic_category_ids": [
+    "64"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "998Κ469Β7Τ-Ρ2Ρ"
+      },
+      {
+        "relatedDecisionsADA": "6Β8Ο469Β7Τ-ΙΗ9"
+      }
+    ]
+  },
+  "issued": "2020-03-31",
+  "posted": "2020-04-02",
+  "publish_timestamp_ms": 1585809522584,
+  "version_id": "c52d99bb-be94-453d-aa9a-4205166419cc",
+  "in_force": "2020-04-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/66%CE%92%CE%A5469%CE%927%CE%A4-8%CE%A1%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/66%CE%92%CE%A5469%CE%927%CE%A4-8%CE%A1%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/66%CE%92%CE%A5469%CE%927%CE%A4-8%CE%A1%CE%A0",
+  "listing_sha256": "72c997b4fc38bedd88985246ee60d7fbf473d94eb9ae4c440598d87539df157d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
