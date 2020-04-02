@@ -1,0 +1,50 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ρ99Ο469Β7Τ-ΩΙ8",
+  "subject": "ΕΓΚΡΙΤΙΚΟ ΕΤΗΣΙΩΝ ΑΝΑΤΡΟΠΩΝ ΑΝΑΛΗΨΕΩΝ ΥΠΟΧΡΕΩΣΗΣ / C.441",
+  "protocol_number": "44613",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206922",
+    "label": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "74304"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω3ΧΟ469Β7Τ-ΠΟΤ"
+      },
+      {
+        "relatedDecisionsADA": "6ΕΗΜ469Β7Τ-ΜΒΡ"
+      },
+      {
+        "relatedDecisionsADA": "ΩΜ6Ο469Β7Τ-ΠΦ9"
+      },
+      {
+        "relatedDecisionsADA": "ΨΞΣΔ469Β7Τ-Ν5Ω"
+      }
+    ]
+  },
+  "issued": "2020-03-31",
+  "posted": "2020-04-02",
+  "publish_timestamp_ms": 1585842777928,
+  "version_id": "7b23fedc-7306-4496-9425-aefa219388ae",
+  "in_force": "2020-04-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A199%CE%9F469%CE%927%CE%A4-%CE%A9%CE%998",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A199%CE%9F469%CE%927%CE%A4-%CE%A9%CE%998/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A199%CE%9F469%CE%927%CE%A4-%CE%A9%CE%998",
+  "listing_sha256": "72c997b4fc38bedd88985246ee60d7fbf473d94eb9ae4c440598d87539df157d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
