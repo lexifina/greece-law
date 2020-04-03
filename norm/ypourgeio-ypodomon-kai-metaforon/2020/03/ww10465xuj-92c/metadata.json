@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΩ10465ΧΘΞ-92Ψ",
+  "subject": "Καθορισμός όρων και προϋποθέσεων χορήγησης αποζημίωσης αποκατάστασης χώρου και νόμιμης περίφραξης, σύμφωνα  με το άρθρο 2 παρ. 2β ν. 4626/2019 (Α’ 141), για την αποκατάσταση των ζημιών από τις πυρκαγιές της 23ης και 24ης Ιουλίου 2018 σε περιοχές της Περιφέρειας Αττικής.",
+  "protocol_number": "Δ.Α.Ε.Φ.Κ.-Κ.Ε./οικ 2619 /Α325",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1133",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025905",
+        "unitId": [
+          "100045352"
+        ],
+        "signerIds": [
+          "100047853"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100048285"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-03-27",
+  "posted": "2020-04-03",
+  "publish_timestamp_ms": 1585914700825,
+  "version_id": "bce51a93-a49f-4112-91c1-3e57bcaf9680",
+  "in_force": "2020-04-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A910465%CE%A7%CE%98%CE%9E-92%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A910465%CE%A7%CE%98%CE%9E-92%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A910465%CE%A7%CE%98%CE%9E-92%CE%A8",
+  "listing_sha256": "13768e288cbd0863f38720878a3a7a522719e224fa4ce7f9a73d318f3f54b751",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
