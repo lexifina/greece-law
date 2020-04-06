@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω0ΣΖΩ9Ζ-ΛΕΙ",
+  "subject": "ΑΠΌΦΑΣΗ ΔΗΜΑΡΧΟΥ ΚΑΘΙΕΡΩΣΗ ΥΠΕΡΩΡΙΑΚΗΣ ΑΠΑΣΧΟΛΗΣΗΣ  ΜΕ ΑΜΟΙΒΗ ΚΑΤΑ ΤΙΣ ΑΠΟΓΕΥΜΑΤΙΝΕΣ ΩΡΕΣ ΚΑΙ ΕΡΓΑΣΙΑ ΚΥΡΙΑΚΩΝ ΚΑΙ ΕΞΑΙΡΕΣΙΜΩΝ ΗΜΕΡΩΝ",
+  "protocol_number": "11955",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6085",
+    "label": "ΔΗΜΟΣ ΔΩΡΙΔΟΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83221"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "111",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2019-12-30",
+  "posted": "2020-04-06",
+  "publish_timestamp_ms": 1586172730941,
+  "version_id": "41a7f463-c108-489c-8f48-51dc75be0318",
+  "in_force": "2020-04-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%A3%CE%96%CE%A99%CE%96-%CE%9B%CE%95%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%A3%CE%96%CE%A99%CE%96-%CE%9B%CE%95%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A90%CE%A3%CE%96%CE%A99%CE%96-%CE%9B%CE%95%CE%99",
+  "listing_sha256": "781c89dd1c2fe935e68a9303ac08762edb62f8986a4435a1dafdc253626b5ec3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
