@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΥΘΠ4653ΠΓ-1ΜΧ",
+  "subject": "Μεθοδολογία προγραμματισμού επίσημων ελέγχων σε εγκαταστάσεις επιχειρήσεων τροφίμων και σε επιχειρήσεις πρωτογενούς παραγωγής της περίπτ. α΄ της παρ. 2 του άρθρου 3 του π.δ. 79/2007 (Α΄ 95) – Αξιολόγηση κινδύνου και κατάταξή τους σε βαθμό επικινδυνότητας.",
+  "protocol_number": "474/92444",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100034244"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1195",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "100048389"
+        ],
+        "signerIds": [
+          "100047806"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-03-30",
+  "posted": "2020-04-09",
+  "publish_timestamp_ms": 1586428433612,
+  "version_id": "ea202f74-cb6a-47b0-be29-af8e5ae40f5e",
+  "in_force": "2020-04-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A5%CE%98%CE%A04653%CE%A0%CE%93-1%CE%9C%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A5%CE%98%CE%A04653%CE%A0%CE%93-1%CE%9C%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A5%CE%98%CE%A04653%CE%A0%CE%93-1%CE%9C%CE%A7",
+  "listing_sha256": "31a799b91644bb3bf83d2a69a0886e63176defa467e02174befe63c045b3071f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
