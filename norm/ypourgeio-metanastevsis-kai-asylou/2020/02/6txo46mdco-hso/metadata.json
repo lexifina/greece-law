@@ -1,0 +1,81 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΤΧΟ46ΜΔΨΟ-ΗΣΟ",
+  "subject": "Συμπλήρωση της αριθμό οικ.368/24.1.2018 (Β΄352) κοινής υπουργικής απόφασης με θέμα:\"Άδειες διαμονής πολιτών τρίτων χωρών, οι οποίοι εισέρχονται στην Ελλάδα για φοίτηση σε Σχολές Εκπαίδευσης χειριστών, μηχανικών και μελών πληρώματος θαλάμου επιβατών αεροσκαφών, οι οποίες λειτουργούν με έγκριση της Αρχής Πολιτικής Αεροπορίας, καθώς και άδειες διαμονής σε πολίτες τρίτων χωρών οι οποίοι εισέρχονται στην Ελλάδα για εργασία, ως επαγγελματίες πιλότοι - εκπαιδευτές χειριστών αεροσκαφών στις ανωτέρω Σχολές εκπαίδευσης\"",
+  "protocol_number": "οικ.7584/20",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100056663",
+    "label": "ΥΠΟΥΡΓΕΙΟ  ΜΕΤΑΝΑΣΤΕΥΣΗΣ ΚΑΙ ΑΣΥΛΟΥ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100056668"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1136",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "οικ.7584/2",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "10",
+        "unitId": [
+          "72587"
+        ],
+        "signerIds": [
+          "100050013"
+        ]
+      },
+      {
+        "ministryId": "100054489",
+        "unitId": [
+          "95017"
+        ],
+        "signerIds": [
+          "100047792"
+        ]
+      },
+      {
+        "ministryId": "100054498",
+        "unitId": [
+          "100035788"
+        ],
+        "signerIds": [
+          "126721"
+        ]
+      },
+      {
+        "ministryId": "100025905",
+        "unitId": [
+          "76401"
+        ],
+        "signerIds": [
+          "100047853"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-02-10",
+  "posted": "2020-04-16",
+  "publish_timestamp_ms": 1587028769716,
+  "version_id": "237b38d2-bcd4-4778-bd70-4c56ffa94a63",
+  "in_force": "2020-04-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A4%CE%A7%CE%9F46%CE%9C%CE%94%CE%A8%CE%9F-%CE%97%CE%A3%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A4%CE%A7%CE%9F46%CE%9C%CE%94%CE%A8%CE%9F-%CE%97%CE%A3%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A4%CE%A7%CE%9F46%CE%9C%CE%94%CE%A8%CE%9F-%CE%97%CE%A3%CE%9F",
+  "listing_sha256": "51bfaddc12c9060201bd6f4d133c1eb2d591cbcd8e513827938a5c4dc1b76bf7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
