@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΙΑΨΩΨΕ-Ρ1Ψ",
+  "subject": "Διαγραφή οφειλών λόγω εσφαλμένων στοιχείων .",
+  "protocol_number": "100ΑΟΕ2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6028",
+    "label": "ΔΗΜΟΣ ΑΜΠΕΛΟΚΗΠΩΝ - ΜΕΝΕΜΕΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91308"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "100/2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-04-20",
+  "posted": "2020-04-20",
+  "publish_timestamp_ms": 1587400588596,
+  "version_id": "026beccd-883c-4ff6-8a5f-500a3f626fd4",
+  "in_force": "2020-04-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%91%CE%A8%CE%A9%CE%A8%CE%95-%CE%A11%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%91%CE%A8%CE%A9%CE%A8%CE%95-%CE%A11%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%99%CE%91%CE%A8%CE%A9%CE%A8%CE%95-%CE%A11%CE%A8",
+  "listing_sha256": "dfadde895f0b02102e6a3e7f41856c3a41554c170a003c7b6c5932bf6034650e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
