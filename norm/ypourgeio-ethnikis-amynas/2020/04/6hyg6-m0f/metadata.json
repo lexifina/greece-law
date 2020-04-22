@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΗΥΓ6-Μ0Φ",
+  "subject": "ΟΠΛΙΤΕΣ ΒΡΑΧΕΙΑΣ ΑΝΑΚΑΤΑΞΗΣ ΠΡΟΚΗΡΥΞΗ ΟΒΑ ΠΑ 400 ΘΕΣΕΩΝ ΠΑΡΑΤΑΣΗ ΠΡΟΘΕΣΜΙΑΣ ΥΠΟΒΟΛΗΣ ΔΙΚΑΙΟΛΟΓΗΤΙΚΩΝ",
+  "protocol_number": "Φ.415/861/Σ.55/21 Απρ 20/ΓΕΑ/Β' ΚΛΑΔΟΣ/ΔΝΣΗ Β4/ΤΜΗΜΑ 2",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70158"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΖ8Κ6-Ξ0Ν"
+      }
+    ]
+  },
+  "issued": "2020-04-22",
+  "posted": "2020-04-22",
+  "publish_timestamp_ms": 1587538244701,
+  "version_id": "a01087e1-9980-4289-8604-5d0f78df384a",
+  "in_force": "2020-04-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%A5%CE%936-%CE%9C0%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%A5%CE%936-%CE%9C0%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%97%CE%A5%CE%936-%CE%9C0%CE%A6",
+  "listing_sha256": "0b848ed30bf5598732a6d4f19a34cd5caf8e085f5460bba75380749fd0b41003",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
