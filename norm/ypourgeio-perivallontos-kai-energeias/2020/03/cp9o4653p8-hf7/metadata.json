@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠ9Ο4653Π8-ΗΦ7",
+  "subject": "Εισαγωγή και μεταφορά ειδικών όπλων, αποτρεπτικών μέσων και συσκευών εκκένωσης ηλεκτρικής ενέργειας, μηχανισμών εκτόξευσης χημικών ουσιών και κάθε είδους εφοδίων βολής αυτών, για την αντιμετώπιση περιστατικών προσέγγισης ζώων της άγριας πανίδας σε κατοικημένες περιοχές και τη διαχείριση του πληθυσμού τους.",
+  "protocol_number": "30835",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035647"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1536",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054489",
+        "unitId": [
+          "100042838"
+        ],
+        "signerIds": [
+          "100047792"
+        ]
+      },
+      {
+        "ministryId": "100054489",
+        "unitId": [
+          "100042849"
+        ],
+        "signerIds": [
+          "100047793"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-03-24",
+  "posted": "2020-04-23",
+  "publish_timestamp_ms": 1587641719080,
+  "version_id": "4f80cb32-716a-4848-a864-c8c1912b6c56",
+  "in_force": "2020-04-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A09%CE%9F4653%CE%A08-%CE%97%CE%A67",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A09%CE%9F4653%CE%A08-%CE%97%CE%A67/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A09%CE%9F4653%CE%A08-%CE%97%CE%A67",
+  "listing_sha256": "511faeafba6477a332e3216f76a5ec8778e67c276300f8e230876042e4f52e22",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
