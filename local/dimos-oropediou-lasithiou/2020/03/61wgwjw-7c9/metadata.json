@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "61ΩΓΩΞΩ-7Ψ9",
+  "subject": "Ανάθεση σε δικηγόρο υπόθεσης Φαρσάρη Γεωργίου.",
+  "protocol_number": "31",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6227",
+    "label": "ΔΗΜΟΣ ΟΡΟΠΕΔΙΟΥ ΛΑΣΙΘΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85143"
+  ],
+  "thematic_category_ids": [
+    "40",
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-03-27",
+  "posted": "2020-04-24",
+  "publish_timestamp_ms": 1587716373132,
+  "version_id": "8e0e4e9f-8ac8-4706-8574-89802864bf4b",
+  "in_force": "2020-04-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/61%CE%A9%CE%93%CE%A9%CE%9E%CE%A9-7%CE%A89",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/61%CE%A9%CE%93%CE%A9%CE%9E%CE%A9-7%CE%A89/document",
+  "page": "https://diavgeia.gov.gr/decision/view/61%CE%A9%CE%93%CE%A9%CE%9E%CE%A9-7%CE%A89",
+  "listing_sha256": "13768e288cbd0863f38720878a3a7a522719e224fa4ce7f9a73d318f3f54b751",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
