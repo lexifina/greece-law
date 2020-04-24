@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚΗ64653Π8-ΨΣΓ",
+  "subject": "Τροποποίηση του Παραρτήματος II του άρθρου 18 του π. δ/τος  116/2004 (Α’ 81), όπως ισχύει, σε συμμόρφωση με τις διατάξεις της κατ’ εξουσιοδότηση Οδηγίας (ΕΕ) 2020/362 της Επιτροπής της 17ης Δεκεμβρίου 2019 και της κατ’ εξουσιοδότηση Οδηγίας (ΕΕ) 2020/363 της Επιτροπής της 17ης Δεκεμβρίου 2019 για την τροποποίηση του παραρτήματος II της οδηγίας 2000/53/ΕΚ του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου για τα οχήματα στο τέλος του κύκλου ζωής.",
+  "protocol_number": "33056",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035647"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1540",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-04-13",
+  "posted": "2020-04-24",
+  "publish_timestamp_ms": 1587732226683,
+  "version_id": "01bae63e-ac02-4094-8576-d183cce7ce8e",
+  "in_force": "2020-04-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%9764653%CE%A08-%CE%A8%CE%A3%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%9764653%CE%A08-%CE%A8%CE%A3%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A%CE%9764653%CE%A08-%CE%A8%CE%A3%CE%93",
+  "listing_sha256": "613c58c6ac0e2701c72167aa3f6b7caca103c5366bc91ccaa79b44b5819e0c1b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
