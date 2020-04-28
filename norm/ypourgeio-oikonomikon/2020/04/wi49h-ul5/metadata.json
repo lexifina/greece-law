@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙ49Η-ΘΛ5",
+  "subject": "Έγκριση Κανονισμού Διενέργειας Ελέγχων και Ερευνών της Γενικής Διεύθυνσης Δημοσιονομικών Ελέγχων (Γ.Δ.Δ.Ε.)",
+  "protocol_number": "36867",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008348"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1519",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-04-08",
+  "posted": "2020-04-28",
+  "publish_timestamp_ms": 1588053631596,
+  "version_id": "4e5f4ec6-5c35-4cf3-bb2e-9a7d2ff62d04",
+  "in_force": "2020-04-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9949%CE%97-%CE%98%CE%9B5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9949%CE%97-%CE%98%CE%9B5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9949%CE%97-%CE%98%CE%9B5",
+  "listing_sha256": "57dcd83e1e971a847b95a1f5e761ecc906da91e83e92f85f911307e492cda9f5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
