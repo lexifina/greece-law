@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω6ΧΨΟΡ1Φ-9ΤΠ",
+  "subject": "Έγκριση της 12-50/16.12.2019 (ΑΔΑ: ΩΕΙΡ46ΜΓΣΙ-Υ1Φ) αποφάσεως του Δημοτικού Συμβουλίου του Δήμου Νότιας Κέρκυρας",
+  "protocol_number": "οικ.59071",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76448"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1602",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "οικ.59071",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΕΙΡ46ΜΓΣΙ-Υ1Φ"
+      }
+    ]
+  },
+  "issued": "2020-04-28",
+  "posted": "2020-04-28",
+  "publish_timestamp_ms": 1588056622349,
+  "version_id": "485e5616-bae8-448b-bb77-f843c69ab2c2",
+  "in_force": "2020-04-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%A7%CE%A8%CE%9F%CE%A11%CE%A6-9%CE%A4%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%A7%CE%A8%CE%9F%CE%A11%CE%A6-9%CE%A4%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A96%CE%A7%CE%A8%CE%9F%CE%A11%CE%A6-9%CE%A4%CE%A0",
+  "listing_sha256": "3fea0e5754adff3a702bc76afd18297d6bc80066299d4dc1f8dd210da51b074d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
