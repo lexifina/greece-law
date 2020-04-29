@@ -1,0 +1,72 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω91ΨΗ-2ΔΙ",
+  "subject": "«Τροποποίηση της αριθ. 2/14511/0004/12.3.2018 κοινής υπουργικής απόφασης με θέμα «Συγκρότηση και ορισμός μελών Διυπουργικής Επιτροπής για την επεξεργασία και υποβολή πρότασης μεταρρύθμισης του καθεστώτος χορήγησης επιδόματος επικίνδυνης και ανθυγιεινής εργασίας» (ΑΔΑ: 728ΖΗ-Μ3Ξ)», όπως ισχύει.",
+  "protocol_number": "35114 ΕΞ 2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "323",
+      "issue": "fektype_YODD",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "35114",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054498",
+        "unitId": [
+          "100009305"
+        ],
+        "signerIds": [
+          "126721"
+        ]
+      },
+      {
+        "ministryId": "100010899",
+        "unitId": [
+          "71131"
+        ],
+        "signerIds": [
+          "100047791"
+        ]
+      },
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "100051670"
+        ],
+        "signerIds": [
+          "100047760"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-04-29",
+  "posted": "2020-04-29",
+  "publish_timestamp_ms": 1588138874521,
+  "version_id": "590b096c-c5a2-4350-8374-9e666da7508b",
+  "in_force": "2020-04-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A991%CE%A8%CE%97-2%CE%94%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A991%CE%A8%CE%97-2%CE%94%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A991%CE%A8%CE%97-2%CE%94%CE%99",
+  "listing_sha256": "0883143ba014e2037cea550b73890e1e46220b964fa4f982aa0bdf7e6246de6b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
