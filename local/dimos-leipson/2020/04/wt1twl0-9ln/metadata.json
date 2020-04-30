@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤ1ΤΩΛ0-9ΛΝ",
+  "subject": "ΑΠΟΔΟΣΗ ΚΡΑΤΗΣΕΩΝ ΓΙΑ Τ.Π.Δ.Υ ΝΕΩΝ ΑΣΦΑΛΙΣΜΕΝΩΝ,ΤΑΔΚΥ-ΤΕΑΔΥ,ΕΙΣΦΟΡΑ ΑΛΛΗΛΕΓΓΥΗΣ 2%,Τ.Π.Δ.Υ ΕΙΔΙΚΗ ΕΙΣΦΟΡΑ,ΤΕΑΔΥ ΔΗΜΑΡΧΟΥ,Τ.Α.Δ.Κ.Υ - Τ.Π.Δ.Υ ΝΕΩΝ,Τ.Α.Δ.Κ.Υ - Τ.Π.Δ.Υ ΠΑΛΑΙΩΝ ΧΕΠ: Γ/9,Γ/12,Γ/15,Γ/17",
+  "protocol_number": "XEP Δ59",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6170",
+    "label": "ΔΗΜΟΣ ΛΕΙΨΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83486"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-04-30",
+  "posted": "2020-04-30",
+  "publish_timestamp_ms": 1588230676608,
+  "version_id": "bc580963-f4a9-4fc5-bc6e-780b8a0c30d1",
+  "in_force": "2020-04-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A41%CE%A4%CE%A9%CE%9B0-9%CE%9B%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A41%CE%A4%CE%A9%CE%9B0-9%CE%9B%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A41%CE%A4%CE%A9%CE%9B0-9%CE%9B%CE%9D",
+  "listing_sha256": "890cfdca1cf89f27f9ff3ebfe104eb14099c03775edf98681dbeee1e14d024b6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
