@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ6ΥΓ465ΧΘΞ-2ΝΠ",
+  "subject": "Τροποποίηση της υπουργικής απόφασης  «Σύσταση Τομέα Αποκατάστασης Επιπτώσεων Φυσικών Καταστροφών Νομού Χαλκιδικής (ΤΑΕΦΚ Ν. ΧΑΛΚΙΔΙΚΗΣ)",
+  "protocol_number": "οικ. 16560",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035904"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1187",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω4Δ9465ΧΘΞ-ΣΡΩ"
+      }
+    ]
+  },
+  "issued": "2020-03-06",
+  "posted": "2020-04-30",
+  "publish_timestamp_ms": 1588251429474,
+  "version_id": "429a74a2-b1d9-411e-8101-ddc763ba94a6",
+  "in_force": "2020-04-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%A5%CE%93465%CE%A7%CE%98%CE%9E-2%CE%9D%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%A5%CE%93465%CE%A7%CE%98%CE%9E-2%CE%9D%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A86%CE%A5%CE%93465%CE%A7%CE%98%CE%9E-2%CE%9D%CE%A0",
+  "listing_sha256": "feb69891569d3ebc10e7c1d310a470ddb28970520432e46ae97c47906e143630",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
