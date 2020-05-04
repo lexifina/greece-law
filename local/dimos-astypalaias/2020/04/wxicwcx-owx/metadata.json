@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧΙΨΩΨΧ-ΟΩΧ",
+  "subject": "Απόφαση Ο.Ε. με θέμα «Αποδοχή της παραχώρησης χρήσης αυτοκινήτου της εταιρείας AUTOHELLAS - HERTZ, για όσο διάστημα ισχύουν τα μέτρα αντιμετώπισης της κρίσης της πανδημίας COVID-19»",
+  "protocol_number": "32",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6049",
+    "label": "ΔΗΜΟΣ ΑΣΤΥΠΑΛΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86045"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-04-27",
+  "posted": "2020-05-04",
+  "publish_timestamp_ms": 1588582380877,
+  "version_id": "a7e90c5e-feed-430e-91b1-497223894eb0",
+  "in_force": "2020-05-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%99%CE%A8%CE%A9%CE%A8%CE%A7-%CE%9F%CE%A9%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%99%CE%A8%CE%A9%CE%A8%CE%A7-%CE%9F%CE%A9%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A7%CE%99%CE%A8%CE%A9%CE%A8%CE%A7-%CE%9F%CE%A9%CE%A7",
+  "listing_sha256": "fd4df38407456bd8cd3404e05752d866687614055d9ec6b58e8fec499728d15b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
