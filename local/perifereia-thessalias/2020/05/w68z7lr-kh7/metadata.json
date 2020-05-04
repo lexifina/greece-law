@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω68Ζ7ΛΡ-ΚΗ7",
+  "subject": "Επιστροφή  αχρεωστήτως καταβληθέντος ποσού",
+  "protocol_number": "448",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "82897"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-05-04",
+  "posted": "2020-05-04",
+  "publish_timestamp_ms": 1588607277592,
+  "version_id": "6c199523-74dd-4889-a9c7-5f26d2bd45be",
+  "in_force": "2020-05-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A968%CE%967%CE%9B%CE%A1-%CE%9A%CE%977",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A968%CE%967%CE%9B%CE%A1-%CE%9A%CE%977/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A968%CE%967%CE%9B%CE%A1-%CE%9A%CE%977",
+  "listing_sha256": "d335680bdf9de9c11522dc40bda21f8b93c972dba19b42fe06d134d4121d087b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
