@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΗΚ64653ΠΓ-ΝΥΨ",
+  "subject": "«Τροποποίηση της αριθ. 2603/260091/14.10.2019 απόφασης (ΦΕΚ Β’3868/21.10.2019) Υπουργού Ανάπτυξης και Επενδύσεων και Υπουργού Αγροτικής  Ανάπτυξης και Τροφίμων με θέμα : «Έγκριση προγράμματος οικονομικών αποζημιώσεων και ενισχύσεων, που προκύπτουν από την επιβολή κτηνιατρικών μέτρων εξυγίανσης του ζωικού κεφαλαίου, για το έτος 2019».",
+  "protocol_number": "1100/98832",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100002698"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1659",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-04-08",
+  "posted": "2020-05-05",
+  "publish_timestamp_ms": 1588674578449,
+  "version_id": "2b006fb6-5b5c-4e4d-ac42-15a0c2497d48",
+  "in_force": "2020-05-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%9A64653%CE%A0%CE%93-%CE%9D%CE%A5%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%9A64653%CE%A0%CE%93-%CE%9D%CE%A5%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%97%CE%9A64653%CE%A0%CE%93-%CE%9D%CE%A5%CE%A8",
+  "listing_sha256": "57dcd83e1e971a847b95a1f5e761ecc906da91e83e92f85f911307e492cda9f5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
