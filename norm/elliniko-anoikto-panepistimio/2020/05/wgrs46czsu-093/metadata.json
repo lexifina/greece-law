@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΡΣ46ΨΖΣΘ-093",
+  "subject": "Διόρθωση σφάλματος στην υπ’ αριθ. ΤΕΚ: 707/24.03.2020 Πράξη του Προέδρου της Διοικούσας Επιτροπής του Ελληνικού Ανοικτού Πανεπιστημίου που δημοσιεύθηκε στο ΦΕΚ 1512/22.04.2020/τ.Β’",
+  "protocol_number": "ΤΕΚ 971/27.04.2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99203044",
+    "label": "ΕΛΛΗΝΙΚΟ ΑΝΟΙΚΤΟ ΠΑΝΕΠΙΣΤΗΜΙΟ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "93559"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1730",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ψ4ΥΙ46ΨΖΣΘ-2ΓΗ"
+      }
+    ]
+  },
+  "issued": "2020-05-06",
+  "posted": "2020-05-07",
+  "publish_timestamp_ms": 1588832505068,
+  "version_id": "c525686e-68f2-472a-be20-ade4c7b45a79",
+  "in_force": "2020-05-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A1%CE%A346%CE%A8%CE%96%CE%A3%CE%98-093",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A1%CE%A346%CE%A8%CE%96%CE%A3%CE%98-093/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%A1%CE%A346%CE%A8%CE%96%CE%A3%CE%98-093",
+  "listing_sha256": "49c41a5b7ab2720d61da11a2bfca255135427257dd42c0adea7162468aaa58b4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
