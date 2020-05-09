@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΡΘΛΙΩΕ1-060",
+  "subject": "Συλλυπητήριο Ψήφισμα για το θάνατο του Γεωργίου Θεοδωράκη",
+  "protocol_number": "5069",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6134",
+    "label": "ΔΗΜΟΣ ΚΑΝΤΑΝΟΥ - ΣΕΛΙΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85159"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "77",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-05-09",
+  "posted": "2020-05-09",
+  "publish_timestamp_ms": 1589044328739,
+  "version_id": "828cfe1d-283d-485a-b5e9-0837d27e1d25",
+  "in_force": "2020-05-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%98%CE%9B%CE%99%CE%A9%CE%951-060",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%98%CE%9B%CE%99%CE%A9%CE%951-060/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A1%CE%98%CE%9B%CE%99%CE%A9%CE%951-060",
+  "listing_sha256": "4211e29171e5dc1c31e196a50b3054596b8412652363b51ea0849998523080b3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
