@@ -1,0 +1,39 @@
+{
+  "act": "π.δ. 42/2020",
+  "year": 2020,
+  "number": 42,
+  "url": "https://api.et.gr/apiLAW/2/2020/42/pdf",
+  "source_sha256": "5365245a8a1399b11f1a63627c17b10cb5638e4122bbabc1cbc82b3f1759bb08",
+  "published": "2020-05-12",
+  "in_force": "2020-05-12",
+  "in_force_basis": "date of publication in the Gazette (ΦΕΚ masthead), used because the commencement clause was not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος διατάγματος αρχίζει από την ημερομηνία δημοσίευσής του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 12,
+  "images": [
+    {
+      "page": 9,
+      "sha256": "6a21c226173f5ed87059cbdacfbd63f1f1dc40515953b5f48605be95321a01cf",
+      "ext": "png",
+      "bytes": 316797,
+      "bbox": [
+        84.1,
+        148.2,
+        520.4,
+        704.0
+      ]
+    },
+    {
+      "page": 10,
+      "sha256": "145169d02b0829def61dce700c1edd698512cd2a2f84e6abdea7dd0e861ed61b",
+      "ext": "png",
+      "bytes": 173084,
+      "bbox": [
+        69.8,
+        175.1,
+        515.5,
+        740.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
