@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΧΗΟ46ΜΠ3Ζ-737",
+  "subject": "Τροποποίηση της Απόφασης Διοικητή ΑΑΔΕ Α.1024/2020 (ΦΕΚ 317Β/6-2-2020) «Συμπληρωματικές τεχνικές προδιαγραφές πρωτοκόλλου επικοινωνίας και\nκρυπτογράφησης για την διαβίβαση δεδομένων στο πληροφοριακό σύστημα των ΦΗΜ»",
+  "protocol_number": "1102",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100048044"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1812",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Πράξη Ανεξάρτητης Αρχής",
+    "kanonistikipraxiaa": "1102",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-04-29",
+  "posted": "2020-05-13",
+  "publish_timestamp_ms": 1589363570669,
+  "version_id": "01f36dde-11a7-465a-bd9a-e0d42dbc0234",
+  "in_force": "2020-05-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A7%CE%97%CE%9F46%CE%9C%CE%A03%CE%96-737",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A7%CE%97%CE%9F46%CE%9C%CE%A03%CE%96-737/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A7%CE%97%CE%9F46%CE%9C%CE%A03%CE%96-737",
+  "listing_sha256": "378556fb265e7a67cbec8d7de644902269bd3657adf1c2faccdc692106520efb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
