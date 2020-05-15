@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΗΧ1ΩΞ4-Α50",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ",
+  "protocol_number": "3779/2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6224",
+    "label": "ΔΗΜΟΣ ΟΙΧΑΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81458"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "311/2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-05-15",
+  "posted": "2020-05-15",
+  "publish_timestamp_ms": 1589543804461,
+  "version_id": "7ecf528a-40a2-49f7-ae25-57e1d50095f5",
+  "in_force": "2020-05-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%97%CE%A71%CE%A9%CE%9E4-%CE%9150",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%97%CE%A71%CE%A9%CE%9E4-%CE%9150/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%97%CE%A71%CE%A9%CE%9E4-%CE%9150",
+  "listing_sha256": "7e2d27d82f239f3c5b9b2990341cc35dde718b4ff23eaa95c84a6565603f070f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
