@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60Ν7Ε-ΖΙ9",
+  "subject": "ΑΝΑΚΛΗΤΙΚΗ ΑΠΟΦΑΣΗ ΔΑΠΑΝΗΣ ΠΡΕΣΒΕΙΑΣ ΑΔΔΙΣ ΑΜΠΕΜΠΑ",
+  "protocol_number": "ΜΕ.2/085/2420989001/301.2279",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100028251"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-05-18",
+  "posted": "2020-05-18",
+  "publish_timestamp_ms": 1589788305450,
+  "version_id": "389bd79e-e1e6-4b4b-9f17-dda73257efd5",
+  "in_force": "2020-05-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%9D7%CE%95-%CE%96%CE%999",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%9D7%CE%95-%CE%96%CE%999/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%9D7%CE%95-%CE%96%CE%999",
+  "listing_sha256": "7b948b988f8adcc958da3f708e391f6185713388f9b55b41c5e77cc02775d4f1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
