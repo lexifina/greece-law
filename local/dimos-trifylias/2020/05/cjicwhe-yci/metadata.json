@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΞΙΨΩΗΕ-ΥΨΙ",
+  "subject": "ΟΦΕΙΛΗ ΟΔΟΙΠΟΡΙΚΩΝ",
+  "protocol_number": "132",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6300",
+    "label": "ΔΗΜΟΣ ΤΡΙΦΥΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93116"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-05-18",
+  "posted": "2020-05-18",
+  "publish_timestamp_ms": 1589787873710,
+  "version_id": "14b6c698-7d73-4ede-bdf1-727c9d48b23f",
+  "in_force": "2020-05-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E%CE%99%CE%A8%CE%A9%CE%97%CE%95-%CE%A5%CE%A8%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E%CE%99%CE%A8%CE%A9%CE%97%CE%95-%CE%A5%CE%A8%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9E%CE%99%CE%A8%CE%A9%CE%97%CE%95-%CE%A5%CE%A8%CE%99",
+  "listing_sha256": "7b948b988f8adcc958da3f708e391f6185713388f9b55b41c5e77cc02775d4f1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
