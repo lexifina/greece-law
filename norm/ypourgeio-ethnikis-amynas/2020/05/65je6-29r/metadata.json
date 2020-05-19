@@ -1,0 +1,49 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "65ΞΕ6-29Ρ",
+  "subject": "Απόφαση Ματαίωσης & Επανάληψης Συνοπτικού ∆ιαγωνισμού (∆.04/20) για την Περιοδική Προμήθεια Νωπών Κρεάτων για Κάλυψη Αναγκών της 115ΠΜ",
+  "protocol_number": "Φ.831/ΑΔ.8707/Σ.1856/18-5-20/115ΠΜ/ΤΜ.ΟΙΚ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "84958"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10002",
+    "kanonistikipraxiaa": "8707",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΓ476-ΨΚΒ"
+      },
+      {
+        "relatedDecisionsADA": "9Ο2Ξ6-7ΧΧ"
+      },
+      {
+        "relatedDecisionsADA": "6ΠΕΦ6-ΡΒΑ"
+      }
+    ]
+  },
+  "issued": "2020-05-18",
+  "posted": "2020-05-19",
+  "publish_timestamp_ms": 1589863143817,
+  "version_id": "ca7b5a46-640f-44be-a83c-a50d94892ee2",
+  "in_force": "2020-05-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/65%CE%9E%CE%956-29%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/65%CE%9E%CE%956-29%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/65%CE%9E%CE%956-29%CE%A1",
+  "listing_sha256": "9673ad07acb480d8b709d658b7a050e73f4dad137d6cf93d566c54b799091010",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
