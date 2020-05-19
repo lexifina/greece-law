@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω0ΦΓ465ΧΘΞ-02Φ",
+  "subject": "Προθεσμίες και διαδικασία χορήγησης Στεγαστικής Συνδρομής για ανακατασκευή, αυτοστέγαση, αποπεράτωση και ειπισκευή κτηρίων που έχουν πληγεί απο πλημμύρες. ΕΠΙΣΗΜΑΣΗ: (ΦΕΚ 1577/Β/24-4-2020 & ΦΕΚ ΔΙΟΡΘΩΣΗΣ ΣΦΑΛΜΑΤΟΣ 1877/Β/18-5-2020)",
+  "protocol_number": "ΔΑΕΦΚ-ΚΕ/οικ.3073/A321",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035939"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1577",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-04-16",
+  "posted": "2020-05-19",
+  "publish_timestamp_ms": 1589881325985,
+  "version_id": "827420be-b0cb-40e4-9fcd-b4b88d31b952",
+  "in_force": "2020-05-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%A6%CE%93465%CE%A7%CE%98%CE%9E-02%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%A6%CE%93465%CE%A7%CE%98%CE%9E-02%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A90%CE%A6%CE%93465%CE%A7%CE%98%CE%9E-02%CE%A6",
+  "listing_sha256": "a57403db94ba450557d106c3f76babfb1ebc93c50e83df38c379e367e8414a34",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
