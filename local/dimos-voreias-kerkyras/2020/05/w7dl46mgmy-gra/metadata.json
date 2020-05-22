@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω7ΔΛ46ΜΓΜΥ-ΓΡΑ",
+  "subject": "ΑΔΕΙΑ ΧΡΗΣΕΩΣ ΠΕΖΟΔΡΟΜΙΟΥ",
+  "protocol_number": "1115/2019/09-03-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100049339",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΕΡΚΥΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100050590"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω7ΡΩ46ΜΓΜΥ-ΤΥ4"
+      }
+    ]
+  },
+  "issued": "2020-05-22",
+  "posted": "2020-05-22",
+  "publish_timestamp_ms": 1590132357165,
+  "version_id": "bace411c-22e3-421f-a591-35157dbc1af4",
+  "in_force": "2020-05-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%94%CE%9B46%CE%9C%CE%93%CE%9C%CE%A5-%CE%93%CE%A1%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%94%CE%9B46%CE%9C%CE%93%CE%9C%CE%A5-%CE%93%CE%A1%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A97%CE%94%CE%9B46%CE%9C%CE%93%CE%9C%CE%A5-%CE%93%CE%A1%CE%91",
+  "listing_sha256": "6550c50ac2c966b489c3216469db6406a3065028533ab8ef1bf0ae96ef55d186",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
