@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠ20ΟΡ1Φ-ΕΒ6",
+  "subject": "ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ ΑΝΑΘΕΣΗΣ ΚΑΘΗΚΟΝΤΩΝ Ως ΠΡΟΣ ΤΗΝ ΗΜΕΡΟΜΗΝΙΑ",
+  "protocol_number": "οικ.77963",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76477"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΒΣ3ΟΡ1Φ-ΡΧΚ"
+      }
+    ]
+  },
+  "issued": "2020-05-25",
+  "posted": "2020-05-25",
+  "publish_timestamp_ms": 1590401585912,
+  "version_id": "4b8c8f61-b87b-460d-b511-ebef15516a2e",
+  "in_force": "2020-05-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A020%CE%9F%CE%A11%CE%A6-%CE%95%CE%926",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A020%CE%9F%CE%A11%CE%A6-%CE%95%CE%926/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A020%CE%9F%CE%A11%CE%A6-%CE%95%CE%926",
+  "listing_sha256": "886e417770ee69ef45a193ca9432cea4583c679acbb938bf7e7666e7d702351f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
