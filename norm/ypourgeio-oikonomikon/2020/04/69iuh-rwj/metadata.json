@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "69ΙΘΗ-ΡΩΞ",
+  "subject": "ΚΑΘΟΡΙΣΜΟΣ ΦΟΡΕΩΝ ΤΟΥ ΥΠΟΥΡΓΕΙΟΥ ΥΓΕΙΑΣ ΕΛΕΓΧΟΜΕΝΩΝ ΑΠΟ ΤΗ ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ ΔΗΜΟΣΙΟΝΟΜΙΚΩΝ ΕΛΕΓΧΩΝ (Γ.Δ.Δ.Ε.) ΤΟΥ ΥΠΟΥΡΓΕΙΟΥ ΟΙΚΟΝΟΜΙΚΩΝ",
+  "protocol_number": "44010 ΕΞ 2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100039058"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2002",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-04-01",
+  "posted": "2020-05-26",
+  "publish_timestamp_ms": 1590481655428,
+  "version_id": "95884bbb-a74b-494a-b1c3-bf2b95eb56a0",
+  "in_force": "2020-05-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/69%CE%99%CE%98%CE%97-%CE%A1%CE%A9%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/69%CE%99%CE%98%CE%97-%CE%A1%CE%A9%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/69%CE%99%CE%98%CE%97-%CE%A1%CE%A9%CE%9E",
+  "listing_sha256": "cf3d76f9369e2110964fd67f8cacda7b910bd8d0bc8bac4236aec513b579fbdf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
