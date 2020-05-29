@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΓΜΙΩΞΔ-1ΑΦ",
+  "subject": "Απόφαση Δημάρχου 690 για Διορισμό Δικηγόρου να παραβρεθεί στο Σ.Τ.Ε. (ΟΣΕ Α.Ε.)",
+  "protocol_number": "7168/29-5-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6246",
+    "label": "ΔΗΜΟΣ ΠΕΡΑΜΑΤΟΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100013357"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-05-29",
+  "posted": "2020-05-29",
+  "publish_timestamp_ms": 1590751385187,
+  "version_id": "d9615849-f7d9-4708-9305-dd9c79dd0383",
+  "in_force": "2020-05-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%9C%CE%99%CE%A9%CE%9E%CE%94-1%CE%91%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%9C%CE%99%CE%A9%CE%9E%CE%94-1%CE%91%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%93%CE%9C%CE%99%CE%A9%CE%9E%CE%94-1%CE%91%CE%A6",
+  "listing_sha256": "a522008ebe9c76ecc54f27cb720cc5e3808ecbbcf5c609c4588e22062746c64b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
