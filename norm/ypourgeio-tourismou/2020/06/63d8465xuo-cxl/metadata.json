@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "63Δ8465ΧΘΟ-ΨΧΛ",
+  "subject": "Ειδικά πρωτόκολλα υγειονομικού περιεχομένου βάσει των οποίων λειτουργούν οι τουριστικές επιχειρήσεις στο πλαίσιο της λήψης μέτρων έναντι του κορωνοϊού COVID-19.",
+  "protocol_number": "1881",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025893",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΤΟΥΡΙΣΜΟΥ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035533"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2084",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100010899",
+        "unitId": [
+          "100001270"
+        ],
+        "signerIds": [
+          "100047791"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100048285"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-06-01",
+  "posted": "2020-06-01",
+  "publish_timestamp_ms": 1590991151501,
+  "version_id": "85b439a0-41e4-4059-b6bf-8800357a5564",
+  "in_force": "2020-06-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/63%CE%948465%CE%A7%CE%98%CE%9F-%CE%A8%CE%A7%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/63%CE%948465%CE%A7%CE%98%CE%9F-%CE%A8%CE%A7%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/63%CE%948465%CE%A7%CE%98%CE%9F-%CE%A8%CE%A7%CE%9B",
+  "listing_sha256": "96380b6b2537aa5e056d8f581c94526361fd756ca2432129a496b5dd2ec357a1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
