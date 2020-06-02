@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΕΑ3465ΧΘΞ-ΙΦΕ",
+  "subject": "Τροποποίηση της απόφασης συγκρότησης συνεργείου υπερωριακής απασχόλησης μονίμων υπαλλήλων στο Τμήμα Προστασίας Περιβάλλοντος (Τ/ΠΡΟΠΕ)  της  ΥΠΑ  για το μήνα Ιούνιο 2020",
+  "protocol_number": "ΓΔΑΜ/Τ/ΠΡΟΠΕ/7577",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76601"
+  ],
+  "thematic_category_ids": [
+    "48",
+    "10004",
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "62Ι5465ΧΘΞ-Ψ68"
+      }
+    ]
+  },
+  "issued": "2020-06-02",
+  "posted": "2020-06-02",
+  "publish_timestamp_ms": 1591100560439,
+  "version_id": "952e6f28-f609-4076-95c0-b82af043725a",
+  "in_force": "2020-06-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%913465%CE%A7%CE%98%CE%9E-%CE%99%CE%A6%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%913465%CE%A7%CE%98%CE%9E-%CE%99%CE%A6%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%95%CE%913465%CE%A7%CE%98%CE%9E-%CE%99%CE%A6%CE%95",
+  "listing_sha256": "59fb9572b5d3d596be759495292684720f47463757840b8dfb1ba4805d9b4ce7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
