@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΜΠΙΟΡ10-6ΚΜ",
+  "subject": "Έγκριση Οργανισμού Εσωτερικής Υπηρεσίας (Ο.Ε.Υ.) του ΝΠΔΔ ‘Δημοτικό Λιμενικό Ταμείο Σκιάθου’Ν.Μαγνησίας'",
+  "protocol_number": "6121/55238",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "82563"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2132",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-05-20",
+  "posted": "2020-06-05",
+  "publish_timestamp_ms": 1591349441839,
+  "version_id": "3e18823c-1979-478d-9797-f3546240f828",
+  "in_force": "2020-06-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C%CE%A0%CE%99%CE%9F%CE%A110-6%CE%9A%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C%CE%A0%CE%99%CE%9F%CE%A110-6%CE%9A%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9C%CE%A0%CE%99%CE%9F%CE%A110-6%CE%9A%CE%9C",
+  "listing_sha256": "1305444b829323704d631730e6ed6105b87f860827c8e18b9674623d03915aca",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
