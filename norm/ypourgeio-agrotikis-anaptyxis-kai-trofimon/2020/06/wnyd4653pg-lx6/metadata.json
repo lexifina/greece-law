@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΥΔ4653ΠΓ-ΛΧ6",
+  "subject": "ΑΠΟΦΑΣΗ ΕΓΚΡΙΣΗΣ ΔΙΕΝΕΡΓΕΙΑΣ ΠΡΟΜΗΘΕΙΑΣ ΚΑΕ 1381",
+  "protocol_number": "80/149643",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100004023"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-06-09",
+  "posted": "2020-06-09",
+  "publish_timestamp_ms": 1591687200060,
+  "version_id": "176b9211-7719-4f5b-be34-869e953f7ef4",
+  "in_force": "2020-06-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%A5%CE%944653%CE%A0%CE%93-%CE%9B%CE%A76",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%A5%CE%944653%CE%A0%CE%93-%CE%9B%CE%A76/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%A5%CE%944653%CE%A0%CE%93-%CE%9B%CE%A76",
+  "listing_sha256": "6b6d9662d77d823b5857e9b98d4f72584e275643ad62adeb2c7fa096981cdb62",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
