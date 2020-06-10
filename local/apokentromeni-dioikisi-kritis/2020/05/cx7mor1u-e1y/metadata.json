@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΧ7ΜΟΡ1Θ-Ε1Υ",
+  "subject": "αποφαση κηρυξης αναδασωτέας λογω αλλοιωσης σε καμπους κισσάμου",
+  "protocol_number": "3476",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76916"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "301",
+      "issue": "fektype_D",
+      "issueyear": 2020
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-05-22",
+  "posted": "2020-06-10",
+  "publish_timestamp_ms": 1591777513094,
+  "version_id": "c0b6e88c-8459-49d7-895e-757b8beba5df",
+  "in_force": "2020-06-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A77%CE%9C%CE%9F%CE%A11%CE%98-%CE%951%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A77%CE%9C%CE%9F%CE%A11%CE%98-%CE%951%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A77%CE%9C%CE%9F%CE%A11%CE%98-%CE%951%CE%A5",
+  "listing_sha256": "b2f6355cdd4ddb59b2f3eafa7f838a66d168d9bf7f9ae46ae21a1d22ee79e966",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
