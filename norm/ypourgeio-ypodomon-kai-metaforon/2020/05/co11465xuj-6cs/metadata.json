@@ -1,0 +1,81 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟ11465ΧΘΞ-6ΨΣ",
+  "subject": "Τροποποίηση της Δ.Α.Ε.Φ.Κ.-Κ.Ε./8706/Α325/03.08.2018 (Β΄3255) κοινής υπουργικής απόφασης με θέμα «Οριοθέτηση περιοχών και χορήγηση στεγαστικής συνδρομής για την αποκατάσταση των ζημιών σε κτίρια από τις πυρκαγιές της 23ης και 24ης Ιουλίου 2018 σε περιοχές της Περιφέρειας Αττικής και της Περιφέρειας Πελοποννήσου».",
+  "protocol_number": "Δ.Α.Ε.Φ.Κ.-Κ.Ε./12088/Α325,Σχετ: 11912, 12002, 12000",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2178",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025905",
+        "unitId": [
+          "100045352"
+        ],
+        "signerIds": [
+          "100047853"
+        ]
+      },
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100047760"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70114"
+        ],
+        "signerIds": [
+          "100047836"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-05-29",
+  "posted": "2020-06-11",
+  "publish_timestamp_ms": 1591866869400,
+  "version_id": "d3e16800-0be3-4330-8732-086de951a583",
+  "in_force": "2020-06-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F11465%CE%A7%CE%98%CE%9E-6%CE%A8%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F11465%CE%A7%CE%98%CE%9E-6%CE%A8%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F11465%CE%A7%CE%98%CE%9E-6%CE%A8%CE%A3",
+  "listing_sha256": "b4f1fbeb775ed22a4bcecc52762833f11b81dd470be6b8019a99e49c248896cc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
