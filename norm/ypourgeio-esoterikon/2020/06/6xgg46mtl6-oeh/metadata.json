@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΧΓΓ46ΜΤΛ6-ΟΕΗ",
+  "subject": "Τροποποίηση της αριθμ.81329/15-11-2019 απόφασης (Β΄4263) «Μεταβίβαση δικαιώματος υπογραφής «Με εντολή Υπουργού» αποφάσεων και άλλων πράξεων στον Γενικό Γραμματέα Ιθαγένειας και στους προϊσταμένους λοιπών οργανικών μονάδων της Γενικής Γραμματείας Ιθαγένειας»",
+  "protocol_number": "32727",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "86675"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2208",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "32727",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΗΨΣ46ΜΤΛ6-ΓΘΙ"
+      }
+    ]
+  },
+  "issued": "2020-06-11",
+  "posted": "2020-06-11",
+  "publish_timestamp_ms": 1591862013151,
+  "version_id": "6221de35-cfcc-422a-b57e-0a41cba914ef",
+  "in_force": "2020-06-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%93%CE%9346%CE%9C%CE%A4%CE%9B6-%CE%9F%CE%95%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%93%CE%9346%CE%9C%CE%A4%CE%9B6-%CE%9F%CE%95%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A7%CE%93%CE%9346%CE%9C%CE%A4%CE%9B6-%CE%9F%CE%95%CE%97",
+  "listing_sha256": "9280d515427eb64bf317e5e491e6db2b043fb756314e31102d6d38097226ee8d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
