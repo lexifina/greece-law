@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "668ΩΩ1Ο-Μ8Ρ",
+  "subject": "Παροχή γνωμοδότησης περί της ενδοδικαστικής ή μη επίλυσης της διαφοράς από τη με ΑΓ72/07.02.2020 (αρχικός αριθ. καταχ. αγωγής ΑΓ3749/27.08.2015) υπόθεσης του Ιωάννη Καρέτσου κατά του Δήμου Πυλαίας-Χορτιάτη μετά από τη με αριθμό 7906/2019 παραπεμπτική απόφαση του Διοικητικού Πρωτοδικείου Θεσσαλονίκης",
+  "protocol_number": "Aπόφαση 215",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6257",
+    "label": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80518"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-06-12",
+  "posted": "2020-06-12",
+  "publish_timestamp_ms": 1591955440219,
+  "version_id": "a0bc7e9f-c7ab-40c5-9483-62b565aadd1b",
+  "in_force": "2020-06-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/668%CE%A9%CE%A91%CE%9F-%CE%9C8%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/668%CE%A9%CE%A91%CE%9F-%CE%9C8%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/668%CE%A9%CE%A91%CE%9F-%CE%9C8%CE%A1",
+  "listing_sha256": "54cfe5c0ceea69964429a61161b76a7b0d69f240793eb3271e87389c0a487cdd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
