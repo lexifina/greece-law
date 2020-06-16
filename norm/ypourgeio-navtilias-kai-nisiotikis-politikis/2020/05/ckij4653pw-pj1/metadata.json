@@ -1,0 +1,50 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚΙΞ4653ΠΩ-ΠΞ1",
+  "subject": "Τροποποίηση – συμπλήρωση της αριθ. 3627.1/01/2005/19-01-2005 Κοινής Υπουργικής Απόφασης  Υπουργών Οικονομίας και Οικονομικών-Εμπορικής Ναυτιλίας (Β΄ 89 -Επιδότηση σπουδαστών ΚΕΣΕΝ/Π-Μ, ΔΣΕΝ/ΜΕΤ/ΘΑΛΑΜΗΠΟΛΩΝ και Ειδικών Τμημάτων Πλοιάρχων-Μηχανικών Γ΄ τάξης -Κυβερνητών και Ηλεκτρολόγων Ε.Ν.",
+  "protocol_number": "2232.14-8/32292/2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "90437"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2339",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "100001074"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-05-29",
+  "posted": "2020-06-16",
+  "publish_timestamp_ms": 1592291949889,
+  "version_id": "456c6d57-42dc-4e2c-b7ed-b24083e98202",
+  "in_force": "2020-06-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%99%CE%9E4653%CE%A0%CE%A9-%CE%A0%CE%9E1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%99%CE%9E4653%CE%A0%CE%A9-%CE%A0%CE%9E1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A%CE%99%CE%9E4653%CE%A0%CE%A9-%CE%A0%CE%9E1",
+  "listing_sha256": "b4f1fbeb775ed22a4bcecc52762833f11b81dd470be6b8019a99e49c248896cc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
