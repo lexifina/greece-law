@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΛ3ΚΟΡ1Θ-ΝΥΩ",
+  "subject": "Έγκριση της με αρ. 779/2019 Απόφασης Δημοτικού Συμβουλίου Δήμου Ηρακλείου, που αφορά στη δημιουργία διαβάσεων πεζών στη συμβολή τηων οδών Ι. Μητσοτάκη με τις οδούς Θεοτοκοπούλου και Μονής Αγκαράθου, εντός παλιάς πόλης Ηρακλείου.",
+  "protocol_number": "3694ΠΕ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76908"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2346",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "3694ΠΕ",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-05-21",
+  "posted": "2020-06-17",
+  "publish_timestamp_ms": 1592375638003,
+  "version_id": "c01a3cee-1058-4e55-b420-497b7454e960",
+  "in_force": "2020-06-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B3%CE%9A%CE%9F%CE%A11%CE%98-%CE%9D%CE%A5%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B3%CE%9A%CE%9F%CE%A11%CE%98-%CE%9D%CE%A5%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9B3%CE%9A%CE%9F%CE%A11%CE%98-%CE%9D%CE%A5%CE%A9",
+  "listing_sha256": "d0626c6bdcc352c73ebf5c9ad65f71ed6372fb31d1c431f91ba93db7f71b2db0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
