@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥΠΑ7Λ9-ΥΩΖ",
+  "subject": "Εντολή κατανομής χρηματοδότησης της ΣΑΕΠ 530 Ηπείρου",
+  "protocol_number": "76494/2456",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5006",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81229"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-06-19",
+  "posted": "2020-06-19",
+  "publish_timestamp_ms": 1592549819878,
+  "version_id": "d31e6c80-0c1f-4e95-ba7a-8fc440e4798a",
+  "in_force": "2020-06-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%A0%CE%917%CE%9B9-%CE%A5%CE%A9%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%A0%CE%917%CE%9B9-%CE%A5%CE%A9%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A5%CE%A0%CE%917%CE%9B9-%CE%A5%CE%A9%CE%96",
+  "listing_sha256": "095960fe645c465a591481b9e1cd68a0435aaacc16c1e7cf35850d13135e7485",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
