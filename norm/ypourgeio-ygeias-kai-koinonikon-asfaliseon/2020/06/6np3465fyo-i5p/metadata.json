@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΝΠ3465ΦΥΟ-Ι5Π",
+  "subject": "Τροποποίηση της με αριθ. πρωτ. ΕΑΛΕ/Γ.Π. 89005/23-12-2019 υπουργικής απόφασης, «Επιτρεπόμενα όρια δαπανών του Εθνικού Οργανισμού Παροχής Υπηρεσιών Υγείας (ΕΟΠΥΥ) έτους 2019, για παρεχόμενες υπηρεσίες υγείας από συμβεβλημένους ιδιώτες παρόχους και για την παροχή ιατροτεχνολογικών προϊόντων και συμπληρωμάτων ειδικής διατροφής από συμβεβλημένους κατασκευαστές, εισαγωγείς, διανομείς/προμηθευτές» (Β’ 4870).",
+  "protocol_number": "33950",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100036551"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2489",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100048285"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-06-24",
+  "posted": "2020-06-24",
+  "publish_timestamp_ms": 1592979921496,
+  "version_id": "6cd22a91-fe08-485e-a957-ad5bd6288a50",
+  "in_force": "2020-06-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%A03465%CE%A6%CE%A5%CE%9F-%CE%995%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%A03465%CE%A6%CE%A5%CE%9F-%CE%995%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9D%CE%A03465%CE%A6%CE%A5%CE%9F-%CE%995%CE%A0",
+  "listing_sha256": "ca8bf007322523226214d9e8d83ad03b1f821c4fcfa344de266ef44f05e539c6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
