@@ -1,0 +1,72 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΤΒ465ΧΘΞ-ΝΒ2",
+  "subject": "Οριοθέτηση περιοχών και χορήγηση Στεγαστικής Συνδρομής για την αποκατάσταση των ζημιών σε κτίρια από τις πλημμύρες του Μαρτίου 2019 σε περιοχές του Δήμου Χαλκιδέων της Περιφερειακής Ενότητας Εύβοιας της Περιφέρειας Στερεάς Ελλάδας.",
+  "protocol_number": "Δ.Α.Ε.Φ.Κ.-Κ.Ε./2329/Α325      Σχετ. : 7554/2019, 7717/19, 11161/2019, 10355/2019, 12394/2019, 12596/2019, 1778/2020, 1837/2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2441",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70114"
+        ],
+        "signerIds": [
+          "100047836"
+        ]
+      },
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100047760"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-06-02",
+  "posted": "2020-06-24",
+  "publish_timestamp_ms": 1592978688194,
+  "version_id": "1898b664-e02f-47a7-b91b-413605222f55",
+  "in_force": "2020-06-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A4%CE%92465%CE%A7%CE%98%CE%9E-%CE%9D%CE%922",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A4%CE%92465%CE%A7%CE%98%CE%9E-%CE%9D%CE%922/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%A4%CE%92465%CE%A7%CE%98%CE%9E-%CE%9D%CE%922",
+  "listing_sha256": "59fb9572b5d3d596be759495292684720f47463757840b8dfb1ba4805d9b4ce7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
