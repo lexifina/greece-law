@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΓΜ6ΩΕΕ-ΡΨ1",
+  "subject": "255/2020_ΟΕ: Εξειδίκευση πίστωσης για τη φιλοξενία επίσημου προσκεκλημένου.",
+  "protocol_number": "25636",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6130",
+    "label": "ΔΗΜΟΣ ΚΑΛΑΜΑΤΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82262"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-06-24",
+  "posted": "2020-06-24",
+  "publish_timestamp_ms": 1592999466558,
+  "version_id": "d4abc3f6-4f44-4a4a-bbf2-ff1e4fd15ec2",
+  "in_force": "2020-06-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%9C6%CE%A9%CE%95%CE%95-%CE%A1%CE%A81",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%9C6%CE%A9%CE%95%CE%95-%CE%A1%CE%A81/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%93%CE%9C6%CE%A9%CE%95%CE%95-%CE%A1%CE%A81",
+  "listing_sha256": "dbf5c04fd50a09b0dafa5d2bdf2dd851265e289c98c13b12da4e785a20c5aabf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
