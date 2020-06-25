@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω0ΝΤΩΨΒ-1ΑΩ",
+  "subject": "Έκδοση χρηματικού εντάλματος προπληρωμής για προμήθεια καρτών γραμματοσήμανσης.",
+  "protocol_number": "148-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82632"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-06-23",
+  "posted": "2020-06-25",
+  "publish_timestamp_ms": 1593070261186,
+  "version_id": "41b69faa-2928-430f-839b-b4b16d761a1e",
+  "in_force": "2020-06-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%9D%CE%A4%CE%A9%CE%A8%CE%92-1%CE%91%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%9D%CE%A4%CE%A9%CE%A8%CE%92-1%CE%91%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A90%CE%9D%CE%A4%CE%A9%CE%A8%CE%92-1%CE%91%CE%A9",
+  "listing_sha256": "7d5243994a088c6245dfbdc84d031c786234fed0370b3498b48d5d32e11dcb51",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
