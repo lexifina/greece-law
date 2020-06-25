@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω9ΟΙΩ1Ο-ΟΡ9",
+  "subject": "Αίτημα διαγραφής χρέους Αθλητικού και Μορφωτικού Συλλόγου Πανοράματος «Το Πανόραμα»",
+  "protocol_number": "Aπόφαση 257",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6257",
+    "label": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80518"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-06-25",
+  "posted": "2020-06-25",
+  "publish_timestamp_ms": 1593071652380,
+  "version_id": "32a6884b-3f5b-4006-9ed3-65465da268cc",
+  "in_force": "2020-06-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%9F%CE%99%CE%A91%CE%9F-%CE%9F%CE%A19",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%9F%CE%99%CE%A91%CE%9F-%CE%9F%CE%A19/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A99%CE%9F%CE%99%CE%A91%CE%9F-%CE%9F%CE%A19",
+  "listing_sha256": "57e5cf559107aaa91cca5c024571582b85f0befcf58047708477ffdddd46d472",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
