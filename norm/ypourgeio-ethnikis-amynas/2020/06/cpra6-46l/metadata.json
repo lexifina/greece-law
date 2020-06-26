@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠΡΑ6-46Λ",
+  "subject": "Συμβάσεις - Διαγωνισμοί για Προμήθεια Υλικών - Εφοδίων [Η Υπ’ Α-\nρίθμ.46-20 Διακήρυξη Διαγωνισμού, για την Προμήθεια Καταδεικτών\nΣτόχων (IR POINTER)]",
+  "protocol_number": "415926",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78138"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΜΧΠ6-ΔΥΞ"
+      }
+    ]
+  },
+  "issued": "2020-06-26",
+  "posted": "2020-06-26",
+  "publish_timestamp_ms": 1593200580954,
+  "version_id": "ea8c6adf-c1d8-4789-a590-f87bf1e3159e",
+  "in_force": "2020-06-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%A1%CE%916-46%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%A1%CE%916-46%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A0%CE%A1%CE%916-46%CE%9B",
+  "listing_sha256": "8e083c15d0d7160e921e88c6319c882ef0f6774618ee7ae6d3c868b5ccfa486f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
