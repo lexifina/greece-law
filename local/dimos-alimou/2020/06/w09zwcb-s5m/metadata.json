@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω09ΖΩΨΒ-Σ5Μ",
+  "subject": "Διαγραφή βεβαιωμένων ποσών οφειλής.",
+  "protocol_number": "163-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82632"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-06-30",
+  "posted": "2020-07-01",
+  "publish_timestamp_ms": 1593609872066,
+  "version_id": "eabd949f-d657-4663-b28b-db31613aed6b",
+  "in_force": "2020-07-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A909%CE%96%CE%A9%CE%A8%CE%92-%CE%A35%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A909%CE%96%CE%A9%CE%A8%CE%92-%CE%A35%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A909%CE%96%CE%A9%CE%A8%CE%92-%CE%A35%CE%9C",
+  "listing_sha256": "8e9c8f499e05434d3e37bff1d88e4692e8b3d0f71bf4b8033ff279f621abb4fc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
