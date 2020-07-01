@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΛΩ2465ΦΥΟ-Β1Ζ",
+  "subject": "«Τροποποίηση της υπ΄αριθμ.πρωτ.Υ4α/147881/25-11-2010 «Ολοήμερη λειτουργία Νοσοκομείων» Κ.Υ.Α. (Β΄1851)»»",
+  "protocol_number": "Γ2α/οικ.37824",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047539"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2495",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100009868"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-06-17",
+  "posted": "2020-07-01",
+  "publish_timestamp_ms": 1593586095581,
+  "version_id": "a2a0ff63-baa8-46dd-b08d-75b0b0bad9d0",
+  "in_force": "2020-07-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B%CE%A92465%CE%A6%CE%A5%CE%9F-%CE%921%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B%CE%A92465%CE%A6%CE%A5%CE%9F-%CE%921%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9B%CE%A92465%CE%A6%CE%A5%CE%9F-%CE%921%CE%96",
+  "listing_sha256": "a306703e068bd997e6b31d8322f27a8a0de22ab436bf2605a0568bf2310b743c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
