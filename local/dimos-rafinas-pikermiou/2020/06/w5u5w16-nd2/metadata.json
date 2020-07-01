@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω5Θ5Ω16-ΝΔ2",
+  "subject": "Απόφαση Ο.Ε. υπ' αριθμ. 134/2020 περί εξουσιοδότησης της υπολόγου Παγίας Προκαταβολής του Δήμου Ραφήνας-Πικερμίου κ. Γκινοσάτη Όλγας όπως αιτηθεί την έκδοση, παραλαβή και χρήση κωδικών ηλεκτρονικών συναλλαγών για τον λογαριασμό ειδικού σκοπού με IBAN GR40 0172 1860 0051 8609 4569 685 στην τράπεζα Πειραιώς»",
+  "protocol_number": "134/2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6262",
+    "label": "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "10734"
+  ],
+  "thematic_category_ids": [
+    "24",
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-06-23",
+  "posted": "2020-07-01",
+  "publish_timestamp_ms": 1593602303479,
+  "version_id": "3b3ebc33-028c-4b6b-baf8-ee841e23e030",
+  "in_force": "2020-07-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%985%CE%A916-%CE%9D%CE%942",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%985%CE%A916-%CE%9D%CE%942/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A95%CE%985%CE%A916-%CE%9D%CE%942",
+  "listing_sha256": "7d5243994a088c6245dfbdc84d031c786234fed0370b3498b48d5d32e11dcb51",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
