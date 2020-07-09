@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΦΨ6-1ΛΔ",
+  "subject": "Έγκριση Αποδοχής Προσφορών Συνοπτικού Διαγωνισμού υπ’ αρίθμ. 27/20 για την Προμήθεια Δραστικών Ουσιών AMPICILLIN SODIUM SULBACTAM SODIUM PD.INJ.SOL (2+1) G/VIAL, AMPICILLIN SODIUM SULBACTAM SODIUM PD.INJ.SOL  (1+0,5)G/VIAL KAI PARECOXIBPS.INJ.SOL40MG/VIAL για Κάλυψη Αναγκών του 251ΓΝΑ",
+  "protocol_number": "Φ.831/ΑΔ.706/6142/Σ.2175",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "83478"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Α0Δ6-Ζ67"
+      },
+      {
+        "relatedDecisionsADA": "Ω9ΦΦ6-ΕΚ3"
+      }
+    ]
+  },
+  "issued": "2020-07-07",
+  "posted": "2020-07-09",
+  "publish_timestamp_ms": 1594272399957,
+  "version_id": "aeb7cb3c-2a56-4f49-944c-4166d9bba218",
+  "in_force": "2020-07-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A6%CE%A86-1%CE%9B%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A6%CE%A86-1%CE%9B%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%A6%CE%A86-1%CE%9B%CE%94",
+  "listing_sha256": "2c100694c6cbe216b98ef5eb3ec80c57b7b73a741b09875a4bccdd761268244b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
