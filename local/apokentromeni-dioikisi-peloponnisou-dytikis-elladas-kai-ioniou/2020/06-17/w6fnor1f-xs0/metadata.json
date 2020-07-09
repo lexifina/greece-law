@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω6ΦΝΟΡ1Φ-ΧΣ0",
+  "subject": "Λύση σύμβασης ΙΔΟΧ Δήμου Πατρέων-Ξενώνας φιλοξενίας",
+  "protocol_number": "89011",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87448"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "965",
+      "issue": "fektype_C",
+      "issueyear": 2020
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-06-17",
+  "posted": "2020-07-09",
+  "publish_timestamp_ms": 1594293127173,
+  "version_id": "2aaf6334-0703-4049-b2d0-f3f5df49a3cc",
+  "in_force": "2020-07-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%A6%CE%9D%CE%9F%CE%A11%CE%A6-%CE%A7%CE%A30",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%A6%CE%9D%CE%9F%CE%A11%CE%A6-%CE%A7%CE%A30/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A96%CE%A6%CE%9D%CE%9F%CE%A11%CE%A6-%CE%A7%CE%A30",
+  "listing_sha256": "a306703e068bd997e6b31d8322f27a8a0de22ab436bf2605a0568bf2310b743c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
