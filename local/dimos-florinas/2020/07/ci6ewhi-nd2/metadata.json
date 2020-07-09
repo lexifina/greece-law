@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΙ6ΕΩΗΙ-ΝΔ2",
+  "subject": "ΑΟΕ 141/2020 Έγκριση όρων Διενέργειας πλειοδοτικής Δημοπρασίας για την εκμίσθωση του υπ’ αριθ.7  καταστήματος της Δημοτικής Αγοράς",
+  "protocol_number": "141/2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84862"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "141/2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-07-09",
+  "posted": "2020-07-09",
+  "publish_timestamp_ms": 1594286056616,
+  "version_id": "ce6d78b4-2d11-4a83-aa8e-a78142954b20",
+  "in_force": "2020-07-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%996%CE%95%CE%A9%CE%97%CE%99-%CE%9D%CE%942",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%996%CE%95%CE%A9%CE%97%CE%99-%CE%9D%CE%942/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%996%CE%95%CE%A9%CE%97%CE%99-%CE%9D%CE%942",
+  "listing_sha256": "c9ce76623d901452d3af9a49723fbec7e2ce9b9fa4dc16be5a5d12affe5fa798",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
