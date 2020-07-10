@@ -1,0 +1,50 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΙΘΥΟΡ1Θ-6Ρ1",
+  "subject": "Τροποποίηση – συμπλήρωση της αρ. πρωτ.: 13778/20-12-2019 απόφασής μας (Φ.Ε.Κ. 5052/τ. Β΄/31-12-2019- Διόρθ. σφάλματος στο ΦΕΚ 1913/τ.Β΄/19-5-2020), όπως τροποποιήθηκε και συμπληρώθηκε\nμε τις αρ. πρωτ.: 1328/25-2-2020 (Φ.Ε.Κ. 886/τ. Β΄/17-3-2020) και 3171/22-4-2020 (Φ.Ε.Κ. 1759/τ.Β΄/8-5-2020) όμοιες περί ανώτατου ορίου επιτρεπόμενων κατ’ έτος ημερών κίνησης εκτός έδρας αιρετών και\nυπαλλήλων υπηρετούντων στην Περιφέρεια Κρήτης.",
+  "protocol_number": "4638",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76519"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2718",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "62ΙΓΟΡ1Θ-Σ0Υ"
+      },
+      {
+        "relatedDecisionsADA": "Ω18ΗΟΡ1Θ-5ΙΦ"
+      }
+    ]
+  },
+  "issued": "2020-06-17",
+  "posted": "2020-07-10",
+  "publish_timestamp_ms": 1594376037095,
+  "version_id": "c4029e9a-609d-4471-b3e9-148dfc6d0110",
+  "in_force": "2020-07-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%99%CE%98%CE%A5%CE%9F%CE%A11%CE%98-6%CE%A11",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%99%CE%98%CE%A5%CE%9F%CE%A11%CE%98-6%CE%A11/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%99%CE%98%CE%A5%CE%9F%CE%A11%CE%98-6%CE%A11",
+  "listing_sha256": "a306703e068bd997e6b31d8322f27a8a0de22ab436bf2605a0568bf2310b743c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
