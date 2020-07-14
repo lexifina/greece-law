@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ7Ψ4ΩΗ6-ΟΚ8",
+  "subject": "Τοποθέτηση βρύσης και προβολέα στην παιδική χαρά Κρόκου.",
+  "protocol_number": "35",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6296",
+    "label": "ΔΗΜΟΣ ΤΗΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100051059"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-07-14",
+  "posted": "2020-07-14",
+  "publish_timestamp_ms": 1594703355394,
+  "version_id": "1efcc304-77c4-4e0c-8661-6749f9d90115",
+  "in_force": "2020-07-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A87%CE%A84%CE%A9%CE%976-%CE%9F%CE%9A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A87%CE%A84%CE%A9%CE%976-%CE%9F%CE%9A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A87%CE%A84%CE%A9%CE%976-%CE%9F%CE%9A8",
+  "listing_sha256": "a342de79716eaade67f230f96f2a59c4a4da3da6e4edab0403c276669204d407",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
