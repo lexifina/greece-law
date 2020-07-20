@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω24Ρ4653ΠΩ-35Ι",
+  "subject": "Καθορισμός του αριθμού εισαγομένων εν ενεργεία μονίμων στελεχών Λ.Σ.-ΕΛ.ΑΚΤ. στη Σχολή Δοκίμων Σημαιοφόρων Λ.Σ.-ΕΛ.ΑΚΤ. κατά το ακαδημαϊκό έτος 2020-2021, ύστερα από συμμετοχή τους στις πανελλαδικές εξετάσεις του σχολικού έτους 2019-2020",
+  "protocol_number": "2421.1/41726/2020/2-7-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100016068"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2927",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "41726",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100000549"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "100054501",
+        "unitId": [
+          "100045654"
+        ],
+        "signerIds": [
+          "100047809"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-07-20",
+  "posted": "2020-07-20",
+  "publish_timestamp_ms": 1595238238582,
+  "version_id": "56b6fb52-74d5-4028-813c-622d2ed9132c",
+  "in_force": "2020-07-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A924%CE%A14653%CE%A0%CE%A9-35%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A924%CE%A14653%CE%A0%CE%A9-35%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A924%CE%A14653%CE%A0%CE%A9-35%CE%99",
+  "listing_sha256": "2cdfce0cff6837f7fb66e1e9004ad91abcb0e9049fb1c7e9602762406701bf27",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
