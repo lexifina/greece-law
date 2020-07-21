@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ5Δ246Μ4Χ7-6ΥΜ",
+  "subject": "Καθορισμός μηνιαίων αποδοχών του Προέδρου και των Μελών της Αρχής Εξέτασης Προδικαστικών Προσφυγών, του ύψους της αποζημίωσης κατά συνεδρίαση, που χορηγείται στον Αναπληρωτή Πρόεδρο και στα Μέλη της Αρχής Εξέτασης Προδικαστικών Προσφυγών και του αριθμού των συνεδριάσεών της.",
+  "protocol_number": "412",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100032050",
+    "label": "ΑΡΧΗ ΕΞΕΤΑΣΗΣ ΠΡΟΔΙΚΑΣΤΙΚΩΝ ΠΡΟΣΦΥΓΩΝ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100033151"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "501",
+      "issue": "fektype_YODD",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "412",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "5",
+        "unitId": [
+          "94045"
+        ],
+        "signerIds": [
+          "100047871"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100048285"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-07-21",
+  "posted": "2020-07-21",
+  "publish_timestamp_ms": 1595337132715,
+  "version_id": "80d533c5-d05d-46a2-abea-c222220e5c93",
+  "in_force": "2020-07-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A85%CE%94246%CE%9C4%CE%A77-6%CE%A5%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A85%CE%94246%CE%9C4%CE%A77-6%CE%A5%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A85%CE%94246%CE%9C4%CE%A77-6%CE%A5%CE%9C",
+  "listing_sha256": "93ae23de6fe18d01080146d915355313372afeb2c2892631ef170ca75ac59716",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
