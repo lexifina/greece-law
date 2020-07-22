@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠΗΓ46ΜΠ3Ζ-ΗΨ2",
+  "subject": "ΜΕΤΑΦΟΡΑ  ΠΙΣΤΩΣΕΩΝ ΑΠΟ 2410201001  ΣΤΟ 3120989001",
+  "protocol_number": "27501",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100029792"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-07-22",
+  "posted": "2020-07-22",
+  "publish_timestamp_ms": 1595416167246,
+  "version_id": "a690297d-7e5e-4e44-9038-c904fd7f2ef6",
+  "in_force": "2020-07-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%97%CE%9346%CE%9C%CE%A03%CE%96-%CE%97%CE%A82",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%97%CE%9346%CE%9C%CE%A03%CE%96-%CE%97%CE%A82/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A0%CE%97%CE%9346%CE%9C%CE%A03%CE%96-%CE%97%CE%A82",
+  "listing_sha256": "318382a4d0a7aa18d3db73db68d01b0a69d0b10d2752dbbb7b31f972635beaf9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
