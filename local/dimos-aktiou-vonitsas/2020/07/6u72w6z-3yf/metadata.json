@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Θ72Ω6Ζ-3ΥΦ",
+  "subject": "Αντικατάσταση Προέδρου της Κοινότητας Πογωνιάς, λόγω θανάτου",
+  "protocol_number": "8363",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6017",
+    "label": "ΔΗΜΟΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93484"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-07-28",
+  "posted": "2020-07-28",
+  "publish_timestamp_ms": 1595928050259,
+  "version_id": "2ad6940e-62e9-48a8-a893-7806b33ed1f0",
+  "in_force": "2020-07-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9872%CE%A96%CE%96-3%CE%A5%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9872%CE%A96%CE%96-3%CE%A5%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9872%CE%A96%CE%96-3%CE%A5%CE%A6",
+  "listing_sha256": "885dad01e88f303f4c95be4e45dc18c9b5a7497fffeb96ce4a81a926ae4ac937",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
