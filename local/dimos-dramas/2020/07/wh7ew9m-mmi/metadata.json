@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΗ7ΕΩ9Μ-ΜΜΙ",
+  "subject": "Παράταση ωραρίου μουσικής σε κατάστημα υγειονομικού ενδιαφέροντος.",
+  "protocol_number": "15640/29-6-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100050399"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "20-2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-07-29",
+  "posted": "2020-07-31",
+  "publish_timestamp_ms": 1596181521951,
+  "version_id": "ec88dec2-35af-4072-be75-d5ec5286bdb0",
+  "in_force": "2020-07-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%977%CE%95%CE%A99%CE%9C-%CE%9C%CE%9C%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%977%CE%95%CE%A99%CE%9C-%CE%9C%CE%9C%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%977%CE%95%CE%A99%CE%9C-%CE%9C%CE%9C%CE%99",
+  "listing_sha256": "c716f4fbbfef8bf27f0ab721c894b14737eda11443ad2a3e12d72f0ec8b24cf9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
