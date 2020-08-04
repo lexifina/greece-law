@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧΘΦΩ97-2ΛΨ",
+  "subject": "Η αριθμ. 234/2020 απόφαση Ο.Ε: \"Οικονομική ενίσχυση πυρόπληκτου δημότη\"",
+  "protocol_number": "11416/4-8-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6056",
+    "label": "ΔΗΜΟΣ ΒΟΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85504"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "234/2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-08-04",
+  "posted": "2020-08-04",
+  "publish_timestamp_ms": 1596539978505,
+  "version_id": "305dbecb-b0d5-4c46-9c58-af18628eddb1",
+  "in_force": "2020-08-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%98%CE%A6%CE%A997-2%CE%9B%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%98%CE%A6%CE%A997-2%CE%9B%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A7%CE%98%CE%A6%CE%A997-2%CE%9B%CE%A8",
+  "listing_sha256": "5d98df39d2a9c6a0cfeea68b46ac0075e615a697aa23531de72a7e229fea2469",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
