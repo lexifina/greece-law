@@ -1,0 +1,71 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠΖΡ465ΦΥΟ-ΛΦ1",
+  "subject": "Καθορισμός της διαδικασίας υποβολής αίτησης και δικαιολογητικών, εκκαθάρισης και αποζημίωσης από τον ΕΟΠΥΥ των δαπανών θεραπειών ειδικής αγωγής.",
+  "protocol_number": "49556",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100036551"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3244",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100048285"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "100054486",
+        "unitId": [
+          "100008306"
+        ],
+        "signerIds": [
+          "100050197"
+        ]
+      },
+      {
+        "ministryId": "100054486",
+        "unitId": [
+          "100008306"
+        ],
+        "signerIds": [
+          "100053505"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-08-05",
+  "posted": "2020-08-05",
+  "publish_timestamp_ms": 1596612375667,
+  "version_id": "51779324-b171-46eb-8fc4-c1b6a3526978",
+  "in_force": "2020-08-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%96%CE%A1465%CE%A6%CE%A5%CE%9F-%CE%9B%CE%A61",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%96%CE%A1465%CE%A6%CE%A5%CE%9F-%CE%9B%CE%A61/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A0%CE%96%CE%A1465%CE%A6%CE%A5%CE%9F-%CE%9B%CE%A61",
+  "listing_sha256": "90f28771cc74e39a8db36dc6133ae26563cebaa62816058a726e2c53461a8214",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
