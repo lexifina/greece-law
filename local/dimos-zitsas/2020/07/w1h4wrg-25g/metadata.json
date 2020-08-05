@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω1Η4ΩΡΓ-25Γ",
+  "subject": "Οδοιπορικά έξοδα και αποζημίωση μετακινούμενων υπαλλήλων",
+  "protocol_number": "10320",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6103",
+    "label": "ΔΗΜΟΣ ΖΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81762"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-07-27",
+  "posted": "2020-08-05",
+  "publish_timestamp_ms": 1596626827865,
+  "version_id": "78f57c1e-c660-4576-b115-d61b6f750ded",
+  "in_force": "2020-08-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%974%CE%A9%CE%A1%CE%93-25%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%974%CE%A9%CE%A1%CE%93-25%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A91%CE%974%CE%A9%CE%A1%CE%93-25%CE%93",
+  "listing_sha256": "bc7e3cd3e43d2947031067670c989b50b3957b70f103e25ecfc3fbd6a9d269c4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
