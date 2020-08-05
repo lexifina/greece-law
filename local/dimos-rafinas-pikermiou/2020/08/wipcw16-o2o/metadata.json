@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΠΨΩ16-Ο2Ο",
+  "subject": "ΑΠΟΦΑΣΗ Ο.Ε. ΥΠ.ΑΡΙΘΜΟΝ 185/2020 «Λήψη απόφασης περί ορισμού δικηγόρου για παράσταση στο Μονομελές Πρωτοδικείο Αθηνών την 11-8-2020, κατά τη συζήτηση προσωρινής διαταγής (ασφαλιστικά μέτρα) των Δ. Δεμερούτη και Γ. Μποτοζάκη κατά του Δήμου Ραφήνας-Πικερμίου»",
+  "protocol_number": "185",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6262",
+    "label": "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "10734"
+  ],
+  "thematic_category_ids": [
+    "44",
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "185/2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-08-04",
+  "posted": "2020-08-05",
+  "publish_timestamp_ms": 1596623645642,
+  "version_id": "f141e1ba-9659-44e1-be85-fa69706854b6",
+  "in_force": "2020-08-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%A0%CE%A8%CE%A916-%CE%9F2%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%A0%CE%A8%CE%A916-%CE%9F2%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%A0%CE%A8%CE%A916-%CE%9F2%CE%9F",
+  "listing_sha256": "5d98df39d2a9c6a0cfeea68b46ac0075e615a697aa23531de72a7e229fea2469",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
