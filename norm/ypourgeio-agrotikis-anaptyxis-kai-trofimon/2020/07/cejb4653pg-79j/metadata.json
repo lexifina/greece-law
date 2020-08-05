@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΕΞΒ4653ΠΓ-79Ξ",
+  "subject": "Έναρξη Λειτουργίας της Μονάδας Εσωτερικού Ελέγχου του Υπουργείου Αγροτικής Ανάπτυξης και Τροφίμων",
+  "protocol_number": "1436/212677",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100034376"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3243",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΚΡΟ4653ΠΓ-Υ1Μ"
+      }
+    ]
+  },
+  "issued": "2020-07-31",
+  "posted": "2020-08-05",
+  "publish_timestamp_ms": 1596621336658,
+  "version_id": "54b9d016-48e1-40e9-a479-9caaa0c956a1",
+  "in_force": "2020-08-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%9E%CE%924653%CE%A0%CE%93-79%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%9E%CE%924653%CE%A0%CE%93-79%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%95%CE%9E%CE%924653%CE%A0%CE%93-79%CE%9E",
+  "listing_sha256": "615328d0551066043fde4a2735fa10f48f86644c4c3315a7b7673a00395ccefb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
