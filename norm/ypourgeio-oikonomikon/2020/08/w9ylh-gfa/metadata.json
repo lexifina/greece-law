@@ -1,0 +1,85 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω9ΥΛΗ-ΓΦΑ",
+  "subject": "Τροποποίηση της υπ’ αρ. ΓΔΟΥ148/03.07.2020 απόφασης των Υπουργών Οικονομικών και Ανάπτυξης και Επενδύσεων «Διαδικασία και προϋποθέσεις χορήγησης ενίσχυσης με τη μορφή επιστρεπτέας προκαταβολής σε επιχειρήσεις που επλήγησαν οικονομικά λόγω της εμφάνισης και διάδοσης της νόσου του κορωνοϊού COVID-19, κατά  τους μήνες Μάρτιο, Απρίλιο και Μάιο 2020» (Β΄2729)",
+  "protocol_number": "ΓΔΟΥ 193",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008361"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3223",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Α4ΦΗ-ΜΨ6"
+      }
+    ],
+    "co_competent": [
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100052322"
+        ],
+        "signerIds": [
+          "100047801"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100048285"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100047807"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-08-06",
+  "posted": "2020-08-06",
+  "publish_timestamp_ms": 1596691430226,
+  "version_id": "feb4fd87-6bb1-4109-839d-881da93dbc09",
+  "in_force": "2020-08-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%A5%CE%9B%CE%97-%CE%93%CE%A6%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A99%CE%A5%CE%9B%CE%97-%CE%93%CE%A6%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A99%CE%A5%CE%9B%CE%97-%CE%93%CE%A6%CE%91",
+  "listing_sha256": "bc716e93dce4377323fb0f0c4104f92277625ada16a49a5ac85620965b680e1a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
