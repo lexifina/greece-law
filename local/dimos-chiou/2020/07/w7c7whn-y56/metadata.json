@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω7Ψ7ΩΗΝ-Υ56",
+  "subject": "Δημοτική και Αγροτική Οδοποιία ΔΕ Καμποχώρων 2020",
+  "protocol_number": "44412",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78548"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-07-06",
+  "posted": "2020-08-07",
+  "publish_timestamp_ms": 1596777666389,
+  "version_id": "cf33d174-0844-4678-a9ff-fd1884a6c96f",
+  "in_force": "2020-08-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%A87%CE%A9%CE%97%CE%9D-%CE%A556",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A97%CE%A87%CE%A9%CE%97%CE%9D-%CE%A556/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A97%CE%A87%CE%A9%CE%97%CE%9D-%CE%A556",
+  "listing_sha256": "7e4e2215c8957cfc33ab4dab048a1f2d4f6c5de1b93e6c8cb486169222ed2253",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
