@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚΔΙ46ΜΠ3Ζ-ΧΕΧ",
+  "subject": "Παράταση έως 31/10/2020 της προθεσμίας αναβάθμισης των ενεργών ΦΗΜ, σύμφωνα με τα οριζόμενα στην Απόφαση Διοικητή ΑΑΔΕ Α.1024/2020 \"Συμπληρωματικές τεχνικές προδιαγραφές πρωτοκόλλου επικοινωνίας και κρυπτογράφησης για την διαβίβαση δεδομένων στο πληροφοριακό σύστημα των ΦΗΜ\"(Β΄317), όπως ισχύει.",
+  "protocol_number": "Α.1175",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100048044"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3293",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Πράξη Ανεξάρτητης Αρχής",
+    "kanonistikipraxiaa": "1175",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-07-23",
+  "posted": "2020-08-07",
+  "publish_timestamp_ms": 1596783247046,
+  "version_id": "db4d04c6-9444-4133-bfa2-c147c03b5cda",
+  "in_force": "2020-08-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%94%CE%9946%CE%9C%CE%A03%CE%96-%CE%A7%CE%95%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%94%CE%9946%CE%9C%CE%A03%CE%96-%CE%A7%CE%95%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A%CE%94%CE%9946%CE%9C%CE%A03%CE%96-%CE%A7%CE%95%CE%A7",
+  "listing_sha256": "94418f716ba4fcb94e21ae1d7123e70b691ce55e6c8f14c36ad764e785297faa",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
