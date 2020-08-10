@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΨΧΕ4653ΠΩ-ΖΜΓ",
+  "subject": "ΠΡΟΣΩΡΙΝΑ ΜΕΤΡΑ ΡΥΘΜΙΣΗΣ ΤΗΣ ΚΥΚΛΟΦΟΡΙΑΣ ΣΤΗ ΧΕΡΣΑΙΑ ΖΩΝΗ ΛΙΜΕΝΑ ΤΗΝΟΥ",
+  "protocol_number": "2132.15/1151/20",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "91223"
+  ],
+  "thematic_category_ids": [
+    "48",
+    "44",
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10002",
+    "kanonistikipraxiaa": "2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-08-10",
+  "posted": "2020-08-10",
+  "publish_timestamp_ms": 1597042671467,
+  "version_id": "c0045654-e0a8-41de-a191-94f1c1136708",
+  "in_force": "2020-08-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A8%CE%A7%CE%954653%CE%A0%CE%A9-%CE%96%CE%9C%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A8%CE%A7%CE%954653%CE%A0%CE%A9-%CE%96%CE%9C%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A8%CE%A7%CE%954653%CE%A0%CE%A9-%CE%96%CE%9C%CE%93",
+  "listing_sha256": "eeb5524376af7a7c241e5749aceaf86334a4bc930306fc8668cbda072ca700da",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
