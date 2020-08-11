@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΦΔΡΩΡ6-Ι3Ω",
+  "subject": "Έγκριση ή μη διαγραφής ποσού από χρηματικό κατάλογο 1587/14-05-2020",
+  "protocol_number": "174-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6092",
+    "label": "ΔΗΜΟΣ ΕΟΡΔΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85350"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-08-11",
+  "posted": "2020-08-11",
+  "publish_timestamp_ms": 1597144310111,
+  "version_id": "4004eccd-b4f7-428f-b5f4-19b7aa31e2da",
+  "in_force": "2020-08-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%A6%CE%94%CE%A1%CE%A9%CE%A16-%CE%993%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%A6%CE%94%CE%A1%CE%A9%CE%A16-%CE%993%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%A6%CE%94%CE%A1%CE%A9%CE%A16-%CE%993%CE%A9",
+  "listing_sha256": "8cb6cb23e12de3808b2b51d59409b248278e9b5db16f61ecd4d28e1fedfd749c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
