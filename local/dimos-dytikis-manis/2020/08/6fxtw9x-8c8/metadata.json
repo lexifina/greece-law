@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΦΧΤΩ9Χ-8Ψ8",
+  "subject": "ΑΠΟΦΑΣΗ ΠΡΟΣΛΗΨΗΣ ΜΕ 5 ΗΜΕΡΟΜΙΣΘΙΑ ΓΙΑ ΤΟΝ ΜΗΝΑ ΑΥΓΟΥΣΤΟ",
+  "protocol_number": "5458",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6083",
+    "label": "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΜΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100050005"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-08-13",
+  "posted": "2020-08-13",
+  "publish_timestamp_ms": 1597315828736,
+  "version_id": "3595ce15-e4db-4c94-9275-e3976d123025",
+  "in_force": "2020-08-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A6%CE%A7%CE%A4%CE%A99%CE%A7-8%CE%A88",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A6%CE%A7%CE%A4%CE%A99%CE%A7-8%CE%A88/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A6%CE%A7%CE%A4%CE%A99%CE%A7-8%CE%A88",
+  "listing_sha256": "2d8ab60cdfcf3f042624debea97d9cc5b360df64a51a11359ab67cb0e819f1d7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
