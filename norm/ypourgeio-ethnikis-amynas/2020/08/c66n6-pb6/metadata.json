@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ66Ν6-ΠΒ6",
+  "subject": "ΑΠΟΦΑΣΗ ΠΑΡΑΤΑΣΗΣ GMS (1η ΕΚΤΕΛΕΣΤΙΚΗ ΤΗΣ 0057Γ/2018 Σ - Π)",
+  "protocol_number": "417790",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78138"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-08-13",
+  "posted": "2020-08-17",
+  "publish_timestamp_ms": 1597657293967,
+  "version_id": "bc7348ae-f1bd-41de-aabc-86e45d55daa1",
+  "in_force": "2020-08-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A866%CE%9D6-%CE%A0%CE%926",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A866%CE%9D6-%CE%A0%CE%926/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A866%CE%9D6-%CE%A0%CE%926",
+  "listing_sha256": "2d8ab60cdfcf3f042624debea97d9cc5b360df64a51a11359ab67cb0e819f1d7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
