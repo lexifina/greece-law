@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΙΧ7Λ7-ΞΣΥ",
+  "subject": "ΤΡΟΠΟΠΟΙΗΣΗ ΑΔΕΙΑΣ ΛΕΙΤΟΥΡΓΙΑΣ ΑΠΟΘΕΡΑΠΕΙΑΣ ΑΠΟΚΑΤΑΣΤΑΣΗΣ - ΚΛΕΙΣΤΗΣ & ΗΜΕΡΗΣΙΑΣ ΝΟΣΗΛΕΙΑΣ ΤΗΣ ΕΤΑΙΡΕΙΑΣ \"ΘΗΣΕΑΣ ΚΕΝΤΡΟ ΑΠΟΘΕΡΑΠΕΙΑΣ & ΑΠΟΚΑΤΑΣΤΑΣΗΣ Α.Ε.\"",
+  "protocol_number": "483392",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5002",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΑΤΤΙΚΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "78997"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3381",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-08-18",
+  "posted": "2020-08-18",
+  "publish_timestamp_ms": 1597734869149,
+  "version_id": "c6108cbf-9783-427a-886d-c3674c8c48a7",
+  "in_force": "2020-08-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%99%CE%A77%CE%9B7-%CE%9E%CE%A3%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%99%CE%A77%CE%9B7-%CE%9E%CE%A3%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%99%CE%A77%CE%9B7-%CE%9E%CE%A3%CE%A5",
+  "listing_sha256": "77c96652190da7cfcd2fd78a05aae193edc42361cc1b7aee7ca8e13509797f82",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
