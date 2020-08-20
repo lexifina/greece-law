@@ -1,0 +1,64 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΕΔΦ465ΧΘΟ-ΓΥΒ",
+  "subject": "Τροποποίηση της υπ'αρ. 16701/28-7-2014 κοινής απόφασης των Υπουργών Οικονομικών, Παιδείας και Θρησκευμάτων και Τουρισμού \"Ίδρυση Δημόσιων Ινστιτούτων Επαγγελματικής Κατάρτισης αρμοδιότητας Υπουργείου Τουρισμού\" (Β΄2107).",
+  "protocol_number": "12773",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025893",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΤΟΥΡΙΣΜΟΥ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008171"
+  ],
+  "thematic_category_ids": [
+    "32",
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3464",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "12773",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054501",
+        "unitId": [
+          "100021665"
+        ],
+        "signerIds": [
+          "100047809"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-08-20",
+  "posted": "2020-08-20",
+  "publish_timestamp_ms": 1597931288980,
+  "version_id": "bf989a83-cfcb-4e8d-858c-ce958c4c69cc",
+  "in_force": "2020-08-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%95%CE%94%CE%A6465%CE%A7%CE%98%CE%9F-%CE%93%CE%A5%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%95%CE%94%CE%A6465%CE%A7%CE%98%CE%9F-%CE%93%CE%A5%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%95%CE%94%CE%A6465%CE%A7%CE%98%CE%9F-%CE%93%CE%A5%CE%92",
+  "listing_sha256": "36c0e8889765756831f7c120188df34976b257941cbc25b7f9158389efd63de3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
