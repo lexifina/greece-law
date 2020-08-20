@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ0ΘΚΩΛΠ-5ΟΜ",
+  "subject": "Κυκλοφοριακές ρυθμίσεις επί της οδού Συντεχνιών",
+  "protocol_number": "23343",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6154",
+    "label": "ΔΗΜΟΣ ΚΟΖΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81187"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-08-20",
+  "posted": "2020-08-20",
+  "publish_timestamp_ms": 1597920184473,
+  "version_id": "259fcbeb-f0fb-4711-a585-6297e27261eb",
+  "in_force": "2020-08-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A80%CE%98%CE%9A%CE%A9%CE%9B%CE%A0-5%CE%9F%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A80%CE%98%CE%9A%CE%A9%CE%9B%CE%A0-5%CE%9F%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A80%CE%98%CE%9A%CE%A9%CE%9B%CE%A0-5%CE%9F%CE%9C",
+  "listing_sha256": "36c0e8889765756831f7c120188df34976b257941cbc25b7f9158389efd63de3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
