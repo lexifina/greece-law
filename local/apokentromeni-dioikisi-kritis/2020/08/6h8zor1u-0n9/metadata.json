@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Η8ΖΟΡ1Θ-0Ν9",
+  "subject": "ΔΑΣΙΚΗ ΑΣΤΥΝΟΜΙΚΗ ΔΙΑΤΑΞΗ ΒΟΣΚΗΣ",
+  "protocol_number": "5523/21-08-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76914"
+  ],
+  "thematic_category_ids": [
+    "56",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10003",
+    "kanonistikipraxiaa": "11/2020",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΗΠΕΟΡ1Θ-ΑΜΓ"
+      }
+    ]
+  },
+  "issued": "2020-08-24",
+  "posted": "2020-08-24",
+  "publish_timestamp_ms": 1598266305381,
+  "version_id": "2ef26d9e-16da-4974-8c74-d549f0a0e090",
+  "in_force": "2020-08-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%978%CE%96%CE%9F%CE%A11%CE%98-0%CE%9D9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%978%CE%96%CE%9F%CE%A11%CE%98-0%CE%9D9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%978%CE%96%CE%9F%CE%A11%CE%98-0%CE%9D9",
+  "listing_sha256": "33a59017dc2d2c121c002a16ad7d5a247caf03756eb7b2aa961ec73c071e54e0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
