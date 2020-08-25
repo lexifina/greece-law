@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "63ΑΥ46ΜΓΤΤ-ΦΙ6",
+  "subject": "Εξέταση αιτήματος επιχειρηματία για παραχώρηση κοινόχρηστου χώρου",
+  "protocol_number": "14482",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100049102",
+    "label": "ΔΗΜΟΣ ΑΡΓΟΣΤΟΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100059377"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-08-25",
+  "posted": "2020-08-25",
+  "publish_timestamp_ms": 1598348221535,
+  "version_id": "902e5da4-1556-4db5-aaeb-5618c6b1cef6",
+  "in_force": "2020-08-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/63%CE%91%CE%A546%CE%9C%CE%93%CE%A4%CE%A4-%CE%A6%CE%996",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/63%CE%91%CE%A546%CE%9C%CE%93%CE%A4%CE%A4-%CE%A6%CE%996/document",
+  "page": "https://diavgeia.gov.gr/decision/view/63%CE%91%CE%A546%CE%9C%CE%93%CE%A4%CE%A4-%CE%A6%CE%996",
+  "listing_sha256": "e2e58d3cca2f64d707df2a9e49f4c94bf32f79fab0cf4e620a8c4408bcbe2253",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
