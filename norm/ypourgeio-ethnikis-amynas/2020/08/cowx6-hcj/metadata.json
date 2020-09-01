@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟΩΧ6-ΗΨΞ",
+  "subject": "Πρόσκληση Στρατευσίμων 2020 Γ΄/ΕΣΣΟ ΠΝ ΤΡΟΠΟΠΟΙΗΣΗ ΚΕΝΤΡΟΥ ΚΑΤΑΤΑΞΗΣ",
+  "protocol_number": "421.1/48/311040",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70160"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΜΙ86-ΩΥΞ"
+      }
+    ]
+  },
+  "issued": "2020-08-31",
+  "posted": "2020-09-01",
+  "publish_timestamp_ms": 1598947198040,
+  "version_id": "d85212ca-0af8-4780-9768-8691feb4ad93",
+  "in_force": "2020-09-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%A9%CE%A76-%CE%97%CE%A8%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%A9%CE%A76-%CE%97%CE%A8%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F%CE%A9%CE%A76-%CE%97%CE%A8%CE%9E",
+  "listing_sha256": "174f467af246a5414babfd81a8b5f9e6c029bffcaab88da367405022d317c06c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
