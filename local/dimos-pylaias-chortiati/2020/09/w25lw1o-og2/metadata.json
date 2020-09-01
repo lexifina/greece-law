@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω25ΛΩ1Ο-ΟΓ2",
+  "subject": "«Ορισμός αμοιβής του δικηγόρου Αθηνών Ιωάννη Καραγκούνη για την αντίκρουση της αίτησης προσωρινής διαταγής και της αίτησης αναστολής του Συλλόγου Εργαζομένων Δήμου Πυλαίας – Χορτιάτη και Δημοτικών Επιχειρήσεων ΕΠΙΚΤΗΤΟΣ κλπ κατά του Δήμου Πυλαίας – Χορτιάτη κλπ ενώπιον του Συμβουλίου της Επικρατείας».",
+  "protocol_number": "303",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6257",
+    "label": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80520"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-01",
+  "posted": "2020-09-01",
+  "publish_timestamp_ms": 1598945959164,
+  "version_id": "fc0dcca8-5123-4881-9221-c20c8791df43",
+  "in_force": "2020-09-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A925%CE%9B%CE%A91%CE%9F-%CE%9F%CE%932",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A925%CE%9B%CE%A91%CE%9F-%CE%9F%CE%932/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A925%CE%9B%CE%A91%CE%9F-%CE%9F%CE%932",
+  "listing_sha256": "8320dad5d054ec974a6c1d579329199d8724a63121fcff7eae56a6a0f5cfedfb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
