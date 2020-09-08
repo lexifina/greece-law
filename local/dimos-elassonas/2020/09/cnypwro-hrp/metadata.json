@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΝΥΠΩΡΟ-ΗΡΠ",
+  "subject": "186-2020 ΕΓΚΡΙΣΗ ΜΕΤΑΤΟΠΙΣΗΣ ΠΕΡΙΠΤΕΡΟΥ ΣΤΗΝ ΚΟΙΝΟΤΗΤΑ ΕΛΑΣΣΟΝΑΣ",
+  "protocol_number": "186-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6087",
+    "label": "ΔΗΜΟΣ ΕΛΑΣΣΟΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83681"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "186-2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-08",
+  "posted": "2020-09-08",
+  "publish_timestamp_ms": 1599564542141,
+  "version_id": "aedaf08b-9a07-4cb5-a0f0-72ea2e85ddd3",
+  "in_force": "2020-09-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9D%CE%A5%CE%A0%CE%A9%CE%A1%CE%9F-%CE%97%CE%A1%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9D%CE%A5%CE%A0%CE%A9%CE%A1%CE%9F-%CE%97%CE%A1%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9D%CE%A5%CE%A0%CE%A9%CE%A1%CE%9F-%CE%97%CE%A1%CE%A0",
+  "listing_sha256": "51d1eed4e7d5a3caf49f00be5d0841f59d2b47bb993b5780c23d86c3d56edc00",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
