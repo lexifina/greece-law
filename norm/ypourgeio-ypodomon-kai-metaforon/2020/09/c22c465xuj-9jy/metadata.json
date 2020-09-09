@@ -1,0 +1,72 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ22Ψ465ΧΘΞ-9ΞΥ",
+  "subject": "Διαδικασία διαπίστωσης της ορθότητας της υποβληθείσας αίτησης για χορήγηση έκτακτης εφάπαξ ενίσχυσης στους πληγέντες από τις πλημμύρες της 8ης και 9ης Αυγούστου 2020 στην Περιφερειακή Ενότητα Εύβοιας και της ακρίβειας των δηλωθέντων στοιχείων και διαδικασία πληρωμής.",
+  "protocol_number": "Δ.Α.Ε.Φ.Κ.-Κ.Ε./οικ.6768 /Α380",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3778",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      },
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100047760"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-09-07",
+  "posted": "2020-09-09",
+  "publish_timestamp_ms": 1599645480192,
+  "version_id": "2238398d-bf6f-47a1-a2de-c9d369439dc2",
+  "in_force": "2020-09-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A822%CE%A8465%CE%A7%CE%98%CE%9E-9%CE%9E%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A822%CE%A8465%CE%A7%CE%98%CE%9E-9%CE%9E%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A822%CE%A8465%CE%A7%CE%98%CE%9E-9%CE%9E%CE%A5",
+  "listing_sha256": "460b2997a99e35553711992ccb5555f87c384a9d6bfc99b86332470208bf7f5a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
