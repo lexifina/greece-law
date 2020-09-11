@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΩ54Ω1Ν-Β7Σ",
+  "subject": "169/2020 Α.Δ.Σ.    Περί διατήρησης ή απομάκρυνσης περιπτέρου",
+  "protocol_number": "169",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6286",
+    "label": "ΔΗΜΟΣ ΣΠΑΡΤΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100033602"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-09",
+  "posted": "2020-09-11",
+  "publish_timestamp_ms": 1599817071475,
+  "version_id": "fed23e5f-3756-4436-afff-4ddd89fa1885",
+  "in_force": "2020-09-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A954%CE%A91%CE%9D-%CE%927%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A954%CE%A91%CE%9D-%CE%927%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A954%CE%A91%CE%9D-%CE%927%CE%A3",
+  "listing_sha256": "f53a70c7fecaf6509f5ff047baa967432809bf84bf106566b2da2669922457e2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
