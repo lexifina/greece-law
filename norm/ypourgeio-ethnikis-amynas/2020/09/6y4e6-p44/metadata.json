@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Υ4Ε6-Π44",
+  "subject": "ΠΡΟΜΗΘΕΙΑ ΥΛΙΚΟΥ ''ROTOR BRAKE'', ΣΥΓΚΡΟΤΗΜΑΤΟΣ ''MAIN ROTOR DRIVE'', Δ.56/20",
+  "protocol_number": "16860",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76874"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΤ0Τ6-Ν5Ζ"
+      }
+    ]
+  },
+  "issued": "2020-09-11",
+  "posted": "2020-09-11",
+  "publish_timestamp_ms": 1599810812552,
+  "version_id": "93fdc4ba-32c3-4112-a946-850e781d7579",
+  "in_force": "2020-09-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A54%CE%956-%CE%A044",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A54%CE%956-%CE%A044/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A54%CE%956-%CE%A044",
+  "listing_sha256": "58378442bcde34311d4100dfd4b0846097db02f9710997033005131451b7269c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
