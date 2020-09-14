@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "68ΒΡΗ-353",
+  "subject": "«Έκδοση Εντόκων Γραμματίων του Ελληνικού Δημοσίου διάρκειας 52 εβδομάδων στις 11/9/2020 μέσω δημόσιας εγγραφής».",
+  "protocol_number": "366",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3874",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "366",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-09",
+  "posted": "2020-09-14",
+  "publish_timestamp_ms": 1600085969648,
+  "version_id": "50c8a544-1944-4131-b3ed-53140c21e204",
+  "in_force": "2020-09-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/68%CE%92%CE%A1%CE%97-353",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/68%CE%92%CE%A1%CE%97-353/document",
+  "page": "https://diavgeia.gov.gr/decision/view/68%CE%92%CE%A1%CE%97-353",
+  "listing_sha256": "f53a70c7fecaf6509f5ff047baa967432809bf84bf106566b2da2669922457e2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
