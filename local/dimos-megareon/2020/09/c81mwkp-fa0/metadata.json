@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ81ΜΩΚΠ-ΦΑ0",
+  "subject": "Απόφαση Συμβουλίου Κοινότητας Ν. Περάμου 21-2020",
+  "protocol_number": "15681",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6188",
+    "label": "ΔΗΜΟΣ ΜΕΓΑΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80566"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-14",
+  "posted": "2020-09-14",
+  "publish_timestamp_ms": 1600075850143,
+  "version_id": "b8e0dd93-48bd-441e-978f-88e1c3f2dd9a",
+  "in_force": "2020-09-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A881%CE%9C%CE%A9%CE%9A%CE%A0-%CE%A6%CE%910",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A881%CE%9C%CE%A9%CE%9A%CE%A0-%CE%A6%CE%910/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A881%CE%9C%CE%A9%CE%9A%CE%A0-%CE%A6%CE%910",
+  "listing_sha256": "50415f88933e3d69e32ba2affd9ca73d0ee6fc8159194265af2fc73d3b7662c7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
