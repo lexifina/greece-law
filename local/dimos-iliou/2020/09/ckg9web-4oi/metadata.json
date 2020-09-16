@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚΓ9ΩΕΒ-4ΟΙ",
+  "subject": "τροποποίηση της αριθμ. 156/2020 Απόφασης Οικονομικής Επιτροπής.",
+  "protocol_number": "63149",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6123",
+    "label": "ΔΗΜΟΣ ΙΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79671"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "302",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-16",
+  "posted": "2020-09-16",
+  "publish_timestamp_ms": 1600239948483,
+  "version_id": "55b1533e-4804-4cb8-b938-f3ae1052db53",
+  "in_force": "2020-09-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%939%CE%A9%CE%95%CE%92-4%CE%9F%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%939%CE%A9%CE%95%CE%92-4%CE%9F%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A%CE%939%CE%A9%CE%95%CE%92-4%CE%9F%CE%99",
+  "listing_sha256": "2af72c567a5353a1f2615cdb9b0988d0166627ad0b75352e28a2f6b6a9ffdd93",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
