@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΘΔΓ465ΦΥΟ-2ΕΩ",
+  "subject": "Τροποποίηση Οργανισμού της οργανικής μονάδας έδρας (ΕΔΕΣΣΑ) του Γενικού Νοσοκομείου Πέλλας",
+  "protocol_number": "Γ2α/79633/19",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047539"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3911",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "100005000"
+        ],
+        "signerIds": [
+          "100047763"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100009868"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-09-04",
+  "posted": "2020-09-16",
+  "publish_timestamp_ms": 1600243608164,
+  "version_id": "c7a43b69-5d7d-4e8e-8b21-f8af46ba0f0f",
+  "in_force": "2020-09-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%98%CE%94%CE%93465%CE%A6%CE%A5%CE%9F-2%CE%95%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%98%CE%94%CE%93465%CE%A6%CE%A5%CE%9F-2%CE%95%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%98%CE%94%CE%93465%CE%A6%CE%A5%CE%9F-2%CE%95%CE%A9",
+  "listing_sha256": "24a2adc4d5c9634e24da21b94a72f759fc75c9716f977620dafeedae29753c76",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
