@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6910Ω16-Ρ32",
+  "subject": "AΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΥΠ. ΑΡΙΘΜΟΝ 457/2020 (ΠΕΡΙ  ΧΟΡΗΓΗΣΗΣ ΔΙΚΑΙΩΜΑΤΟΣ ΔΙΕΛΕΥΣΗΣ ΤΗΝ Ο.Τ.Ε. Α.Ε.)",
+  "protocol_number": "457",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6262",
+    "label": "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80640"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "10004",
+    "40"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "457/2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-14",
+  "posted": "2020-09-16",
+  "publish_timestamp_ms": 1600239072742,
+  "version_id": "20f7ccd1-c5fc-44e9-b4b3-4eb520a3927b",
+  "in_force": "2020-09-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6910%CE%A916-%CE%A132",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6910%CE%A916-%CE%A132/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6910%CE%A916-%CE%A132",
+  "listing_sha256": "44c6146e266f41d15c65ce7a2afdeeb590cd5fc8ae50fd133dba0bca3b4abf29",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
