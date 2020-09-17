@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΣΘΩ1Π-ΙΔ4",
+  "subject": "Ψήφιση του τεχνικού προγράμματος έτους 2020 του Δήμου Πύδνας-Κολινδρού",
+  "protocol_number": "112/02-09-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6256",
+    "label": "ΔΗΜΟΣ ΠΥΔΝΑΣ - ΚΟΛΙΝΔΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "77979"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "112/2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-02",
+  "posted": "2020-09-17",
+  "publish_timestamp_ms": 1600338283568,
+  "version_id": "cd4019d2-a587-42e8-b9fe-36f90215ccba",
+  "in_force": "2020-09-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A3%CE%98%CE%A91%CE%A0-%CE%99%CE%944",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A3%CE%98%CE%A91%CE%A0-%CE%99%CE%944/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%A3%CE%98%CE%A91%CE%A0-%CE%99%CE%944",
+  "listing_sha256": "b08aab4095fd72d2dc5595e75709ef3d7aeb270c278287b699356b13ed1432d9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
