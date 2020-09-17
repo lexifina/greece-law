@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΣΩ9ΩΨΒ-ΗΩ9",
+  "subject": "Αναδρομική έγκριση της άσκησης του ενδίκου μέσου της εφέσεως κατά της υπ αριθμ. 3847/2020 απόφασης του Μονομελούς Πρωτοδικείου Αθηνών.",
+  "protocol_number": "237-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82632"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-15",
+  "posted": "2020-09-17",
+  "publish_timestamp_ms": 1600326132986,
+  "version_id": "60eaf786-0798-4f8b-881c-c30604b50d53",
+  "in_force": "2020-09-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%A99%CE%A9%CE%A8%CE%92-%CE%97%CE%A99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%A99%CE%A9%CE%A8%CE%92-%CE%97%CE%A99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A3%CE%A99%CE%A9%CE%A8%CE%92-%CE%97%CE%A99",
+  "listing_sha256": "ff5bd6b3342946fccbc52946d1c3dd18bc8428502df074286ddf9455747920cc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
