@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΛΔΟΩ-8ΧΠ",
+  "subject": "ΠΡΟΚΗΡΥΞΗ ΕΚΛΟΓΩΝ ΓΙΑ ΤΗΝ ΑΝΑΔΕΙΞΗ ΑΙΡΕΤΩΝ ΕΚΠΡΟΣΩΠΩΝ ΤΩΝ ΔΙΚΑΣΤΙΚΩΝ ΥΠΑΛΛΗΛΩΝ ΣΤΑ ΥΠΗΡΕΣΙΑΚΑ ΣΥΜΒΟΥΛΙΑ ΤΟΥ α. 9 ΤΟΥ Ν. 2993/2002, ΟΠΩΣ ΙΣΧΥΕΙ, ΤΩΝ ΕΜΜΙΣΘΩΝ ΥΠΟΘΗΚΟΦΥΛΑΚΕΙΩΝ ΚΑΙ ΤΩΝ ΚΤΗΜΑΤΟΛΟΓΙΚΩΝ ΓΡΑΦΕΙΩΝ ΡΟΔΟΥ ΚΑΙ ΚΩ ΛΕΡΟΥ",
+  "protocol_number": "42435οικ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΔΙΚΑΙΟΣΥΝΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100011245"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3990",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-03",
+  "posted": "2020-09-18",
+  "publish_timestamp_ms": 1600413328741,
+  "version_id": "bf00e4f5-6a6c-4bd3-95a9-5900578f6d65",
+  "in_force": "2020-09-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B%CE%94%CE%9F%CE%A9-8%CE%A7%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B%CE%94%CE%9F%CE%A9-8%CE%A7%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9B%CE%94%CE%9F%CE%A9-8%CE%A7%CE%A0",
+  "listing_sha256": "04ca17f4bc5ce8b3206d6110f9013eeb32898a4d3161bb022c8821dd63b33a29",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
