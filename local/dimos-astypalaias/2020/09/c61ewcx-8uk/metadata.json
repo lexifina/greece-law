@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ61ΕΩΨΧ-8ΘΚ",
+  "subject": "Απόφαση Δημάρχου με θέμα «Έγκριση Ανάληψης Υποχρέωσης Πολυετούς Δαπάνης»",
+  "protocol_number": "6143",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6049",
+    "label": "ΔΗΜΟΣ ΑΣΤΥΠΑΛΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86532"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-18",
+  "posted": "2020-09-18",
+  "publish_timestamp_ms": 1600411317051,
+  "version_id": "d066b5c2-a0dd-40ca-9a7e-5b19483e38bd",
+  "in_force": "2020-09-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A861%CE%95%CE%A9%CE%A8%CE%A7-8%CE%98%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A861%CE%95%CE%A9%CE%A8%CE%A7-8%CE%98%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A861%CE%95%CE%A9%CE%A8%CE%A7-8%CE%98%CE%9A",
+  "listing_sha256": "7796b0dd34c91a2b5d969ee51613431723923d7eae1e475f1887cb07620fe2fd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
