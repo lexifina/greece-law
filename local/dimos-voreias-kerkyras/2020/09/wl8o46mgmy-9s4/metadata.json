@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΛ8Ο46ΜΓΜΥ-9Σ4",
+  "subject": "ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΚΑΘΗΚΟΝΤΩΝ",
+  "protocol_number": "5554",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100049339",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΕΡΚΥΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100050586"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-18",
+  "posted": "2020-09-18",
+  "publish_timestamp_ms": 1600423149568,
+  "version_id": "6ea494e0-88eb-4a47-9fd9-9e1a5579b062",
+  "in_force": "2020-09-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B8%CE%9F46%CE%9C%CE%93%CE%9C%CE%A5-9%CE%A34",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B8%CE%9F46%CE%9C%CE%93%CE%9C%CE%A5-9%CE%A34/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9B8%CE%9F46%CE%9C%CE%93%CE%9C%CE%A5-9%CE%A34",
+  "listing_sha256": "bbc811eed588b9456df9635126b0b80a1e0e03525e220d76f228f11c692f4be2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
