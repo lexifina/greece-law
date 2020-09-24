@@ -1,0 +1,89 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝ5ΛΗ-ΕΕ5",
+  "subject": "Τροποποίηση της υπ’ αρ. ΓΔΟΥ217/15.09.2020 κοινής απόφασης των Υπουργών Οικονομικών, Ανάπτυξης και Επενδύσεων και Εργασίας και Κοινωνικών Υποθέσεων «Αποζημίωση ειδικού σκοπού για την ενίσχυση επιχειρήσεων λόγω της εμφάνισης και διάδοσης του κορωνοϊού COVID-19, για τον μήνα Ιούλιο 2020» (Β΄3948)",
+  "protocol_number": "ΓΔΟΥ 223",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008361"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4077",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      },
+      {
+        "ministryId": "100054498",
+        "unitId": [
+          "100020574"
+        ],
+        "signerIds": [
+          "126721"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100052322"
+        ],
+        "signerIds": [
+          "100047801"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100047807"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-09-24",
+  "posted": "2020-09-24",
+  "publish_timestamp_ms": 1600929186800,
+  "version_id": "e19e0800-afbd-4191-a342-f2a9591cef69",
+  "in_force": "2020-09-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D5%CE%9B%CE%97-%CE%95%CE%955",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D5%CE%9B%CE%97-%CE%95%CE%955/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D5%CE%9B%CE%97-%CE%95%CE%955",
+  "listing_sha256": "1c802054bd028c1e77aaef10f9929e0eb5256c00ec6114832b26b6e76d267d15",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
