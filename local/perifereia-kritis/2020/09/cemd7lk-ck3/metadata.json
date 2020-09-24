@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΕΜΔ7ΛΚ-ΨΚ3",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ ΤΟΥ ΜΠΟΥΝΤΟΥΡΑΚΗ ΓΕΩΡΓΙΟΥ",
+  "protocol_number": "212616",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81209"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-24",
+  "posted": "2020-09-24",
+  "publish_timestamp_ms": 1600934260100,
+  "version_id": "0722e95e-beca-480c-8ef2-7e9c5dd0ae1c",
+  "in_force": "2020-09-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%9C%CE%947%CE%9B%CE%9A-%CE%A8%CE%9A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%9C%CE%947%CE%9B%CE%9A-%CE%A8%CE%9A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%95%CE%9C%CE%947%CE%9B%CE%9A-%CE%A8%CE%9A3",
+  "listing_sha256": "1c802054bd028c1e77aaef10f9929e0eb5256c00ec6114832b26b6e76d267d15",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
