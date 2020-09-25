@@ -1,0 +1,50 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΖΖΔ465ΦΥΟ-18Ψ",
+  "subject": "Τροποποίηση της με αριθ. Δ1α/ΓΠ.οικ.22817/6.4.2020 κοινής υπουργικής απόφασης των υπουργών Οικονομικών, Ανάπτυξης και Επενδύσεων και Υγείας με θέμα «Περί λεπτομερειών σύστασης και περί συγκρότησης και λειτουργίας Κινητών Ομάδων Υγείας (Κ.ΟΜ.Υ.) Ειδικού Σκοπού για την αντιμετώπιση εκτάκτων αναγκών από την εμφάνιση και διάδοση του κορωνοϊού COVID-19» (B’ 1177)",
+  "protocol_number": "58069",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047541"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4072",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054495"
+      },
+      {
+        "ministryId": "15"
+      }
+    ]
+  },
+  "issued": "2020-09-21",
+  "posted": "2020-09-25",
+  "publish_timestamp_ms": 1601028143238,
+  "version_id": "0ee17107-2ebd-4523-a131-acfe55b51c9f",
+  "in_force": "2020-09-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%96%CE%96%CE%94465%CE%A6%CE%A5%CE%9F-18%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%96%CE%96%CE%94465%CE%A6%CE%A5%CE%9F-18%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%96%CE%96%CE%94465%CE%A6%CE%A5%CE%9F-18%CE%A8",
+  "listing_sha256": "9b5bf6c9149976f33ca4af4013fcecf187c2a3ebaad28d3928493aa916f2443c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
