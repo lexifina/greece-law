@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ5ΗΝΩΛΒ-6ΧΘ",
+  "subject": "Διακοπή λειτουργίας της Κοινωνικής Υπηρεσίας του Δήμου λόγω κρουσμάτων COVID 19",
+  "protocol_number": "37098",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6157",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΘΕΡΙΟΥ ΚΟΡΔΕΛΙΟΥ ΕΥΟΣΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93345"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-25",
+  "posted": "2020-09-25",
+  "publish_timestamp_ms": 1601032655786,
+  "version_id": "c0239ccf-c01d-44da-ad44-bc6071062af5",
+  "in_force": "2020-09-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A85%CE%97%CE%9D%CE%A9%CE%9B%CE%92-6%CE%A7%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A85%CE%97%CE%9D%CE%A9%CE%9B%CE%92-6%CE%A7%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A85%CE%97%CE%9D%CE%A9%CE%9B%CE%92-6%CE%A7%CE%98",
+  "listing_sha256": "e5957aeb32425a186025c546a7e52075f6466b50142118cb74316606b104d306",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
