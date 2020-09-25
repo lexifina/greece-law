@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "62Η0Ω9Ν-99Δ",
+  "subject": "Ανάκληση στη Διαύγεια του συνημμένου αρχείου pdf της με αριθ. 216/2020 απόφασης Δημάρχου με αριθ. πρωτ. 8358/18-09-2020 και ΑΔΑ: 98ΒΜΩ9Ν-ΛΥ1.",
+  "protocol_number": "8662",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6082",
+    "label": "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΑΧΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85399"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "98ΒΜΩ9Ν-ΛΥ1"
+      }
+    ]
+  },
+  "issued": "2020-09-25",
+  "posted": "2020-09-25",
+  "publish_timestamp_ms": 1601024482363,
+  "version_id": "11d65f5b-ed36-499b-bd7f-b792cc78c326",
+  "in_force": "2020-09-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/62%CE%970%CE%A99%CE%9D-99%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/62%CE%970%CE%A99%CE%9D-99%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/62%CE%970%CE%A99%CE%9D-99%CE%94",
+  "listing_sha256": "e5957aeb32425a186025c546a7e52075f6466b50142118cb74316606b104d306",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
