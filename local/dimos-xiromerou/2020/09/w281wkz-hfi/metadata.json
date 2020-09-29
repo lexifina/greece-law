@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω281ΩΚΖ-ΗΦΙ",
+  "subject": "ΑΠΟΦΑΣΗ  ΔΗΜΑΡΧΟΥ 192 /2020 ΤΟΠΟΘΕΤΗΣΗ ΕΠΙΛΕΓΕΝΤΩΝ ΤΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ ΚΟΙΝΩΦΕΛΟΥΣ ΧΑΡΑΚΤΗΡΑ 04/2020 \n Ο.Α.Ε.Δ.",
+  "protocol_number": "7785",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6221",
+    "label": "ΔΗΜΟΣ ΞΗΡΟΜΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "11123"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω2Χ64691Ω2-ΥΤ6"
+      }
+    ]
+  },
+  "issued": "2020-09-29",
+  "posted": "2020-09-29",
+  "publish_timestamp_ms": 1601387903650,
+  "version_id": "d976fa76-ac46-4f52-9b5c-cc5b1bd175d7",
+  "in_force": "2020-09-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9281%CE%A9%CE%9A%CE%96-%CE%97%CE%A6%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9281%CE%A9%CE%9A%CE%96-%CE%97%CE%A6%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9281%CE%A9%CE%9A%CE%96-%CE%97%CE%A6%CE%99",
+  "listing_sha256": "86b6ede1a5a32c8ac7c8cac5ba52a66ea0596c3b5f047a013f684eb6eba796ea",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
