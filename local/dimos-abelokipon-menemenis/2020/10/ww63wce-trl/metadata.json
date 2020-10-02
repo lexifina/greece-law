@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΩ63ΩΨΕ-ΤΡΛ",
+  "subject": "Άρση  πρόσληψης - τοποθέτησης στον Δήμο μας του ΤΣΑΚΛΟΒ ΧΡΙΣΤΟΦΟΡΟΥ απο το  προγράμμα Κοινωφελούς Χαρακτήρα",
+  "protocol_number": "1354_2020 ΑΔ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6028",
+    "label": "ΔΗΜΟΣ ΑΜΠΕΛΟΚΗΠΩΝ - ΜΕΝΕΜΕΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79035"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΦΓ2ΩΨΕ-Κ3Λ"
+      }
+    ]
+  },
+  "issued": "2020-10-02",
+  "posted": "2020-10-02",
+  "publish_timestamp_ms": 1601635239401,
+  "version_id": "0b7dd0cb-b66b-425c-a11c-048aeeb93c67",
+  "in_force": "2020-10-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A963%CE%A9%CE%A8%CE%95-%CE%A4%CE%A1%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A963%CE%A9%CE%A8%CE%95-%CE%A4%CE%A1%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A963%CE%A9%CE%A8%CE%95-%CE%A4%CE%A1%CE%9B",
+  "listing_sha256": "d540eeddb8be59376c58521645ce3b1dcf3e1179d8cf55d86a3a5e3c16ac7870",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
