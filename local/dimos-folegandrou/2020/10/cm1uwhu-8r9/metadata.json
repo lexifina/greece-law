@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΜ1ΘΩΗΘ-8Ρ9",
+  "subject": "ΕΑΔ 240 / 2020\nΠρομήθεια πινακίδων σήμανσης",
+  "protocol_number": "1518/2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6310",
+    "label": "ΔΗΜΟΣ ΦΟΛΕΓΑΝΔΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100045542"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-10-05",
+  "posted": "2020-10-05",
+  "publish_timestamp_ms": 1601891481222,
+  "version_id": "12947ae7-84e5-4b37-ab64-b2c2ae55b747",
+  "in_force": "2020-10-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9C1%CE%98%CE%A9%CE%97%CE%98-8%CE%A19",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9C1%CE%98%CE%A9%CE%97%CE%98-8%CE%A19/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9C1%CE%98%CE%A9%CE%97%CE%98-8%CE%A19",
+  "listing_sha256": "303f8aa0aa4752dc11262ea367387c0c5c91e237b912d99179846efa4b3f56d2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
