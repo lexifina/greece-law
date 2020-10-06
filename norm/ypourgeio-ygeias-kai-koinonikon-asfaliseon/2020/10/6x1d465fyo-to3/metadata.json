@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Χ1Δ465ΦΥΟ-ΤΟ3",
+  "subject": "Υπαγωγή ουσιών στις διατάξεις του Ν. 3459/2006 «Κώδικας Νόμων για τα Ναρκωτικά\n(Κ.Ν.Ν)», όπως τροποποιήθηκε και ισχύει με τον Ν.4139/13 «Νόμος περί εξαρτησιογόνων\nουσιών και άλλες διατάξεις».",
+  "protocol_number": "Δ3(γ)οικ.58100/21-9-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047546"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4175",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "5",
+        "unitId": [
+          "100032664"
+        ],
+        "signerIds": [
+          "100047871"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-10-06",
+  "posted": "2020-10-06",
+  "publish_timestamp_ms": 1601971327726,
+  "version_id": "e574ef4b-a804-4ad3-9e05-9b561749e655",
+  "in_force": "2020-10-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A71%CE%94465%CE%A6%CE%A5%CE%9F-%CE%A4%CE%9F3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A71%CE%94465%CE%A6%CE%A5%CE%9F-%CE%A4%CE%9F3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A71%CE%94465%CE%A6%CE%A5%CE%9F-%CE%A4%CE%9F3",
+  "listing_sha256": "8e3ca08efc1d56aab350ee472d17c50cef86933691993d22b0794007bdf52a53",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
