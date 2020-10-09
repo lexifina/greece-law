@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω179Ω16-67Σ",
+  "subject": "AΠΟΦΑΣΗ Δ.Σ. ΥΠ.ΑΡΙΘΜΟΝ 173/2020 (Λήψη απόφασης περί σταδιακής διακοπής διέλευσης οχημάτων σε οδούς των σχολικών συγκροτημάτων του 1ου και 3ου Δημοτικού & Νηπιαγωγείου Ραφήνας)",
+  "protocol_number": "173",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6262",
+    "label": "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100007442"
+  ],
+  "thematic_category_ids": [
+    "48",
+    "32",
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "173/2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-29",
+  "posted": "2020-10-09",
+  "publish_timestamp_ms": 1602231435909,
+  "version_id": "6bb639b3-db68-4341-9700-ded0bfd30f2d",
+  "in_force": "2020-10-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9179%CE%A916-67%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9179%CE%A916-67%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9179%CE%A916-67%CE%A3",
+  "listing_sha256": "86b6ede1a5a32c8ac7c8cac5ba52a66ea0596c3b5f047a013f684eb6eba796ea",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
