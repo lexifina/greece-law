@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΓΖ07ΛΗ-ΜΧΠ",
+  "subject": "ΕΓΚΡΙΣΗ ΑΠΕ",
+  "protocol_number": "211236/12441",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5013",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "100032263"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-10-12",
+  "posted": "2020-10-12",
+  "publish_timestamp_ms": 1602490625236,
+  "version_id": "05141b18-b58c-4bc6-a6dd-08df9d12f580",
+  "in_force": "2020-10-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%93%CE%9607%CE%9B%CE%97-%CE%9C%CE%A7%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%93%CE%9607%CE%9B%CE%97-%CE%9C%CE%A7%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%93%CE%9607%CE%9B%CE%97-%CE%9C%CE%A7%CE%A0",
+  "listing_sha256": "bfd11a95c02c73dd10ac5fa2cf7bdcdf55fc53dced6c679f8beded594988cfea",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
