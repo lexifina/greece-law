@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ7ΒΘ46ΜΔΨΟ-ΔΡΠ",
+  "subject": "Καθορισμός τύπου και περιεχoμένου της βεβαίωσης του έκτου εδαφίου της περίπτωσης 2 της παρ. Β του άρθρου 20 του ν.4251/2014, όπως ισχύει",
+  "protocol_number": "32802/2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100056663",
+    "label": "ΥΠΟΥΡΓΕΙΟ  ΜΕΤΑΝΑΣΤΕΥΣΗΣ ΚΑΙ ΑΣΥΛΟΥ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100056693"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4483",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "32802/2020",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "126841"
+        ]
+      },
+      {
+        "ministryId": "5",
+        "unitId": [
+          "100048517"
+        ],
+        "signerIds": [
+          "100047871"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-10-08",
+  "posted": "2020-10-13",
+  "publish_timestamp_ms": 1602585088242,
+  "version_id": "36c1348e-693e-4f95-95ff-5350f569ebc4",
+  "in_force": "2020-10-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A87%CE%92%CE%9846%CE%9C%CE%94%CE%A8%CE%9F-%CE%94%CE%A1%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A87%CE%92%CE%9846%CE%9C%CE%94%CE%A8%CE%9F-%CE%94%CE%A1%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A87%CE%92%CE%9846%CE%9C%CE%94%CE%A8%CE%9F-%CE%94%CE%A1%CE%A0",
+  "listing_sha256": "d13dedac2de52dfa1bfcc1aa82da69034eb7a86d479b1baf86e7d5905338a75c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
