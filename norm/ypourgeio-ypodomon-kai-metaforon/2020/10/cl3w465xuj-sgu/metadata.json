@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΛ3Ω465ΧΘΞ-ΣΓΘ",
+  "subject": "Προθεσμίες και διαδικασία χορήγησης στεγαστικής συνδρομής για ανακατασκευή, αυτοστέγαση, αποπεράτωση και επισκευή kτηρίων που έχουν πληγεί από τις πλημμύρες και τον ανεμοστρόβιλο της 17ης έως και 19ης Σεπτεμβρίου 2020, σε περιοχές των Περιφερειακών Ενοτήτων Κεφαλληνίας, Ζακύνθου, Ιθάκης και Λευκάδας της Περιφέρειας Ιονίων Νήσων.",
+  "protocol_number": "ΔΑΕΦΚ-ΚΕ/οικ.10507/A321",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4485",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-10-13",
+  "posted": "2020-10-13",
+  "publish_timestamp_ms": 1602575533253,
+  "version_id": "2fbe951b-5a4d-4239-801c-502778646834",
+  "in_force": "2020-10-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B3%CE%A9465%CE%A7%CE%98%CE%9E-%CE%A3%CE%93%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B3%CE%A9465%CE%A7%CE%98%CE%9E-%CE%A3%CE%93%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9B3%CE%A9465%CE%A7%CE%98%CE%9E-%CE%A3%CE%93%CE%98",
+  "listing_sha256": "6285dc66016e85b49caa755f9446b1e2b1cfade823d675fb9017446704fd4666",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
