@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΚΦΛΩΡ6-ΞΤ1",
+  "subject": "Λήψη απόφασης για την παραχώρηση αιθουσών στο 2ο ΕΠΑΛ Πτολεμαϊδας",
+  "protocol_number": "ΔΕΠ 25/2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6092",
+    "label": "ΔΗΜΟΣ ΕΟΡΔΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "89129"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-10-13",
+  "posted": "2020-10-13",
+  "publish_timestamp_ms": 1602566343196,
+  "version_id": "7c7d9aa7-cf83-41d1-9d6b-8f79c58528e8",
+  "in_force": "2020-10-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%A6%CE%9B%CE%A9%CE%A16-%CE%9E%CE%A41",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A%CE%A6%CE%9B%CE%A9%CE%A16-%CE%9E%CE%A41/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9A%CE%A6%CE%9B%CE%A9%CE%A16-%CE%9E%CE%A41",
+  "listing_sha256": "fc721317ee74ed924e666dd1a7361b29b964bff888e4cbf0b6b7f7493e47971c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
