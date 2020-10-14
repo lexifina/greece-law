@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ72Η4653ΠΓ-ΧΧΑ",
+  "subject": "Περιλαμβάνεται το έντυπο γνωστοποίησης, που υποβάλλεται στην αρμόδια ΔΑΟΚ, στο οποίο περιέχονται όλα τα απαραίτητα στοιχεία για τη λειτουργία της κτηνοτροφικής εγκατάστασης.",
+  "protocol_number": "1276/272404",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100034235"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4458",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-09-30",
+  "posted": "2020-10-14",
+  "publish_timestamp_ms": 1602661491866,
+  "version_id": "7a603563-722d-4763-a7c5-9e4edd54f1e2",
+  "in_force": "2020-10-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A872%CE%974653%CE%A0%CE%93-%CE%A7%CE%A7%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A872%CE%974653%CE%A0%CE%93-%CE%A7%CE%A7%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A872%CE%974653%CE%A0%CE%93-%CE%A7%CE%A7%CE%91",
+  "listing_sha256": "1f37cea1ad658f75118c1de5c761ce3b3059b3b294e896c25bf4eec6b8a6cdc5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
