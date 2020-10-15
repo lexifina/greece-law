@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΩΧ8ΩΨΨ-622",
+  "subject": "Περί χορήγηση παράτασης προθεσμίας εκτέλεσης έργου",
+  "protocol_number": "180-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6025",
+    "label": "ΔΗΜΟΣ ΑΜΑΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86038"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-10-09",
+  "posted": "2020-10-15",
+  "publish_timestamp_ms": 1602762931961,
+  "version_id": "0e3af3b4-9702-4d83-9fd5-317939130dd9",
+  "in_force": "2020-10-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A9%CE%A78%CE%A9%CE%A8%CE%A8-622",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A9%CE%A78%CE%A9%CE%A8%CE%A8-622/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A9%CE%A78%CE%A9%CE%A8%CE%A8-622",
+  "listing_sha256": "3bb1c95f0e9126dd8be746ce9f7e997f75183d5750c9925bba91bc842c206920",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
