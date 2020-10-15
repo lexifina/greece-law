@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΛΦΚΩ1Ι-ΥΡ9",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ για απευθείας ανάθεση για επισκευή συντήρηση αφαλάτωσης",
+  "protocol_number": "113",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6275",
+    "label": "ΔΗΜΟΣ ΣΙΚΙΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100001367"
+  ],
+  "thematic_category_ids": [
+    "64"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-10-05",
+  "posted": "2020-10-15",
+  "publish_timestamp_ms": 1602741096829,
+  "version_id": "4308ef81-02ea-4e67-85eb-3e4e4005f51e",
+  "in_force": "2020-10-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%A6%CE%9A%CE%A91%CE%99-%CE%A5%CE%A19",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9B%CE%A6%CE%9A%CE%A91%CE%99-%CE%A5%CE%A19/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9B%CE%A6%CE%9A%CE%A91%CE%99-%CE%A5%CE%A19",
+  "listing_sha256": "8e0bf21760aba0a7ca3b6bc90f431bac0d7ff5ad5085ee9f6bcc20056374008d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
