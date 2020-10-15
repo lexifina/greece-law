@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΛΕ846ΜΤΛΒ-Ρ1Ε",
+  "subject": "Τροποποίηση της υπ’ αριθ. 6999/3/2−στ΄ από 02-09-2010 κ.υ.α. «Βασική εκπαίδευση κατατασσόμενων στις Αστυνομικές Σχολές» (Β΄ 1386)",
+  "protocol_number": "6500/2/6-λα΄",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054489",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100011665"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4526",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "6",
+        "unitId": [
+          "71398"
+        ],
+        "signerIds": [
+          "100048031"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-10-14",
+  "posted": "2020-10-15",
+  "publish_timestamp_ms": 1602742746946,
+  "version_id": "771eede2-8494-4472-812c-d75dc39b064e",
+  "in_force": "2020-10-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B%CE%95846%CE%9C%CE%A4%CE%9B%CE%92-%CE%A11%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B%CE%95846%CE%9C%CE%A4%CE%9B%CE%92-%CE%A11%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9B%CE%95846%CE%9C%CE%A4%CE%9B%CE%92-%CE%A11%CE%95",
+  "listing_sha256": "fed592228837b74af6e6431fddab469637d747176c6c33e68e95963d5fcda380",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
