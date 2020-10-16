@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ9Θ5ΟΡ1Φ-ΖΞΟ",
+  "subject": "Δημοσίευση μιας (01) Αποφάσεως αύξησης ωραρίου εργασίας υπαλλήλων στην Εφημερίδα της Κυβερνήσεως.",
+  "protocol_number": "167809",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76448"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4402",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-28",
+  "posted": "2020-10-16",
+  "publish_timestamp_ms": 1602848913188,
+  "version_id": "8427ba5a-4352-4be6-8c8c-ca93044bcf4c",
+  "in_force": "2020-10-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A89%CE%985%CE%9F%CE%A11%CE%A6-%CE%96%CE%9E%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A89%CE%985%CE%9F%CE%A11%CE%A6-%CE%96%CE%9E%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A89%CE%985%CE%9F%CE%A11%CE%A6-%CE%96%CE%9E%CE%9F",
+  "listing_sha256": "6b9d7a8782b6f4361928fd0b2c05254c3f84d55d1bb2d91c1a60a3b803653659",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
