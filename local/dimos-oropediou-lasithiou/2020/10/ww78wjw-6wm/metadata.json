@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΩ78ΩΞΩ-6ΩΜ",
+  "subject": "Πρόσληψη προσωπικού για την αντιμετώπιση απρόβλεπτων και επειγουσών αναγκών.",
+  "protocol_number": "83",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6227",
+    "label": "ΔΗΜΟΣ ΟΡΟΠΕΔΙΟΥ ΛΑΣΙΘΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85143"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-10-09",
+  "posted": "2020-10-20",
+  "publish_timestamp_ms": 1603194779366,
+  "version_id": "893e168d-bfe6-4981-beb8-ddbc9c06c81d",
+  "in_force": "2020-10-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A978%CE%A9%CE%9E%CE%A9-6%CE%A9%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A978%CE%A9%CE%9E%CE%A9-6%CE%A9%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A978%CE%A9%CE%9E%CE%A9-6%CE%A9%CE%9C",
+  "listing_sha256": "3bb1c95f0e9126dd8be746ce9f7e997f75183d5750c9925bba91bc842c206920",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
