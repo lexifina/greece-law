@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ο28465ΧΘΞ-ΚΑΨ",
+  "subject": "Προσωρινά μέτρα για τη θέση σε κυκλοφορία μοτοσικλετών, επιβατικών οχημάτων, φορτηγών και λεωφορείων σε περίπτωση μη λειτουργίας του πληροφοριακού συστήματος αδειών κυκλοφορίας του Υπουργείου Υποδομών και Μεταφορών.",
+  "protocol_number": "72217",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70354"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΨΜΘ465ΧΘΞ-ΚΔ9"
+      },
+      {
+        "relatedDecisionsADA": "ΩΞΝΚ465ΧΘΞ-ΖΘΔ"
+      }
+    ]
+  },
+  "issued": "2020-10-19",
+  "posted": "2020-10-20",
+  "publish_timestamp_ms": 1603175253753,
+  "version_id": "1716c7fc-1ec9-4287-9083-90357664d026",
+  "in_force": "2020-10-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F28465%CE%A7%CE%98%CE%9E-%CE%9A%CE%91%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F28465%CE%A7%CE%98%CE%9E-%CE%9A%CE%91%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9F28465%CE%A7%CE%98%CE%9E-%CE%9A%CE%91%CE%A8",
+  "listing_sha256": "7a98a1411e29b6b996e8ee4b1a1a21145e9c173bcf347019b84438d6e7a005c9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
