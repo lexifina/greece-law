@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΙ5Η-ΝΑΑ",
+  "subject": "«Απόφαση επανέκδοσης ομολόγου του Ελληνικού Δημοσίου διάρκειας 15 ετών μέσω κοινοπραξίας»",
+  "protocol_number": "410",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4614",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "410",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-10-19",
+  "posted": "2020-10-21",
+  "publish_timestamp_ms": 1603265487480,
+  "version_id": "22249285-5894-458b-8e82-a3050a7f0362",
+  "in_force": "2020-10-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%995%CE%97-%CE%9D%CE%91%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%995%CE%97-%CE%9D%CE%91%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%995%CE%97-%CE%9D%CE%91%CE%91",
+  "listing_sha256": "7a98a1411e29b6b996e8ee4b1a1a21145e9c173bcf347019b84438d6e7a005c9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
