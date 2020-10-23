@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "67ΡΡΩ0Ο-55Σ",
+  "subject": "« Λήψη απόφασης για μη άσκηση ενδίκου μέσου κατά της με αριθ.313/2020 διαταγής πληρωμής του Πρωτοδικείου Ηρακλείου».",
+  "protocol_number": "839/2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81432"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "839/2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-10-20",
+  "posted": "2020-10-23",
+  "publish_timestamp_ms": 1603438808863,
+  "version_id": "54b4d1c2-a7af-4556-9735-20f8800548a0",
+  "in_force": "2020-10-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/67%CE%A1%CE%A1%CE%A90%CE%9F-55%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/67%CE%A1%CE%A1%CE%A90%CE%9F-55%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/67%CE%A1%CE%A1%CE%A90%CE%9F-55%CE%A3",
+  "listing_sha256": "57959f66f0c2e2b6c3e907296fce968c4f1574c13d794f50873f54805b4800fd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
