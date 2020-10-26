@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ40Κ4653Π8-Μ45",
+  "subject": "Καθορισμός αρμόδιων φορέων, μέτρων και διαδικασιών για την εφαρμογή του Κανονισμού (ΕΚ) αριθμ. 1221/2009 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 25ης Νοεμβρίου 2009 για την εκούσια συμμετοχή οργανισμών σε κοινοτικό σύστημα οικολογικής διαχείρισης και ελέγχου EMAS (Εco-, Management and Audit Scheme)",
+  "protocol_number": "100348",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035647"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4675",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-10-19",
+  "posted": "2020-10-26",
+  "publish_timestamp_ms": 1603698233183,
+  "version_id": "f0b5b1e6-d3c3-43c9-9951-5566f2a0171c",
+  "in_force": "2020-10-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A840%CE%9A4653%CE%A08-%CE%9C45",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A840%CE%9A4653%CE%A08-%CE%9C45/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A840%CE%9A4653%CE%A08-%CE%9C45",
+  "listing_sha256": "7a98a1411e29b6b996e8ee4b1a1a21145e9c173bcf347019b84438d6e7a005c9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
