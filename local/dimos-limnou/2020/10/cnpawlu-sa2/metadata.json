@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΝΠΑΩΛΘ-ΣΑ2",
+  "subject": "ΘΕΜΑ:  Απόφαση έγκρισης του 2ου Π.Π.Α.Ε που συνοδεύεται από την 2η αναλυτική \n              επιμέτρηση\nΕΡΓΟ:  «Επισκευή κρηπιδώματος βόρειου προσήνεμου μώλου παλαιού λιμένα Μύρινας  και αντικατάσταση υδροηλεκτροδιανομέων»",
+  "protocol_number": "11643",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6174",
+    "label": "ΔΗΜΟΣ ΛΗΜΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81217"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-10-26",
+  "posted": "2020-10-26",
+  "publish_timestamp_ms": 1603706929652,
+  "version_id": "3fbf7c58-9a2d-48b5-a565-5c19fc89e3af",
+  "in_force": "2020-10-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9D%CE%A0%CE%91%CE%A9%CE%9B%CE%98-%CE%A3%CE%912",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9D%CE%A0%CE%91%CE%A9%CE%9B%CE%98-%CE%A3%CE%912/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9D%CE%A0%CE%91%CE%A9%CE%9B%CE%98-%CE%A3%CE%912",
+  "listing_sha256": "1865b999112cdab19cb9edc00b89c2f620b83fda8d5e9d5a730c637dc743cdc8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
