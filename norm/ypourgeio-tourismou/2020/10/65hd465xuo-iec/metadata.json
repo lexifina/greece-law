@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "65ΗΔ465ΧΘΟ-ΙΕΨ",
+  "subject": "Τροποποίηση της υπ΄ αρ. 16597/29.12.2010 Απόφασης Υπουργών Υποδομών, Μεταφορών και Δικτύων και Πολιτισμού και Τουρισμού με τίτλο «Όροι και προϋποθέσεις σύστασης και λειτουργίας επιχειρήσεων εκμίσθωσης επιβατηγών αυτοκινήτων Ιδιωτικής Χρήσης (Ι.Χ.), χωρίς οδηγό (Β’2156)» όπως ισχύει.",
+  "protocol_number": "15807",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025893",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΤΟΥΡΙΣΜΟΥ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035533"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4689",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025905",
+        "unitId": [
+          "100047007"
+        ],
+        "signerIds": [
+          "100048080"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-10-27",
+  "posted": "2020-10-27",
+  "publish_timestamp_ms": 1603779574762,
+  "version_id": "df799dbe-e568-4b35-b191-08a4cb8087a0",
+  "in_force": "2020-10-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/65%CE%97%CE%94465%CE%A7%CE%98%CE%9F-%CE%99%CE%95%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/65%CE%97%CE%94465%CE%A7%CE%98%CE%9F-%CE%99%CE%95%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/65%CE%97%CE%94465%CE%A7%CE%98%CE%9F-%CE%99%CE%95%CE%A8",
+  "listing_sha256": "b348f3f1ab48958b276846635abeeb585b75eb8687430706e3c595a5f57d0a16",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
