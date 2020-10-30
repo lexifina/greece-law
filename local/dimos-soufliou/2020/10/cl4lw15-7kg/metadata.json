@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΛ4ΛΩ15-7ΚΓ",
+  "subject": "Ορισμός συντονιστών διαχείρισης κρούσματος  COVID-19",
+  "protocol_number": "10508",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6284",
+    "label": "ΔΗΜΟΣ ΣΟΥΦΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100021003"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-10-30",
+  "posted": "2020-10-30",
+  "publish_timestamp_ms": 1604058722188,
+  "version_id": "0256b547-11bc-481d-a455-f4328a61fcd0",
+  "in_force": "2020-10-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B4%CE%9B%CE%A915-7%CE%9A%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B4%CE%9B%CE%A915-7%CE%9A%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9B4%CE%9B%CE%A915-7%CE%9A%CE%93",
+  "listing_sha256": "7558fd787b03c9abac5fa5ebe3d541874bac9dea7ecc03dc40cae00770ae6f97",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
