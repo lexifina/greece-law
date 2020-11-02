@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΨΓΛ4653Π8-Τ0Φ",
+  "subject": "Μεταφορά αρμοδιοτήτων υπηρεσιών του Υπουργείου Περιβάλλοντος και Ενέργειας στην Υπηρεσία Συντονισμού του ίδιου Υπουργείου.",
+  "protocol_number": "75906",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035647"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4784",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-10-19",
+  "posted": "2020-11-02",
+  "publish_timestamp_ms": 1604319032874,
+  "version_id": "da04c2e7-cb41-4f1c-bada-d9bcf76a3cb5",
+  "in_force": "2020-11-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%93%CE%9B4653%CE%A08-%CE%A40%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%93%CE%9B4653%CE%A08-%CE%A40%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A8%CE%93%CE%9B4653%CE%A08-%CE%A40%CE%A6",
+  "listing_sha256": "7a98a1411e29b6b996e8ee4b1a1a21145e9c173bcf347019b84438d6e7a005c9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
