@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΞ73ΩΞ2-3Β2",
+  "subject": "Ορισμός Ειδικού Συμβούλου για την παροχή συμβουλών και την διατύπωση εξειδικευμένων γνωμών, σε θέματα υγείας",
+  "protocol_number": "46780",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78010"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-11-03",
+  "posted": "2020-11-03",
+  "publish_timestamp_ms": 1604392908184,
+  "version_id": "c625d072-6d71-4429-9569-9e3c1af66233",
+  "in_force": "2020-11-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E73%CE%A9%CE%9E2-3%CE%922",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E73%CE%A9%CE%9E2-3%CE%922/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9E73%CE%A9%CE%9E2-3%CE%922",
+  "listing_sha256": "da76a5e80cca21a4c70073358c4f95d86890b418e31f890f32effd9e36ff19fd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
