@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΣΩΞΩ94-ΞΧΟ",
+  "subject": "Απόφαση Μετακίνηση Υπαλλήλων Γκούλιου Χετζάκη.",
+  "protocol_number": "6426",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6054",
+    "label": "ΔΗΜΟΣ ΒΙΑΝΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81442"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "677",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-11-03",
+  "posted": "2020-11-03",
+  "publish_timestamp_ms": 1604407047419,
+  "version_id": "e8ee6f9b-a615-43bc-a0a3-f029bfb6476e",
+  "in_force": "2020-11-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A3%CE%A9%CE%9E%CE%A994-%CE%9E%CE%A7%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A3%CE%A9%CE%9E%CE%A994-%CE%9E%CE%A7%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A3%CE%A9%CE%9E%CE%A994-%CE%9E%CE%A7%CE%9F",
+  "listing_sha256": "da76a5e80cca21a4c70073358c4f95d86890b418e31f890f32effd9e36ff19fd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
