@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω5ΣΣ6-ΩΘΑ",
+  "subject": "Προμήθεια ενός (1) τεμαχίου «ΝΕΤ ΜΕΝ SL24» (NSN: P53-201371)",
+  "protocol_number": "20677",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76874"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ψ0066-ΤΘΠ"
+      }
+    ]
+  },
+  "issued": "2020-11-02",
+  "posted": "2020-11-03",
+  "publish_timestamp_ms": 1604389385183,
+  "version_id": "192560ab-e15a-481c-803c-4eb6bf799bfb",
+  "in_force": "2020-11-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%A3%CE%A36-%CE%A9%CE%98%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%A3%CE%A36-%CE%A9%CE%98%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A95%CE%A3%CE%A36-%CE%A9%CE%98%CE%91",
+  "listing_sha256": "53196428627aac13b210403d06ff8ee30b3155913819ca152a338fa94ae12e90",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
