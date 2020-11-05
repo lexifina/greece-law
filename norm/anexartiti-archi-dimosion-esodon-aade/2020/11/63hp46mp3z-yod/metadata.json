@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "63ΗΠ46ΜΠ3Ζ-ΥΟΔ",
+  "subject": "ΕΜΠΡΟΘΕΣΜΗ ΥΠΟΒΟΛΗ ΔΗΛΩΣΕΩΝ ΦΟΡΟΛΟΓΙΑΣ ΕΙΣΟΔΗΜΑΤΟΣ ΝΟΜΙΚΩΝ ΠΡΟΣΩΠΩΝ ΚΑΙ ΝΟΜΙΚΩΝ ΟΝΤΟΤΗΤΩΝ ΤΟΥ ΑΡΘΡΟΥ 45 ΤΟΥ ν.4172/2013 ΚΑΙ ΔΗΛΩΣΕΩΝ ΑΠΟΔΟΣΗΣ ΠΑΡΑΚΡΑΤΟΥΜΕΝΩΝ ΦΟΡΩΝ ΕΙΣΟΔΗΜΑΤΟΣ",
+  "protocol_number": "Α. 1245",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100030129"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4837",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Πράξη Ανεξάρτητης Αρχής",
+    "kanonistikipraxiaa": "1245",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-11-05",
+  "posted": "2020-11-05",
+  "publish_timestamp_ms": 1604557776346,
+  "version_id": "b3645117-9553-4c17-9a6c-933a3d28bed6",
+  "in_force": "2020-11-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/63%CE%97%CE%A046%CE%9C%CE%A03%CE%96-%CE%A5%CE%9F%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/63%CE%97%CE%A046%CE%9C%CE%A03%CE%96-%CE%A5%CE%9F%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/63%CE%97%CE%A046%CE%9C%CE%A03%CE%96-%CE%A5%CE%9F%CE%94",
+  "listing_sha256": "f3c132e9615dce4693cf9d6ca912750260a5a5554bd3a72f3d5c178e30361f92",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
