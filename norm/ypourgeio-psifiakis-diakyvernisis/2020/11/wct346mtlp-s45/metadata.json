@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΨΤ346ΜΤΛΠ-Σ45",
+  "subject": "Τροποποίηση της υπό στοιχεία οικ. 34/\nΦ.Α.12/11.02.2020 κοινής απόφασης των Υπουρ-\nγών Ανάπτυξης και Επενδύσεων και Επικρατεί-\nας (Β’ 672) με την οποία τροποποιείται η υπ'\nαριθμ. 39734/207/23.05.2018 Κοινή απόφαση\nτων Υπουργών Οικονομίας και Ανάπτυξης, Ψη-\nφιακής Πολιτικής, Τηλεπικοινωνιών και Ενημέρω-\nσης και Παιδείας, Έρευνας και Θρησκευμάτων για\nτη Δράση “Κουπόνι Υπερυψηλής Ευρυζωνικότη-\nτας (Superfast Broadband)” (Β’ 1907)",
+  "protocol_number": "οικ. 121/Φ.Α. 12",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054486",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΨΗΦΙΑΚΗΣ ΔΙΑΚΥΒΕΡΝΗΣΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100037906"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4995",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "121/Φ.Α.12",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "100006354"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-11-12",
+  "posted": "2020-11-13",
+  "publish_timestamp_ms": 1605258406465,
+  "version_id": "c5c9b6f8-f04d-487f-bd75-a3b31540e1ff",
+  "in_force": "2020-11-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A8%CE%A4346%CE%9C%CE%A4%CE%9B%CE%A0-%CE%A345",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A8%CE%A4346%CE%9C%CE%A4%CE%9B%CE%A0-%CE%A345/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A8%CE%A4346%CE%9C%CE%A4%CE%9B%CE%A0-%CE%A345",
+  "listing_sha256": "986b4a4a5b47dcd300dc1c58ee515094fc49a1ee8311c9134e88d3594ca8c733",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
