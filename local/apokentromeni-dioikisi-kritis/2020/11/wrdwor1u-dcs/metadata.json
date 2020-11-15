@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΡΔΩΟΡ1Θ-ΔΨΣ",
+  "subject": "Έλεγχος νομιμότητας της αριθμ. 328/2020 απόφαση του Δημοτικού Συμβουλίου Ηρακλείου",
+  "protocol_number": "10561",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "100044960"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-11-13",
+  "posted": "2020-11-15",
+  "publish_timestamp_ms": 1605463830844,
+  "version_id": "81d9697e-94c8-4db0-a9e4-23addd381cfa",
+  "in_force": "2020-11-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%94%CE%A9%CE%9F%CE%A11%CE%98-%CE%94%CE%A8%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A1%CE%94%CE%A9%CE%9F%CE%A11%CE%98-%CE%94%CE%A8%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A1%CE%94%CE%A9%CE%9F%CE%A11%CE%98-%CE%94%CE%A8%CE%A3",
+  "listing_sha256": "53210036991b470d7168086faf51c2584add95422de803f53044da299716aa3c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
