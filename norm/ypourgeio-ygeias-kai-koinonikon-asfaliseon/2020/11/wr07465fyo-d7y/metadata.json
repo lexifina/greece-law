@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΡ07465ΦΥΟ-Δ7Υ",
+  "subject": "Απόρριψη αιτήματος απένταξης φαρμακευτικού σκευάσματος από τον Κατάλογο Αποζημιούμενων Φαρμάκων",
+  "protocol_number": "Δ3(α)/οικ. 73039/16-11-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047546"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-11-16",
+  "posted": "2020-11-16",
+  "publish_timestamp_ms": 1605513609446,
+  "version_id": "a49a6bd2-3495-4429-b1f5-9422d780082e",
+  "in_force": "2020-11-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A107465%CE%A6%CE%A5%CE%9F-%CE%947%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A107465%CE%A6%CE%A5%CE%9F-%CE%947%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A107465%CE%A6%CE%A5%CE%9F-%CE%947%CE%A5",
+  "listing_sha256": "f58f886c6c75d140c13fa8904754e32637149f0a6a31ee896171347d99d6617a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
