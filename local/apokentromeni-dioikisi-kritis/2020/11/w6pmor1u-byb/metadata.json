@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω6ΠΜΟΡ1Θ-ΒΥΒ",
+  "subject": "Έγκριση της με αρ. 1125/2018 Απόφασης Δημοτικού Συμβουλίου Δήμου Ηρακλείου, που αφορά σε κυκλοφοριακές ρυθμίσεις γύρω από το 33ο Δημοτικό Σχολείο και το 9ο Γυμνάσιο Ηρακλείου, στην περιοχή «Δειλινά», εντός σχεδίου πόλεως Ηρακλείου Π.Ε. Ηρακλείου.",
+  "protocol_number": "οικ.4143",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76908"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5035",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "οικ.4143",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-11-04",
+  "posted": "2020-11-16",
+  "publish_timestamp_ms": 1605511046231,
+  "version_id": "34e274c7-4b4d-4fc6-b739-c3a89e71626b",
+  "in_force": "2020-11-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%A0%CE%9C%CE%9F%CE%A11%CE%98-%CE%92%CE%A5%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A96%CE%A0%CE%9C%CE%9F%CE%A11%CE%98-%CE%92%CE%A5%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A96%CE%A0%CE%9C%CE%9F%CE%A11%CE%98-%CE%92%CE%A5%CE%92",
+  "listing_sha256": "c48122c65ce1c1c176d59498e12de301c66c0afde7f4c3fbc1b43f2ff3e43c26",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
