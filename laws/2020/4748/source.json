@@ -1,0 +1,52 @@
+{
+  "year": 2020,
+  "number": 4748,
+  "url": "https://api.et.gr/apiLAW/1/2020/4748/pdf",
+  "source_sha256": "e52c61e965b3dc4443b93ed8ddff07c03fdf98fba3e91fac4f4019cd6eb0dd5c",
+  "published": "2020-11-16",
+  "in_force": "2020-11-16",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 4,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "9e332975689aafb2ae6a5c786a617e11bc68e48cc2aa537f64aacfdaee44c28b",
+      "ext": "jpeg",
+      "bytes": 90711,
+      "bbox": [
+        73.0,
+        403.7,
+        530.3,
+        571.3
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "ebe5de17a6673d720154c3cd642fd030893ba2d0664685078a65839f177308f6",
+      "ext": "jpeg",
+      "bytes": 160807,
+      "bbox": [
+        70.9,
+        93.5,
+        516.0,
+        492.4
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "717b3d4a5bde8bb50a5d5a22f8f0b95032ee30dc9564d31be01e1551917f618e",
+      "ext": "jpeg",
+      "bytes": 160590,
+      "bbox": [
+        91.4,
+        93.5,
+        513.4,
+        773.1
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
