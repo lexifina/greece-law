@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΗΓΨΩΞΩ-94Ζ",
+  "subject": "Άσκηση ή μη ανακοπής, αίτησης αναστολής και υποβολής αιτήματος χορήγησης προσωρινής διαταγής κατά της από 26-10-2020 για πρώτη φορά και από 29-10-2020 για δεύτερη φορά επιδοθείσης υπ’ αριθμ.73/2020 διαταγής πληρωμής του Μονομελούς Πρωτοδικείου Λασιθίου με την οποία διατάσσεται ο Δήμος Οροπεδίου Λασιθίου να καταβάλλει το ποσό των 27.710,98€ πλέον δικαστικής δαπάνης 573,10€ στην εταιρεία με την επωνυμία ΚΡΕΤΑ ΚΑΤ Α.Ε.",
+  "protocol_number": "101",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6227",
+    "label": "ΔΗΜΟΣ ΟΡΟΠΕΔΙΟΥ ΛΑΣΙΘΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85143"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-11-17",
+  "posted": "2020-11-17",
+  "publish_timestamp_ms": 1605604195978,
+  "version_id": "bd0ba6e1-bfd7-49ff-991d-7e43452cdc6f",
+  "in_force": "2020-11-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%97%CE%93%CE%A8%CE%A9%CE%9E%CE%A9-94%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%97%CE%93%CE%A8%CE%A9%CE%9E%CE%A9-94%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%97%CE%93%CE%A8%CE%A9%CE%9E%CE%A9-94%CE%96",
+  "listing_sha256": "98c2685f7ff06e72624a4d80c002f8dfde9cd87d9fae63e7f9726c8249bd90bf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
