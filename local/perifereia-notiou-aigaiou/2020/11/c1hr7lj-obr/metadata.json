@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ1ΗΡ7ΛΞ-ΟΒΡ",
+  "subject": "ΚΑΤΑΧΩΡΗΣΗ ΑΛΙΕΥΤΙΚΟΥ ΣΚΑΦΟΥ",
+  "protocol_number": "3811/126660",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5011",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "100016100"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-11-18",
+  "posted": "2020-11-18",
+  "publish_timestamp_ms": 1605686093971,
+  "version_id": "8a2abd3f-9287-4615-b39f-e8aad2e2d999",
+  "in_force": "2020-11-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A81%CE%97%CE%A17%CE%9B%CE%9E-%CE%9F%CE%92%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A81%CE%97%CE%A17%CE%9B%CE%9E-%CE%9F%CE%92%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A81%CE%97%CE%A17%CE%9B%CE%9E-%CE%9F%CE%92%CE%A1",
+  "listing_sha256": "2bb8d89a2f83d964cf3021f53cf1752c07139821fb527aca06a68e163741fc5c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
