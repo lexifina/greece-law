@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΘ0Υ4653ΠΓ-ΓΦ0",
+  "subject": "Καθορισμός των αναγκαίων συμπληρωματικών μέτρων για την εφαρμογή των διατάξεων του κεφαλαίου IV και του άρθρου 48 του κανονισμού (ΕΕ) 2019/1009, του Ευρωπαϊκού κοινοβουλίου και του Συμβουλίου (ΕΕ L 170, 25.6.2019, σ. 1)",
+  "protocol_number": "2172/304447",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100034194"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5075",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "126841"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-10-30",
+  "posted": "2020-11-25",
+  "publish_timestamp_ms": 1606296300609,
+  "version_id": "f9b99e88-e339-480f-af12-d79e49a0ea67",
+  "in_force": "2020-11-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%980%CE%A54653%CE%A0%CE%93-%CE%93%CE%A60",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%980%CE%A54653%CE%A0%CE%93-%CE%93%CE%A60/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%980%CE%A54653%CE%A0%CE%93-%CE%93%CE%A60",
+  "listing_sha256": "0f26eec6677baab22ff81636101f9c80de59ecaaac454b5a19e77aeff3575a47",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
