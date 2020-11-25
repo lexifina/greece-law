@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧΟ8Ω9Ρ-Ε25",
+  "subject": "«Λήψη απόφασης για εξώδικο ή μη συμβιβασμό επί του υπ. αρ. πρωτ. 11068/17-9-2020  αιτήματος της ανώνυμης ασφαλιστικής εταιρείας «GENERALI HELLAS A.A.E»",
+  "protocol_number": "ΑΟΕ 207/2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6061",
+    "label": "ΔΗΜΟΣ ΒΡΙΛΗΣΣΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80701"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-11-25",
+  "posted": "2020-11-25",
+  "publish_timestamp_ms": 1606306545818,
+  "version_id": "7288c3b1-c790-4e56-8f6c-0cb425cee6f1",
+  "in_force": "2020-11-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%9F8%CE%A99%CE%A1-%CE%9525",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%9F8%CE%A99%CE%A1-%CE%9525/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A7%CE%9F8%CE%A99%CE%A1-%CE%9525",
+  "listing_sha256": "75f3d69b6b3b99aaf0a3aa72c4bdad5cb0b797dcde5da288ce0630da08094af7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
