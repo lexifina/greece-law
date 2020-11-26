@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΣ19Ω1Ι-ΒΒ2",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ για απ’ ευθείας ανάθεση για την συντήρηση χωματόδρομων",
+  "protocol_number": "126",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6275",
+    "label": "ΔΗΜΟΣ ΣΙΚΙΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100001367"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-11-20",
+  "posted": "2020-11-26",
+  "publish_timestamp_ms": 1606380677389,
+  "version_id": "f388564d-db9c-4daf-b223-3d0e5ed73479",
+  "in_force": "2020-11-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A319%CE%A91%CE%99-%CE%92%CE%922",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A319%CE%A91%CE%99-%CE%92%CE%922/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A319%CE%A91%CE%99-%CE%92%CE%922",
+  "listing_sha256": "c155504e52cd71373ab797f91887d1a78ad52fefcf7aa6c713927e64408e664a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
