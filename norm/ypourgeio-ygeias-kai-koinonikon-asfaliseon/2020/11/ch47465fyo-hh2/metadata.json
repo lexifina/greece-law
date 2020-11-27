@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΗ47465ΦΥΟ-ΗΗ2",
+  "subject": "Τροποποίηση - συμπλήρωση του Οργανισμού του Π.Γ.Ν. Θεσσαλονίκης \"ΑΧΕΠΑ\".",
+  "protocol_number": "Γ2α/54403",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047539"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5225",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "100005000"
+        ],
+        "signerIds": [
+          "100047761"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100009868"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-11-23",
+  "posted": "2020-11-27",
+  "publish_timestamp_ms": 1606482548520,
+  "version_id": "39405c58-6baf-44a3-bd19-b036c5dfc8fd",
+  "in_force": "2020-11-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9747465%CE%A6%CE%A5%CE%9F-%CE%97%CE%972",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9747465%CE%A6%CE%A5%CE%9F-%CE%97%CE%972/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9747465%CE%A6%CE%A5%CE%9F-%CE%97%CE%972",
+  "listing_sha256": "341cc711b7d4609ff17db03f2329181b0e95ee3f48bd7c4e1befaf312f024412",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
