@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΑΔΟΩ9Ε-8ΚΖ",
+  "subject": "Αποδόσεις χρηματικών ενταλμάτων προπληρωμής/Υπόλογος υπάλληλος Χαράλαμπος Πολύμερος για ποσό 4.000,00€",
+  "protocol_number": "21906",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6062",
+    "label": "ΔΗΜΟΣ ΒΥΡΩΝΟΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100027281"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-11-30",
+  "posted": "2020-11-30",
+  "publish_timestamp_ms": 1606728521497,
+  "version_id": "bf6e3706-a63d-4c9d-8428-dc02b900cc1a",
+  "in_force": "2020-11-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%91%CE%94%CE%9F%CE%A99%CE%95-8%CE%9A%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%91%CE%94%CE%9F%CE%A99%CE%95-8%CE%9A%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%91%CE%94%CE%9F%CE%A99%CE%95-8%CE%9A%CE%96",
+  "listing_sha256": "091879ef6a6e2e08ae1bb31f3f7abf1300319df7a0ccc93f0efc298e85ced103",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
