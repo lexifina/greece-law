@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΗΔΓΗ-ΦΗΩ",
+  "subject": "ΚΑΘΟΡΙΣΜΟΣ ΦΟΡΕΩΝ ΤΟΥ ΥΠΟΥΡΓΕΙΟΥ ΕΣΩΤΕΡΙΚΩΝ ΕΛΕΓΧΟΜΕΝΩΝ ΑΠΟ ΤΗ ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ ΔΗΜΟΣΙΟΝΟΜΙΚΩΝ ΕΛΕΓΧΩΝ (Γ.Δ.Δ.Ε.) ΤΟΥ ΥΠΟΥΡΓΕΙΟΥ ΟΙΚΟΝΟΜΙΚΩΝ",
+  "protocol_number": "127584 ΕΞ 2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100039058"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5258",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-10-22",
+  "posted": "2020-12-01",
+  "publish_timestamp_ms": 1606812225480,
+  "version_id": "88cf1598-8641-4b83-ac7c-3655cbd955a2",
+  "in_force": "2020-12-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%94%CE%93%CE%97-%CE%A6%CE%97%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%94%CE%93%CE%97-%CE%A6%CE%97%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%97%CE%94%CE%93%CE%97-%CE%A6%CE%97%CE%A9",
+  "listing_sha256": "5972a7d3cd8ac89204eee59fea867318563db0dda09f6956874c6387d6d691ac",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
