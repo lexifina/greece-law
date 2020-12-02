@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΞ8ΜΩΡΖ-ΠΤ2",
+  "subject": "131 / 2020 - Έγκριση επιστροφής τάφων.",
+  "protocol_number": "22760",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6119",
+    "label": "ΔΗΜΟΣ ΙΕΡΑΣ ΠΟΛΗΣ ΜΕΣΟΛΟΓΓΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78262"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-12-02",
+  "posted": "2020-12-02",
+  "publish_timestamp_ms": 1606897660932,
+  "version_id": "b0999a68-22f7-46c9-88b3-6849c1c89be8",
+  "in_force": "2020-12-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E8%CE%9C%CE%A9%CE%A1%CE%96-%CE%A0%CE%A42",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E8%CE%9C%CE%A9%CE%A1%CE%96-%CE%A0%CE%A42/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9E8%CE%9C%CE%A9%CE%A1%CE%96-%CE%A0%CE%A42",
+  "listing_sha256": "753e32eaf2cf68ea5dfda94bf4d8d91c54d8810a090f57889b0c4f59ce14aeec",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
