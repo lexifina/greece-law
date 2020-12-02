@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΩΒΝ4653Π8-4ΓΖ",
+  "subject": "Κανονισμός Βεβαιώσεων Παραγωγού Ηλεκτρικής Ενέργειας από ΑΠΕ και ΣΗΘΥΑ και Βεβαιώσεων Παραγωγού Ηλεκτρικής Ενέργειας Ειδικών Έργων ΑΠΕ και ΣΗΘΥΑ",
+  "protocol_number": "ΥΠΕΝ/ΔΑΠΕΕΚ/114746/4230",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035829"
+  ],
+  "thematic_category_ids": [
+    "66"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5291",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-11-30",
+  "posted": "2020-12-02",
+  "publish_timestamp_ms": 1606899726030,
+  "version_id": "53137c04-ce24-437e-90c0-78eb6d4eb9b8",
+  "in_force": "2020-12-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%92%CE%9D4653%CE%A08-4%CE%93%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%92%CE%9D4653%CE%A08-4%CE%93%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A9%CE%92%CE%9D4653%CE%A08-4%CE%93%CE%96",
+  "listing_sha256": "c219e4b6e4da358f70c732e3f73f5e2d30054de386f5b40ea9eb3a631f4eff16",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
