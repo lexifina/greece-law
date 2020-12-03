@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΣ2Μ7ΛΩ-86Β",
+  "subject": "Κατανομή χρηματοδότησης έργων της ΣΑΕΠ 088 ποσού #100.500,00# € της Περιφέρειας Βορείου Αιγαίου.",
+  "protocol_number": "67958/1316",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5003",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79753"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "67958/1316",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΞΗΩ7ΛΩ-ΧΘΓ"
+      }
+    ]
+  },
+  "issued": "2020-12-03",
+  "posted": "2020-12-03",
+  "publish_timestamp_ms": 1606980229792,
+  "version_id": "9e922583-0ef0-45af-8822-33f182e6cabe",
+  "in_force": "2020-12-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A32%CE%9C7%CE%9B%CE%A9-86%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A32%CE%9C7%CE%9B%CE%A9-86%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A32%CE%9C7%CE%9B%CE%A9-86%CE%92",
+  "listing_sha256": "2bdcdf77bf2d319dfda1d9ce088c6a35c53ab5e16bd24b3ce69f27707e6544f7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
