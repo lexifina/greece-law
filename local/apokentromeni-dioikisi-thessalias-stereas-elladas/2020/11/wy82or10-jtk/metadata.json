@@ -1,0 +1,50 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥ82ΟΡ10-ΞΤΚ",
+  "subject": "«Τροποποίηση της υπ’ αριθμ. οικ. 6985/85797/1.6.2017 (ΦΕΚ Β’ 2003/12.6.2017) απόφασης παροχής εξουσιοδότησης υπογραφής πράξεων και εγγράφων “Με εντολή Συντονιστή” του Συντονιστή Αποκεντρωμένης Διοίκησης Θεσσαλίας - Στερεάς Ελλάδας (Α.Δ.Θ.Σ.Τ.Ε.) στον Προϊστάμενο ή στην Προϊσταμένη της Γενικής Διευθύνσεως Δασών και Αγροτικών Υποθέσεων και στους Προϊσταμένους ή στις Προϊσταμένες Διευθύνσεων και Δασαρχείων της ανωτέρω Γενικής Διευθύνσεως».",
+  "protocol_number": "222799",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "91856"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5282",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "625ΙΟΡ10-ΟΣΩ"
+      },
+      {
+        "relatedDecisionsADA": "ΨΞΞΗΟΡ10-4ΒΔ"
+      }
+    ]
+  },
+  "issued": "2020-11-25",
+  "posted": "2020-12-04",
+  "publish_timestamp_ms": 1607077413230,
+  "version_id": "c271a343-aa34-4b61-92a7-c6b37d3e360d",
+  "in_force": "2020-12-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A582%CE%9F%CE%A110-%CE%9E%CE%A4%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A582%CE%9F%CE%A110-%CE%9E%CE%A4%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A582%CE%9F%CE%A110-%CE%9E%CE%A4%CE%9A",
+  "listing_sha256": "430dcf40d76a4bc8260a0db92789739f91aa9eb5e2f759bb254fca11959d9ff1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
