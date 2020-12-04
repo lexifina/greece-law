@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Υ6ΩΩ16-ΙΛΓ",
+  "subject": "ΑΠΟΦΑΣΗ Δ.Σ. ΥΠ.ΑΡΙΘΜΟΝ 214/2020 (ΠΕΡΙ ΤΗΣ ΤΡΟΠΟΠΟΙΗΣΗΣ ΤΟΥ ΤΕΧΝΙΚΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ)",
+  "protocol_number": "214",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6262",
+    "label": "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100007442"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "214/2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-12-04",
+  "posted": "2020-12-04",
+  "publish_timestamp_ms": 1607069366033,
+  "version_id": "67b0312d-866d-400a-a975-7b305a6fe6d5",
+  "in_force": "2020-12-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A56%CE%A9%CE%A916-%CE%99%CE%9B%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A56%CE%A9%CE%A916-%CE%99%CE%9B%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A56%CE%A9%CE%A916-%CE%99%CE%9B%CE%93",
+  "listing_sha256": "69633c656110946ff1207f0169dadcd306cefad4c5c99755fe8421d4fe858327",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
