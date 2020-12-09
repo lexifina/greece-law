@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΝΧΡΩΚΝ-19Ι",
+  "subject": "Περί της επανεξέτασης της 156/2020 (ΑΔΑ: 6ΦΙ0ΩΚΝ-Ε7Υ) απόφασης Δημοτικού Συμβουλίου που αφορά την έκφραση γνώμης επί Μελέτης Περιβαλλοντικών Επιπτώσεων (ΜΠΕ) του έργου: «Εγκατάσταση και λειτουργία αιολικού σταθμού παραγωγής ηλεκτρικής ενέργειας, ισχύος 22 MW, και των συνοδών έργων πρόσβασης και διασύνδεσης αυτού», της εταιρείας “RUGERO ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΣΥΜΜΕΤΟΧΩΝ”, στη θέση «Κορομηλιά», της Δ.Ε. Λεωνιδίου του Δήμου Νότιας Κυνουρίας ΠΕ Αρκαδίας, της Περιφέρειας Πελοποννήσου.",
+  "protocol_number": "170-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6218",
+    "label": "ΔΗΜΟΣ ΝΟΤΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "10852"
+  ],
+  "thematic_category_ids": [
+    "66"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΦΙ0ΩΚΝ-Ε7Υ"
+      }
+    ]
+  },
+  "issued": "2020-12-04",
+  "posted": "2020-12-09",
+  "publish_timestamp_ms": 1607525704293,
+  "version_id": "6a0984a0-c7d0-4ff9-98de-0c8efe754dcb",
+  "in_force": "2020-12-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%A7%CE%A1%CE%A9%CE%9A%CE%9D-19%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%A7%CE%A1%CE%A9%CE%9A%CE%9D-19%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9D%CE%A7%CE%A1%CE%A9%CE%9A%CE%9D-19%CE%99",
+  "listing_sha256": "456b3a9981f5079cd3ea6474b3f9910af7cd5fe6ef5dd69f9b258978109af8b0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
