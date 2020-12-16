@@ -1,0 +1,40 @@
+{
+  "year": 2020,
+  "number": 4762,
+  "url": "https://api.et.gr/apiLAW/1/2020/4762/pdf",
+  "source_sha256": "f2a4af841e1954792cc49613220579921f445cab6f413c6ac213e93fd5bdbbe1",
+  "published": "2020-12-16",
+  "in_force": "2020-12-16",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 2,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "888f9e293c2514d3669d6ba815241bf46aa337021dab5acaf2bab78557a3a96c",
+      "ext": "png",
+      "bytes": 257713,
+      "bbox": [
+        111.9,
+        380.7,
+        500.4,
+        764.9
+      ]
+    },
+    {
+      "page": 2,
+      "sha256": "c0f3f1b906e612c23775452bbff7d7a3ad4239463a51ddb416285d85cadfcec0",
+      "ext": "png",
+      "bytes": 357816,
+      "bbox": [
+        103.4,
+        132.9,
+        491.9,
+        547.8
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
