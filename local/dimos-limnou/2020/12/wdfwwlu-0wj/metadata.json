@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΦΩΩΛΘ-0ΩΞ",
+  "subject": "Απαλλαγή υπολόγου και έγκριση απόδοσης λογαριασμού",
+  "protocol_number": "310/2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6174",
+    "label": "ΔΗΜΟΣ ΛΗΜΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81214"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "310/2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-12-17",
+  "posted": "2020-12-18",
+  "publish_timestamp_ms": 1608284002213,
+  "version_id": "288bb912-b712-49c6-96ff-c466ca0ea974",
+  "in_force": "2020-12-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A6%CE%A9%CE%A9%CE%9B%CE%98-0%CE%A9%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A6%CE%A9%CE%A9%CE%9B%CE%98-0%CE%A9%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%A6%CE%A9%CE%A9%CE%9B%CE%98-0%CE%A9%CE%9E",
+  "listing_sha256": "877311294d76300287a1ae32956de76c3d39787aebc9cc0310a185f3c25f8e3c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
