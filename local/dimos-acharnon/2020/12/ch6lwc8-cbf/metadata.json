@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΗ6ΛΩΨ8-ΨΒΦ",
+  "subject": "Καθορισμός ωραρίου λειτουργίας Φαρμακαποθηκών του Δήμου Αχαρνών",
+  "protocol_number": "48999",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6050",
+    "label": "ΔΗΜΟΣ ΑΧΑΡΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "89291"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "87",
+      "issue": "fektype_A",
+      "issueyear": 2010
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "1750",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-12-16",
+  "posted": "2020-12-18",
+  "publish_timestamp_ms": 1608279534242,
+  "version_id": "5bccc482-8acb-47c4-8b41-788d245b2482",
+  "in_force": "2020-12-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%976%CE%9B%CE%A9%CE%A88-%CE%A8%CE%92%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%976%CE%9B%CE%A9%CE%A88-%CE%A8%CE%92%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%976%CE%9B%CE%A9%CE%A88-%CE%A8%CE%92%CE%A6",
+  "listing_sha256": "fb2bccff79d23c2b7822b2e2d5ed49775c91426d1fbb86734d2b3c00a1fe83ea",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
