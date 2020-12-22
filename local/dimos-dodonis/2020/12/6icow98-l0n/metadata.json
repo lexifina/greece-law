@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΙΨΟΩ98-Λ0Ν",
+  "subject": "Έγκριση ή μη  πρακτικού ΙΙ ελέγχου δικαιολογητικών του έργου: Αποκαταστάσεις Δημοτικών Οδών και κοιν/στων Χώρων Πολυγύρου, Ψήνας, Δραγοψάς",
+  "protocol_number": "8892",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6084",
+    "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83282"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ψ688Ω98-Ψ0Ι"
+      }
+    ]
+  },
+  "issued": "2020-12-18",
+  "posted": "2020-12-22",
+  "publish_timestamp_ms": 1608625922448,
+  "version_id": "c0549489-3601-4f1b-9c46-90ce078cf7f1",
+  "in_force": "2020-12-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%A8%CE%9F%CE%A998-%CE%9B0%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%A8%CE%9F%CE%A998-%CE%9B0%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%99%CE%A8%CE%9F%CE%A998-%CE%9B0%CE%9D",
+  "listing_sha256": "f45a8d8db62ea8244719b4265d17d760e7917c172690a1959566af416ae72f07",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
