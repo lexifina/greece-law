@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΥ18ΩΗΝ-6ΩΚ",
+  "subject": "712/2020 Απόφαση ΔΣ Χίου με θέμα: \"Τροποποίηση προϋπολογισμού οικ. έτους 2020, 87816/15-12-2020.\"",
+  "protocol_number": "90175",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81042"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-12-22",
+  "posted": "2020-12-22",
+  "publish_timestamp_ms": 1608638247100,
+  "version_id": "cf2c9ba6-c726-470c-8953-6157e13ddcde",
+  "in_force": "2020-12-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A518%CE%A9%CE%97%CE%9D-6%CE%A9%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A518%CE%A9%CE%97%CE%9D-6%CE%A9%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A518%CE%A9%CE%97%CE%9D-6%CE%A9%CE%9A",
+  "listing_sha256": "648fc5e04e6b92dd7c23c21f1b81674e0993376ff3805857bf199f329c41e242",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
