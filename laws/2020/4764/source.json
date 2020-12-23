@@ -1,0 +1,40 @@
+{
+  "year": 2020,
+  "number": 4764,
+  "url": "https://api.et.gr/apiLAW/1/2020/4764/pdf",
+  "source_sha256": "782f3bf4fae9c186156702e73e57c70bd3ba3cd1bc4e4609d3698835fa87dfd1",
+  "published": "2020-12-23",
+  "in_force": "2020-12-23",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 72,
+  "images": [
+    {
+      "page": 69,
+      "sha256": "bd62f6c667c59ae39ba8db0ce855172dccb70847cb9ba7ff757220722a03e36b",
+      "ext": "jpeg",
+      "bytes": 3240880,
+      "bbox": [
+        86.0,
+        96.8,
+        535.7,
+        774.3
+      ]
+    },
+    {
+      "page": 70,
+      "sha256": "45ed5b8c88ee7b27abc4a26200be0c11cb40684e79394cc4b5a90e7edac7e212",
+      "ext": "jpeg",
+      "bytes": 2999476,
+      "bbox": [
+        58.6,
+        93.5,
+        529.2,
+        771.0
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: qualified commencement: Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν άλλως ορίζεται στις επιμέρους διατάξεις του."
+}
