@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΨ5Ω9Η-Τ43",
+  "subject": "παραίτηση υπαλλήλου λόγω συνταξιοδότησης",
+  "protocol_number": "19960/2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6067",
+    "label": "ΔΗΜΟΣ ΓΟΡΤΥΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83235"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2096",
+      "issue": "fektype_C",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "2488/2020",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΑΧΑΩ9Η-ΜΚΩ"
+      }
+    ]
+  },
+  "issued": "2020-11-30",
+  "posted": "2020-12-28",
+  "publish_timestamp_ms": 1609146560899,
+  "version_id": "db1e53b7-7cd3-48ed-ac1d-3238f1652961",
+  "in_force": "2020-12-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A85%CE%A99%CE%97-%CE%A443",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A85%CE%A99%CE%97-%CE%A443/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%A85%CE%A99%CE%97-%CE%A443",
+  "listing_sha256": "c219e4b6e4da358f70c732e3f73f5e2d30054de386f5b40ea9eb3a631f4eff16",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
