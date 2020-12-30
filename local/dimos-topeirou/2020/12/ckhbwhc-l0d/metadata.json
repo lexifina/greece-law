@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚΗΒΩΗΨ-Λ0Δ",
+  "subject": "ΣΥΜΒΑΣΗ ΕΡΓΑΣΙΑΣ ΠΡΟΣΩΠΙΚΟΥ ΟΡΙΣΜΕΝΟΥ ΧΡΟΝΟΥ-ΒΕΒΑΙΩΣΗ ΕΓΚΑΤΑΣΤΑΣΗΣ",
+  "protocol_number": "6237",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6297",
+    "label": "ΔΗΜΟΣ ΤΟΠΕΙΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78500"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-12-21",
+  "posted": "2020-12-30",
+  "publish_timestamp_ms": 1609314566638,
+  "version_id": "a40a6165-fc68-4e50-99e4-435a4678ddb4",
+  "in_force": "2020-12-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%97%CE%92%CE%A9%CE%97%CE%A8-%CE%9B0%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%97%CE%92%CE%A9%CE%97%CE%A8-%CE%9B0%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A%CE%97%CE%92%CE%A9%CE%97%CE%A8-%CE%9B0%CE%94",
+  "listing_sha256": "e853b5b6bb99a505870faf6da08d87cf2051b206e18e701685f1fe7986819bb9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
