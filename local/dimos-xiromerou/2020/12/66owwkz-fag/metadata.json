@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "66ΟΩΩΚΖ-ΦΑΓ",
+  "subject": "ΑΠΟΦΑΣΗ 279/2020 ΔΗΜΑΡΧΟΥ ΠΕΡΙ: \"Ανάκληση της με αριθμ. 177/2020 (ΑΔΑ: 6ΠΨΜΩΚΖ-Τ45) Απόφασης Δημάρχου και λήψη Νέας Απόφασης που αφορά την «Ανάθεση εκτέλεσης εργασιών (κοπή μερική ή ολική σπασμένων – ξεριζωμένων ή επικίνδυνων δέντρων) λόγω Εκτάκτων Αναγκών, λόγω ακραίων καιρικών φαινομένων (μεσογειακός κυκλώνας ¨ΙΑΝΟΣ¨, πλημμυρικά φαινόμενα και ανεμοστρόβιλος της 8ης και 9ης Δεκεμβρίου 2020) που έπληξαν τον Δήμο Ξηρομέρου, προς άρση επικινδυνότητας».",
+  "protocol_number": "11667",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6221",
+    "label": "ΔΗΜΟΣ ΞΗΡΟΜΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "11248"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΠΨΜΩΚΖ-Τ45"
+      }
+    ]
+  },
+  "issued": "2020-12-30",
+  "posted": "2020-12-30",
+  "publish_timestamp_ms": 1609336570567,
+  "version_id": "41fde3d3-1a06-4ca2-9cf0-d736a9ed48ad",
+  "in_force": "2020-12-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/66%CE%9F%CE%A9%CE%A9%CE%9A%CE%96-%CE%A6%CE%91%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/66%CE%9F%CE%A9%CE%A9%CE%9A%CE%96-%CE%A6%CE%91%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/66%CE%9F%CE%A9%CE%A9%CE%9A%CE%96-%CE%A6%CE%91%CE%93",
+  "listing_sha256": "069288525eedaadb0772db943f4a160659ffb59e1c623f37a3712db77bb1eac1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
