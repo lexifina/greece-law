@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΕ8ΥΩΗ0-6ΒΕ",
+  "subject": "Έγκριση 2ου Ανακεφαλαιωτικού Πίνακα Εργασιών και 1oυ Π.Κ.Τ.Μ.Ν.Ε. του έργου με τίτλο : «ΑΣΤΙΚΕΣ ΑΝΑΠΛΑΣΕΙΣ ΠΟΛΕΩΣ ΦΑΡΣΑΛΩΝ ΙΙ ( Ο.Τ. Γ305Ε & Ο.Τ. Γ305Ζ)»",
+  "protocol_number": "18189",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6306",
+    "label": "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82053"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "336/2020",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΗΛ6ΩΗ0-ΧΥ3"
+      }
+    ]
+  },
+  "issued": "2020-12-29",
+  "posted": "2020-12-31",
+  "publish_timestamp_ms": 1609369509330,
+  "version_id": "5fc33d35-985a-4503-bbd9-f3adbce44c5f",
+  "in_force": "2020-12-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%958%CE%A5%CE%A9%CE%970-6%CE%92%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%958%CE%A5%CE%A9%CE%970-6%CE%92%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%958%CE%A5%CE%A9%CE%970-6%CE%92%CE%95",
+  "listing_sha256": "71ca8bd909749d12074840f02b970be2f68975a65a5003fb431516c5195fc3fa",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
