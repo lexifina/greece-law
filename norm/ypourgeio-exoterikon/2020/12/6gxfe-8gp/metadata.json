@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΓΧΦΕ-8ΓΠ",
+  "subject": "Συμμετοχή της Ελλάδας στη 19η Αναπλήρωση Πόρων (Additions to Resources: Nineteenth Replenishment) του Διεθνούς Οργανισμού Ανάπτυξης (International Development Association - IDA)",
+  "protocol_number": "62432/28-12-2020",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100006383"
+  ],
+  "thematic_category_ids": [
+    "76"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5837",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "62432",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-12-31",
+  "posted": "2020-12-31",
+  "publish_timestamp_ms": 1609409058888,
+  "version_id": "ebd938d7-c84a-4eef-b9b7-b197c69f725e",
+  "in_force": "2020-12-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%93%CE%A7%CE%A6%CE%95-8%CE%93%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%93%CE%A7%CE%A6%CE%95-8%CE%93%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%93%CE%A7%CE%A6%CE%95-8%CE%93%CE%A0",
+  "listing_sha256": "3a05dc4ae9c3faa2105ed782a1d5c4742936773daabe704a2ab87862ed4f8e99",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
