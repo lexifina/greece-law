@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΧ70ΩΗΝ-ΣΜ0",
+  "subject": "Η αριθμ 404/2020 Απόφαση Δημάρχου Χίου",
+  "protocol_number": "92451",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78547"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-12-31",
+  "posted": "2021-01-04",
+  "publish_timestamp_ms": 1609762354157,
+  "version_id": "bdad46f6-f676-4efe-8815-541b0912975b",
+  "in_force": "2021-01-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A770%CE%A9%CE%97%CE%9D-%CE%A3%CE%9C0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A770%CE%A9%CE%97%CE%9D-%CE%A3%CE%9C0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A770%CE%A9%CE%97%CE%9D-%CE%A3%CE%9C0",
+  "listing_sha256": "8c0f3b33527e9f2d397b873a470e4d4ebf2fbadac9d164737a0fa6053e8e674b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
