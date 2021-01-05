@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Λ3Ψ46ΜΠ3Ζ-ΟΨΟ",
+  "subject": "«Καθορισμός της διαδικασίας θέσης των Επιβατικών Ιδιωτικής Χρήσης (ΕΙΧ) οχημάτων και μοτοσυκλετών σε ακινησία ηλεκτρονικά, του τύπου της δήλωσης ακινησίας και άρσης αυτής και κάθε άλλης αναγκαίας λεπτομέρειας για τη θέση ΕΙΧ οχήματος σε ακινησία και την άρση αυτής. Περιπτώσεις για τις οποίες η κατάθεση της αίτησης για τη θέση σε ακινησία και την άρση αυτής υποβάλλεται στη Δ.Ο.Υ».",
+  "protocol_number": "Α.1304",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100030130"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5871",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1304",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100025908",
+        "unitId": [
+          "100058045"
+        ],
+        "signerIds": [
+          "100047783"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-12-31",
+  "posted": "2021-01-05",
+  "publish_timestamp_ms": 1609831569694,
+  "version_id": "159eae25-3696-4c07-902e-5e49d1ae50a3",
+  "in_force": "2021-01-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B3%CE%A846%CE%9C%CE%A03%CE%96-%CE%9F%CE%A8%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B3%CE%A846%CE%9C%CE%A03%CE%96-%CE%9F%CE%A8%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9B3%CE%A846%CE%9C%CE%A03%CE%96-%CE%9F%CE%A8%CE%9F",
+  "listing_sha256": "8c0f3b33527e9f2d397b873a470e4d4ebf2fbadac9d164737a0fa6053e8e674b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
