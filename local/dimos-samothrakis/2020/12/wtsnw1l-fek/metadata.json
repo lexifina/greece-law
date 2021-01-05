@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΣΝΩ1Λ-ΦΕΚ",
+  "subject": "εισήγηση οικ επ γ τρίμηνο του 2020 ΑΠΟΦ 253 ΟΙΚ ΕΠ",
+  "protocol_number": "7072",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6267",
+    "label": "ΔΗΜΟΣ ΣΑΜΟΘΡΑΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100043868"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "253",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-12-21",
+  "posted": "2021-01-05",
+  "publish_timestamp_ms": 1609837692528,
+  "version_id": "aeca87c2-648e-457a-be91-8aa2509b0548",
+  "in_force": "2021-01-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A3%CE%9D%CE%A91%CE%9B-%CE%A6%CE%95%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A3%CE%9D%CE%A91%CE%9B-%CE%A6%CE%95%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%A3%CE%9D%CE%A91%CE%9B-%CE%A6%CE%95%CE%9A",
+  "listing_sha256": "e853b5b6bb99a505870faf6da08d87cf2051b206e18e701685f1fe7986819bb9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
