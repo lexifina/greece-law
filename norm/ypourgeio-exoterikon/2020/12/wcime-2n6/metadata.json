@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΨΙΜΕ-2Ν6",
+  "subject": "Σύσταση Άμισθων Προξενικών Αρχών της Ελλάδας\nστις πόλεις Αλμάτυ (Almaty) και Ακτάου (Aktau) του Καζακστάν",
+  "protocol_number": "Π6-62454",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70482"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "264",
+      "issue": "fektype_A",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "kanonistikipraxiaa": "109",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-12-24",
+  "posted": "2021-01-08",
+  "publish_timestamp_ms": 1610107476306,
+  "version_id": "08e039ec-56c3-4248-b2c3-194a966712fb",
+  "in_force": "2021-01-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A8%CE%99%CE%9C%CE%95-2%CE%9D6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A8%CE%99%CE%9C%CE%95-2%CE%9D6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A8%CE%99%CE%9C%CE%95-2%CE%9D6",
+  "listing_sha256": "7cef2c06422b78b1e4fcd7132acd52aae2832e2284efc996802182120fb9d64f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
