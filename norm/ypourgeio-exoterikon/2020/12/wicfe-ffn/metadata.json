@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΨΦΕ-ΦΦΝ",
+  "subject": "ΜΗ ΧΡΗΣΗΣ ΜΕΡΟΥΣ ΠΟΣΟΥ\nΓΙΑ ΣΥΝΔΡΟΜΕΣ ΤΥΠΟΥ ΠΡΕΣΒΕΙΑ ΒΙΕΝΝΗΣ.",
+  "protocol_number": "401.9125",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100028251"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-12-31",
+  "posted": "2021-01-12",
+  "publish_timestamp_ms": 1610455586783,
+  "version_id": "64d201e8-b140-4ce3-bcc4-627804a47e69",
+  "in_force": "2021-01-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%A8%CE%A6%CE%95-%CE%A6%CE%A6%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%A8%CE%A6%CE%95-%CE%A6%CE%A6%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%A8%CE%A6%CE%95-%CE%A6%CE%A6%CE%9D",
+  "listing_sha256": "8c0f3b33527e9f2d397b873a470e4d4ebf2fbadac9d164737a0fa6053e8e674b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
