@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ44646ΜΤΛΠ-9ΕΕ",
+  "subject": "ΑΠΟΦΑΣΗ ΣΥΝΔΕΣΕΩΝ ΣΥΝΑΡΓΕΜΩΝ",
+  "protocol_number": "384 ΕΞ 2021 ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054486",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΨΗΦΙΑΚΗΣ ΔΙΑΚΥΒΕΡΝΗΣΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100060825"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-01-08",
+  "posted": "2021-01-12",
+  "publish_timestamp_ms": 1610441832029,
+  "version_id": "9337fc6a-1dcb-4445-810b-ba420de24472",
+  "in_force": "2021-01-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A844646%CE%9C%CE%A4%CE%9B%CE%A0-9%CE%95%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A844646%CE%9C%CE%A4%CE%9B%CE%A0-9%CE%95%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A844646%CE%9C%CE%A4%CE%9B%CE%A0-9%CE%95%CE%95",
+  "listing_sha256": "c1a9db2e65cb0ad83ca54b7f211f6315826e79f1c2507f6a02373e502bc7042c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
