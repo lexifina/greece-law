@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΗ5Ι465ΧΘΞ-ΑΣ2",
+  "subject": "Καθορισμός διαδικασιών για την έκδοση έγκρισης τύπου ΕΕ μηχανοκίνητων οχημάτων και των ρυμουλκουμένων τους, και των συστημάτων, κατασκευαστικών στοιχείων και χωριστών τεχνικών μονάδων που προορίζονται για τα οχήματα\nαυτά, σύμφωνα με τον Κανονισμό (ΕΕ) 2018/858\nτου Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 30ης Μαΐου 2018",
+  "protocol_number": "οικ. 54795/2971/20",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70366"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5946",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100028190"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-12-31",
+  "posted": "2021-01-13",
+  "publish_timestamp_ms": 1610536829705,
+  "version_id": "923cef89-66df-4890-b523-c1163f3607a3",
+  "in_force": "2021-01-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%975%CE%99465%CE%A7%CE%98%CE%9E-%CE%91%CE%A32",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%975%CE%99465%CE%A7%CE%98%CE%9E-%CE%91%CE%A32/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%975%CE%99465%CE%A7%CE%98%CE%9E-%CE%91%CE%A32",
+  "listing_sha256": "8c0f3b33527e9f2d397b873a470e4d4ebf2fbadac9d164737a0fa6053e8e674b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
