@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Γ20ΩΡΠ-54Ο",
+  "subject": "Αναστολή λειτουργίας σχολικών μονάδων Δήμου Έδεσσας την Παρασκευή 15/1/2021 λόγω χιονόπτωσης",
+  "protocol_number": "573",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6086",
+    "label": "ΔΗΜΟΣ ΕΔΕΣΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80999"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "19",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-01-15",
+  "posted": "2021-01-15",
+  "publish_timestamp_ms": 1610706791852,
+  "version_id": "eff7c0b7-0e51-4c94-b553-a97a06efe695",
+  "in_force": "2021-01-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9320%CE%A9%CE%A1%CE%A0-54%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9320%CE%A9%CE%A1%CE%A0-54%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9320%CE%A9%CE%A1%CE%A0-54%CE%9F",
+  "listing_sha256": "2dd45ad8c9006cadd6a0598b984996b9c8c104ce3d270d692b0174a2a2826215",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
