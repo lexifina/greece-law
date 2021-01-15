@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΓ8ΘΩΕΠ-ΕΙ2",
+  "subject": "Έγκριση πρωτοκόλλου προσωρινής και οριστικής παραλαβής για την «Προμήθεια τριών φορητών μονάδων αφαλάτωσης θαλασσινού νερού με αντίστροφη ώσμωση δυναμικότητας 360m3/ημέρα η κάθε μία».",
+  "protocol_number": "47",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6120",
+    "label": "ΔΗΜΟΣ ΙΗΤΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80966"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-01-12",
+  "posted": "2021-01-15",
+  "publish_timestamp_ms": 1610705014423,
+  "version_id": "fff32e23-78fd-4481-b101-a561f6eaa161",
+  "in_force": "2021-01-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%938%CE%98%CE%A9%CE%95%CE%A0-%CE%95%CE%992",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%938%CE%98%CE%A9%CE%95%CE%A0-%CE%95%CE%992/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%938%CE%98%CE%A9%CE%95%CE%A0-%CE%95%CE%992",
+  "listing_sha256": "31f819edc5f2cd48be7034d34b1661b38a51fff84abebfef35976ec993b0dbcd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
