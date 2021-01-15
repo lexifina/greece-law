@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ1ΑΦΟΡ1Υ-Θ0Ν",
+  "subject": "Δημοσίευση μίας απόφασης μετάταξης σε ανώτερο κλάδο στην Εφημερίδα της Κυβερνησεώς",
+  "protocol_number": "18104",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "78032"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2224",
+      "issue": "fektype_C",
+      "issueyear": 2020
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-12-22",
+  "posted": "2021-01-15",
+  "publish_timestamp_ms": 1610701311941,
+  "version_id": "842a5f45-4608-45bd-8ff4-c1c1fecb4bff",
+  "in_force": "2021-01-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A81%CE%91%CE%A6%CE%9F%CE%A11%CE%A5-%CE%980%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A81%CE%91%CE%A6%CE%9F%CE%A11%CE%A5-%CE%980%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A81%CE%91%CE%A6%CE%9F%CE%A11%CE%A5-%CE%980%CE%9D",
+  "listing_sha256": "2eba3011cec689d7f89f217b27838c7f3afbb4a6cd64b0587aaeec9b4f8c0f28",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
