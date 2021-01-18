@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟΡΚΩΗΖ-ΓΥΨ",
+  "subject": "1/2021 Λήψη απόφασης για έγκριση ή μη διεξαγωγής 1ης έκτακτης συνεδρίασης Οικονομικής Επιτροπής.",
+  "protocol_number": "1",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6323",
+    "label": "ΔΗΜΟΣ ΩΡΑΙΟΚΑΣΤΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84883"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-01-13",
+  "posted": "2021-01-18",
+  "publish_timestamp_ms": 1610964813569,
+  "version_id": "a5b74cf9-c483-4e6d-a384-a10d4e0eafa2",
+  "in_force": "2021-01-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%A1%CE%9A%CE%A9%CE%97%CE%96-%CE%93%CE%A5%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%A1%CE%9A%CE%A9%CE%97%CE%96-%CE%93%CE%A5%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F%CE%A1%CE%9A%CE%A9%CE%97%CE%96-%CE%93%CE%A5%CE%A8",
+  "listing_sha256": "1b8466253930d1415bf500b818758195a97a808d29f67d0b271dac988e649b30",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
