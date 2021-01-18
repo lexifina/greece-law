@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω17ΥΩΡΡ-Υ5Ρ",
+  "subject": "ΕΓΚΡΙΣΗ ΥΠΕΡΩΡΙΑΚΗΣ ΑΠΑΣΧΟΛΗΣΗΣ ΥΠΑΛΛΗΛΩΝ, ΤΑΚΤΙΚΟΥ ΠΡΟΣΩΠΙΚΟΥ , ΠΡΟΣΩΠΙΚΟΥ ΙΔΑΧ ΚΑΙ ΠΡΟΣΩΠΙΚΟΥ ΙΔΟΧ ΤΟΥ ΔΗΜΟΥ ΕΡΜΙΟΝΙΔΑΣ ΓΙΑ ΤΟ Α΄ΕΞΑΜΗΝΟ ΤΟΥ 2021",
+  "protocol_number": "11863",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6095",
+    "label": "ΔΗΜΟΣ ΕΡΜΙΟΝΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81515"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "6055",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "11863",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-12-31",
+  "posted": "2021-01-18",
+  "publish_timestamp_ms": 1610959484750,
+  "version_id": "c15846c0-f30f-4c07-82cb-a8daaceff353",
+  "in_force": "2021-01-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A917%CE%A5%CE%A9%CE%A1%CE%A1-%CE%A55%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A917%CE%A5%CE%A9%CE%A1%CE%A1-%CE%A55%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A917%CE%A5%CE%A9%CE%A1%CE%A1-%CE%A55%CE%A1",
+  "listing_sha256": "7b3a4f07c010600782f34cd0eb3fda4092388911fc955dd31e83b238fc8e5c93",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
