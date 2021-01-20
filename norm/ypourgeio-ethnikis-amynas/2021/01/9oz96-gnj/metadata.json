@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΟΖ96-ΓΝΞ",
+  "subject": "Χρηματικά Εντάλματα Προπληρωμής (ΧΕΠ) Δαπανών Εσωτερικού",
+  "protocol_number": "410302",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78138"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "65ΝΑ6-Π61"
+      }
+    ]
+  },
+  "issued": "2021-01-13",
+  "posted": "2021-01-20",
+  "publish_timestamp_ms": 1611159622909,
+  "version_id": "7005813c-3701-4e4f-8794-9e8e34b6f696",
+  "in_force": "2021-01-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9F%CE%9696-%CE%93%CE%9D%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9F%CE%9696-%CE%93%CE%9D%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%9F%CE%9696-%CE%93%CE%9D%CE%9E",
+  "listing_sha256": "1b8466253930d1415bf500b818758195a97a808d29f67d0b271dac988e649b30",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
