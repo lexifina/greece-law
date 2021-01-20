@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω3Μ2Ε-ΠΓΛ",
+  "subject": "ΜΕΤΑΦΟΡΑ ΠΟΣΟΥ ΑΠΟ ΟΙΚ ΕΤΟΣ 2020",
+  "protocol_number": "9574",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72584"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-01-20",
+  "posted": "2021-01-20",
+  "publish_timestamp_ms": 1611141040707,
+  "version_id": "aa9d68b6-834c-4ccd-8a8f-161ee19055f7",
+  "in_force": "2021-01-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%9C2%CE%95-%CE%A0%CE%93%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%9C2%CE%95-%CE%A0%CE%93%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A93%CE%9C2%CE%95-%CE%A0%CE%93%CE%9B",
+  "listing_sha256": "0507dff1bc0b19557525cfd277ebe886966aabf7bafca6ec9500c81eb4579a40",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
