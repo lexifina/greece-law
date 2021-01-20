@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω1ΑΡ6-4Α9",
+  "subject": "ΠΑΡΑΤΑΣΗ ΠΡΟΘΕΣΜΙΑΣ ΑΠΟΔΟΣΗΣ ΧΕΠ",
+  "protocol_number": "1067056",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "71398"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-01-20",
+  "posted": "2021-01-20",
+  "publish_timestamp_ms": 1611123471700,
+  "version_id": "7a5f58b7-069a-42e3-9690-b8b976e992a8",
+  "in_force": "2021-01-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%91%CE%A16-4%CE%919",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%91%CE%A16-4%CE%919/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A91%CE%91%CE%A16-4%CE%919",
+  "listing_sha256": "8b86ad4d5923101144e0f01994a57c7b7302812e55b785380bc216da0f20f0c3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
