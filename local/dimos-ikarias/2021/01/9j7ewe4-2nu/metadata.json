@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9Ξ7ΕΩΕ4-2ΝΘ",
+  "subject": "Διαγραφή οφειλής ύδρευσης Δ.Ε Ευδήλου",
+  "protocol_number": "8",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6122",
+    "label": "ΔΗΜΟΣ ΙΚΑΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84599"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-01-20",
+  "posted": "2021-01-20",
+  "publish_timestamp_ms": 1611139895687,
+  "version_id": "7935aac5-83c5-4ab4-8c74-9c378de7cb0c",
+  "in_force": "2021-01-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9E7%CE%95%CE%A9%CE%954-2%CE%9D%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9E7%CE%95%CE%A9%CE%954-2%CE%9D%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%9E7%CE%95%CE%A9%CE%954-2%CE%9D%CE%98",
+  "listing_sha256": "0507dff1bc0b19557525cfd277ebe886966aabf7bafca6ec9500c81eb4579a40",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
