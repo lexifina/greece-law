@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ76Ε465ΦΥΟ-ΥΣΕ",
+  "subject": "Έγκριση ωρών υπερωριακής απασχόλησης για το έτος 2021 σε υπαλλήλους(μόνιμους, ΙΔΑΧ, ΙΔΟΧ, αποσπασμένους), που υπηρετούν στην Κεντρική Υπηρεσία του Υπουργείου Υγείας ή υπηρετούν με απόσπαση σε Πολιτικά Κόμματα και σε Γραφεία Βουλευτών.",
+  "protocol_number": "Α1α/οικ. 82677",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100037761"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2463",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "10003",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-12-21",
+  "posted": "2021-01-22",
+  "publish_timestamp_ms": 1611304374812,
+  "version_id": "0a3a8553-5bec-497d-9743-3dd44d977669",
+  "in_force": "2021-01-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A876%CE%95465%CE%A6%CE%A5%CE%9F-%CE%A5%CE%A3%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A876%CE%95465%CE%A6%CE%A5%CE%9F-%CE%A5%CE%A3%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A876%CE%95465%CE%A6%CE%A5%CE%9F-%CE%A5%CE%A3%CE%95",
+  "listing_sha256": "e853b5b6bb99a505870faf6da08d87cf2051b206e18e701685f1fe7986819bb9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
