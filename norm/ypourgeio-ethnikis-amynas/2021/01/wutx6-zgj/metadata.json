@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΘΤΧ6-ΖΓΞ",
+  "subject": "Επισκευή Υλικού «RPM LIM DET LRU 1», Kάλυψης Απαιτήσεων Ε/Π AB-212, \nΟ/Ν 20EC12-20, Σύμβαση 33/20",
+  "protocol_number": "1100",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76874"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "67ΜΡ6-5ΩΒ"
+      }
+    ]
+  },
+  "issued": "2021-01-22",
+  "posted": "2021-01-22",
+  "publish_timestamp_ms": 1611318307716,
+  "version_id": "d30e593c-d115-443b-9a5b-6178245f86b8",
+  "in_force": "2021-01-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%A4%CE%A76-%CE%96%CE%93%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%A4%CE%A76-%CE%96%CE%93%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%98%CE%A4%CE%A76-%CE%96%CE%93%CE%9E",
+  "listing_sha256": "f9a4791de3cb1bb6067d6b2a124767a1d990007a1d53ba4960bff06aeeccd5c9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
