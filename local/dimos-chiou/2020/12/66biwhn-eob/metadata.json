@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "66ΒΙΩΗΝ-ΕΟΒ",
+  "subject": "Η αριθμ 387/2020 Απόφαση Δημάρχου Χίου",
+  "protocol_number": "90217",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78547"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "91",
+      "issue": "fektype_C",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-12-22",
+  "posted": "2021-01-26",
+  "publish_timestamp_ms": 1611658614103,
+  "version_id": "57fccbad-bf2d-4e24-9438-0bd1a90430f3",
+  "in_force": "2021-01-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/66%CE%92%CE%99%CE%A9%CE%97%CE%9D-%CE%95%CE%9F%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/66%CE%92%CE%99%CE%A9%CE%97%CE%9D-%CE%95%CE%9F%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/66%CE%92%CE%99%CE%A9%CE%97%CE%9D-%CE%95%CE%9F%CE%92",
+  "listing_sha256": "2eba3011cec689d7f89f217b27838c7f3afbb4a6cd64b0587aaeec9b4f8c0f28",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
