@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "63ΖΡΩ6Δ-ΦΨ8",
+  "subject": "Αριθ.2/2021 απόφαση Οικον.Επιτροπής.",
+  "protocol_number": "2/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6008",
+    "label": "ΔΗΜΟΣ ΑΓΙΟΥ ΕΥΣΤΡΑΤΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93632"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-01-26",
+  "posted": "2021-01-26",
+  "publish_timestamp_ms": 1611649953326,
+  "version_id": "877be7ac-459e-4178-a866-4cfc89bce17e",
+  "in_force": "2021-01-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/63%CE%96%CE%A1%CE%A96%CE%94-%CE%A6%CE%A88",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/63%CE%96%CE%A1%CE%A96%CE%94-%CE%A6%CE%A88/document",
+  "page": "https://diavgeia.gov.gr/decision/view/63%CE%96%CE%A1%CE%A96%CE%94-%CE%A6%CE%A88",
+  "listing_sha256": "6dfd946f63360fb0624ae0fedb3d4663b58a227ff2d64182b6b64f7dc851684b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
