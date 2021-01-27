@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΚΜΙΩΕΒ-ΧΧ3",
+  "subject": "ΑΝΑΣΤΟΛΗ ΛΕΙΤΟΥΡΓΙΑΣ 12ου ΒΝΣ ΛΟΓΩ COVID - 19",
+  "protocol_number": "5543",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6123",
+    "label": "ΔΗΜΟΣ ΙΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100004865"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-01-27",
+  "posted": "2021-01-27",
+  "publish_timestamp_ms": 1611732712223,
+  "version_id": "5f166007-63e7-454f-8378-bba450c41da7",
+  "in_force": "2021-01-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%9C%CE%99%CE%A9%CE%95%CE%92-%CE%A7%CE%A73",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%9C%CE%99%CE%A9%CE%95%CE%92-%CE%A7%CE%A73/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9A%CE%9C%CE%99%CE%A9%CE%95%CE%92-%CE%A7%CE%A73",
+  "listing_sha256": "4f16698afd62156a1d51388a76901ccfacdd2ce4b7544bfc8cb2f361ed0e8afc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
