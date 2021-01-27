@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΣΨΩΨΒ-ΤΙ4",
+  "subject": "Διαγραφή  Βεβαιωμένων  ποσών οφειλής.",
+  "protocol_number": "19-2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82632"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-01-26",
+  "posted": "2021-01-27",
+  "publish_timestamp_ms": 1611740170448,
+  "version_id": "10855023-2cbc-44c3-be5d-58cd8223ff62",
+  "in_force": "2021-01-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A3%CE%A8%CE%A9%CE%A8%CE%92-%CE%A4%CE%994",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A3%CE%A8%CE%A9%CE%A8%CE%92-%CE%A4%CE%994/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%A3%CE%A8%CE%A9%CE%A8%CE%92-%CE%A4%CE%994",
+  "listing_sha256": "cf2a173b10ec6407c42b5d574d779d21f2a850d69b1e616d3758d081c740f322",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
