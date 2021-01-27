@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΚ55ΟΡ10-ΘΝΜ",
+  "subject": "ΔΑΣΙΚΗ ΑΠΑΓΟΡΕΥΤΙΚΗ ΔΙΑΤΑΞΗ ΒΟΣΚΗΣ Νο 1/ 2021",
+  "protocol_number": "14967",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50200",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "79508"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6586ΟΡ10-ΔΨΕ"
+      }
+    ]
+  },
+  "issued": "2021-01-27",
+  "posted": "2021-01-27",
+  "publish_timestamp_ms": 1611737887025,
+  "version_id": "0631678f-c621-4bc3-b539-f9c10b2d2047",
+  "in_force": "2021-01-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A55%CE%9F%CE%A110-%CE%98%CE%9D%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9A55%CE%9F%CE%A110-%CE%98%CE%9D%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9A55%CE%9F%CE%A110-%CE%98%CE%9D%CE%9C",
+  "listing_sha256": "4f16698afd62156a1d51388a76901ccfacdd2ce4b7544bfc8cb2f361ed0e8afc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
