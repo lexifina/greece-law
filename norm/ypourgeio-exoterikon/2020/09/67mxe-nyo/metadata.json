@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "67ΜΧΕ-ΝΥΟ",
+  "subject": "Δημοσίευση της απόφασης 2528 (2020) του Συμβουλίου Ασφαλείας Ο.Η.Ε. σχετικά με τη Λαϊκή Δημοκρατία του Κονγκό",
+  "protocol_number": "3400.15/ΑΣ 43062",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72603"
+  ],
+  "thematic_category_ids": [
+    "76"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "176",
+      "issue": "fektype_A",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-14",
+  "posted": "2021-01-29",
+  "publish_timestamp_ms": 1611925774479,
+  "version_id": "eeff438a-58a3-43de-b27f-18004fbac7dc",
+  "in_force": "2021-01-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/67%CE%9C%CE%A7%CE%95-%CE%9D%CE%A5%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/67%CE%9C%CE%A7%CE%95-%CE%9D%CE%A5%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/67%CE%9C%CE%A7%CE%95-%CE%9D%CE%A5%CE%9F",
+  "listing_sha256": "44c6146e266f41d15c65ce7a2afdeeb590cd5fc8ae50fd133dba0bca3b4abf29",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
