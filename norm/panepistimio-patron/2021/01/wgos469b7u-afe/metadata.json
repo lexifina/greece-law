@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΟΣ469Β7Θ-ΑΦΕ",
+  "subject": "ΑΠΟΣΠΑΣΜΑ ΑΠΟ ΤΟ ΑΡΙΘ. 750/27.01.2021 ΠΡΑΚΤΙΚΟ ΤΗΣ ΕΠΙΤΡΟΠΗΣ ΕΡΕΥΝΩΝ",
+  "protocol_number": "7798",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206920",
+    "label": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΑΤΡΩΝ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "74045"
+  ],
+  "thematic_category_ids": [
+    "64"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΗΒΗ469Β7Θ-Ο30"
+      }
+    ]
+  },
+  "issued": "2021-01-29",
+  "posted": "2021-01-29",
+  "publish_timestamp_ms": 1611908157642,
+  "version_id": "6618f3d5-bd83-4dc0-88b3-954a02d61add",
+  "in_force": "2021-01-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%9F%CE%A3469%CE%927%CE%98-%CE%91%CE%A6%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%9F%CE%A3469%CE%927%CE%98-%CE%91%CE%A6%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%9F%CE%A3469%CE%927%CE%98-%CE%91%CE%A6%CE%95",
+  "listing_sha256": "0ea65ff2e5910df0ba258b5f277b0f076222ec21a6edc7cc75d8e1fc54b26ad8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
