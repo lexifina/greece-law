@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΘΧΛΩ9Ε-Ν02",
+  "subject": "Υποβολή λογαριασμού εσόδων-εξόδων μηνός Δεκεμβρίου 2020",
+  "protocol_number": "1657",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6062",
+    "label": "ΔΗΜΟΣ ΒΥΡΩΝΟΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100027281"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-01",
+  "posted": "2021-02-01",
+  "publish_timestamp_ms": 1612176110304,
+  "version_id": "72b49259-70c5-47e5-9aa6-f3b3657fc16f",
+  "in_force": "2021-02-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%A7%CE%9B%CE%A99%CE%95-%CE%9D02",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%A7%CE%9B%CE%A99%CE%95-%CE%9D02/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%98%CE%A7%CE%9B%CE%A99%CE%95-%CE%9D02",
+  "listing_sha256": "34651e81497df80651631300b78d353b75b975da1b280006d9aa792278b143ae",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
