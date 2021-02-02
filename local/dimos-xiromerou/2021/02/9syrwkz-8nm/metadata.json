@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΣΥΡΩΚΖ-8ΝΜ",
+  "subject": "ΑΠΟΦΑΣΗ 15/2021 ΔΗΜΑΡΧΟΥ ΠΕΡΙ \"ΠΑΡΑΤΑΣΗ ΠΡΟΣΩΡΙΝΗΣ ΔΙΑΚΟΠΗΣ ΚΥΚΛΟΦΟΡΙΑΣ ΟΔΟΥ ΔΗΜΟΚΡΑΤΙΑΣ (ΑΠΟ ΚΑΡΑΟΛΗ ΔΗΜΗΤΡΙΟΥ ΕΩΣ ΒΑΣΙΛΕΩΣ ΓΕΩΡΓΙΟΥ) ΛΟΓΩ ΕΚΤΕΛΕΣΗΣ ΕΡΓΑΣΙΩΝ ΣΤΑ ΠΛΑΙΣΙΑ ΥΛΟΠΟΙΗΣΗΣ ΤΟΥ ΕΡΓΟΥ ‘ΑΝΑΠΛΑΣΗ ΠΑΡΑΛΙΑΚΟΥ ΜΕΤΩΠΟΥ ΑΣΤΑΚΟΥ, ΑΝΑΔΕΙΞΗ ΙΣΤΟΡΙΚΟΥ ΚΕΝΤΡΟΥ ΚΑΙ ΑΙΣΘΗΤΙΚΗ ΠΑΡΕΜΒΑΣΗ, ΕΝΟΠΟΙΗΣΗ ΚΑΙ ΑΝΑΔΕΙΞΗ ΤΩΝ ΣΗΜΑΝΤΙΚΩΝ ΣΗΜΕΙΩΝ ΤΗΣ ΠΟΛΗΣ ΜΕ ΤΗΝ ΚΕΝΤΡΙΚΗ ΠΛΑΤΕΙΑ (Α’ ΦΑΣΗ)’",
+  "protocol_number": "838",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6221",
+    "label": "ΔΗΜΟΣ ΞΗΡΟΜΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "11248"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω1ΘΛΩΚΖ-ΝΕΘ"
+      }
+    ]
+  },
+  "issued": "2021-02-01",
+  "posted": "2021-02-02",
+  "publish_timestamp_ms": 1612271755765,
+  "version_id": "66837499-74a0-425d-a47e-a07fb48a1291",
+  "in_force": "2021-02-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%A3%CE%A5%CE%A1%CE%A9%CE%9A%CE%96-8%CE%9D%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%A3%CE%A5%CE%A1%CE%A9%CE%9A%CE%96-8%CE%9D%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%A3%CE%A5%CE%A1%CE%A9%CE%9A%CE%96-8%CE%9D%CE%9C",
+  "listing_sha256": "34651e81497df80651631300b78d353b75b975da1b280006d9aa792278b143ae",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
