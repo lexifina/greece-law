@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΛ97ΛΩ-Ι07",
+  "subject": "Επικύρωση προστίμου του Ν. 4039/2012 (όπως τροποποιήθηκε από το Ν. 4235 /2014)",
+  "protocol_number": "352",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5003",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "100016258"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-05",
+  "posted": "2021-02-05",
+  "publish_timestamp_ms": 1612530335348,
+  "version_id": "77077a73-57a6-4c16-b614-7078189aa5a8",
+  "in_force": "2021-02-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%9B97%CE%9B%CE%A9-%CE%9907",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%9B97%CE%9B%CE%A9-%CE%9907/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%9B97%CE%9B%CE%A9-%CE%9907",
+  "listing_sha256": "6dc37e2882a5aa15e4fbcef3d2da28b8d72c552bc95317bb1dd1ab65e61d7db0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
