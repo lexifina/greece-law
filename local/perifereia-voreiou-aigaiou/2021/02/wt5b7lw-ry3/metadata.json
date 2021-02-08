@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤ5Β7ΛΩ-ΡΥ3",
+  "subject": "Χορήγηση ΑΔΕΙΑΣ ΛΕΙΤΟΥΡΓΙΑΣ του πρατηρίου διαθέσεως υγρών καυσίμων σε τροχοφόρα οχήματα REVOIL ΜΟΝ. ΙΚΕ, στην περιοχή «Αμυγδαλώνας» Καταρράκτη του Δήμου Χίου.",
+  "protocol_number": "662",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5003",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79794"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΕΞΛ7ΛΩ-3ΩΧ"
+      }
+    ]
+  },
+  "issued": "2021-02-03",
+  "posted": "2021-02-08",
+  "publish_timestamp_ms": 1612779769158,
+  "version_id": "e06bc8e4-4e62-46ab-89f4-d0f758562fd5",
+  "in_force": "2021-02-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A45%CE%927%CE%9B%CE%A9-%CE%A1%CE%A53",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A45%CE%927%CE%9B%CE%A9-%CE%A1%CE%A53/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A45%CE%927%CE%9B%CE%A9-%CE%A1%CE%A53",
+  "listing_sha256": "4bf084fe1b6e38e79d0e41366cec776de948b05d26080440981504e56f760d97",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
