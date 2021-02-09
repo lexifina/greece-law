@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΞ8ΦΩΡΜ-ΟΣΞ",
+  "subject": "Λήψη απόφασης περί διενέργειας δημοπρασίας για την εκμίσθωση ακινήτου που βρίσκεται στην Τ.Κ. Ελλοπίας",
+  "protocol_number": "5",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6115",
+    "label": "ΔΗΜΟΣ ΘΗΒΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "90792"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-05",
+  "posted": "2021-02-09",
+  "publish_timestamp_ms": 1612868368453,
+  "version_id": "72b74e1e-4b7f-4dcc-835a-1c6725f53c15",
+  "in_force": "2021-02-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9E8%CE%A6%CE%A9%CE%A1%CE%9C-%CE%9F%CE%A3%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9E8%CE%A6%CE%A9%CE%A1%CE%9C-%CE%9F%CE%A3%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9E8%CE%A6%CE%A9%CE%A1%CE%9C-%CE%9F%CE%A3%CE%9E",
+  "listing_sha256": "6dc37e2882a5aa15e4fbcef3d2da28b8d72c552bc95317bb1dd1ab65e61d7db0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
