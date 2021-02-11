@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΩΦ6ΩΗΥ-5ΜΟ",
+  "subject": "ΠΡΟΣΚΛΗΣΗ ΓΙΑ ΟΙΚΟΝΟΜΙΚΗ ΕΠΙΤΡΟΠΗ",
+  "protocol_number": "198/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6311",
+    "label": "ΔΗΜΟΣ ΦΟΥΡΝΩΝ ΚΟΡΣΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86848"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-11",
+  "posted": "2021-02-11",
+  "publish_timestamp_ms": 1613034607770,
+  "version_id": "92e35774-2e75-4bec-b36b-a48cc7e6a70e",
+  "in_force": "2021-02-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%A66%CE%A9%CE%97%CE%A5-5%CE%9C%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%A66%CE%A9%CE%97%CE%A5-5%CE%9C%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A9%CE%A66%CE%A9%CE%97%CE%A5-5%CE%9C%CE%9F",
+  "listing_sha256": "8712ee09cb0e583c8c68511f6c08ebb9f263d04abdcb78c722b4cadbfb02f2cf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
