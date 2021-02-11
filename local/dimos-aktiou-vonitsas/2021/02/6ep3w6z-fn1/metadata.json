@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΕΠ3Ω6Ζ-ΦΝ1",
+  "subject": "2021_ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΕΠΙΤΡΟΠΗΣ ME 116183",
+  "protocol_number": "1373",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6017",
+    "label": "ΔΗΜΟΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93482"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-11",
+  "posted": "2021-02-11",
+  "publish_timestamp_ms": 1613031435245,
+  "version_id": "94fcbcd7-130d-43de-a68f-1122c11c4316",
+  "in_force": "2021-02-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%A03%CE%A96%CE%96-%CE%A6%CE%9D1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%A03%CE%A96%CE%96-%CE%A6%CE%9D1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%95%CE%A03%CE%A96%CE%96-%CE%A6%CE%9D1",
+  "listing_sha256": "8712ee09cb0e583c8c68511f6c08ebb9f263d04abdcb78c722b4cadbfb02f2cf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
