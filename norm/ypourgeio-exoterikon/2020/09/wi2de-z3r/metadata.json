@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙ2ΔΕ-Ζ3Ρ",
+  "subject": "Προεδρικό Διάταγμα 79/2020 \"Εφαρμογή της απόφασης 2478 (2019) του Συμβουλίου Ασφαλείας του Οργανισμού Ηνωμένων Εθνών (Ο.Η.Ε.)\" σχετικά με τη Λ.Δ. Κονγκό",
+  "protocol_number": "3400.15/ΑΣ 41772",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72603"
+  ],
+  "thematic_category_ids": [
+    "76"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "175",
+      "issue": "fektype_A",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "kanonistikipraxiaa": "79/2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2020-09-14",
+  "posted": "2021-02-11",
+  "publish_timestamp_ms": 1613048029871,
+  "version_id": "841fa665-62e7-4e7a-975b-cda69f6426a5",
+  "in_force": "2021-02-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%992%CE%94%CE%95-%CE%963%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%992%CE%94%CE%95-%CE%963%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%992%CE%94%CE%95-%CE%963%CE%A1",
+  "listing_sha256": "44c6146e266f41d15c65ce7a2afdeeb590cd5fc8ae50fd133dba0bca3b4abf29",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
