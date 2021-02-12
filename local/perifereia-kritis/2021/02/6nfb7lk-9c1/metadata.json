@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΝΦΒ7ΛΚ-9Ψ1",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ ΧΡΙΣΤΙΝΑΚΗ ΧΡΥΣΟΥΛΑ",
+  "protocol_number": "36431",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81209"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-12",
+  "posted": "2021-02-12",
+  "publish_timestamp_ms": 1613130497254,
+  "version_id": "3c857f2a-92aa-4bd4-949f-95eb4805aea0",
+  "in_force": "2021-02-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%A6%CE%927%CE%9B%CE%9A-9%CE%A81",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%A6%CE%927%CE%9B%CE%9A-9%CE%A81/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9D%CE%A6%CE%927%CE%9B%CE%9A-9%CE%A81",
+  "listing_sha256": "6e7e38fc7fa1f9bdabb4ded1cb915c3f0940fb40a37eaf1beb8b92976dec53f9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
