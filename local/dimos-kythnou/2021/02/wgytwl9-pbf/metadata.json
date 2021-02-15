@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΥΤΩΛ9-ΠΒΦ",
+  "subject": "Ανάθεση σε δικηγόρο για σύνταξη και κατάθεση δηλώσεως παραιτήσεως (κατόπιν συμβιβασμού) από την από 31.07.2020 και με αριθμό 18/2020 αίτηση Αναιρέσεως ενώπιον του Αρείου Πάγου για την αναίρεση της υπ’ αρίθμ. 76/2020 Αποφάσεως του Τριμελούς Εφετείου Αιγαίου (Διαδικασία Απαλλοτριώσεων) με την οποία κρίθηκαν η αίτηση για απευθείας οριστικό προσδιορισμό μονάδος απαλλοτρίωσης του Δήμου Κύθνου κατά Παναγιώτη Κονταράτου κλπ. και η ανταίτηση για προσδιορισμό οριστικής τιμής μονάδος αποζημίωσης του Παναγιώτη Κονταράτου κλπ κατά του Δήμου Κύθνου.",
+  "protocol_number": "8/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6162",
+    "label": "ΔΗΜΟΣ ΚΥΘΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83012"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-15",
+  "posted": "2021-02-15",
+  "publish_timestamp_ms": 1613373618670,
+  "version_id": "84e6796c-4c51-4bdc-a0c5-522a76229035",
+  "in_force": "2021-02-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A5%CE%A4%CE%A9%CE%9B9-%CE%A0%CE%92%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A5%CE%A4%CE%A9%CE%9B9-%CE%A0%CE%92%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%A5%CE%A4%CE%A9%CE%9B9-%CE%A0%CE%92%CE%A6",
+  "listing_sha256": "8f461ba0fe6ddb7bed103b91dc0694ee33d309dcf70b504ad69474db0c3b3da6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
