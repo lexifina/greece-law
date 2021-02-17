@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΜΨΩΛ0-Ζ03",
+  "subject": "ΑΠΟΔΟΣΗ ΚΡΑΤΗΣΕΩΝ ΓΙΑ ΤΑΔΚΥ-ΤΕΑΔΥ ΧΕΠ: Γ/5",
+  "protocol_number": "XEP Δ26",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6170",
+    "label": "ΔΗΜΟΣ ΛΕΙΨΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83486"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-17",
+  "posted": "2021-02-17",
+  "publish_timestamp_ms": 1613549079379,
+  "version_id": "b54f052c-23e7-4239-b9f5-5543a12a4e51",
+  "in_force": "2021-02-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%9C%CE%A8%CE%A9%CE%9B0-%CE%9603",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%9C%CE%A8%CE%A9%CE%9B0-%CE%9603/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%9C%CE%A8%CE%A9%CE%9B0-%CE%9603",
+  "listing_sha256": "a662ebab2fdc84aa0114dec779d1f476e5fd358cd7e090a9e643c8d1b8b238d4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
