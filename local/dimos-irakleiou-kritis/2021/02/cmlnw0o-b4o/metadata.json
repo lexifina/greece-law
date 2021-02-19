@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΜΛΝΩ0Ο-Β4Ο",
+  "subject": "Παραχώρηση χρήσης ακινήτων Ελληνικού Δημοσίου.",
+  "protocol_number": "40/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81430"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΝΝ7Ω0Ο-3ΡΓ"
+      }
+    ]
+  },
+  "issued": "2021-02-15",
+  "posted": "2021-02-19",
+  "publish_timestamp_ms": 1613727529759,
+  "version_id": "83c6e073-8b65-4a3a-9913-3ce090e83808",
+  "in_force": "2021-02-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9C%CE%9B%CE%9D%CE%A90%CE%9F-%CE%924%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9C%CE%9B%CE%9D%CE%A90%CE%9F-%CE%924%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9C%CE%9B%CE%9D%CE%A90%CE%9F-%CE%924%CE%9F",
+  "listing_sha256": "bfd8720a7626a3f552a639edbcb3cc375fda763517d3d9a2749d3d6f96888d5c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
