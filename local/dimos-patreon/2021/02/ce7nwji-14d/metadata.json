@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΕ7ΝΩΞΙ-14Δ",
+  "subject": "ΤΕΧΝΙΚΟ ΠΡΟΓΡΑΜΜΑ 2021.",
+  "protocol_number": "ΔΥ/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6241",
+    "label": "ΔΗΜΟΣ ΠΑΤΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79619"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "23/2020",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-20",
+  "posted": "2021-02-20",
+  "publish_timestamp_ms": 1613819802024,
+  "version_id": "c292ec96-abe6-42c4-a6c6-4e3b4def4708",
+  "in_force": "2021-02-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%957%CE%9D%CE%A9%CE%9E%CE%99-14%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%957%CE%9D%CE%A9%CE%9E%CE%99-14%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%957%CE%9D%CE%A9%CE%9E%CE%99-14%CE%94",
+  "listing_sha256": "bae9108dc235d5e6d67d91ff81c2cc5fc1f44cf9497aaf762be35cc300ebfaba",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
