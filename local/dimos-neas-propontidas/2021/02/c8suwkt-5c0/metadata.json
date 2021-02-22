@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ8ΣΘΩΚΤ-5Ψ0",
+  "subject": "Μεταβολές Σχολικών Μονάδων (Πρόταση για ίδρυση 2ου Γενικού Λυκείου Ν. Μουδανιών)",
+  "protocol_number": "-",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6210",
+    "label": "ΔΗΜΟΣ ΝΕΑΣ ΠΡΟΠΟΝΤΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82159"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "55",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-22",
+  "posted": "2021-02-22",
+  "publish_timestamp_ms": 1613995186836,
+  "version_id": "23456ca8-ee96-4dc6-8c28-e7d05d5f913a",
+  "in_force": "2021-02-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A88%CE%A3%CE%98%CE%A9%CE%9A%CE%A4-5%CE%A80",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A88%CE%A3%CE%98%CE%A9%CE%9A%CE%A4-5%CE%A80/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A88%CE%A3%CE%98%CE%A9%CE%9A%CE%A4-5%CE%A80",
+  "listing_sha256": "ae636b2da6f8a89ba43682d2839b812cf7056796b9365f4122b73978610e7979",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
