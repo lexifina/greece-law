@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω38046ΜΜΥΗ-ΥΚΓ",
+  "subject": "ΑΝΑΓΝΩΡΙΣΗ ΠΡΟΫΠΗΡΕΣΙΑΣ ΓΙΑ ΜΙΣΘΟΛΟΓΙΚΗ ΕΞΕΛΙΞΗ",
+  "protocol_number": "15340",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100062933",
+    "label": "ΔΗΜΟΣ ΜΕΤΕΩΡΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100042924"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-23",
+  "posted": "2021-02-23",
+  "publish_timestamp_ms": 1614065706365,
+  "version_id": "2ad06d73-e374-421f-a31a-88ebb30649c8",
+  "in_force": "2021-02-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A938046%CE%9C%CE%9C%CE%A5%CE%97-%CE%A5%CE%9A%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A938046%CE%9C%CE%9C%CE%A5%CE%97-%CE%A5%CE%9A%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A938046%CE%9C%CE%9C%CE%A5%CE%97-%CE%A5%CE%9A%CE%93",
+  "listing_sha256": "f206c7d56b7c9569006f8cece12c0b6ae78fdabcc7864269b2276c7c4e959364",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
