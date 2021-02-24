@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΟΔΝ46ΜΠ3Ζ-Ξ3Ψ",
+  "subject": "ΔΙΑΔΙΚΑΣΙΑ ΚΑΙ ΠΡΟΫΠΟΘΕΣΕΙΣ ΚΑΤΑΒΟΛΗΣ ΤΟΥ ΠΟΣΟΥ ΤΗΣ ΑΠΟΖΗΜΙΩΣΗΣ ΤΩΝ ΕΚΜΙΣΘΩΤΩΝ ΓΙΑ ΤΑ ΜΙΣΘΩΜΑΤΑ ΙΑΝΟΥΑΡΙΟΥ - ΦΕΒΡΟΥΑΡΙΟΥ 2021, ΚΑΤ' ΕΠΙΤΑΓΗ ΤΟΥ ΝΟΜΟΥ ΣΤΟ ΠΛΑΙΣΙΟ ΑΝΤΙΜΕΤΩΠΙΣΗΣ ΤΩΝ ΕΠΙΠΤΩΣΕΩΝ ΤΟΥ ΚΟΡΩΝΟΪΟΥ  COVID-19.",
+  "protocol_number": "A.1030",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100029749"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "702",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1030",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100052322"
+        ],
+        "signerIds": [
+          "100047801"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-02-24",
+  "posted": "2021-02-24",
+  "publish_timestamp_ms": 1614162596945,
+  "version_id": "af2fad20-9cf4-4183-8eba-7a8b5eadfd89",
+  "in_force": "2021-02-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F%CE%94%CE%9D46%CE%9C%CE%A03%CE%96-%CE%9E3%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F%CE%94%CE%9D46%CE%9C%CE%A03%CE%96-%CE%9E3%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9F%CE%94%CE%9D46%CE%9C%CE%A03%CE%96-%CE%9E3%CE%A8",
+  "listing_sha256": "595a30b5d6051dd8659f44bd2a723da11f5ec2947649e4dcadff2495b08b5125",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
