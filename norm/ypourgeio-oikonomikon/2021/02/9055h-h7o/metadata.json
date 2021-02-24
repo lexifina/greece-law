@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9055Η-Η7Ο",
+  "subject": "Άνοιγμα τραπεζικού λογαριασμού στην Τράπεζα της Ελλάδος, υπό την ομάδα Νο 234, με τίτλο ‘Κάθε είδους έσοδα Αρχής Πολιτικής Αεροπορίας’ και καθορισμός κίνησης αυτού",
+  "protocol_number": "2/490/ΔΛΤΠ-Α/01-02-2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100061097"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "571",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-01",
+  "posted": "2021-02-24",
+  "publish_timestamp_ms": 1614174499214,
+  "version_id": "bc65a4a0-686a-458d-b66c-0cecbf73fc93",
+  "in_force": "2021-02-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9055%CE%97-%CE%977%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9055%CE%97-%CE%977%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9055%CE%97-%CE%977%CE%9F",
+  "listing_sha256": "34651e81497df80651631300b78d353b75b975da1b280006d9aa792278b143ae",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
