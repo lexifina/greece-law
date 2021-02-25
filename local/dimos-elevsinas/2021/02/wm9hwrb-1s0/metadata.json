@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜ9ΗΩΡΒ-1Σ0",
+  "subject": "Αναμόρφωση Δημοτικού Προϋπολογισμού ο.ε. 2021.",
+  "protocol_number": "21-85",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6089",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΣΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84277"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-25",
+  "posted": "2021-02-25",
+  "publish_timestamp_ms": 1614253947171,
+  "version_id": "a3e60d58-8903-4e03-8f4f-80e6c168ebc2",
+  "in_force": "2021-02-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C9%CE%97%CE%A9%CE%A1%CE%92-1%CE%A30",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C9%CE%97%CE%A9%CE%A1%CE%92-1%CE%A30/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C9%CE%97%CE%A9%CE%A1%CE%92-1%CE%A30",
+  "listing_sha256": "6fd9bcd450ae386467caaa2cc4c1d02ec58e116f0a9ad27ab3b4ebc6cad01a7a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
