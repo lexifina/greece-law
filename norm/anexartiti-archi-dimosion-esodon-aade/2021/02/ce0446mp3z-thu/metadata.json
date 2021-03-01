@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΕ0446ΜΠ3Ζ-ΤΗΘ",
+  "subject": "ΤΡΟΠΟΙ ΚΑΤΑΒΟΛΗΣ ΤΩΝ ΤΕΛΩΝΕΙΑΚΩΝ ΟΦΕΙΛΩΝ",
+  "protocol_number": "Α.1021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100029623"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "730",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-05",
+  "posted": "2021-03-01",
+  "publish_timestamp_ms": 1614592824289,
+  "version_id": "a783c5c1-480d-4596-a53a-aabbcb77c53d",
+  "in_force": "2021-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%950446%CE%9C%CE%A03%CE%96-%CE%A4%CE%97%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%950446%CE%9C%CE%A03%CE%96-%CE%A4%CE%97%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%950446%CE%9C%CE%A03%CE%96-%CE%A4%CE%97%CE%98",
+  "listing_sha256": "6dc37e2882a5aa15e4fbcef3d2da28b8d72c552bc95317bb1dd1ab65e61d7db0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
