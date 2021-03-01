@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ2ΚΙ46ΜΠ3Ζ-ΣΧΡ",
+  "subject": "Παράταση της προθεσμίας υποβολής των δηλώσεων φόρου κληρονομιών, δωρεών και γονικών παροχών με καταληκτική ημερομηνία υποβολής εντός των μηνών Νοεμβρίου και Δεκεμβρίου 2020 καθώς και Ιανουαρίου, Φεβρουαρίου και Μαρτίου 2021.",
+  "protocol_number": "Α.1038",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100030131"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "773",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "Α.1038",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-25",
+  "posted": "2021-03-01",
+  "publish_timestamp_ms": 1614587907500,
+  "version_id": "bd865c1b-81bf-42fe-9d98-e2cdcc3e49d9",
+  "in_force": "2021-03-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A82%CE%9A%CE%9946%CE%9C%CE%A03%CE%96-%CE%A3%CE%A7%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A82%CE%9A%CE%9946%CE%9C%CE%A03%CE%96-%CE%A3%CE%A7%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A82%CE%9A%CE%9946%CE%9C%CE%A03%CE%96-%CE%A3%CE%A7%CE%A1",
+  "listing_sha256": "6fd9bcd450ae386467caaa2cc4c1d02ec58e116f0a9ad27ab3b4ebc6cad01a7a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
