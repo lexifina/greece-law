@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔ3Φ6-ΩΜΟ",
+  "subject": "Οριστική απόλυση των οπλιτών και των εφέδρων αξιωματικών από τις τάξεις των Ενόπλων Δυνάμεων",
+  "protocol_number": "Φ.421.4/1/322490/Σ.1493/26 Φεβρουαρίου 2021/ΓΕΕΘΑ/Β4(ΔΝΣ)/ΤΜΗΜΑ ΣΤΡΑΤΟΛΟΓΙΚΗΣ ΝΟΜΟΘΕΣΙΑΣ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100023360"
+  ],
+  "thematic_category_ids": [
+    "12"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "853",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-02-26",
+  "posted": "2021-03-05",
+  "publish_timestamp_ms": 1614944209359,
+  "version_id": "d77c1af9-9587-403f-8613-952aab98cace",
+  "in_force": "2021-03-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%943%CE%A66-%CE%A9%CE%9C%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%943%CE%A66-%CE%A9%CE%9C%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%943%CE%A66-%CE%A9%CE%9C%CE%9F",
+  "listing_sha256": "bcd0dbadd0fe36f124e16dac80665783844c2d1462413f7399c0adde4287b760",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
