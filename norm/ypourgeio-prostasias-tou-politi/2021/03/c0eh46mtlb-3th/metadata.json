@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ0ΕΗ46ΜΤΛΒ-3ΤΗ",
+  "subject": "16976-Η΄ - Προσωρινές κυκλοφοριακές ρυθμίσεις - προσωρινή και τμηματική διακοπή της κυκλοφορίας των οχημάτων σε οδικά τμήματα περιοχής Νομού Αττικής, κατά το χρονικό διάστημα από 07.03.2021 έως 31.03.2021, λόγω εκτέλεσης εργασιών για την συντήρηση στηθαίων ασφαλείας σε οδικό δίκτυο αρμοδιότητας Δ.Κ.Ε.Σ.Ο.",
+  "protocol_number": "16976-Η΄",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054489",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70926"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "16976-Η΄",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-03-06",
+  "posted": "2021-03-06",
+  "publish_timestamp_ms": 1615031508776,
+  "version_id": "dd66714c-fd98-4ed0-aa15-a413bbf72ab8",
+  "in_force": "2021-03-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A80%CE%95%CE%9746%CE%9C%CE%A4%CE%9B%CE%92-3%CE%A4%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A80%CE%95%CE%9746%CE%9C%CE%A4%CE%9B%CE%92-3%CE%A4%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A80%CE%95%CE%9746%CE%9C%CE%A4%CE%9B%CE%92-3%CE%A4%CE%97",
+  "listing_sha256": "c4737d807fdc84e3b369cb0bff8a855c54337f4c514f4764be1cd517d1217860",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
