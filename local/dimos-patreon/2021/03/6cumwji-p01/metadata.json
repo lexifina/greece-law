@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΨΘΜΩΞΙ-Π01",
+  "subject": "ΚΑΤΑΠΟΛΕΜΗΣΗ ΔΑΚΟΥ ΕΛΙΑΣ",
+  "protocol_number": "ΔΥ/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6241",
+    "label": "ΔΗΜΟΣ ΠΑΤΡΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79627"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "1/2021",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-03-08",
+  "posted": "2021-03-08",
+  "publish_timestamp_ms": 1615206122030,
+  "version_id": "868a8842-9eb3-4383-8fd1-d49b86c8c514",
+  "in_force": "2021-03-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%98%CE%9C%CE%A9%CE%9E%CE%99-%CE%A001",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%98%CE%9C%CE%A9%CE%9E%CE%99-%CE%A001/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A8%CE%98%CE%9C%CE%A9%CE%9E%CE%99-%CE%A001",
+  "listing_sha256": "50e9a225fa99e4545fc1134128e2948036409acc16946a09057f9b5d0fbb16ee",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
