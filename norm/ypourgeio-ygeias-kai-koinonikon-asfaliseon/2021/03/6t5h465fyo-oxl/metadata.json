@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Τ5Η465ΦΥΟ-ΟΧΛ",
+  "subject": "Ορισμός διατάκτη και αποφαινόμενου οργάνου για δαπάνες και δημόσιες συμβάσεις που άπτονται των αρμοδιοτήτων της Διεύθυνσης Ψυχικής Υγείας και της Διεύθυνσης Αντιμετώπισης Εξαρτήσεων",
+  "protocol_number": "Α1ε/Γ.Π.οικ. 12387",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047532"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "890",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-03-05",
+  "posted": "2021-03-09",
+  "publish_timestamp_ms": 1615276153081,
+  "version_id": "efa32500-d6f8-4719-8da9-322c94380025",
+  "in_force": "2021-03-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A45%CE%97465%CE%A6%CE%A5%CE%9F-%CE%9F%CE%A7%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A45%CE%97465%CE%A6%CE%A5%CE%9F-%CE%9F%CE%A7%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A45%CE%97465%CE%A6%CE%A5%CE%9F-%CE%9F%CE%A7%CE%9B",
+  "listing_sha256": "bc487f0eb518f0de2cd81c892419af20f2dd3d71d7e419fca6a22c65299698e4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
