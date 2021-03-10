@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΗΔΦ46ΜΤΛ6-ΣΡΝ",
+  "subject": "Δημοσίευση περίληψης απόφασης διορισμού διακριθέντος αθλητή.",
+  "protocol_number": "-",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100016293"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "514",
+      "issue": "fektype_C",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "13986",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-03-10",
+  "posted": "2021-03-10",
+  "publish_timestamp_ms": 1615383391850,
+  "version_id": "6ffd8fc6-eee9-46dc-9d0e-de1abc3a13e3",
+  "in_force": "2021-03-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%94%CE%A646%CE%9C%CE%A4%CE%9B6-%CE%A3%CE%A1%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%94%CE%A646%CE%9C%CE%A4%CE%9B6-%CE%A3%CE%A1%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%97%CE%94%CE%A646%CE%9C%CE%A4%CE%9B6-%CE%A3%CE%A1%CE%9D",
+  "listing_sha256": "e54a28456a934a6803af4c0ba3b6feac2a3cd6b891790021bd2a3cf20dc3f9bc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
