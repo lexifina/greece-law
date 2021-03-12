@@ -1,0 +1,63 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΔΡΕ465ΧΘΞ-90Ε",
+  "subject": "Οριοθέτηση περιοχών και χορήγηση στεγαστικής συνδρομής για την αποκατάσταση των ζημιών σε κτίρια από τον σεισμό της 3ης Μαρτίου 2021, σε περιοχές των Περιφερειακών Ενοτήτων Λάρισας και Τρικάλων της Περιφέρειας Θεσσαλίας.ΕΓΙΝΕ ΔΙΟΡΘΩΣΗ ΣΦΑΛΜΑΤΟΣ ΦΕΚ 1432/Β/9.4.2021",
+  "protocol_number": "Δ.Α.Ε.Φ.Κ.-Κ.Ε./ 6350 /Α325",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035939"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "964",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70114"
+        ],
+        "signerIds": [
+          "100047836"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-03-11",
+  "posted": "2021-03-12",
+  "publish_timestamp_ms": 1615544385804,
+  "version_id": "02e6ec0e-124e-4888-b3f2-925bb9071da9",
+  "in_force": "2021-03-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%94%CE%A1%CE%95465%CE%A7%CE%98%CE%9E-90%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%94%CE%A1%CE%95465%CE%A7%CE%98%CE%9E-90%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%94%CE%A1%CE%95465%CE%A7%CE%98%CE%9E-90%CE%95",
+  "listing_sha256": "61f520f64e71300f3525f39e47cd846079e1edbf5dbcb8d34dc2432e17836eec",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
