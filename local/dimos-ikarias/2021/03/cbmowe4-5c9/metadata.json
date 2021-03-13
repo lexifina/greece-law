@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΒΜΟΩΕ4-5Ψ9",
+  "subject": "40/2021 Απόφαση O.E.: : Απόφαση για εγκρίσεις Μελετών.",
+  "protocol_number": "40",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6122",
+    "label": "ΔΗΜΟΣ ΙΚΑΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "86359"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-03-13",
+  "posted": "2021-03-13",
+  "publish_timestamp_ms": 1615638455693,
+  "version_id": "5949527b-b7ca-4468-8360-37017c6cd117",
+  "in_force": "2021-03-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%92%CE%9C%CE%9F%CE%A9%CE%954-5%CE%A89",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%92%CE%9C%CE%9F%CE%A9%CE%954-5%CE%A89/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%92%CE%9C%CE%9F%CE%A9%CE%954-5%CE%A89",
+  "listing_sha256": "cdb95c3a906224be13f0a96722af84b37c71bce525472a1b6d186bcd59d4006e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
