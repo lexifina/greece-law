@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟ89ΩΚΟ-Χ3Μ",
+  "subject": "ΑΠΟΦ. 1/2021 ΕΚΤΕΛΕΣΤΙΚΗΣ ΕΠΙΤΡΟΠΗΣ",
+  "protocol_number": "144",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6189",
+    "label": "ΔΗΜΟΣ ΜΕΓΙΣΤΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81958"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-03-16",
+  "posted": "2021-03-16",
+  "publish_timestamp_ms": 1615881595829,
+  "version_id": "253109a5-5112-4557-882f-928e15abee84",
+  "in_force": "2021-03-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F89%CE%A9%CE%9A%CE%9F-%CE%A73%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F89%CE%A9%CE%9A%CE%9F-%CE%A73%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F89%CE%A9%CE%9A%CE%9F-%CE%A73%CE%9C",
+  "listing_sha256": "6dd19dd92ca9488f461f82937a97d06fbb602d5ab8d65652814e5664e94d6ce3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
