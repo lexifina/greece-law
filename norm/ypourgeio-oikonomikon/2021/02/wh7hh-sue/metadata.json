@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΗ7ΗΗ-ΣΘΕ",
+  "subject": "Δημοσίευση (1) μίας διόρθωσης σφάλματος στην Εφημερίδα\nτης Κυβερνήσεως",
+  "protocol_number": "24020 EJ 2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100028543"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "979",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-26",
+  "posted": "2021-03-17",
+  "publish_timestamp_ms": 1615970931650,
+  "version_id": "860d4c61-e53e-4e7e-982d-0b71ad6b1f55",
+  "in_force": "2021-03-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%977%CE%97%CE%97-%CE%A3%CE%98%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%977%CE%97%CE%97-%CE%A3%CE%98%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%977%CE%97%CE%97-%CE%A3%CE%98%CE%95",
+  "listing_sha256": "bcd0dbadd0fe36f124e16dac80665783844c2d1462413f7399c0adde4287b760",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
