@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΒΞΑΩ9Ζ-ΘΧ2",
+  "subject": "Αιτιολόγηση συζήτησης θέματος εκτός ημερήσιας διάταξης",
+  "protocol_number": "46",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6085",
+    "label": "ΔΗΜΟΣ ΔΩΡΙΔΟΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83223"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-03-18",
+  "posted": "2021-03-18",
+  "publish_timestamp_ms": 1616059352660,
+  "version_id": "424d39da-d4d4-4bca-9abb-9b96ce68a615",
+  "in_force": "2021-03-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%92%CE%9E%CE%91%CE%A99%CE%96-%CE%98%CE%A72",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%92%CE%9E%CE%91%CE%A99%CE%96-%CE%98%CE%A72/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%92%CE%9E%CE%91%CE%A99%CE%96-%CE%98%CE%A72",
+  "listing_sha256": "def8ffd2419d199611f01f2918d8d2ad6159cc84fb2190ea0e323abb25440b2e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
