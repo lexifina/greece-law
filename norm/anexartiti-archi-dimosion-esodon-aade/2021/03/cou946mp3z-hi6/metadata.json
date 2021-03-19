@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟΘ946ΜΠ3Ζ-ΗΙ6",
+  "subject": "Τροποποίηση της υπό στοιχεία ΔΙ.Π.Α.Ε.Ε. 1145278 ΕΞ 2020/23-12-2020 απόφασης του Διοικητή της Ανεξάρτητης Αρχής Δημοσίων Εσόδων (Α.Α.Δ.Ε.)«Καθορισμός του αριθμού φορολογικών ελέγχων και ερευνών που θα διενεργηθούν από τις Υ.Ε.Δ.Δ.Ε. κατά το έτος 2021» (Β΄5900).",
+  "protocol_number": "ΔΙ.Π.Α.Ε.Ε.  1021007 ΕΞ 2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100030125"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1057",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-03-19",
+  "posted": "2021-03-19",
+  "publish_timestamp_ms": 1616143321269,
+  "version_id": "8b8d1df7-7375-46b5-bd93-910bfa5cc502",
+  "in_force": "2021-03-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%98946%CE%9C%CE%A03%CE%96-%CE%97%CE%996",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%98946%CE%9C%CE%A03%CE%96-%CE%97%CE%996/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F%CE%98946%CE%9C%CE%A03%CE%96-%CE%97%CE%996",
+  "listing_sha256": "df6e502b998e4aaaa872a6a3e6bb1eb3e1774557ba2ad1988a7219b88a2120b7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
