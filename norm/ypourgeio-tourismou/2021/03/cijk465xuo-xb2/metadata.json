@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΙΞΚ465ΧΘΟ-ΧΒ2",
+  "subject": "ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ ΠΙΣΤΟΠΟΙΗΤΙΚΟ ΚΑΤΑΤΑΞΗΣ ΠΑΠΑΓΙΑΝΝΗΣ ΒΑΣΙΛΕΙΟΣ-ΠΟΥΤΕΤΣΗ ΕΥΔΟΞΙΑ Ε.Ε.",
+  "protocol_number": "ΗΠ/1291",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025893",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΤΟΥΡΙΣΜΟΥ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008196"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ψ3Μ0465ΧΘΟ-Ι05"
+      }
+    ]
+  },
+  "issued": "2021-03-22",
+  "posted": "2021-03-22",
+  "publish_timestamp_ms": 1616401700112,
+  "version_id": "bad75628-130f-4bf0-a481-908b841e487e",
+  "in_force": "2021-03-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%99%CE%9E%CE%9A465%CE%A7%CE%98%CE%9F-%CE%A7%CE%922",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%99%CE%9E%CE%9A465%CE%A7%CE%98%CE%9F-%CE%A7%CE%922/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%99%CE%9E%CE%9A465%CE%A7%CE%98%CE%9F-%CE%A7%CE%922",
+  "listing_sha256": "9080154250ef47b628dcede0c3ba43024f330284b2c4d1cb91d8bf73a6998b92",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
