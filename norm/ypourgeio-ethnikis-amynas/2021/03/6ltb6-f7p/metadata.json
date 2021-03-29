@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΛΤΒ6-Φ7Π",
+  "subject": "Συμβάσεις – Διαγωνισμοί (Διαγωνισμός Υπ’ Αρίθμ. 14/21, για την\nΠρομήθεια Δοκιμαστηρίου Κινητήρων Οχημάτων HUMMER και\nΔιαγωνισμός Υπ’ Αρίθμ. 15/21, για την Προμήθεια Δοκιμαστηρίου\nΚινητήρων Ισχύος 600 ΗΡ OSHKOSH για Κάλυψη Αναγκών του 303\nΠΕΒ)",
+  "protocol_number": "413094",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78138"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΠΦΓ6-9ΝΓ"
+      },
+      {
+        "relatedDecisionsADA": "ΩΣΑΨ6-Φ4Ο"
+      }
+    ]
+  },
+  "issued": "2021-03-22",
+  "posted": "2021-03-29",
+  "publish_timestamp_ms": 1617018668696,
+  "version_id": "17019c41-c45f-409d-9326-04fad6f32c20",
+  "in_force": "2021-03-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B%CE%A4%CE%926-%CE%A67%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B%CE%A4%CE%926-%CE%A67%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9B%CE%A4%CE%926-%CE%A67%CE%A0",
+  "listing_sha256": "33883a31d13610abed26cefb84ee7cdfab428b50f9654c1b16b618c5617896d9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
