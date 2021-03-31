@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΞΣΝΩ17-1ΕΛ",
+  "subject": "Ανάκληση της υπ’ αριθμ. 279/2020 απόφασης του Δημοτικού Συμβουλίου σχετικά με την πρόσληψη χειριστών μηχανημάτων έργων στο Δήμο Πύργου για την αντιμετώπιση κατεπειγουσών πρόσκαιρων αναγκών",
+  "protocol_number": "46/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6260",
+    "label": "ΔΗΜΟΣ ΠΥΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80114"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Δ0ΧΩ17-ΥΕ8"
+      }
+    ]
+  },
+  "issued": "2021-03-31",
+  "posted": "2021-03-31",
+  "publish_timestamp_ms": 1617180400178,
+  "version_id": "6bf49625-827b-4bf1-9dbc-477494e02456",
+  "in_force": "2021-03-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E%CE%A3%CE%9D%CE%A917-1%CE%95%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E%CE%A3%CE%9D%CE%A917-1%CE%95%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9E%CE%A3%CE%9D%CE%A917-1%CE%95%CE%9B",
+  "listing_sha256": "781a68a0007c6caed26369b0feda37afe767259121f5d87d0769263e60d7c94c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
