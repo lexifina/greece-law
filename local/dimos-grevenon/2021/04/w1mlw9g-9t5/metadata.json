@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω1ΜΛΩ9Γ-9Τ5",
+  "subject": "Απόφαση 47/2021 Δ.Σ. με θέμα: Τροποποίηση της αριθμ. 42/2021 απόφασης Δημοτικού Συμβουλίου με θέμα “Παράταση της σύμβασης μίσθωσης του δημοτικού ακινήτου (αίθουσα Πολλαπλών Χρήσεων) της Κοινότητας Πολυδένδρου του Δήμου Γρεβενών (αίτημα Γεωργίου Καζαμία του Κωνσταντίνου)”.",
+  "protocol_number": "4070",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6069",
+    "label": "ΔΗΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003163"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "47/2021",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "60ΙΛΩ9Γ-ΙΕΓ"
+      }
+    ]
+  },
+  "issued": "2021-04-01",
+  "posted": "2021-04-02",
+  "publish_timestamp_ms": 1617340544490,
+  "version_id": "95896b83-4efe-426f-aa4c-10a069b2c7e2",
+  "in_force": "2021-04-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%9C%CE%9B%CE%A99%CE%93-9%CE%A45",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%9C%CE%9B%CE%A99%CE%93-9%CE%A45/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A91%CE%9C%CE%9B%CE%A99%CE%93-9%CE%A45",
+  "listing_sha256": "d1b9de278be8984afabe5cebf50bd56f0db82fc428738d11aee71ef8b9c9ed38",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
