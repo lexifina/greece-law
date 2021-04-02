@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΛΒΚΟΡ1Θ-82Π",
+  "subject": "Έγκριση της με αρ. 35/2021 Απόφασης Δημοτικού Συμβουλίου Δήμου Ηρακλείου, που αφορά σε προσωρινές κυκλοφοριακές ρυθμίσεις εργοταξιακού χαρακτήρα για τις ανάγκες εκτέλεσης του έργου «Διαμόρφωση – Ανάπλαση των οδών Γιαννίκου, Βικέλα και Ρωμανού», εντός παλιάς πόλης Ηρακλείου.",
+  "protocol_number": "786",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76908"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1240",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "786",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-03-16",
+  "posted": "2021-04-02",
+  "publish_timestamp_ms": 1617346142991,
+  "version_id": "4ca80c94-0961-4d34-a384-3b7cf5884e73",
+  "in_force": "2021-04-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B%CE%92%CE%9A%CE%9F%CE%A11%CE%98-82%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B%CE%92%CE%9A%CE%9F%CE%A11%CE%98-82%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9B%CE%92%CE%9A%CE%9F%CE%A11%CE%98-82%CE%A0",
+  "listing_sha256": "6dd19dd92ca9488f461f82937a97d06fbb602d5ab8d65652814e5664e94d6ce3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
