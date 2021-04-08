@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΩΤΠΗ-9ΡΨ",
+  "subject": "Αντικατάσταση μέλους της Εκτελεστικής Επιτροπής του Ταμείου\nΧρηματοπιστωτικής Σταθερότητας (ΤΧΣ) και ορισμός αμοιβής του",
+  "protocol_number": "39990 ΕΞ 2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70114"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "264",
+      "issue": "fektype_YODD",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-04-02",
+  "posted": "2021-04-08",
+  "publish_timestamp_ms": 1617864518252,
+  "version_id": "a19da854-ba3d-479d-a797-f3a4b7f605b1",
+  "in_force": "2021-04-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%A4%CE%A0%CE%97-9%CE%A1%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%A4%CE%A0%CE%97-9%CE%A1%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A9%CE%A4%CE%A0%CE%97-9%CE%A1%CE%A8",
+  "listing_sha256": "a531dac31c1694827840b54b2aaee9830bf8c35e02eb2f9046949897ab95c163",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
