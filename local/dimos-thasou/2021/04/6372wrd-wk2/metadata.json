@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6372ΩΡΔ-ΩΚ2",
+  "subject": "Συγκρότηση Ομάδας Έργου ADRINETBOOK",
+  "protocol_number": "4075",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6110",
+    "label": "ΔΗΜΟΣ ΘΑΣΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83352"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "7/2021",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-04-09",
+  "posted": "2021-04-09",
+  "publish_timestamp_ms": 1617957255786,
+  "version_id": "9e2e9207-6a8b-4984-b8c5-61c67c2b7c7f",
+  "in_force": "2021-04-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6372%CE%A9%CE%A1%CE%94-%CE%A9%CE%9A2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6372%CE%A9%CE%A1%CE%94-%CE%A9%CE%9A2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6372%CE%A9%CE%A1%CE%94-%CE%A9%CE%9A2",
+  "listing_sha256": "5ae780ea8b9e7e32206494ec9839f9d4f36be2751e5972e24dd397efae2253ea",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
