@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟ2ΡΗ-19Σ",
+  "subject": "«Έκδοση Εντόκων Γραμματίων του Ελληνικού Δημοσίου διάρκειας 13 εβδομάδων στις 9/4/2021 μέσω δημόσιας εγγραφής».",
+  "protocol_number": "203",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1438",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "203",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-04-08",
+  "posted": "2021-04-12",
+  "publish_timestamp_ms": 1618214671010,
+  "version_id": "fc10b670-309b-4e6c-bb23-f4d3d7eee8be",
+  "in_force": "2021-04-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F2%CE%A1%CE%97-19%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F2%CE%A1%CE%97-19%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F2%CE%A1%CE%97-19%CE%A3",
+  "listing_sha256": "0ecbce9f8d25c4049a6df2c6b9f150484b79eb02cf807074c9256aa5eeda337e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
