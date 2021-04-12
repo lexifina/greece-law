@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "68Ζ5ΟΡ1Θ-ΞΛΘ",
+  "subject": "Έλεγχος νομιμότητας της υπ’ αριθμ. 28/2021 απόφαση του Δημοτικού Συμβουλίου του Δήμου Χερσονήσου",
+  "protocol_number": "3205",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "100044960"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Θ5ΡΟΡ1Θ-ΩΧΒ"
+      }
+    ]
+  },
+  "issued": "2021-04-09",
+  "posted": "2021-04-12",
+  "publish_timestamp_ms": 1618211730074,
+  "version_id": "a28704dc-5570-47df-8c87-66e63e096905",
+  "in_force": "2021-04-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/68%CE%965%CE%9F%CE%A11%CE%98-%CE%9E%CE%9B%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/68%CE%965%CE%9F%CE%A11%CE%98-%CE%9E%CE%9B%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/68%CE%965%CE%9F%CE%A11%CE%98-%CE%9E%CE%9B%CE%98",
+  "listing_sha256": "e9b6211690af581429f9b10c28b869d36707c3ba7d32a1971959592228f96aef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
