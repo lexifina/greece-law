@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΣΛΦΩΡΖ-ΙΣΣ",
+  "subject": "45 / 2021 - Εισήγηση της Οικονομικής Επιτροπής (αρ. απόφ. 125/2021) για την αποδοχή και κατανομή ποσού από πρόγραμμα ΦΙΛΟΔΗΜΟΣ ΙΙ βάση της αρ. πρωτ.26722 06/04/2021 (ΑΔΑ: ΩΥΡΩ46ΜΤΛ6-Δ15) απόφασης του Υπουργείου Εσωτερικών (Ένταξη Πράξης του Δήμου Ιερής Πόλης Μεσολογγίου στο Πρόγραμμα «ΦΙΛΟΔΗΜΟΣ ΙΙ», στο πλαίσιο της Πρόσκλησης Χ ‘‘Κατασκευή, επισκευή, συντήρηση και εξοπλισμός εγκαταστάσεων καταφυγίων αδέσποτων ζώων συντροφιάς’’ .",
+  "protocol_number": "6772",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6119",
+    "label": "ΔΗΜΟΣ ΙΕΡΑΣ ΠΟΛΗΣ ΜΕΣΟΛΟΓΓΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78262"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΩΡΡΩΡΖ-ΦΥΕ"
+      }
+    ]
+  },
+  "issued": "2021-04-15",
+  "posted": "2021-04-15",
+  "publish_timestamp_ms": 1618472788602,
+  "version_id": "29a0b16e-aa98-465a-9ea4-499d2b80f88e",
+  "in_force": "2021-04-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%9B%CE%A6%CE%A9%CE%A1%CE%96-%CE%99%CE%A3%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%9B%CE%A6%CE%A9%CE%A1%CE%96-%CE%99%CE%A3%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A3%CE%9B%CE%A6%CE%A9%CE%A1%CE%96-%CE%99%CE%A3%CE%A3",
+  "listing_sha256": "c489d14ce1a332b6fbe902ab63fd554405f030fba309b04645b5b0c3dcd454dd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
