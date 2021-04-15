@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "614ΠΩΚΤ-ΤΓΒ",
+  "subject": "Διεξαγωγή δημοπρασίας για εκμίσθωση δημοτικού ακινήτου στην Κοινότητα Φλογητών.",
+  "protocol_number": "104",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6210",
+    "label": "ΔΗΜΟΣ ΝΕΑΣ ΠΡΟΠΟΝΤΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82159"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "104",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-04-14",
+  "posted": "2021-04-15",
+  "publish_timestamp_ms": 1618490716115,
+  "version_id": "4dbcf0cc-56b7-43a6-82e5-6a4ab4c5a39d",
+  "in_force": "2021-04-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/614%CE%A0%CE%A9%CE%9A%CE%A4-%CE%A4%CE%93%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/614%CE%A0%CE%A9%CE%9A%CE%A4-%CE%A4%CE%93%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/614%CE%A0%CE%A9%CE%9A%CE%A4-%CE%A4%CE%93%CE%92",
+  "listing_sha256": "36ba424cacfc029222330b68d79fd583027853851c547fb27ab353304637e0f9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
