@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ3Υ1ΩΗ5-ΝΛ6",
+  "subject": "Κατανομή κενών θέσεων ΟΕΥ Δήμου Χανίων.",
+  "protocol_number": "18029",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6318",
+    "label": "ΔΗΜΟΣ ΧΑΝΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81067"
+  ],
+  "thematic_category_ids": [
+    "44",
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-04-15",
+  "posted": "2021-04-15",
+  "publish_timestamp_ms": 1618477067208,
+  "version_id": "2979cf30-be03-490f-8a76-54c0e5b596d6",
+  "in_force": "2021-04-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A83%CE%A51%CE%A9%CE%975-%CE%9D%CE%9B6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A83%CE%A51%CE%A9%CE%975-%CE%9D%CE%9B6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A83%CE%A51%CE%A9%CE%975-%CE%9D%CE%9B6",
+  "listing_sha256": "837598f115642dcec0e161d303f06f6573876aeb1b4a47055c3f36bcc72d5724",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
