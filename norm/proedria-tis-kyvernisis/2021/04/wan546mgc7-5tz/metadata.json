@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΑΝ546ΜΓΨ7-5ΤΖ",
+  "subject": "«Παράταση μεταβατικά της θητείας του Προέδρου Διοικητικού Συμβουλίου-Γενικού Διευθυντή της εταιρείας «Αθηναϊκό Πρακτορείο Ειδήσεων – Μακεδονικό Πρακτορείο Ειδήσεων Α.Ε. (A.Π.Ε.-Μ.Π.Ε. Α.Ε.)», σύμφωνα με τις διατάξεις του άρθρου 22 παρ.2 του ν.4735/2020».",
+  "protocol_number": "Ε/154",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100048574",
+    "label": "ΠΡΟΕΔΡΙΑ ΤΗΣ ΚΥΒΕΡΝΗΣΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100048997"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "296",
+      "issue": "fektype_YODD",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "Ε/154",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "10643"
+        ],
+        "signerIds": [
+          "126841"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-04-15",
+  "posted": "2021-04-15",
+  "publish_timestamp_ms": 1618482041218,
+  "version_id": "64192fe7-9050-42dd-879c-1a40dc5e192b",
+  "in_force": "2021-04-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%91%CE%9D546%CE%9C%CE%93%CE%A87-5%CE%A4%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%91%CE%9D546%CE%9C%CE%93%CE%A87-5%CE%A4%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%91%CE%9D546%CE%9C%CE%93%CE%A87-5%CE%A4%CE%96",
+  "listing_sha256": "837598f115642dcec0e161d303f06f6573876aeb1b4a47055c3f36bcc72d5724",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
