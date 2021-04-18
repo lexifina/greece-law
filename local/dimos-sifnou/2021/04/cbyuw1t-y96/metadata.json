@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΒΥΘΩ1Τ-Υ96",
+  "subject": "ΑΠΟΦΑΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ ΣΙΦΝΟΥ 47/2021: Έγκριση του οικονομικού απολογισμού της Δημοτικής Κοινωφελούς Επιχείρησης Σίφνου για το οικονομικό έτος 2020, μετά την υπ’ αρ. 1/2021 απόφαση του Διοικητικού Συμβουλίου της Επιχείρησης",
+  "protocol_number": "47/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6278",
+    "label": "ΔΗΜΟΣ ΣΙΦΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81567"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "47/2021",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΚΠΜΟΡΙΘ-ΩΦΧ"
+      }
+    ]
+  },
+  "issued": "2021-04-18",
+  "posted": "2021-04-18",
+  "publish_timestamp_ms": 1618746444643,
+  "version_id": "efb92480-d4e2-4895-acc2-dca8cc1579c1",
+  "in_force": "2021-04-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%92%CE%A5%CE%98%CE%A91%CE%A4-%CE%A596",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%92%CE%A5%CE%98%CE%A91%CE%A4-%CE%A596/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%92%CE%A5%CE%98%CE%A91%CE%A4-%CE%A596",
+  "listing_sha256": "0abd1aba7df0fb7eb9636b977d7cd4d4c54c33294975927ff52d907e35011f27",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
