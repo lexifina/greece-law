@@ -1,0 +1,57 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΖ2Ξ465ΦΥΟ-ΑΡΞ",
+  "subject": "Έγκριση σύμβασης δωρεάς για την προμήθεια ενός (1) ασθενοφόρου οχήματος (Κ.Υ.Α)",
+  "protocol_number": "24814",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100039877"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "126841"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100052322"
+        ],
+        "signerIds": [
+          "100047801"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-04-19",
+  "posted": "2021-04-19",
+  "publish_timestamp_ms": 1618833221137,
+  "version_id": "4373e29a-20d9-4d58-9d44-5032a9354ceb",
+  "in_force": "2021-04-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%962%CE%9E465%CE%A6%CE%A5%CE%9F-%CE%91%CE%A1%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%962%CE%9E465%CE%A6%CE%A5%CE%9F-%CE%91%CE%A1%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%962%CE%9E465%CE%A6%CE%A5%CE%9F-%CE%91%CE%A1%CE%9E",
+  "listing_sha256": "a1e6c76a115ae9c7b767bb88e9449ae21add687e9d356f3d61d97653e85df216",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
