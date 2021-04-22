@@ -1,0 +1,72 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9Λ3846ΜΠ3Ζ-6ΩΗ",
+  "subject": "ΚΑΘΟΡΙΣΜΟΣ ΤΩΝ ΠΡΟΫΠΟΘΕΣΕΩΝ, ΤΩΝ ΟΡΩΝ, ΤΗΣ ΔΙΑΔΙΚΑΣΙΑΣ ΚΑΙ ΚΑΘΕ ΑΛΛΗΣ ΑΝΑΓΚΑΙΑΣ ΛΕΠΤΟΜΕΡΕΙΑΣ ΓΙΑ ΤΗΝ ΕΦΑΡΜΟΓΗ ΤΩΝ ΔΙΑΤΑΞΕΩΝ ΤΟΥ ΑΡΘΡΟΥ 39Β  ΤΟΥ ν. 4172/2013",
+  "protocol_number": "Α. 1090",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100029749"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1636",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "1090",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "126841"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100052322"
+        ],
+        "signerIds": [
+          "100047801"
+        ]
+      },
+      {
+        "ministryId": "100015996",
+        "unitId": [
+          "100022141"
+        ],
+        "signerIds": [
+          "100063929"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-04-22",
+  "posted": "2021-04-22",
+  "publish_timestamp_ms": 1619088591237,
+  "version_id": "04f769b4-a22e-4a49-b8f6-33652e733b0d",
+  "in_force": "2021-04-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9B3846%CE%9C%CE%A03%CE%96-6%CE%A9%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9B3846%CE%9C%CE%A03%CE%96-6%CE%A9%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%9B3846%CE%9C%CE%A03%CE%96-6%CE%A9%CE%97",
+  "listing_sha256": "a0bae688184c576bb5977407a4c15fa069a747379ea55bb85260c48556eadcb5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
