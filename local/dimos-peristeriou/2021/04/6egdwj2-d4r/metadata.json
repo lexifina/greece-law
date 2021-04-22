@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΕΓΔΩΞ2-Δ4Ρ",
+  "subject": "Απόδοση λογαριασμού για το υπ΄αριθμ. 420/29.3.2021 χρηματικό ένταλμα προπληρωμής",
+  "protocol_number": "152",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78115"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-04-15",
+  "posted": "2021-04-22",
+  "publish_timestamp_ms": 1619073781367,
+  "version_id": "da11575d-bdfc-4339-a2ec-2a18cc74b7be",
+  "in_force": "2021-04-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%93%CE%94%CE%A9%CE%9E2-%CE%944%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%95%CE%93%CE%94%CE%A9%CE%9E2-%CE%944%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%95%CE%93%CE%94%CE%A9%CE%9E2-%CE%944%CE%A1",
+  "listing_sha256": "837598f115642dcec0e161d303f06f6573876aeb1b4a47055c3f36bcc72d5724",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
