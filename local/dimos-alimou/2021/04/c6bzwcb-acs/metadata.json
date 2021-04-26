@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ6ΒΖΩΨΒ-ΑΨΣ",
+  "subject": "Έγκριση κάλυψης δαπανών κηδείας απόρου δημότη.",
+  "protocol_number": "27-2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82631"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-04-22",
+  "posted": "2021-04-26",
+  "publish_timestamp_ms": 1619412414987,
+  "version_id": "3e128ad8-24a5-4a0c-84cc-a35608b18ff7",
+  "in_force": "2021-04-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%92%CE%96%CE%A9%CE%A8%CE%92-%CE%91%CE%A8%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%92%CE%96%CE%A9%CE%A8%CE%92-%CE%91%CE%A8%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A86%CE%92%CE%96%CE%A9%CE%A8%CE%92-%CE%91%CE%A8%CE%A3",
+  "listing_sha256": "a0bae688184c576bb5977407a4c15fa069a747379ea55bb85260c48556eadcb5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
