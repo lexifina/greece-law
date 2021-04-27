@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΘΓΝΟΡ1Κ-6ΨΩ",
+  "subject": "Απόφαση έγκρισης κυκλοφοριακών ρυθμίσεων σύμφωνα με την υπ' αριθ. 97/2019 απόφαση της Επιτροπής Ποιότητας Ζωής του Δήμου Αθηναίων",
+  "protocol_number": "43366",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50196",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΤΤΙΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76318"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1646",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-04-13",
+  "posted": "2021-04-27",
+  "publish_timestamp_ms": 1619519850466,
+  "version_id": "b88cbc42-4f52-48d1-a46e-987ace908a70",
+  "in_force": "2021-04-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%93%CE%9D%CE%9F%CE%A11%CE%9A-6%CE%A8%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%98%CE%93%CE%9D%CE%9F%CE%A11%CE%9A-6%CE%A8%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%98%CE%93%CE%9D%CE%9F%CE%A11%CE%9A-6%CE%A8%CE%A9",
+  "listing_sha256": "0afcbf7dcb677a35caf1bbba45f1f97111ce0b4ec14f7c44db6b4cc487dcb81f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
