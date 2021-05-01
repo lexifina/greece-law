@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω06Μ46ΜΤΛΒ-5ΒΒ",
+  "subject": "Τροποποίηση της υπ’ αριθ. 8045/8/1-α΄ από 30.03.2020 απόφασης του Υπουργού και του Υφυπουργού Προστασίας του Πολίτη «Ορισμός ανεξάρτητων επιχειρησιακών μονάδων, υποκείμενων ή υπαγόμενων στην Ελληνική Αστυνομία, του Υπουργείου Προστασίας του Πολίτη, κατά το άρθρο 6, παρ. 2 εδάφιο δ του ν. 4412/2016, όπως ισχύει» (Β΄-1206).",
+  "protocol_number": "8045/8/1-ζ΄",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054489",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100042838"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1797",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΟΙΕ46ΜΤΛΒ-ΛΛΕ"
+      }
+    ]
+  },
+  "issued": "2021-05-01",
+  "posted": "2021-05-01",
+  "publish_timestamp_ms": 1619855745616,
+  "version_id": "d1f40831-c676-46f5-a0bb-996436b3b102",
+  "in_force": "2021-05-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A906%CE%9C46%CE%9C%CE%A4%CE%9B%CE%92-5%CE%92%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A906%CE%9C46%CE%9C%CE%A4%CE%9B%CE%92-5%CE%92%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A906%CE%9C46%CE%9C%CE%A4%CE%9B%CE%92-5%CE%92%CE%92",
+  "listing_sha256": "4ec881199b317a25b69c3523f4d24d4db1dd3ec19a2794e95596807d0d4fd33e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
