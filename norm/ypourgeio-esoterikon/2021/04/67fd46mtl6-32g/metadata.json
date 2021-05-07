@@ -1,0 +1,58 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "67ΦΔ46ΜΤΛ6-32Γ",
+  "subject": "Πράξη Έγκρισης Σύμβασης Δωρεάς μεταξύ του Σωματείου «ΣΥΜΠΡΑΞΗ ΓΙΑ ΤΗΝ ΑΘΗΝΑ» με την υποστήριξη της εταιρίας «ΟΛΥΜΠΙΑΚΗ ΖΥΘΟΠΟΙΙΑ» και του Δήμου Αθηναίων, για τη συντήρηση και αποκατάσταση του Πάρκου Κλωναρίδη – ΦΙΞ,  στο πλαίσιο της συμμετοχής του στο πρόγραμμα «Υιοθέτησε την πόλη σου»",
+  "protocol_number": "34575",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "91263"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "34575",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "91263"
+        ],
+        "signerIds": [
+          "100064185"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "126841"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-04-28",
+  "posted": "2021-05-07",
+  "publish_timestamp_ms": 1620370767902,
+  "version_id": "555f7906-ca43-40f6-9841-e844d2303a8f",
+  "in_force": "2021-05-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/67%CE%A6%CE%9446%CE%9C%CE%A4%CE%9B6-32%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/67%CE%A6%CE%9446%CE%9C%CE%A4%CE%9B6-32%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/67%CE%A6%CE%9446%CE%9C%CE%A4%CE%9B6-32%CE%93",
+  "listing_sha256": "69da88e3a23588ced580a295e881b1c1622bbe6f6cd48bcfb70eb4e5b9eb58eb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
