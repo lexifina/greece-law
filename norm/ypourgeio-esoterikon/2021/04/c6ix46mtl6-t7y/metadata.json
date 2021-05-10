@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ6ΙΧ46ΜΤΛ6-Τ7Υ",
+  "subject": "Συμψηφισμός οφειλών της Περιφέρειας Ανατολικής Μακεδονίας και Θράκης,  προς το Ελληνικό Δημόσιο, σύμφωνα με το άρθρο 79 του ν.4316/2014 (A΄ 270).",
+  "protocol_number": "27479",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "91264"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1743",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100008321"
+        ],
+        "signerIds": [
+          "126044"
+        ]
+      },
+      {
+        "ministryId": "100054498",
+        "unitId": [
+          "100000732"
+        ],
+        "signerIds": [
+          "100008005"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-04-08",
+  "posted": "2021-05-10",
+  "publish_timestamp_ms": 1620631939272,
+  "version_id": "a6db1e53-f60c-4dd4-a123-1c8a6794f38e",
+  "in_force": "2021-05-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%99%CE%A746%CE%9C%CE%A4%CE%9B6-%CE%A47%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%99%CE%A746%CE%9C%CE%A4%CE%9B6-%CE%A47%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A86%CE%99%CE%A746%CE%9C%CE%A4%CE%9B6-%CE%A47%CE%A5",
+  "listing_sha256": "0ecbce9f8d25c4049a6df2c6b9f150484b79eb02cf807074c9256aa5eeda337e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
