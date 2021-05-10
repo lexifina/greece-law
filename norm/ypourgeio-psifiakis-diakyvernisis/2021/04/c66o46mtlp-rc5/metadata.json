@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ66Ο46ΜΤΛΠ-ΡΨ5",
+  "subject": "Διάθεση διαδικτυακής υπηρεσίας για λήψη στοιχείων Φορολογικού Μητρώου από τους ΕΛΚΕ των ΑΕΙ",
+  "protocol_number": "10517 ΕΞ 2021 ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054486",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΨΗΦΙΑΚΗΣ ΔΙΑΚΥΒΕΡΝΗΣΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100057491"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1850",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-04-08",
+  "posted": "2021-05-10",
+  "publish_timestamp_ms": 1620649521940,
+  "version_id": "646b92a0-3f4b-4475-a5c8-42425c95c4d2",
+  "in_force": "2021-05-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A866%CE%9F46%CE%9C%CE%A4%CE%9B%CE%A0-%CE%A1%CE%A85",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A866%CE%9F46%CE%9C%CE%A4%CE%9B%CE%A0-%CE%A1%CE%A85/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A866%CE%9F46%CE%9C%CE%A4%CE%9B%CE%A0-%CE%A1%CE%A85",
+  "listing_sha256": "0ecbce9f8d25c4049a6df2c6b9f150484b79eb02cf807074c9256aa5eeda337e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
