@@ -1,0 +1,71 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ7ΒΣ465ΧΘΟ-6ΧΩ",
+  "subject": "Τροποποίηση της υπ’ αριθ. 7350/1.04.2014 κοινής απόφασης με τίτλο «Όροι και προϋποθέσεις σύστασης και λειτουργίας επιχειρήσεων εκμίσθωσης Μοτοσικλετών, Τρίτροχων και Τετράτροχων οχημάτων άνω των 50 κ. εκ. χωρίς οδηγό. Ένταξη της διαδικασίας για τη λειτουργία των επιχειρήσεων εκμίσθωσης Μοτοσικλετών, Τρίτροχων και Τετράτροχων οχημάτων άνω των 50 κ. εκ. χωρίς οδηγό στα Ενιαία Κέντρα Εξυπηρέτησης (Ε.Κ.Ε.)» (Β' 807)",
+  "protocol_number": "6527",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025893",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΤΟΥΡΙΣΜΟΥ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035533"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1873",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "126841"
+        ]
+      },
+      {
+        "ministryId": "100054486",
+        "unitId": [
+          "100057434"
+        ],
+        "signerIds": [
+          "100053505"
+        ]
+      },
+      {
+        "ministryId": "100025905",
+        "unitId": [
+          "100047007"
+        ],
+        "signerIds": [
+          "100048080"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-05-11",
+  "posted": "2021-05-11",
+  "publish_timestamp_ms": 1620711745880,
+  "version_id": "40f92e5d-f789-4792-ae20-1b9c7cab6c19",
+  "in_force": "2021-05-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A87%CE%92%CE%A3465%CE%A7%CE%98%CE%9F-6%CE%A7%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A87%CE%92%CE%A3465%CE%A7%CE%98%CE%9F-6%CE%A7%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A87%CE%92%CE%A3465%CE%A7%CE%98%CE%9F-6%CE%A7%CE%A9",
+  "listing_sha256": "6f4256f6eadf60362e756f8b802a2718ecdf001bc0e257187c1234e56b702d60",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
