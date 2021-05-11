@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΣ237ΛΡ-ΘΡΗ",
+  "subject": "ΑΠΟΦΑΣΗ ΓΕΝΟΜΕΝΗΣ ΣΥΜΒΑΣΗΣ",
+  "protocol_number": "131539",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81126"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-04-12",
+  "posted": "2021-05-11",
+  "publish_timestamp_ms": 1620727166645,
+  "version_id": "26bd487c-531f-4b34-aa4d-ca5864cce6c1",
+  "in_force": "2021-05-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3237%CE%9B%CE%A1-%CE%98%CE%A1%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3237%CE%9B%CE%A1-%CE%98%CE%A1%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A3237%CE%9B%CE%A1-%CE%98%CE%A1%CE%97",
+  "listing_sha256": "4cb4c92a99004c39b88c1320d96ca190d2180ca9e1a2b17cb7389510fd2a8a2a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
