@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "944ΣΩΛ0-8ΧΧ",
+  "subject": "ΔΑΠΑΝΗ ΚΡΑΤΗΣΗΣ ΑΠΟ Ε ΚΑΤΑΝΟΜΗ ΚΑΠ ΟΙΚ. ΕΤΟΥΣ 2021",
+  "protocol_number": "XEP A120",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6170",
+    "label": "ΔΗΜΟΣ ΛΕΙΨΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83486"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-05-13",
+  "posted": "2021-05-13",
+  "publish_timestamp_ms": 1620897413330,
+  "version_id": "4d5ae93e-fbd7-4e31-aff3-2ac2a30582be",
+  "in_force": "2021-05-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/944%CE%A3%CE%A9%CE%9B0-8%CE%A7%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/944%CE%A3%CE%A9%CE%9B0-8%CE%A7%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/944%CE%A3%CE%A9%CE%9B0-8%CE%A7%CE%A7",
+  "listing_sha256": "bc167792ff39829825e7e72f6f593449f60e1e9005355549a0acf924d9f78523",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
