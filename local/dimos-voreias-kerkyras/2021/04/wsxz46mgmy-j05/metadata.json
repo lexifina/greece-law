@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΣΧΖ46ΜΓΜΥ-Ξ05",
+  "subject": "Αποδοχή έκτακτης επιχορήγησης Δήμων της Χώρας συνολικού ποσού ύψους 50.000.000,00€ προς κάλυψη έκτακτων και επιτακτικών αναγκών που προκλήθηκαν από την εμφάνιση του κορωνοϊού COVID-19.",
+  "protocol_number": "11-83",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100049339",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΕΡΚΥΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100055285"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-04-21",
+  "posted": "2021-05-17",
+  "publish_timestamp_ms": 1621245844258,
+  "version_id": "cc73b50d-df71-433d-b176-f3c0664e37db",
+  "in_force": "2021-05-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%A7%CE%9646%CE%9C%CE%93%CE%9C%CE%A5-%CE%9E05",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%A7%CE%9646%CE%9C%CE%93%CE%9C%CE%A5-%CE%9E05/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A3%CE%A7%CE%9646%CE%9C%CE%93%CE%9C%CE%A5-%CE%9E05",
+  "listing_sha256": "782b0e7070a6319af62349c09071d0c5056e1266b6bc2ebdb11a3fc1aa50dea6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
