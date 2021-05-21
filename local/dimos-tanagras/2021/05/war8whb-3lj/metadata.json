@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΑΡ8ΩΗΒ-3ΛΞ",
+  "subject": "ΑΠΕΥΘΕΙΑΣ ΠΡΟΜΗΘΕΙΑ ΔΟΣΟΜΕΤΡΙΚΩΝ ΣΥΣΤΗΜΑΤΩΝ",
+  "protocol_number": "7255_2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6293",
+    "label": "ΔΗΜΟΣ ΤΑΝΑΓΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81324"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-05-21",
+  "posted": "2021-05-21",
+  "publish_timestamp_ms": 1621589347335,
+  "version_id": "c0db9cd8-6b7a-4ab7-bd71-e84c2f227531",
+  "in_force": "2021-05-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%91%CE%A18%CE%A9%CE%97%CE%92-3%CE%9B%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%91%CE%A18%CE%A9%CE%97%CE%92-3%CE%9B%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%91%CE%A18%CE%A9%CE%97%CE%92-3%CE%9B%CE%9E",
+  "listing_sha256": "66ee20edfe19faa08978e4aea8047b957af35e0b89dfbff4c90ec1710b863113",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
