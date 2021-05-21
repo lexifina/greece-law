@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΜΡΞ6-65Π",
+  "subject": "Συγκρότηση Επιτροπής Προμήθειας Χαρτοκιβωτίων - Υλικών Συσκευασίας",
+  "protocol_number": "1572",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "88205"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "68Γ26-2Μ1"
+      }
+    ]
+  },
+  "issued": "2021-05-21",
+  "posted": "2021-05-21",
+  "publish_timestamp_ms": 1621577927227,
+  "version_id": "a0046721-57f8-476f-8cfe-24e0022bd01f",
+  "in_force": "2021-05-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C%CE%A1%CE%9E6-65%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C%CE%A1%CE%9E6-65%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9C%CE%A1%CE%9E6-65%CE%A0",
+  "listing_sha256": "66ee20edfe19faa08978e4aea8047b957af35e0b89dfbff4c90ec1710b863113",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
