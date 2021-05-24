@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΒΕΡΩΕΒ-9ΞΡ",
+  "subject": "Αποστολή ΤΣΔΑ Δ. Ιλίου και Έκθεση Σχεδιασμού Βιοαποβλήτων",
+  "protocol_number": "34687",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6123",
+    "label": "ΔΗΜΟΣ ΙΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79672"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "016",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-05-24",
+  "posted": "2021-05-24",
+  "publish_timestamp_ms": 1621856593015,
+  "version_id": "a04a8504-d3f0-4c3e-94d6-3ac3c64eb1d1",
+  "in_force": "2021-05-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%92%CE%95%CE%A1%CE%A9%CE%95%CE%92-9%CE%9E%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%92%CE%95%CE%A1%CE%A9%CE%95%CE%92-9%CE%9E%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%92%CE%95%CE%A1%CE%A9%CE%95%CE%92-9%CE%9E%CE%A1",
+  "listing_sha256": "3ac0c13ae099099fde00a9c586dd0640815f261e4cec892d983f2f4968dac538",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
