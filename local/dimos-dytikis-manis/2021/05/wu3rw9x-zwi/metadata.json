@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΘ3ΡΩ9Χ-ΖΩΙ",
+  "subject": "ΑΠΟΦΑΣΗ Ο.Ε.105/2021",
+  "protocol_number": "3059",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6083",
+    "label": "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΜΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84853"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-05-24",
+  "posted": "2021-05-24",
+  "publish_timestamp_ms": 1621830392094,
+  "version_id": "f5d723f7-b2bc-4d1a-8553-5dc40c687557",
+  "in_force": "2021-05-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%983%CE%A1%CE%A99%CE%A7-%CE%96%CE%A9%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%983%CE%A1%CE%A99%CE%A7-%CE%96%CE%A9%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%983%CE%A1%CE%A99%CE%A7-%CE%96%CE%A9%CE%99",
+  "listing_sha256": "8e760a0190b0fbe33fe1d2c70798e5d8cdc9d0530b75129a78e8aee54e0da455",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
