@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥΩ4ΩΛΩ-ΥΧΝ",
+  "subject": "Λήψη απόφασης για την έγκριση κατασκευής ράμπας ΑΜΕΑ στην είσοδο του καταστήματος της «ALPHA BANK»  επί της Πλατείας Ελευθερίας αριθμ. 24 στο Κορυδαλλό.",
+  "protocol_number": "5810",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6159",
+    "label": "ΔΗΜΟΣ ΚΟΡΥΔΑΛΛΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78220"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "137",
+      "issue": "fektype_A",
+      "issueyear": 2018
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-05-26",
+  "posted": "2021-05-26",
+  "publish_timestamp_ms": 1622015524609,
+  "version_id": "61e1a1ca-cb52-4517-b97b-2b5517161e4f",
+  "in_force": "2021-05-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%A94%CE%A9%CE%9B%CE%A9-%CE%A5%CE%A7%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%A94%CE%A9%CE%9B%CE%A9-%CE%A5%CE%A7%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A5%CE%A94%CE%A9%CE%9B%CE%A9-%CE%A5%CE%A7%CE%9D",
+  "listing_sha256": "ac0e909c5f87c3b30b55f5a3a206711e8c4227d7b733ac6244f08540232f97be",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
