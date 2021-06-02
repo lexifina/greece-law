@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΓ9Η-ΥΑΛ",
+  "subject": "ΑΝΑΛΗΨΗ ΥΠΟΧΡΕΩΣΗΣ για συμμετοχή\nυπαλλήλου του Μ.Τ.Π.Υ. σε επιμορφωτικό\nσεμινάριο",
+  "protocol_number": "24A01_01-06-2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "73871"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "kanonistikipraxiaa": "24Α01",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-06-01",
+  "posted": "2021-06-02",
+  "publish_timestamp_ms": 1622623477236,
+  "version_id": "5efac9de-6e25-4d3a-91ef-1716f12e59de",
+  "in_force": "2021-06-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%939%CE%97-%CE%A5%CE%91%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%939%CE%97-%CE%A5%CE%91%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%939%CE%97-%CE%A5%CE%91%CE%9B",
+  "listing_sha256": "c0432d217be8f3a4132bc1e44a456fd0fd56acf937cad7f7b6bb65b2b00620c5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
