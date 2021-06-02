@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω2ΑΗ46ΜΓΜΥ-ΗΞΤ",
+  "subject": "Ανάθεση νομικής εκπροσώπησης",
+  "protocol_number": "14-135",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100049339",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΕΡΚΥΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100055285"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-05-31",
+  "posted": "2021-06-02",
+  "publish_timestamp_ms": 1622631788291,
+  "version_id": "ef956ed7-67eb-482a-91cb-364dc5829e02",
+  "in_force": "2021-06-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%91%CE%9746%CE%9C%CE%93%CE%9C%CE%A5-%CE%97%CE%9E%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%91%CE%9746%CE%9C%CE%93%CE%9C%CE%A5-%CE%97%CE%9E%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A92%CE%91%CE%9746%CE%9C%CE%93%CE%9C%CE%A5-%CE%97%CE%9E%CE%A4",
+  "listing_sha256": "8ccc942921a811d0962d3ff980ba56f046d342885e65646fd73fe115e4a83d26",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
