@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΩΔΓΩΕΧ-ΖΝ8",
+  "subject": "Τροποποίηση της υπ’ αριθμ. 29322/30.12.2020 απόφασης του Δημάρχου Κιλκίς περί ορισμού Αντιδημάρχων Δήμου Κιλκίς, με θητεία από 01.01.2021 έως και 31.12.2021, και ανάθεση αρμοδιοτήτων",
+  "protocol_number": "11827",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6151",
+    "label": "ΔΗΜΟΣ ΚΙΛΚΙΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79218"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΔΙΑΩΕΧ-Τ5Κ"
+      }
+    ]
+  },
+  "issued": "2021-06-03",
+  "posted": "2021-06-07",
+  "publish_timestamp_ms": 1623055712953,
+  "version_id": "2a9c6e28-0f63-4ac0-92c6-6f60ba76865a",
+  "in_force": "2021-06-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%94%CE%93%CE%A9%CE%95%CE%A7-%CE%96%CE%9D8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%94%CE%93%CE%A9%CE%95%CE%A7-%CE%96%CE%9D8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A9%CE%94%CE%93%CE%A9%CE%95%CE%A7-%CE%96%CE%9D8",
+  "listing_sha256": "e2da9d7bb06a92908417545d60a6b3e5cdfef68df36db054dbeeaed0dbc08e87",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
