@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΚΠΩ7ΛΩ-ΜΛ5",
+  "subject": "Κατανομή χρηματοδότησης έργων της ΣΑMΠ 088 ποσού #245.000,00# € της Περιφέρειας Βορείου Αιγαίου.",
+  "protocol_number": "33663/744",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5003",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79753"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΩΣΛ7ΛΩ-ΤΜ0"
+      }
+    ]
+  },
+  "issued": "2021-06-11",
+  "posted": "2021-06-11",
+  "publish_timestamp_ms": 1623402899554,
+  "version_id": "afc2fee8-a51b-42b5-8a6b-6285c0e06bf8",
+  "in_force": "2021-06-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9A%CE%A0%CE%A97%CE%9B%CE%A9-%CE%9C%CE%9B5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9A%CE%A0%CE%A97%CE%9B%CE%A9-%CE%9C%CE%9B5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%9A%CE%A0%CE%A97%CE%9B%CE%A9-%CE%9C%CE%9B5",
+  "listing_sha256": "5e1935bdee6e00faf33d4a00ee4b90cc40613072b962cffec7a2d2f9b1a14bb9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
