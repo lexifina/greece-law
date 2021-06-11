@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ6ΞΝΩΗΙ-4Ε2",
+  "subject": "ΑΟΕ 185/2021 «Αναμόρφωση προϋπολογισμού Δήμου Φλώρινας έτους 2021»",
+  "protocol_number": "13055/105",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84862"
+  ],
+  "thematic_category_ids": [
+    "24",
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "185/2021",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-06-10",
+  "posted": "2021-06-11",
+  "publish_timestamp_ms": 1623388613948,
+  "version_id": "7edbe5a9-46fe-49ca-bcbc-97a63790bde1",
+  "in_force": "2021-06-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%9E%CE%9D%CE%A9%CE%97%CE%99-4%CE%952",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%9E%CE%9D%CE%A9%CE%97%CE%99-4%CE%952/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A86%CE%9E%CE%9D%CE%A9%CE%97%CE%99-4%CE%952",
+  "listing_sha256": "65b8d5b2d95193e5ff849252c0988f2b80ab6a25c8f1fea5b7feb83dbfe455a4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
