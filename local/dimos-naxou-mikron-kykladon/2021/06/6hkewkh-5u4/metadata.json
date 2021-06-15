@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΗΚΕΩΚΗ-5Θ4",
+  "subject": "Έγκριση αποδοχής κατανομών επιχορηγήσεων",
+  "protocol_number": "184/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6203",
+    "label": "ΔΗΜΟΣ ΝΑΞΟΥ & ΜΙΚΡΩΝ ΚΥΚΛΑΔΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100028937"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-06-08",
+  "posted": "2021-06-15",
+  "publish_timestamp_ms": 1623750637344,
+  "version_id": "da41145f-16e5-493a-841a-c1ee77596435",
+  "in_force": "2021-06-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%9A%CE%95%CE%A9%CE%9A%CE%97-5%CE%984",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%9A%CE%95%CE%A9%CE%9A%CE%97-5%CE%984/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%97%CE%9A%CE%95%CE%A9%CE%9A%CE%97-5%CE%984",
+  "listing_sha256": "af8a3b40bd6ad34198ccaf06bdf5214b3b19594d8e7984f0edbde0daa1d4f29e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
