@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "66ΙΔ4653ΠΩ-ΩΜΚ",
+  "subject": "«Καθορισμός διαδικασίας και δικαιολογητικών για την πληρωμή του επιδόματος σίτισης των σπουδαστών των Ακαδημιών Εμπορικού Ναυτικού (Α.Ε.Ν) του Υπουργείου Ναυτιλίας & Νησιωτικής Πολιτικής για το εκπαιδευτικό έτος 2020-2021».",
+  "protocol_number": "2812.50/35109/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "89529"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2501",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "100006584"
+        ],
+        "signerIds": [
+          "100047807"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100000549"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-05-19",
+  "posted": "2021-06-15",
+  "publish_timestamp_ms": 1623739679047,
+  "version_id": "57c2d70a-521f-4dfd-8743-0f4cbd356bce",
+  "in_force": "2021-06-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/66%CE%99%CE%944653%CE%A0%CE%A9-%CE%A9%CE%9C%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/66%CE%99%CE%944653%CE%A0%CE%A9-%CE%A9%CE%9C%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/66%CE%99%CE%944653%CE%A0%CE%A9-%CE%A9%CE%9C%CE%9A",
+  "listing_sha256": "ac44755ef5d797663fd979a49e6de2d37ecfc8d15c3280f14c521e66c70ff13a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
