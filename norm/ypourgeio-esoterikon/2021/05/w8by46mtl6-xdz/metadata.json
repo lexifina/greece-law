@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω8ΒΥ46ΜΤΛ6-ΧΔΖ",
+  "subject": "Απόκτηση της ελληνικής ιθαγένειας με βάση τα άρθρα 1Α και 1Β του Κ.Ε.Ι.,",
+  "protocol_number": "541",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100045854"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2582",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "10003",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-05-27",
+  "posted": "2021-06-18",
+  "publish_timestamp_ms": 1623993899696,
+  "version_id": "17ce79e1-0b81-43fe-ac94-bec17d0e6c06",
+  "in_force": "2021-06-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%92%CE%A546%CE%9C%CE%A4%CE%9B6-%CE%A7%CE%94%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%92%CE%A546%CE%9C%CE%A4%CE%9B6-%CE%A7%CE%94%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A98%CE%92%CE%A546%CE%9C%CE%A4%CE%9B6-%CE%A7%CE%94%CE%96",
+  "listing_sha256": "424dfd3a7eedee83dace0d3f5e432dc15ade04353ed253d47c98e6f7355924bb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
