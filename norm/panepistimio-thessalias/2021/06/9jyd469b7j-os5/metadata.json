@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΞΥΔ469Β7Ξ-ΟΣ5",
+  "subject": "Ίδρυση Μονάδας Εξωσωματικής Οξυγόνωσης (ECMO), στην Κλινική Εντατικής\nΘεραπείας του Τμήματος Ιατρικής της Σχολής Επιστημών Υγείας του Πανεπιστημίου\nΘεσσαλίας",
+  "protocol_number": "9451/21/ΓΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206913",
+    "label": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "73391"
+  ],
+  "thematic_category_ids": [
+    "36"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2515",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "kanonistikipraxiaa": "9451/21/ΓΠ",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-06-01",
+  "posted": "2021-06-18",
+  "publish_timestamp_ms": 1624008009259,
+  "version_id": "e4b17d99-dc0a-456d-9cfe-9acf259ff000",
+  "in_force": "2021-06-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9E%CE%A5%CE%94469%CE%927%CE%9E-%CE%9F%CE%A35",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9E%CE%A5%CE%94469%CE%927%CE%9E-%CE%9F%CE%A35/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%9E%CE%A5%CE%94469%CE%927%CE%9E-%CE%9F%CE%A35",
+  "listing_sha256": "c0432d217be8f3a4132bc1e44a456fd0fd56acf937cad7f7b6bb65b2b00620c5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
