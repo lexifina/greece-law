@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΚ4Ω9Ρ-9ΙΡ",
+  "subject": "Έγκριση τροποποίησης του φυσικού αντικειμένου της Δημόσιας Σύμβασης\n«ΠΡΟΜΗΘΕΙΑ ΚΑΙ ΤΟΠΟΘΕΤΗΣΗ ΕΞΟΠΛΙΣΜΟΥ ΠΑΙΔΙΚΩΝ ΧΑΡΩΝ» με αριθ. πρωτ.\n692/18.1.2021 (ΑΔΑΜ: 12SYMV008042404), ποσού 824.923,72 (€) ευρώ (με Φ.Π.Α.)",
+  "protocol_number": "130/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6061",
+    "label": "ΔΗΜΟΣ ΒΡΙΛΗΣΣΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80701"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΦΣΝΩ9Ρ-4ΑΝ"
+      },
+      {
+        "relatedDecisionsADA": "ΩΚΗΑΩ9Ρ-ΛΞΠ"
+      }
+    ]
+  },
+  "issued": "2021-06-23",
+  "posted": "2021-06-24",
+  "publish_timestamp_ms": 1624525762966,
+  "version_id": "226a4e0a-674d-4bff-9959-2cd6a9827423",
+  "in_force": "2021-06-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%9A4%CE%A99%CE%A1-9%CE%99%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%9A4%CE%A99%CE%A1-9%CE%99%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%9A4%CE%A99%CE%A1-9%CE%99%CE%A1",
+  "listing_sha256": "78d0ad15ce450dbc6857f21c08ccc74dda53d321463f5b8ce5d69ace44874669",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
