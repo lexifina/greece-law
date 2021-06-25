@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΔ3ΦΩ62-1Μ0",
+  "subject": "Καθιέρωση υπερωριακής απασχόλησης ομάδας έργου ''LIFE-IP ADAPTINGR\" για το Β΄ Εξάμηνο 2021.",
+  "protocol_number": "225_2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6009",
+    "label": "ΔΗΜΟΣ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78641"
+  ],
+  "thematic_category_ids": [
+    "44",
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2564",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-06-02",
+  "posted": "2021-06-25",
+  "publish_timestamp_ms": 1624607036416,
+  "version_id": "5262dce8-bd32-4c8f-af19-25bbea266860",
+  "in_force": "2021-06-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%943%CE%A6%CE%A962-1%CE%9C0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%943%CE%A6%CE%A962-1%CE%9C0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%943%CE%A6%CE%A962-1%CE%9C0",
+  "listing_sha256": "6ffae42e1c1e721d64d7c1f2bc169a4a7b9abc476d364e6410419a1527825afd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
