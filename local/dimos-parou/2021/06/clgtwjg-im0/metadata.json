@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΛΓΤΩΞΓ-ΙΜ0",
+  "subject": "Άσκηση ή μη ανακοπής της 7ης διαταγής της Ειρηνοδίκου Πάρου σε αίτηση της εταιρείας με την επωνυμία «PRAXIS CONSULTING ΠΑΡΑΣΚΕΥΗ ΤΑΤΟΥΛΗ ΚΑΙ ΣΙΑ Ε.Ε.-ΥΠΗΡΕΣΙΕΣ ΠΑΡΟΧΗΣ ΣΥΜΒΟΥΛΩΝ ΣΤΡΑΤΗΓΙΚΗΣ ΔΙΑΧΕΙΡΙΣΗΣ»",
+  "protocol_number": "11320",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6239",
+    "label": "ΔΗΜΟΣ ΠΑΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87493"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-06-25",
+  "posted": "2021-06-25",
+  "publish_timestamp_ms": 1624611974369,
+  "version_id": "827d973b-f329-47de-9f5b-227aab21fdc8",
+  "in_force": "2021-06-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B%CE%93%CE%A4%CE%A9%CE%9E%CE%93-%CE%99%CE%9C0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B%CE%93%CE%A4%CE%A9%CE%9E%CE%93-%CE%99%CE%9C0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9B%CE%93%CE%A4%CE%A9%CE%9E%CE%93-%CE%99%CE%9C0",
+  "listing_sha256": "3deace00e48811ccde0e786271a9116e71a47b89adb7fc735b55718810c4a682",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
