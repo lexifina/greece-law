@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΞΒ5ΩΕΨ-Γ4Φ",
+  "subject": "Αγορά δεύτερης οστεοθήκης. με στοιχεία 126-012 στον κ.Τ. Β. του Α. και της Ε.",
+  "protocol_number": "12367",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6127",
+    "label": "ΔΗΜΟΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82864"
+  ],
+  "thematic_category_ids": [
+    "66"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-06-29",
+  "posted": "2021-06-29",
+  "publish_timestamp_ms": 1624954862566,
+  "version_id": "ff6f59c2-921f-4cf4-8ba1-0768d87d4253",
+  "in_force": "2021-06-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E%CE%925%CE%A9%CE%95%CE%A8-%CE%934%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E%CE%925%CE%A9%CE%95%CE%A8-%CE%934%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9E%CE%925%CE%A9%CE%95%CE%A8-%CE%934%CE%A6",
+  "listing_sha256": "5ad4370a583f2d4aba8b7da8f874d7915a9ca43ece512fffd22d00385adb3207",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
