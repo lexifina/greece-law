@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω2Ν746ΜΓΜΥ-ΤΧΚ",
+  "subject": "ΑΠΟΦΑΣΗ ΚΗΡΥΞΗΣ ΑΓΟΝΗΣ ΔΙΑΔΙΚΑΣΙΑΣ ΠΡΟΣΛΗΨΗΣ",
+  "protocol_number": "3880",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100049339",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΕΡΚΥΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100050586"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-06-29",
+  "posted": "2021-06-29",
+  "publish_timestamp_ms": 1624961897635,
+  "version_id": "0ede3e97-3110-4bf3-aed0-16eb276a2261",
+  "in_force": "2021-06-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%9D746%CE%9C%CE%93%CE%9C%CE%A5-%CE%A4%CE%A7%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%9D746%CE%9C%CE%93%CE%9C%CE%A5-%CE%A4%CE%A7%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A92%CE%9D746%CE%9C%CE%93%CE%9C%CE%A5-%CE%A4%CE%A7%CE%9A",
+  "listing_sha256": "5ad4370a583f2d4aba8b7da8f874d7915a9ca43ece512fffd22d00385adb3207",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
