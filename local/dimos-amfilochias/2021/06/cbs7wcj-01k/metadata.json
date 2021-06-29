@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΒΣ7ΩΨΞ-01Κ",
+  "subject": "ΠΑΡΑΤΑΣΗ  ΑΠΑΣΧΟΛΗΣΗΣ  ΩΦΕΛΟΥΜΕΝΟΥ",
+  "protocol_number": "8685",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6031",
+    "label": "ΔΗΜΟΣ ΑΜΦΙΛΟΧΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81345"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-06-29",
+  "posted": "2021-06-29",
+  "publish_timestamp_ms": 1624957852889,
+  "version_id": "4d1e21ab-81cd-4db2-abdb-4592947dab6e",
+  "in_force": "2021-06-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%92%CE%A37%CE%A9%CE%A8%CE%9E-01%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%92%CE%A37%CE%A9%CE%A8%CE%9E-01%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%92%CE%A37%CE%A9%CE%A8%CE%9E-01%CE%9A",
+  "listing_sha256": "5ad4370a583f2d4aba8b7da8f874d7915a9ca43ece512fffd22d00385adb3207",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
