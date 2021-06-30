@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΗΕ1ΩΗ7-ΔΟΦ",
+  "subject": "Σύσταση Τοπικού Συμβουλίου Πρόληψης Παραβατικότητας (ΤΟ.Σ.Π.ΠΑ)",
+  "protocol_number": "-",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6294",
+    "label": "ΔΗΜΟΣ ΤΕΜΠΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81319"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "60",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-06-30",
+  "posted": "2021-06-30",
+  "publish_timestamp_ms": 1625038635834,
+  "version_id": "f77b2c1e-70f1-4545-95dc-1a179ce95b18",
+  "in_force": "2021-06-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%951%CE%A9%CE%977-%CE%94%CE%9F%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%951%CE%A9%CE%977-%CE%94%CE%9F%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%97%CE%951%CE%A9%CE%977-%CE%94%CE%9F%CE%A6",
+  "listing_sha256": "78081de51990b0208f264b95aa1b3461d8ef7e42084da4d548b266c63a7c4dcd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
