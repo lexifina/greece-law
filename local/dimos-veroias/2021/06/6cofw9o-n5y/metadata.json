@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΨΟΦΩ9Ο-Ν5Υ",
+  "subject": "Καθιέρωση υπερωριακής απασχόλησης για την τήρηση και σύνταξη  των πρακτικών του Δημοτικού Συμβουλίου Βέροιας Β΄ εξαμήνου 2021.",
+  "protocol_number": "11732",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6053",
+    "label": "ΔΗΜΟΣ ΒΕΡΟΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78745"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2803",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-06-23",
+  "posted": "2021-07-01",
+  "publish_timestamp_ms": 1625133507910,
+  "version_id": "1b172e40-ea87-4acd-9e81-c7fc059c9fdf",
+  "in_force": "2021-07-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%9F%CE%A6%CE%A99%CE%9F-%CE%9D5%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%9F%CE%A6%CE%A99%CE%9F-%CE%9D5%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A8%CE%9F%CE%A6%CE%A99%CE%9F-%CE%9D5%CE%A5",
+  "listing_sha256": "78d0ad15ce450dbc6857f21c08ccc74dda53d321463f5b8ce5d69ace44874669",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
