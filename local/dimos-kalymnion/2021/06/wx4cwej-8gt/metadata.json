@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧ4ΨΩΕΞ-8ΓΤ",
+  "subject": "Έγκριση κατεπείγουσας συνεδρίασης",
+  "protocol_number": "57",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6133",
+    "label": "ΔΗΜΟΣ ΚΑΛΥΜΝΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81323"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-06-25",
+  "posted": "2021-07-01",
+  "publish_timestamp_ms": 1625130565642,
+  "version_id": "0541ca94-1beb-4392-9e20-ea6f9a26d6bb",
+  "in_force": "2021-07-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A74%CE%A8%CE%A9%CE%95%CE%9E-8%CE%93%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A74%CE%A8%CE%A9%CE%95%CE%9E-8%CE%93%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A74%CE%A8%CE%A9%CE%95%CE%9E-8%CE%93%CE%A4",
+  "listing_sha256": "1739cebadc0cafd354241d184f4102a3048198c429f7efa00e0802e94d8cae2d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
