@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΡΧ2Ζ46Ψ8ΧΒ-ΡΥΓ",
+  "subject": "Αποδοχή Διαχείρισης Έργου με κωδικό: 94740 #105534 #1191973",
+  "protocol_number": "163048/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99202041",
+    "label": "ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣ/ΝΙΚΗΣ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "72812"
+  ],
+  "thematic_category_ids": [
+    "64",
+    "36"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "826",
+      "issue": "fektype_B",
+      "issueyear": 1996
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-07-02",
+  "posted": "2021-07-02",
+  "publish_timestamp_ms": 1625244331904,
+  "version_id": "6929b250-2483-4a69-92ab-cd2141620a26",
+  "in_force": "2021-07-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%A72%CE%9646%CE%A88%CE%A7%CE%92-%CE%A1%CE%A5%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%A72%CE%9646%CE%A88%CE%A7%CE%92-%CE%A1%CE%A5%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A1%CE%A72%CE%9646%CE%A88%CE%A7%CE%92-%CE%A1%CE%A5%CE%93",
+  "listing_sha256": "5e9125d0c93233254ec1489812fa181e7f41516567b98957da85ad4a065fab8a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
