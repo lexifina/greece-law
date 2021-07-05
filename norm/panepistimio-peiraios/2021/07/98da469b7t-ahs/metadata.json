@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "98ΔΑ469Β7Τ-ΑΗΣ",
+  "subject": "Έγκριση Μετακίνησης / C.195",
+  "protocol_number": "202107185",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206922",
+    "label": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΩΣ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "74304"
+  ],
+  "thematic_category_ids": [
+    "64"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-07-05",
+  "posted": "2021-07-05",
+  "publish_timestamp_ms": 1625501770385,
+  "version_id": "d44f7101-5d6c-4090-9515-559580626561",
+  "in_force": "2021-07-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/98%CE%94%CE%91469%CE%927%CE%A4-%CE%91%CE%97%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/98%CE%94%CE%91469%CE%927%CE%A4-%CE%91%CE%97%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/98%CE%94%CE%91469%CE%927%CE%A4-%CE%91%CE%97%CE%A3",
+  "listing_sha256": "85957804d8afee951901de6ab7037eb2e48781c2e91f9a41c16c22d15f65fddd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
