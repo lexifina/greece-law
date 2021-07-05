@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΨ6946ΜΠ3Ζ-4Λ8",
+  "subject": "Τροποποίηση της απόφασης του Διοικητή της Α.Α.Δ.Ε. Α. 1011/16.1.2020 (85Β΄) \"Απόσυρση από την χρήση μοντέλων Φορολογικών Ηλεκτρονικών Μηχανισμών (ΦΗΜ), που έλαβαν άδεια καταλληλότητας με βάση τις Α.Υ.Ο.Ο. ΠΟΛ. 1234/9.10.2002 (1362Β΄) και ΠΟΛ 1135/26-10-2005 (1592Β΄), εκτός των Ε.Α.Φ.Δ.Σ.Σ. και των ΑΔΗΜΕ Ταξιμέτρων\", όπως ισχύει.",
+  "protocol_number": "Α.1153",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100048044"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2882",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Πράξη Ανεξάρτητης Αρχής",
+    "kanonistikipraxiaa": "1153",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-06-29",
+  "posted": "2021-07-05",
+  "publish_timestamp_ms": 1625469154144,
+  "version_id": "4718eaf6-f5ed-49c5-9cea-0bbc898754c1",
+  "in_force": "2021-07-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A86946%CE%9C%CE%A03%CE%96-4%CE%9B8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A86946%CE%9C%CE%A03%CE%96-4%CE%9B8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A86946%CE%9C%CE%A03%CE%96-4%CE%9B8",
+  "listing_sha256": "371cc58c43317516d21adc3e0c1d1570d72d139c84663c209c1e1759b8226ac9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
