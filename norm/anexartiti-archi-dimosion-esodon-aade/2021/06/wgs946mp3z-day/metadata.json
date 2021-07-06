@@ -1,0 +1,72 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΣ946ΜΠ3Ζ-ΔΑΥ",
+  "subject": "Ορισμός Αρμοδίων Αρχών για την εφαρμογή του κανονισμού (ΕΕ) 2017/852 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου «για τον υδράργυρο και για την κατάργηση του κανονισμού (ΕΚ) αριθ. 1102/2008 (L137/24.5.2017)",
+  "protocol_number": "30/004/000/3031",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100030159"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2868",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100010899",
+        "unitId": [
+          "100047557"
+        ],
+        "signerIds": [
+          "100047791"
+        ]
+      },
+      {
+        "ministryId": "100010899",
+        "unitId": [
+          "100027516"
+        ],
+        "signerIds": [
+          "100047791"
+        ]
+      },
+      {
+        "ministryId": "100015996",
+        "unitId": [
+          "100048736"
+        ],
+        "signerIds": [
+          "100063929"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-06-23",
+  "posted": "2021-07-06",
+  "publish_timestamp_ms": 1625550555851,
+  "version_id": "258a0cf2-f52b-4171-97f3-781287275842",
+  "in_force": "2021-07-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A3946%CE%9C%CE%A03%CE%96-%CE%94%CE%91%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A3946%CE%9C%CE%A03%CE%96-%CE%94%CE%91%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%A3946%CE%9C%CE%A03%CE%96-%CE%94%CE%91%CE%A5",
+  "listing_sha256": "78d0ad15ce450dbc6857f21c08ccc74dda53d321463f5b8ce5d69ace44874669",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
