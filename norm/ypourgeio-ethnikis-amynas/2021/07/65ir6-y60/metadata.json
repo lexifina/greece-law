@@ -1,0 +1,47 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "65ΙΡ6-Υ60",
+  "subject": "Δαπάνες Προμηθειών - Επισκευών – Κατασκευών\n[Προμήθεια Υλικών CARRIER LINING & DISK, Συγκροτήματος Πέδησης για Α/Φ Τ-6 Α (O/N 203477) – Κήρυξη Εκπτώτου Σ.25/21 (Δ.11/21)]",
+  "protocol_number": "12936",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76874"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΛΞ66-ΓΚΔ"
+      },
+      {
+        "relatedDecisionsADA": "66Μ16-ΙΗ0"
+      },
+      {
+        "relatedDecisionsADA": "ΩΓ946-840"
+      }
+    ]
+  },
+  "issued": "2021-07-05",
+  "posted": "2021-07-06",
+  "publish_timestamp_ms": 1625547606613,
+  "version_id": "90455c35-9a63-4724-8711-8e843a17f6f6",
+  "in_force": "2021-07-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/65%CE%99%CE%A16-%CE%A560",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/65%CE%99%CE%A16-%CE%A560/document",
+  "page": "https://diavgeia.gov.gr/decision/view/65%CE%99%CE%A16-%CE%A560",
+  "listing_sha256": "85957804d8afee951901de6ab7037eb2e48781c2e91f9a41c16c22d15f65fddd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
