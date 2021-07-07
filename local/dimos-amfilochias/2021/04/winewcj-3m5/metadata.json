@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΝΕΩΨΞ-3Μ5",
+  "subject": "ΟΡΙΣΜΟΣ ΕΠΟΠΤΗ ΑΤ 04",
+  "protocol_number": "6485",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6031",
+    "label": "ΔΗΜΟΣ ΑΜΦΙΛΟΧΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81784"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-04-22",
+  "posted": "2021-07-07",
+  "publish_timestamp_ms": 1625640793435,
+  "version_id": "6b2bdfda-5217-429c-bfdd-3787f1459cb3",
+  "in_force": "2021-07-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%9D%CE%95%CE%A9%CE%A8%CE%9E-3%CE%9C5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%9D%CE%95%CE%A9%CE%A8%CE%9E-3%CE%9C5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%9D%CE%95%CE%A9%CE%A8%CE%9E-3%CE%9C5",
+  "listing_sha256": "a0bae688184c576bb5977407a4c15fa069a747379ea55bb85260c48556eadcb5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
