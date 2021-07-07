@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟΠΠΩΕΤ-5ΑΥ",
+  "subject": "Έγκριση πρακτικών και κήρυξη δημοπρασίας δημοτικού ακινήτου, έκτασης 4.282,91 τ.μ., με κτιριακές εγκαταστάσεις (πρώην κατάστημα HAVANA), τμήμα του υπ’ αριθ. 1283Α τεμαχίου στο αγρόκτημα Περίστασης στην παραλιακή οδό Παραλίας – Ολυμπιακής Ακτής Δήμου Κατερίνης, ως άγονη",
+  "protocol_number": "19793/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6142",
+    "label": "ΔΗΜΟΣ ΚΑΤΕΡΙΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100031337"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-07-07",
+  "posted": "2021-07-07",
+  "publish_timestamp_ms": 1625645553424,
+  "version_id": "d5ca81f2-d9b4-40ba-92e1-8bc25572a82c",
+  "in_force": "2021-07-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%A0%CE%A0%CE%A9%CE%95%CE%A4-5%CE%91%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%A0%CE%A0%CE%A9%CE%95%CE%A4-5%CE%91%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F%CE%A0%CE%A0%CE%A9%CE%95%CE%A4-5%CE%91%CE%A5",
+  "listing_sha256": "3a22c3956cda22b5480ede03dbbba319bc72fa16d54304d4725f47a048ce2ba2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
