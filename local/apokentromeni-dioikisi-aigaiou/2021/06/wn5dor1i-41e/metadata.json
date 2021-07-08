@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝ5ΔΟΡ1Ι-41Ε",
+  "subject": "Έγκριση τροποποίησης του Οργανισμού Εσωτερικής Υπηρεσίας (Ο.Ε.Υ.) της Δημοτικής Επιχείρησης  Ύδρευσης και Αποχέτευσης Σύμης (Δ.Ε.Υ.Α.Σ.)",
+  "protocol_number": "27132",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76806"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2919",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-06-04",
+  "posted": "2021-07-08",
+  "publish_timestamp_ms": 1625730469317,
+  "version_id": "eb4676dd-75f7-4329-b3b9-ed0023ec78ec",
+  "in_force": "2021-07-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D5%CE%94%CE%9F%CE%A11%CE%99-41%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D5%CE%94%CE%9F%CE%A11%CE%99-41%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D5%CE%94%CE%9F%CE%A11%CE%99-41%CE%95",
+  "listing_sha256": "bdcc06ad2578cdc066ca44c95c01821fcb4ca84abf7266b0bb315c760577a11e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
