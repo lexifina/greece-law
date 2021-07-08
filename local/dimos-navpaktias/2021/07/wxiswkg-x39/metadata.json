@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧΙΣΩΚΓ-Χ39",
+  "subject": "49/2021",
+  "protocol_number": "49/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6205",
+    "label": "ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "90036"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-07-08",
+  "posted": "2021-07-08",
+  "publish_timestamp_ms": 1625724863124,
+  "version_id": "37f73300-961e-469d-9850-c365091db8da",
+  "in_force": "2021-07-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%99%CE%A3%CE%A9%CE%9A%CE%93-%CE%A739",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%99%CE%A3%CE%A9%CE%9A%CE%93-%CE%A739/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A7%CE%99%CE%A3%CE%A9%CE%9A%CE%93-%CE%A739",
+  "listing_sha256": "d794935d374397e8413662b67cc61194e6f8d024224e335768d223bb84e48cf6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
