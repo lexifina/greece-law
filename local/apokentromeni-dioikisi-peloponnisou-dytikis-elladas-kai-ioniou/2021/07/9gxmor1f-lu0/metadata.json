@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΓΧΜΟΡ1Φ-ΛΘ0",
+  "subject": "Έγκριση θέσης σε κυκλοφορία δύο (02) μεταχειρισμένων απορριμματοφόρων φορτηγών οχημάτων του Δήμου Πύργου",
+  "protocol_number": "119262",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87448"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΕΕΔΟΡ1Φ-ΡΟΤ"
+      },
+      {
+        "relatedDecisionsADA": "6ΛΠΛΟΡ1Φ-ΗΔΛ"
+      }
+    ]
+  },
+  "issued": "2021-07-13",
+  "posted": "2021-07-13",
+  "publish_timestamp_ms": 1626170707068,
+  "version_id": "da3a71cd-6c34-46e8-8555-1ef503694aed",
+  "in_force": "2021-07-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%93%CE%A7%CE%9C%CE%9F%CE%A11%CE%A6-%CE%9B%CE%980",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%93%CE%A7%CE%9C%CE%9F%CE%A11%CE%A6-%CE%9B%CE%980/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%93%CE%A7%CE%9C%CE%9F%CE%A11%CE%A6-%CE%9B%CE%980",
+  "listing_sha256": "75aedf08375012cd4c73b0b051ac5f22b108783a8651820339bfd46e9515e376",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
