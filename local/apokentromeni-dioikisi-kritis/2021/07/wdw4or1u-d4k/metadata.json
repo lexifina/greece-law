@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΩ4ΟΡ1Θ-Δ4Κ",
+  "subject": "ΕΚΔΟΣΗ ΔΑΣΙΚΗΣ ΑΣΤΥΝΟΜΙΚΗΣ ΔΙΑΤΑΞΗΣ ΘΗΡΑΣ",
+  "protocol_number": "3246",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76917"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-07-15",
+  "posted": "2021-07-15",
+  "publish_timestamp_ms": 1626326455511,
+  "version_id": "e4bd8538-7f57-44b0-91ad-92375222a3c4",
+  "in_force": "2021-07-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A94%CE%9F%CE%A11%CE%98-%CE%944%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A94%CE%9F%CE%A11%CE%98-%CE%944%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%A94%CE%9F%CE%A11%CE%98-%CE%944%CE%9A",
+  "listing_sha256": "c5d27cf22e0c9ad7477da292f10aacc13268fbd17227c20206d9c005b9b56dc9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
