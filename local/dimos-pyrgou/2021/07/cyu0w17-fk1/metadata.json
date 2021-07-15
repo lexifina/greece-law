@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΥΘ0Ω17-ΦΚ1",
+  "subject": "Έγκριση παράτασης εκμίσθωσης του κυλικείου του 3ου Γυμνασίου Πύργου",
+  "protocol_number": "60/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6260",
+    "label": "ΔΗΜΟΣ ΠΥΡΓΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100001720"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-07-15",
+  "posted": "2021-07-15",
+  "publish_timestamp_ms": 1626330138413,
+  "version_id": "166cb5c6-68fe-4a51-86c1-6b0d3eac2d53",
+  "in_force": "2021-07-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A5%CE%980%CE%A917-%CE%A6%CE%9A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A5%CE%980%CE%A917-%CE%A6%CE%9A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A5%CE%980%CE%A917-%CE%A6%CE%9A1",
+  "listing_sha256": "32afb5f5ad677dcacade7634a620f43807f9b379bb83f5973c9fb0da2f6cb245",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
