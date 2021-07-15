@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΠΞΝΩΛ0-9ΛΧ",
+  "subject": "ΔΑΠΑΝΗ ΕΚΔΟΣΗΣ ΠΑΡΑΒΟΛΟΥ ΓΙΑ ΕΚΔΟΣΗ ΑΔΕΙΑΣ ΚΥΚΛΟΦΟΡΙΑΣ ΚΑΙ ΠΙΝΑΚΙΔΩΝ ΦΟΡΤΗΓΟΥ ΟΧΗΜΑΤΟΣ FORD ΤΟΥ ΔΗΜΟΥ ΛΕΙΨΩΝ ME ARIU. PLAISIOY 6FPOXXMZ2NM78848",
+  "protocol_number": "XEP A223",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6170",
+    "label": "ΔΗΜΟΣ ΛΕΙΨΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83486"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-07-15",
+  "posted": "2021-07-15",
+  "publish_timestamp_ms": 1626338263164,
+  "version_id": "51e72715-7aad-4a35-b464-4c2cbb8ffba0",
+  "in_force": "2021-07-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A0%CE%9E%CE%9D%CE%A9%CE%9B0-9%CE%9B%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A0%CE%9E%CE%9D%CE%A9%CE%9B0-9%CE%9B%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A0%CE%9E%CE%9D%CE%A9%CE%9B0-9%CE%9B%CE%A7",
+  "listing_sha256": "32afb5f5ad677dcacade7634a620f43807f9b379bb83f5973c9fb0da2f6cb245",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
