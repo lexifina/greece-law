@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΤ0ΩΗΙ-ΦΔΣ",
+  "subject": "Α.Ο.Ε.214/2021: «Έκδοση απόφασης έγκρισης αγοράς από το ελεύθερο εμπόριο δύο (2) αμιγώς ηλεκτροκίνητων οχημάτων  (ενός (1) επιβατικού ΙΧ πέντε θέσεων (utility car) και ενός (1) οχήματος εννιαθέσιου επιβατικού ΙΧ (κατηγορίας Μ1)».",
+  "protocol_number": "214/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84862"
+  ],
+  "thematic_category_ids": [
+    "10027",
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-07-15",
+  "posted": "2021-07-15",
+  "publish_timestamp_ms": 1626324493663,
+  "version_id": "f01e0a56-d75b-4e5a-a401-27a518f97cae",
+  "in_force": "2021-07-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A40%CE%A9%CE%97%CE%99-%CE%A6%CE%94%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%A40%CE%A9%CE%97%CE%99-%CE%A6%CE%94%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%A40%CE%A9%CE%97%CE%99-%CE%A6%CE%94%CE%A3",
+  "listing_sha256": "c5d27cf22e0c9ad7477da292f10aacc13268fbd17227c20206d9c005b9b56dc9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
