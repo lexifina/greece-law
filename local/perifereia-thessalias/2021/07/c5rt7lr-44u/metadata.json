@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ5ΡΤ7ΛΡ-44Θ",
+  "subject": "ΑΚΎΡΩΣΗ ΑΠΟΦΑΣΗΣ",
+  "protocol_number": "277312",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81564"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΦΘΦ7ΛΡ-9ΒΚ"
+      }
+    ]
+  },
+  "issued": "2021-07-15",
+  "posted": "2021-07-15",
+  "publish_timestamp_ms": 1626335036842,
+  "version_id": "e8b20bea-d54c-4e06-9447-6cd12fc66819",
+  "in_force": "2021-07-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A85%CE%A1%CE%A47%CE%9B%CE%A1-44%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A85%CE%A1%CE%A47%CE%9B%CE%A1-44%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A85%CE%A1%CE%A47%CE%9B%CE%A1-44%CE%98",
+  "listing_sha256": "c5d27cf22e0c9ad7477da292f10aacc13268fbd17227c20206d9c005b9b56dc9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
