@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "633ΜΩ6Μ-12Η",
+  "subject": "Τροποποίηση της με Α.Π. 151170/09-06-2021 (ΦΕΚ 2704/τ.Β΄/24-06-2021) απόφασης Δημάρχου.",
+  "protocol_number": "183600",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6013",
+    "label": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100044986"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3184",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-07-12",
+  "posted": "2021-07-21",
+  "publish_timestamp_ms": 1626840769066,
+  "version_id": "523fc6b0-5615-4fc4-9244-abc7dc1e78fb",
+  "in_force": "2021-07-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/633%CE%9C%CE%A96%CE%9C-12%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/633%CE%9C%CE%A96%CE%9C-12%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/633%CE%9C%CE%A96%CE%9C-12%CE%97",
+  "listing_sha256": "cbe8c487f96e1d5557817a15fa467324d9423172ed1707cf154a9454f360e6da",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
