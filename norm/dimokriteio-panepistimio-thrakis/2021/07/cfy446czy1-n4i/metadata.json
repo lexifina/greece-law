@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΦΥ446ΨΖΥ1-Ν4Ι",
+  "subject": "Χρηματοδότηση έργου με ΚΕ 82732 από το αποθεματικό του ΕΛΚΕ Δ.Π.Θ.",
+  "protocol_number": "ΔΠΘ/ΣΥΓΚ/60620/2599",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99202868",
+    "label": "ΔΗΜΟΚΡΙΤΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΡΑΚΗΣ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "85217"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-07-23",
+  "posted": "2021-07-23",
+  "publish_timestamp_ms": 1627038763068,
+  "version_id": "b89e571c-74c5-4d42-88c1-6da00ea1b2b4",
+  "in_force": "2021-07-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A6%CE%A5446%CE%A8%CE%96%CE%A51-%CE%9D4%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A6%CE%A5446%CE%A8%CE%96%CE%A51-%CE%9D4%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A6%CE%A5446%CE%A8%CE%96%CE%A51-%CE%9D4%CE%99",
+  "listing_sha256": "0636aa0127ca6511d4b475f32c8e4f31ef5f4cf21487c31db45c32cf41ba0f24",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
