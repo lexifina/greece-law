@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9Υ7ΑΩΞ2-ΤΥΙ",
+  "subject": "Καθιέρωση εξ΄ αποστάσεως παροχή εργασίας",
+  "protocol_number": "30230",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6247",
+    "label": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78010"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3117",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-07-16",
+  "posted": "2021-07-27",
+  "publish_timestamp_ms": 1627385591577,
+  "version_id": "3a3e0928-99c0-4fc4-befc-bfccfb721bf1",
+  "in_force": "2021-07-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%A57%CE%91%CE%A9%CE%9E2-%CE%A4%CE%A5%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%A57%CE%91%CE%A9%CE%9E2-%CE%A4%CE%A5%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%A57%CE%91%CE%A9%CE%9E2-%CE%A4%CE%A5%CE%99",
+  "listing_sha256": "6767a6ee5da0fed2c04dcf598226578503e025f062340072ffca7a2cb780fbf0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
