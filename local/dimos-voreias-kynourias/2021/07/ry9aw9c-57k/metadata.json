@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΡΥ9ΑΩ9Ψ-57Κ",
+  "subject": "ΑΠΟΦΑΣΗ ΠΡΟΣΛΗΨΗΣ ΠΡΟΓΡΑΜΜΑ ΟΑΕΔ 55-67",
+  "protocol_number": "9363",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6059",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80807"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-07-30",
+  "posted": "2021-07-30",
+  "publish_timestamp_ms": 1627670355879,
+  "version_id": "1bbafcef-b661-4853-b7ee-3d706904e382",
+  "in_force": "2021-07-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%A59%CE%91%CE%A99%CE%A8-57%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%A59%CE%91%CE%A99%CE%A8-57%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A1%CE%A59%CE%91%CE%A99%CE%A8-57%CE%9A",
+  "listing_sha256": "903c8eb1142eb2eb2aa979efd55de424c3c090aaffca6bd0156a006e96b27b51",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
