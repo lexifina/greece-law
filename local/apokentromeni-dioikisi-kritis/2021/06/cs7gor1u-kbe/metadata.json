@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΣ7ΓΟΡ1Θ-ΚΒΕ",
+  "subject": "Απαγόρευση κυνηγίου όλων των θηραμάτων στην περιφέρεια Τ.Κ. Καβουσίου και Παχειάς Άμμου Δ. Ιεράπετρας Π.Ε. Λασιθίου.",
+  "protocol_number": "1317",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76912"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3038",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΛΛΡΟΡ1Θ-ΜΘΧ"
+      }
+    ]
+  },
+  "issued": "2021-06-28",
+  "posted": "2021-07-30",
+  "publish_timestamp_ms": 1627632512913,
+  "version_id": "769b4f90-1177-4a49-a581-31a7bdb71b46",
+  "in_force": "2021-07-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A37%CE%93%CE%9F%CE%A11%CE%98-%CE%9A%CE%92%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A37%CE%93%CE%9F%CE%A11%CE%98-%CE%9A%CE%92%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A37%CE%93%CE%9F%CE%A11%CE%98-%CE%9A%CE%92%CE%95",
+  "listing_sha256": "484177bad935470569f731d4bb10e308d4be8c7b0ad6af118e10d79aee1173a0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
