@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω3ΑΑΩΗΙ-8ΩΔ",
+  "subject": "ΣΥΜΦΩΝΗΤΙΚΟ ΥΛΟΤΟΜΙΑΣ ΑΤΟΜΙΚΩΝ ΚΡΑΤΕΡΟΥ ΦΛΩΡΙΝΑΣ",
+  "protocol_number": "16410",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91521"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "55/2021",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Ζ76ΩΗΙ-Κ1Λ"
+      }
+    ]
+  },
+  "issued": "2021-08-02",
+  "posted": "2021-08-02",
+  "publish_timestamp_ms": 1627895898937,
+  "version_id": "ea25a3a6-57db-4f1f-8068-0f905d2deb3c",
+  "in_force": "2021-08-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%91%CE%91%CE%A9%CE%97%CE%99-8%CE%A9%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%91%CE%91%CE%A9%CE%97%CE%99-8%CE%A9%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A93%CE%91%CE%91%CE%A9%CE%97%CE%99-8%CE%A9%CE%94",
+  "listing_sha256": "216f8ae90ab618cb46c531580a9476968ff254e01af5a04532f3c85ba1e06157",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
