@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΗΚ465ΦΥΟ-ΧΗ1",
+  "subject": "Μετατροπή κενών οργανικών θέσεων προσωπικού στο Κέντρο Υγείας (Κ.Υ.) Νιγρίτας αρμοδιότητας 4ης Υγειονομικής Περιφέρειας Μακεδονίας και Θράκης.",
+  "protocol_number": "Γ1α/Γ.Π.οικ.48305",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047557"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3498",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-07-29",
+  "posted": "2021-08-04",
+  "publish_timestamp_ms": 1628069695685,
+  "version_id": "952f28f7-da8d-4382-a832-ea58bb5e8b38",
+  "in_force": "2021-08-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%97%CE%9A465%CE%A6%CE%A5%CE%9F-%CE%A7%CE%971",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%97%CE%9A465%CE%A6%CE%A5%CE%9F-%CE%A7%CE%971/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%97%CE%9A465%CE%A6%CE%A5%CE%9F-%CE%A7%CE%971",
+  "listing_sha256": "f4511810ce0139dd211de82198e564f126ff6a5b2e76b671bd047f90ec514235",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
