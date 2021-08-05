@@ -1,0 +1,71 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΚΩ346ΜΤΛ6-ΧΥ2",
+  "subject": "Τροποποίηση της υπ΄αρ.  87417/11.12.2020 (ΦΕΚ 5507Β΄) κοινής υπουργικής απόφασης «Καθορισμός ποσοστού και διαδικασίας απόδοσης ποσού από το Ελληνικό Δημόσιο σε Δήμους της χώρας και στον τακτικό προϋπολογισμό του Υπουργείου Ναυτιλίας και Νησιωτικής Πολιτικής, ως αντισταθμιστικά ωφελήματα από τη λιμενική και εμπορευματική δραστηριότητα της ΟΛΠ Α.Ε.»(Β΄5507).",
+  "protocol_number": "52798",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "91264"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3196",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100064185"
+        ]
+      },
+      {
+        "ministryId": "100015969",
+        "unitId": [
+          "90678"
+        ],
+        "signerIds": [
+          "100047767"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-07-15",
+  "posted": "2021-08-05",
+  "publish_timestamp_ms": 1628163976140,
+  "version_id": "1115f5d5-33a0-4e69-83c1-9abcc10415c3",
+  "in_force": "2021-08-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%A9346%CE%9C%CE%A4%CE%9B6-%CE%A7%CE%A52",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%A9346%CE%9C%CE%A4%CE%9B6-%CE%A7%CE%A52/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9A%CE%A9346%CE%9C%CE%A4%CE%9B6-%CE%A7%CE%A52",
+  "listing_sha256": "32afb5f5ad677dcacade7634a620f43807f9b379bb83f5973c9fb0da2f6cb245",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
