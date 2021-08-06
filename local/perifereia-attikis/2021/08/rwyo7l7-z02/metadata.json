@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΡΩΥΟ7Λ7-Ζ02",
+  "subject": "ΟΑΠ ΣΤΑΜΑΤΑ ΡΟΔΟΠΟΛΗ ΤΟΥ ΔΗΜΟΥ ΔΙΟΝΥΣΟΥ",
+  "protocol_number": "669231",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5002",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΑΤΤΙΚΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "87406"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-08-06",
+  "posted": "2021-08-06",
+  "publish_timestamp_ms": 1628259936319,
+  "version_id": "1477f161-8b04-418b-99e4-c5999aaa9040",
+  "in_force": "2021-08-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%A9%CE%A5%CE%9F7%CE%9B7-%CE%9602",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%A9%CE%A5%CE%9F7%CE%9B7-%CE%9602/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A1%CE%A9%CE%A5%CE%9F7%CE%9B7-%CE%9602",
+  "listing_sha256": "b83cc991e9e19473bdc26b1a090e243960ae6f1abe7d8b535c0151d2dad428c4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
