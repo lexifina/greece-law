@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΚΟ465ΧΘΞ-Β0Ν",
+  "subject": "Καθορισμός ωραρίου εργασίας σε εικοσιτετράωρη βάση (καθημερινές, Σάββατα, Κυριακές και αργίες) του πάσης φύσεως προσωπικού το οποίο υπηρετεί στις Δ/νσεις Αποκατάστασης Επιπτώσεων Φυσικών Καταστροφών Κεντρικής και Δυτικής Ελλάδος (ΔΑΕΦΚ Κ.Ε. – Δ26 και ΔΑΕΦΚ Δ.Ε.-Δ27) και στους Τομείς Αποκατάστασης Επιπτώσεων Φυσικών Καταστροφών Ανατολικής και Δυτικής Αττικής (ΤΑΕΦΚ Α.Α. και ΤΑΕΦΚ Δ.Α.) του Υπουργείου Υποδομών και Μεταφορών, καθώς και του προσωπικού που διατίθεται ή ασκεί παράλληλα καθήκοντα στις ανωτέρω υπηρεσίες, για την καταγραφή και την αποκατάσταση των ζημιών που προκλήθηκαν από τις πυρκαγιές στον Νομό Αττικής (Βαρυμπόμπη, Θρακομακεδόνες, Τατόι, κλπ.), στην Πελοπόννησο (νομοί Αχαΐας, Μεσσηνίας κλπ) και στην Εύβοια.",
+  "protocol_number": "215202",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007365"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3654",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-08-05",
+  "posted": "2021-08-10",
+  "publish_timestamp_ms": 1628590831524,
+  "version_id": "1dafe343-a89e-4c1a-a2c1-8be68d4aef53",
+  "in_force": "2021-08-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%9A%CE%9F465%CE%A7%CE%98%CE%9E-%CE%920%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%9A%CE%9F465%CE%A7%CE%98%CE%9E-%CE%920%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%9A%CE%9F465%CE%A7%CE%98%CE%9E-%CE%920%CE%9D",
+  "listing_sha256": "aaae3c764d4b5fbcb87ab5dcff19037f1c7caef07ff768fb958dfbe5e7adcf69",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
