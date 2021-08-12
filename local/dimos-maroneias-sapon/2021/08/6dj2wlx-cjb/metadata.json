@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΔΞ2ΩΛΧ-ΨΞΒ",
+  "subject": "ΠΡΟΣΛΗΨΗ ΠΡΟΣΩΠΙΚΟΥ  ΔΙΜΗΝΗΣ ΑΠΑΣΧΟΛΗΣΗΣ",
+  "protocol_number": "5800",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6185",
+    "label": "ΔΗΜΟΣ ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79098"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-08-12",
+  "posted": "2021-08-12",
+  "publish_timestamp_ms": 1628747030797,
+  "version_id": "b84c61e3-8782-4beb-a28d-a856dc3dcfb6",
+  "in_force": "2021-08-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%94%CE%9E2%CE%A9%CE%9B%CE%A7-%CE%A8%CE%9E%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%94%CE%9E2%CE%A9%CE%9B%CE%A7-%CE%A8%CE%9E%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%94%CE%9E2%CE%A9%CE%9B%CE%A7-%CE%A8%CE%9E%CE%92",
+  "listing_sha256": "663f080b1ac0eb0cfefd43598580ee30f7ad08e63a740774b864229c1ce87fe6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
