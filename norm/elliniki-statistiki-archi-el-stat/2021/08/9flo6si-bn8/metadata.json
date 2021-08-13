@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΦΛΟ6ΣΙ-ΒΝ8",
+  "subject": "Καθορισμός αποζημίωσης των Απογραφέων που θα απασχοληθούν στη συλλογή των στοιχείων\nτης Απογραφής Πληθυσμού-Κατοικιών, έτους 2021.",
+  "protocol_number": "Καθορισμός αποζημίωσης των Απογραφέων που θα απασχοληθούν στη συλλογή των στοιχείων της Απογραφής Πληθυσμού-Κατοικιών, έτους 2021.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "7839",
+    "label": "ΕΛΛΗΝΙΚΗ ΣΤΑΤΙΣΤΙΚΗ ΑΡΧΗ (ΕΛ.ΣΤΑΤ.)",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "89800"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3701",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-08-06",
+  "posted": "2021-08-13",
+  "publish_timestamp_ms": 1628851830458,
+  "version_id": "ab0faf57-f83f-4e78-9f0d-3716a57d54dd",
+  "in_force": "2021-08-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%A6%CE%9B%CE%9F6%CE%A3%CE%99-%CE%92%CE%9D8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%A6%CE%9B%CE%9F6%CE%A3%CE%99-%CE%92%CE%9D8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%A6%CE%9B%CE%9F6%CE%A3%CE%99-%CE%92%CE%9D8",
+  "listing_sha256": "b83cc991e9e19473bdc26b1a090e243960ae6f1abe7d8b535c0151d2dad428c4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
