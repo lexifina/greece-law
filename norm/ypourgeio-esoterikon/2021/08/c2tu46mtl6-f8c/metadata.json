@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ2ΤΘ46ΜΤΛ6-Φ8Ψ",
+  "subject": "ΑΝΑΚΟΙΝΩΣΗ ΠΡΟΚΗΡΥΞΗΣ EBA - ΠΑΡΑΤΑΣΗ ΠΡΟΘΕΣΜΙΑΣ ΥΠΟΒΟΛΗΣ ΑΙΤΗΣΕΩΝ",
+  "protocol_number": "ΔΙΠΑΑΔ/Φ.4/919/15878/13-08-2021",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100005014"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΖΠ946ΜΤΛ6-49Λ"
+      }
+    ]
+  },
+  "issued": "2021-08-16",
+  "posted": "2021-08-16",
+  "publish_timestamp_ms": 1629100619409,
+  "version_id": "c1212cf3-394b-493f-8a92-1b8125da3f7a",
+  "in_force": "2021-08-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A82%CE%A4%CE%9846%CE%9C%CE%A4%CE%9B6-%CE%A68%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A82%CE%A4%CE%9846%CE%9C%CE%A4%CE%9B6-%CE%A68%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A82%CE%A4%CE%9846%CE%9C%CE%A4%CE%9B6-%CE%A68%CE%A8",
+  "listing_sha256": "e6bfa3841a8854415280a29cc5fd04e639c45f5812d5c40e64add84a76183839",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
