@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ1ΓΧΩΨ3-4ΘΩ",
+  "subject": "36-2021 Απόφαση Δημοτικού Συμβουλίου",
+  "protocol_number": "2566",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6041",
+    "label": "ΔΗΜΟΣ ΑΡΓΙΘΕΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83024"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-08-16",
+  "posted": "2021-08-16",
+  "publish_timestamp_ms": 1629107288898,
+  "version_id": "9788df47-12c7-497c-90be-d52b44cc2658",
+  "in_force": "2021-08-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A81%CE%93%CE%A7%CE%A9%CE%A83-4%CE%98%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A81%CE%93%CE%A7%CE%A9%CE%A83-4%CE%98%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A81%CE%93%CE%A7%CE%A9%CE%A83-4%CE%98%CE%A9",
+  "listing_sha256": "e6bfa3841a8854415280a29cc5fd04e639c45f5812d5c40e64add84a76183839",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
