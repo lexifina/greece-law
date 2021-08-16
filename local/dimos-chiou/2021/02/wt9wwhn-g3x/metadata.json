@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤ9ΩΩΗΝ-Γ3Χ",
+  "subject": "Απόφαση 1/2021 Υπηρεσιακού Συμβουλίου Χίου για την Τροποποίηση του Οργανισμού Εσωτερικής Υπηρεσίας του Δήμου Ηρωικής Νήσου Ψαρών",
+  "protocol_number": "56",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88312"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2478",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "1",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-02-18",
+  "posted": "2021-08-16",
+  "publish_timestamp_ms": 1629110197758,
+  "version_id": "51332a57-cde2-4202-ac4f-369d9f3f7aa6",
+  "in_force": "2021-08-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A49%CE%A9%CE%A9%CE%97%CE%9D-%CE%933%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A49%CE%A9%CE%A9%CE%97%CE%9D-%CE%933%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A49%CE%A9%CE%A9%CE%97%CE%9D-%CE%933%CE%A7",
+  "listing_sha256": "06115d71500ffc85efbd4791015879114245a630b83f3b7e5a90237f25fd12a0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
