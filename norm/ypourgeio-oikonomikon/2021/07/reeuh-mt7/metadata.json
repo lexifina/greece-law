@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΡΕΕΘΗ-ΜΤ7",
+  "subject": "Καθιέρωση υπερωριακής εργασίας υπαλλήλων του Συμβουλίου Οικονομικών Εμπειρογνωμόνων (Σ.Ο.Ε.) του Υπουργείου Οικονομικών»",
+  "protocol_number": "93037 ΕΞ 2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100060940"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3479",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-07-27",
+  "posted": "2021-08-18",
+  "publish_timestamp_ms": 1629292366318,
+  "version_id": "2c2613a0-425e-4947-8461-e77212912fc2",
+  "in_force": "2021-08-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%95%CE%95%CE%98%CE%97-%CE%9C%CE%A47",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%95%CE%95%CE%98%CE%97-%CE%9C%CE%A47/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A1%CE%95%CE%95%CE%98%CE%97-%CE%9C%CE%A47",
+  "listing_sha256": "63efd3cd505c62a253eef4a611d0a6cc1a8bb14822bc6c09bcbd523650dbd852",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
