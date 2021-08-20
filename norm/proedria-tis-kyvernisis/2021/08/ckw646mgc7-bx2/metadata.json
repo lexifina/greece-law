@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚΩ646ΜΓΨ7-ΒΧ2",
+  "subject": "Τροποποίηση της υπ. αριθμ. 165/28.07.2021 Κοινής Υπουργικής Απόφασης \n«Πρόγραμμα χρηματοδότησης για την οικονομική στήριξη επιχειρήσεων έκδοσης \nεφημερίδων πανελλήνιας κυκλοφορίας και περιφερειακών και τοπικών εφημερίδων, των \nπαρόχων περιεχομένου περιφερειακής εμβέλειας επίγειας ψηφιακής τηλεόρασης, των \nραδιοφωνικών σταθμών και του περιοδικού τύπου» (Β’ 3449/29.07.2021)",
+  "protocol_number": "323/18-8-2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100048574",
+    "label": "ΠΡΟΕΔΡΙΑ ΤΗΣ ΚΥΒΕΡΝΗΣΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100048997"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3856",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "323",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-08-20",
+  "posted": "2021-08-20",
+  "publish_timestamp_ms": 1629455213794,
+  "version_id": "887a9513-7aa6-4fcc-8640-cbbb0f900a9d",
+  "in_force": "2021-08-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%A9646%CE%9C%CE%93%CE%A87-%CE%92%CE%A72",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%A9646%CE%9C%CE%93%CE%A87-%CE%92%CE%A72/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A%CE%A9646%CE%9C%CE%93%CE%A87-%CE%92%CE%A72",
+  "listing_sha256": "08d94ca9c5cb88247b21cfe356b030224a476071444c9a54a3d4092757c98521",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
