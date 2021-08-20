@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΙ7Ω1Η-ΔΒΛ",
+  "subject": "ΑΑΥ 216 - ΑΡΧΕΙΟΘΕΤΗΣΗ ΑΡΧΕΙΟΥ ΔΗΜΟΥ ΑΠΟ ΓΑΚ",
+  "protocol_number": "216/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6271",
+    "label": "ΔΗΜΟΣ ΣΕΡΙΦΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83430"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-08-20",
+  "posted": "2021-08-20",
+  "publish_timestamp_ms": 1629443643357,
+  "version_id": "62fbbf44-b09b-4983-b75b-73d73712f689",
+  "in_force": "2021-08-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%997%CE%A91%CE%97-%CE%94%CE%92%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%997%CE%A91%CE%97-%CE%94%CE%92%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%997%CE%A91%CE%97-%CE%94%CE%92%CE%9B",
+  "listing_sha256": "08d94ca9c5cb88247b21cfe356b030224a476071444c9a54a3d4092757c98521",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
