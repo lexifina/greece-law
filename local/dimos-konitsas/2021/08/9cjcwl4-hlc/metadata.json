@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΨΞΨΩΛ4-ΗΛΨ",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ",
+  "protocol_number": "4497",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6156",
+    "label": "ΔΗΜΟΣ ΚΟΝΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81788"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-08-23",
+  "posted": "2021-08-23",
+  "publish_timestamp_ms": 1629709098469,
+  "version_id": "3496825a-502c-4884-ad53-b88f842ef82f",
+  "in_force": "2021-08-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%A8%CE%9E%CE%A8%CE%A9%CE%9B4-%CE%97%CE%9B%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%A8%CE%9E%CE%A8%CE%A9%CE%9B4-%CE%97%CE%9B%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%A8%CE%9E%CE%A8%CE%A9%CE%9B4-%CE%97%CE%9B%CE%A8",
+  "listing_sha256": "4ba468e3916a2a761c6fe5d4118a48f52d8d8e68f4724e98173e57e464478d60",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
