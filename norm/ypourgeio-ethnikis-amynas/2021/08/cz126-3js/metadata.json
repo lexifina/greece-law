@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΖ126-3ΞΣ",
+  "subject": "Εφόδια-υλικά (Προμήθεια Μαξιλαριών)",
+  "protocol_number": "3739",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "87197"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "99ΘΗ6-Υ6Υ"
+      }
+    ]
+  },
+  "issued": "2021-08-23",
+  "posted": "2021-08-23",
+  "publish_timestamp_ms": 1629718244602,
+  "version_id": "14edcc4f-6cad-4d3d-bf06-6b0232835644",
+  "in_force": "2021-08-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%96126-3%CE%9E%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%96126-3%CE%9E%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%96126-3%CE%9E%CE%A3",
+  "listing_sha256": "4ba468e3916a2a761c6fe5d4118a48f52d8d8e68f4724e98173e57e464478d60",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
