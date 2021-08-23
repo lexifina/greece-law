@@ -1,0 +1,58 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Υ3Τ46ΜΤΛ6-1ΜΗ",
+  "subject": "Πράξη Έγκρισης Σύμβασης Δωρεάς μεταξύ του κ. Κωνσταντίνου Μαρτίνου και του Δήμου Νάξου και Μικρών Κυκλάδων περί του κόστους σχεδιασμού και κατασκευής υπογείου ορόφου επί του νέου κτιρίου του περιφερειακού ιατρείου της νήσου Σχοινούσας Κυκλάδων",
+  "protocol_number": "62176",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "91263"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "62176",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "91263"
+        ],
+        "signerIds": [
+          "100064185"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "126841"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-08-23",
+  "posted": "2021-08-23",
+  "publish_timestamp_ms": 1629716935671,
+  "version_id": "95e5f536-d905-42b3-b4ba-2aa1d17fa2bd",
+  "in_force": "2021-08-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A53%CE%A446%CE%9C%CE%A4%CE%9B6-1%CE%9C%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A53%CE%A446%CE%9C%CE%A4%CE%9B6-1%CE%9C%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A53%CE%A446%CE%9C%CE%A4%CE%9B6-1%CE%9C%CE%97",
+  "listing_sha256": "4ba468e3916a2a761c6fe5d4118a48f52d8d8e68f4724e98173e57e464478d60",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
