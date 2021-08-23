@@ -1,0 +1,68 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΜΟΙ465ΧΘΞ-ΒΞΞ",
+  "subject": "Ορισμός νέας προθεσμίας υποβολής αίτησης για διενέργεια αυτοψίας για την έκδοση έκθεσης αυτοψίας σε κτήρια που έχουν πληγεί από τον σεισμό της 21ης Μαρτίου 2020, σε περιοχές των Περιφερειακών Ενοτήτων Πρέβεζας, Θεσπρωτίας και Ιωαννίνων της Περιφέρειας Ηπείρου και της 30ης Οκτωβρίου 2020,  σε περιοχές των Περιφερειακών Ενοτήτων Σάμου, Ικαρίας και Χίου της Περιφέρειας Βορείου Αιγαίου.",
+  "protocol_number": "ΔΑΕΦΚ-ΚΕ/οικ.13916/Α321",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3826",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ψ3ΣΧ465ΧΘΞ-247"
+      }
+    ],
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70114"
+        ],
+        "signerIds": [
+          "100047836"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-08-11",
+  "posted": "2021-08-23",
+  "publish_timestamp_ms": 1629709709162,
+  "version_id": "1d8b1884-0adc-46f8-900a-2542d50b5473",
+  "in_force": "2021-08-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C%CE%9F%CE%99465%CE%A7%CE%98%CE%9E-%CE%92%CE%9E%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C%CE%9F%CE%99465%CE%A7%CE%98%CE%9E-%CE%92%CE%9E%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9C%CE%9F%CE%99465%CE%A7%CE%98%CE%9E-%CE%92%CE%9E%CE%9E",
+  "listing_sha256": "db76959b46e6f822058b582ef218d407cea96394c8a9a05ad84a8b90e81d0f3d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
