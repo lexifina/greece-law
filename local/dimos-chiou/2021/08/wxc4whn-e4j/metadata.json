@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧΨ4ΩΗΝ-Ε4Ξ",
+  "subject": "Η αριθμ 240/2021 Απόφαση Δημάρχου Χίου",
+  "protocol_number": "68346",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78547"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-08-23",
+  "posted": "2021-08-23",
+  "publish_timestamp_ms": 1629715014721,
+  "version_id": "e791fb6c-38a3-459d-a31e-b02ee4d7bc4a",
+  "in_force": "2021-08-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%A84%CE%A9%CE%97%CE%9D-%CE%954%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%A84%CE%A9%CE%97%CE%9D-%CE%954%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A7%CE%A84%CE%A9%CE%97%CE%9D-%CE%954%CE%9E",
+  "listing_sha256": "4ba468e3916a2a761c6fe5d4118a48f52d8d8e68f4724e98173e57e464478d60",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
