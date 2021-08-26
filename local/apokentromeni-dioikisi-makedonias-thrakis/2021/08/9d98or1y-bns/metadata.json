@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9Δ98ΟΡ1Υ-ΒΝΣ",
+  "subject": "ΔΑΔ ΒΟΣΚΗΣ",
+  "protocol_number": "184970",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77264"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-08-26",
+  "posted": "2021-08-26",
+  "publish_timestamp_ms": 1629973628054,
+  "version_id": "cfb15f18-9e16-4de2-88ac-fec71c665292",
+  "in_force": "2021-08-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9498%CE%9F%CE%A11%CE%A5-%CE%92%CE%9D%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9498%CE%9F%CE%A11%CE%A5-%CE%92%CE%9D%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%9498%CE%9F%CE%A11%CE%A5-%CE%92%CE%9D%CE%A3",
+  "listing_sha256": "16405985b2e14dde70f18592ae369b7f3ccd65fcfec577254fc9f3cd7043c3fd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
