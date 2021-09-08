@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΓΛΕΗ-Α40",
+  "subject": "Συγκρότηση συνεργείου υπερωριακής απογευματινής εργασίας ",
+  "protocol_number": "108986 ΕΞ 2021 ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100037326"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4091",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-09-08",
+  "posted": "2021-09-08",
+  "publish_timestamp_ms": 1631091381440,
+  "version_id": "b495b35b-8478-4b7a-b275-0269bce76595",
+  "in_force": "2021-09-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%9B%CE%95%CE%97-%CE%9140",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%93%CE%9B%CE%95%CE%97-%CE%9140/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%93%CE%9B%CE%95%CE%97-%CE%9140",
+  "listing_sha256": "4b2a07739c0494db2c34a660339fd408053d640899ab1820e14d3c319578220c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
