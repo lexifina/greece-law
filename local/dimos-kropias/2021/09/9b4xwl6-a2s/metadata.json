@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9Β4ΧΩΛ6-Α2Σ",
+  "subject": "Αποδοχή δωρεάς χρηματικού ποσού (Ι)",
+  "protocol_number": "213-2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6160",
+    "label": "ΔΗΜΟΣ ΚΡΩΠΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81450"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-09-07",
+  "posted": "2021-09-09",
+  "publish_timestamp_ms": 1631181209809,
+  "version_id": "a33d0c04-576b-47e6-89d7-68b0f3213b0c",
+  "in_force": "2021-09-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%924%CE%A7%CE%A9%CE%9B6-%CE%912%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%924%CE%A7%CE%A9%CE%9B6-%CE%912%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%924%CE%A7%CE%A9%CE%9B6-%CE%912%CE%A3",
+  "listing_sha256": "9d09ea9c4ebafd2436f9fb6abc710b424802098b293b91c93bcbf42183c222ca",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
