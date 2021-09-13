@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΞΕΦΩ1Η-ΞΕΟ",
+  "subject": "ΧΕΠ Β/277 - ΕΚΤΕΛΕΣΗ ΣΥΓΚΟΙΝΩΝΙΑΣ ΣΤΗΝ ΑΓΟΝΗ ΓΡΑΜΜΗ",
+  "protocol_number": "277/201",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6271",
+    "label": "ΔΗΜΟΣ ΣΕΡΙΦΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83430"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-09-13",
+  "posted": "2021-09-13",
+  "publish_timestamp_ms": 1631523626059,
+  "version_id": "6b694d34-e473-438d-9afb-58ad2cecaa3b",
+  "in_force": "2021-09-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E%CE%95%CE%A6%CE%A91%CE%97-%CE%9E%CE%95%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E%CE%95%CE%A6%CE%A91%CE%97-%CE%9E%CE%95%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9E%CE%95%CE%A6%CE%A91%CE%97-%CE%9E%CE%95%CE%9F",
+  "listing_sha256": "8e0d72264c471e48759bc86f55895adf6e64c0cf94ddb379237a9f94a8004ff5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
