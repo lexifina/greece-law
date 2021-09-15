@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΣ4ΡΟΡ1Υ-ΩΜ6",
+  "subject": "ΑΜΟΙΒΑΙΑ ΜΕΤΑΤΑΞΗ ΚΑΛΕΝΤΖΗ ΧΟΥΣΕΪΝ ΜΕ ΜΑΥΡΟΠΟΥΛΟ ΠΡΟΔΡΟΜΟ",
+  "protocol_number": "172648",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "78032"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2020",
+      "issue": "fektype_C",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-08-07",
+  "posted": "2021-09-15",
+  "publish_timestamp_ms": 1631688681153,
+  "version_id": "8e479b9e-5ae8-4343-bca2-01e736831ffb",
+  "in_force": "2021-09-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A34%CE%A1%CE%9F%CE%A11%CE%A5-%CE%A9%CE%9C6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A34%CE%A1%CE%9F%CE%A11%CE%A5-%CE%A9%CE%9C6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A34%CE%A1%CE%9F%CE%A11%CE%A5-%CE%A9%CE%9C6",
+  "listing_sha256": "43e4437f3fd7b02074a3424a43a857a77fe48b16375b09985f224fad2e28c12b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
