@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙΓΖ465ΧΘΞ-ΡΛΠ",
+  "subject": "Προθεσμίες και διαδικασία χορήγησης στεγαστικής συνδρομής για ανακατασκευή, αυτοστέγαση, \nαποπεράτωση και επισκευή κτηρίων που έχουν πληγεί από κατολισθήσεις.",
+  "protocol_number": "ΔΑΕΦΚ-ΚΕ/οικ.15286/A321",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4216",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-09-03",
+  "posted": "2021-09-15",
+  "publish_timestamp_ms": 1631688554753,
+  "version_id": "fb5d0ef1-7030-4ae6-af97-87d3a8ccbe28",
+  "in_force": "2021-09-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%93%CE%96465%CE%A7%CE%98%CE%9E-%CE%A1%CE%9B%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%99%CE%93%CE%96465%CE%A7%CE%98%CE%9E-%CE%A1%CE%9B%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%99%CE%93%CE%96465%CE%A7%CE%98%CE%9E-%CE%A1%CE%9B%CE%A0",
+  "listing_sha256": "873a9320605e409575e4e0a0f2eb4c0da0f17f37fab6ceb9254a1cf0d5e8e67c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
