@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΣ52ΙΜ0-5ΜΨ",
+  "subject": "Τροποποίηση του π.δ. 273/1999 (Α΄229) \"Κανονισμός λειτουργίας του Συνηγόρου του Πολίτη\", ως ισχύει.",
+  "protocol_number": "45651",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "22966",
+    "label": "ΣΥΝΗΓΟΡΟΣ ΤΟΥ ΠΟΛΙΤΗ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "72319"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4251",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Πράξη Ανεξάρτητης Αρχής",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-08-23",
+  "posted": "2021-09-17",
+  "publish_timestamp_ms": 1631879464810,
+  "version_id": "a007e93f-3dce-4ce1-a33e-1d8c325a0898",
+  "in_force": "2021-09-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A352%CE%99%CE%9C0-5%CE%9C%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A352%CE%99%CE%9C0-5%CE%9C%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A352%CE%99%CE%9C0-5%CE%9C%CE%A8",
+  "listing_sha256": "4ba468e3916a2a761c6fe5d4118a48f52d8d8e68f4724e98173e57e464478d60",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
