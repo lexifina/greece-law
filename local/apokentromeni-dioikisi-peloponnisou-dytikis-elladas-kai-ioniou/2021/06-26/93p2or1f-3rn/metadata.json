@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "93Π2ΟΡ1Φ-3ΡΝ",
+  "subject": "Κατάταξη προσωπικού ΙΔΑΧ στο Δημοτικό Βρεφοκομείο Πατρών έπειτα από δικαστική απόφαση",
+  "protocol_number": "102223",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87448"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1584",
+      "issue": "fektype_C",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-06-26",
+  "posted": "2021-09-17",
+  "publish_timestamp_ms": 1631875471683,
+  "version_id": "ca7facba-2ff0-4990-951a-c632437ca081",
+  "in_force": "2021-09-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/93%CE%A02%CE%9F%CE%A11%CE%A6-3%CE%A1%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/93%CE%A02%CE%9F%CE%A11%CE%A6-3%CE%A1%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/93%CE%A02%CE%9F%CE%A11%CE%A6-3%CE%A1%CE%9D",
+  "listing_sha256": "e21df1affa3e143fa8e73b12a9bcd852201ae9fed22c9fbaae05b4b6a04b9bbd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
