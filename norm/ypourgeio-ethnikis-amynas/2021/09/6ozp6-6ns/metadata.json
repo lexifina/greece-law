@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΟΖΠ6-6ΝΣ",
+  "subject": "ΤΧΕ ΤΕΛΙΚΗ ΕΓΚΡΙΣΗ 3Α/19 ΣΠ",
+  "protocol_number": "419755",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "78138"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-09-17",
+  "posted": "2021-09-24",
+  "publish_timestamp_ms": 1632467178654,
+  "version_id": "ee34dd93-8d89-4b40-a7f8-4d99a8e5145a",
+  "in_force": "2021-09-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F%CE%96%CE%A06-6%CE%9D%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F%CE%96%CE%A06-6%CE%9D%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9F%CE%96%CE%A06-6%CE%9D%CE%A3",
+  "listing_sha256": "56414f60d0a31901e0302c90738dee64c7d32e1e4887bb145a33a79097fbd366",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
