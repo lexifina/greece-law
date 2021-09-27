@@ -1,0 +1,58 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟΗΩ46ΜΤΛ6-Η0Σ",
+  "subject": "Πράξη Έγκρισης Σύμβασης Δωρεάς μεταξύ του κοινωφελούς Ιδρύματος «ΑΛΕΞΑΝΔΡΟΣ Σ. ΩΝΑΣΗΣ (ALEXANDER S. ONASSIS PUBLIC BENEFIT FOUNDATION)», μέσω της εταιρίας «ΑΡΙΟΝΑ ΕΛΛΑΣ Α.Ε.», που ενεργεί ως αντιπρόσωπός του στην Ελλάδα και του Δήμου Αθηναίων, για την ανακατασκευή της υφιστάμενης, εντός του χαρακτηρισμένου ως κοινόχρηστου χώρου που περικλείεται από τις οδούς Λογγίνου, Κοσμά Μπαλάνου και Μάρκου Μουσούρου, παιδικής χαράς και του υφιστάμενου στον ίδιο χώρο γηπέδου μπάσκετ, καθώς και την αποκατάσταση του περιβάλλοντος χώρου αυτών.»",
+  "protocol_number": "69588",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "91263"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "69588",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "91263"
+        ],
+        "signerIds": [
+          "100064185"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "126841"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-09-24",
+  "posted": "2021-09-27",
+  "publish_timestamp_ms": 1632725249947,
+  "version_id": "b1250164-ae99-41a6-aa47-23e8b3a5e1ff",
+  "in_force": "2021-09-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%97%CE%A946%CE%9C%CE%A4%CE%9B6-%CE%970%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%97%CE%A946%CE%9C%CE%A4%CE%9B6-%CE%970%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F%CE%97%CE%A946%CE%9C%CE%A4%CE%9B6-%CE%970%CE%A3",
+  "listing_sha256": "d4187fa37b5c18e91fe337bdc20ca1e3f1a3f6e7e10ad236b2b292dbd52beab3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
