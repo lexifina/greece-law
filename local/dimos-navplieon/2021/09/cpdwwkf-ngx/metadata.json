@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠΔΩΩΚΦ-ΝΓΧ",
+  "subject": "Έγκριση κίνησης του ΚΗΙ  9159 φορτηγού οχήματος του Δ. Ναυπλιέων",
+  "protocol_number": "Αρ. απ. 1865",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6206",
+    "label": "ΔΗΜΟΣ ΝΑΥΠΛΙΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100006049"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-09-28",
+  "posted": "2021-09-28",
+  "publish_timestamp_ms": 1632826284617,
+  "version_id": "a5ec3fbc-3bb6-4931-9534-57676093dfdc",
+  "in_force": "2021-09-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%94%CE%A9%CE%A9%CE%9A%CE%A6-%CE%9D%CE%93%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%94%CE%A9%CE%A9%CE%9A%CE%A6-%CE%9D%CE%93%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A0%CE%94%CE%A9%CE%A9%CE%9A%CE%A6-%CE%9D%CE%93%CE%A7",
+  "listing_sha256": "9607f9865d7f4deda89fb12f643b41580cae986415ac29c6954ddb7405f7b341",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
