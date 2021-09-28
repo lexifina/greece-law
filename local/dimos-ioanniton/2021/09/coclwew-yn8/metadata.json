@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟΨΛΩΕΩ-ΥΝ8",
+  "subject": "Μετακίνηση Υπαλλήλου-Ορισμός αναπληρωτή Προϊσταμένου στο αυτοτελές τμήμα  Εσωτερικού Ελέγχου",
+  "protocol_number": "98549",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6125",
+    "label": "ΔΗΜΟΣ ΙΩΑΝΝΙΤΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78733"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΒΛΚΩΕΩ-ΑΞ1"
+      }
+    ]
+  },
+  "issued": "2021-09-28",
+  "posted": "2021-09-28",
+  "publish_timestamp_ms": 1632812471144,
+  "version_id": "7dae0bcf-8ad4-44cf-86ba-cd6d474611ae",
+  "in_force": "2021-09-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%A8%CE%9B%CE%A9%CE%95%CE%A9-%CE%A5%CE%9D8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%A8%CE%9B%CE%A9%CE%95%CE%A9-%CE%A5%CE%9D8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F%CE%A8%CE%9B%CE%A9%CE%95%CE%A9-%CE%A5%CE%9D8",
+  "listing_sha256": "9607f9865d7f4deda89fb12f643b41580cae986415ac29c6954ddb7405f7b341",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
