@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ66Ε6-ΟΧ3",
+  "subject": "Προμήθεια 2.320 Πολυβόλων ΜΙΝΙΜΙ 5,56 χιλ., 2320 Διοπτρών ΝΣ ΝS-685C και 21.940.288 Φυσιγγίων  5,56 χιλ.",
+  "protocol_number": "104634",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70161"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-09-28",
+  "posted": "2021-09-28",
+  "publish_timestamp_ms": 1632819078615,
+  "version_id": "1bebbdb7-cb7e-43bb-b5d9-0216733a0e40",
+  "in_force": "2021-09-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A866%CE%956-%CE%9F%CE%A73",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A866%CE%956-%CE%9F%CE%A73/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A866%CE%956-%CE%9F%CE%A73",
+  "listing_sha256": "9607f9865d7f4deda89fb12f643b41580cae986415ac29c6954ddb7405f7b341",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
