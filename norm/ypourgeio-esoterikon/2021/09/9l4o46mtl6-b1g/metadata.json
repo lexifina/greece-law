@@ -1,0 +1,58 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9Λ4Ο46ΜΤΛ6-Β1Γ",
+  "subject": "Πράξη Έγκρισης Σύμβασης Δωρεάς μεταξύ του Κοινωφελούς Ιδρύματος «ΑΛΕΞΑΝΔΡΟΣ Σ. ΩΝΑΣΗΣ» μέσω της εταιρίας «ΑΡΙΟΝΑ ΕΛΛΑΣ Α.Ε.», που ενεργεί ως αντιπρόσωπός του στην Ελλάδα και του Δήμου Μοσχάτου – Ταύρου, για την ανακατασκευή ενός (1) αθλητικού γηπέδου μπάσκετ και δύο (2) αθλητικών γηπέδων βόλεϊ, καθώς και την προμήθεια και εγκατάσταση αθλητικού εξοπλισμού των εν λόγω γηπέδων, τα οποία βρίσκονται στον προαύλιο χώρο του 1ου Γυμνασίου – Λυκείου Μοσχάτου –Ταύρου.»",
+  "protocol_number": "70103",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "91263"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "70103",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "91263"
+        ],
+        "signerIds": [
+          "100064185"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "126841"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-09-28",
+  "posted": "2021-09-28",
+  "publish_timestamp_ms": 1632820365494,
+  "version_id": "e379d1d9-8d65-4df7-a1fa-34a2386838e2",
+  "in_force": "2021-09-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9B4%CE%9F46%CE%9C%CE%A4%CE%9B6-%CE%921%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9B4%CE%9F46%CE%9C%CE%A4%CE%9B6-%CE%921%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%9B4%CE%9F46%CE%9C%CE%A4%CE%9B6-%CE%921%CE%93",
+  "listing_sha256": "9607f9865d7f4deda89fb12f643b41580cae986415ac29c6954ddb7405f7b341",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
