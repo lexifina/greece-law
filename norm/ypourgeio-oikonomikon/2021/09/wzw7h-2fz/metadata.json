@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΖΩ7Η-2ΦΖ",
+  "subject": "Τροποποίηση της υπό στοιχεία 129875 ΕΞ2020/13.11.2020 απόφασης του Υπουργού Οικονομικών με θέμα «Σύσταση, συγκρότηση και ορισμός μελών Ομάδων Εργασίας στο Υπουργείο Οικονομικών για την εκτέλεση προπαρασκευαστικών εργασιών κατά τη διαδικασία νομοθετικής κωδικοποίησης της φορολογικής νομοθεσίας» (Β’ 5131).",
+  "protocol_number": "116581 ΕΞ 2021/23.09.2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "116581",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΟΩΒΗ-3ΛΧ"
+      }
+    ]
+  },
+  "issued": "2021-09-29",
+  "posted": "2021-09-29",
+  "publish_timestamp_ms": 1632897973976,
+  "version_id": "fc3f3808-cd6f-4130-99e5-6fac250e2bd2",
+  "in_force": "2021-09-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%96%CE%A97%CE%97-2%CE%A6%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%96%CE%A97%CE%97-2%CE%A6%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%96%CE%A97%CE%97-2%CE%A6%CE%96",
+  "listing_sha256": "d320c68d8415407846373046063f8343d99103b8789fab0f69a6b758efca6d63",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
