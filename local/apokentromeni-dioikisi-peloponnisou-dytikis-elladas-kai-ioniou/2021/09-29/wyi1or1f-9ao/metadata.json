@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥΙ1ΟΡ1Φ-9ΑΟ",
+  "subject": "ΑΠΟΦΑΣΗ 15/2021 (ΟΡΘΗ ΕΠΑΝΑΛΗΨΗ) περί απόρριψης της υπ’ αριθμ. πρωτ. Επιτροπής 72/03.07.2021 προσφυγής του Αθανασίου Κασόλα του Ελευθερίου (Δημοτικού Συμβούλου και επικεφαλής την μείζονος αντιπολιτεύσεως του Δήμου Ακτίου-Βόνιτσας) κατά της υπ’ αριθμ. 91913 & 87093/30-06-2021 απόφασης του Συντονιστή Αποκεντρωμένης Διοίκησης Πελοποννήσου Δυτικής Ελλάδας & Ιονίου",
+  "protocol_number": "72",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "83175"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΜΖΙΟΡ1Φ-27Ρ"
+      },
+      {
+        "relatedDecisionsADA": "ΨΛΥΣΩ6Ζ-33Λ"
+      }
+    ]
+  },
+  "issued": "2021-09-29",
+  "posted": "2021-09-30",
+  "publish_timestamp_ms": 1632982721272,
+  "version_id": "51885bad-d35e-4029-b2c3-818fedea5ddc",
+  "in_force": "2021-09-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%991%CE%9F%CE%A11%CE%A6-9%CE%91%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%991%CE%9F%CE%A11%CE%A6-9%CE%91%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A5%CE%991%CE%9F%CE%A11%CE%A6-9%CE%91%CE%9F",
+  "listing_sha256": "c0a735a85bfe187a887bdd3e18472c389e49295b4a4eef1ca2f3dd269b83c4d2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
