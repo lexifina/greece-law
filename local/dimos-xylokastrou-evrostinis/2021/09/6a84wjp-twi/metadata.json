@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Α84ΩΞΠ-ΤΩΙ",
+  "subject": "Έγκριση αιτήματος για χορήγηση άδειας παραγωγού λαϊκής αγοράς.",
+  "protocol_number": "88",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6222",
+    "label": "ΔΗΜΟΣ ΞΥΛΟΚΑΣΤΡΟΥ - ΕΥΡΩΣΤΙΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87737"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-09-30",
+  "posted": "2021-09-30",
+  "publish_timestamp_ms": 1632989410379,
+  "version_id": "4f30b29f-3760-45be-8e98-8a1e7275f527",
+  "in_force": "2021-09-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9184%CE%A9%CE%9E%CE%A0-%CE%A4%CE%A9%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9184%CE%A9%CE%9E%CE%A0-%CE%A4%CE%A9%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9184%CE%A9%CE%9E%CE%A0-%CE%A4%CE%A9%CE%99",
+  "listing_sha256": "f8a2fe6ae81cbc80bfb4796809cc527bde8091d117ba6ebf6781d011058b6fc6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
