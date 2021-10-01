@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΨΩΨΩΗΝ-Κ0Η",
+  "subject": "Η αριθμ 249/2021 Απόφαση Δημάρχου Χίου",
+  "protocol_number": "70496",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78547"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-08-31",
+  "posted": "2021-10-01",
+  "publish_timestamp_ms": 1633084624621,
+  "version_id": "5d939419-ac4d-4c38-9d37-e9464cc624f6",
+  "in_force": "2021-10-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A8%CE%A9%CE%A8%CE%A9%CE%97%CE%9D-%CE%9A0%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A8%CE%A9%CE%A8%CE%A9%CE%97%CE%9D-%CE%9A0%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A8%CE%A9%CE%A8%CE%A9%CE%97%CE%9D-%CE%9A0%CE%97",
+  "listing_sha256": "91d35d46ae414a4d6252e17afad56670a267b0b3e6f05765eed958920bdd9321",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
