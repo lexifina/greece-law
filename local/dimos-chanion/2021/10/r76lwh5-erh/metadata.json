@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ρ76ΛΩΗ5-ΕΡΗ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ 72Δ/2021 ΓΙΑ ΕΚΤΑΣΗ ΕΚΤΑΚΤΗΣ ΛΕΙΤΟΥΡΓΙΑΣ ΔΥΟ ΠΑΡΑΛΛΗΛΩΝ ΑΓΟΡΩΝ ΣΤΟΝ ΔΗΜΟ ΧΑΝΙΩΝ\r\n\r\n",
+  "protocol_number": "50919",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6318",
+    "label": "ΔΗΜΟΣ ΧΑΝΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100006652"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ρ76ΛΩΗ5-ΕΡΗ"
+      }
+    ]
+  },
+  "issued": "2021-10-04",
+  "posted": "2021-10-04",
+  "publish_timestamp_ms": 1633348895943,
+  "version_id": "aab86670-8aa8-4541-9f87-059d6cf0f17d",
+  "in_force": "2021-10-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A176%CE%9B%CE%A9%CE%975-%CE%95%CE%A1%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A176%CE%9B%CE%A9%CE%975-%CE%95%CE%A1%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A176%CE%9B%CE%A9%CE%975-%CE%95%CE%A1%CE%97",
+  "listing_sha256": "9011635887f94398fbab9d1088e9b9c205c61c3b699fe1011ba7e3e2dc0e7f20",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
