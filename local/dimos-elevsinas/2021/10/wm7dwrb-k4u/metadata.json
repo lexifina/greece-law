@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜ7ΔΩΡΒ-Κ4Θ",
+  "subject": "Εξειδίκευση πίστωσης ποσού 575,40 € για την πραγματοποίηση της δαπάνης εορτασμού της Απελευθέρωσης της Πόλης από την  Γερμανο-Ιταλική κατοχή της περιόδου 1941-1944 την  Τρίτη 12 Οκτωβρίου 2021.",
+  "protocol_number": "21-544",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6089",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΣΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84277"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-10-05",
+  "posted": "2021-10-05",
+  "publish_timestamp_ms": 1633419764937,
+  "version_id": "21f01b04-05d7-47c8-ad02-cbebbb029f3c",
+  "in_force": "2021-10-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C7%CE%94%CE%A9%CE%A1%CE%92-%CE%9A4%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C7%CE%94%CE%A9%CE%A1%CE%92-%CE%9A4%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C7%CE%94%CE%A9%CE%A1%CE%92-%CE%9A4%CE%98",
+  "listing_sha256": "3f88b056ac70b01e3a6903d0dc7c19d42cbf17bdfa6ba77e071432dc21912dfc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
