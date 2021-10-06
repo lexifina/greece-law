@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚΥΚΩΕΞ-ΛΛΞ",
+  "subject": "ΑΝΑΝΕΩΣΗ ΨΗΦΙΑΚΗΣ ΥΠΟΓΡΑΦΗΣ",
+  "protocol_number": "13145",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6133",
+    "label": "ΔΗΜΟΣ ΚΑΛΥΜΝΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100044321"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-10-06",
+  "posted": "2021-10-06",
+  "publish_timestamp_ms": 1633510688565,
+  "version_id": "75501b7f-7a64-4164-88d8-4eac166935f4",
+  "in_force": "2021-10-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%A5%CE%9A%CE%A9%CE%95%CE%9E-%CE%9B%CE%9B%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%A5%CE%9A%CE%A9%CE%95%CE%9E-%CE%9B%CE%9B%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A%CE%A5%CE%9A%CE%A9%CE%95%CE%9E-%CE%9B%CE%9B%CE%9E",
+  "listing_sha256": "90efe1ba1edc773b087382d08a1a9596d542555cf4b37d38ba34d569e1c0d1db",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
