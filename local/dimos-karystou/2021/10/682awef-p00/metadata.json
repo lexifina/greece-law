@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "682ΑΩΕΦ-Π00",
+  "subject": "Απόφαση 193/2021 Οικονομικής Επιτροπής με θέμα \"Αποδοχή δωρεάς οχήματος\"",
+  "protocol_number": "9889/7-10-2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6138",
+    "label": "ΔΗΜΟΣ ΚΑΡΥΣΤΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81911"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-10-06",
+  "posted": "2021-10-07",
+  "publish_timestamp_ms": 1633586894403,
+  "version_id": "4bba1f4c-1f68-4afd-a5d4-ad48a7d09a71",
+  "in_force": "2021-10-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/682%CE%91%CE%A9%CE%95%CE%A6-%CE%A000",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/682%CE%91%CE%A9%CE%95%CE%A6-%CE%A000/document",
+  "page": "https://diavgeia.gov.gr/decision/view/682%CE%91%CE%A9%CE%95%CE%A6-%CE%A000",
+  "listing_sha256": "d1730accc881ad3b086fe867082552720bc4f6d9d477089fcb329ad32f6961de",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
