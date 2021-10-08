@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧΑ9ΟΡ1Φ-2ΓΘ",
+  "subject": "ΕΝ ΜΕΡΕΙ ΑΝΑΚΛΗΣΗ ΑΝΑΔΑΣΩΤΕΑΣ ΑΠΟΦΑΣΗΣ ΣΤΗΝ ΘΕΣΗ ΑΓ.ΑΘΑΝΑΣΙΟΣ ΔΗΜΟΥ ΙΘΑΚΗΣ",
+  "protocol_number": "οικ.100869",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76449"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "640",
+      "issue": "fektype_D",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-10-08",
+  "posted": "2021-10-08",
+  "publish_timestamp_ms": 1633673118640,
+  "version_id": "fa05cb18-33ac-4fc2-b3d7-058395da0ed7",
+  "in_force": "2021-10-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%919%CE%9F%CE%A11%CE%A6-2%CE%93%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A7%CE%919%CE%9F%CE%A11%CE%A6-2%CE%93%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A7%CE%919%CE%9F%CE%A11%CE%A6-2%CE%93%CE%98",
+  "listing_sha256": "340e20a077b9662ef637ea8597752e6802e8338877a88f9d6e9b6aa7e28c78fb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
