@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΗΞ1Ω99-ΝΡ7",
+  "subject": "Αιτήσεις δημοτών",
+  "protocol_number": "Οικ. Επιτρ. 353/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6060",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΩΝ ΤΖΟΥΜΕΡΚΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100001586"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-10-06",
+  "posted": "2021-10-14",
+  "publish_timestamp_ms": 1634203028914,
+  "version_id": "e4c81e3b-8815-4931-b19f-6b7881ec1811",
+  "in_force": "2021-10-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%9E1%CE%A999-%CE%9D%CE%A17",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%9E1%CE%A999-%CE%9D%CE%A17/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%97%CE%9E1%CE%A999-%CE%9D%CE%A17",
+  "listing_sha256": "d1730accc881ad3b086fe867082552720bc4f6d9d477089fcb329ad32f6961de",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
