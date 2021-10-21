@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΩΞ5Ω9Μ-ΓΣΥ",
+  "subject": "ΠΡΟΣΩΡΙΝΗ ΑΔΕΙΑ ΛΕΙΤΟΥΡΓΊΑΣ ΓΗΠΕΔΟΥ ΜΑΥΡΟΒΑΤΟΥ",
+  "protocol_number": "42855",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100025961"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-10-21",
+  "posted": "2021-10-21",
+  "publish_timestamp_ms": 1634806303839,
+  "version_id": "eb26fa02-f1a6-4aa1-8495-e0aab9c26227",
+  "in_force": "2021-10-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%9E5%CE%A99%CE%9C-%CE%93%CE%A3%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%9E5%CE%A99%CE%9C-%CE%93%CE%A3%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A9%CE%9E5%CE%A99%CE%9C-%CE%93%CE%A3%CE%A5",
+  "listing_sha256": "0baf92b9a8a966fafcf69413d57e77da452a2a2d5e44b26503e8bd89560f845b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
