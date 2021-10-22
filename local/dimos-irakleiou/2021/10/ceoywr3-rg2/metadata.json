@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΕΟΥΩΡ3-ΡΓ2",
+  "subject": "Απόφαση Δημάρχου για την έγκριση μελέτης και τον καθορισμό του τρόπου εκτέλεσης της υπηρεσίας με τίτλο «Συνδρομή σε βάση Νομικών Δεδομένων»",
+  "protocol_number": "3428",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100069172"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "3428",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-10-22",
+  "posted": "2021-10-22",
+  "publish_timestamp_ms": 1634893712619,
+  "version_id": "b9b00b77-9824-41bc-91b4-0eecce0cc449",
+  "in_force": "2021-10-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%9F%CE%A5%CE%A9%CE%A13-%CE%A1%CE%932",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%9F%CE%A5%CE%A9%CE%A13-%CE%A1%CE%932/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%95%CE%9F%CE%A5%CE%A9%CE%A13-%CE%A1%CE%932",
+  "listing_sha256": "8d4ccb9250308690290d251e877007cdb45e645bbbd3564d320b04b67d99bb94",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
