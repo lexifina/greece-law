@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΒΡ246ΜΤΛΒ-ΦΥΖ",
+  "subject": "Παράταση έκτακτων προσωρινών κυκλοφοριακών ρυθμίσεων (48 ωρών) για την εκτέλεση του έργου ‘’405: Επέκταση Χαλύβδινου Δικτύου (19bar), Δικτύου Πολυαιθυλενίου και Συνδέσεις οικιακών και εμπορικών πελατών στα δίκτυα χαμηλής πίεσης (4bar), στην πόλη της Αλεξανδρούπολης’’",
+  "protocol_number": "2501/10/130-γ΄",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054489",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100001757"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω2ΖΞ46ΜΤΛΒ-ΗΡ2"
+      }
+    ]
+  },
+  "issued": "2021-10-23",
+  "posted": "2021-10-23",
+  "publish_timestamp_ms": 1634971559935,
+  "version_id": "03f9235a-d81d-424e-a1a8-7ae0b00b200b",
+  "in_force": "2021-10-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%92%CE%A1246%CE%9C%CE%A4%CE%9B%CE%92-%CE%A6%CE%A5%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%92%CE%A1246%CE%9C%CE%A4%CE%9B%CE%92-%CE%A6%CE%A5%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%92%CE%A1246%CE%9C%CE%A4%CE%9B%CE%92-%CE%A6%CE%A5%CE%96",
+  "listing_sha256": "9b4938be151e38b69096329b54b39b1abfd7c22e4032323295af021ab8592bc5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
