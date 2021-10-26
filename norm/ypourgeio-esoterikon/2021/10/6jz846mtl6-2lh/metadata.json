@@ -1,0 +1,49 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΞΖ846ΜΤΛ6-2ΛΗ",
+  "subject": "Πράξη Έγκρισης Σύμβασης Δωρεάς, μεταξύ του Δήμου Αχαρνών και της Αστικής μη Κερδοσκοπικής Εταιρείας Πολιτιστικού και Κοινωφελούς Έργου ΑΙΓΕΑΣ με διακριτικό τίτλο «ΑΙΓΕΑΣ ΑΜΚΕ ΠΟΛΙΤΙΣΤΙΚΟΥ ΚΑΙ ΚΟΙΝΩΦΕΛΟΥΣ ΕΡΓΟΥ» με αντικείμενο την κάλυψη του κόστους για την κατασκευή και πιστοποίηση νέας παιδικής χαράς στο προαύλιο του 2ου Νηπιαγωγείου Θρακομακεδόνων και την αντικατάσταση εσωτερικού βινυλικού δαπέδου του ως άνω σχολείου.",
+  "protocol_number": "77866",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100011640"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "77866",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "126841"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-10-26",
+  "posted": "2021-10-26",
+  "publish_timestamp_ms": 1635228620777,
+  "version_id": "f9fd5726-28c2-42a7-a9d6-023eed03932a",
+  "in_force": "2021-10-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E%CE%96846%CE%9C%CE%A4%CE%9B6-2%CE%9B%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E%CE%96846%CE%9C%CE%A4%CE%9B6-2%CE%9B%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9E%CE%96846%CE%9C%CE%A4%CE%9B6-2%CE%9B%CE%97",
+  "listing_sha256": "f93aae3baab3cda1dd2b801e435b205158a0ecf0b3902b1b30b41aef9616f96d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
