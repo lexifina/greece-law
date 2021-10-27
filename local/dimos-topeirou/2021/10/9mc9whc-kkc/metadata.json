@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΜΨ9ΩΗΨ-ΚΚΨ",
+  "subject": "Αποδοχή Παραίτησης Ειδικού Συνεργάτη",
+  "protocol_number": "5359",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6297",
+    "label": "ΔΗΜΟΣ ΤΟΠΕΙΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78500"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2610",
+      "issue": "fektype_C",
+      "issueyear": 2021
+    },
+    "kanonistikipraxiaa": "355/2021",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-10-01",
+  "posted": "2021-10-27",
+  "publish_timestamp_ms": 1635334784031,
+  "version_id": "051c483a-b10c-4214-ae11-37c965c46a57",
+  "in_force": "2021-10-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9C%CE%A89%CE%A9%CE%97%CE%A8-%CE%9A%CE%9A%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9C%CE%A89%CE%A9%CE%97%CE%A8-%CE%9A%CE%9A%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%9C%CE%A89%CE%A9%CE%97%CE%A8-%CE%9A%CE%9A%CE%A8",
+  "listing_sha256": "b9c9aa26cfaeb48504da9ff778493ad1ee3b2d0e73d276af404060d353f3ed28",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
