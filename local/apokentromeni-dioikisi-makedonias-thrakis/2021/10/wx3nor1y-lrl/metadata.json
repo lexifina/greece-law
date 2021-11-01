@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΧ3ΝΟΡ1Υ-ΛΡΛ",
+  "subject": "ΠΕΡΙΛΗΨΗ ΑΠΟΦΑΣΗΣ ΔΗΜΑΡΧΟΥ ΓΙΑ ΠΡΟΣΛΗΨΗ ΕΙΔΙΚΟΥ ΣΥΝΕΡΓΑΤΗ",
+  "protocol_number": "232255",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "78719"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2633",
+      "issue": "fektype_C",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-10-07",
+  "posted": "2021-11-01",
+  "publish_timestamp_ms": 1635769661398,
+  "version_id": "53650bac-73ed-4ab6-ace0-6457c594c5e0",
+  "in_force": "2021-11-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A73%CE%9D%CE%9F%CE%A11%CE%A5-%CE%9B%CE%A1%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A73%CE%9D%CE%9F%CE%A11%CE%A5-%CE%9B%CE%A1%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A73%CE%9D%CE%9F%CE%A11%CE%A5-%CE%9B%CE%A1%CE%9B",
+  "listing_sha256": "0a32b3b286b84c3a922a7939a85ea6b485807487199f47d28047748d9e37802a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
