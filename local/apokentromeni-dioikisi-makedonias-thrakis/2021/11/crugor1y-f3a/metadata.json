@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΡΘΓΟΡ1Υ-Φ3Α",
+  "subject": "«Τροποποίηση της αριθμ. 120691/25-6-2021 απόφασης του Συντονιστή της Αποκεντρωμένης Διοίκησης Μακεδονίας – Θράκης (ΦΕΚ 417/Δ) για τον επανακαθορισμό των ορίων αιγιαλού - παραλίας και παλαιού αιγιαλού στην παραθαλάσσια περιοχή της Κοινότητας Λεπτοκαρυάς του Δήμου Δίου – Ολύμπου Ν. Πιερίας, από τέρμα κατασκηνώσεων Ευαγγελικών έως και χείμαρρο Ζηλιάνα»",
+  "protocol_number": "227764",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "78120"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "744",
+      "issue": "fektype_D",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "227764",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "609ΡΟΡ1Υ-ΝΔΛ"
+      }
+    ]
+  },
+  "issued": "2021-11-01",
+  "posted": "2021-11-01",
+  "publish_timestamp_ms": 1635748463514,
+  "version_id": "b67dacc6-680f-47ec-b8dc-242d6ca17749",
+  "in_force": "2021-11-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A1%CE%98%CE%93%CE%9F%CE%A11%CE%A5-%CE%A63%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A1%CE%98%CE%93%CE%9F%CE%A11%CE%A5-%CE%A63%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A1%CE%98%CE%93%CE%9F%CE%A11%CE%A5-%CE%A63%CE%91",
+  "listing_sha256": "3dc9da6f5a9952a1e2963759c26e456fe79f198ff13bdd09aea084138e465fec",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
