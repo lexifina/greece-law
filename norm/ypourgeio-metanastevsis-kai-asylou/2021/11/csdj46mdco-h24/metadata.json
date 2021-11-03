@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΣΔΞ46ΜΔΨΟ-Η24",
+  "subject": "Ανάκληση Απόφασης Προέγκρισης Ανάληψης Υποχρέωσης για το οικονομικό έτος 2023",
+  "protocol_number": "361222/03-11-2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100056663",
+    "label": "ΥΠΟΥΡΓΕΙΟ  ΜΕΤΑΝΑΣΤΕΥΣΗΣ ΚΑΙ ΑΣΥΛΟΥ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100065245"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΞΦΕ46ΜΔΨΟ-ΦΟΚ"
+      }
+    ]
+  },
+  "issued": "2021-11-03",
+  "posted": "2021-11-03",
+  "publish_timestamp_ms": 1635943824940,
+  "version_id": "a173f2f4-7b9d-4ebb-b1f2-4118e2867dba",
+  "in_force": "2021-11-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A3%CE%94%CE%9E46%CE%9C%CE%94%CE%A8%CE%9F-%CE%9724",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A3%CE%94%CE%9E46%CE%9C%CE%94%CE%A8%CE%9F-%CE%9724/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A3%CE%94%CE%9E46%CE%9C%CE%94%CE%A8%CE%9F-%CE%9724",
+  "listing_sha256": "9b208fccb9d847b879840ac8040656599e9aaca3926d640fa8a49a777ea912a9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
