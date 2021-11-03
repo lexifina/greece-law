@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΔΛΣΟΡ1Φ-Τ1Η",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 207/2021 απόφασης της Οικονομικής Επιτροπής του Δήμου Θέρμου",
+  "protocol_number": "194449",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ψ7ΗΓΩΡΑ-ΞΟΒ"
+      }
+    ]
+  },
+  "issued": "2021-11-02",
+  "posted": "2021-11-03",
+  "publish_timestamp_ms": 1635932186283,
+  "version_id": "c430c2f2-077f-49d8-bb1c-6e9c7b204148",
+  "in_force": "2021-11-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%94%CE%9B%CE%A3%CE%9F%CE%A11%CE%A6-%CE%A41%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%94%CE%9B%CE%A3%CE%9F%CE%A11%CE%A6-%CE%A41%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%94%CE%9B%CE%A3%CE%9F%CE%A11%CE%A6-%CE%A41%CE%97",
+  "listing_sha256": "49c8d76004c824c8be93f4df40c631cba4ee88db332e7002b8670c50f559ad66",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
