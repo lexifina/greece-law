@@ -1,0 +1,55 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60Ρ7Ε-ΣΒΜ",
+  "subject": "Τρόπος καταβολής του αντιτίμου των προξενικών υπηρεσιών",
+  "protocol_number": "Φ.711ΓΕΝ/37662",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72575"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4999",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "37662",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-11-03",
+  "posted": "2021-11-03",
+  "publish_timestamp_ms": 1635934434062,
+  "version_id": "0dbbcf84-f0ca-4b7b-bc22-ad0e75d3401d",
+  "in_force": "2021-11-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%A17%CE%95-%CE%A3%CE%92%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%A17%CE%95-%CE%A3%CE%92%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%A17%CE%95-%CE%A3%CE%92%CE%9C",
+  "listing_sha256": "9b208fccb9d847b879840ac8040656599e9aaca3926d640fa8a49a777ea912a9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
