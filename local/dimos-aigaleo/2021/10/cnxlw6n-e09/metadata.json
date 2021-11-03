@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΝΧΛΩ6Ν-Ε09",
+  "subject": "Έγκριση Τεχνικού Προγράμματος Δήμου Αιγάλεω έτους 2022",
+  "protocol_number": "152",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6014",
+    "label": "ΔΗΜΟΣ ΑΙΓΑΛΕΩ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82073"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-10-21",
+  "posted": "2021-11-03",
+  "publish_timestamp_ms": 1635932544549,
+  "version_id": "aa8c85ec-ecaa-464a-a4ae-3bd952a2626c",
+  "in_force": "2021-11-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9D%CE%A7%CE%9B%CE%A96%CE%9D-%CE%9509",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9D%CE%A7%CE%9B%CE%A96%CE%9D-%CE%9509/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9D%CE%A7%CE%9B%CE%A96%CE%9D-%CE%9509",
+  "listing_sha256": "e2dc755c4c98d5d39c699ef817d0035876260ec66af9ed9b1995e60f03743754",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
