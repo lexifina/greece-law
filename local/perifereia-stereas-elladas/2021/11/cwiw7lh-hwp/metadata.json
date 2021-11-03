@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΩΙΩ7ΛΗ-ΗΩΠ",
+  "subject": "ΔΙΑΠΙΣΤΩΤΙΚΗ ΠΡΑΞΗ ΜΕΤΑΦΟΡΑΣ ΜΑΘΗΤΩΝ",
+  "protocol_number": "242588/ 6244",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5013",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "79160"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-11-01",
+  "posted": "2021-11-03",
+  "publish_timestamp_ms": 1635925166451,
+  "version_id": "34f91b66-9a63-4017-80e5-ece3c6d03a87",
+  "in_force": "2021-11-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%99%CE%A97%CE%9B%CE%97-%CE%97%CE%A9%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%99%CE%A97%CE%9B%CE%97-%CE%97%CE%A9%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A9%CE%99%CE%A97%CE%9B%CE%97-%CE%97%CE%A9%CE%A0",
+  "listing_sha256": "16ef87c3de9b06dd70d37fa600d0d089a801b392ac098e1e06deabcd6065f35d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
