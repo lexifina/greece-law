@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ω90ΩΗΙ-Γ21",
+  "subject": "ΑΟΕ 334/2021 «Υποβολή Αιτήματος Πρόσληψης Προσωπικού στο ¨Πρόγραμμα Απασχόλησης Μακροχρονίων Ανέργων 55-67 ετών¨ του ΟΑΕΔ».",
+  "protocol_number": "334/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6309",
+    "label": "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84862"
+  ],
+  "thematic_category_ids": [
+    "44",
+    "24",
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "334/2021",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-11-05",
+  "posted": "2021-11-05",
+  "publish_timestamp_ms": 1636096478676,
+  "version_id": "894ccaee-3f5f-4dc3-90b8-ee889d9111e5",
+  "in_force": "2021-11-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A990%CE%A9%CE%97%CE%99-%CE%9321",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A990%CE%A9%CE%97%CE%99-%CE%9321/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A990%CE%A9%CE%97%CE%99-%CE%9321",
+  "listing_sha256": "39b9c1264eb86c095e8cb6afd2423663e619eeef07c52f93ad19b97dfcf50c9b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
