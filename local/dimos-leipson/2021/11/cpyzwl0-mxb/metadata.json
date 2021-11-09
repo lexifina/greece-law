@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠΥΖΩΛ0-ΜΧΒ",
+  "subject": "ΑΠΟΔΟΣΗ ΚΡΑΤΗΣΕΩΝ ΓΙΑ ΟΓΑ ΧΑΡΤΟΣΗΜΟΥ ΧΕΠ: Α/273,Α/274,Α/275,Α/285,Α/301,Α/302,Α/304,Α/303,Α/310,Α/321,Α/295,Α/341,Α/347,Α/351,Α/353,Α/352,Α/356,Α/357,Α/358,Α/359",
+  "protocol_number": "XEP Δ226",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6170",
+    "label": "ΔΗΜΟΣ ΛΕΙΨΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83486"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-11-09",
+  "posted": "2021-11-09",
+  "publish_timestamp_ms": 1636445013966,
+  "version_id": "4e3e51b9-e9f3-46bd-91c9-eb98b78660a9",
+  "in_force": "2021-11-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%A5%CE%96%CE%A9%CE%9B0-%CE%9C%CE%A7%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%A5%CE%96%CE%A9%CE%9B0-%CE%9C%CE%A7%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A0%CE%A5%CE%96%CE%A9%CE%9B0-%CE%9C%CE%A7%CE%92",
+  "listing_sha256": "0925713da4525979864744ca04118529439c48aef81c9c265c71e6550c968a2d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
