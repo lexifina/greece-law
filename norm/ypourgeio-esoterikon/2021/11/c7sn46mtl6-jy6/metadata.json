@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ7ΣΝ46ΜΤΛ6-ΞΥ6",
+  "subject": "Καθορισμός αποζημίωσης των απασχολούμενων στις εξετάσεις της 7ης Νοεμβρίου 2021 για την απόκτηση του Πιστοποιητικού Επάρκειας Γνώσεων για Πολιτογράφηση» και διαδικασία καταβολής στους δικαιούχους",
+  "protocol_number": "80717/04-11-2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100011640"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5182",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "80717",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-11-09",
+  "posted": "2021-11-09",
+  "publish_timestamp_ms": 1636460848917,
+  "version_id": "79cfa483-18c6-4c6c-b3eb-151158386cab",
+  "in_force": "2021-11-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A87%CE%A3%CE%9D46%CE%9C%CE%A4%CE%9B6-%CE%9E%CE%A56",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A87%CE%A3%CE%9D46%CE%9C%CE%A4%CE%9B6-%CE%9E%CE%A56/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A87%CE%A3%CE%9D46%CE%9C%CE%A4%CE%9B6-%CE%9E%CE%A56",
+  "listing_sha256": "0925713da4525979864744ca04118529439c48aef81c9c265c71e6550c968a2d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
