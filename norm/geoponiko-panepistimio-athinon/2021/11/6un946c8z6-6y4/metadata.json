@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΘΝ946Ψ8Ζ6-6Υ4",
+  "subject": "ΣΥΜΒΑΣΗ ΑΠΟΚΟΜΙΔΗΣ ΧΑΡΤΙΟΥ",
+  "protocol_number": "548/ΣΥΜΒΑΣΗ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99202112",
+    "label": "ΓΕΩΠΟΝΙΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "93965"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΒΙΕΛ46Ψ8Ζ6-596"
+      }
+    ]
+  },
+  "issued": "2021-11-01",
+  "posted": "2021-11-09",
+  "publish_timestamp_ms": 1636452356572,
+  "version_id": "7d6247dc-2255-49e1-bc86-9c5aa1da7e37",
+  "in_force": "2021-11-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%98%CE%9D946%CE%A88%CE%966-6%CE%A54",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%98%CE%9D946%CE%A88%CE%966-6%CE%A54/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%98%CE%9D946%CE%A88%CE%966-6%CE%A54",
+  "listing_sha256": "16ef87c3de9b06dd70d37fa600d0d089a801b392ac098e1e06deabcd6065f35d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
