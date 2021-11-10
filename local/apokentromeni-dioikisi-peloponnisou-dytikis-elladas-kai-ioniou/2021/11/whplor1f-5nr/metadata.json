@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΗΠΛΟΡ1Φ-5ΝΡ",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 109/2021 απόφασης του Δημοτικού Συμβουλίου του Δήμου Θέρμου",
+  "protocol_number": "203406",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΘΧ8ΩΡΑ-ΕΥΓ"
+      },
+      {
+        "relatedDecisionsADA": "ΨΠΡΓΩΡΑ-ΥΑΧ"
+      }
+    ]
+  },
+  "issued": "2021-11-09",
+  "posted": "2021-11-10",
+  "publish_timestamp_ms": 1636539130206,
+  "version_id": "e8f77ede-3293-438c-9e92-5000a8bc7582",
+  "in_force": "2021-11-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%A0%CE%9B%CE%9F%CE%A11%CE%A6-5%CE%9D%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%97%CE%A0%CE%9B%CE%9F%CE%A11%CE%A6-5%CE%9D%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%97%CE%A0%CE%9B%CE%9F%CE%A11%CE%A6-5%CE%9D%CE%A1",
+  "listing_sha256": "bade8586d3d7553ef34315f1d74840aed791c4a508c6a05084c1412734cbca1b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
