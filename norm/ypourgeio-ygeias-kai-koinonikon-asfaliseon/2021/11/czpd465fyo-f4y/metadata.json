@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΖΠΔ465ΦΥΟ-Φ4Υ",
+  "subject": "Μεταφορά/μετατροπή οργανικών θέσεων ειδικευομένων ιατρών στο ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΚΟΖΑΝΗΣ \"ΜΑΜΑΤΣΕΙΟ\"",
+  "protocol_number": "Γ2α/57876",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047539"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5199",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-11-03",
+  "posted": "2021-11-12",
+  "publish_timestamp_ms": 1636710275731,
+  "version_id": "ba4286b0-94ce-445c-9437-7831e2cb8474",
+  "in_force": "2021-11-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%96%CE%A0%CE%94465%CE%A6%CE%A5%CE%9F-%CE%A64%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%96%CE%A0%CE%94465%CE%A6%CE%A5%CE%9F-%CE%A64%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%96%CE%A0%CE%94465%CE%A6%CE%A5%CE%9F-%CE%A64%CE%A5",
+  "listing_sha256": "398db44ead7f2451c3dce199c09979c0cad5c56e946fa63737eb7a343146a72e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
