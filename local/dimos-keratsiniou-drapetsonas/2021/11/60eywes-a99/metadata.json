@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60ΕΥΩΕΣ-Α99",
+  "subject": "ΑΠΟΦ.1-2021 Ε.Δ. ΤΕΧΝΙΚΟ ΠΡΟΓΡΑΜΜΑ 2022.",
+  "protocol_number": "-",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6146",
+    "label": "ΔΗΜΟΣ ΚΕΡΑΤΣΙΝΙΟΥ - ΔΡΑΠΕΤΣΩΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87715"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-11-15",
+  "posted": "2021-11-15",
+  "publish_timestamp_ms": 1636980260237,
+  "version_id": "cc61afca-8638-46db-b751-dd23b24f0da7",
+  "in_force": "2021-11-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%95%CE%A5%CE%A9%CE%95%CE%A3-%CE%9199",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%95%CE%A5%CE%A9%CE%95%CE%A3-%CE%9199/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%95%CE%A5%CE%A9%CE%95%CE%A3-%CE%9199",
+  "listing_sha256": "7205031d6808a3be8dcd8cc8ae3652154942717983e8f0e266795c2c3d7ba8fa",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
