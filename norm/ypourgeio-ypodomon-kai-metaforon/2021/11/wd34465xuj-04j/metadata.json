@@ -1,0 +1,81 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔ34465ΧΘΞ-04Ξ",
+  "subject": "Καθορισμός διαδικασίας, περιεχομένου και δικαιολογητικών, παραβόλου και κυρώσεων για τη χορήγηση έγκρισης λειτουργίας σχολών/κέντρων επαγγελματικής κατάρτισης για τη χορήγηση πιστοποιητικού επαγγελματικής ικανότητας σε οδηγούς οχημάτων μεταφοράς επιβατών και εμπορευμάτων",
+  "protocol_number": "Δ30/A3/314952",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007425"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5275",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      },
+      {
+        "ministryId": "100015996",
+        "unitId": [
+          "100060950"
+        ],
+        "signerIds": [
+          "100060951"
+        ]
+      },
+      {
+        "ministryId": "100054486",
+        "unitId": [
+          "100069297"
+        ],
+        "signerIds": [
+          "100053505",
+          "100050197"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-11-09",
+  "posted": "2021-11-16",
+  "publish_timestamp_ms": 1637053894795,
+  "version_id": "0471a566-2a1e-4805-b52d-2141899580d9",
+  "in_force": "2021-11-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9434465%CE%A7%CE%98%CE%9E-04%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9434465%CE%A7%CE%98%CE%9E-04%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9434465%CE%A7%CE%98%CE%9E-04%CE%9E",
+  "listing_sha256": "bade8586d3d7553ef34315f1d74840aed791c4a508c6a05084c1412734cbca1b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
