@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ψ6ΧΟΡ1Φ-ΚΙΔ",
+  "subject": "Επικύρωση της αριθ. 217/2021 (ορθής επανάληψης) απόφασης του Δημοτικού Συμβουλίου  Ναυπακτίας",
+  "protocol_number": "204796",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΗΨ2ΩΚΓ-5ΚΨ"
+      }
+    ]
+  },
+  "issued": "2021-11-16",
+  "posted": "2021-11-16",
+  "publish_timestamp_ms": 1637061740761,
+  "version_id": "f3fe0bb0-c7e5-4475-8e07-0251c87b98bc",
+  "in_force": "2021-11-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A86%CE%A7%CE%9F%CE%A11%CE%A6-%CE%9A%CE%99%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A86%CE%A7%CE%9F%CE%A11%CE%A6-%CE%9A%CE%99%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A86%CE%A7%CE%9F%CE%A11%CE%A6-%CE%9A%CE%99%CE%94",
+  "listing_sha256": "f783b3c4b1bb985e6437d672c00d79ca663b5be32c13237837c74490374599bb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
