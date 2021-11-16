@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΝΡΔ7ΛΡ-Ω7Ω",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ ΠΑΝΑΓΙΩΤΟΥ ΔΗΜΗΤΡΑΣ",
+  "protocol_number": "446569/16.11.21",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5007",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81563"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-11-16",
+  "posted": "2021-11-16",
+  "publish_timestamp_ms": 1637052676975,
+  "version_id": "bb562642-a392-4c74-a251-462b6b8133d9",
+  "in_force": "2021-11-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%A1%CE%947%CE%9B%CE%A1-%CE%A97%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9D%CE%A1%CE%947%CE%9B%CE%A1-%CE%A97%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9D%CE%A1%CE%947%CE%9B%CE%A1-%CE%A97%CE%A9",
+  "listing_sha256": "f783b3c4b1bb985e6437d672c00d79ca663b5be32c13237837c74490374599bb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
