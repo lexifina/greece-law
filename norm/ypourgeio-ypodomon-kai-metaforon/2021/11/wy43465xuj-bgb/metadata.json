@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥ43465ΧΘΞ-ΒΓΒ",
+  "subject": "ΠΡΟΜΗΘΕΙΑ ΚΛΙΜΑΤΙΣΤΙΚΗΣ ΕΓΚΑΤΑΣΤΑΣΗΣ, ΔΙΑΙΡΟΥΜΕΝΟΥ ΤΥΠΟΥ, ΨΥΞΗΣ - ΘΕΡΜΑΝΣΗΣ, ΓΙΑ ΤΟ Α΄ ΚΤΗΡΙΟ (ΙΣΟΓΕΙΟ ΚΑΙ ΠΡΩΤΟΣ ΟΡΟΦΟΣ) ΤΩΝ ΕΓΚΑΤΑΣΤΑΣΕΩΝ ΤΟΥ ΚΕΠ (ΣΥΜΠΕΡΙΛΑΜΒΑΝΟΜΕΝΟΥ ΤΟΥ ΚΟΣΤΟΥΣ ΤΟΠΟΘΕΤΗΣΗΣ ΚΑΘΩΣ ΚΑΙ ΤΟΥ ΔΙΚΤΥΟΥ ΗΛΕΚΤΡΟΛΟΓΙΚΗΣ ΕΓΚΑΤΑΣΤΑΣΗΣ)",
+  "protocol_number": "ΚΓ/Δ11/Ε/4003",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "76401"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-11-16",
+  "posted": "2021-11-16",
+  "publish_timestamp_ms": 1637048245868,
+  "version_id": "718255ef-3e55-413c-995b-9bf55d6b5aed",
+  "in_force": "2021-11-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A543465%CE%A7%CE%98%CE%9E-%CE%92%CE%93%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A543465%CE%A7%CE%98%CE%9E-%CE%92%CE%93%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A543465%CE%A7%CE%98%CE%9E-%CE%92%CE%93%CE%92",
+  "listing_sha256": "f783b3c4b1bb985e6437d672c00d79ca663b5be32c13237837c74490374599bb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
