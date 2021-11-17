@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥ7ΠΩΛΓ-Μ0Ω",
+  "subject": "Εκλογή Αντιπροέδρου Οικονομικής Επιτροπής - 2η θητεία (11.11.21-11.11.22) δημοτικής περιόδου 2019-2023",
+  "protocol_number": "Απόφαση Οικονομικής Επιτροπής 249/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6171",
+    "label": "ΔΗΜΟΣ ΛΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84441"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "9ΗΤΜΩΛΓ-Ω5Ι"
+      }
+    ]
+  },
+  "issued": "2021-11-16",
+  "posted": "2021-11-17",
+  "publish_timestamp_ms": 1637145123139,
+  "version_id": "46e680cd-7544-4301-b504-778a7abf30a7",
+  "in_force": "2021-11-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A57%CE%A0%CE%A9%CE%9B%CE%93-%CE%9C0%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A57%CE%A0%CE%A9%CE%9B%CE%93-%CE%9C0%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A57%CE%A0%CE%A9%CE%9B%CE%93-%CE%9C0%CE%A9",
+  "listing_sha256": "04e5c238e0797644d463f9712d7ce52215193e41cb14a846046b1dfa163ec0bc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
