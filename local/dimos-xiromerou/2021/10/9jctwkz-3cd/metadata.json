@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΞΨΤΩΚΖ-3ΨΔ",
+  "subject": "ΑΠΟΦΑΣΗ 178/2021 ΔΗΜΑΡΧΟΥ ΠΕΡΙ ΛΥΣΕΩΣ ΥΠΑΛΛΗΛΙΚΗΣ ΣΧΕΣΗΣ",
+  "protocol_number": "9753",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6221",
+    "label": "ΔΗΜΟΣ ΞΗΡΟΜΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "11123"
+  ],
+  "thematic_category_ids": [
+    "10027",
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2779",
+      "issue": "fektype_C",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "178",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-10-31",
+  "posted": "2021-11-22",
+  "publish_timestamp_ms": 1637590927348,
+  "version_id": "2a6e2eb8-4dab-47e6-909f-6dda6662ed3a",
+  "in_force": "2021-11-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9E%CE%A8%CE%A4%CE%A9%CE%9A%CE%96-3%CE%A8%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9E%CE%A8%CE%A4%CE%A9%CE%9A%CE%96-3%CE%A8%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%9E%CE%A8%CE%A4%CE%A9%CE%9A%CE%96-3%CE%A8%CE%94",
+  "listing_sha256": "c1b16d236000b2669ca9103ca9bdc7df89b26a9fc0dddbd472b365fe90a4bed5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
