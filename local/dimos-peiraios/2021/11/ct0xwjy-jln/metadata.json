@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΤ0ΧΩΞΥ-ΞΛΝ",
+  "subject": "ΠΡΩΤΟΚΟΛΛΟ ΣΥΝΕΡΓΑΣΙΑΣ ΜΕΤΑΞΥ ΔΗΜΟΥ ΠΕΙΡΑΙΑ ΙΝΣΤΙΤΟΥΤΟΥ ΕΜΠΟΡΙΟΥ & ΥΠΗΡΕΣΙΩΝ (ΙΝΕΜΥ – ΕΣΕΕ) & ΕΜΠΟΡΙΚΟΥ ΣΥΛΛΟΓΟΥ ΠΕΙΡΑΙΑ",
+  "protocol_number": "767",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6243",
+    "label": "ΔΗΜΟΣ ΠΕΙΡΑΙΩΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "91540"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΘΘ0ΩΞΥ-2ΣΦ"
+      }
+    ]
+  },
+  "issued": "2021-11-24",
+  "posted": "2021-11-26",
+  "publish_timestamp_ms": 1637921935423,
+  "version_id": "9b8f75bf-3906-40db-9707-fc1542380099",
+  "in_force": "2021-11-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A40%CE%A7%CE%A9%CE%9E%CE%A5-%CE%9E%CE%9B%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A40%CE%A7%CE%A9%CE%9E%CE%A5-%CE%9E%CE%9B%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A40%CE%A7%CE%A9%CE%9E%CE%A5-%CE%9E%CE%9B%CE%9D",
+  "listing_sha256": "7902c883bad8c9cdde0798dbc0435056b39e1263fe2871ab2cbf6e76067071cc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
