@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω0ΙΗ465ΦΥΟ-4Ε2",
+  "subject": "Τροποποίηση (1η) της υπό στοιχεία ΕΑΛΕ/Γ.Π. 29274/18-05-2021 υπουργικής απόφασης «Επιτρεπόμενα όρια δαπανών του Εθνικού Οργανισμού Παροχής Υπηρεσιών Υγείας (Ε.Ο.Π.Υ.Υ.) έτους 2021, για παρεχόμενες υπηρεσίες υγείας και ιατροτεχνολογικά προϊόντα και συμπληρώματα ειδικής διατροφής» (Β’ 2076).",
+  "protocol_number": "69946",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100036551"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5457",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-11-23",
+  "posted": "2021-11-26",
+  "publish_timestamp_ms": 1637915576820,
+  "version_id": "8f9b89ca-c655-4084-bc72-5a3d5cfa9304",
+  "in_force": "2021-11-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%99%CE%97465%CE%A6%CE%A5%CE%9F-4%CE%952",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A90%CE%99%CE%97465%CE%A6%CE%A5%CE%9F-4%CE%952/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A90%CE%99%CE%97465%CE%A6%CE%A5%CE%9F-4%CE%952",
+  "listing_sha256": "28f17dcbfb747cf6da3d55bfced1c49e962e5369bfb4c7f77a6d8cf51a2d4f66",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
