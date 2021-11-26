@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΙ6ΥΩΞ9-ΞΜΗ",
+  "subject": "91/2021 ΑΠΟΦΑΣΗ Δ.Σ.\"Λήψη απόφασης που αφορά στην έγκριση της με αριθ. 306/2021 (Α.Δ.Α. ΨΧΨΓΩΞ9-ΕΘΩ) απόφασης της Οικονομικής Επιτροπής σχετικά με την επιβολή και τον καθορισμό του ύψους των τελών και δικαιωμάτων των δημοτικών κοιμητηρίων του Δήμου Παιανίας (Δημοτική Κοινότητα Παιανίας και Δημοτική Κοινότητα Γλυκών Νερών ) έτους 2022.\"",
+  "protocol_number": "91/2021 ΑΠΟΦΑΣΗ Δ.Σ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6230",
+    "label": "ΔΗΜΟΣ ΠΑΙΑΝΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83502"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΧΨΓΩΞ9-ΕΘΩ"
+      }
+    ]
+  },
+  "issued": "2021-11-24",
+  "posted": "2021-11-26",
+  "publish_timestamp_ms": 1637910883620,
+  "version_id": "ef0d23be-bea2-4f66-af33-74c111eb5d8c",
+  "in_force": "2021-11-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%996%CE%A5%CE%A9%CE%9E9-%CE%9E%CE%9C%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%996%CE%A5%CE%A9%CE%9E9-%CE%9E%CE%9C%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%996%CE%A5%CE%A9%CE%9E9-%CE%9E%CE%9C%CE%97",
+  "listing_sha256": "e64ea7542cf331e974ccc75f78d87d446cb864cb0cd22e7834ac756dc90c5569",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
