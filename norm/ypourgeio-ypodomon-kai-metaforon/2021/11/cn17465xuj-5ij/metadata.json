@@ -1,0 +1,72 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΝ17465ΧΘΞ-5ΙΞ",
+  "subject": "Οριοθέτηση περιοχών και χορήγηση στεγαστικής συνδρομής για την αποκατάσταση των ζημιών σε κτίρια από τις πυρκαγιές α) της 12ης Αυγούστου 2021 σε περιοχή της Περιφερειακής Ενότητας Δυτικής Αττικής της Περιφέρειας Αττικής, β) της 16ης Αυγούστου 2021 σε περιοχές της Περιφερειακής Ενότητας Ανατολικής Αττικής της Περιφέρειας Αττικής, γ) της 16ης Αυγούστου 2021 σε περιοχές της Περιφερειακής Ενότητας Δυτικής Αττικής της Περιφέρειας Αττικής, δ) της 23ης Αυγούστου 2021 σε περιοχές της Περιφερειακής Ενότητας Ευβοίας της Περιφέρειας Στερεάς Ελλάδας.",
+  "protocol_number": "Δ.Α.Ε.Φ.Κ.-Κ.Ε/16887/Α325,  Σχετ. :  14247, 14299, 14719, 16610, 16675, 18594, 19577,19719",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5564",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "126841"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      },
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100064185"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-11-22",
+  "posted": "2021-12-01",
+  "publish_timestamp_ms": 1638361409200,
+  "version_id": "dd34801d-19be-481a-b3b5-6e6bd298d42a",
+  "in_force": "2021-12-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9D17465%CE%A7%CE%98%CE%9E-5%CE%99%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9D17465%CE%A7%CE%98%CE%9E-5%CE%99%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9D17465%CE%A7%CE%98%CE%9E-5%CE%99%CE%9E",
+  "listing_sha256": "7dc0f30eb593130d582eb39ac1ed7c4f58187d6c4a51269d0d47620d8ed242de",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
