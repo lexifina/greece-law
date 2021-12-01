@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ6Ν6Ε-ΕΧΘ",
+  "subject": "ΑΝΑΚΛΗΤΙΚΗ ΑΠΟΦΑΣΗ ΔΑΠΑΝΗΣ ΠΡΕΣΒΕΙΑΣ ΣΤΟΚΧΟΛΜΗΣ",
+  "protocol_number": "ΜΕ.2/085/2410301001/401.8752",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "72015"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-01",
+  "posted": "2021-12-01",
+  "publish_timestamp_ms": 1638346883727,
+  "version_id": "bfd8a0b5-8900-4186-8e11-4fa8f6901eb1",
+  "in_force": "2021-12-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%9D6%CE%95-%CE%95%CE%A7%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%9D6%CE%95-%CE%95%CE%A7%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A86%CE%9D6%CE%95-%CE%95%CE%A7%CE%98",
+  "listing_sha256": "bb69394f035aea4c61dfe68668fd0aeb9d02d00c98f442bdb4a15e861a58ae4f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
