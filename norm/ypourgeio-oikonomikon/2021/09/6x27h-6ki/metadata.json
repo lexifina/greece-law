@@ -1,0 +1,81 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Χ27Η-6ΚΙ",
+  "subject": "Τροποποίηση της υπό στοιχεία ΓΔΟΥ94/2.5.2020 απόφασης των Υπουργών Οικονομικών και Ανάπτυξης και Επενδύσεων «Διαδικασία και προϋποθέσεις χορήγησης ενίσχυσης με τη μορφή επιστρεπτέας προκαταβολής σε επιχειρήσεις που επλήγησαν οικονομικά λόγω της εμφάνισης και διάδοσης της νόσου του κορωνοϊού COVID-19» (Β΄1645).",
+  "protocol_number": "ΓΔΟΥ 957",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4517",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "ΓΔΟΥ 957",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100047807"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100052322"
+        ],
+        "signerIds": [
+          "100047801"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-09-29",
+  "posted": "2021-12-03",
+  "publish_timestamp_ms": 1638523168509,
+  "version_id": "95418504-3fca-4c96-8f45-5fc40663e51f",
+  "in_force": "2021-12-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A727%CE%97-6%CE%9A%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A727%CE%97-6%CE%9A%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A727%CE%97-6%CE%9A%CE%99",
+  "listing_sha256": "c0a735a85bfe187a887bdd3e18472c389e49295b4a4eef1ca2f3dd269b83c4d2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
