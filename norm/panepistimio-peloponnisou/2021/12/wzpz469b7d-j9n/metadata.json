@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΖΠΖ469Β7Δ-Ξ9Ν",
+  "subject": "ΛΥΣΗ ΣΥΜΒΑΣΗΣ κ. ΦΙΛΙΠΠΟΠΟΥΛΟΥ ΗΛΙΑ",
+  "protocol_number": "22548/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206924",
+    "label": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "73149"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΡΦΦ469Β7Δ-ΑΦΡ"
+      },
+      {
+        "relatedDecisionsADA": "ΨΑΗΒ469Β7Δ-7Β4"
+      }
+    ]
+  },
+  "issued": "2021-12-03",
+  "posted": "2021-12-03",
+  "publish_timestamp_ms": 1638521930975,
+  "version_id": "7da67799-83ac-4a46-b248-6d68b0ac176e",
+  "in_force": "2021-12-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%96%CE%A0%CE%96469%CE%927%CE%94-%CE%9E9%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%96%CE%A0%CE%96469%CE%927%CE%94-%CE%9E9%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%96%CE%A0%CE%96469%CE%927%CE%94-%CE%9E9%CE%9D",
+  "listing_sha256": "b680a7e40e104449620521bcc1b0690f73df717e9863deaf54014cf0e932390b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
