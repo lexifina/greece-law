@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΦΡΘ46ΜΤΛΒ-ΛΞΓ",
+  "subject": "Άρση απόφασης προσωρινής ρύθμισης κυκλοφορίας κατά ποδοσφαιρικό αγώνα, μεταξύ των ομάδων Π.Α.Ε. ΑΣΤΕΡΑΣ ΒΛΑΧΙΩΤΗ - Π.Α.Ε. ΚΑΛΑΜΑΤΑ, την Κυριακή 05-12-2021 και ώρα 14.45΄, στο πλαίσιο της 6ης Αγωνιστικής (Β΄ Ομίλου) της SUPER LEAGUE 2,  Αθλητικής περιόδου 2021-2022.",
+  "protocol_number": "1003 / 1 / 145-ιθ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054489",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100001804"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "9ΓΕΕ46ΜΤΛΒ-ΞΧΦ"
+      }
+    ]
+  },
+  "issued": "2021-12-04",
+  "posted": "2021-12-04",
+  "publish_timestamp_ms": 1638611532274,
+  "version_id": "2693e204-0fcd-4c1c-94dc-3bdffad5aea6",
+  "in_force": "2021-12-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%A1%CE%9846%CE%9C%CE%A4%CE%9B%CE%92-%CE%9B%CE%9E%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A6%CE%A1%CE%9846%CE%9C%CE%A4%CE%9B%CE%92-%CE%9B%CE%9E%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A6%CE%A1%CE%9846%CE%9C%CE%A4%CE%9B%CE%92-%CE%9B%CE%9E%CE%93",
+  "listing_sha256": "6c1699676a960954a0c4bc776628ed802bbd186eb28a056bfba36da1fe80b8e0",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
