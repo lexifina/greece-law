@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ4ΣΒΟΡ1Γ-Η2Ψ",
+  "subject": "ΔΙΑΚΗΡΥΞΗ ΔΗΜΟΠΡΑΣΙΑΣ",
+  "protocol_number": "156101",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76549"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-11-30",
+  "posted": "2021-12-06",
+  "publish_timestamp_ms": 1638790503863,
+  "version_id": "4739c7ac-02bd-40c3-8191-1500e080d5bc",
+  "in_force": "2021-12-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%A3%CE%92%CE%9F%CE%A11%CE%93-%CE%972%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%A3%CE%92%CE%9F%CE%A11%CE%93-%CE%972%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A84%CE%A3%CE%92%CE%9F%CE%A11%CE%93-%CE%972%CE%A8",
+  "listing_sha256": "d901c2c9a298bce94088538f3093daf918c2b6bd4f8603700bfdabb328db03b4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
