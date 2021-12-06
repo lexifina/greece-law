@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ4ΣΤ465ΧΘΞ-11Ω",
+  "subject": "Ειδοποίηση παρακατάθεσης αποζημίωσης ακινήτων, που έχουν απαλλοτριωθεί με την υπό στοιχεία 1094048/5724/0010/29.08.1994 (Δ’ 930) απόφαση των Υπουργών Οικονομικών και Περιβάλλοντος, Χωροταξίας και Δημοσίων Έργων, για τη διάνοιξη του αυτοκινητοδρόμου Θεσσαλονίκης - Ποταμού Στρυμώνα, τμήμα Ρεντίνα - Στρυμώνα, υπότμημα Ρεντίνα – Ασπροβάλτα διέλευση δια Βρασνών.",
+  "protocol_number": "311903",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007478"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "862",
+      "issue": "fektype_D",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-11-08",
+  "posted": "2021-12-06",
+  "publish_timestamp_ms": 1638791051450,
+  "version_id": "d03949f4-f86e-4e77-8e61-6e1be5d4bf6a",
+  "in_force": "2021-12-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%A3%CE%A4465%CE%A7%CE%98%CE%9E-11%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%A3%CE%A4465%CE%A7%CE%98%CE%9E-11%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A84%CE%A3%CE%A4465%CE%A7%CE%98%CE%9E-11%CE%A9",
+  "listing_sha256": "1cea766d6e833677757566e5ca87604a28ee7aaa5f4bd4140d1fda2ce9becccc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
