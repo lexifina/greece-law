@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΥΧΣΩΛΓ-ΖΚΨ",
+  "subject": "Παραγραφή αξιώσεων κατά ΟΤΑ",
+  "protocol_number": "Απόφαση Οικονομικής Επιτροπής 252/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6171",
+    "label": "ΔΗΜΟΣ ΛΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84441"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-11-16",
+  "posted": "2021-12-06",
+  "publish_timestamp_ms": 1638780460701,
+  "version_id": "4730c185-d251-4c25-9ede-ec7d38480ffc",
+  "in_force": "2021-12-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A5%CE%A7%CE%A3%CE%A9%CE%9B%CE%93-%CE%96%CE%9A%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A5%CE%A7%CE%A3%CE%A9%CE%9B%CE%93-%CE%96%CE%9A%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A5%CE%A7%CE%A3%CE%A9%CE%9B%CE%93-%CE%96%CE%9A%CE%A8",
+  "listing_sha256": "04e5c238e0797644d463f9712d7ce52215193e41cb14a846046b1dfa163ec0bc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
