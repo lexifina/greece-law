@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΧΜΓΩΡ8-ΚΧ7",
+  "subject": "Έγκριση απόδοσης λογαριασμού για πάγια προκαταβολή Προέδρων Κοινοτήτων.",
+  "protocol_number": "344/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6118",
+    "label": "ΔΗΜΟΣ ΙΕΡΑΠΕΤΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "92135"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-06",
+  "posted": "2021-12-06",
+  "publish_timestamp_ms": 1638786891793,
+  "version_id": "7a90ba13-4fae-4930-b495-f63ad5be0d80",
+  "in_force": "2021-12-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A7%CE%9C%CE%93%CE%A9%CE%A18-%CE%9A%CE%A77",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A7%CE%9C%CE%93%CE%A9%CE%A18-%CE%9A%CE%A77/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A7%CE%9C%CE%93%CE%A9%CE%A18-%CE%9A%CE%A77",
+  "listing_sha256": "94ad8bb0d4aab4e9416a1fd934b4e41437c5e9feb3e93401b7d6aa96c89d06bd",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
