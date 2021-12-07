@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΤ2ΛΩΡ7-ΘΞΨ",
+  "subject": "“ΕΓΚΡΙΣΗ  ΚΑΤΑΣΤΡΟΦΗΣ ΑΝΤΙΚΕΙΜΕΝΩΝ ΑΝΕΥ ΑΞΙΑΣ”. ",
+  "protocol_number": "70884",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6090",
+    "label": "ΔΗΜΟΣ ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81670"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "155",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-07",
+  "posted": "2021-12-07",
+  "publish_timestamp_ms": 1638866851235,
+  "version_id": "20e2d700-d277-461e-ab6f-810354c61b1b",
+  "in_force": "2021-12-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A42%CE%9B%CE%A9%CE%A17-%CE%98%CE%9E%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A42%CE%9B%CE%A9%CE%A17-%CE%98%CE%9E%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A42%CE%9B%CE%A9%CE%A17-%CE%98%CE%9E%CE%A8",
+  "listing_sha256": "32d766fc0dc08f288d9664540f7e36ecd1449b2c492b32a85a9996a1b3f0c85a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
