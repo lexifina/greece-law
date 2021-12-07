@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΙ6ΘΩΚΗ-6ΡΚ",
+  "subject": "ΣΥΓΚΡΟΤΗΣΗ ΣΥΝΕΡΓΕΙΩΝ ΥΠΕΡΩΡΙΑΚΗΣ ΑΠΑΣΧΟΛΗΣΗΣ",
+  "protocol_number": "22497",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6203",
+    "label": "ΔΗΜΟΣ ΝΑΞΟΥ & ΜΙΚΡΩΝ ΚΥΚΛΑΔΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100030117"
+  ],
+  "thematic_category_ids": [
+    "44",
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-07",
+  "posted": "2021-12-07",
+  "publish_timestamp_ms": 1638868731410,
+  "version_id": "aeac9e48-9e3e-4e08-ba86-637b6a53c803",
+  "in_force": "2021-12-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%996%CE%98%CE%A9%CE%9A%CE%97-6%CE%A1%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%996%CE%98%CE%A9%CE%9A%CE%97-6%CE%A1%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%996%CE%98%CE%A9%CE%9A%CE%97-6%CE%A1%CE%9A",
+  "listing_sha256": "32d766fc0dc08f288d9664540f7e36ecd1449b2c492b32a85a9996a1b3f0c85a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
