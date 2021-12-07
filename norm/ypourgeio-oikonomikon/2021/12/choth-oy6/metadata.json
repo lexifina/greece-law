@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΗΟΤΗ-ΟΥ6",
+  "subject": "«Απόφαση επανέκδοσης ομολόγων του Ελληνικού Δημοσίου για την ανταλλαγή \nτους με τα 20 ομόλογα που εκδόθηκαν σύμφωνα με τις διατάξεις του ν. 4050/2012»",
+  "protocol_number": "408",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5676",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "408",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-03",
+  "posted": "2021-12-07",
+  "publish_timestamp_ms": 1638860410917,
+  "version_id": "22ad7c29-e2fd-4735-a710-d17a2c54a397",
+  "in_force": "2021-12-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%97%CE%9F%CE%A4%CE%97-%CE%9F%CE%A56",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%97%CE%9F%CE%A4%CE%97-%CE%9F%CE%A56/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%97%CE%9F%CE%A4%CE%97-%CE%9F%CE%A56",
+  "listing_sha256": "60a9b91fa5a6cf09e2e6a0d7e6334c4d2ab0ed1160289a8f125614f6c87740f7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
