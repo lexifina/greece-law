@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΚΔ9ΩΕΧ-ΖΔΒ",
+  "subject": "Έγκριση  υπερωριακής  απασχόλησης  Ληξιάρχων  του  Δήμου  Κιλκίς  από  01.01.2022 ως 31.12.2022",
+  "protocol_number": "25462",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6151",
+    "label": "ΔΗΜΟΣ ΚΙΛΚΙΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79187"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5692",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "25462",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-08",
+  "posted": "2021-12-08",
+  "publish_timestamp_ms": 1638961672672,
+  "version_id": "68a3ecfb-e30c-4602-b07f-907b075baa53",
+  "in_force": "2021-12-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%949%CE%A9%CE%95%CE%A7-%CE%96%CE%94%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%949%CE%A9%CE%95%CE%A7-%CE%96%CE%94%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9A%CE%949%CE%A9%CE%95%CE%A7-%CE%96%CE%94%CE%92",
+  "listing_sha256": "dacc1b8b4e72affdb22e51d35b98f470bc32666936b93bbcc0c8be89a964db16",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
