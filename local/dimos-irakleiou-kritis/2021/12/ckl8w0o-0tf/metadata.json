@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚΛ8Ω0Ο-0ΤΦ",
+  "subject": "Έγκριση μετακίνησης του Αντιδημάρχου κ. Αναστασάκη Ιωάννη στην Αθήνα από 08-12-2021 έως 11-12-2021.",
+  "protocol_number": "1250/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6325",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ (ΚΡΗΤΗΣ)",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81432"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "1250/2021",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-07",
+  "posted": "2021-12-08",
+  "publish_timestamp_ms": 1638951025125,
+  "version_id": "384a8eec-bd70-42f5-96ad-1c5c3a6991b3",
+  "in_force": "2021-12-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%9B8%CE%A90%CE%9F-0%CE%A4%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%9B8%CE%A90%CE%9F-0%CE%A4%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A%CE%9B8%CE%A90%CE%9F-0%CE%A4%CE%A6",
+  "listing_sha256": "9043606d8d71882c245702c28c24b5645be1d5bf5b819fdf6917d32c65927bad",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
