@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "99Υ1ΩΡ3-4ΝΠ",
+  "subject": "Αποδοχή αιτήματος παράτασης υποβολής δικαιολογητικών, της  εταιρίας «ΤΕΧΝΟΣΤΑΛ ΕΠΕ Γ. ΠΑΠΑΔΟΠΟΥΛΟΣ- Η. ΗΛΙΟΠΟΥΛΟΣ",
+  "protocol_number": "4044",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "79500"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-08",
+  "posted": "2021-12-08",
+  "publish_timestamp_ms": 1638973834627,
+  "version_id": "a49138e4-e8b9-4ddd-9214-8ca68289cd25",
+  "in_force": "2021-12-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/99%CE%A51%CE%A9%CE%A13-4%CE%9D%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/99%CE%A51%CE%A9%CE%A13-4%CE%9D%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/99%CE%A51%CE%A9%CE%A13-4%CE%9D%CE%A0",
+  "listing_sha256": "dacc1b8b4e72affdb22e51d35b98f470bc32666936b93bbcc0c8be89a964db16",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
