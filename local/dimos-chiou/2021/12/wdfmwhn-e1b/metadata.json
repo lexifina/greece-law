@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΦΜΩΗΝ-Ε1Β",
+  "subject": "Η αριθμ. 972/2021 απόφαση Οικονομικής Επιτροπής Δήμου Χίου <Διαγραφή οφειλών σύμφωνα με τις διατάξεις του άρθρου 56 του Ν.4795/21, μέχρι του ποσού των δέκα (10,00) ευρώ, συνολικά ανά οφειλέτη>.",
+  "protocol_number": "100389",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84252"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-09",
+  "posted": "2021-12-09",
+  "publish_timestamp_ms": 1639046717249,
+  "version_id": "9b165529-f71f-4467-ac4f-2e89fd943c09",
+  "in_force": "2021-12-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A6%CE%9C%CE%A9%CE%97%CE%9D-%CE%951%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A6%CE%9C%CE%A9%CE%97%CE%9D-%CE%951%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%A6%CE%9C%CE%A9%CE%97%CE%9D-%CE%951%CE%92",
+  "listing_sha256": "a7f5cf982825bb8750fc03a134d7dccd9bee240593402fb3dfc83b1ffe81f9ea",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
