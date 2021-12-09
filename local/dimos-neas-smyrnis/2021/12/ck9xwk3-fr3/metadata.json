@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚ9ΧΩΚ3-ΦΡ3",
+  "subject": "Απόφαση Δημάρχου διενέργειας για την Προμήθεια μικροπεριφερειακών Ηλεκτρονικών Υπολογιστών",
+  "protocol_number": "32389",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6211",
+    "label": "ΔΗΜΟΣ ΝΕΑΣ ΣΜΥΡΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81605"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-09",
+  "posted": "2021-12-09",
+  "publish_timestamp_ms": 1639045685945,
+  "version_id": "da3b6547-94e2-47a2-98d1-ed25e5377da2",
+  "in_force": "2021-12-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A9%CE%A7%CE%A9%CE%9A3-%CE%A6%CE%A13",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A9%CE%A7%CE%A9%CE%9A3-%CE%A6%CE%A13/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A9%CE%A7%CE%A9%CE%9A3-%CE%A6%CE%A13",
+  "listing_sha256": "0c9be5a686b3a788396660041dbace855b536e4d77d80d771ee973933240a443",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
