@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΣΝΤ4653ΠΩ-ΖΩ7",
+  "subject": "Τροποποίηση της με αριθμ. πρωτ. 4151.11-80/1815/23-6-2020 ΚΥΑ (ΦΕΚ 469/ΥΟΔΔ) απόφασης «Συγκρότηση του Κεντρικού Συμβουλίου Αρχιτεκτονικής Αιγαίου (ΚΕΣΑΑ)»",
+  "protocol_number": "4.151.11-80 /2519",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100009000"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1057",
+      "issue": "fektype_YODD",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100015996",
+        "unitId": [
+          "100060950"
+        ],
+        "signerIds": [
+          "100060951"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-11-29",
+  "posted": "2021-12-13",
+  "publish_timestamp_ms": 1639379544753,
+  "version_id": "9108b6bc-0721-46ce-97ae-a6ae0e85888f",
+  "in_force": "2021-12-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A3%CE%9D%CE%A44653%CE%A0%CE%A9-%CE%96%CE%A97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A3%CE%9D%CE%A44653%CE%A0%CE%A9-%CE%96%CE%A97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A3%CE%9D%CE%A44653%CE%A0%CE%A9-%CE%96%CE%A97",
+  "listing_sha256": "db77681f6649f77cbccfa845b2612b962b75661bca272a80af9ca0cb22b894da",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
