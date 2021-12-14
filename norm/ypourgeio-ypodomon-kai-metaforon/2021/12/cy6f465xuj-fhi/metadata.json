@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΥ6Φ465ΧΘΞ-ΦΗΙ",
+  "subject": "Διαχείριση και αποστολή δεδομένων που αφορούν στη λειτουργία των φορέων της αγοράς ηλεκτροκίνησης, στα σημεία επαναφόρτισης ηλεκτροκίνητων οχημάτων και στα δικαιώματα πρόσβασης στο Μητρώο Υποδομών και Φορέων Αγοράς Ηλεκτροκίνησης (Μ.Υ.Φ.Α.Η.) των ενδιαφερομένων μερών.",
+  "protocol_number": "355033/09-12-2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100036519"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5776",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "355033",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100015996",
+        "unitId": [
+          "100022141"
+        ],
+        "signerIds": [
+          "100063929"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-12-14",
+  "posted": "2021-12-14",
+  "publish_timestamp_ms": 1639474410574,
+  "version_id": "8a3a2514-9186-48ab-91d7-f123298ef289",
+  "in_force": "2021-12-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A56%CE%A6465%CE%A7%CE%98%CE%9E-%CE%A6%CE%97%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A56%CE%A6465%CE%A7%CE%98%CE%9E-%CE%A6%CE%97%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A56%CE%A6465%CE%A7%CE%98%CE%9E-%CE%A6%CE%97%CE%99",
+  "listing_sha256": "372c2a2bb882b983fc1172283a8ecbdf8d3ce8408eeb58f1ba191d4d94a31952",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
