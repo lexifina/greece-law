@@ -1,0 +1,49 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΡΜΣ46ΜΤΛΠ-2ΞΟ",
+  "subject": "Τροποποίηση της υπό στοιχεία 13687 ΕΞ 2021/11-5-2021 Υπουργικής Απόφασης “Ρύθμιση λεπτομερειακών και τεχνικών θεμάτων για την περαιτέρω ενίσχυση της διαφάνειας μέσω της ανάρτησης στο Πρόγραμμα Διαύγεια των δαπανών των επιχορηγούμενων φορέων\"",
+  "protocol_number": "43315",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054486",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΨΗΦΙΑΚΗΣ ΔΙΑΚΥΒΕΡΝΗΣΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100005004"
+  ],
+  "thematic_category_ids": [
+    "10027",
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5706",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "3",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω18Η46ΜΤΛΠ-1Υ7"
+      }
+    ]
+  },
+  "issued": "2021-12-07",
+  "posted": "2021-12-14",
+  "publish_timestamp_ms": 1639485648658,
+  "version_id": "4d7eb05d-31d0-4469-b7bc-b16a9947bc2a",
+  "in_force": "2021-12-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%9C%CE%A346%CE%9C%CE%A4%CE%9B%CE%A0-2%CE%9E%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%9C%CE%A346%CE%9C%CE%A4%CE%9B%CE%A0-2%CE%9E%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A1%CE%9C%CE%A346%CE%9C%CE%A4%CE%9B%CE%A0-2%CE%9E%CE%9F",
+  "listing_sha256": "9043606d8d71882c245702c28c24b5645be1d5bf5b819fdf6917d32c65927bad",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
