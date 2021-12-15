@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΣΔ86-ΧΣ1",
+  "subject": "Έγκριση υπ’ Αριθμ. 23/24-11-2021 Απόφασης του ΔΣ/ΜΤΑ (Εκμίσθωση Εκτάσεων\nΕλεύθερων Χώρων του Α/Δ Αμυγδαλεώνα Καβάλας)",
+  "protocol_number": "Φ.951/14486/Σ.2589/15-12-2021/ΥΠΕΘΑ/ΓΕΑ/Δ6/1Γ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "79475"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΑ4Φ6-ΔΒΖ"
+      }
+    ]
+  },
+  "issued": "2021-12-15",
+  "posted": "2021-12-15",
+  "publish_timestamp_ms": 1639568820601,
+  "version_id": "d899fbbb-c5f7-4010-bc24-2969ff67441d",
+  "in_force": "2021-12-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A3%CE%9486-%CE%A7%CE%A31",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A3%CE%9486-%CE%A7%CE%A31/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A3%CE%9486-%CE%A7%CE%A31",
+  "listing_sha256": "b9a7b234b87b3c24da7fecdccd4f984f5bccd271bd784e17b5a0b14b0ba5848b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
