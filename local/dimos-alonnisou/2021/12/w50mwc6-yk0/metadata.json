@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω50ΜΩΨ6-ΥΚ0",
+  "subject": "Εγκριση δαπάνης και δέσμευση πίστωσης ποσού 600,00 ευρω για καταβολή χρηματικού βοηθήματος σε ωφελούμενο",
+  "protocol_number": "137",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6024",
+    "label": "ΔΗΜΟΣ ΑΛΟΝΝΗΣΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84325"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-15",
+  "posted": "2021-12-15",
+  "publish_timestamp_ms": 1639571414978,
+  "version_id": "871743f7-756e-417f-b159-1315b7af48ea",
+  "in_force": "2021-12-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A950%CE%9C%CE%A9%CE%A86-%CE%A5%CE%9A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A950%CE%9C%CE%A9%CE%A86-%CE%A5%CE%9A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A950%CE%9C%CE%A9%CE%A86-%CE%A5%CE%9A0",
+  "listing_sha256": "6ab10df0afda4d2bebc58ff2f34a1b00fa31cb00edcb34fb9f8b5acf9e558593",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
