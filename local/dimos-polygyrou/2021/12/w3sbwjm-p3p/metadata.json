@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω3ΣΒΩΞΜ-Π3Π",
+  "subject": "ΑΠΟΦΑΣΗ 333/2021 Ο.Ε. - Διαβίβαση αιτήσεως για έγκριση παρατάσεως 1ης & 2ης τμηματικής προθεσμίας περαιώσεως του υποέργου ΙΙ: «Ανακαίνιση προϋφιστάμενου Δημοτικού Βρεφονηπιακού Σταθμού Πολυγύρου» με αρ. μελέτης 09/18 μελέτης της Τεχνικής Υπηρεσίας του Δήμου",
+  "protocol_number": "ΔΕΝ ΥΠΑΡΧΕΙ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6251",
+    "label": "ΔΗΜΟΣ ΠΟΛΥΓΥΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83363"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-15",
+  "posted": "2021-12-15",
+  "publish_timestamp_ms": 1639552720202,
+  "version_id": "3cf8ae0e-6d51-4b75-9fa9-774982c7da70",
+  "in_force": "2021-12-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%A3%CE%92%CE%A9%CE%9E%CE%9C-%CE%A03%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%A3%CE%92%CE%A9%CE%9E%CE%9C-%CE%A03%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A93%CE%A3%CE%92%CE%A9%CE%9E%CE%9C-%CE%A03%CE%A0",
+  "listing_sha256": "cfcac036ac3514fb39a44317243308ef99818b35dcf3ce2f5bffdbf53189c862",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
