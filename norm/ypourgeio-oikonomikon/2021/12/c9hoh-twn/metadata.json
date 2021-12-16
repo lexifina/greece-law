@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ9ΗΟΗ-ΤΩΝ",
+  "subject": "Παροχή της εγγύησης του Ελληνικού Δημοσίου προς τους ομολογιούχους υψηλής εξοφλητικής προτεραιότητας και υπέρ του αποκτώντος «Frontier Issuer Designed Activity Company», σε τιτλοποίηση απαιτήσεων της Τράπεζας «Εθνική Τράπεζα της Ελλάδος ΑΕ», ποσού 3.145.000.000 €.",
+  "protocol_number": "2/114663/0025/10-12-2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100061097"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5827",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "2/114663",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-16",
+  "posted": "2021-12-16",
+  "publish_timestamp_ms": 1639650271018,
+  "version_id": "d6adae59-f699-4a0f-9611-535c64e25827",
+  "in_force": "2021-12-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A89%CE%97%CE%9F%CE%97-%CE%A4%CE%A9%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A89%CE%97%CE%9F%CE%97-%CE%A4%CE%A9%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A89%CE%97%CE%9F%CE%97-%CE%A4%CE%A9%CE%9D",
+  "listing_sha256": "67842a260eb66b0bd26f488f7abf0d178e452c31ee794fae3cca9f05b1d06097",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
