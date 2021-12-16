@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω080ΩΨΒ-9ΚΧ",
+  "subject": "14η Αναμόρφωση Προϋπολογισμού Δήμου Αλίμου έτους 2021 (απόφ. Ο.Ε.).",
+  "protocol_number": "168-2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6021",
+    "label": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82631"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-13",
+  "posted": "2021-12-16",
+  "publish_timestamp_ms": 1639657666288,
+  "version_id": "3deedf8c-ccb1-4c4d-b05b-51fafe0b9814",
+  "in_force": "2021-12-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9080%CE%A9%CE%A8%CE%92-9%CE%9A%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9080%CE%A9%CE%A8%CE%92-9%CE%9A%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9080%CE%A9%CE%A8%CE%92-9%CE%9A%CE%A7",
+  "listing_sha256": "288a01d544ea72adf3f3e85abb890d52ad2a37d1b8c869f8c6ea8d3815a0a778",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
