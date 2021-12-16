@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ68ΕΩΛΗ-1Δ7",
+  "subject": "Διατήρηση θέσης κενωθέντος περιπτέρου επί της πλατείας Αγίου Φανουρίου στην Κοινότητα Λιβαδειάς",
+  "protocol_number": "23574",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6169",
+    "label": "ΔΗΜΟΣ ΛΕΒΑΔΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78290"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-16",
+  "posted": "2021-12-16",
+  "publish_timestamp_ms": 1639635167512,
+  "version_id": "bc1537a9-af8c-49f1-8bc6-2cf45ef0be10",
+  "in_force": "2021-12-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A868%CE%95%CE%A9%CE%9B%CE%97-1%CE%947",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A868%CE%95%CE%A9%CE%9B%CE%97-1%CE%947/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A868%CE%95%CE%A9%CE%9B%CE%97-1%CE%947",
+  "listing_sha256": "c48977f4bea924e9c4614c04aa152937e8ad9cf992852a0065141469f8a21d83",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
