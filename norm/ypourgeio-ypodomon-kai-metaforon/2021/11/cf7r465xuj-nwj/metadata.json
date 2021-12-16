@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΦ7Ρ465ΧΘΞ-ΝΩΞ",
+  "subject": "Ειδοποίηση παρακατάθεσης αποζημίωσης ακινήτου, δικηγορικής αμοιβής και δικαστικών εξόδων, δικηγόρου ιδιοκτήτη του ακινήτου με ΑΚΠ 690, που έχει απαλλοτριωθεί με την υπ΄ αρ. 1068705/4870/Δ0010/25.7.2007 (ΑΑΠ΄ 345) απόφαση των Υφυπουργών Οικονομίας και Οικονομικών και Περιβάλλοντος, Χωροταξίας και Δημοσίων Έργων για την κατασκευή του Α/Δ ΠΑΘΕ στο τμήμα Α.Κ. Αγίας Μαρίνας Στυλίδας έως Α.Κ. Ραχών χ.θ. 18+564,25 − χ.θ. 25+188,56 στην περιοχή του Δήμου Στυλίδας στο Ν. Φθιώτιδας.",
+  "protocol_number": "323503",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007478"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "895",
+      "issue": "fektype_D",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-11-16",
+  "posted": "2021-12-16",
+  "publish_timestamp_ms": 1639653800990,
+  "version_id": "2d483d6d-6b4f-43ce-9453-a733c80af495",
+  "in_force": "2021-12-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A67%CE%A1465%CE%A7%CE%98%CE%9E-%CE%9D%CE%A9%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A67%CE%A1465%CE%A7%CE%98%CE%9E-%CE%9D%CE%A9%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A67%CE%A1465%CE%A7%CE%98%CE%9E-%CE%9D%CE%A9%CE%9E",
+  "listing_sha256": "04e5c238e0797644d463f9712d7ce52215193e41cb14a846046b1dfa163ec0bc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
