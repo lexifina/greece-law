@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚΑΦΩΛΓ-Ψ7Λ",
+  "subject": "α) Ανάκληση της υπ’ αριθμ. 247/2021 με ΑΔΑ: 6ΦΨΡΩΛΓ-ΜΟΤ απόφασης της Οικονομικής Επιτροπής και β) Λήψη νέας απόφασης με θέμα «Εισήγηση για τα τέλη της ανταποδοτικής υπηρεσίας ύδρευσης-αποχέτευσης του Δήμου Λέρου, για το έτος 2022»",
+  "protocol_number": "Απόφαση Οικονομικής Επιτροπής 292/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6171",
+    "label": "ΔΗΜΟΣ ΛΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84441"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΦΨΡΩΛΓ-ΜΟΤ"
+      }
+    ]
+  },
+  "issued": "2021-12-14",
+  "posted": "2021-12-16",
+  "publish_timestamp_ms": 1639650530428,
+  "version_id": "55d083df-f206-471d-afd3-c3f3d80ff972",
+  "in_force": "2021-12-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%91%CE%A6%CE%A9%CE%9B%CE%93-%CE%A87%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%91%CE%A6%CE%A9%CE%9B%CE%93-%CE%A87%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A%CE%91%CE%A6%CE%A9%CE%9B%CE%93-%CE%A87%CE%9B",
+  "listing_sha256": "b02597f6d3e0b9524be31356e1823eaa9f5712147710d01e40e9e51e79580ec8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
