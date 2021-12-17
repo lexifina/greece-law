@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚΝΙΟΡ1Φ-ΖΚΛ",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 27/2021 απόφασης του Διοικητικού Συμβουλίου του Νομικού Προσώπου με την επωνυμία «Σύνδεσμος Διαχείρισης Στερεών Αποβλήτων 1ης Γεωγραφικής Ενότητας Ν. Αιτωλ/νίας»",
+  "protocol_number": "221788 + 214124",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "61Ν9ΟΛ9Ω-3ΞΞ"
+      }
+    ]
+  },
+  "issued": "2021-12-16",
+  "posted": "2021-12-17",
+  "publish_timestamp_ms": 1639725964150,
+  "version_id": "74eabf36-c06e-478c-bf8b-7b75616fd2d2",
+  "in_force": "2021-12-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%9D%CE%99%CE%9F%CE%A11%CE%A6-%CE%96%CE%9A%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%9D%CE%99%CE%9F%CE%A11%CE%A6-%CE%96%CE%9A%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A%CE%9D%CE%99%CE%9F%CE%A11%CE%A6-%CE%96%CE%9A%CE%9B",
+  "listing_sha256": "c5a5f2d843d0fd3eb53880690acfd4e812f5c8b25ebab52e211f69b34e93d007",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
