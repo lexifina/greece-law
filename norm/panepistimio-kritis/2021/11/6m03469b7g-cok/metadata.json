@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Μ03469Β7Γ-ΨΟΚ",
+  "subject": "Ρυθμίσεις θεμάτων υπέρβασης της ανώτατης χρονικής διάρκειας φοίτησης, μερικής φοίτησης και διακοπής φοίτησης",
+  "protocol_number": "26252",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "99206917",
+    "label": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΚΡΗΤΗΣ",
+    "category": "UNIVERSITY"
+  },
+  "unit_ids": [
+    "84873"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5845",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "kanonistikipraxiaa": "26252",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-11-19",
+  "posted": "2021-12-17",
+  "publish_timestamp_ms": 1639724737721,
+  "version_id": "9330abb0-f66d-4c63-8927-0117bc89a2f1",
+  "in_force": "2021-12-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C03469%CE%927%CE%93-%CE%A8%CE%9F%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C03469%CE%927%CE%93-%CE%A8%CE%9F%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9C03469%CE%927%CE%93-%CE%A8%CE%9F%CE%9A",
+  "listing_sha256": "dc7036397a1e0d5d01bd1e89b2a36c86fbedbd579061572439edda09917b7654",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
