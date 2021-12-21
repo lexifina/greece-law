@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω579ΙΔΞ-Β4Ρ",
+  "subject": "ΑΠΟΦΑΣΗ ΡΑΕ ΥΠ’ ΑΡΙΘΜ. 785/2021\nΤροποποίηση της Άδειας Διανομής Φυσικού Αερίου που\nχορηγήθηκε με την υπ’ αριθμ. 1314/2018 Απόφαση ΡΑΕ στην\nεταιρεία με την επωνυμία «Εταιρεία Διανομής Αερίου\nΘεσσαλονίκης - Θεσσαλίας ΑΝΩΝΥΜOΣ ΕΤΑΙΡΕΙΑ» και τον\nδιακριτικό τίτλο «ΕΔΑ ΘΕΣΣ» λόγω μεταβολής στη\nμετοχική σύνθεση της εταιρείας, σε συνέχεια του\nμετασχηματισμού της «ΔΕΠΑ Α.Ε.» (μερική διάσπαση του κλάδου\nυποδομών)",
+  "protocol_number": "785/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "22793",
+    "label": "ΡΥΘΜΙΣΤΙΚΗ ΑΡΧΗ ΑΠΟΒΛΗΤΩΝ ΕΝΕΡΓΕΙΑΣ ΚΑΙ ΥΔΑΤΩΝ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "94266"
+  ],
+  "thematic_category_ids": [
+    "66"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5411",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Πράξη Ρυθμιστικής Αρχής",
+    "kanonistikipraxiaa": "785/2021",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-10-21",
+  "posted": "2021-12-21",
+  "publish_timestamp_ms": 1640089321031,
+  "version_id": "659dcb8e-34e5-4a03-9b27-5d6cb12a9478",
+  "in_force": "2021-12-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9579%CE%99%CE%94%CE%9E-%CE%924%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9579%CE%99%CE%94%CE%9E-%CE%924%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9579%CE%99%CE%94%CE%9E-%CE%924%CE%A1",
+  "listing_sha256": "e2dc755c4c98d5d39c699ef817d0035876260ec66af9ed9b1995e60f03743754",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
