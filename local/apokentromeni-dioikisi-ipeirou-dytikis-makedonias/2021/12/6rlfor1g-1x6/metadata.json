@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΡΛΦΟΡ1Γ-1Χ6",
+  "subject": "καθιέρωση εργασίας υπαλλήλων Δημοτικής Αστυνομίας του Δήμου Κοζάνης με διακεκομμένο ωράριο",
+  "protocol_number": "158755",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76529"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5976",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "158755",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-03",
+  "posted": "2021-12-22",
+  "publish_timestamp_ms": 1640154862365,
+  "version_id": "0587b02c-3fa6-4a5a-b775-3af07fe9a555",
+  "in_force": "2021-12-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%9B%CE%A6%CE%9F%CE%A11%CE%93-1%CE%A76",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A1%CE%9B%CE%A6%CE%9F%CE%A11%CE%93-1%CE%A76/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A1%CE%9B%CE%A6%CE%9F%CE%A11%CE%93-1%CE%A76",
+  "listing_sha256": "60a9b91fa5a6cf09e2e6a0d7e6334c4d2ab0ed1160289a8f125614f6c87740f7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
