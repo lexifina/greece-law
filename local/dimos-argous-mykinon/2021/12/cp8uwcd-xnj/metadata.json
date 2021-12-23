@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠ8ΘΩΨΔ-ΧΝΞ",
+  "subject": "Περί έγκρισης δαπανών Προέδρων Κοινοτήτων Δήμου Αργους-Μυκηνών από πάγια προκαταβολή.",
+  "protocol_number": "330",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6042",
+    "label": "ΔΗΜΟΣ ΑΡΓΟΥΣ - ΜΥΚΗΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83272"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-23",
+  "posted": "2021-12-23",
+  "publish_timestamp_ms": 1640238087811,
+  "version_id": "ec570d97-fced-4d2e-87e3-6e1ca13ec716",
+  "in_force": "2021-12-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A08%CE%98%CE%A9%CE%A8%CE%94-%CE%A7%CE%9D%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A08%CE%98%CE%A9%CE%A8%CE%94-%CE%A7%CE%9D%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A08%CE%98%CE%A9%CE%A8%CE%94-%CE%A7%CE%9D%CE%9E",
+  "listing_sha256": "71ace99702b5665424db65301d9a6613ef0686f48d823707b85a7aea7a0178a5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
