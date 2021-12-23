@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΩ6ΒΩ16-Φ9Η",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΥΠ.ΑΡΙΘΜΟΝ 784/2021 {ΘΕΜΑ: «ΑΝΑΡΤΗΣΗ ΤΟΠΟΓΡΑΦΙΚΟΥ ΚΑΙ ΛΙΣΤΑΣ ΤΗΣ ΥΠ’ ΑΡΙΘΜ. 1/2021 ΠΡΑΞΗΣ ΠΡΟΣΚΥΡΩΣΕΩΣ Η’ ΑΝΑΛΟΓΙΣΜΟΥ ΑΠΟΖΗΜΙΩΣΗΣ ΙΔΙΟΚΤΗΣΙΩΝ ΚΕΙΜΕΝΩΝ ΣΤΟΝ ΔΗΜΟ ΡΑΦΗΝΑΣ – ΠΙΚΕΡΜΙΟΥ ΣΤΑ Ο.Τ.  95, 102, 125, 126, 196, 197, 201, 202, 203, 204, 213, 214, 224 ΕΠΙ ΤΗΣ ΟΔΟΥ ΔΗΜΟΚΡΑΤΙΑΣ»}",
+  "protocol_number": "784",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6262",
+    "label": "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80640"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "10004",
+    "52",
+    "72"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "784/2021",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-22",
+  "posted": "2021-12-23",
+  "publish_timestamp_ms": 1640259086815,
+  "version_id": "0661b55e-bcd6-408a-a38e-1c33c45b69fc",
+  "in_force": "2021-12-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A96%CE%92%CE%A916-%CE%A69%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A96%CE%92%CE%A916-%CE%A69%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A96%CE%92%CE%A916-%CE%A69%CE%97",
+  "listing_sha256": "cd53a5f62134c65cc5ff1319313137d75fd55690ed95d10f166b7440b5804a4e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
