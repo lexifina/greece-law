@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥΠ3465ΧΘΞ-Ρ9Ι",
+  "subject": "Δημοσίευση της με αριθμό Δ30/A3/347507 υπουργικής αποφάσεως περί οδήγησης με συνοδό",
+  "protocol_number": "Δ30/Α3/372737",
+  "decision_type": {
+    "uid": "Α.3",
+    "label": "ΕΓΚΥΚΛΙΟΣ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007425"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΗ6Β465ΧΘΞ-4ΦΙ"
+      }
+    ]
+  },
+  "issued": "2021-12-23",
+  "posted": "2021-12-24",
+  "publish_timestamp_ms": 1640330986421,
+  "version_id": "52272946-3a23-4924-af05-22d5b6a15b53",
+  "in_force": "2021-12-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%A03465%CE%A7%CE%98%CE%9E-%CE%A19%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%A03465%CE%A7%CE%98%CE%9E-%CE%A19%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A5%CE%A03465%CE%A7%CE%98%CE%9E-%CE%A19%CE%99",
+  "listing_sha256": "22ba680c1967c1bddcbfef9389f60536ab6f02ca264cd0cc59c249b5ec1a3944",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
