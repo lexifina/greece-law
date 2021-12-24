@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΘΩΩΗΔ-ΧΨΒ",
+  "subject": "Καθιέρωση υπερωριακής εργασίας πέραν της εβδομαδιαίας υποχρεωτικής, για το προσωπικό του Δήμου Χαλανδρίου για το έτος 2022.",
+  "protocol_number": "38777/29-11-2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6314",
+    "label": "ΔΗΜΟΣ ΧΑΛΑΝΔΡΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78604"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "6106",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-11-29",
+  "posted": "2021-12-24",
+  "publish_timestamp_ms": 1640327255398,
+  "version_id": "4c730dcb-2d7b-4326-a614-1bc30fed8a37",
+  "in_force": "2021-12-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%98%CE%A9%CE%A9%CE%97%CE%94-%CE%A7%CE%A8%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%98%CE%A9%CE%A9%CE%97%CE%94-%CE%A7%CE%A8%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%98%CE%A9%CE%A9%CE%97%CE%94-%CE%A7%CE%A8%CE%92",
+  "listing_sha256": "db77681f6649f77cbccfa845b2612b962b75661bca272a80af9ca0cb22b894da",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
