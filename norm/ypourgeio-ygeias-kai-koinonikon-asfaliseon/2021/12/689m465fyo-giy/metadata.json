@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "689Μ465ΦΥΟ-ΓΙΥ",
+  "subject": "Τροποποίηση και αντικατάσταση του Παραρτήματος Γ’ (αριθμητικό όριο συνταγογράφησης ανά κατηγορία ιατρικής πράξης από κάθε ιατρική ειδικότητα) της υπό στοιχεία Υ9/οικ.70521/14-08-2014 υπουργικής απόφασης «Βραχυπρόθεσμα και Μακροπρόθεσμα Μέτρα Ελέγχου της Συνταγογράφησης και Εκτέλεσης Εργαστηριακών Εξετάσεων» (Β’ 2243).",
+  "protocol_number": "ΕΑΛΕ/Γ.Π.72816",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100036551"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "6163",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-16",
+  "posted": "2021-12-24",
+  "publish_timestamp_ms": 1640335976661,
+  "version_id": "0cef98d0-bbb9-44ff-8b91-749f50a8becf",
+  "in_force": "2021-12-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/689%CE%9C465%CE%A6%CE%A5%CE%9F-%CE%93%CE%99%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/689%CE%9C465%CE%A6%CE%A5%CE%9F-%CE%93%CE%99%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/689%CE%9C465%CE%A6%CE%A5%CE%9F-%CE%93%CE%99%CE%A5",
+  "listing_sha256": "c5a5f2d843d0fd3eb53880690acfd4e812f5c8b25ebab52e211f69b34e93d007",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
