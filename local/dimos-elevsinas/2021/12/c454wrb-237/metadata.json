@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ454ΩΡΒ-237",
+  "subject": "Αποδοχή δωρεάς τροφίμων από την εταιρεία Friesland Campina προς το Κοινωνικό Παντοπωλείο του Δήμου μας.",
+  "protocol_number": "21-721",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6089",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΣΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84277"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-24",
+  "posted": "2021-12-24",
+  "publish_timestamp_ms": 1640329753698,
+  "version_id": "df95f643-a20a-4177-98b5-7b6d35985724",
+  "in_force": "2021-12-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8454%CE%A9%CE%A1%CE%92-237",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8454%CE%A9%CE%A1%CE%92-237/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8454%CE%A9%CE%A1%CE%92-237",
+  "listing_sha256": "c6a7a4974696cd190c09e4fca4eaac463e99f25762f47c965574d2ba4d1b606a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
