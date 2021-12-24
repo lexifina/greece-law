@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω1ΜΦΩ9Μ-ΟΡΞ",
+  "subject": "ΒΕΒΑΙΩΣΗ Π.Ο.Υ. ΠΟΛΥΕΤΟΥΣ ΥΠΟΧΡΕΩΣΗΣ",
+  "protocol_number": "53283/24-12-2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6081",
+    "label": "ΔΗΜΟΣ ΔΡΑΜΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100025973"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-24",
+  "posted": "2021-12-24",
+  "publish_timestamp_ms": 1640330765986,
+  "version_id": "a31ab8c8-e5c1-48a7-b2bf-0f2f94d91e70",
+  "in_force": "2021-12-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%9C%CE%A6%CE%A99%CE%9C-%CE%9F%CE%A1%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A91%CE%9C%CE%A6%CE%A99%CE%9C-%CE%9F%CE%A1%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A91%CE%9C%CE%A6%CE%A99%CE%9C-%CE%9F%CE%A1%CE%9E",
+  "listing_sha256": "c6a7a4974696cd190c09e4fca4eaac463e99f25762f47c965574d2ba4d1b606a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
