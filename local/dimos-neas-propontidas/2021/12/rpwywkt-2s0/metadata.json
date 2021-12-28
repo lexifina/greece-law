@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΡΠΩΥΩΚΤ-2Σ0",
+  "subject": "Κατανομή Σ.Α.ΤΑ.",
+  "protocol_number": "370",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6210",
+    "label": "ΔΗΜΟΣ ΝΕΑΣ ΠΡΟΠΟΝΤΙΔΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82159"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "370",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-28",
+  "posted": "2021-12-28",
+  "publish_timestamp_ms": 1640694770897,
+  "version_id": "c92ac7a6-23d1-40a5-b80a-a8894c5011ee",
+  "in_force": "2021-12-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%A0%CE%A9%CE%A5%CE%A9%CE%9A%CE%A4-2%CE%A30",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%A0%CE%A9%CE%A5%CE%A9%CE%9A%CE%A4-2%CE%A30/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A1%CE%A0%CE%A9%CE%A5%CE%A9%CE%9A%CE%A4-2%CE%A30",
+  "listing_sha256": "120ea72c8abbd2f6d0b321d67ff505869ca4183f93e7b78f451f41f119a93ca5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
