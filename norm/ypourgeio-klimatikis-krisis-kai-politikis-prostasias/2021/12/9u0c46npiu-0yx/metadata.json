@@ -1,0 +1,57 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9Θ0Ψ46ΝΠΙΘ-0ΥΧ",
+  "subject": "Έγκριση σύμβασης δωρεάς μεταξύ του Πυροσβεστικού Σώματος (ως δωρεοδόχου) και της εταιρείας με την επωνυμία «MSC FOUNDATION» (ως δωρήτριας).",
+  "protocol_number": "14527",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100068650",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΚΛΙΜΑΤΙΚΗΣ ΚΡΙΣΗΣ ΚΑΙ ΠΟΛΙΤΙΚΗΣ ΠΡΟΣΤΑΣΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100068687"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "126841"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100052322"
+        ],
+        "signerIds": [
+          "100047801"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-12-28",
+  "posted": "2021-12-28",
+  "publish_timestamp_ms": 1640691589944,
+  "version_id": "e5541f8f-2e88-4f94-9c9f-68f61653ec73",
+  "in_force": "2021-12-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%980%CE%A846%CE%9D%CE%A0%CE%99%CE%98-0%CE%A5%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%980%CE%A846%CE%9D%CE%A0%CE%99%CE%98-0%CE%A5%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%980%CE%A846%CE%9D%CE%A0%CE%99%CE%98-0%CE%A5%CE%A7",
+  "listing_sha256": "120ea72c8abbd2f6d0b321d67ff505869ca4183f93e7b78f451f41f119a93ca5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
