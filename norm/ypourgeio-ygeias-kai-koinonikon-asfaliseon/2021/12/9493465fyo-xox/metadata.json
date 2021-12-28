@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9493465ΦΥΟ-ΧΟΧ",
+  "subject": "Διαδικασία, όροι και προϋποθέσεις συμψηφισμού αυτόματης επιστροφής clawback με ποσοστά επί των δαπανών έρευνας και ανάπτυξης και των δαπανών επενδυτικών σχεδίων ανάπτυξης προϊόντων ή υπηρεσιών ή γραμμών παραγωγής.",
+  "protocol_number": "ΓΠ.οικ.80277",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "94204"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "6247",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-12-23",
+  "posted": "2021-12-28",
+  "publish_timestamp_ms": 1640697617895,
+  "version_id": "400a090f-1527-42c0-bf63-6aa6c2aaa495",
+  "in_force": "2021-12-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9493465%CE%A6%CE%A5%CE%9F-%CE%A7%CE%9F%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9493465%CE%A6%CE%A5%CE%9F-%CE%A7%CE%9F%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9493465%CE%A6%CE%A5%CE%9F-%CE%A7%CE%9F%CE%A7",
+  "listing_sha256": "22ba680c1967c1bddcbfef9389f60536ab6f02ca264cd0cc59c249b5ec1a3944",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
