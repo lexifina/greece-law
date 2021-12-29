@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΨ6Ε-21Ρ",
+  "subject": "Καθορισμός ειδικοτήτων υπαλλήλων του Κλάδου Εμπειρογνωμόνων του Υπουργείου Εξωτερικών",
+  "protocol_number": "Π19ΓΕΝ-68339",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "10",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΞΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70482"
+  ],
+  "thematic_category_ids": [
+    "44",
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "252",
+      "issue": "fektype_A",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "kanonistikipraxiaa": "101",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-16",
+  "posted": "2021-12-29",
+  "publish_timestamp_ms": 1640795222618,
+  "version_id": "8efe9204-fec0-47d7-b4b5-a366e8d6bd4b",
+  "in_force": "2021-12-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A86%CE%95-21%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A86%CE%95-21%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%A86%CE%95-21%CE%A1",
+  "listing_sha256": "c5a5f2d843d0fd3eb53880690acfd4e812f5c8b25ebab52e211f69b34e93d007",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
