@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΛΨΩΩ9Σ-5Ω2",
+  "subject": "ΕΓΚΡΙΣΗ ΤΕΧΝΙΚΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ",
+  "protocol_number": "Δ.Υ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6078",
+    "label": "ΔΗΜΟΣ ΔΙΣΤΟΜΟΥ-ΑΡΑΧΟΒΑΣ - ΑΝΤΙΚΥΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84089"
+  ],
+  "thematic_category_ids": [
+    "66"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-29",
+  "posted": "2021-12-29",
+  "publish_timestamp_ms": 1640789240976,
+  "version_id": "5a9549a6-0b96-46e4-99de-3c617a1c76dc",
+  "in_force": "2021-12-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9B%CE%A8%CE%A9%CE%A99%CE%A3-5%CE%A92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9B%CE%A8%CE%A9%CE%A99%CE%A3-5%CE%A92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%9B%CE%A8%CE%A9%CE%A99%CE%A3-5%CE%A92",
+  "listing_sha256": "b6820207575fb881e4a7c0ee94b038c0d3ac56ff28cf4c3bc1a3dcb4eca63cd7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
