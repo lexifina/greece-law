@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΗ1Τ46ΜΠ3Ζ-Ι3Χ",
+  "subject": "Καθορισμός του αριθμού φορολογικών ελέγχων και ερευνών που θα διενεργηθούν από τις Υ.Ε.Δ.Δ.Ε. κατά το έτος 2022.",
+  "protocol_number": "ΔΙ.Π.Α.Ε.Ε.1115419 ΕΞ2021/24-12-2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100030125"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "6294",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-24",
+  "posted": "2021-12-30",
+  "publish_timestamp_ms": 1640849868396,
+  "version_id": "ba3429fb-7ec8-4e54-9706-a043f156794a",
+  "in_force": "2021-12-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%971%CE%A446%CE%9C%CE%A03%CE%96-%CE%993%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%971%CE%A446%CE%9C%CE%A03%CE%96-%CE%993%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%971%CE%A446%CE%9C%CE%A03%CE%96-%CE%993%CE%A7",
+  "listing_sha256": "5009a6653b882313b58d1dc09e8596dfd1a929c059a09232e3dddf65a13666af",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
