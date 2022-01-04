@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΦΔ3Ω1Ι-ΘΒ8",
+  "subject": "ΠΡΟΣΚΛΗΣΗ ΣΕ ΕΙΔΙΚΗ ΣΥΝΕΔΡΙΑΣΗ ΤΟΥ ΔΗΜ. ΣΥΜΒΟΥΛΙΟΥ ΣΙΚΙΝΟΥ",
+  "protocol_number": "3",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6275",
+    "label": "ΔΗΜΟΣ ΣΙΚΙΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "92738"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-01-04",
+  "posted": "2022-01-04",
+  "publish_timestamp_ms": 1641293579434,
+  "version_id": "48c09146-4c17-4e02-977c-e5a1bab43354",
+  "in_force": "2022-01-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A6%CE%943%CE%A91%CE%99-%CE%98%CE%928",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A6%CE%943%CE%A91%CE%99-%CE%98%CE%928/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A6%CE%943%CE%A91%CE%99-%CE%98%CE%928",
+  "listing_sha256": "b1d1ed3f3b1744905fce631787c3eb7dac2014a730b1d0c6989e08fbfb018755",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
