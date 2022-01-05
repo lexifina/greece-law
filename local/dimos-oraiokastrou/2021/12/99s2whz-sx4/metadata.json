@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "99Σ2ΩΗΖ-ΣΧ4",
+  "subject": "486-2021 Λήψη απόφασης σχετικά με την έγκριση ή μη  της υπ’αριθμ 124/2021 απόφασης του Διοικητικού Συμβουλίου της «Δημοτικής Κοινωφελούς Επιχείρησης Ωραιοκάστρου» (ΔΗ.Κ.Ε.Ω.), με θέμα «Έγκριση εκθέσεως πεπραγμένων 10ης εταιρικής χρήσης 2020 της ΔΗ.Κ.Ε.Ω».",
+  "protocol_number": "486",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6323",
+    "label": "ΔΗΜΟΣ ΩΡΑΙΟΚΑΣΤΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84883"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-27",
+  "posted": "2022-01-05",
+  "publish_timestamp_ms": 1641375399353,
+  "version_id": "a72b2441-ee41-425d-b306-a1c6c4567e7a",
+  "in_force": "2022-01-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/99%CE%A32%CE%A9%CE%97%CE%96-%CE%A3%CE%A74",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/99%CE%A32%CE%A9%CE%97%CE%96-%CE%A3%CE%A74/document",
+  "page": "https://diavgeia.gov.gr/decision/view/99%CE%A32%CE%A9%CE%97%CE%96-%CE%A3%CE%A74",
+  "listing_sha256": "08cb46131ebd5f5a61754461fd40d637089736946554e220a42c8c37ba3f3671",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
