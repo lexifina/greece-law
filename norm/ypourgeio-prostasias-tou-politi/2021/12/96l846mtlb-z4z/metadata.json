@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "96Λ846ΜΤΛΒ-Ζ4Ζ",
+  "subject": "Ρυθμίσεις θεμάτων Συνοριακών Φυλάκων Ορισμένου Χρόνου.",
+  "protocol_number": "Π.Δ. 104/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054489",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100011665"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "256",
+      "issue": "fektype_A",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Προεδρικό Διάταγμα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-31",
+  "posted": "2022-01-05",
+  "publish_timestamp_ms": 1641382825269,
+  "version_id": "80fe4b43-e916-4adb-a4d3-16158542fc77",
+  "in_force": "2022-01-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/96%CE%9B846%CE%9C%CE%A4%CE%9B%CE%92-%CE%964%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/96%CE%9B846%CE%9C%CE%A4%CE%9B%CE%92-%CE%964%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/96%CE%9B846%CE%9C%CE%A4%CE%9B%CE%92-%CE%964%CE%96",
+  "listing_sha256": "5ecf5442aaa522cffbbcca0677dfa51e4644cd7910d815f81026a18d6ef53a08",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
