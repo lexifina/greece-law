@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "694Τ4653ΠΓ-1ΘΘ",
+  "subject": "Καθορισμός αποζημίωσης Προέδρου, μελών και Γραμματέα Διοικητικού Συμβουλίου του Κοινωφελούς Ιδρύματος με την επωνυμία \"ΚΟΝΙΑΡΕΙΟ ΙΝΣΤΙΤΟΥΤΟ ΕΣΠΕΡΙΔΟΕΙΔΩΝ ΚΟΡΙΝΘΙΑΣ\" για τη συμμετοχή τους στις συνεδριάσεις του ΔΣ.",
+  "protocol_number": "2507/378048/29-12-2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100003685"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1115",
+      "issue": "fektype_YODD",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-01-14",
+  "posted": "2022-01-14",
+  "publish_timestamp_ms": 1642148288318,
+  "version_id": "2f9076c3-dec3-4843-bd16-8173ab188df1",
+  "in_force": "2022-01-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/694%CE%A44653%CE%A0%CE%93-1%CE%98%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/694%CE%A44653%CE%A0%CE%93-1%CE%98%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/694%CE%A44653%CE%A0%CE%93-1%CE%98%CE%98",
+  "listing_sha256": "c32fc18e46248bc03f23bda86c5721ab6c6a02bcd543fc645cb2ccff9d7eb56e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
