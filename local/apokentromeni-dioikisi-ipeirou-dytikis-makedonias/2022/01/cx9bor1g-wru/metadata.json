@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΧ9ΒΟΡ1Γ-ΩΡΘ",
+  "subject": "ΕΓΚΡΙΣΗ ΑΓΟΡΑΣ ΟΧΗΜΑΤΟΣ Δ ΝΕΣΤΟΡΙΟΥ",
+  "protocol_number": "4702",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76743"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "4702",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-01-14",
+  "posted": "2022-01-14",
+  "publish_timestamp_ms": 1642149696819,
+  "version_id": "82413aa5-e765-4438-8bf1-de875ec0f08d",
+  "in_force": "2022-01-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A79%CE%92%CE%9F%CE%A11%CE%93-%CE%A9%CE%A1%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A79%CE%92%CE%9F%CE%A11%CE%93-%CE%A9%CE%A1%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A79%CE%92%CE%9F%CE%A11%CE%93-%CE%A9%CE%A1%CE%98",
+  "listing_sha256": "c32fc18e46248bc03f23bda86c5721ab6c6a02bcd543fc645cb2ccff9d7eb56e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
