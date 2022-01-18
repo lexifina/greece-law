@@ -1,0 +1,71 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΨΛΑ465ΧΘΞ-196",
+  "subject": "Κατάργηση της υπό στοιχεία Δ21/1529/Φ.Α.15/2018 απόφασης των Υπουργών Υποδομών & Μεταφορών και Επικρατείας «Ανάθεση των έργων, μελετών και συμβάσεων παροχής τεχνικών υπηρεσιών αρμοδιότητας της «ΑΝΑΠΛΑΣΗ ΑΘΗΝΑΣ Α.Ε.» στη Γενική Γραμματεία Υποδομών του Υπουργείου Υποδομών και Μεταφορών και ορισμός αναθέτουσας αρχής, προϊσταμένης αρχής και διευθύνουσας υπηρεσίας για τις διαδικασίες της υλοποίησης αυτών» (Β΄5644).",
+  "protocol_number": "379769",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007466"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "29",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100015996",
+        "unitId": [
+          "100048148"
+        ],
+        "signerIds": [
+          "100060951"
+        ]
+      },
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100063903"
+        ]
+      },
+      {
+        "ministryId": "100015966",
+        "unitId": [
+          "100005251"
+        ],
+        "signerIds": [
+          "100047758"
+        ]
+      }
+    ]
+  },
+  "issued": "2021-12-30",
+  "posted": "2022-01-18",
+  "publish_timestamp_ms": 1642513565199,
+  "version_id": "253174c0-4b23-4651-8de0-db1103c771e8",
+  "in_force": "2022-01-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%9B%CE%91465%CE%A7%CE%98%CE%9E-196",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A8%CE%9B%CE%91465%CE%A7%CE%98%CE%9E-196/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A8%CE%9B%CE%91465%CE%A7%CE%98%CE%9E-196",
+  "listing_sha256": "bb7c22bec2e8067160a87854a8897f5f00b7542a4706997fbeccfe916163223f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
