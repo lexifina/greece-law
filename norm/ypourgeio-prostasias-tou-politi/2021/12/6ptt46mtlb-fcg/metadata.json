@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΠΤΤ46ΜΤΛΒ-ΦΨΓ",
+  "subject": "Τροποποίηση της υπ’ αριθμ. 7001/2/1478-μβ΄ από 20-04-2017 απόφασης Αρχηγού Ελληνικής Αστυνομίας «Καθορισμός τοπικής αρμοδιότητας περιφερειακών Υπηρεσιών της Ελληνικής Αστυνομίας» (Β΄ 1540).",
+  "protocol_number": "7001/2/1478-ρκστ΄",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054489",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100011665"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "6506",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "10003",
+    "kanonistikipraxiaa": "1",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "7ΘΓΕ465ΧΘ7-ΖΙ5"
+      }
+    ]
+  },
+  "issued": "2021-12-21",
+  "posted": "2022-01-18",
+  "publish_timestamp_ms": 1642484280626,
+  "version_id": "0a776479-7e27-40ae-8066-d59e96e725a8",
+  "in_force": "2022-01-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A0%CE%A4%CE%A446%CE%9C%CE%A4%CE%9B%CE%92-%CE%A6%CE%A8%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A0%CE%A4%CE%A446%CE%9C%CE%A4%CE%9B%CE%92-%CE%A6%CE%A8%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A0%CE%A4%CE%A446%CE%9C%CE%A4%CE%9B%CE%92-%CE%A6%CE%A8%CE%93",
+  "listing_sha256": "23f968565a3e1afc5786913472dfb04b7872cdf9deb8eecc0e25041b1b28d89b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
