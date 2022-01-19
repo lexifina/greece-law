@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΑΦ7ΩΡ5-10Τ",
+  "subject": "ΑΠΟΦΑΣΗ ΠΡΟΕΔΡΟΥ Γ΄ ΔΗΜΟΤΙΚΗΣ ΚΟΙΝΟΤΗΤΑΣ",
+  "protocol_number": "15342",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6114",
+    "label": "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100065761"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-01-19",
+  "posted": "2022-01-19",
+  "publish_timestamp_ms": 1642576906561,
+  "version_id": "c2516121-357b-4dc7-b7d6-a83caef4e601",
+  "in_force": "2022-01-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%91%CE%A67%CE%A9%CE%A15-10%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%91%CE%A67%CE%A9%CE%A15-10%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%91%CE%A67%CE%A9%CE%A15-10%CE%A4",
+  "listing_sha256": "a14a2f27c3630264326a203459f3eb569345b3a1eaf40fcb08e594e26fddd0f6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
