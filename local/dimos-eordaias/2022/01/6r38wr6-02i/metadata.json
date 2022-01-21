@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ρ38ΩΡ6-02Ι",
+  "subject": "Έγκριση μετακίνησης του Δημάρχου & του Αντιδημάρχου Τεχνικών Υπηρεσιών στην Αθήνα.",
+  "protocol_number": "9-2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6092",
+    "label": "ΔΗΜΟΣ ΕΟΡΔΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85350"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-01-21",
+  "posted": "2022-01-21",
+  "publish_timestamp_ms": 1642767317226,
+  "version_id": "eaf4d18b-8f7d-4d8c-a45c-62e882fe64e3",
+  "in_force": "2022-01-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A138%CE%A9%CE%A16-02%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A138%CE%A9%CE%A16-02%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A138%CE%A9%CE%A16-02%CE%99",
+  "listing_sha256": "38b935e41a1c9ab7b7869a9ee63f0829b4f8d5e1902f8d647ee386a1006fe593",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
