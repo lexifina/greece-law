@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΧΓΧΗ-Ψ5Λ",
+  "subject": "«Έκδοση Εντόκων Γραμματίων του Ελληνικού Δημοσίου διάρκειας 26\nεβδομάδων στις 27/1/2022, σύμφωνα με τις διατάξεις της υποπαραγράφου \nΓ.4 του άρθρου πρώτου του ν. 4254/2014»",
+  "protocol_number": "113",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "163",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "113",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-01-20",
+  "posted": "2022-01-24",
+  "publish_timestamp_ms": 1643025216406,
+  "version_id": "78f7469e-f0a2-4a3a-80ab-74a1245a6e02",
+  "in_force": "2022-01-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%93%CE%A7%CE%97-%CE%A85%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%93%CE%A7%CE%97-%CE%A85%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A7%CE%93%CE%A7%CE%97-%CE%A85%CE%9B",
+  "listing_sha256": "cbab58268d7890adaaab548f2d95c9a45abbbfc6d7672e2590d896c51d5af61d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
