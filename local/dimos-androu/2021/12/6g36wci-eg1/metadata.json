@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Γ36ΩΨΙ-ΕΓ1",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΜΕΤΑΚΙΝΗΣΕΙΣ ΥΠΑΛΛΗΛΩΝ 2022.",
+  "protocol_number": "379/2021",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6037",
+    "label": "ΔΗΜΟΣ ΑΝΔΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100019798"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "6587",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "379",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-01",
+  "posted": "2022-01-27",
+  "publish_timestamp_ms": 1643281582269,
+  "version_id": "f7c25260-4e53-4008-86b7-835544b4e4da",
+  "in_force": "2022-01-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9336%CE%A9%CE%A8%CE%99-%CE%95%CE%931",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9336%CE%A9%CE%A8%CE%99-%CE%95%CE%931/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9336%CE%A9%CE%A8%CE%99-%CE%95%CE%931",
+  "listing_sha256": "709baf3f9d6b86b3fea206122d2f9588fecd584a2c9d10ed31bd9eda397a088f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
