@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚ3ΣΩΚΑ-1ΨΛ",
+  "subject": "ΑΠΟΦΑΣΗ ΠΡΟΕΓΚΡΙΣΗΣ ΥΠΕΡΩΡΙΩΝ ΦΕΒΡΟΥΑΡΙΟΣ  2022",
+  "protocol_number": "445",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6215",
+    "label": "ΔΗΜΟΣ ΝΙΚΑΙΑΣ - ΑΓΙΟΥ Ι. ΡΕΝΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93103"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-01-27",
+  "posted": "2022-01-27",
+  "publish_timestamp_ms": 1643268567477,
+  "version_id": "c72d5bf3-2c7a-4052-88ae-5c9740b4d35d",
+  "in_force": "2022-01-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A3%CE%A3%CE%A9%CE%9A%CE%91-1%CE%A8%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A3%CE%A3%CE%A9%CE%9A%CE%91-1%CE%A8%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A3%CE%A3%CE%A9%CE%9A%CE%91-1%CE%A8%CE%9B",
+  "listing_sha256": "da98ff21295c70509a56d044479a4f748bc5d0237e67349f554eb35292ea9941",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
