@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΤ4ΔΟΡ1Γ-ΒΩ9",
+  "subject": "ΑΝΩΤΑΤΟ ΟΡΙΟ ΜΕΤΑΚΙΝΗΣΕΩΝ ΔΗΜΟΣ ΚΟΖΑΝΗΣ",
+  "protocol_number": "171208",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76743"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "6663",
+      "issue": "fektype_B",
+      "issueyear": 2021
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "171208",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2021-12-24",
+  "posted": "2022-01-28",
+  "publish_timestamp_ms": 1643350464259,
+  "version_id": "bdd517df-b890-45ab-8dcc-eac6a99d2245",
+  "in_force": "2022-01-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A44%CE%94%CE%9F%CE%A11%CE%93-%CE%92%CE%A99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A44%CE%94%CE%9F%CE%A11%CE%93-%CE%92%CE%A99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A44%CE%94%CE%9F%CE%A11%CE%93-%CE%92%CE%A99",
+  "listing_sha256": "5009a6653b882313b58d1dc09e8596dfd1a929c059a09232e3dddf65a13666af",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
