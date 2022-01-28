@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΣΓΔΩΨΖ-591",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ 45/2022 ΑΝΤΙΛΟΓΙΣΜΩΝ",
+  "protocol_number": "786",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6051",
+    "label": "ΔΗΜΟΣ ΒΑΡΗΣ - ΒΟΥΛΑΣ - ΒΟΥΛΙΑΓΜΕΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82606"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-01-10",
+  "posted": "2022-01-28",
+  "publish_timestamp_ms": 1643354994688,
+  "version_id": "f1f99fdf-05b6-4fa9-a3a0-9bbbb2281e6f",
+  "in_force": "2022-01-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A3%CE%93%CE%94%CE%A9%CE%A8%CE%96-591",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A3%CE%93%CE%94%CE%A9%CE%A8%CE%96-591/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A3%CE%93%CE%94%CE%A9%CE%A8%CE%96-591",
+  "listing_sha256": "edcf8bd9a8a3c7e60783e43ab8548e91970932b8e8fdcd53a115c14deb0a1fa5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
