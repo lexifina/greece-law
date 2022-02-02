@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΣΠΤΩ1Ο-ΗΨ2",
+  "subject": "Εισήγηση - Γνωμοδότηση για άσκηση ή μη αίτηση ακύρωσης κατά απόφασης 44/2021 της επιτροπής του άρθρου 152 ν. 3463/2006.»",
+  "protocol_number": "Απόφαση 10",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6257",
+    "label": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80518"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-02-02",
+  "posted": "2022-02-02",
+  "publish_timestamp_ms": 1643788923437,
+  "version_id": "404fbab3-8eb6-4f81-af19-e06ed4761ee3",
+  "in_force": "2022-02-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%A0%CE%A4%CE%A91%CE%9F-%CE%97%CE%A82",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%A0%CE%A4%CE%A91%CE%9F-%CE%97%CE%A82/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A3%CE%A0%CE%A4%CE%A91%CE%9F-%CE%97%CE%A82",
+  "listing_sha256": "6ff2bb5197c5a9a4e0ce1442dfc12c7a4253006cac73ca104dbfb40776169c0c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
