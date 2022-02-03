@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΕΣΗΩ1Υ-4Γ5",
+  "subject": "Ανάκληση της με αριθμ. 111/2020 απόφασης του Δημοτικού Συμβουλίου",
+  "protocol_number": "227",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6277",
+    "label": "ΔΗΜΟΣ ΣΙΝΤΙΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84189"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-02-03",
+  "posted": "2022-02-03",
+  "publish_timestamp_ms": 1643885998323,
+  "version_id": "aa94ac3d-eb12-4b4a-bb88-3077320c55fb",
+  "in_force": "2022-02-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%A3%CE%97%CE%A91%CE%A5-4%CE%935",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%A3%CE%97%CE%A91%CE%A5-4%CE%935/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%95%CE%A3%CE%97%CE%A91%CE%A5-4%CE%935",
+  "listing_sha256": "b3a51846159c561e28820e92ce0ae3e2f4a0a37b5ba32050b3f1e978cafe2a3c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
