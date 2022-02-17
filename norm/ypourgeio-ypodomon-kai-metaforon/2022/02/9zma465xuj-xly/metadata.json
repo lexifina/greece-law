@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΖΜΑ465ΧΘΞ-ΧΛΥ",
+  "subject": "Καθορισμός ωραρίου εργασίας για το έτος 2022 σε εικοσιτετράωρη βάση (καθημερινές, Σάββατα, Κυριακές και αργίες) του πάσης φύσεως προσωπικού το οποίο υπηρετεί στη Γενική Δ/νση Αποκατάστασης Επιπτώσεων Φυσικών Καταστροφών, στις Δ/νσεις Αποκατάστασης Επιπτώσεων Φυσικών Καταστροφών Κεντρικής, Δυτικής και Βόρειας Ελλάδος (ΔΑΕΦΚ Κ.Ε. – Δ26 , ΔΑΕΦΚ Δ.Ε.-Δ27 και ΔΑΕΦΚ Β.Ε.-Δ28) και στους Τομείς Αποκατάστασης Επιπτώσεων Φυσικών Καταστροφών Ανατολικής και Δυτικής Αττικής, Χαλκιδικής και Χανίων (ΤΑΕΦΚ Α.Α., ΤΑΕΦΚ Δ.Α., ΤΑΕΦΚ Χαλκιδικής και Χανίων) του Υπουργείου Υποδομών και Μεταφορών, καθώς και του προσωπικού που διατίθεται ή ασκεί παράλληλα καθήκοντα στις ανωτέρω υπηρεσίες, για την καταγραφή και την αποκατάσταση των ζημιών που προκλήθηκαν στις πληγείσες περιοχές το έτος 2021 (σεισμός στη Θεσσαλία, πυρκαγιά στα Γεράνεια Όρη, πυρκαγιές Αυγούστου σε περιοχές Αττικής, Αχαΐας, Εύβοιας, Φωκίδας, Φθιώτιδας, Αρκαδίας, Λακωνίας, Μεσσηνίας και σεισμοί στη Κρήτη) πρόσθετα με τις καταστροφές που προκλήθηκαν εντός του έτους 2020 (σεισμός στη Σάμο, Χίο και Ικαρία, πλημμύρες Αυγούστου και Σεπτεμβρίου, κυκλώνας «ΙΑΝΟΣ»).",
+  "protocol_number": "36776",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70356"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "709",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-02-17",
+  "posted": "2022-02-17",
+  "publish_timestamp_ms": 1645100174093,
+  "version_id": "27088602-85fe-4d1d-9b97-885c604be536",
+  "in_force": "2022-02-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%96%CE%9C%CE%91465%CE%A7%CE%98%CE%9E-%CE%A7%CE%9B%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%96%CE%9C%CE%91465%CE%A7%CE%98%CE%9E-%CE%A7%CE%9B%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%96%CE%9C%CE%91465%CE%A7%CE%98%CE%9E-%CE%A7%CE%9B%CE%A5",
+  "listing_sha256": "13a7f10f6d4408498e1c269675527f25672dfd5b6212ea8978e9a3e2163ca1f7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
