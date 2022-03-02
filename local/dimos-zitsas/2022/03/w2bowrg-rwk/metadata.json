@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω2ΒΟΩΡΓ-ΡΩΚ",
+  "subject": "Γνωμοδότηση επί του περιεχομένου της Μ.Π.Ε. του έργου (κατηγορίας Α2, ομάδα 10η) «Φωτοβολταϊκός Σταθμός, παραγωγής ηλεκτρικής ενέργειας (ΦΒΣΠΗΕ), εγκατεστημένης και μέγιστης παραγωγής ισχύος 49,99 MW, στη θέση «Κληματιά και Κατσούλι - Τσούκα» Δ.Ε. Ευρυμενών, Δ.Ε. Ζίτσας του Δήμου Ζίτσας, Π.Ε. Ιωαννίνων, Περιφέρειας Ηπείρου».",
+  "protocol_number": "27.2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6103",
+    "label": "ΔΗΜΟΣ ΖΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81886"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-02",
+  "posted": "2022-03-02",
+  "publish_timestamp_ms": 1646221316136,
+  "version_id": "be403b89-5630-4c09-b1b3-447b0beafca7",
+  "in_force": "2022-03-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%92%CE%9F%CE%A9%CE%A1%CE%93-%CE%A1%CE%A9%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%92%CE%9F%CE%A9%CE%A1%CE%93-%CE%A1%CE%A9%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A92%CE%92%CE%9F%CE%A9%CE%A1%CE%93-%CE%A1%CE%A9%CE%9A",
+  "listing_sha256": "c4c98b5e84cf9b8accdd01a722a763eb64213056e204271ee62913d1079a35ca",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
