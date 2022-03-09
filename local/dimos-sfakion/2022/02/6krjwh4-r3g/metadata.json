@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΚΡΞΩΗ4-Ρ3Γ",
+  "subject": "Παράταση χρόνου προμήθειας απορριμματοφόρου οχήματος",
+  "protocol_number": "292",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6292",
+    "label": "ΔΗΜΟΣ ΣΦΑΚΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83897"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-02-23",
+  "posted": "2022-03-09",
+  "publish_timestamp_ms": 1646825531457,
+  "version_id": "04255e57-3451-4c93-838b-1d8f1cdb7601",
+  "in_force": "2022-03-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%A1%CE%9E%CE%A9%CE%974-%CE%A13%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%A1%CE%9E%CE%A9%CE%974-%CE%A13%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9A%CE%A1%CE%9E%CE%A9%CE%974-%CE%A13%CE%93",
+  "listing_sha256": "9345a8bd219aba0a7918a562907cbae2904ec3ee6af3eec1994c0c3eb913c22c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
