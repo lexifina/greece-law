@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΑΤΣΩ1Μ-9Γ6",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΓΙΑ ΤΑ ΣΧΟΛΕΙΑ",
+  "protocol_number": "2236",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6285",
+    "label": "ΔΗΜΟΣ ΣΟΦΑΔΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87644"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-09",
+  "posted": "2022-03-09",
+  "publish_timestamp_ms": 1646812413848,
+  "version_id": "970eb37b-68c6-4e1d-9d96-d8a4ce5d88d3",
+  "in_force": "2022-03-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%91%CE%A4%CE%A3%CE%A91%CE%9C-9%CE%936",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%91%CE%A4%CE%A3%CE%A91%CE%9C-9%CE%936/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%91%CE%A4%CE%A3%CE%A91%CE%9C-9%CE%936",
+  "listing_sha256": "92ea34a19887aae7109b91425b462f91c6300f36b5358c6fffc3471e34ea0f7c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
