@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΩΓ3Ω6Γ-ΤΥΥ",
+  "subject": "ΑΠΟΦΑΣΗ ΜΕΤΑΚΙΝΗΣΗΣ ΣΕ ΑΘΗΝΑ",
+  "protocol_number": "2932",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6001",
+    "label": "ΔΗΜΟΣ ΑΒΔΗΡΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80597"
+  ],
+  "thematic_category_ids": [
+    "66"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "249/2022",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-11",
+  "posted": "2022-03-11",
+  "publish_timestamp_ms": 1646989105137,
+  "version_id": "839cab09-17e3-4300-b333-b5b9377dfd22",
+  "in_force": "2022-03-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%933%CE%A96%CE%93-%CE%A4%CE%A5%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%933%CE%A96%CE%93-%CE%A4%CE%A5%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A9%CE%933%CE%A96%CE%93-%CE%A4%CE%A5%CE%A5",
+  "listing_sha256": "c2fc0d2a8e8cf0a6e049976c34f0ce8ae67db1b27ca9d0c6b2b2e4be3c751c9a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
