@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΚΖ94653ΠΓ-ΛΒΙ",
+  "subject": "Σύσταση Ταμείου Χαρτοφυλακίου με την επωνυμία «ΤΑΜΕΙΟ ΜΙΚΡΩΝ ΔΑΝΕΙΩΝ ΑΓΡΟΤΙΚΗΣ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑΣ».",
+  "protocol_number": "455",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100024525"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1075",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "455",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100047807"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-03-02",
+  "posted": "2022-03-11",
+  "publish_timestamp_ms": 1646990274200,
+  "version_id": "05081945-bca1-45f4-807f-b23321047f98",
+  "in_force": "2022-03-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%9694653%CE%A0%CE%93-%CE%9B%CE%92%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9A%CE%9694653%CE%A0%CE%93-%CE%9B%CE%92%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9A%CE%9694653%CE%A0%CE%93-%CE%9B%CE%92%CE%99",
+  "listing_sha256": "bc600df688cbd29bf843254cb7c5d8b6011e444afc5f7170a76437ed1b875a55",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
