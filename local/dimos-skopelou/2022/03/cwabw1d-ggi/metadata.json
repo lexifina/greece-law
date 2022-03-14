@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΩΑΒΩ1Δ-ΓΓΙ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΧΡΟΥ  ΑΝΑΣΤΟΛΗΣ ΛΕΙΤΟΥΡΓΙΑΣ ΟΛΩΝ ΤΩΝ ΣΧΟΛΙΚΩΝ ΜΟΝΑΔΩΝ Α/ΘΜΙΑΣ ΚΑΙ Β/ΘΜΙΑΣ ΕΚΑΠΙΔΕΥΣΗΣ ΤΟΥ ΔΗΜΟΥ ΣΚΟΠΕΛΟΥ ΓΙΑ ΤΗΝ ΔΕΥΤΕΡΑ 14/03/2022",
+  "protocol_number": "1411",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6280",
+    "label": "ΔΗΜΟΣ ΣΚΟΠΕΛΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "87361"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-14",
+  "posted": "2022-03-14",
+  "publish_timestamp_ms": 1647243289751,
+  "version_id": "968da6cd-af30-4783-a7ab-702124c15dd2",
+  "in_force": "2022-03-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%91%CE%92%CE%A91%CE%94-%CE%93%CE%93%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A9%CE%91%CE%92%CE%A91%CE%94-%CE%93%CE%93%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A9%CE%91%CE%92%CE%A91%CE%94-%CE%93%CE%93%CE%99",
+  "listing_sha256": "044e5386068b0e0b1d4ab87431d4921c659e99e4a29db9fb9768f8c06e82c7fe",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
