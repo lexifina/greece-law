@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΘΦΖΩΞΩ-Θ6Ζ",
+  "subject": "ΔΙΑΚΟΠΗ ΜΑΘΗΜΑΤΩΝ ΛΟΓΩ ΧΙΟΝΟΠΤΩΣΗΣ",
+  "protocol_number": "852",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6227",
+    "label": "ΔΗΜΟΣ ΟΡΟΠΕΔΙΟΥ ΛΑΣΙΘΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85363"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-14",
+  "posted": "2022-03-14",
+  "publish_timestamp_ms": 1647265964241,
+  "version_id": "c5b7bb0a-2876-40fb-9510-1391568a1683",
+  "in_force": "2022-03-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%98%CE%A6%CE%96%CE%A9%CE%9E%CE%A9-%CE%986%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%98%CE%A6%CE%96%CE%A9%CE%9E%CE%A9-%CE%986%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%98%CE%A6%CE%96%CE%A9%CE%9E%CE%A9-%CE%986%CE%96",
+  "listing_sha256": "d6a99f5bfce036585d0a3105066151ae06c343efddd140981af5bcc6378cb149",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
