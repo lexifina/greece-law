@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΗΨΕΩ94-ΓΡΘ",
+  "subject": "Έγκριση Έκδοσης Εντάλματος προπληρωμής για την αντιμετώπιση δαπάνης καταβολής εισφοράς ταξινόμησης και τέλους χορήγησης άδειας κυκλοφορίας ημιφορτηγού 4Χ4 Υπηρεσίας Ύδρευσης, Άρδευσης και Αποχέτευσης",
+  "protocol_number": "1355",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6054",
+    "label": "ΔΗΜΟΣ ΒΙΑΝΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81442"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-15",
+  "posted": "2022-03-15",
+  "publish_timestamp_ms": 1647342280542,
+  "version_id": "86130a18-eeac-4276-9f31-2351d3ecae99",
+  "in_force": "2022-03-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%97%CE%A8%CE%95%CE%A994-%CE%93%CE%A1%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%97%CE%A8%CE%95%CE%A994-%CE%93%CE%A1%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%97%CE%A8%CE%95%CE%A994-%CE%93%CE%A1%CE%98",
+  "listing_sha256": "5fba8b8c23891f923c7c8cf8b8684448c8de212936584c85167ddb6a4b0406ca",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
