@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΣΩ3Ω1Ο-Ω4Ν",
+  "subject": "«Άσκηση αίτησης ακύρωσης, αναστολής, προσωρινής διαταγής κατά της με αριθ. 46/2021 απόφασης της 11ης/23.12.2021 συνεδρίασης της 1ης Ειδικής Επιτροπής του άρθρου 152 του Ν. 3463/2006 της Αποκεντρωμένης Διοίκησης Μακεδονίας-Θράκης κατά της με αριθ. πρωτ. 130/24.11.2021 προσφυγής του Δήμου Πυλαίας-Χορτιάτη»",
+  "protocol_number": "Απόφαση 79",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6257",
+    "label": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80518"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-15",
+  "posted": "2022-03-15",
+  "publish_timestamp_ms": 1647342016887,
+  "version_id": "2cecb3d6-1aff-402a-9f06-d7abf14241f3",
+  "in_force": "2022-03-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A3%CE%A93%CE%A91%CE%9F-%CE%A94%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A3%CE%A93%CE%A91%CE%9F-%CE%A94%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A3%CE%A93%CE%A91%CE%9F-%CE%A94%CE%9D",
+  "listing_sha256": "5fba8b8c23891f923c7c8cf8b8684448c8de212936584c85167ddb6a4b0406ca",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
