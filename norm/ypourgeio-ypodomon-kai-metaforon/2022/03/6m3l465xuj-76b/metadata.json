@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Μ3Λ465ΧΘΞ-76Β",
+  "subject": "Εφοδιασμός των οχημάτων με αντιολισθητικές αλυσίδες ή άλλα ανάλογα αντιολισθητικά μέσα.",
+  "protocol_number": "Δ30/Δ5α/73567/11-03-2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100007425"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1144",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "2",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-15",
+  "posted": "2022-03-15",
+  "publish_timestamp_ms": 1647332654782,
+  "version_id": "75d6b028-52dd-4645-b752-a79bfa57d55d",
+  "in_force": "2022-03-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C3%CE%9B465%CE%A7%CE%98%CE%9E-76%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9C3%CE%9B465%CE%A7%CE%98%CE%9E-76%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9C3%CE%9B465%CE%A7%CE%98%CE%9E-76%CE%92",
+  "listing_sha256": "5fba8b8c23891f923c7c8cf8b8684448c8de212936584c85167ddb6a4b0406ca",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
