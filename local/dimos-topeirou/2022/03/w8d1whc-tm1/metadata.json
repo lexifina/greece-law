@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω8Δ1ΩΗΨ-ΤΜ1",
+  "subject": "2η Αναμόρφωση Προϋπολογισμού οικ. έτους 2022",
+  "protocol_number": "1285",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6297",
+    "label": "ΔΗΜΟΣ ΤΟΠΕΙΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78501"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "9/2022",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-14",
+  "posted": "2022-03-16",
+  "publish_timestamp_ms": 1647433436022,
+  "version_id": "ca0901dc-c399-4e1d-b892-7e855d6c5a52",
+  "in_force": "2022-03-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%941%CE%A9%CE%97%CE%A8-%CE%A4%CE%9C1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A98%CE%941%CE%A9%CE%97%CE%A8-%CE%A4%CE%9C1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A98%CE%941%CE%A9%CE%97%CE%A8-%CE%A4%CE%9C1",
+  "listing_sha256": "d6a99f5bfce036585d0a3105066151ae06c343efddd140981af5bcc6378cb149",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
