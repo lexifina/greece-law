@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "65Ο4ΟΡ1Φ-ΣΦΝ",
+  "subject": "ΕΝ ΜΕΡΕΙ ΑΝΑΚΛΗΣΗ ΑΝΑΔΑΣΩΤΕΑΣ ΑΠΟΦΑΣΗΣ ΕΠΕΙΔΗ ΣΤΟ ΔΑΣΙΚΟ ΧΑΡΤΗ ΕΜΦΑΝΙΖΕΤΑΙ ΩΣ ΜΗ ΔΑΣΙΚΟΥ ΧΑΡΑΚΤΗΡΑ ΑΑ ΚΑΙ ΠΑ",
+  "protocol_number": "21974",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76449"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "121",
+      "issue": "fektype_D",
+      "issueyear": 2022
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-18",
+  "posted": "2022-03-18",
+  "publish_timestamp_ms": 1647589823721,
+  "version_id": "f524ed2d-7eee-4eb3-9674-d7e2a8cbfe4f",
+  "in_force": "2022-03-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/65%CE%9F4%CE%9F%CE%A11%CE%A6-%CE%A3%CE%A6%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/65%CE%9F4%CE%9F%CE%A11%CE%A6-%CE%A3%CE%A6%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/65%CE%9F4%CE%9F%CE%A11%CE%A6-%CE%A3%CE%A6%CE%9D",
+  "listing_sha256": "1869eb5bbfa92bec190243bb59d86c7647dffd7431983fdeac141ae5653033e9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
