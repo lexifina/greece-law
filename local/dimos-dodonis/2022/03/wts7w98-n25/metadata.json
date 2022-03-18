@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΤΣ7Ω98-Ν25",
+  "subject": "ΑΠΟΦΑΣΗ ΔΗΜΑΡΧΟΥ ΜΕ ΘΕΜΑ: Διαχείριση ανεπιτήρητων παραγωγικών ζώων",
+  "protocol_number": "35.2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6084",
+    "label": "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82459"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "28"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-17",
+  "posted": "2022-03-18",
+  "publish_timestamp_ms": 1647584433326,
+  "version_id": "f494de83-8339-4a25-8538-7e10ea8eef1f",
+  "in_force": "2022-03-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A37%CE%A998-%CE%9D25",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A4%CE%A37%CE%A998-%CE%9D25/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A4%CE%A37%CE%A998-%CE%9D25",
+  "listing_sha256": "64ed36548000a9e86e9f338e9b6c9ea814f92ab019e52a1f3c2feeaf5ca7bba2",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
