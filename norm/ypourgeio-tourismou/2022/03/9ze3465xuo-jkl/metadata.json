@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΖΕ3465ΧΘΟ-ΞΚΛ",
+  "subject": "Τροποποίηση της υπ’ αρ. 6632/16.04.2021 κοινής υπουργικής απόφασης με τίτλο «Αντικατάσταση της υπ’ αρ. 1881/29.05.2020 κοινής υπουργικής απόφασης με τίτλο «Ειδικά πρωτόκολλα υγειονομικού περιεχομένου βάσει των οποίων λειτουργούν οι τουριστικές επιχειρήσεις στο πλαίσιο της λήψης μέτρων έναντι του κορωνοϊού COVID-19» (Β’ 1632) και τη διόρθωση σφάλματος που δημοσιεύθηκε στο τ.Β’ 1996/2021.",
+  "protocol_number": "4634",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025893",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΤΟΥΡΙΣΜΟΥ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035533"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1223",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "100010899",
+        "unitId": [
+          "100001270"
+        ],
+        "signerIds": [
+          "100068197"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-03-18",
+  "posted": "2022-03-18",
+  "publish_timestamp_ms": 1647604503101,
+  "version_id": "215ebbb3-0e61-44c8-8232-5220b235b7d3",
+  "in_force": "2022-03-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%96%CE%953465%CE%A7%CE%98%CE%9F-%CE%9E%CE%9A%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%96%CE%953465%CE%A7%CE%98%CE%9F-%CE%9E%CE%9A%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%96%CE%953465%CE%A7%CE%98%CE%9F-%CE%9E%CE%9A%CE%9B",
+  "listing_sha256": "c9db1873d894c4384916f5da253743a51bfbca036930d41102de5a3c88a4dcb4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
