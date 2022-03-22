@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΕΦΝΗ-ΣΗΧ",
+  "subject": "Παροχή της εγγύησης του Ελληνικού Δημοσίου προς τα χρηματοπιστωτικά ιδρύματα, μέγιστου ποσού έως 21.913.680 ευρώ, για τη χορήγηση δανείων σε φυσικά πρόσωπα, τα οποία δεν ασκούν οικονομική δραστηριότητα, προς αποκατάσταση κτιριακών ζημιών που προκλήθηκαν από φυσικές καταστροφές.",
+  "protocol_number": "Οικ. 2/86599/0025/15.03.2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100061097"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1257",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "2/86599/",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-22",
+  "posted": "2022-03-22",
+  "publish_timestamp_ms": 1647942428407,
+  "version_id": "a876a532-f4c8-4fa5-a34d-0a11087aad36",
+  "in_force": "2022-03-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%A6%CE%9D%CE%97-%CE%A3%CE%97%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%95%CE%A6%CE%9D%CE%97-%CE%A3%CE%97%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%95%CE%A6%CE%9D%CE%97-%CE%A3%CE%97%CE%A7",
+  "listing_sha256": "ed80e0e3df6fe0f795836264b3b5e47732f32d8d1e281bb9cba81dbb5f9ed109",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
