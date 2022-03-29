@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ5ΒΦΩ1Ε-ΤΗΠ",
+  "subject": "ΑΠΟΦΑΣΗ 27/2022  ΔΗΜΟΤΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ  ΔΗΜΟΥ ΣΑΛΑΜΙΝΑΣ",
+  "protocol_number": "27",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6266",
+    "label": "ΔΗΜΟΣ ΣΑΛΑΜΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82438"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-29",
+  "posted": "2022-03-29",
+  "publish_timestamp_ms": 1648536605385,
+  "version_id": "49651cc1-8b9d-43fd-a9ec-379d14d5a69c",
+  "in_force": "2022-03-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A85%CE%92%CE%A6%CE%A91%CE%95-%CE%A4%CE%97%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A85%CE%92%CE%A6%CE%A91%CE%95-%CE%A4%CE%97%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A85%CE%92%CE%A6%CE%A91%CE%95-%CE%A4%CE%97%CE%A0",
+  "listing_sha256": "9880fe8af922c8625c4fa4c270c95968cf6dcea374f325a8e1aa80780f868aca",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
