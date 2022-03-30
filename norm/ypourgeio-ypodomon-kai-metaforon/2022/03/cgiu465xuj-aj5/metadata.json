@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΓΙΘ465ΧΘΞ-ΑΞ5",
+  "subject": "Προθεσμία υποβολής αιτήσεων καθορισμού δικαιούχων Στεγαστικής Συνδρομής (Σ.Σ.) για την αποκατάσταση κτηρίων που επλήγησαν από τις πλημμύρες του Φεβρουαρίου 2019 σε περιοχές των Περιφερειακών Ενοτήτων Ρεθύμνου και Χανίων της Περιφέρειας Κρήτης.",
+  "protocol_number": "88537/ΔΑΕΦΚ-ΚΕ  /Α321",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1424",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Πράξη Υπουργού, Αναπληρωτή Υπουργού, Υφυπουργού ",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Β2Γ465ΧΘΞ-Ξ1Α"
+      },
+      {
+        "relatedDecisionsADA": "6Ω3Υ465ΧΘΞ-Κ5Ω"
+      },
+      {
+        "relatedDecisionsADA": "Ψ3ΛΠ465ΧΘΞ-ΞΤΛ"
+      }
+    ]
+  },
+  "issued": "2022-03-23",
+  "posted": "2022-03-30",
+  "publish_timestamp_ms": 1648634304537,
+  "version_id": "e10bbd79-48b2-42f2-b2a8-703761625558",
+  "in_force": "2022-03-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%99%CE%98465%CE%A7%CE%98%CE%9E-%CE%91%CE%9E5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%99%CE%98465%CE%A7%CE%98%CE%9E-%CE%91%CE%9E5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%93%CE%99%CE%98465%CE%A7%CE%98%CE%9E-%CE%91%CE%9E5",
+  "listing_sha256": "4901fcbf6e6a9e6d94436199f8acc2f1d4bf2bd1e46e0c5add5f223a33dfc685",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
