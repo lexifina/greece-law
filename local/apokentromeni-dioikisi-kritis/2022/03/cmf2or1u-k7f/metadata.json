@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΜΦ2ΟΡ1Θ-Κ7Φ",
+  "subject": "αρση αποφασης αναδασωτεας εκτασης στους ανυδρους χανιων",
+  "protocol_number": "1728",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76916"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "165",
+      "issue": "fektype_D",
+      "issueyear": 2022
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-01",
+  "posted": "2022-03-30",
+  "publish_timestamp_ms": 1648623457576,
+  "version_id": "ac683704-2503-4f3e-9052-b4ff79660cec",
+  "in_force": "2022-03-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9C%CE%A62%CE%9F%CE%A11%CE%98-%CE%9A7%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9C%CE%A62%CE%9F%CE%A11%CE%98-%CE%9A7%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9C%CE%A62%CE%9F%CE%A11%CE%98-%CE%9A7%CE%A6",
+  "listing_sha256": "67f277f09e8f57061165896e76564179a63400e85185c342bc4c81e82f9a8ced",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
