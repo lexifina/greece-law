@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΥΧΣΟΡ1Θ-1Μ3",
+  "subject": "Έγκριση της με αρ. 249/2021 (σε ορθή επανάληψη) Απόφασης Δημοτικού Συμβουλίου Δήμου Ηρακλείου, που αφορά σε κυκλοφοριακές ρυθμίσεις γύρω από το 35ο Δημοτικό Σχολείο Ηρακλείου της οδού Δαμασκηνού, εντός σχεδίου πόλεως Ηρακλείου Π.Ε. Ηρακλείου.",
+  "protocol_number": "4718ΠΕ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50204",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76908"
+  ],
+  "thematic_category_ids": [
+    "48",
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1488",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "4718ΠΕ",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-09",
+  "posted": "2022-03-31",
+  "publish_timestamp_ms": 1648727784486,
+  "version_id": "f7cccd78-47b6-425f-bd85-dd29a0a684f2",
+  "in_force": "2022-03-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%A7%CE%A3%CE%9F%CE%A11%CE%98-1%CE%9C3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A5%CE%A7%CE%A3%CE%9F%CE%A11%CE%98-1%CE%9C3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A5%CE%A7%CE%A3%CE%9F%CE%A11%CE%98-1%CE%9C3",
+  "listing_sha256": "1e42baa171376cb3fecdfbd5e45cd195fed44a0b0001e82d78f611a358228bf6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
