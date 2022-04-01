@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "66ΣΡ465ΦΥΟ-Ω0Ε",
+  "subject": "Οργάνωση και λειτουργία της Κατασκήνωσης των Υπαλλήλων του Υπουργείου Υγείας.",
+  "protocol_number": "A1α/οικ.17689",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047532"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1531",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "Α1α/ο17689",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-18",
+  "posted": "2022-04-01",
+  "publish_timestamp_ms": 1648811150695,
+  "version_id": "7238ddf5-beb4-470f-8a53-48770268b133",
+  "in_force": "2022-04-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/66%CE%A3%CE%A1465%CE%A6%CE%A5%CE%9F-%CE%A90%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/66%CE%A3%CE%A1465%CE%A6%CE%A5%CE%9F-%CE%A90%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/66%CE%A3%CE%A1465%CE%A6%CE%A5%CE%9F-%CE%A90%CE%95",
+  "listing_sha256": "c9db1873d894c4384916f5da253743a51bfbca036930d41102de5a3c88a4dcb4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
