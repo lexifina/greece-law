@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΛ7ΕΗ-ΗΜ2",
+  "subject": "«Καθορισμός επιτοκίου εντόκων γραμματίων διάρκειας 26 εβδομάδων με \nημερομηνία δημοπρασίας την 30/3/2022»",
+  "protocol_number": "164",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1535",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "164",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-30",
+  "posted": "2022-04-01",
+  "publish_timestamp_ms": 1648805871952,
+  "version_id": "ad508506-f72e-4393-a2d6-a5382a26243d",
+  "in_force": "2022-04-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B7%CE%95%CE%97-%CE%97%CE%9C2",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B7%CE%95%CE%97-%CE%97%CE%9C2/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9B7%CE%95%CE%97-%CE%97%CE%9C2",
+  "listing_sha256": "12fdf42634dcef15033aaa5db3a82cd71bae4110dd99d8b6ea60ae61e838cc24",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
