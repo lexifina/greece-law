@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9Σ62Ω9Β-2ΕΩ",
+  "subject": ": Μετακίνηση και τοποθ'ετηση υπαλλήλου του Δήμου Βισαλτίας",
+  "protocol_number": "2106/91/11.03.2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6055",
+    "label": "ΔΗΜΟΣ ΒΙΣΑΛΤΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "92620"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-04-01",
+  "posted": "2022-04-01",
+  "publish_timestamp_ms": 1648810889034,
+  "version_id": "5a3bf403-5f32-4846-9ee2-41386725ce38",
+  "in_force": "2022-04-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%A362%CE%A99%CE%92-2%CE%95%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%A362%CE%A99%CE%92-2%CE%95%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%A362%CE%A99%CE%92-2%CE%95%CE%A9",
+  "listing_sha256": "005dc454e7e8931bacb55aac6008b82968fa3df97b5827905ca70ebb54b5e562",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
