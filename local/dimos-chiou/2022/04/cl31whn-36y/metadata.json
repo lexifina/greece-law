@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΛ31ΩΗΝ-36Υ",
+  "subject": "Η αριθμ 88/2022 Απόφαση Δημάρχου Χίου",
+  "protocol_number": "25636",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6320",
+    "label": "ΔΗΜΟΣ ΧΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "88851"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-04-01",
+  "posted": "2022-04-01",
+  "publish_timestamp_ms": 1648807737754,
+  "version_id": "f6eb6b80-72d9-410a-86a8-ad3da440c281",
+  "in_force": "2022-04-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B31%CE%A9%CE%97%CE%9D-36%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B31%CE%A9%CE%97%CE%9D-36%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9B31%CE%A9%CE%97%CE%9D-36%CE%A5",
+  "listing_sha256": "f216299938f0b6d20a302cba639523d0a6153b65e6af48f242cc5d63c401395b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
