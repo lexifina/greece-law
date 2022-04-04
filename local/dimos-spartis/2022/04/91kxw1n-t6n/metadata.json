@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "91ΚΧΩ1Ν-Τ6Ν",
+  "subject": "Έγκριση κίνησης οχήματος",
+  "protocol_number": "5318",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6286",
+    "label": "ΔΗΜΟΣ ΣΠΑΡΤΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100033602"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-04-04",
+  "posted": "2022-04-04",
+  "publish_timestamp_ms": 1649060093376,
+  "version_id": "3609de71-51ff-4125-82f0-f55c846c2e1d",
+  "in_force": "2022-04-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/91%CE%9A%CE%A7%CE%A91%CE%9D-%CE%A46%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/91%CE%9A%CE%A7%CE%A91%CE%9D-%CE%A46%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/91%CE%9A%CE%A7%CE%A91%CE%9D-%CE%A46%CE%9D",
+  "listing_sha256": "464d3acff9d4dde09c238209793574f4eaea6cf592177a8b1b2f22e5e43fe7b1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
