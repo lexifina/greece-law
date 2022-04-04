@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΞΩΣΟΡ1Φ-72Τ",
+  "subject": "Έλεγχος νομιμότητας της υπ’αριθμ. 99/2022 απόφασης της Οικονομικής Επιτροπής του Δήμου Ναυπακτίας",
+  "protocol_number": "49450",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50202",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "87649"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΩΠ7ΩΚΓ-ΑΛ7"
+      },
+      {
+        "relatedDecisionsADA": "67ΦΟ46Ψ844-10Ζ"
+      }
+    ]
+  },
+  "issued": "2022-04-01",
+  "posted": "2022-04-04",
+  "publish_timestamp_ms": 1649052450233,
+  "version_id": "ca0540c3-4859-40cd-a1d7-2e5e6d008b9d",
+  "in_force": "2022-04-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E%CE%A9%CE%A3%CE%9F%CE%A11%CE%A6-72%CE%A4",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E%CE%A9%CE%A3%CE%9F%CE%A11%CE%A6-72%CE%A4/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9E%CE%A9%CE%A3%CE%9F%CE%A11%CE%A6-72%CE%A4",
+  "listing_sha256": "005dc454e7e8931bacb55aac6008b82968fa3df97b5827905ca70ebb54b5e562",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
