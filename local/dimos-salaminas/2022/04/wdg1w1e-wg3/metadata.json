@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΓ1Ω1Ε-ΩΓ3",
+  "subject": "ΠΑΡΑΤΑΣΗ ΠΡΟΓΡΑΜΜΑΤΟΣ ΑΠΑΣΧΟΛΗΣΗΣ ΠΡΟΣΩΠΙΚΟΥ ΜΑΚΡΟΧΡΟΝΙΑ ΑΝΕΡΓΩΝ ,ΗΛΙΚΙΑΣ 55-67",
+  "protocol_number": "50/2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6266",
+    "label": "ΔΗΜΟΣ ΣΑΛΑΜΙΝΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82820"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-04-05",
+  "posted": "2022-04-05",
+  "publish_timestamp_ms": 1649143379046,
+  "version_id": "53204d8b-e31d-4229-9caf-96cc468b7d9e",
+  "in_force": "2022-04-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%931%CE%A91%CE%95-%CE%A9%CE%933",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%931%CE%A91%CE%95-%CE%A9%CE%933/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%931%CE%A91%CE%95-%CE%A9%CE%933",
+  "listing_sha256": "4aeeb3bb0ad4c82f497581789797d6454f9c677701c53564ff9dee7c03e11e0f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
