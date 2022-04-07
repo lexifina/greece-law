@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΗΖΣΗ-ΕΗΣ",
+  "subject": "Έγκριση του τεύχους προκήρυξης της υπηρεσίας, «Τήρηση Ηλεκτρονικής Ταυτότητας Κτιρίου στο Ηλεκτρονικό Μητρώο του\nΠαρατηρητηρίου Δομημένου Περιβάλλοντος και έκδοση Πιστοποιητικών Πληρότητας Η.Τ.Κ. βάσει του Ν.4495/2017 όλων των\nακινήτων ιδιοκτησίας Μ.Τ.Π.Υ.».",
+  "protocol_number": "13Γ01",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "73871"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "kanonistikipraxiaa": "13Γ01",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΧΕΤΗ-4ΕΣ"
+      }
+    ]
+  },
+  "issued": "2022-04-07",
+  "posted": "2022-04-07",
+  "publish_timestamp_ms": 1649333301723,
+  "version_id": "8093bbf9-b0c6-44ab-8adc-1a8c3a952a6e",
+  "in_force": "2022-04-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%96%CE%A3%CE%97-%CE%95%CE%97%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%97%CE%96%CE%A3%CE%97-%CE%95%CE%97%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%97%CE%96%CE%A3%CE%97-%CE%95%CE%97%CE%A3",
+  "listing_sha256": "9082091a9613267b7a9370d61911ae4a03237ae8f4e218aeb25eaa3b03332128",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
