@@ -1,0 +1,68 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΜΥΘ465ΧΘΞ-ΧΣΝ",
+  "subject": "Παράταση της επιδότησης ενοικίου ή συγκατοίκησης για την κάλυψη δαπανών στέγασης κατοίκων περιοχών των Περιφερειακών Ενοτήτων Κεφαλληνίας και Ιθάκης που επλήγησαν από το σεισμό της 26ης Ιανουαρίου 2014.",
+  "protocol_number": "97882/ΔΑΕΦΚ-ΚΕ/Α36, Σχ.:  23036",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1687",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "9ΝΩΦ465ΧΘΞ-ΣΤ5"
+      }
+    ],
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-02-10",
+  "posted": "2022-04-08",
+  "publish_timestamp_ms": 1649409889090,
+  "version_id": "7e8b1384-a8b3-4b8a-a045-2a2e65d43df6",
+  "in_force": "2022-04-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9C%CE%A5%CE%98465%CE%A7%CE%98%CE%9E-%CE%A7%CE%A3%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9C%CE%A5%CE%98465%CE%A7%CE%98%CE%9E-%CE%A7%CE%A3%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9C%CE%A5%CE%98465%CE%A7%CE%98%CE%9E-%CE%A7%CE%A3%CE%9D",
+  "listing_sha256": "275ebd9f181e1f6dcc454f8314c6c4c9d7015b3911fc0cdbc249395687932bb4",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
