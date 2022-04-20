@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Δ89Η-65Ε",
+  "subject": "Καθορισμός επιχορήγησης των πληγέντων από τις πυρκαγιές της 27ης Ιουλίου 2021 σε περιοχές της Περιφερειακής Ενότητας Ανατολικής Αττικής και της 3ης Αυγούστου 2021 σε περιοχές των Περιφερειακών Ενοτήτων Βορείου Τομέα Αθηνών και Ανατολικής Αττικής της Περιφέρειας Αττικής",
+  "protocol_number": "52178",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70113"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1957",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-04-15",
+  "posted": "2022-04-20",
+  "publish_timestamp_ms": 1650431580445,
+  "version_id": "dc851bd6-4d8a-4195-b3aa-0b791758a36a",
+  "in_force": "2022-04-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9489%CE%97-65%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9489%CE%97-65%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9489%CE%97-65%CE%95",
+  "listing_sha256": "4278002a2219f6c657642cf8b17942c902f7047fe7a3c27ad56450f09b3b5c33",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
