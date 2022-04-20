@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΡΡΔΜΟΡ1Ι-01Μ",
+  "subject": "Επικύρωση  της νομιμότητας της 200/22 απόφασης  του Δημοτικού Συμβουλίου Χίου, αναφορικά με την: «Τροποποίηση προϋπολογισμού έτους 2022, για την πράξη «Αποκατάσταση κτηρίων Δήμου Χίου».",
+  "protocol_number": "17987",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50203",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76701"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-04-20",
+  "posted": "2022-04-20",
+  "publish_timestamp_ms": 1650455701103,
+  "version_id": "d783b782-83c8-428b-a1f9-3420e16ab6bc",
+  "in_force": "2022-04-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%A1%CE%94%CE%9C%CE%9F%CE%A11%CE%99-01%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%A1%CE%94%CE%9C%CE%9F%CE%A11%CE%99-01%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A1%CE%A1%CE%94%CE%9C%CE%9F%CE%A11%CE%99-01%CE%9C",
+  "listing_sha256": "6507c043d509604a3b4d91b3ae04fbc7f859ef7e57723c9513a24fd5c0363f68",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
