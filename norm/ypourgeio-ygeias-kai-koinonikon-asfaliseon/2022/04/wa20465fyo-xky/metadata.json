@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΑ20465ΦΥΟ-ΧΚΥ",
+  "subject": "Καθορισμός όρων και προϋποθέσεων της υποβολής των δαπανών υγείας (εξαιρουμένων των φαρμάκων) των Στελεχών Λιμενικού Σώματος – Ελληνικής Ακτοφυλακής (Λ.Σ.-ΕΛ.ΑΚΤ.), και των προστατευόμενων μελών των οικογενειών τους, μέσω των πληροφοριακών συστημάτων του Εθνικού Οργανισμού Παροχής Υπηρεσιών Υγείας (Ε.Ο.Π.Υ.Υ.)».",
+  "protocol_number": "ΕΑΛΕ_Γ.Π.7414_2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100036551"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1987",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100028190"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "100015969",
+        "unitId": [
+          "89529"
+        ],
+        "signerIds": [
+          "100047767"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-04-21",
+  "posted": "2022-04-21",
+  "publish_timestamp_ms": 1650521877150,
+  "version_id": "5fb09114-d796-4d79-8384-f109ca424f55",
+  "in_force": "2022-04-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9120465%CE%A6%CE%A5%CE%9F-%CE%A7%CE%9A%CE%A5",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9120465%CE%A6%CE%A5%CE%9F-%CE%A7%CE%9A%CE%A5/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9120465%CE%A6%CE%A5%CE%9F-%CE%A7%CE%9A%CE%A5",
+  "listing_sha256": "efb80da61cfff1325aa2050b71ef0facd9d39aad91eea2a75c5310056fa6af66",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
