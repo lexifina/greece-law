@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ4ΕΑΗ-ΥΗ5",
+  "subject": "Καθορισμός του αριθμού των ωρών υπερωριακής εργασίας κατά τις νυχτερινές ώρες εργάσιμων ημερών, ημερήσιας και νυκτερινής εργασίας κατά τις Κυριακές και λοιπές εξαιρέσιμες ημέρες καθώς και για εργασία πέραν του πενθημέρου των υπαλλήλων της Γενικής Διεύθυνσης Θησαυροφυλακίου και Δημοσιονομικών Κανόνων του Γενικού Λογιστηρίου του Κράτους",
+  "protocol_number": "2/99162/ΔΕΠ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100060940"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2045",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-04-18",
+  "posted": "2022-04-27",
+  "publish_timestamp_ms": 1651058607591,
+  "version_id": "16134d41-ad62-4f32-96aa-9672474122e6",
+  "in_force": "2022-04-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%95%CE%91%CE%97-%CE%A5%CE%975",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%95%CE%91%CE%97-%CE%A5%CE%975/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A84%CE%95%CE%91%CE%97-%CE%A5%CE%975",
+  "listing_sha256": "c9fab6a2091c3b336d4323dc35823bacd78bcf80942875601aa62c4a996ccecf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
