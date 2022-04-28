@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΞΞΒ46ΜΤΛΠ-ΚΤΑ",
+  "subject": "Καθορισμός αποζημίωσης στελεχών του ν.π.δ.δ. Ελληνικό Κτηματολόγιο που απασχολήθηκαν στην εκτέλεση της σύμβασης «Specific Contract 3436/R0-COPERNICUS/ EEA.58170», στο πλαίσιο του προγράμματος «Copernicus Land Monitoring»",
+  "protocol_number": "14764 ΕΞ 2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054486",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΨΗΦΙΑΚΗΣ ΔΙΑΚΥΒΕΡΝΗΣΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100060821"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2019",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100009873"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-04-28",
+  "posted": "2022-04-28",
+  "publish_timestamp_ms": 1651125796083,
+  "version_id": "5a6a5304-eaaf-4362-9fc9-b115d68b5955",
+  "in_force": "2022-04-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E%CE%9E%CE%9246%CE%9C%CE%A4%CE%9B%CE%A0-%CE%9A%CE%A4%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9E%CE%9E%CE%9246%CE%9C%CE%A4%CE%9B%CE%A0-%CE%9A%CE%A4%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9E%CE%9E%CE%9246%CE%9C%CE%A4%CE%9B%CE%A0-%CE%9A%CE%A4%CE%91",
+  "listing_sha256": "fd3eae1532ba1d732b5a8bb5002de7f298672476462197ab648e8c2c4a7ca67b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
