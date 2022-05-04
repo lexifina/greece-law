@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΡΠΡΧΩΗ0-ΨΛΕ",
+  "subject": "Υποβολή τροποποιημένου Τεχνικού Δελτίου στο πλαίσιο της υπ’ αριθ. πρωτ. 78944 Πρόσκλησης ΧΙΙ στο Πρόγραμμα «ΦΙΛΟΔΗΜΟΣ ΙΙ», στον άξονα προτεραιότητας «Κοινωνικές και πολιτιστικές υποδομές και δραστηριότητες των δήμων» με τίτλο «Κατασκευή, επισκευή, συντήρηση και εξοπλισμός εγκαταστάσεων καταφυγίων αδέσποτων ζώων συντροφιάς»",
+  "protocol_number": "5430",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6306",
+    "label": "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82053"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "120/2022",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΕΕ4ΒΩΗ0-ΚΕΩ"
+      }
+    ]
+  },
+  "issued": "2022-05-04",
+  "posted": "2022-05-04",
+  "publish_timestamp_ms": 1651691798539,
+  "version_id": "d81ccadb-abeb-421c-9e7c-0e2c7d31b95c",
+  "in_force": "2022-05-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%A0%CE%A1%CE%A7%CE%A9%CE%970-%CE%A8%CE%9B%CE%95",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A1%CE%A0%CE%A1%CE%A7%CE%A9%CE%970-%CE%A8%CE%9B%CE%95/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A1%CE%A0%CE%A1%CE%A7%CE%A9%CE%970-%CE%A8%CE%9B%CE%95",
+  "listing_sha256": "95b8cacfc1bf1cdf246adb59ebbed18abbd303f9610e005228fae45d1e4c35df",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
