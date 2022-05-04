@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΟΗΔ465ΧΘΞ-Κ5Ο",
+  "subject": "Καθορισμός του ύψους παραβόλων και εθνικού ωριαίου συντελεστή, κατ’ εφαρμογή των άρθρων 83 και 84 του ν. 4632/2019",
+  "protocol_number": "ΑΣ16.2/129784",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035924"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2130",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100009868"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-04-28",
+  "posted": "2022-05-04",
+  "publish_timestamp_ms": 1651649564114,
+  "version_id": "944f6295-55db-49b4-b4fb-283cc483d31e",
+  "in_force": "2022-05-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F%CE%97%CE%94465%CE%A7%CE%98%CE%9E-%CE%9A5%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9F%CE%97%CE%94465%CE%A7%CE%98%CE%9E-%CE%9A5%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9F%CE%97%CE%94465%CE%A7%CE%98%CE%9E-%CE%9A5%CE%9F",
+  "listing_sha256": "1320e1b78a0d82d044e70c973189783c84c4e6539e06aa2156f4184c5feba284",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
