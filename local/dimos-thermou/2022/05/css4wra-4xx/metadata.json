@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΣΣ4ΩΡΑ-4ΧΧ",
+  "subject": "ΑΡΙΘ. 37.2022 ΑΔΣ: Αναμορφώσεις προϋπολογισμού οικονομικού έτους 2022.",
+  "protocol_number": "2405",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6113",
+    "label": "ΔΗΜΟΣ ΘΕΡΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81712"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-05-04",
+  "posted": "2022-05-04",
+  "publish_timestamp_ms": 1651658587119,
+  "version_id": "2a28a21a-904b-445a-96e9-d02c7075d4a1",
+  "in_force": "2022-05-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A3%CE%A34%CE%A9%CE%A1%CE%91-4%CE%A7%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A3%CE%A34%CE%A9%CE%A1%CE%91-4%CE%A7%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A3%CE%A34%CE%A9%CE%A1%CE%91-4%CE%A7%CE%A7",
+  "listing_sha256": "95b8cacfc1bf1cdf246adb59ebbed18abbd303f9610e005228fae45d1e4c35df",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
