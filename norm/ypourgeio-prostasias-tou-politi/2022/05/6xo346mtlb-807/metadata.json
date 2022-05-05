@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΧΟ346ΜΤΛΒ-807",
+  "subject": "Προσωρινές ρυθμίσεις κυκλοφορίας.",
+  "protocol_number": "1002/18/107-γ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054489",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100001805"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10003",
+    "kanonistikipraxiaa": "21/2022",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-05-05",
+  "posted": "2022-05-05",
+  "publish_timestamp_ms": 1651740422957,
+  "version_id": "000557f7-f920-43fb-ac5b-237f4d078617",
+  "in_force": "2022-05-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%9F346%CE%9C%CE%A4%CE%9B%CE%92-807",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%9F346%CE%9C%CE%A4%CE%9B%CE%92-807/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A7%CE%9F346%CE%9C%CE%A4%CE%9B%CE%92-807",
+  "listing_sha256": "53a2ddef4bac0324b17fd9e0627718497823a2a9fac992ea9f2f6e2365f8d569",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
