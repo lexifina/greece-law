@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΜΧΒΩΛΓ-Β9Θ",
+  "subject": "Λήψη απόφασης για παροχή στέγασης στο προσωπικό του ΕΚΑΒ και έναρξη διαδικασίας διενέργειας μειοδοτικής δημοπρασίας μίσθωσης ακινήτου, για τη στέγαση υπαλλήλων του ΕΚΑΒ.",
+  "protocol_number": "Απόφαση Δημοτικού Συμβουλίου 30/2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6171",
+    "label": "ΔΗΜΟΣ ΛΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82887"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-04-15",
+  "posted": "2022-05-09",
+  "publish_timestamp_ms": 1652087426070,
+  "version_id": "cb907395-bce8-486c-b89a-e764d11c6081",
+  "in_force": "2022-05-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9C%CE%A7%CE%92%CE%A9%CE%9B%CE%93-%CE%929%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9C%CE%A7%CE%92%CE%A9%CE%9B%CE%93-%CE%929%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9C%CE%A7%CE%92%CE%A9%CE%9B%CE%93-%CE%929%CE%98",
+  "listing_sha256": "4278002a2219f6c657642cf8b17942c902f7047fe7a3c27ad56450f09b3b5c33",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
