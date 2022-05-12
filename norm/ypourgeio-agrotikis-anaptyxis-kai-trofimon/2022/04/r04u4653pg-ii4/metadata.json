@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ρ04Θ4653ΠΓ-ΙΙ4",
+  "subject": "3η Τροποποίηση της αριθμ. 3206/12-12-2016 (Β’ 4111) απόφασης του Υπουργού Αγροτικής Ανάπτυξης και Τροφίμων «Έγκριση προγραμμάτων τοπικής ανάπτυξης στο πλαίσιο της Πρόσκλησης υποβολής προτάσεων για την επιλογή Στρατηγικών Τοπικής Ανάπτυξης του ΠΑΑ 2014-2020 και του ΕΠΑΛΘ 2014-2020 και κατανομή πιστώσεων Δημόσιας Δαπάνης.»",
+  "protocol_number": "806",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100072754"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2300",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "806",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100015981",
+        "unitId": [
+          "100003932"
+        ],
+        "signerIds": [
+          "100068421"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-04-18",
+  "posted": "2022-05-12",
+  "publish_timestamp_ms": 1652358863228,
+  "version_id": "89316aec-fde3-49e5-bd79-dee1316cf0c4",
+  "in_force": "2022-05-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A104%CE%984653%CE%A0%CE%93-%CE%99%CE%994",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A104%CE%984653%CE%A0%CE%93-%CE%99%CE%994/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A104%CE%984653%CE%A0%CE%93-%CE%99%CE%994",
+  "listing_sha256": "c9fab6a2091c3b336d4323dc35823bacd78bcf80942875601aa62c4a996ccecf",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
