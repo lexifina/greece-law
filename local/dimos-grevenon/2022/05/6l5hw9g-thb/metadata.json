@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Λ5ΗΩ9Γ-ΤΗΒ",
+  "subject": "Απόφαση 48/2022 Δ.Σ. με θέμα: Αναδοχή από τον Δήμο Γρεβενών οφειλών της υπό εκκαθάρισης επιχείρησής του, ήτοι της ανώνυμης εταιρείας με την επωνυμία “Αναπτυξιακή Δήμου Γρεβενών Ανώνυμη Εταιρεία ΟΤΑ” και δ.τ. “Αν.Δη.Γ. Α.Ε. ΟΤΑ”",
+  "protocol_number": "5261",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6069",
+    "label": "ΔΗΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003163"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "48/2022",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-05-18",
+  "posted": "2022-05-18",
+  "publish_timestamp_ms": 1652857670712,
+  "version_id": "74fd79b0-25a8-4f46-afc0-0973655f9c30",
+  "in_force": "2022-05-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B5%CE%97%CE%A99%CE%93-%CE%A4%CE%97%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9B5%CE%97%CE%A99%CE%93-%CE%A4%CE%97%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9B5%CE%97%CE%A99%CE%93-%CE%A4%CE%97%CE%92",
+  "listing_sha256": "6fab4826a5b0c43a628b2ae3b5d999c7458460876963abb203ec3a8aaa4634af",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
