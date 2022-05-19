@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΤΥ0ΩΛΒ-ΝΦΚ",
+  "subject": "Εξειδίκευση πίστωσης για την καταβολή δικαστικής δαπάνης στην ΑΙΚΑΤΕΡΙΝΗ ΒΑΡΣΑΝΗ ΤΟΥ ΔΗΜΗΤΡΙΟΥ σε εκτέλεση της αριθμ. 592/2022 απόφασης του  Μονομελούς  Εφετείου Θεσσαλονίκης.",
+  "protocol_number": "190/22",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6157",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΘΕΡΙΟΥ ΚΟΡΔΕΛΙΟΥ ΕΥΟΣΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83945"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-05-18",
+  "posted": "2022-05-19",
+  "publish_timestamp_ms": 1652939018791,
+  "version_id": "f28f27e2-6430-4228-b0ef-c4d94df1e6df",
+  "in_force": "2022-05-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A4%CE%A50%CE%A9%CE%9B%CE%92-%CE%9D%CE%A6%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A4%CE%A50%CE%A9%CE%9B%CE%92-%CE%9D%CE%A6%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A4%CE%A50%CE%A9%CE%9B%CE%92-%CE%9D%CE%A6%CE%9A",
+  "listing_sha256": "04ea71d3008b225d044fb2cac7a2a6ed28ec780a8863fb3e95b60a8e97e62697",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
