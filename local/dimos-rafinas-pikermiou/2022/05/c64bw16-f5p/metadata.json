@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ64ΒΩ16-Φ5Π",
+  "subject": "ΑΠΟΦ: 139/2022 Ο.Ε\nπερί ανάθεσης σε δικηγόρο παροχής γνωμοδότησης σχετικά με τη δυνατότητα ή μη παροχής νομικής υποστήριξης στο δήμαρχο σε ποινική δίκη.",
+  "protocol_number": "139",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6262",
+    "label": "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "10734"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "12"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "139",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-05-17",
+  "posted": "2022-05-23",
+  "publish_timestamp_ms": 1653294250855,
+  "version_id": "280fc23e-871f-4a13-890e-e19ecb867f91",
+  "in_force": "2022-05-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A864%CE%92%CE%A916-%CE%A65%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A864%CE%92%CE%A916-%CE%A65%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A864%CE%92%CE%A916-%CE%A65%CE%A0",
+  "listing_sha256": "bc7daad16c43296b8cecedd091a624ecab16447e145543678f632b1ddf58a67c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
