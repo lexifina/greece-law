@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΧΙ56-ΛΕΠ",
+  "subject": "Έγκριση Αποδοχής Δωρεών",
+  "protocol_number": "Φ.954.1_ΑΔ.5676_Σ.920_16 ΜΑΙ 22_ΓΕΑ_Δ6",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "79475"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2502",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-05-25",
+  "posted": "2022-05-25",
+  "publish_timestamp_ms": 1653472301970,
+  "version_id": "04622a00-914a-4637-b8b4-783d09a8c763",
+  "in_force": "2022-05-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%9956-%CE%9B%CE%95%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%9956-%CE%9B%CE%95%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A7%CE%9956-%CE%9B%CE%95%CE%A0",
+  "listing_sha256": "cb5a040ae4ea8a6609278a4d3470e66d2f7f05b2e20ef8852e515ef83bef96b8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
