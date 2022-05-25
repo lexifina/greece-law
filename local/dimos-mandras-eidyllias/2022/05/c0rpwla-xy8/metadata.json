@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ0ΡΠΩΛΑ-ΧΥ8",
+  "subject": "Έγκριση δωρεάς",
+  "protocol_number": "163/23-5-2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6181",
+    "label": "ΔΗΜΟΣ ΜΑΝΔΡΑΣ - ΕΙΔΥΛΛΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100050519"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-05-25",
+  "posted": "2022-05-25",
+  "publish_timestamp_ms": 1653469080400,
+  "version_id": "b7e1c99e-94ee-4ab9-a01f-d529c7c041a3",
+  "in_force": "2022-05-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A80%CE%A1%CE%A0%CE%A9%CE%9B%CE%91-%CE%A7%CE%A58",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A80%CE%A1%CE%A0%CE%A9%CE%9B%CE%91-%CE%A7%CE%A58/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A80%CE%A1%CE%A0%CE%A9%CE%9B%CE%91-%CE%A7%CE%A58",
+  "listing_sha256": "cb5a040ae4ea8a6609278a4d3470e66d2f7f05b2e20ef8852e515ef83bef96b8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
