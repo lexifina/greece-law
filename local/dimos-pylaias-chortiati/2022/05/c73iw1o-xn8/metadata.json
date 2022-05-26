@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ73ΙΩ1Ο-ΧΝ8",
+  "subject": "Εξειδίκευση πίστωσης για καταβολή ποσού 2.543,52 Ευρώ εις βάρος του κωδικού 02.00.6492.001 υπό τον τίτλο “Δικαστικά έξοδα” ως 1ης δόσης κατόπιν της υπ’ αριθ. 158/14-4-2022 απόφασης της Οικονομικής Επιτροπής του Δήμου Πυλαίας – Χορτιάτη στoν Κωνσταντίνο Παπαδόπουλο του Νικολάου».",
+  "protocol_number": "Απόφαση 203",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6257",
+    "label": "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80518"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-05-26",
+  "posted": "2022-05-26",
+  "publish_timestamp_ms": 1653558389308,
+  "version_id": "30bf5ce6-f125-4b3b-87f0-e9bcda9af95a",
+  "in_force": "2022-05-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A873%CE%99%CE%A91%CE%9F-%CE%A7%CE%9D8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A873%CE%99%CE%A91%CE%9F-%CE%A7%CE%9D8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A873%CE%99%CE%A91%CE%9F-%CE%A7%CE%9D8",
+  "listing_sha256": "ff02dcb0bb0dac8e1593de976ee6cc31253978ace2db7c0a5ddd5b1d69592cb8",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
