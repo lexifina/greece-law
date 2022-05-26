@@ -1,0 +1,39 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ρ1ΣΑΩ15-ΛΧ7",
+  "subject": "Έγκριση Παράτασης Προθεσμίας Εκτέλεσης του έργου: «ΝΕΟΣ ΚΕΝΤΡΙΚΟΣ    ΔΙΑΝΟΜΕΑΣ ΠΟΣΙΜΟΥ ΥΔΑΤΟΣ Δ.Κ.ΤΥΧΕΡΟΥ ΔΗΜΟΥ ΣΟΥΦΛΙΟΥ»",
+  "protocol_number": "1996",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6284",
+    "label": "ΔΗΜΟΣ ΣΟΥΦΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83745"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "56",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-03-15",
+  "posted": "2022-05-26",
+  "publish_timestamp_ms": 1653585900074,
+  "version_id": "5be76ee3-608b-4d30-8f39-6baa8bfecacd",
+  "in_force": "2022-05-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A11%CE%A3%CE%91%CE%A915-%CE%9B%CE%A77",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A11%CE%A3%CE%91%CE%A915-%CE%9B%CE%A77/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A11%CE%A3%CE%91%CE%A915-%CE%9B%CE%A77",
+  "listing_sha256": "170bbdb78d4b6cf2b272f88adf20b7f53153889857f7a2d24b6055a87ce70c81",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
