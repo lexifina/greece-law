@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΧΨ3ΩΗ5-ΛΧ1",
+  "subject": "Μη άσκηση αίτησης δικαστικού καθορισμού οριστικής τιμής μονάδας ενώπιον του Τριμελούς Εφετείου Κρήτης",
+  "protocol_number": "19388",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6318",
+    "label": "ΔΗΜΟΣ ΧΑΝΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83115"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-05-27",
+  "posted": "2022-05-27",
+  "publish_timestamp_ms": 1653631882263,
+  "version_id": "2f8fe9c2-c562-4827-b0ff-a301843ccad2",
+  "in_force": "2022-05-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%A83%CE%A9%CE%975-%CE%9B%CE%A71",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A7%CE%A83%CE%A9%CE%975-%CE%9B%CE%A71/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A7%CE%A83%CE%A9%CE%975-%CE%9B%CE%A71",
+  "listing_sha256": "4a5aa3f3aac936a25a76a659fc0cdd584b853ffd8b6cef44eccc504ea576f0f9",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
