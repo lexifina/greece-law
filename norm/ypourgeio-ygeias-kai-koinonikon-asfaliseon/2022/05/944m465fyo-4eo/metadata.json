@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "944Μ465ΦΥΟ-4ΕΟ",
+  "subject": "ΑΝΑΚΑΤΑΝΟΜΗ ΘΕΣΕΩΝ ΕΙΔΙΚΕΥΜΕΝΩΝ ΙΑΤΡΩΝ Ε.Σ.Υ.",
+  "protocol_number": "15240",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047539"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2675",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-05-30",
+  "posted": "2022-06-02",
+  "publish_timestamp_ms": 1654161637978,
+  "version_id": "d9999f85-8232-4a16-84f2-3651a67662a2",
+  "in_force": "2022-06-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/944%CE%9C465%CE%A6%CE%A5%CE%9F-4%CE%95%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/944%CE%9C465%CE%A6%CE%A5%CE%9F-4%CE%95%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/944%CE%9C465%CE%A6%CE%A5%CE%9F-4%CE%95%CE%9F",
+  "listing_sha256": "b69d4152aa8036db7b0c6b336f2516d49701520f0971a7b245fb6a478575a24d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
