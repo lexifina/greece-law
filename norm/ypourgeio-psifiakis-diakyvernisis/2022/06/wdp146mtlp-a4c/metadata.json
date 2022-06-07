@@ -1,0 +1,62 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΔΠ146ΜΤΛΠ-Α4Ψ",
+  "subject": "Τροποποίηση της υπό στοιχεία 23689 ΕΞ 2020/28.08.2020 (ΑΔΑ: 9ΔΥΛ46ΜΤΛΠ-Μ0Ι) απόφασης με θέμα: «Καθορισμός αποζημίωσης των μελών Ομάδας Διοίκησης Έργου (Ο.Δ.Ε.) και Ομάδας Εργασίας στο Υπουργείο Ψηφιακής Διακυβέρνησης για την πράξη με τίτλο «Ψηφιακές Υπηρεσίες Ενιαίας Μισθοδοσίας» και MIS 5032770» (Υ.Ο.Δ.Δ. 720)",
+  "protocol_number": "21422 ΕΞ 2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054486",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΨΗΦΙΑΚΗΣ ΔΙΑΚΥΒΕΡΝΗΣΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100060821"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "466",
+      "issue": "fektype_YODD",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100009873"
+        ],
+        "signerIds": [
+          "100053699"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-06-07",
+  "posted": "2022-06-07",
+  "publish_timestamp_ms": 1654582002663,
+  "version_id": "0250c1a8-d2b8-40fd-bfe6-412e85709d5c",
+  "in_force": "2022-06-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A0146%CE%9C%CE%A4%CE%9B%CE%A0-%CE%914%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%94%CE%A0146%CE%9C%CE%A4%CE%9B%CE%A0-%CE%914%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%94%CE%A0146%CE%9C%CE%A4%CE%9B%CE%A0-%CE%914%CE%A8",
+  "listing_sha256": "044868bfd7b3918b2cf028a94a411f88c7a190228a36ab122a0efd3193de0a73",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
