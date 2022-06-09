@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΣ5ΕΩΚΖ-49Ζ",
+  "subject": "ΠΙΝΑΚΕΣ ΕΣΟΔΩΝ - ΕΞΟΔΩΝ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ ΟΙΚ. ΕΤΟΥΣ 2022",
+  "protocol_number": "0",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6221",
+    "label": "ΔΗΜΟΣ ΞΗΡΟΜΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "11123"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΕΘ0ΩΚΖ-ΒΘ8"
+      }
+    ]
+  },
+  "issued": "2022-06-09",
+  "posted": "2022-06-09",
+  "publish_timestamp_ms": 1654779398903,
+  "version_id": "a37bf529-8ef7-4ce4-901e-5baffe1747d5",
+  "in_force": "2022-06-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A35%CE%95%CE%A9%CE%9A%CE%96-49%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A35%CE%95%CE%A9%CE%9A%CE%96-49%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A35%CE%95%CE%A9%CE%9A%CE%96-49%CE%96",
+  "listing_sha256": "eff2bdc00ffd9917fe807f669c22c54b5dc452eb86fe4e27971c5b4f5bf1c31d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
