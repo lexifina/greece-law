@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΒΥΑ7Λ1-ΖΣΛ",
+  "subject": "10η ΕΝΤΟΛΗ ΠΛΗΡΩΜΗΣ ΜΕΛΟΥΣ ΕΜΠΑ",
+  "protocol_number": "200248/15-06-2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5012",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "80276"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-06-15",
+  "posted": "2022-06-15",
+  "publish_timestamp_ms": 1655286730371,
+  "version_id": "0c0a6887-5ba8-4eef-8733-5acafae00e01",
+  "in_force": "2022-06-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%92%CE%A5%CE%917%CE%9B1-%CE%96%CE%A3%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%92%CE%A5%CE%917%CE%9B1-%CE%96%CE%A3%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%92%CE%A5%CE%917%CE%9B1-%CE%96%CE%A3%CE%9B",
+  "listing_sha256": "e331741a7b86b5467b067cb1654f38a130e3082b4516e6f09a80794cd8a8e4e3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
