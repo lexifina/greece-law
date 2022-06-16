@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΑ3ΓΗ-Χ9Ο",
+  "subject": "Λογιστική Πολιτική για τις \"Μισθώσεις\"",
+  "protocol_number": "2/123680/ΔΛΓΚ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100061097"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2953",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-05-30",
+  "posted": "2022-06-16",
+  "publish_timestamp_ms": 1655357386287,
+  "version_id": "8c8ec21d-99dc-414a-b011-eb5bbf1bb166",
+  "in_force": "2022-06-16",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%913%CE%93%CE%97-%CE%A79%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%913%CE%93%CE%97-%CE%A79%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%913%CE%93%CE%97-%CE%A79%CE%9F",
+  "listing_sha256": "b69d4152aa8036db7b0c6b336f2516d49701520f0971a7b245fb6a478575a24d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
