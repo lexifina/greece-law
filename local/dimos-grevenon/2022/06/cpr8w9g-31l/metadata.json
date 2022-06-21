@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠΡ8Ω9Γ-31Λ",
+  "subject": "Απόφαση 80/2022 Δ.Σ. με θέμα: Έγκριση της υπ’ αριθμ. 18/2022 απόφασης του Διοικητικού Συμβουλίου της Δ.Ε.Κ.Ε.Γ., με θέμα: “Συζήτηση για τη βιωσιμότητα του Βρεφονηπιακού Σταθμού Γρεβενών, του Βρεφονηπιακού Σταθμού Ελάτου Γρεβενών και του Κέντρου Δημιουργικής Απασχόλησης Παιδιών (ΚΔΑΠ) της Δημοτικής Επιχείρησης Κοινωφελούς Έργου Γρεβενών”",
+  "protocol_number": "6851",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6069",
+    "label": "ΔΗΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003163"
+  ],
+  "thematic_category_ids": [
+    "04",
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "80/2022",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "91ΑΡΟΚΡΑ-Ψ1Ο"
+      }
+    ]
+  },
+  "issued": "2022-06-20",
+  "posted": "2022-06-21",
+  "publish_timestamp_ms": 1655786263852,
+  "version_id": "899e7f79-8723-48aa-bd24-b488037d558f",
+  "in_force": "2022-06-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%A18%CE%A99%CE%93-31%CE%9B",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%A18%CE%A99%CE%93-31%CE%9B/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A0%CE%A18%CE%A99%CE%93-31%CE%9B",
+  "listing_sha256": "7421e5f3dc3da69c60d00f739feaa24246b20c7b43867e2a1c5ad0ad1470b065",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
