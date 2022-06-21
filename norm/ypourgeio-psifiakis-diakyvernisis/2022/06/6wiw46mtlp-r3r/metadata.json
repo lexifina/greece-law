@@ -1,0 +1,57 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΩΙΩ46ΜΤΛΠ-Ρ3Ρ",
+  "subject": "Καθορισμός αποζημίωσης των μελών της Ομάδας Εμπειρογνωμοσύνης και Γνωμάτευσης για την υλοποίηση με ίδια μέσα του Υποέργου 3 «Υποστηρικτικές Δράσεις Πράξης» της Πράξης «Απλουστεύσεις διοικητικών διαδικασιών προς ενίσχυση της επιχειρηματικότητας» με κωδικό ΟΠΣ (MIS) 5008060",
+  "protocol_number": "24204",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054486",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΨΗΦΙΑΚΗΣ ΔΙΑΚΥΒΕΡΝΗΣΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100060821"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100047807"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100000549"
+        ],
+        "signerIds": [
+          "100053699"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-06-21",
+  "posted": "2022-06-21",
+  "publish_timestamp_ms": 1655790449514,
+  "version_id": "c128fc54-dda4-4299-84d6-d01aeabf908e",
+  "in_force": "2022-06-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%99%CE%A946%CE%9C%CE%A4%CE%9B%CE%A0-%CE%A13%CE%A1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%99%CE%A946%CE%9C%CE%A4%CE%9B%CE%A0-%CE%A13%CE%A1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A9%CE%99%CE%A946%CE%9C%CE%A4%CE%9B%CE%A0-%CE%A13%CE%A1",
+  "listing_sha256": "4e70a21a4364f4eab9b8699a2aa57bbd5837a1be1f3c76963a33ceea84e7c922",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
