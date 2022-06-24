@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "90ΧΒ465ΧΘΞ-3ΘΟ",
+  "subject": "Ορισμός νέας  προθεσμίας υποβολής αιτήσεων σχετικά με τη χορήγηση Στεγαστικής Συνδρομής για την επισκευή των ζημιών σε κτήρια που επλήγησαν από τον σεισμό της 19 Ιουλίου 2019, σε περιοχές της Περιφέρειας Αττικής.",
+  "protocol_number": "184345/ ΔΑΕΦΚ-ΚΕ  /Α321",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3176",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Πράξη Υπουργού, Αναπληρωτή Υπουργού, Υφυπουργού ",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΨΟΙΒ465ΧΘΞ-ΖΚΕ"
+      },
+      {
+        "relatedDecisionsADA": "ΩΙ2Β465ΧΘΞ-Γ9Γ"
+      },
+      {
+        "relatedDecisionsADA": "ΩΞΕ0465ΧΘΞ-ΟΟ6"
+      }
+    ]
+  },
+  "issued": "2022-06-09",
+  "posted": "2022-06-24",
+  "publish_timestamp_ms": 1656061155448,
+  "version_id": "e5c5efa5-897c-46ca-84b2-2b17e47d58c9",
+  "in_force": "2022-06-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/90%CE%A7%CE%92465%CE%A7%CE%98%CE%9E-3%CE%98%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/90%CE%A7%CE%92465%CE%A7%CE%98%CE%9E-3%CE%98%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/90%CE%A7%CE%92465%CE%A7%CE%98%CE%9E-3%CE%98%CE%9F",
+  "listing_sha256": "eff2bdc00ffd9917fe807f669c22c54b5dc452eb86fe4e27971c5b4f5bf1c31d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
