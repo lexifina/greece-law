@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟΒΡΟΡ1Υ-8ΝΧ",
+  "subject": "Έγκριση της μονοδρόμησης της οδού Εμπορίου σύμφωνα με την υπ' αριθ. 72/2022 απόφαση του Δημοτικού Συμβουλίου του Δήμου Αλεξανδρούπολης, από την οδού Σουνίου έως την οδό Καραολή και Δημητρίου (τέλος), με φορά ανατολική",
+  "protocol_number": "167293/07-06-2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "77655"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3206",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "10032",
+    "kanonistikipraxiaa": "167293",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-06-27",
+  "posted": "2022-06-27",
+  "publish_timestamp_ms": 1656316495010,
+  "version_id": "88d586ae-d109-4ff5-a0c3-3f83d10751ae",
+  "in_force": "2022-06-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%92%CE%A1%CE%9F%CE%A11%CE%A5-8%CE%9D%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%92%CE%A1%CE%9F%CE%A11%CE%A5-8%CE%9D%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F%CE%92%CE%A1%CE%9F%CE%A11%CE%A5-8%CE%9D%CE%A7",
+  "listing_sha256": "236d19a6b176b4d057e0e54eb991f7e74097fab3847478e16f8687e021be9d22",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
