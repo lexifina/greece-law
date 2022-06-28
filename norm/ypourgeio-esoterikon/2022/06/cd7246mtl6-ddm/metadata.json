@@ -1,0 +1,76 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΔ7246ΜΤΛ6-ΔΔΜ",
+  "subject": "Διόρθωση Σφάλματος στην αρ. πρωτ.. 2726/6-6-2022 κοινή υπουργική απόφαση (Β΄2980).",
+  "protocol_number": "2726",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100036676"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3255",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΝΞ546ΜΤΛ6-ΥΦ2"
+      }
+    ],
+    "co_competent": [
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "100036668"
+        ],
+        "signerIds": [
+          "100063903"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "126841"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-06-06",
+  "posted": "2022-06-28",
+  "publish_timestamp_ms": 1656393874819,
+  "version_id": "cce8a4e1-8894-4e34-b85d-3bca6a142eee",
+  "in_force": "2022-06-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%947246%CE%9C%CE%A4%CE%9B6-%CE%94%CE%94%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%947246%CE%9C%CE%A4%CE%9B6-%CE%94%CE%94%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%947246%CE%9C%CE%A4%CE%9B6-%CE%94%CE%94%CE%9C",
+  "listing_sha256": "56b5f2db3e14ab5e5ba1aa7e470adff21d3dcfae6254e2a4855fc6df9c4cc88e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
