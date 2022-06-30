@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΡΘΧΩΨΜ-Ι0Ζ",
+  "subject": "Απόφαση Οικονομικής Επιτροπής (177/2022): \"Εξέταση έγκριση της 490/8126/16.6.22 απόφασης Δημάρχου περί\nορισμού δικηγόρου για την παράσταση ενώπιον του Διοικητικού Πρωτοδικείου\nΗρακλείου (Τμήμα Α’ Τριμελές) κατά τη συζήτηση της με αρ. ΠΕ225/21.7.21\nΠροσφυγής του Δήμου κατά της 2552/2020 απόφασης της Συντονίστριας της\nΑποκεντρωμένης Διοίκησης Κρήτης\"",
+  "protocol_number": "177-2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6047",
+    "label": "ΔΗΜΟΣ ΑΡΧΑΝΩΝ - ΑΣΤΕΡΟΥΣΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80138"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-06-21",
+  "posted": "2022-06-30",
+  "publish_timestamp_ms": 1656573032282,
+  "version_id": "e9855d0d-cbd8-4bd5-9659-1b5d1b8ed42b",
+  "in_force": "2022-06-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A1%CE%98%CE%A7%CE%A9%CE%A8%CE%9C-%CE%990%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A1%CE%98%CE%A7%CE%A9%CE%A8%CE%9C-%CE%990%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A1%CE%98%CE%A7%CE%A9%CE%A8%CE%9C-%CE%990%CE%96",
+  "listing_sha256": "e43f09c2fd5cbc87c858f7af1186336e745836558dc106463f09cc080e0b79b3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
