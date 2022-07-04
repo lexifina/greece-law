@@ -1,0 +1,40 @@
+{
+  "year": 2022,
+  "number": 4951,
+  "url": "https://api.et.gr/apiLAW/1/2022/4951/pdf",
+  "source_sha256": "d17cf313a2317ac8e907ec564d09a5376230b0d2e4fb1a411819ada0fb4994e0",
+  "published": "2022-07-04",
+  "in_force": "2022-07-04",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 120,
+  "images": [
+    {
+      "page": 92,
+      "sha256": "2a443c6846d99632f97a89788db05879a2ae3c4fc94d665d107d2b67d9058f5c",
+      "ext": "png",
+      "bytes": 20634,
+      "bbox": [
+        59.5,
+        212.3,
+        284.8,
+        391.1
+      ]
+    },
+    {
+      "page": 92,
+      "sha256": "d3ad159d4d08b6bfa672e4d7a9ea47a159799e84e1ee9505730bcaccba00c8e7",
+      "ext": "png",
+      "bytes": 15087,
+      "bbox": [
+        300.5,
+        272.3,
+        524.6,
+        411.9
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: commencement needs act-specific reading: Η ισχύς του παρόντος άρχεται από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται ειδικότερα σε επιμέ"
+}
