@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω31Ω4653Π8-4ΜΓ",
+  "subject": "Απόφαση ορισμού επόπτη",
+  "protocol_number": "105459",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100074152"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-07-04",
+  "posted": "2022-07-04",
+  "publish_timestamp_ms": 1656932283693,
+  "version_id": "59f3ad95-5d69-46bb-86ac-bb0245912fa0",
+  "in_force": "2022-07-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A931%CE%A94653%CE%A08-4%CE%9C%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A931%CE%A94653%CE%A08-4%CE%9C%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A931%CE%A94653%CE%A08-4%CE%9C%CE%93",
+  "listing_sha256": "80ab4301fbf32dac80d47c7559b874948525960ab75081f691bcf17862dfc312",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
