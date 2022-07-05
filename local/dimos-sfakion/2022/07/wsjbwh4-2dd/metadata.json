@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΣΞΒΩΗ4-2ΔΔ",
+  "subject": "Απόφαση Δ.Σ. 39/2022  Απολογισμός κληροδοτήματος Γ. Ξενουδάκη έτους 2021",
+  "protocol_number": "1538/2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6292",
+    "label": "ΔΗΜΟΣ ΣΦΑΚΙΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83896"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "39/2022",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΛΔ5ΩΗ4-4Ω2"
+      }
+    ]
+  },
+  "issued": "2022-07-01",
+  "posted": "2022-07-05",
+  "publish_timestamp_ms": 1656998923376,
+  "version_id": "2f985e7c-7654-48dc-9a80-eeca1a1a8948",
+  "in_force": "2022-07-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%9E%CE%92%CE%A9%CE%974-2%CE%94%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%A3%CE%9E%CE%92%CE%A9%CE%974-2%CE%94%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A3%CE%9E%CE%92%CE%A9%CE%974-2%CE%94%CE%94",
+  "listing_sha256": "782c64eaf9ac87482b76bf9417a2321ca07bf31127773678fb31624eaa851072",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
