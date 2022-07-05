@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚ496-ΚΘ4",
+  "subject": "Προκήρυξη θέσεων στο Σώμα Μονίμων Υπαξιω-\nματικών του Πολεμικού Ναυτικού (ΠΝ) προέλευ-\nσης Σχολής Μονίμων Υπαξιωματικών Ναυτικού\n(ΣΜΥΝ) για κάλυψη από Εθελοντές Μακράς Θη-\nτείας (ΕΜΘ) και Επαγγελματίες Οπλίτες (ΕΠ.ΟΠ),\nκατόπιν μετάταξης, έτους 2022.",
+  "protocol_number": "Φ.415/1/234418/Σ.4162",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100062743"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "41",
+      "issue": "fektype_ASEP",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-07-05",
+  "posted": "2022-07-05",
+  "publish_timestamp_ms": 1656998872896,
+  "version_id": "99063b3c-7e96-4aa3-b178-a1584085a73b",
+  "in_force": "2022-07-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A496-%CE%9A%CE%984",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A496-%CE%9A%CE%984/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A496-%CE%9A%CE%984",
+  "listing_sha256": "62c207d09ad70872032cf85c83e0b91a90f37af48b4eb4fd5712e6003567745a",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
