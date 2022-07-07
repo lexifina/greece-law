@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ε0ΕΩΞ9-53Ν",
+  "subject": "64/2022 ΑΠΟΦΑΣΗ Δ.Σ. \"Λήψη απόφασης σχετικά με την έγκριση της με αριθμό 14/2022 (ΑΔΑ:6ΙΑ0ΩΞ9-ΗΨΟ) απόφασης της Επιτροπής Ποιότητας Ζωής περί «Λήψη απόφασης για κατασκευή ράμπας πρόσβασης αναπήρων (ΑΜΕΑ) επί της οδού Βασιλέως Γεωργίου 52Α της Δημοτικής Ενότητας Παιανίας κατόπιν αιτήσεως η οποία υποβλήθηκε στον Δήμο».\"",
+  "protocol_number": "64/2022 ΑΠΟΦΑΣΗ Δ.Σ.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6230",
+    "label": "ΔΗΜΟΣ ΠΑΙΑΝΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83502"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΙΑ0ΩΞ9-ΗΨΟ"
+      }
+    ]
+  },
+  "issued": "2022-07-06",
+  "posted": "2022-07-07",
+  "publish_timestamp_ms": 1657189847915,
+  "version_id": "904a543b-a871-41ff-b351-4230e5cd2051",
+  "in_force": "2022-07-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%950%CE%95%CE%A9%CE%9E9-53%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%950%CE%95%CE%A9%CE%9E9-53%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%950%CE%95%CE%A9%CE%9E9-53%CE%9D",
+  "listing_sha256": "9d1fa5860bdd619ed530d5e00a018f725f5bc629878e450a0226027e6d9994b6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
