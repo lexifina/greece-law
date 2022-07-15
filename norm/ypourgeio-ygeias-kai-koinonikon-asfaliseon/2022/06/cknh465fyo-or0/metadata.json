@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΚΝΗ465ΦΥΟ-ΟΡ0",
+  "subject": "Αντικατάσταση της υπό στοιχεία Γ2γ/Γ.Π.οικ.28489/21 απόφασης του Αναπληρωτή Υπουργού Υγείας και «Καθορισμός των διαδικασιών ανάθεσης που θα διενεργηθούν από την Εθνική Κεντρική Αρχή Προμηθειών Υγείας (Ε.Κ.Α.Π.Υ.), ως Ε.Κ.Α.Α. της παρ. 1 γ) του άρθρου 41 του ν. 4412/2016, για τα έτη 2021-2022 για την κάλυψη των αναγκών των φορέων του άρθρου 7 του ν. 4865/2021».",
+  "protocol_number": "Γ2γ/Γ.Π.οικ.37716",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047539"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3625",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Πράξη Υπουργού, Αναπληρωτή Υπουργού, Υφυπουργού ",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-06-29",
+  "posted": "2022-07-15",
+  "publish_timestamp_ms": 1657868412293,
+  "version_id": "a804969a-204f-43f6-a71c-2fe096f540ba",
+  "in_force": "2022-07-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%9D%CE%97465%CE%A6%CE%A5%CE%9F-%CE%9F%CE%A10",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9A%CE%9D%CE%97465%CE%A6%CE%A5%CE%9F-%CE%9F%CE%A10/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9A%CE%9D%CE%97465%CE%A6%CE%A5%CE%9F-%CE%9F%CE%A10",
+  "listing_sha256": "6a2e6bce2ba1cb15e5a03dd152c70d5619777df0ef7cabd60bec7479a5aaae0f",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
