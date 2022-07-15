@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ρ79Μ46ΜΠ3Ζ-ΝΧΝ",
+  "subject": "Τροποποίηση της υπ’ αρ. 159/5838/09-03-2018 (ΦΕΚ Β΄/1169/30-03-2018) κοινής απόφασης της Υπουργού Διοικητικής Ανασυγκρότησης και του Διοικητή της ΑΑΔΕ με θέμα: «Στάθμευση υπηρεσιακών οχημάτων της Ανεξάρτητης Αρχής Δημοσίων Εσόδων",
+  "protocol_number": "Γ.Δ.Φ.Δ. 1059413 ΕΞ 2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100029749"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3735",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "100004988"
+        ],
+        "signerIds": [
+          "100063903"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-07-04",
+  "posted": "2022-07-15",
+  "publish_timestamp_ms": 1657883940213,
+  "version_id": "9809db48-0e3a-4184-af64-1c75b5eb3a77",
+  "in_force": "2022-07-15",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A179%CE%9C46%CE%9C%CE%A03%CE%96-%CE%9D%CE%A7%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A179%CE%9C46%CE%9C%CE%A03%CE%96-%CE%9D%CE%A7%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A179%CE%9C46%CE%9C%CE%A03%CE%96-%CE%9D%CE%A7%CE%9D",
+  "listing_sha256": "80ab4301fbf32dac80d47c7559b874948525960ab75081f691bcf17862dfc312",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
