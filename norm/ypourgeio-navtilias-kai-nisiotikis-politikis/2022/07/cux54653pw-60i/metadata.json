@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΘΧ54653ΠΩ-60Ι",
+  "subject": "Ηλεκτρονική εφαρμογή Μητρώου Ναυτιλιακών Εταιρειών Πλοίων Αναψυχής (e-Ν.Ε.Π.Α.)",
+  "protocol_number": "3134.5-3/48312/2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100009014"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "3603",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "2",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054486",
+        "unitId": [
+          "100069297"
+        ],
+        "signerIds": [
+          "100050197"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-07-06",
+  "posted": "2022-07-19",
+  "publish_timestamp_ms": 1658216070915,
+  "version_id": "6f66dbb5-cbee-439c-8e66-ed9dfa540a06",
+  "in_force": "2022-07-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%98%CE%A754653%CE%A0%CE%A9-60%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%98%CE%A754653%CE%A0%CE%A9-60%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%98%CE%A754653%CE%A0%CE%A9-60%CE%99",
+  "listing_sha256": "9d1fa5860bdd619ed530d5e00a018f725f5bc629878e450a0226027e6d9994b6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
