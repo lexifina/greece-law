@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Σ747ΛΚ-24Μ",
+  "subject": "ΕΝΤΟΛΗ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ ΤΟΥ ΣΦΑΚΙΑΝΑΚΗ ΚΩΝ/ΝΟΥ",
+  "protocol_number": "213695",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "5010",
+    "label": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+    "category": "REGION"
+  },
+  "unit_ids": [
+    "81209"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-07-19",
+  "posted": "2022-07-19",
+  "publish_timestamp_ms": 1658218050415,
+  "version_id": "c6e83ac5-8502-4934-8c99-2c5deb787b78",
+  "in_force": "2022-07-19",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A3747%CE%9B%CE%9A-24%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A3747%CE%9B%CE%9A-24%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A3747%CE%9B%CE%9A-24%CE%9C",
+  "listing_sha256": "56d1b2c2f8635801dabece6439a6e46e086323d12bfbd88bf3d69a2808eed4c3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
