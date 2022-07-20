@@ -1,0 +1,48 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ρ7ΨΙ4653ΠΩ-ΨΙΓ",
+  "subject": "Συμπληρωματική κατανομή σπουδαστών/σπουδαστριών που θα εισαχθούν στις Α.Ε.Ν./Π-Μ το ακαδημαϊκό έτος 2022-2023 μέσω πανελλαδικών εξετάσεων",
+  "protocol_number": "2231.2-7/52307/2022/20-07-2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "90437"
+  ],
+  "thematic_category_ids": [
+    "32"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054501",
+        "unitId": [
+          "100007978"
+        ],
+        "signerIds": [
+          "100047809"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-07-20",
+  "posted": "2022-07-20",
+  "publish_timestamp_ms": 1658317618305,
+  "version_id": "360e80ce-726c-442c-ae54-4a9fa297224f",
+  "in_force": "2022-07-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A17%CE%A8%CE%994653%CE%A0%CE%A9-%CE%A8%CE%99%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A17%CE%A8%CE%994653%CE%A0%CE%A9-%CE%A8%CE%99%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A17%CE%A8%CE%994653%CE%A0%CE%A9-%CE%A8%CE%99%CE%93",
+  "listing_sha256": "38c984c3a5fb2d673d11c5a8b7f6e9ea0fb2121005c8282f31b5e0bccb78a467",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
