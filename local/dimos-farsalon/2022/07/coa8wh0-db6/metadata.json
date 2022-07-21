@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΟΑ8ΩΗ0-ΔΒ6",
+  "subject": "Απόφαση Δημάρχου για διακοπή της κυκλοφορίας οχημάτων για τον εορτασμό της Πολιούχου Φαρσάλων Αγίας Παρασκευής",
+  "protocol_number": "9533",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6306",
+    "label": "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100032657"
+  ],
+  "thematic_category_ids": [
+    "04"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "296",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-07-21",
+  "posted": "2022-07-21",
+  "publish_timestamp_ms": 1658385709129,
+  "version_id": "ac1e9bb9-0d7f-4508-baf5-a4c8ddde992e",
+  "in_force": "2022-07-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%918%CE%A9%CE%970-%CE%94%CE%926",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9F%CE%918%CE%A9%CE%970-%CE%94%CE%926/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9F%CE%918%CE%A9%CE%970-%CE%94%CE%926",
+  "listing_sha256": "4c5992ab2874a63b07a306e323b9c132da3150d6afb4bb58ad3638de96d55907",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
