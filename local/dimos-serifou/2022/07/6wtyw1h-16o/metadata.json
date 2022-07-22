@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΩΤΥΩ1Η-16Ο",
+  "subject": "ΑΑΥ 187 - ΥΠΗΡΕΣΙΕΣ ΣΥΜΒΟΥΛΟΥ ΓΙΑ ΣΦΗΟ",
+  "protocol_number": "187/2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6271",
+    "label": "ΔΗΜΟΣ ΣΕΡΙΦΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83430"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-07-22",
+  "posted": "2022-07-22",
+  "publish_timestamp_ms": 1658470094775,
+  "version_id": "12df111d-6105-4652-98a8-762ee5b594e8",
+  "in_force": "2022-07-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%A4%CE%A5%CE%A91%CE%97-16%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A9%CE%A4%CE%A5%CE%A91%CE%97-16%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A9%CE%A4%CE%A5%CE%A91%CE%97-16%CE%9F",
+  "listing_sha256": "16f9ca217a19b64c3166b802760c1caf8074147b175da50f5b624ad9d8eeb69d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
