@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω3ΣΩΩΗΥ-ΥΑΗ",
+  "subject": "ΕΞΕΙΔΙΚΕΥΣΗ ΠΙΣΤΩΣΗΣ",
+  "protocol_number": "38/2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6311",
+    "label": "ΔΗΜΟΣ ΦΟΥΡΝΩΝ ΚΟΡΣΕΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85390"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-06-17",
+  "posted": "2022-07-22",
+  "publish_timestamp_ms": 1658474966827,
+  "version_id": "d007c88f-8d9c-4aa0-8f00-ef33571e5321",
+  "in_force": "2022-07-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%A3%CE%A9%CE%A9%CE%97%CE%A5-%CE%A5%CE%91%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%A3%CE%A9%CE%A9%CE%97%CE%A5-%CE%A5%CE%91%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A93%CE%A3%CE%A9%CE%A9%CE%97%CE%A5-%CE%A5%CE%91%CE%97",
+  "listing_sha256": "86a1cf93a2796f1f79c4db189bc1e63ce70e506e58c968ac92a11a5fb13e6763",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
