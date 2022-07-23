@@ -1,0 +1,45 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Τ7ΖΩ1Τ-ΙΙ0",
+  "subject": "ΑΠΟΦΑΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ ΣΙΦΝΟΥ 135/2022: Έκδοση απόφασης περί αποδοχής επενδυτικού δανείου από το Τ.Π. & Δανείων, που εντάχθηκε στο Ειδικό Αναπτυξιακό Πρόγραμμα «Αντώνης Τρίτσης», για την εκτέλεση του έργου «Ανάπτυξη της υπαίθρου – Αγροτική οδοποιία Δήμου Σίφνου»,  μετά την υπ’ αρ. 3774-14-19.5.2022 απόφαση του Δ.Σ. του Τ.Π.Δ. (ΑΔΑ: ΩΤΟΒ469ΗΗ7-3ΥΦ)",
+  "protocol_number": "135/2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6278",
+    "label": "ΔΗΜΟΣ ΣΙΦΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81567"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "24",
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "135/2022",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "ΩΤΟΒ469ΗΗ7-3ΥΦ"
+      }
+    ]
+  },
+  "issued": "2022-07-23",
+  "posted": "2022-07-23",
+  "publish_timestamp_ms": 1658589636428,
+  "version_id": "8b46a3ed-44ab-4cb1-8b01-eb17e6840788",
+  "in_force": "2022-07-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A47%CE%96%CE%A91%CE%A4-%CE%99%CE%990",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A47%CE%96%CE%A91%CE%A4-%CE%99%CE%990/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A47%CE%96%CE%A91%CE%A4-%CE%99%CE%990",
+  "listing_sha256": "a6e1e7399c278dce092387a2df06a3c8df5f3034b76bceb05f05f2dca2f7cc9e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
