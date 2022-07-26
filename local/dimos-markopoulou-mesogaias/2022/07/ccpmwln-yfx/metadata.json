@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΨΠΜΩΛΝ-ΥΦΧ",
+  "subject": "Λήψη απόφασης για άρση ρυμοτομικής απαλλοτρίωσης σε ακίνητο στο Ο.Τ. Γ916, στην 4-5 ΠΕ Πόρτο Ράφτη.",
+  "protocol_number": "12511",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6184",
+    "label": "ΔΗΜΟΣ ΜΑΡΚΟΠΟΥΛΟΥ ΜΕΣΟΓΑΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100005509"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-07-26",
+  "posted": "2022-07-26",
+  "publish_timestamp_ms": 1658823743953,
+  "version_id": "82e65a1a-1dea-423b-b135-a28d4a085217",
+  "in_force": "2022-07-26",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A8%CE%A0%CE%9C%CE%A9%CE%9B%CE%9D-%CE%A5%CE%A6%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A8%CE%A0%CE%9C%CE%A9%CE%9B%CE%9D-%CE%A5%CE%A6%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A8%CE%A0%CE%9C%CE%A9%CE%9B%CE%9D-%CE%A5%CE%A6%CE%A7",
+  "listing_sha256": "c5e88f519e8a38e5e69ea45df472f3321b080b62c690e1759af39d5d47769b37",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
