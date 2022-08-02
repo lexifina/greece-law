@@ -1,0 +1,40 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω5ΕΖΩΨΤ-ΥΦ0",
+  "subject": "Απόφαση Δημοτικού Συμβουλίου με θέμα: Μεταφορά αρμοδιοτήτων του Λιμενικού Ταμείου Νομού Χανίων  που αφορά το Δήμο Αποκορώνου, στο  Δήμο  Αποκορώνου και τη σύσταση Ν.Π.Δ.Δ., με την έκδοση σχετικού Προεδρικού Διατάγματος, το οποίο θα φέρει την επωνυμία «Δημοτικό Λιμενικό Ταμείο Αποκορώνου» με έδρα τον Δήμο Αποκορώνου, το οποίο θα λειτουργεί σύμφωνα με τις διατάξεις του άρθρου 28 του Ν.2738/99, και του άρθρου 244 του Ν.3463/06.",
+  "protocol_number": "65",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6040",
+    "label": "ΔΗΜΟΣ ΑΠΟΚΟΡΩΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "80526"
+  ],
+  "thematic_category_ids": [
+    "10004",
+    "52",
+    "16",
+    "72"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-07-28",
+  "posted": "2022-08-02",
+  "publish_timestamp_ms": 1659434733500,
+  "version_id": "8fb8f3c8-0014-44cb-8760-1141bb3fb034",
+  "in_force": "2022-08-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%95%CE%96%CE%A9%CE%A8%CE%A4-%CE%A5%CE%A60",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A95%CE%95%CE%96%CE%A9%CE%A8%CE%A4-%CE%A5%CE%A60/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A95%CE%95%CE%96%CE%A9%CE%A8%CE%A4-%CE%A5%CE%A60",
+  "listing_sha256": "ea4d5ad039daae9323ce317508fcffb5b61e90b2d5ec73965b50dde5b119b9ba",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
