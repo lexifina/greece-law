@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ6ΟΕΩΡ7-Ν4Μ",
+  "subject": "Παραχώρηση Θέσης Στάθμευσης έμπροσθεν του Ι. Ναού Κοιμήσεως Θεοτόκου.",
+  "protocol_number": "49105",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6090",
+    "label": "ΔΗΜΟΣ ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81672"
+  ],
+  "thematic_category_ids": [
+    "48",
+    "52"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "40",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-08-02",
+  "posted": "2022-08-02",
+  "publish_timestamp_ms": 1659434687946,
+  "version_id": "705d5f15-c5a2-403f-b376-8001b22f16b1",
+  "in_force": "2022-08-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%9F%CE%95%CE%A9%CE%A17-%CE%9D4%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A86%CE%9F%CE%95%CE%A9%CE%A17-%CE%9D4%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A86%CE%9F%CE%95%CE%A9%CE%A17-%CE%9D4%CE%9C",
+  "listing_sha256": "0007f7416acd3b87d2ba4aa561b3dd01277d8838369613136053ed45fc7d3811",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
