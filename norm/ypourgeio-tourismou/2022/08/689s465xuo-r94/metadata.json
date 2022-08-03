@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "689Σ465ΧΘΟ-Ρ94",
+  "subject": "Καθορισμός διαδικασίας νομιμοποίησης  της περ. β της παρ.4 του άρθρου 31 του ν.2160/1993 (Α’ 118)",
+  "protocol_number": "14574",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025893",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΤΟΥΡΙΣΜΟΥ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035533"
+  ],
+  "thematic_category_ids": [
+    "40"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4027",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100015996",
+        "unitId": [
+          "100060950"
+        ],
+        "signerIds": [
+          "100060951"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-08-03",
+  "posted": "2022-08-03",
+  "publish_timestamp_ms": 1659522860173,
+  "version_id": "2edd0f6d-6d0f-4838-a281-f936c2de0a88",
+  "in_force": "2022-08-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/689%CE%A3465%CE%A7%CE%98%CE%9F-%CE%A194",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/689%CE%A3465%CE%A7%CE%98%CE%9F-%CE%A194/document",
+  "page": "https://diavgeia.gov.gr/decision/view/689%CE%A3465%CE%A7%CE%98%CE%9F-%CE%A194",
+  "listing_sha256": "4cbcf66978707435f80e61092860dca65b53cb8ff5bcec1264a35c5367c14d77",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
