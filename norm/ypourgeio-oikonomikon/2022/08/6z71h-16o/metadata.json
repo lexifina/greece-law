@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Ζ71Η-16Ο",
+  "subject": "Έγκριση απόδοσης πλεονάσματος της Επιτροπής Εποπτείας και Ελέγχου Παιγνίων (Ε.Ε.Ε.Π.) της οικονομικής χρήσης έτους 2020, σύμφωνα με την διάταξη της παρ. 8 του άρθρου 28 του ν.4002/2011 (Α΄180)",
+  "protocol_number": "110387 ΕΞ 2022/1.8.2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100038757"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4108",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "110387",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-08-03",
+  "posted": "2022-08-03",
+  "publish_timestamp_ms": 1659523638118,
+  "version_id": "836e02e7-9447-43f1-b26e-b844285957f4",
+  "in_force": "2022-08-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9671%CE%97-16%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9671%CE%97-16%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9671%CE%97-16%CE%9F",
+  "listing_sha256": "8d05aadcb065a1c993f49891ab78a86786873431fa926185afa9f0a6593a26d5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
