@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΔΨΕΩΡ3-8ΣΒ",
+  "subject": "Μίσθωση κτιρίου για τις ανάγκες στέγασης Δημοτικών Υπηρεσιών",
+  "protocol_number": "16357",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003098"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "146",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-08-04",
+  "posted": "2022-08-04",
+  "publish_timestamp_ms": 1659598729490,
+  "version_id": "860dbe9c-aee9-4cfb-8241-36e12d8e474b",
+  "in_force": "2022-08-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%94%CE%A8%CE%95%CE%A9%CE%A13-8%CE%A3%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%94%CE%A8%CE%95%CE%A9%CE%A13-8%CE%A3%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%94%CE%A8%CE%95%CE%A9%CE%A13-8%CE%A3%CE%92",
+  "listing_sha256": "cfbf64bf2d327d0fe625f37a0b7b324075ad9a009c2857ae38d3ecf49885a954",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
