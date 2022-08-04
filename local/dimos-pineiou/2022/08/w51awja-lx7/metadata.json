@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω51ΑΩΞΑ-ΛΧ7",
+  "subject": "Ψήφιση εκ νέου του Οργανισμού Εσωτερικής Υπηρεσίας Ο.Ε.Υ. της Δ.Ε.Υ.Α. Δ. Πηνειού",
+  "protocol_number": "24",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6249",
+    "label": "ΔΗΜΟΣ ΠΗΝΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100075102"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "4",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "Ω85ΙΩΞΑ-ΔΒΨ"
+      }
+    ]
+  },
+  "issued": "2022-08-04",
+  "posted": "2022-08-04",
+  "publish_timestamp_ms": 1659613434494,
+  "version_id": "245ae8e7-9fef-4078-be8e-5685ba553cfa",
+  "in_force": "2022-08-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A951%CE%91%CE%A9%CE%9E%CE%91-%CE%9B%CE%A77",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A951%CE%91%CE%A9%CE%9E%CE%91-%CE%9B%CE%A77/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A951%CE%91%CE%A9%CE%9E%CE%91-%CE%9B%CE%A77",
+  "listing_sha256": "cfbf64bf2d327d0fe625f37a0b7b324075ad9a009c2857ae38d3ecf49885a954",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
