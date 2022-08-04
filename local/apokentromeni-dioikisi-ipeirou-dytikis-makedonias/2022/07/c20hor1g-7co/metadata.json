@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ20ΗΟΡ1Γ-7ΨΟ",
+  "subject": "ΑΝΑΝΕΩΣΗ ΣΥΜΒΑΣΕΩΝ",
+  "protocol_number": "77107",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50201",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "76743"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "1802",
+      "issue": "fektype_C",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "10032",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-07-14",
+  "posted": "2022-08-04",
+  "publish_timestamp_ms": 1659592498264,
+  "version_id": "3a3716c6-5eaf-44b8-8f9a-e432d8aef996",
+  "in_force": "2022-08-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A820%CE%97%CE%9F%CE%A11%CE%93-7%CE%A8%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A820%CE%97%CE%9F%CE%A11%CE%93-7%CE%A8%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A820%CE%97%CE%9F%CE%A11%CE%93-7%CE%A8%CE%9F",
+  "listing_sha256": "a2479512902f01d22759f4849b25a9418e74050c8a0b36fd048da8c365c6d8aa",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
