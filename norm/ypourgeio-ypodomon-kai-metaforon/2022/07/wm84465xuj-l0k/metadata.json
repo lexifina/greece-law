@@ -1,0 +1,72 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜ84465ΧΘΞ-Λ0Κ",
+  "subject": "Οριοθέτηση περιοχών και χορήγηση Στεγαστικής Συνδρομής για την αποκατάσταση των ζημιών σε κτίρια από: α) την πλημμύρα της 14ης Οκτωβρίου 2021 σε περιοχές των Δήμων Καλλιθέας, Μοσχάτου-Ταύρου, Νέας Σμύρνης και Παλαιού Φαλήρου, β) την πλημμύρα της 23ης Νοεμβρίου 2021 σε περιοχές των Δήμων Καλλιθέας και Μοσχάτου-Ταύρου και γ) την πλημμύρα της 11ης Δεκεμβρίου 2021 σε περιοχή του Δήμου Αλίμου, της Περιφερειακής Ενότητας Νοτίου Τομέα Αθηνών της Περιφέρειας Αττικής.",
+  "protocol_number": "225775/Δ.Α.Ε.Φ.Κ.-Κ.Ε /Α325 Σχετ.: 18429/21, 21383/21, 22623/21, 23363/21, 43722/22, 59816/22, 65078/22, 89154/22",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4176",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "126841"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      },
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100064185"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-07-13",
+  "posted": "2022-08-09",
+  "publish_timestamp_ms": 1660035952306,
+  "version_id": "7262e10d-1ed2-4c5e-8ce1-fef62c8764e0",
+  "in_force": "2022-08-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C84465%CE%A7%CE%98%CE%9E-%CE%9B0%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C84465%CE%A7%CE%98%CE%9E-%CE%9B0%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C84465%CE%A7%CE%98%CE%9E-%CE%9B0%CE%9A",
+  "listing_sha256": "33fee09d37c9617ffa27977377048723aa06e6458acb5bd7b1ef3ee351522e6c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
