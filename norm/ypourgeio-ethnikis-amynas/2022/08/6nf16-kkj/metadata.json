@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΝΦ16-ΚΚΞ",
+  "subject": "\"Ανάκληση της ανατεθείσας εντολής, με την υπό στοιχεία\nΦ.800/1624/68722/Σ.16134/06-10-2017 κοινή απόφαση των Αναπληρωτών Υπουργών Εθνικής Άμυνας και Οικονομικών «Καθορισμός χρονοδιαγράμματος πληρωμών\nκαι λοιπών λεπτομερειών για την εξειδίκευση της ανατεθείσας εντολής παροχής εξειδικευμένων νομικών υπηρεσιών και νομικής υποστήριξης του Ελληνικού Δημοσίου και\nτου Νομικού Συμβουλίου του Κράτους στη διεθνή Δικηγορική Εταιρεία HOLMAN\nFENWICK WILLAN LLP κατά την εκδίκαση των δύο διαιτητικών υποθέσεων που εκκρεμούν ενώπιον του Διεθνούς Διαιτητικού Δικαστηρίου του Διεθνούς Εμπορικού Επιμελητηρίου (με αριθμούς καταχώρισης 18675/GZ/MHM/AGF/Z και 20215/AGF/ZF)»\n(Β’ 3746), όπως τροποποιήθηκε με την υπό στοιχεία Φ.800/1214/39553/Σ.11418/19-\n6-2020 κοινή απόφαση των Υφυπουργών Οικονομικών και Εθνικής Άμυνας (Β’ 2642).”",
+  "protocol_number": "83274",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "70167"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4220",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-08-11",
+  "posted": "2022-08-11",
+  "publish_timestamp_ms": 1660204451025,
+  "version_id": "3163b6a0-d543-4a3d-8df0-29886a26909d",
+  "in_force": "2022-08-11",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%A616-%CE%9A%CE%9A%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%9D%CE%A616-%CE%9A%CE%9A%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%9D%CE%A616-%CE%9A%CE%9A%CE%9E",
+  "listing_sha256": "a18dc0d488619ef5c75fea45fbce23b04958dbe83c6661787ca3a7ebde3f9833",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
