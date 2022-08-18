@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΓΠ9ΩΨ4-ΞΡΘ",
+  "subject": "\"Περί έγκρισης ΠΡΑΚΤΙΚΟ VΙΙ ελέγχου δικαιολογητικών κατακύρωσης και απόφαση κατακύρωσης της ανοικτής διαδικασίας μέσω ΕΣΗΔΗΣ για τη σύναψη σύμβασης προμήθειας με τίτλο «Προμήθεια ηλεκτρολογικού υλικού για τις ανάγκες του Δήμου Αλιάρτου – Θεσπιέων για ένα έτος» του Δήμου Αλιάρτου – Θεσπιέων με κριτήριο ανάθεσης την πλέον συμφέρουσα από οικονομική άποψη προσφορά με βάση την τιμή του αρχικού προϋπολογισμού 59.997,91 € συμπ. Φ.Π.Α 24%»\"",
+  "protocol_number": "7124",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6020",
+    "label": "ΔΗΜΟΣ ΑΛΙΑΡΤΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "94966"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "143/2022",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-08-17",
+  "posted": "2022-08-18",
+  "publish_timestamp_ms": 1660831284636,
+  "version_id": "ec087026-0b05-4243-a36b-25c26f09b115",
+  "in_force": "2022-08-18",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%A09%CE%A9%CE%A84-%CE%9E%CE%A1%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%93%CE%A09%CE%A9%CE%A84-%CE%9E%CE%A1%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%93%CE%A09%CE%A9%CE%A84-%CE%9E%CE%A1%CE%98",
+  "listing_sha256": "cbbf57c4c309ac7b231ff792f1c48a8dbf167f1de270d15276a8ff2e9300b727",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
