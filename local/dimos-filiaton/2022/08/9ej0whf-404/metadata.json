@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΕΞ0ΩΗΦ-404",
+  "subject": "Έγκριση πρωτόκολλου Ταμειακής Διαχείρισης Ιουνίου 2022",
+  "protocol_number": "185/2022 Ο.Ε.",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6308",
+    "label": "ΔΗΜΟΣ ΦΙΛΙΑΤΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84392"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-08-12",
+  "posted": "2022-08-22",
+  "publish_timestamp_ms": 1661160703507,
+  "version_id": "b84e85f1-50ba-4539-a7ab-ab2bd15ddeba",
+  "in_force": "2022-08-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%95%CE%9E0%CE%A9%CE%97%CE%A6-404",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%95%CE%9E0%CE%A9%CE%97%CE%A6-404/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%95%CE%9E0%CE%A9%CE%97%CE%A6-404",
+  "listing_sha256": "b722ddde5e02e465a9da3e383ec2f70be49cadf2a5e738bc025bd83cd4000fc7",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
