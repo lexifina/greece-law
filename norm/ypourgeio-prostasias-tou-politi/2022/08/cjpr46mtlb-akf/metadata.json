@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΞΠΡ46ΜΤΛΒ-ΑΚΦ",
+  "subject": "Ανάκληση Απόφασης",
+  "protocol_number": "2501/10/97-θ’",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054489",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100001815"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-08-20",
+  "posted": "2022-08-25",
+  "publish_timestamp_ms": 1661426164091,
+  "version_id": "c61e9b5d-4d48-40db-b07c-8f0d58712010",
+  "in_force": "2022-08-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E%CE%A0%CE%A146%CE%9C%CE%A4%CE%9B%CE%92-%CE%91%CE%9A%CE%A6",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E%CE%A0%CE%A146%CE%9C%CE%A4%CE%9B%CE%92-%CE%91%CE%9A%CE%A6/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9E%CE%A0%CE%A146%CE%9C%CE%A4%CE%9B%CE%92-%CE%91%CE%9A%CE%A6",
+  "listing_sha256": "ada3cdd0bf812e74055614471ede0b14c3e7109382d4d7b86fecde325d64d8f3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
