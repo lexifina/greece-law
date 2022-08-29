@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΝ254653Π8-7ΦΔ",
+  "subject": "Απόφαση συγκρότησης επιτροπής κρίσεως νέων κυνηγών.",
+  "protocol_number": "96984",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100074110"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-08-29",
+  "posted": "2022-08-29",
+  "publish_timestamp_ms": 1661774178595,
+  "version_id": "4c638d22-0b2f-4a1a-ae0a-cfd92a513c36",
+  "in_force": "2022-08-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9D254653%CE%A08-7%CE%A6%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9D254653%CE%A08-7%CE%A6%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9D254653%CE%A08-7%CE%A6%CE%94",
+  "listing_sha256": "b1c44f89c6832c05a18271eab612631b1631ff4208f14d138f9fed3da78e05f5",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
