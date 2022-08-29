@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΜΥΔ46ΜΠ3Ζ-9ΕΠ",
+  "subject": "Τροποποίηση των ορίων της Ελεύθερης Ζώνης του Λιμένα Θεσσαλονίκης",
+  "protocol_number": "Α.1114",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100029495",
+    "label": "ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ",
+    "category": "INDEPENDENTAUTHORITY"
+  },
+  "unit_ids": [
+    "100029611"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4504",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Πράξη Ανεξάρτητης Αρχής",
+    "kanonistikipraxiaa": "Α.1104",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-08-29",
+  "posted": "2022-08-29",
+  "publish_timestamp_ms": 1661764715777,
+  "version_id": "c850a722-0df7-4d67-b94d-3a325e897af6",
+  "in_force": "2022-08-29",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A5%CE%9446%CE%9C%CE%A03%CE%96-9%CE%95%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%9C%CE%A5%CE%9446%CE%9C%CE%A03%CE%96-9%CE%95%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%9C%CE%A5%CE%9446%CE%9C%CE%A03%CE%96-9%CE%95%CE%A0",
+  "listing_sha256": "4966c4fb42ded42be5332e1e2905575924f5988d62b88da808e76cf98f629896",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
