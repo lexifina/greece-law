@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "624ΦΩ94-Ω76",
+  "subject": "ΜΕΤΑΚΙΝΗΣΗ ΑΘΗΝΑ ΕΛΕΓΚΤΙΚΟ ΣΥΝΕΔΡΙΟ",
+  "protocol_number": "5305",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6054",
+    "label": "ΔΗΜΟΣ ΒΙΑΝΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81442"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-08-30",
+  "posted": "2022-08-30",
+  "publish_timestamp_ms": 1661859208394,
+  "version_id": "14c78650-dd41-47e9-80fe-6eade57d78c7",
+  "in_force": "2022-08-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/624%CE%A6%CE%A994-%CE%A976",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/624%CE%A6%CE%A994-%CE%A976/document",
+  "page": "https://diavgeia.gov.gr/decision/view/624%CE%A6%CE%A994-%CE%A976",
+  "listing_sha256": "1b022b5bd34ca9ca11aa49b33852ae1c70e97c2f08222f4cca36c9485ecf34bc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
