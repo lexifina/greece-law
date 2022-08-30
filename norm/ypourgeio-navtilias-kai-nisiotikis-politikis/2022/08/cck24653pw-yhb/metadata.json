@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΨΚ24653ΠΩ-ΥΗΒ",
+  "subject": "Διάθεση ενός κατασχεμένου οχήματος στο Λ.Σ-ΕΛ.ΑΚΤ για κάλυψη αναγκών του",
+  "protocol_number": "2122.7-3/58401/17-08-2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015969",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100011376"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4549",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "2",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-08-30",
+  "posted": "2022-08-30",
+  "publish_timestamp_ms": 1661844962751,
+  "version_id": "9b69b5bc-86ae-4548-906a-e4309482bd09",
+  "in_force": "2022-08-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A8%CE%9A24653%CE%A0%CE%A9-%CE%A5%CE%97%CE%92",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A8%CE%9A24653%CE%A0%CE%A9-%CE%A5%CE%97%CE%92/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A8%CE%9A24653%CE%A0%CE%A9-%CE%A5%CE%97%CE%92",
+  "listing_sha256": "fb2403ab9d5475fb039200b1f7ba3c8d77321d942ecae3c76021a6dd50488006",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
