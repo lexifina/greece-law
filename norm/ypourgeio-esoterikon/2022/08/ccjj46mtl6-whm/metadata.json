@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΨΞΞ46ΜΤΛ6-ΩΗΜ",
+  "subject": "Περίληψη μετάταξης υπαλλήλου",
+  "protocol_number": "-",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100016293"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2109",
+      "issue": "fektype_C",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "55281",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-08-31",
+  "posted": "2022-08-31",
+  "publish_timestamp_ms": 1661937315493,
+  "version_id": "69ea6088-f2dc-4d51-8c93-489702256d49",
+  "in_force": "2022-08-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A8%CE%9E%CE%9E46%CE%9C%CE%A4%CE%9B6-%CE%A9%CE%97%CE%9C",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A8%CE%9E%CE%9E46%CE%9C%CE%A4%CE%9B6-%CE%A9%CE%97%CE%9C/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A8%CE%9E%CE%9E46%CE%9C%CE%A4%CE%9B6-%CE%A9%CE%97%CE%9C",
+  "listing_sha256": "78b635d930bf3f141bb2dfc8ce1712595c3756e798a1bf776164854801574d8e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
