@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ5ΙΕΩ1Λ-ΕΙ1",
+  "subject": "5η ΑΝΑΜΟΡΦΩΣΗ 111 ΔΣ",
+  "protocol_number": "4090",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6267",
+    "label": "ΔΗΜΟΣ ΣΑΜΟΘΡΑΚΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100043867"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "111",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-08-31",
+  "posted": "2022-08-31",
+  "publish_timestamp_ms": 1661945639615,
+  "version_id": "54b5995f-f717-48f8-9a35-f64fe6563714",
+  "in_force": "2022-08-31",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A85%CE%99%CE%95%CE%A91%CE%9B-%CE%95%CE%991",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A85%CE%99%CE%95%CE%A91%CE%9B-%CE%95%CE%991/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A85%CE%99%CE%95%CE%A91%CE%9B-%CE%95%CE%991",
+  "listing_sha256": "78b635d930bf3f141bb2dfc8ce1712595c3756e798a1bf776164854801574d8e",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
