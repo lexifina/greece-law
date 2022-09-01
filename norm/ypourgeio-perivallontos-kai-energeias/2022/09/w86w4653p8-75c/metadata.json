@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω86Ω4653Π8-75Ψ",
+  "subject": "ΠΑΡΑΤΑΣΗ ΣΥΑΔΧ",
+  "protocol_number": "140822",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100074225"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6Δ34ΟΡ1Φ-ΖΨΨ"
+      }
+    ]
+  },
+  "issued": "2022-09-01",
+  "posted": "2022-09-01",
+  "publish_timestamp_ms": 1662021143102,
+  "version_id": "3bc93f1a-eb5b-4d6a-9b49-4842b3b52302",
+  "in_force": "2022-09-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A986%CE%A94653%CE%A08-75%CE%A8",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A986%CE%A94653%CE%A08-75%CE%A8/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A986%CE%A94653%CE%A08-75%CE%A8",
+  "listing_sha256": "46200ab7f0b8f0ffe2618d9b22075954376ceeef2a5c039be17985f73ae07b28",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
