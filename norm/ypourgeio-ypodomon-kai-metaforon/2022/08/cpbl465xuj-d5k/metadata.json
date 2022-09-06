@@ -1,0 +1,80 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΠΒΛ465ΧΘΞ-Δ5Κ",
+  "subject": "Συμπλήρωση της υπό στοιχεία Δ.Α.Ε.Φ.Κ.-K.E./102484/Α325/01.04.2022 (Β΄1786) κοινής υπουργικής απόφασης με θέμα: «Οριοθέτηση περιοχών και χορήγηση Στεγαστικής Συνδρομής για την αποκατάσταση των ζημιών σε κτίρια από την πλημμύρα της 14ης και 15ης Οκτωβρίου 2021 σε περιοχές των Περιφερειακών Ενοτήτων Κέρκυρας και Ιθάκης της Περιφέρειας Ιονίων Νήσων», ως προς την οριοθέτηση των πληγεισών περιοχών από την πλημμύρα της 14ης Οκτωβρίου 2021.",
+  "protocol_number": "264170 /Δ.Α.Ε.Φ.Κ.-Κ.Ε./Α325, Σχετ. : 256261/22",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4648",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "948Β465ΧΘΞ-2Φ2"
+      },
+      {
+        "relatedDecisionsADA": "Ω0ΦΓ465ΧΘΞ-02Φ"
+      }
+    ],
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "70113"
+        ],
+        "signerIds": [
+          "126841"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      },
+      {
+        "ministryId": "100054492",
+        "unitId": [
+          "94029"
+        ],
+        "signerIds": [
+          "100064185"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-08-19",
+  "posted": "2022-09-06",
+  "publish_timestamp_ms": 1662461924146,
+  "version_id": "90ed16a5-d327-4324-bec2-8d461c185821",
+  "in_force": "2022-09-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%92%CE%9B465%CE%A7%CE%98%CE%9E-%CE%945%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A0%CE%92%CE%9B465%CE%A7%CE%98%CE%9E-%CE%945%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A0%CE%92%CE%9B465%CE%A7%CE%98%CE%9E-%CE%945%CE%9A",
+  "listing_sha256": "09a3bccfc1f2a8db677a18b2eb7838434fc9e4cc2ba4654c794d9dbd5b90ad0b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
