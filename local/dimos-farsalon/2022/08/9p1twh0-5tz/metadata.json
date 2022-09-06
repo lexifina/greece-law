@@ -1,0 +1,46 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9Π1ΤΩΗ0-5ΤΖ",
+  "subject": "Έγκριση της με αρ. 25/2022 μελέτης του έργου με τίτλο «Ανακατασκευή στέγης ΚΔΑΠ Ρευματιάς και των εξωτερικών όψεων» προϋπολογισμού 36.000,00€ και καθορισμός τρόπου εκτέλεσης",
+  "protocol_number": "11346",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6306",
+    "label": "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82053"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "238/2022",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "9ΞΨΞΩΗ0-8Σ8"
+      },
+      {
+        "relatedDecisionsADA": "96Φ0ΩΗ0-5ΛΚ"
+      }
+    ]
+  },
+  "issued": "2022-08-30",
+  "posted": "2022-09-06",
+  "publish_timestamp_ms": 1662458601684,
+  "version_id": "da3a7527-1a23-4613-98c3-172b64e1fc1c",
+  "in_force": "2022-09-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%A01%CE%A4%CE%A9%CE%970-5%CE%A4%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%A01%CE%A4%CE%A9%CE%970-5%CE%A4%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%A01%CE%A4%CE%A9%CE%970-5%CE%A4%CE%96",
+  "listing_sha256": "1b022b5bd34ca9ca11aa49b33852ae1c70e97c2f08222f4cca36c9485ecf34bc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
