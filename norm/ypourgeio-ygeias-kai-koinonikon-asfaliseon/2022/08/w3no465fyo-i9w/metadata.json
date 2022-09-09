@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω3ΝΟ465ΦΥΟ-Ι9Ω",
+  "subject": "Μετατροπή κενών οργανικών θέσεων προσωπικού στο Κέντρο Υγείας (Κ.Υ.) Τυρνάβου αρμοδιότητας 5ης Υγειονομικής Περιφέρειας Θεσσαλίας και Στερεάς Ελλάδας.",
+  "protocol_number": "Γ1α/Γ.Π.οικ.49798",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100010899",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100047557"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4703",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-08-30",
+  "posted": "2022-09-09",
+  "publish_timestamp_ms": 1662703458919,
+  "version_id": "63a3e22f-23b2-4233-9eea-79db751136c0",
+  "in_force": "2022-09-09",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%9D%CE%9F465%CE%A6%CE%A5%CE%9F-%CE%999%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A93%CE%9D%CE%9F465%CE%A6%CE%A5%CE%9F-%CE%999%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A93%CE%9D%CE%9F465%CE%A6%CE%A5%CE%9F-%CE%999%CE%A9",
+  "listing_sha256": "1b022b5bd34ca9ca11aa49b33852ae1c70e97c2f08222f4cca36c9485ecf34bc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
