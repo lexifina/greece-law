@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60Α54653Π8-0ΜΩ",
+  "subject": "Έγκριση υλοτομίας ατόμων δρυός",
+  "protocol_number": "107294",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100074002"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-09-20",
+  "posted": "2022-09-20",
+  "publish_timestamp_ms": 1663665448286,
+  "version_id": "f3cc8d90-ee1d-4718-b3c3-89af328da4f3",
+  "in_force": "2022-09-20",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%9154653%CE%A08-0%CE%9C%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%9154653%CE%A08-0%CE%9C%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%9154653%CE%A08-0%CE%9C%CE%A9",
+  "listing_sha256": "32881fbc70880c68319392e76c1f369d8b97d7051ffd5b80bb7ac60bb53123be",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
