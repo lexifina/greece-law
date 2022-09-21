@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΔΠΡ465ΧΘΞ-Θ00",
+  "subject": "Ορισμός προθεσμίας υποβολής αιτήσεων σχετικά με τη χορήγηση Στεγαστικής Συνδρομής για την αποκατάσταση των ζημιών σε κτήρια που επλήγησαν από τις πυρκαγιές που εκδηλώθηκαν σε περιοχές της Ελλάδας από τον Μάιο του 2021 έως τον Αύγουστο του 2021",
+  "protocol_number": "284274 /Δ.Α.Ε.Φ.Κ.-Κ.Ε/Α321",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4921",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "10003",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-09-06",
+  "posted": "2022-09-21",
+  "publish_timestamp_ms": 1663757649632,
+  "version_id": "59725aa8-19d0-448a-a741-b9360b07af1a",
+  "in_force": "2022-09-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%94%CE%A0%CE%A1465%CE%A7%CE%98%CE%9E-%CE%9800",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%94%CE%A0%CE%A1465%CE%A7%CE%98%CE%9E-%CE%9800/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%94%CE%A0%CE%A1465%CE%A7%CE%98%CE%9E-%CE%9800",
+  "listing_sha256": "742edf8fb6e6f39f86f18929c870483966fc4fbedb653eb309a7742860375403",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
