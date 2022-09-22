@@ -1,0 +1,81 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6Φ23465ΧΘΞ-ΞΗ9",
+  "subject": "Τροποποίηση της υπ’ αρ. οικ. 39804/2812/2017 (Β΄ 2918) κοινής υπουργικής απόφασης «Εναρμόνιση της ελληνικής νομοθεσίας με την Οδηγία 2014/47/ΕΕ του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 3ης Απριλίου 2014 σχετικά με την τεχνική οδική επιθεώρηση της καλής τεχνικής κατάστασης των οχημάτων επαγγελματικής χρήσεως που κυκλοφορούν στην Ένωση και την κατάργηση της Οδηγίας 2000/30/ΕΚ», σε συμμόρφωση με την Οδηγία (ΕΕ) 2021/1716 της Επιτροπής.",
+  "protocol_number": "274613",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035926"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4927",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "274613",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94842"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      },
+      {
+        "ministryId": "100054498",
+        "unitId": [
+          "100020574"
+        ],
+        "signerIds": [
+          "100063912"
+        ]
+      },
+      {
+        "ministryId": "100015981",
+        "unitId": [
+          "100004172"
+        ],
+        "signerIds": [
+          "100071416"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-09-06",
+  "posted": "2022-09-22",
+  "publish_timestamp_ms": 1663838932641,
+  "version_id": "356c412f-8b5c-4b86-b586-f425dfac8fe0",
+  "in_force": "2022-09-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A623465%CE%A7%CE%98%CE%9E-%CE%9E%CE%979",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%A623465%CE%A7%CE%98%CE%9E-%CE%9E%CE%979/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%A623465%CE%A7%CE%98%CE%9E-%CE%9E%CE%979",
+  "listing_sha256": "742edf8fb6e6f39f86f18929c870483966fc4fbedb653eb309a7742860375403",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
