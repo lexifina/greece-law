@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΙΣΕΩΛ9-ΗΟ1",
+  "subject": "Λήψη απόφασης για τον καθορισμό του αριθμού των ασκούμενων σπουδαστών στο Δήμο Κύθνου.",
+  "protocol_number": "53/2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6162",
+    "label": "ΔΗΜΟΣ ΚΥΘΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83013"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "53/2022",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-09-23",
+  "posted": "2022-09-28",
+  "publish_timestamp_ms": 1664360040140,
+  "version_id": "fd1f7af9-4d8a-450f-b2f5-1feaf85017dd",
+  "in_force": "2022-09-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%99%CE%A3%CE%95%CE%A9%CE%9B9-%CE%97%CE%9F1",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%99%CE%A3%CE%95%CE%A9%CE%9B9-%CE%97%CE%9F1/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%99%CE%A3%CE%95%CE%A9%CE%9B9-%CE%97%CE%9F1",
+  "listing_sha256": "3ea03afed571750968c1476b024ce5af2c33d0191ac0ba85aa175ba8069d82c6",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
