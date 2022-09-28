@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΜ3ΓΩΗ0-ΑΧ6",
+  "subject": "Αίτημα για παραχώρηση χώρου στάθμευσης σε Α.μ.ε.α. στην κα Καφέτση Παναγιώτα",
+  "protocol_number": "12746",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6306",
+    "label": "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "82054"
+  ],
+  "thematic_category_ids": [
+    "10007"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "13",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-09-26",
+  "posted": "2022-09-28",
+  "publish_timestamp_ms": 1664348955061,
+  "version_id": "ed444500-e3a7-4015-b57f-9548e57a55d4",
+  "in_force": "2022-09-28",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9C3%CE%93%CE%A9%CE%970-%CE%91%CE%A76",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9C3%CE%93%CE%A9%CE%970-%CE%91%CE%A76/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9C3%CE%93%CE%A9%CE%970-%CE%91%CE%A76",
+  "listing_sha256": "268ca8326ec38b6cc2d078383d8dfdba048fbbea2c3a9490d75eb1770c0861cb",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
