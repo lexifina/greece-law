@@ -1,0 +1,41 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΙΩΤΟΡ1Υ-67Χ",
+  "subject": "ΔΙΟΡΘΩΣΗ ΣΦΑΛΜΑΤΟΣ",
+  "protocol_number": "217115",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "50205",
+    "label": "ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ",
+    "category": "ADMINISTRATIVEREGION"
+  },
+  "unit_ids": [
+    "78719"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "2474",
+      "issue": "fektype_C",
+      "issueyear": 2022
+    },
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-09-22",
+  "posted": "2022-10-03",
+  "publish_timestamp_ms": 1664777654833,
+  "version_id": "a16f6bde-b2fa-45de-966a-2dafc09d33bf",
+  "in_force": "2022-10-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%A9%CE%A4%CE%9F%CE%A11%CE%A5-67%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%99%CE%A9%CE%A4%CE%9F%CE%A11%CE%A5-67%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%99%CE%A9%CE%A4%CE%9F%CE%A11%CE%A5-67%CE%A7",
+  "listing_sha256": "308c4c6c91a01e7d427e79c2a525da389b393f8a74a52570caa8f35bcd4aafef",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
