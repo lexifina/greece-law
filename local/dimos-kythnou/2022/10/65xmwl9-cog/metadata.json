@@ -1,0 +1,38 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "65ΧΜΩΛ9-ΨΟΓ",
+  "subject": "Λήψη απόφασης για την αποδοχή ποσού για συμπληρωματική απόφαση μηνός Σεπτεμβρίου έτους 2022.",
+  "protocol_number": "101/2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6162",
+    "label": "ΔΗΜΟΣ ΚΥΘΝΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83012"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "101/2022",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-10-04",
+  "posted": "2022-10-06",
+  "publish_timestamp_ms": 1665038565126,
+  "version_id": "45e3d7ba-8558-4988-ab79-6a0ceae23c75",
+  "in_force": "2022-10-06",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/65%CE%A7%CE%9C%CE%A9%CE%9B9-%CE%A8%CE%9F%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/65%CE%A7%CE%9C%CE%A9%CE%9B9-%CE%A8%CE%9F%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/65%CE%A7%CE%9C%CE%A9%CE%9B9-%CE%A8%CE%9F%CE%93",
+  "listing_sha256": "39627965eb0e79b1c1fc36bef76acc7b8710f9e90d4e98ba65c58986796e5cde",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
