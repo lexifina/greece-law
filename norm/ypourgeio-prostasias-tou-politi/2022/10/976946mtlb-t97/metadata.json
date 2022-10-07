@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "976946ΜΤΛΒ-Τ97",
+  "subject": "ΚΥΚΛΟΦΟΡΙΑΚΕΣ ΡΥΘΜΙΣΕΙΣ",
+  "protocol_number": "2501/1/2407-α",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054489",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100001796"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-10-07",
+  "posted": "2022-10-07",
+  "publish_timestamp_ms": 1665129742613,
+  "version_id": "c76fad20-0d74-4717-a5f0-f3b545c716d2",
+  "in_force": "2022-10-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/976946%CE%9C%CE%A4%CE%9B%CE%92-%CE%A497",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/976946%CE%9C%CE%A4%CE%9B%CE%92-%CE%A497/document",
+  "page": "https://diavgeia.gov.gr/decision/view/976946%CE%9C%CE%A4%CE%9B%CE%92-%CE%A497",
+  "listing_sha256": "161649790959a98606f77e60a3b9eb68e986276fce52c30dc30f727635f357d3",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
