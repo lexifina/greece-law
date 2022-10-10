@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΧΥΙ46ΜΓΜΥ-ΞΔΓ",
+  "subject": "Έγκριση δαπανών που έχουν γίνει από την παγία προκαταβολή Τ.Κ.  ΒΑΛΑΝΕΙΟΥ ΔΕ ΕΣΠΕΡΙΩΝ",
+  "protocol_number": "30-272 αρ.απόφασης οικονομικής επιτροπής",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100049339",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΕΡΚΥΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100055285"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-09-20",
+  "posted": "2022-10-10",
+  "publish_timestamp_ms": 1665391858536,
+  "version_id": "366e2f5f-f360-45b2-b1b0-6cc5a09977a4",
+  "in_force": "2022-10-10",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A7%CE%A5%CE%9946%CE%9C%CE%93%CE%9C%CE%A5-%CE%9E%CE%94%CE%93",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A7%CE%A5%CE%9946%CE%9C%CE%93%CE%9C%CE%A5-%CE%9E%CE%94%CE%93/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A7%CE%A5%CE%9946%CE%9C%CE%93%CE%9C%CE%A5-%CE%9E%CE%94%CE%93",
+  "listing_sha256": "fef4e3fc584af60e2b716c2f3df4856f00fe6b58eb728fb7d8536effce189279",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
