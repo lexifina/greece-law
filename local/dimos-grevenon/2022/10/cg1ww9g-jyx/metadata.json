@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΓ1ΩΩ9Γ-ΞΥΧ",
+  "subject": "Αποφ. Ο.Ε αριθμ. 331-2022 Έγκριση μετακίνησης αιρετού στις Βρυξέλλες  για συμμετοχή στους υποψήφιους προορισμούς για το βραβείο του Ευρωπαϊκού Προορισμού Αριστείας (EDEN) 2023.-",
+  "protocol_number": "13180",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6069",
+    "label": "ΔΗΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003163"
+  ],
+  "thematic_category_ids": [
+    "10",
+    "08"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-10-12",
+  "posted": "2022-10-12",
+  "publish_timestamp_ms": 1665566724835,
+  "version_id": "a384d556-ed47-44a1-812d-c9058360164f",
+  "in_force": "2022-10-12",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%931%CE%A9%CE%A99%CE%93-%CE%9E%CE%A5%CE%A7",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%931%CE%A9%CE%A99%CE%93-%CE%9E%CE%A5%CE%A7/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%931%CE%A9%CE%A99%CE%93-%CE%9E%CE%A5%CE%A7",
+  "listing_sha256": "6bf2ef8e1552a26f72ecf21fc14d28a4af0e87f416dc74596470c2aba83c1839",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
