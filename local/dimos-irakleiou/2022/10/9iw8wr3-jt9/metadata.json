@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΙΩ8ΩΡ3-ΞΤ9",
+  "subject": "ΤΟΠΟΘΕΤΗΣΗ ΚΑΤΟΠΤΡΟΥ ΣΤΗΝ ΟΔΟ ΦΙΛΟΘΕΗΣ 53 ΚΑΙ ΙΘΑΚΗΣ",
+  "protocol_number": "20730",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6109",
+    "label": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100003097"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "39",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-10-13",
+  "posted": "2022-10-13",
+  "publish_timestamp_ms": 1665651690964,
+  "version_id": "17a2e0fe-317a-41d6-b56e-aa84e3cdcbe3",
+  "in_force": "2022-10-13",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%99%CE%A98%CE%A9%CE%A13-%CE%9E%CE%A49",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%99%CE%A98%CE%A9%CE%A13-%CE%9E%CE%A49/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%99%CE%A98%CE%A9%CE%A13-%CE%9E%CE%A49",
+  "listing_sha256": "234327dd7333475a478bfd936969544d0f6913cc447237cdd6d74a9baab507d1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
