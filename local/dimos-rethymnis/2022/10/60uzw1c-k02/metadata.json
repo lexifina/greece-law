@@ -1,0 +1,44 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "60ΘΖΩ1Ψ-Κ02",
+  "subject": "«Έγκριση παράτασης σύμβασης ολοκλήρωσης των εργασιών εκκαθάρισης της «Διαδημοτικής Επιχείρησης ΧΥΤΑ Ρεθύμνης»",
+  "protocol_number": "290,22",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6263",
+    "label": "ΔΗΜΟΣ ΡΕΘΥΜΝΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83369"
+  ],
+  "thematic_category_ids": [
+    "20",
+    "10004"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "290",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΔΝ0Ω1Ψ-Γ2Σ"
+      }
+    ]
+  },
+  "issued": "2022-10-07",
+  "posted": "2022-10-14",
+  "publish_timestamp_ms": 1665728559066,
+  "version_id": "fd67986c-724a-4e6c-b9d2-4e37daa90365",
+  "in_force": "2022-10-14",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/60%CE%98%CE%96%CE%A91%CE%A8-%CE%9A02",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/60%CE%98%CE%96%CE%A91%CE%A8-%CE%9A02/document",
+  "page": "https://diavgeia.gov.gr/decision/view/60%CE%98%CE%96%CE%A91%CE%A8-%CE%9A02",
+  "listing_sha256": "5e642188d1b32acd4a8a5b12cf7a1e8dd42fb23297dccbfde0f873fe3b579989",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
