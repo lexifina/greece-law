@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ε77Δ4653Π8-8ΑΩ",
+  "subject": "Μερική κύρωση, του Δασικού Χάρτη όλων των τοπικών και δημοτικών κοινοτήτων Δήμων Γρεβενών και Δεσκάτης, Π.Ε. Γρεβενών",
+  "protocol_number": "120198",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015996",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100074002"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "715",
+      "issue": "fektype_D",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Φορέων Ευρύτερου Δημοσίου Τομέα",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-10-25",
+  "posted": "2022-10-25",
+  "publish_timestamp_ms": 1666720023460,
+  "version_id": "0ed1d9cb-5f36-496f-bdb2-3fb136eded29",
+  "in_force": "2022-10-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%9577%CE%944653%CE%A08-8%CE%91%CE%A9",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%9577%CE%944653%CE%A08-8%CE%91%CE%A9/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%9577%CE%944653%CE%A08-8%CE%91%CE%A9",
+  "listing_sha256": "30fbe3df0a3764859bb7e0123b992c3fc5ed77eb82b9c10a8cd743477a7ef400",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
