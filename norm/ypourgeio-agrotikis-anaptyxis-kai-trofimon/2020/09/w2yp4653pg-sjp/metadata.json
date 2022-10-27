@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ω2ΥΠ4653ΠΓ-ΣΞΠ",
+  "subject": "Ρυθμίσεις στο πλαίσιο λειτουργίας του υπομέτρου 7.3 «Ανάπτυξη ευρυζωνικών υποδομών στις αγροτικές περιοχές» του μέτρου Μ07 «Βασικές υπηρεσίες και ανάπλαση χωριών σε αγροτικές περιοχές» του Προγράμματος Αγροτικής Ανάπτυξης (ΠΑΑ) για την περίοδο 2014-2020.",
+  "protocol_number": "4544",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100015981",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100024534"
+  ],
+  "thematic_category_ids": [
+    "56"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "4062",
+      "issue": "fektype_B",
+      "issueyear": 2020
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "4544",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100047807"
+        ]
+      }
+    ]
+  },
+  "issued": "2020-09-04",
+  "posted": "2022-10-27",
+  "publish_timestamp_ms": 1666864243289,
+  "version_id": "0f848440-662b-42d3-90b1-78cc07ede447",
+  "in_force": "2022-10-27",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%A5%CE%A04653%CE%A0%CE%93-%CE%A3%CE%9E%CE%A0",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A92%CE%A5%CE%A04653%CE%A0%CE%93-%CE%A3%CE%9E%CE%A0/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A92%CE%A5%CE%A04653%CE%A0%CE%93-%CE%A3%CE%9E%CE%A0",
+  "listing_sha256": "24a2adc4d5c9634e24da21b94a72f759fc75c9716f977620dafeedae29753c76",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
