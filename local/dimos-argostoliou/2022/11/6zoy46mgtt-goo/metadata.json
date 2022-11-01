@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΖΟΥ46ΜΓΤΤ-ΓΟΟ",
+  "subject": "ΔΙΑΠΙΣΤΩΤΙΚΗ ΠΡΑΞΗ ΜΚ ΠΑΞΙΝΟΣ ΚΩΝ",
+  "protocol_number": "19242",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100049102",
+    "label": "ΔΗΜΟΣ ΑΡΓΟΣΤΟΛΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100052632"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-11-01",
+  "posted": "2022-11-01",
+  "publish_timestamp_ms": 1667298170145,
+  "version_id": "2f143f75-25b0-42ce-a3a3-626a74826bff",
+  "in_force": "2022-11-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%96%CE%9F%CE%A546%CE%9C%CE%93%CE%A4%CE%A4-%CE%93%CE%9F%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%96%CE%9F%CE%A546%CE%9C%CE%93%CE%A4%CE%A4-%CE%93%CE%9F%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%96%CE%9F%CE%A546%CE%9C%CE%93%CE%A4%CE%A4-%CE%93%CE%9F%CE%9F",
+  "listing_sha256": "0c5f1a56a2423c44bf69d10ff1b5ed654852d0702b1998a346f54012a4c52a33",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
