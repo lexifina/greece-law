@@ -1,0 +1,43 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΔΕ0ΩΕ4-12Σ",
+  "subject": "ΑΠΟΦΑΣΗ ΔΣ59/2022 Συζήτηση και λήψη απόφασης για την 3η αναμόρφωση προϋπολογισμού του Δήμου Ικαρίας, έτους 2022",
+  "protocol_number": "5689/3-11-2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6122",
+    "label": "ΔΗΜΟΣ ΙΚΑΡΙΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "85834"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης ΟΤΑ Α’ και Β’ Βαθμού (και εποπτευόμενων φορέων τους)",
+    "kanonistikipraxiaa": "56/2022",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "9Μ4ΜΩΕ4-94Ω"
+      }
+    ]
+  },
+  "issued": "2022-10-31",
+  "posted": "2022-11-03",
+  "publish_timestamp_ms": 1667457332787,
+  "version_id": "f0dc5587-c9d1-4d81-ae11-12eed8d90a4c",
+  "in_force": "2022-11-03",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%94%CE%950%CE%A9%CE%954-12%CE%A3",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%94%CE%950%CE%A9%CE%954-12%CE%A3/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%94%CE%950%CE%A9%CE%954-12%CE%A3",
+  "listing_sha256": "6533456379a1930b2fcde12afb11fd0c071edbf13aa771992b4c6796f67fd903",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
