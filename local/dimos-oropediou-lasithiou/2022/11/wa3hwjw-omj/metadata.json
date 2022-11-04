@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΑ3ΗΩΞΩ-ΟΜΞ",
+  "subject": "Λήψη απόφασης επί αιτήματος Προέδρου Κοινότητας Ψυχρού.",
+  "protocol_number": "4490",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6227",
+    "label": "ΔΗΜΟΣ ΟΡΟΠΕΔΙΟΥ ΛΑΣΙΘΙΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "84456"
+  ],
+  "thematic_category_ids": [
+    "28"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "53",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-11-04",
+  "posted": "2022-11-04",
+  "publish_timestamp_ms": 1667561204315,
+  "version_id": "80de8cd9-92b8-49ab-ab47-e9a473615001",
+  "in_force": "2022-11-04",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%913%CE%97%CE%A9%CE%9E%CE%A9-%CE%9F%CE%9C%CE%9E",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%913%CE%97%CE%A9%CE%9E%CE%A9-%CE%9F%CE%9C%CE%9E/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%913%CE%97%CE%A9%CE%9E%CE%A9-%CE%9F%CE%9C%CE%9E",
+  "listing_sha256": "794048925e299b1fd418bb62a2774f602a4f64d82a67996db0bff1313cdf8874",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
