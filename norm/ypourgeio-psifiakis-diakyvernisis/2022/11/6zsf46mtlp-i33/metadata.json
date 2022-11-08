@@ -1,0 +1,53 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "6ΖΣΦ46ΜΤΛΠ-Ι33",
+  "subject": "Καθορισμός ανώτατου ορίου των επιτρεπόμενων για το έτος 2022 ημερών μετακίνησης εκτός\nέδρας της διοίκησης και του προσωπικού της εταιρείας με την επωνυμία «Εθνικό Κέντρο\nΟπτικοακουστικών Μέσων και Επικοινωνίας Α.Ε. (Ε.Κ.Ο.Μ.Ε. Α.Ε.)»",
+  "protocol_number": "44420",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054486",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΨΗΦΙΑΚΗΣ ΔΙΑΚΥΒΕΡΝΗΣΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100060821"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5699",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-11-08",
+  "posted": "2022-11-08",
+  "publish_timestamp_ms": 1667888198411,
+  "version_id": "85c01f59-b81b-408f-b631-d28ee33a8fae",
+  "in_force": "2022-11-08",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/6%CE%96%CE%A3%CE%A646%CE%9C%CE%A4%CE%9B%CE%A0-%CE%9933",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/6%CE%96%CE%A3%CE%A646%CE%9C%CE%A4%CE%9B%CE%A0-%CE%9933/document",
+  "page": "https://diavgeia.gov.gr/decision/view/6%CE%96%CE%A3%CE%A646%CE%9C%CE%A4%CE%9B%CE%A0-%CE%9933",
+  "listing_sha256": "fa5f4dcd75b9bcb8707ec6a5328a32f985c6bdefb3a8c6da31a2cc09c389bc2c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
