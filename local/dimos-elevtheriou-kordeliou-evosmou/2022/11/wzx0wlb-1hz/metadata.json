@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΩΖΧ0ΩΛΒ-1ΗΖ",
+  "subject": "Συμπλήρωση της αρ. 134/22 απόφασης Ο.Ε.",
+  "protocol_number": "521/22",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6157",
+    "label": "ΔΗΜΟΣ ΕΛΕΥΘΕΡΙΟΥ ΚΟΡΔΕΛΙΟΥ ΕΥΟΣΜΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "83945"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-11-16",
+  "posted": "2022-11-17",
+  "publish_timestamp_ms": 1668679762378,
+  "version_id": "808da4e3-b2cf-447a-ab8b-db3979fda029",
+  "in_force": "2022-11-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%96%CE%A70%CE%A9%CE%9B%CE%92-1%CE%97%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A9%CE%96%CE%A70%CE%A9%CE%9B%CE%92-1%CE%97%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A9%CE%96%CE%A70%CE%A9%CE%9B%CE%92-1%CE%97%CE%96",
+  "listing_sha256": "2c2b90ca312479170a7e393a498b615e28f3966982f1f41cf5d4ed24b8a78a82",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
