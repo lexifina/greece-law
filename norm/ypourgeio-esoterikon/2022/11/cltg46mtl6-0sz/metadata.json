@@ -1,0 +1,54 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΛΤΓ46ΜΤΛ6-0ΣΖ",
+  "subject": "Υπέρβαση του ανωτάτου ορίου ημερών μετακίνησης εκτός έδρας του Περιφερειάρχη Βορείου Αιγαίου για το έτος 2022",
+  "protocol_number": "75623/14-11-2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054492",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΣΩΤΕΡΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "86667"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5848",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "kanonistikipraxiaa": "75623/14-1",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100008321"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-11-17",
+  "posted": "2022-11-17",
+  "publish_timestamp_ms": 1668678380117,
+  "version_id": "2f60fdec-067c-4927-ab85-d5f726757ce4",
+  "in_force": "2022-11-17",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B%CE%A4%CE%9346%CE%9C%CE%A4%CE%9B6-0%CE%A3%CE%96",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9B%CE%A4%CE%9346%CE%9C%CE%A4%CE%9B6-0%CE%A3%CE%96/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9B%CE%A4%CE%9346%CE%9C%CE%A4%CE%9B6-0%CE%A3%CE%96",
+  "listing_sha256": "a7fbb1148793885068345661a703c3969a68afc7609c4b1f31910b874d1bec68",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
