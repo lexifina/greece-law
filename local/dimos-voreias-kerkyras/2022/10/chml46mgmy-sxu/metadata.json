@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΗΜΛ46ΜΓΜΥ-ΣΧΘ",
+  "subject": "ΑΠΟΦΑΣΗ Ε.Ε. 3-3: Εισήγηση για την κατάρτιση και ψήφιση Τεχνικού προγράμματος Δήμου Βόρειας Κέρκυρας έτους 2023.",
+  "protocol_number": "3-3/2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100049339",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΕΡΚΥΡΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100055286"
+  ],
+  "thematic_category_ids": [
+    "16"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "3-3/2022",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-10-24",
+  "posted": "2022-11-21",
+  "publish_timestamp_ms": 1669020074794,
+  "version_id": "3b0716ea-b6bc-4fa2-b568-624ac2ba20af",
+  "in_force": "2022-11-21",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%97%CE%9C%CE%9B46%CE%9C%CE%93%CE%9C%CE%A5-%CE%A3%CE%A7%CE%98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%97%CE%9C%CE%9B46%CE%9C%CE%93%CE%9C%CE%A5-%CE%A3%CE%A7%CE%98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%97%CE%9C%CE%9B46%CE%9C%CE%93%CE%9C%CE%A5-%CE%A3%CE%A7%CE%98",
+  "listing_sha256": "1d8d28ff70ed41430d238bd60bb4519e2a4a1c6866448f1f4ac987c626253b79",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
