@@ -1,0 +1,77 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΞΟ7465ΧΘΞ-ΣΜΟ",
+  "subject": "Τροποποίηση της υπό στοιχεία ΔΑΕΦΚ-ΚΕ/21140/Α36/25.11.2021 κοινής υπουργικής απόφασης που αφορά στην επιδότηση προσωρινής στέγασης κατοίκων που επλήγησαν από τους σεισμούς της 24ης Ιουλίου και 27ης Σεπτεμβρίου 2021, σε περιοχές των Περιφερειακών Ενοτήτων Ηρακλείου και Λασιθίου της Περιφέρειας Κρήτης, με τη μορφή επιδότησης ενοικίου/συγκατοίκησης.",
+  "protocol_number": "358417/ΔΑΕΦΚ-ΚΕ/Α36, Σχ.: 326558, 196297",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025905",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100008119"
+  ],
+  "thematic_category_ids": [
+    "52",
+    "28"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5879",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "relatedDecisions": [
+      {
+        "relatedDecisionsADA": "6ΣΔ0465ΧΘΞ-ΦΘΖ"
+      }
+    ],
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "100016094"
+        ],
+        "signerIds": [
+          "100047807"
+        ]
+      },
+      {
+        "ministryId": "100054486",
+        "unitId": [
+          "100069297"
+        ],
+        "signerIds": [
+          "100050197"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-11-01",
+  "posted": "2022-11-22",
+  "publish_timestamp_ms": 1669114222152,
+  "version_id": "24fdfa6c-8913-4651-82e2-2943d9c78ff8",
+  "in_force": "2022-11-22",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E%CE%9F7465%CE%A7%CE%98%CE%9E-%CE%A3%CE%9C%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%9E%CE%9F7465%CE%A7%CE%98%CE%9E-%CE%A3%CE%9C%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%9E%CE%9F7465%CE%A7%CE%98%CE%9E-%CE%A3%CE%9C%CE%9F",
+  "listing_sha256": "c831031ad45075a5b49f34dcd810a34f0146890f33c463022d94e4d53791e257",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
