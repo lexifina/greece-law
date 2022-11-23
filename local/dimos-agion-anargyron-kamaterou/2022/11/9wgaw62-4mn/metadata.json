@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9ΩΓΑΩ62-4ΜΝ",
+  "subject": "ΕΓΚΡΙΣΗ ΚΑΤ΄ΕΞΑΙΡΕΣΗ ΟΔΗΓΗΣΗΣ ΥΠΗΡΕΣΙΑΚΟΥ ΟΧΗΜΑΤΟΣ.",
+  "protocol_number": "584",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6009",
+    "label": "ΔΗΜΟΣ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "78645"
+  ],
+  "thematic_category_ids": [
+    "48"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-11-22",
+  "posted": "2022-11-23",
+  "publish_timestamp_ms": 1669205189185,
+  "version_id": "1b8287b0-d0b7-4e6a-9cb9-85d8e2432f08",
+  "in_force": "2022-11-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%A9%CE%93%CE%91%CE%A962-4%CE%9C%CE%9D",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%A9%CE%93%CE%91%CE%A962-4%CE%9C%CE%9D/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%A9%CE%93%CE%91%CE%A962-4%CE%9C%CE%9D",
+  "listing_sha256": "dd570bc40624fccc1e8e13ed6bd107de5450b9d295691ef61702460ca0b0f311",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
