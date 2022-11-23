@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9Α5ΖΩ99-ΒΧΑ",
+  "subject": "Μετακίνηση εκτός έδρας Αντιδημάρχου.",
+  "protocol_number": "Οικ. Επιτρ. 345/2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6060",
+    "label": "ΔΗΜΟΣ ΒΟΡΕΙΩΝ ΤΖΟΥΜΕΡΚΩΝ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100001586"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-11-18",
+  "posted": "2022-11-23",
+  "publish_timestamp_ms": 1669206075659,
+  "version_id": "0e7396e5-83d0-4e8c-9127-5d6e824d5a62",
+  "in_force": "2022-11-23",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%915%CE%96%CE%A999-%CE%92%CE%A7%CE%91",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%915%CE%96%CE%A999-%CE%92%CE%A7%CE%91/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%915%CE%96%CE%A999-%CE%92%CE%A7%CE%91",
+  "listing_sha256": "169d59e09e7a8d96b6f158088acac05d52fbc87657786b5086e38e8ba75f54e1",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
