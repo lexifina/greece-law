@@ -1,0 +1,81 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "66Η8465ΧΘΟ-2ΤΟ",
+  "subject": "Καθορισμός των προδιαγραφών για τις παρεχόμενες υπηρεσίες του άρθρου 25Α του ν. 4276/2014 (A’ 155), όπως αυτό προστέθηκε με το άρθρο 49 του ν. 4875/2021 (A’ 250), των τεχνικών και λειτουργικών προδιαγραφών των εγκαταστάσεων των επισκέψιμων ζυθοποιείων, της μορφής και του τύπου του Σήματος Επισκέψιμου Ζυθοποιείου, της διάρκειας ισχύος του, των ειδικών προδιαγραφών προσβασιμότητας και κάθε άλλο ειδικότερου θέματος",
+  "protocol_number": "21593",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100025893",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΤΟΥΡΙΣΜΟΥ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100035533"
+  ],
+  "thematic_category_ids": [
+    "40",
+    "16"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "5902",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Κοινή Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ",
+    "co_competent": [
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100061097"
+        ],
+        "signerIds": [
+          "100047835"
+        ]
+      },
+      {
+        "ministryId": "15",
+        "unitId": [
+          "100052322"
+        ],
+        "signerIds": [
+          "100047801"
+        ]
+      },
+      {
+        "ministryId": "100054495",
+        "unitId": [
+          "94712"
+        ],
+        "signerIds": [
+          "100047805"
+        ]
+      },
+      {
+        "ministryId": "100025893",
+        "unitId": [
+          "100071555"
+        ],
+        "signerIds": [
+          "100064334"
+        ]
+      }
+    ]
+  },
+  "issued": "2022-11-24",
+  "posted": "2022-11-24",
+  "publish_timestamp_ms": 1669273915862,
+  "version_id": "de0a59b2-b372-4e90-b1e7-3b981f698309",
+  "in_force": "2022-11-24",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/66%CE%978465%CE%A7%CE%98%CE%9F-2%CE%A4%CE%9F",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/66%CE%978465%CE%A7%CE%98%CE%9F-2%CE%A4%CE%9F/document",
+  "page": "https://diavgeia.gov.gr/decision/view/66%CE%978465%CE%A7%CE%98%CE%9F-2%CE%A4%CE%9F",
+  "listing_sha256": "526d4b6f151c402a7ec581ec253605c08dbc77219cc575fbe66a75892e08cc8c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
