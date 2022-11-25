@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ4Σ4Η-Λ98",
+  "subject": "ΑΠΟΦΑΣΗ",
+  "protocol_number": "101560",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "15",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100036968"
+  ],
+  "thematic_category_ids": [
+    "24"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "Πράξη Οργάνου Διοίκησης Ν.Π.Δ.Δ.",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-11-25",
+  "posted": "2022-11-25",
+  "publish_timestamp_ms": 1669368865847,
+  "version_id": "ebd9a0bc-776f-4929-85de-b93b057c7fd1",
+  "in_force": "2022-11-25",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%A34%CE%97-%CE%9B98",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%A34%CE%97-%CE%9B98/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A84%CE%A34%CE%97-%CE%9B98",
+  "listing_sha256": "d135bea2ea2f0f8a8790b4961bad67adb250eda60ea534e1bb1cc8557ad674cc",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
