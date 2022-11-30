@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "Ψ4Ν76-123",
+  "subject": "ΑΠΟΦΑΣΗ 1ΗΣ ΤΡΟΠΟΠΟΙΗΣΗΣ ΤΗΣ Σ.01.03_22 ΕΙΔΩΝ ΠΑΝΤΟΠΩΛΕΙΟΥ 111ΠΜ",
+  "protocol_number": "Φ.831/ΑΔ.28435/Σ.5328",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "86734"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "kanonistikipraxitype": "10003",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-11-29",
+  "posted": "2022-11-30",
+  "publish_timestamp_ms": 1669794272484,
+  "version_id": "05f3197f-6f2d-4d7b-be31-88d71cbe6dc3",
+  "in_force": "2022-11-30",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%9D76-123",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A84%CE%9D76-123/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A84%CE%9D76-123",
+  "listing_sha256": "e8d9b5244f0f0edddb242bc6dffb54d0901bf7ff767b8244a4df3a6b38b74239",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
