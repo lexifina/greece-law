@@ -1,0 +1,37 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "616ΨΩΚΑ-Υ3Ι",
+  "subject": "Απόφαση νυχτερινών ωρών Νοέμβριος 2022",
+  "protocol_number": "5158",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6215",
+    "label": "ΔΗΜΟΣ ΝΙΚΑΙΑΣ - ΑΓΙΟΥ Ι. ΡΕΝΤΗ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "93101"
+  ],
+  "thematic_category_ids": [
+    "44"
+  ],
+  "extra_fields": {
+    "kanonistikipraxiaa": "5158",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-12-01",
+  "posted": "2022-12-01",
+  "publish_timestamp_ms": 1669885625530,
+  "version_id": "47e3adf3-917e-4ef1-9456-fa7940faddb4",
+  "in_force": "2022-12-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/616%CE%A8%CE%A9%CE%9A%CE%91-%CE%A53%CE%99",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/616%CE%A8%CE%A9%CE%9A%CE%91-%CE%A53%CE%99/document",
+  "page": "https://diavgeia.gov.gr/decision/view/616%CE%A8%CE%A9%CE%9A%CE%91-%CE%A53%CE%99",
+  "listing_sha256": "c13afa5a737148b209557b4aeea82042832a3d639ddaf236c7929f40c1e8a84b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
