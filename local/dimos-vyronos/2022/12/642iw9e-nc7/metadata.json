@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "642ΙΩ9Ε-ΝΨ7",
+  "subject": "Απόδοση λογαριασμού Χρηματικού Εντάλματος Προπληρωμής (Χ.Ε.Π)/Υπόλογος υπάλληλος A.Σ. για ποσό 150,00 ευρώ»",
+  "protocol_number": "24510",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6062",
+    "label": "ΔΗΜΟΣ ΒΥΡΩΝΟΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "100027281"
+  ],
+  "thematic_category_ids": [
+    "20"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-12-01",
+  "posted": "2022-12-01",
+  "publish_timestamp_ms": 1669892706831,
+  "version_id": "20c9203c-b717-41b8-af4a-1da3c62e2f7f",
+  "in_force": "2022-12-01",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/642%CE%99%CE%A99%CE%95-%CE%9D%CE%A87",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/642%CE%99%CE%A99%CE%95-%CE%9D%CE%A87/document",
+  "page": "https://diavgeia.gov.gr/decision/view/642%CE%99%CE%A99%CE%95-%CE%9D%CE%A87",
+  "listing_sha256": "c13afa5a737148b209557b4aeea82042832a3d639ddaf236c7929f40c1e8a84b",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
