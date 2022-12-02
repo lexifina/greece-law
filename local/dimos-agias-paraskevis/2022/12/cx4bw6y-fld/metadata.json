@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "ΨΧ4ΒΩ6Υ-ΦΛΔ",
+  "subject": "Έγκριση της απόφασης 60/2022 του Δ.Σ. των ΠΑΙΣΔΑΠ  Γ΄ τριμήνου οικονομικού έτους 2022 του Ν.Π.Δ.Δ. Παιδικοί Σταθμοί Δήμου Αγίας Παρασκευής.",
+  "protocol_number": "33118",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6005",
+    "label": "ΔΗΜΟΣ ΑΓΙΑΣ ΠΑΡΑΣΚΕΥΗΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "89698"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-12-02",
+  "posted": "2022-12-02",
+  "publish_timestamp_ms": 1669973177867,
+  "version_id": "aa502f96-9a54-4c5e-b06c-7d9f2bb6f9bc",
+  "in_force": "2022-12-02",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A74%CE%92%CE%A96%CE%A5-%CE%A6%CE%9B%CE%94",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/%CE%A8%CE%A74%CE%92%CE%A96%CE%A5-%CE%A6%CE%9B%CE%94/document",
+  "page": "https://diavgeia.gov.gr/decision/view/%CE%A8%CE%A74%CE%92%CE%A96%CE%A5-%CE%A6%CE%9B%CE%94",
+  "listing_sha256": "585020d9eedb638c2d31b3eee66af9d599147cb5f6bf3ead1a4023deec692b9d",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
