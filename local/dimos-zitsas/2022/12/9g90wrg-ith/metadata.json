@@ -1,0 +1,36 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "9Γ90ΩΡΓ-ΙΤΗ",
+  "subject": "Έγκριση διενέργειας πλειοδοτικής δημοπρασίας για εκποίηση εγκαταλελειμμένων οχημάτων.",
+  "protocol_number": "144.2022",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "6103",
+    "label": "ΔΗΜΟΣ ΖΙΤΣΑΣ",
+    "category": "MUNICIPALITY"
+  },
+  "unit_ids": [
+    "81886"
+  ],
+  "thematic_category_ids": [
+    "52"
+  ],
+  "extra_fields": {
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-12-05",
+  "posted": "2022-12-05",
+  "publish_timestamp_ms": 1670239141287,
+  "version_id": "a6528dfe-414b-40d8-aa68-4c55f02e8e20",
+  "in_force": "2022-12-05",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9390%CE%A9%CE%A1%CE%93-%CE%99%CE%A4%CE%97",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/9%CE%9390%CE%A9%CE%A1%CE%93-%CE%99%CE%A4%CE%97/document",
+  "page": "https://diavgeia.gov.gr/decision/view/9%CE%9390%CE%A9%CE%A1%CE%93-%CE%99%CE%A4%CE%97",
+  "listing_sha256": "ce806fe661ef41fe691efe69851838d6d07823b5b767f00f415a47ed67591d06",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
