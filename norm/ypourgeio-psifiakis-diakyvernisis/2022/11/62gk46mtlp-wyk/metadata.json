@@ -1,0 +1,42 @@
+{
+  "record_type": "diavgeia-decision-metadata",
+  "ada": "62ΓΚ46ΜΤΛΠ-ΩΥΚ",
+  "subject": "Έγκριση Εθνικού Ευρυζωνικού Σχεδίου",
+  "protocol_number": "49195 ΕΞ 2022 ",
+  "decision_type": {
+    "uid": "Α.2",
+    "label": "ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ"
+  },
+  "organization": {
+    "uid": "100054486",
+    "label": "ΥΠΟΥΡΓΕΙΟ ΨΗΦΙΑΚΗΣ ΔΙΑΚΥΒΕΡΝΗΣΗΣ",
+    "category": "MINISTRY"
+  },
+  "unit_ids": [
+    "100057482"
+  ],
+  "thematic_category_ids": [
+    "10004"
+  ],
+  "extra_fields": {
+    "fek": {
+      "aa": "6155",
+      "issue": "fektype_B",
+      "issueyear": 2022
+    },
+    "kanonistikipraxitype": "Υπουργική Απόφαση",
+    "documentType": "ΠΡΑΞΗ"
+  },
+  "issued": "2022-11-24",
+  "posted": "2022-12-07",
+  "publish_timestamp_ms": 1670398935636,
+  "version_id": "188ab68c-d7b2-4b7e-b2de-0ebbf47323e2",
+  "in_force": "2022-12-07",
+  "in_force_basis": "Official Diavgeia posting date (publishTimestamp, Europe/Athens); acts posted on Diavgeia take effect on posting (ν. 4727/2020 άρθρο 78 παρ. 2; ν. 3861/2010 άρθρο 2 παρ. 4) unless the act itself states otherwise. Metadata record: the act text has not been read here.",
+  "source": "https://diavgeia.gov.gr/opendata/decisions/62%CE%93%CE%9A46%CE%9C%CE%A4%CE%9B%CE%A0-%CE%A9%CE%A5%CE%9A",
+  "document": "https://diavgeia.gov.gr/opendata/decisions/62%CE%93%CE%9A46%CE%9C%CE%A4%CE%9B%CE%A0-%CE%A9%CE%A5%CE%9A/document",
+  "page": "https://diavgeia.gov.gr/decision/view/62%CE%93%CE%9A46%CE%9C%CE%A4%CE%9B%CE%A0-%CE%A9%CE%A5%CE%9A",
+  "listing_sha256": "526d4b6f151c402a7ec581ec253605c08dbc77219cc575fbe66a75892e08cc8c",
+  "text_status": "metadata only; the official PDF is at `document`; its text is added later in this folder (act.md) when both text extractors agree and it carries no image or personal data",
+  "licence": "Diavgeia open data, CC BY 4.0"
+}
