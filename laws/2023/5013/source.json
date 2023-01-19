@@ -1,0 +1,51 @@
+{
+  "year": 2023,
+  "number": 5013,
+  "url": "https://api.et.gr/apiLAW/1/2023/5013/pdf",
+  "source_sha256": "9895f639f75a62df54d217444624f5ebe69ccbd01b68ee06cec036118cf7ebd4",
+  "published": "2023-01-19",
+  "in_force": "2023-01-19",
+  "clause": "Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις.",
+  "in_force_general_day": true,
+  "pages": 20,
+  "images": [
+    {
+      "page": 18,
+      "sha256": "ebd807e7ba5a242edb08ba9a375096ba4cd3dcd5c3698e8085b8325724c73726",
+      "ext": "jpeg",
+      "bytes": 1939455,
+      "bbox": [
+        59.5,
+        102.0,
+        527.2,
+        779.6
+      ]
+    },
+    {
+      "page": 18,
+      "sha256": "bcf75dbf332d6edce4a2694c5ea1ae3414c6fdd7a9c73ea994680bbee69eed85",
+      "ext": "png",
+      "bytes": 921,
+      "bbox": [
+        249.4,
+        88.6,
+        356.6,
+        103.1
+      ]
+    },
+    {
+      "page": 19,
+      "sha256": "555ab5a5af5621858470de352fe27ba4234cf67b997c8285e8dd0a567d2d2e26",
+      "ext": "jpeg",
+      "bytes": 2678783,
+      "bbox": [
+        68.0,
+        102.0,
+        535.7,
+        779.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
