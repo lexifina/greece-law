@@ -1,0 +1,40 @@
+{
+  "year": 2023,
+  "number": 5077,
+  "url": "https://api.et.gr/apiLAW/1/2023/5077/pdf",
+  "source_sha256": "c45931738fe05474e86d05558a8530d80c104378d10b2c153859cf22f12ede72",
+  "published": "2023-12-18",
+  "in_force": "2023-12-18",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 4,
+  "images": [
+    {
+      "page": 2,
+      "sha256": "90a28e26b8e7f5d626fc379e9d612a3080a959e8901897ae3faaabe15002ea81",
+      "ext": "png",
+      "bytes": 212357,
+      "bbox": [
+        78.0,
+        94.7,
+        508.0,
+        529.5
+      ]
+    },
+    {
+      "page": 3,
+      "sha256": "789579779a5771bc89e08859784c3119ebad62d2b25fec6e82193e73bef540c3",
+      "ext": "png",
+      "bytes": 355797,
+      "bbox": [
+        75.8,
+        93.5,
+        528.1,
+        578.3
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
