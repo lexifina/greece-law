@@ -1,0 +1,64 @@
+{
+  "year": 2024,
+  "number": 5106,
+  "url": "https://api.et.gr/apiLAW/1/2024/5106/pdf",
+  "source_sha256": "2e50bfade2a60fc52d2099045a8d1365cf95450c85f44d4de9622926b6ccc556",
+  "published": "2024-05-01",
+  "in_force": "2024-05-01",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 92,
+  "images": [
+    {
+      "page": 57,
+      "sha256": "6a24304fc9f6d9f1f15eb4eb11222cbf0a8131216d91366258bc6736ef834046",
+      "ext": "png",
+      "bytes": 153638,
+      "bbox": [
+        320.5,
+        336.4,
+        528.6,
+        555.4
+      ]
+    },
+    {
+      "page": 57,
+      "sha256": "c9b6ea08b28b72dda0941661272816fc4916a2fe4ac30a78503e4d341a7c99fc",
+      "ext": "png",
+      "bytes": 14161,
+      "bbox": [
+        320.5,
+        313.6,
+        528.6,
+        336.9
+      ]
+    },
+    {
+      "page": 89,
+      "sha256": "3fa5631388d3de61ff09a45fb035eee12bfd87dcd1306b86be8f56992746a20f",
+      "ext": "png",
+      "bytes": 63229,
+      "bbox": [
+        170.1,
+        177.2,
+        367.1,
+        376.8
+      ]
+    },
+    {
+      "page": 89,
+      "sha256": "ec4c35c3df38fc29df350232aa43adb67d530b2b94de542ef870f958961a667a",
+      "ext": "png",
+      "bytes": 59975,
+      "bbox": [
+        170.1,
+        494.6,
+        393.6,
+        646.6
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: qualified commencement: Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται ειδικότερα."
+}
