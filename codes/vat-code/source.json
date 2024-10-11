@@ -1,25 +1,25 @@
 {
   "code": "Κώδικας Φόρου Προστιθέμενης Αξίας (ΦΠΑ)",
   "code_en": "Value Added Tax Code",
-  "act": "ν. 2859/2000",
+  "act": "ν. 5144/2024",
   "act_type": "law",
-  "year": 2000,
-  "number": 2859,
-  "fek": "248/7.11.2000",
-  "source": "https://api.et.gr/apiLAW/1/2000/2859/pdf",
-  "source_sha256": "b4318057c9418bd0aeaca88bcc3026699025fdfc1d3d20d7390d04baed5fac5e",
-  "published": "2000-11-07",
-  "in_force": "2000-11-07",
-  "in_force_basis": "Gazette publication date. Άρθρο δεύτερο: «Η ισχύς των διατάξεων αυτού του νόμου αρχίζει από τότε που άρχισαν να ισχύουν οι κωδικοποιούμενες με τον παρόντα νόμο διατάξεις.» (a codification: the codified provisions were in force earlier)",
+  "year": 2024,
+  "number": 5144,
+  "fek": "162/11.10.2024",
+  "source": "https://api.et.gr/apiLAW/1/2024/5144/pdf",
+  "source_sha256": "5da7eb8b45b853eb79659cba0018ee788a23fc9d2e53868691b2f03d9af30714",
+  "published": "2024-10-11",
+  "in_force": "2024-10-11",
+  "in_force_basis": "«Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.»",
   "history": "as-enacted",
   "status": "amended, not consolidated",
   "amendments_applied": [],
-  "text": "PDF text layer (legacy 8-bit Greek font codes decoded to Unicode; no OCR)",
+  "text": "PDF text layer (no OCR)",
   "ocr": false,
-  "pages": 44,
+  "pages": 124,
   "check": {
-    "letter_runs": 5205,
-    "runs_not_found": 21
+    "letter_runs": 6430,
+    "runs_not_found": 35
   },
   "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
 }
