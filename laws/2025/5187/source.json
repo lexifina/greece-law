@@ -1,0 +1,39 @@
+{
+  "year": 2025,
+  "number": 5187,
+  "url": "https://api.et.gr/apiLAW/1/2025/5187/pdf",
+  "source_sha256": "e04a20571fa1615ff4f55b1a39fa046b539d922843159c5e8efd7c1c0e523e4f",
+  "published": "2025-03-21",
+  "in_force": "2025-03-21",
+  "clause": "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός εάν ορίζεται διαφορετικά στις επιμέρους διατάξεις του παρόντος.",
+  "in_force_general_day": true,
+  "pages": 168,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "2edb31564da493d54058bfa441054314b47ebf7259287a71f6b65fc032c7f3d9",
+      "ext": "jpeg",
+      "bytes": 727,
+      "bbox": [
+        387.0,
+        41.9,
+        453.0,
+        107.9
+      ]
+    },
+    {
+      "page": 6,
+      "sha256": "ce9515643b70cfe8d885ddfcb0a8f4377123532291579b82c11b6784397768a8",
+      "ext": "jpeg",
+      "bytes": 110932,
+      "bbox": [
+        81.8,
+        344.6,
+        264.0,
+        506.2
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
