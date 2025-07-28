@@ -1,25 +1,25 @@
 {
   "code": "Εθνικός Τελωνειακός Κώδικας",
   "code_en": "National Customs Code",
-  "act": "ν. 2960/2001",
+  "act": "ν. 5222/2025",
   "act_type": "law",
-  "year": 2001,
-  "number": 2960,
-  "fek": "265/22.11.2001",
-  "source": "https://api.et.gr/apiLAW/1/2001/2960/pdf",
-  "source_sha256": "49318a536dec7d5515c31866215201dbb52ad31dc28700288065f5c4cea8acf1",
-  "published": "2001-11-22",
-  "in_force": "2002-01-01",
-  "in_force_basis": "«Η ισχύς του παρόντος νόμου αρχίζει από 1ης Ιανουαρίου 2002.»",
+  "year": 2025,
+  "number": 5222,
+  "fek": "134/28.7.2025",
+  "source": "https://api.et.gr/apiLAW/1/2025/5222/pdf",
+  "source_sha256": "eb5b2f85bcb211a15ad51fcbd89c1a6278089876505baae53d4b77db020bb123",
+  "published": "2025-07-28",
+  "in_force": "2025-07-28",
+  "in_force_basis": "«1. Με την επιφύλαξη των επόμενων παραγράφων, η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις του. ...» (general day)",
   "history": "as-enacted",
   "status": "amended, not consolidated",
   "amendments_applied": [],
-  "text": "PDF text layer (legacy 8-bit Greek font codes decoded to Unicode; no OCR)",
+  "text": "PDF text layer (no OCR)",
   "ocr": false,
-  "pages": 64,
+  "pages": 176,
   "check": {
-    "letter_runs": 6802,
-    "runs_not_found": 50
+    "letter_runs": 18611,
+    "runs_not_found": 83
   },
   "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
 }
