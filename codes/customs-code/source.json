@@ -1,25 +1,20 @@
 {
   "code": "Εθνικός Τελωνειακός Κώδικας",
   "code_en": "National Customs Code",
-  "act": "ν. 5222/2025",
-  "act_type": "law",
-  "year": 2025,
-  "number": 5222,
-  "fek": "134/28.7.2025",
-  "source": "https://api.et.gr/apiLAW/1/2025/5222/pdf",
-  "source_sha256": "eb5b2f85bcb211a15ad51fcbd89c1a6278089876505baae53d4b77db020bb123",
-  "published": "2025-07-28",
-  "in_force": "2025-07-28",
-  "in_force_basis": "«1. Με την επιφύλαξη των επόμενων παραγράφων, η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις του. ...» (general day)",
-  "history": "as-enacted",
-  "status": "amended, not consolidated",
-  "amendments_applied": [],
+  "history": "consolidated",
+  "base_act": "ν. 5222/2025 (ΦΕΚ Α΄ 134/28.7.2025)",
+  "consolidated_to": "updated up to ν. 5259/2025 (ΦΕΚ Α΄ 228/12.12.2025)",
+  "source": "https://diavgeia.gov.gr/doc/6Χ2ΙΗ-3ΒΡ",
+  "ada": "6Χ2ΙΗ-3ΒΡ",
+  "decision": "Κοινοποίηση διοικητικής κωδικοποίησης του Εθνικού Τελωνειακού Κώδικα, 6.5.2026",
+  "source_sha256": "21bfa01d86ef3be13c9bc25391b5d3b35904ac47d5d6de83b6e4c42b6fbb9797",
+  "in_force": "2025-12-12",
+  "in_force_basis": "the codification states it is updated up to ν. 5259/2025 (ΦΕΚ Α΄ 228/12.12.2025); dated by that act's Gazette publication",
   "text": "PDF text layer (no OCR)",
-  "ocr": false,
-  "pages": 176,
+  "pages": 249,
   "check": {
-    "letter_runs": 18611,
-    "runs_not_found": 83
+    "letter_runs": 13779,
+    "runs_not_found": 140
   },
-  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+  "cross_check": "none"
 }
