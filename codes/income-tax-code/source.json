@@ -1,25 +1,20 @@
 {
   "code": "Κώδικας Φορολογίας Εισοδήματος (ΚΦΕ)",
   "code_en": "Income Tax Code",
-  "act": "ν. 4172/2013",
-  "act_type": "law",
-  "year": 2013,
-  "number": 4172,
-  "fek": "167/23.7.2013",
-  "source": "https://api.et.gr/apiLAW/1/2013/4172/pdf",
-  "source_sha256": "84beaeac5a30e46484f5843c34336a1cd0d3e92ee0e6d8200de90d988fdcd9d9",
-  "published": "2013-07-23",
-  "in_force": "2013-07-23",
-  "in_force_basis": "Άρθρο 112: «Οι διατάξεις του νόμου αυτού ισχύουν από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, με εξαίρεση τα οριζόμενα στο άρθρο 72 ή αν άλλως ορίζεται στις επιμέρους διατάξεις αυτού.» (general day; Code articles 1-72 apply as their article 72 states)",
-  "history": "as-enacted",
-  "status": "amended, not consolidated",
-  "amendments_applied": [],
+  "history": "consolidated",
+  "base_act": "ν. 4172/2013 (ΦΕΚ Α΄ 167/23.7.2013)",
+  "consolidated_to": "as in force until 9.2.2026, updated up to ν. 5264/2025 (ΦΕΚ Α΄ 239/19.12.2025)",
+  "source": "https://diavgeia.gov.gr/doc/Ε7ΔΠΗ-Φ32",
+  "ada": "Ε7ΔΠΗ-Φ32",
+  "decision": "Κοινοποίηση κωδικοποίησης του Κώδικα Φορολογίας Εισοδήματος, 6.4.2026 (notified by decision 147165 ΕΞ 2026, ΦΕΚ Β΄ 5732/22.9.2026)",
+  "source_sha256": "167f10cf4bf77f297d3dc9736a090c3a1c0d922cd617985478a30edc78441f39",
+  "in_force": "2025-12-19",
+  "in_force_basis": "the codification states the Code as in force until 9.2.2026, updated up to ν. 5264/2025 (ΦΕΚ Α΄ 239/19.12.2025); dated by that act's Gazette publication",
   "text": "PDF text layer (no OCR)",
-  "ocr": false,
-  "pages": 60,
+  "pages": 324,
   "check": {
-    "letter_runs": 6946,
-    "runs_not_found": 52
+    "letter_runs": 23328,
+    "runs_not_found": 167
   },
-  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+  "cross_check": "none"
 }

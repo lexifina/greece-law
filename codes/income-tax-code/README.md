@@ -1,16 +1,15 @@
 # Κώδικας Φορολογίας Εισοδήματος (ΚΦΕ)
 
-Income Tax Code · ν. 4172/2013 · ΦΕΚ Α΄ 167/23.7.2013 · In force: 2013-07-23
+Income Tax Code · consolidated text as in force on as in force until 9.2.2026, updated up to ν. 5264/2025 (ΦΕΚ Α΄ 239/19.12.2025)
 
-History: **as enacted** (the official FEK text of ν. 4172/2013). Later amendments are not applied in this version; this is not the current consolidated text. Articles 1-72 of ν. 4172/2013 are the Income Tax Code; articles 73-112 are the act's other provisions, kept here with it.
+History: **consolidated** — the Ministry of National Economy and Finance's administrative codification of ν. 4172/2013 (ΦΕΚ Α΄ 167/23.7.2013), as in force until 9.2.2026, updated up to ν. 5264/2025 (ΦΕΚ Α΄ 239/19.12.2025) (Diavgeia ΑΔΑ Ε7ΔΠΗ-Φ32, Κοινοποίηση κωδικοποίησης του Κώδικα Φορολογίας Εισοδήματος, 6.4.2026 (notified by decision 147165 ΕΞ 2026, ΦΕΚ Β΄ 5732/22.9.2026)). An administrative codification is an official working text, not itself law: the law is the Gazette text of each act. The as-enacted text of ν. 4172/2013 (ΦΕΚ Α΄ 167/23.7.2013) is the previous version of this folder in the history. Footnote numbers printed straight after article numbers (e.g. «Άρθρο 1715» = Άρθρο 17, note 15) are kept in brackets on the line after the heading. Where a heading could not be separated (some lettered articles such as 22Α, and Άρθρο 12), its text stays inside the preceding article's file, as printed.
 
-Source: <https://api.et.gr/apiLAW/1/2013/4172/pdf> (Εθνικό Τυπογραφείο, search.et.gr API). Text: PDF text layer (no OCR); running heads and page numbers of the Gazette dropped; lines joined into paragraphs. Checked: every 40-letter run of the stored text found in an independent Xpdf extraction (6894 of 6946).
+Source: <https://diavgeia.gov.gr/doc/Ε7ΔΠΗ-Φ32> (digitally signed). Text: PDF text layer from the code's heading to the end; Diavgeia page stamps and page numbers dropped; lines joined into paragraphs; the codification's own notes on amendments stay where they are printed. Checked: every 40-letter run of the stored text found in an independent Xpdf extraction (23161 of 23328). Not cross-checked against a second copy.
 
-In-force basis: Άρθρο 112: «Οι διατάξεις του νόμου αυτού ισχύουν από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, με εξαίρεση τα οριζόμενα στο άρθρο 72 ή αν άλλως ορίζεται στις επιμέρους διατάξεις αυτού.» (general day; Code articles 1-72 apply as their article 72 states)
+In-force basis: the codification states the Code as in force until 9.2.2026, updated up to ν. 5264/2025 (ΦΕΚ Α΄ 239/19.12.2025); dated by that act's Gazette publication
 
 | Provision | File | Division |
 | --- | --- | --- |
-| Προοίμιο | [prooimio.md](prooimio.md) | |
 | Άρθρο 1 | [art-001.md](art-001.md) | |
 | Άρθρο 2 | [art-002.md](art-002.md) | |
 | Άρθρο 3 | [art-003.md](art-003.md) | |
@@ -20,9 +19,8 @@ In-force basis: Άρθρο 112: «Οι διατάξεις του νόμου αυ
 | Άρθρο 7 | [art-007.md](art-007.md) | |
 | Άρθρο 8 | [art-008.md](art-008.md) | |
 | Άρθρο 9 | [art-009.md](art-009.md) | |
-| Άρθρο 10 | [art-010.md](art-010.md) | ΜΕΡΟΣ ΔΕΥΤΕΡΟ · ΦΟΡΟΣ ΕΙΣΟΔΗΜΑΤΟΣ ΦΥΣΙΚΩΝ ΠΡΟΣΩΠΩΝ · ΚΕΦΑΛΑΙΟ Α΄ · ΓΕΝΙΚΕΣ ΔΙΑΤΑΞΕΙΣ |
+| Άρθρο 10 | [art-010.md](art-010.md) | |
 | Άρθρο 11 | [art-011.md](art-011.md) | |
-| Άρθρο 12 | [art-012.md](art-012.md) | ΚΕΦΑΛΑΙΟ Β΄ · ΕΙΣΟΔΗΜΑ ΑΠΟ ΜΙΣΘΩΤΗ ΕΡΓΑΣΙΑ ΚΑΙ ΣΥΝΤΑΞΕΙΣ |
 | Άρθρο 13 | [art-013.md](art-013.md) | |
 | Άρθρο 14 | [art-014.md](art-014.md) | |
 | Άρθρο 15 | [art-015.md](art-015.md) | |
@@ -31,7 +29,7 @@ In-force basis: Άρθρο 112: «Οι διατάξεις του νόμου αυ
 | Άρθρο 18 | [art-018.md](art-018.md) | |
 | Άρθρο 19 | [art-019.md](art-019.md) | |
 | Άρθρο 20 | [art-020.md](art-020.md) | |
-| Άρθρο 21 | [art-021.md](art-021.md) | ΚΕΦΑΛΑΙΟ Γ΄ · ΚΕΡΔΗ ΑΠΟ ΕΠΙΧΕΙΡΗΜΑΤΙΚΗ ΔΡΑΣΤΗΡΙΟΤΗΤΑ |
+| Άρθρο 21 | [art-021.md](art-021.md) | ΚΕΦΑΛΑΙΟ Γ’    ΚΕΡΔΗ ΑΠΟ ΕΠΙΧΕΙΡΗΜΑΤΙΚΗ ΔΡΑΣΤΗΡΙΟΤΗΤΑ |
 | Άρθρο 22 | [art-022.md](art-022.md) | |
 | Άρθρο 23 | [art-023.md](art-023.md) | |
 | Άρθρο 24 | [art-024.md](art-024.md) | |
@@ -40,25 +38,27 @@ In-force basis: Άρθρο 112: «Οι διατάξεις του νόμου αυ
 | Άρθρο 27 | [art-027.md](art-027.md) | |
 | Άρθρο 28 | [art-028.md](art-028.md) | |
 | Άρθρο 29 | [art-029.md](art-029.md) | |
-| Άρθρο 30 | [art-030.md](art-030.md) | ΚΕΦΑΛΑΙΟ Δ΄ · ΕΝΑΛΛΑΚΤΙΚΟΣ ΤΡΟΠΟΣ ΥΠΟΛΟΓΙΣΜΟΥ · ΤΗΣ ΕΛΑΧΙΣΤΗΣ ΦΟΡΟΛΟΓΙΑΣ |
+| Άρθρο 30 | [art-030.md](art-030.md) | ΚΕΦΑΛΑΙΟ Δ’  ΕΝΑΛΛΑΚΤΙΚΟΣ ΤΡΟΠΟΣ ΥΠΟΛΟΓΙΣΜΟΥ ΤΗΣ ΕΛΑΧΙΣΤΗΣ · ΦΟΡΟΛΟΓΙΑΣ |
 | Άρθρο 31 | [art-031.md](art-031.md) | |
 | Άρθρο 32 | [art-032.md](art-032.md) | |
 | Άρθρο 33 | [art-033.md](art-033.md) | |
 | Άρθρο 34 | [art-034.md](art-034.md) | |
-| Άρθρο 35 | [art-035.md](art-035.md) | ΚΕΦΑΛΑΙΟ Ε΄ · ΕΙΣΟΔΗΜΑ ΑΠΟ ΚΕΦΑΛΑΙΟ |
+| Άρθρο 35 | [art-035.md](art-035.md) | ΚΕΦΑΛΑΙΟ Ε’  ΕΙΣΟΔΗΜΑ ΑΠΟ ΚΕΦΑΛΑΙΟ |
 | Άρθρο 36 | [art-036.md](art-036.md) | |
 | Άρθρο 37 | [art-037.md](art-037.md) | |
 | Άρθρο 38 | [art-038.md](art-038.md) | |
 | Άρθρο 39 | [art-039.md](art-039.md) | |
+| Άρθρο 39Β | [art-039-β.md](art-039-β.md) | |
 | Άρθρο 40 | [art-040.md](art-040.md) | |
-| Άρθρο 41 | [art-041.md](art-041.md) | ΚΕΦΑΛΑΙΟ ΣΤ΄ · ΕΙΣΟΔΗΜΑ ΑΠΟ ΥΠΕΡΑΞΙΑ · ΜΕΤΑΒΙΒΑΣΗΣ ΚΕΦΑΛΑΙΟΥ |
+| Άρθρο 41 | [art-041.md](art-041.md) | ΚΕΦΑΛΑΙΟ ΣΤ’    ΕΙΣΟΔΗΜΑ ΑΠΟ ΥΠΕΡΑΞΙΑ ΜΕΤΑΒΙΒΑΣΗΣ ΚΕΦΑΛΑΙΟΥ |
 | Άρθρο 42 | [art-042.md](art-042.md) | |
 | Άρθρο 43 | [art-043.md](art-043.md) | |
-| Άρθρο 44 | [art-044.md](art-044.md) | ΜΕΡΟΣ ΤΡΙΤΟ · ΦΟΡΟΛΟΓΙΑ ΕΙΣΟΔΗΜΑΤΟΣ ΝΟΜΙΚΩΝ ΠΡΟΣΩΠΩΝ · ΚΑΙ ΝΟΜΙΚΩΝ ΟΝΤΟΤΗΤΩΝ · ΚΕΦΑΛΑΙΟ Α΄ · ΓΕΝΙΚΕΣ ΔΙΑΤΑΞΕΙΣ |
+| Άρθρο 44 | [art-044.md](art-044.md) | |
 | Άρθρο 45 | [art-045.md](art-045.md) | |
 | Άρθρο 46 | [art-046.md](art-046.md) | |
-| Άρθρο 47 | [art-047.md](art-047.md) | ΚΕΦΑΛΑΙΟ Β΄ · ΦΟΡΟΛΟΓΗΤΕΟ ΕΙΣΟΔΗΜΑ |
+| Άρθρο 47 | [art-047.md](art-047.md) | ΚΕΦΑΛΑΙΟ Β’  ΦΟΡΟΛΟΓΗΤΕΟ ΕΙΣΟΔΗΜΑ |
 | Άρθρο 48 | [art-048.md](art-048.md) | |
+| Άρθρο 48Α | [art-048-α.md](art-048-α.md) | |
 | Άρθρο 49 | [art-049.md](art-049.md) | |
 | Άρθρο 50 | [art-050.md](art-050.md) | |
 | Άρθρο 51 | [art-051.md](art-051.md) | |
@@ -68,58 +68,18 @@ In-force basis: Άρθρο 112: «Οι διατάξεις του νόμου αυ
 | Άρθρο 55 | [art-055.md](art-055.md) | |
 | Άρθρο 56 | [art-056.md](art-056.md) | |
 | Άρθρο 57 | [art-057.md](art-057.md) | |
-| Άρθρο 58 | [art-058.md](art-058.md) | ΚΕΦΑΛΑΙΟ Γ΄ · ΦΟΡΟΛΟΓΙΚΟΣ ΣΥΝΤΕΛΕΣΤΗΣ |
-| Άρθρο 59 | [art-059.md](art-059.md) | ΜΕΡΟΣ ΤΕΤΑΡΤΟ · ΠΑΡΑΚΡΑΤΗΣΗ ΦΟΡΟΥ · ΚΕΦΑΛΑΙΟ Α΄ · ΦΟΡΟΛΟΓΗΣΗ ΣΤΗΝ ΠΗΓΗ |
+| Άρθρο 58 | [art-058.md](art-058.md) | ΚΕΦΑΛΑΙΟ Γ’  ΦΟΡΟΛΟΓΙΚΟΣ ΣΥΝΤΕΛΕΣΤΗΣ |
+| Άρθρο 59 | [art-059.md](art-059.md) | |
 | Άρθρο 60 | [art-060.md](art-060.md) | |
-| Άρθρο 61 | [art-061.md](art-061.md) | ΚΕΦΑΛΑΙΟ Β΄ · ΠΑΡΑΚΡΑΤΗΣΗ ΦΟΡΟΥ |
+| Άρθρο 61 | [art-061.md](art-061.md) | ΚΕΦΑΛΑΙΟ Β’  ΠΑΡΑΚΡΑΤΗΣΗ ΦΟΡΟΥ |
 | Άρθρο 62 | [art-062.md](art-062.md) | |
 | Άρθρο 63 | [art-063.md](art-063.md) | |
 | Άρθρο 64 | [art-064.md](art-064.md) | |
-| Άρθρο 65 | [art-065.md](art-065.md) | ΜΕΡΟΣ ΠΕΜΠΤΟ · ΔΙΑΤΑΞΕΙΣ ΓΙΑ ΤΗΝ ΚΑΤΑΠΟΛΕΜΗΣΗ · ΤΗΣ ΦΟΡΟΑΠΟΦΥΓΗΣ ΚΑΙ ΦΟΡΟΔΙΑΦΥΓΗΣ |
+| Άρθρο 65 | [art-065.md](art-065.md) | |
 | Άρθρο 66 | [art-066.md](art-066.md) | |
-| Άρθρο 67 | [art-067.md](art-067.md) | ΜΕΡΟΣ ΕΚΤΟ · ΥΠΟΒΟΛΗ ΔΗΛΩΣΗΣ ΦΟΡΟΛΟΓΙΑΣ ΕΙΣΟΔΗΜΑΤΟΣ · ΚΑΙ ΠΡΟΚΑΤΑΒΟΛΗ ΦΟΡΟΥ |
+| Άρθρο 67 | [art-067.md](art-067.md) | |
 | Άρθρο 68 | [art-068.md](art-068.md) | |
 | Άρθρο 69 | [art-069.md](art-069.md) | |
 | Άρθρο 70 | [art-070.md](art-070.md) | |
 | Άρθρο 71 | [art-071.md](art-071.md) | |
 | Άρθρο 72 | [art-072.md](art-072.md) | |
-| Άρθρο 73 | [art-073.md](art-073.md) | ΤΜΗΜΑ ΔΕΥΤΕΡΟ · ΛΟΙΠΕΣ ΔΙΑΤΑΞΕΙΣ ΑΡΜΟΔΙΟΤΗΤΑΣ · ΥΠΟΥΡΓΕΙΟΥ ΟΙΚΟΝΟΜΙΚΩΝ |
-| Άρθρο 74 | [art-074.md](art-074.md) | |
-| Άρθρο 75 | [art-075.md](art-075.md) | |
-| Άρθρο 76 | [art-076.md](art-076.md) | ΤΜΗΜΑ ΤΡΙΤΟ · ΔΙΑΤΑΞΕΙΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΥΠΟΥΡΓΕΙΩΝ · ΕΣΩΤΕΡΙΚΩΝ, ΠΑΙΔΕΙΑΣ ΚΑΙ ΘΡΗΣΚΕΥΜΑΤΩΝ, · ΠΟΛΙΤΙΣΜΟΥ ΚΑΙ ΑΘΛΗΤΙΣΜΟΥ, ΔΙΟΙΚΗΤΙΚΗΣ · ΜΕΤΑΡΡΥΘΜΙΣΗΣ ΚΑΙ ΗΛΕΚΤΡΟΝΙΚΗΣ · ΔΙΑΚΥΒΕΡΝΗΣΗΣ, ΥΓΕΙΑΣ, ΕΡΓΑΣΙΑΣ, · ΚΟΙΝΩΝΙΚΗΣ ΑΣΦΑΛΙΣΗΣ ΚΑΙ ΠΡΟΝΟΙΑΣ, · ΠΕΡΙΒΑΛΛΟΝΤΟΣ, ΕΝΕΡΓΕΙΑΣ · ΚΑΙ ΚΛΙΜΑΤΙΚΗΣ ΑΛΛΑΓΗΣ, ΔΙΚΑΙΟΣΥΝΗΣ, · ΔΙΑΦΑΝΕΙΑΣ ΚΑΙ ΑΝΘΡΩΠΙΝΩΝ ΔΙΚΑΙΩΜΑΤΩΝ · ΚΕΦΑΛΑΙΟ Α΄ · ΔΙΑΤΑΞΕΙΣ ΑΡΜΟΔΙΟΤΗΤΑΣ · ΥΠΟΥΡΓΕΙΟΥ ΕΣΩΤΕΡΙΚΩΝ |
-| Άρθρο 77 | [art-077.md](art-077.md) | |
-| Άρθρο 78 | [art-078.md](art-078.md) | |
-| Άρθρο 79 | [art-079.md](art-079.md) | |
-| Άρθρο 80 | [art-080.md](art-080.md) | |
-| Άρθρο 81 | [art-081.md](art-081.md) | |
-| Άρθρο 82 | [art-082.md](art-082.md) | ΚΕΦΑΛΑΙΟ Β΄ · ΔΙΑΤΑΞΕΙΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΥΠΟΥΡΓΕΙΟΥ · ΠΑΙΔΕΙΑΣ ΚΑΙ ΘΡΗΣΚΕΥΜΑΤΩΝ |
-| Άρθρο 83 | [art-083.md](art-083.md) | ΚΕΦΑΛΑΙΟ Γ΄ · ΔΙΑΤΑΞΕΙΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΥΠΟΥΡΓΕΙΟΥ · ΠΟΛΙΤΙΣΜΟΥ ΚΑΙ ΑΘΛΗΤΙΣΜΟΥ · ΓΙΑ ΤΗ ΡΥΘΜΙΣΗ ΘΕΜΑΤΩΝ ΟΡΓΑΝΩΣΗΣ · ΚΑΙ ΔΙΕΞΑΓΩΓΗΣ ΙΠΠΟΔΡΟΜΙΩΝ |
-| Άρθρο 84 | [art-084.md](art-084.md) | |
-| Άρθρο 85 | [art-085.md](art-085.md) | |
-| Άρθρο 86 | [art-086.md](art-086.md) | |
-| Άρθρο 87 | [art-087.md](art-087.md) | |
-| Άρθρο 88 | [art-088.md](art-088.md) | |
-| Άρθρο 89 | [art-089.md](art-089.md) | ΚΕΦΑΛΑΙΟ Δ΄ · ΔΙΑΤΑΞΕΙΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΥΠΟΥΡΓΕΙΟΥ · ΔΙΟΙΚΗΤΙΚΗΣ ΜΕΤΑΡΡΥΘΜΙΣΗΣ · ΚΑΙ ΗΛΕΚΤΡΟΝΙΚΗΣ ΔΙΑΚΥΒΕΡΝΗΣΗΣ |
-| Άρθρο 90 | [art-090.md](art-090.md) | |
-| Άρθρο 91 | [art-091.md](art-091.md) | |
-| Άρθρο 92 | [art-092.md](art-092.md) | |
-| Άρθρο 93 | [art-093.md](art-093.md) | |
-| Άρθρο 94 | [art-094.md](art-094.md) | |
-| Άρθρο 95 | [art-095.md](art-095.md) | ΚΕΦΑΛΑΙΟ Ε΄ · ΔΙΑΤΑΞΕΙΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΥΠΟΥΡΓΕΙΟΥ ΥΓΕΙΑΣ · ΠΟΙΝΕΣ ΠΑΡΑΒΑΤΙΚΩΝ ΣΥΜΠΕΡΙΦΟΡΩΝ ΠΑΡΟΧΩΝ · ΥΓΕΙΑΣ ΚΑΤΑ ΤΗΝ ΕΜΠΟΡΙΑ ΚΑΙ ΔΙΑΚΙΝΗΣΗ · ΦΑΡΜΑΚΩΝ ΚΑΙ ΛΟΙΠΕΣ ΔΙΑΤΑΞΕΙΣ |
-| Άρθρο 96 | [art-096.md](art-096.md) | |
-| Άρθρο 97 | [art-097.md](art-097.md) | |
-| Άρθρο 98 | [art-098.md](art-098.md) | |
-| Άρθρο 99 | [art-099.md](art-099.md) | |
-| Άρθρο 100 | [art-100.md](art-100.md) | |
-| Άρθρο 101 | [art-101.md](art-101.md) | ΚΕΦΑΛΑΙΟ ΣΤ΄ · ΔΙΑΤΑΞΕΙΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΥΠΟΥΡΓΕΙΟΥ ΕΡΓΑΣΙΑΣ, · ΚΟΙΝΩΝΙΚΗΣ ΑΣΦΑΛΙΣΗΣ ΚΑΙ ΠΡΟΝΟΙΑΣ |
-| Άρθρο 102 | [art-102.md](art-102.md) | |
-| Άρθρο 103 | [art-103.md](art-103.md) | |
-| Άρθρο 104 | [art-104.md](art-104.md) | ΚΕΦΑΛΑΙΟ Ζ΄ · ΔΙΑΤΑΞΕΙΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΤΟΥ ΥΠΟΥΡΓΕΙΟΥ · ΠΕΡΙΒΑΛΛΟΝΤΟΣ, ΕΝΕΡΓΕΙΑΣ · ΚΑΙ ΚΛΙΜΑΤΙΚΗΣ ΑΛΛΑΓΗΣ |
-| Άρθρο 105 | [art-105.md](art-105.md) | ΚΕΦΑΛΑΙΟ Η΄ · ΔΙΑΤΑΞΕΙΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΥΠΟΥΡΓΕΙΟΥ · ΔΙΚΑΙΟΣΥΝΗΣ, ΔΙΑΦΑΝΕΙΑΣ · ΚΑΙ ΑΝΘΡΩΠΙΝΩΝ ΔΙΚΑΙΩΜΑΤΩΝ |
-| Άρθρο 106 | [art-106.md](art-106.md) | |
-| Άρθρο 107 | [art-107.md](art-107.md) | |
-| Άρθρο 108 | [art-108.md](art-108.md) | |
-| Άρθρο 109 | [art-109.md](art-109.md) | |
-| Άρθρο 110 | [art-110.md](art-110.md) | |
-| Άρθρο 111 | [art-111.md](art-111.md) | |
-| Άρθρο 112 | [art-112.md](art-112.md) | |
