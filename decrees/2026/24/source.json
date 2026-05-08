@@ -1,0 +1,51 @@
+{
+  "act": "π.δ. 24/2026",
+  "year": 2026,
+  "number": 24,
+  "url": "https://api.et.gr/apiLAW/2/2026/24/pdf",
+  "source_sha256": "0e4901fab1f7bf42a2b0e253e15d380825f22a828055211ff5576d77d4256a0a",
+  "published": "2026-05-08",
+  "in_force": "2026-05-08",
+  "in_force_basis": "Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.",
+  "pages": 12,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "2edb31564da493d54058bfa441054314b47ebf7259287a71f6b65fc032c7f3d9",
+      "ext": "jpeg",
+      "bytes": 727,
+      "bbox": [
+        387.0,
+        41.9,
+        453.0,
+        107.9
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "3baa93384eba1e69ed5c29e897b1d29f100c6586f0d3a0c25b3952de4d0e3181",
+      "ext": "png",
+      "bytes": 31338,
+      "bbox": [
+        124.9,
+        302.1,
+        521.7,
+        732.0
+      ]
+    },
+    {
+      "page": 11,
+      "sha256": "67f9c110e24cfcccd76038686aa38ce3014d740731141b33c24cfcb7659a72ab",
+      "ext": "png",
+      "bytes": 18665,
+      "bbox": [
+        124.9,
+        128.9,
+        521.7,
+        302.9
+      ]
+    }
+  ],
+  "text": "PDF text layer from the decree heading to the end of its signatures, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+}
