@@ -1,25 +1,20 @@
 {
-  "code": "Κώδικας εμμέσων φόρων επί των συναλλαγών του πεδίου εφαρμογής του Κώδικα Φορολογικής Διαδικασίας, καθώς και λοιπών εμμέσων φόρων",
+  "code": "Κώδικας Εμμέσων Φόρων επί των Συναλλαγών και λοιπών εμμέσων φόρων",
   "code_en": "Code of Indirect Taxes on Transactions",
-  "act": "ν. 5177/2025",
-  "act_type": "law",
-  "year": 2025,
-  "number": 5177,
-  "fek": "21/14.2.2025",
-  "source": "https://api.et.gr/apiLAW/1/2025/5177/pdf",
-  "source_sha256": "8736413377f5686f0ac106020ba26a31e7e875e0999943cc1f420d42475f3787",
-  "published": "2025-02-14",
-  "in_force": "2025-02-14",
-  "in_force_basis": "«Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.»",
-  "history": "as-enacted",
-  "status": "amended, not consolidated",
-  "amendments_applied": [],
+  "history": "consolidated",
+  "base_act": "ν. 5177/2025 (ΦΕΚ Α΄ 21/14.2.2025)",
+  "consolidated_to": "as in force until 30.9.2026, updated up to ν. 5301/2026 (ΦΕΚ Α΄ 74/15.5.2026)",
+  "source": "https://diavgeia.gov.gr/doc/ΨΚΜΖΗ-3ΑΕ",
+  "ada": "ΨΚΜΖΗ-3ΑΕ",
+  "decision": "Κοινοποίηση Διοικητικής Κωδικοποίησης του ν. 5177/2025, 9.11.2026",
+  "source_sha256": "9be27cd0ff3c8cfee5667b9b16a68dde665898a161b5473e0a34e281d7ae8412",
+  "in_force": "2026-05-15",
+  "in_force_basis": "the codification states the Code as in force until 30.9.2026, updated up to ν. 5301/2026 (ΦΕΚ Α΄ 74/15.5.2026); dated by that act's Gazette publication",
   "text": "PDF text layer (no OCR)",
-  "ocr": false,
-  "pages": 72,
+  "pages": 100,
   "check": {
-    "letter_runs": 3804,
-    "runs_not_found": 68
+    "letter_runs": 3264,
+    "runs_not_found": 41
   },
-  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+  "cross_check": "none"
 }
