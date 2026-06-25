@@ -1,25 +1,20 @@
 {
   "code": "Κώδικας Φόρου Προστιθέμενης Αξίας (ΦΠΑ)",
   "code_en": "Value Added Tax Code",
-  "act": "ν. 5144/2024",
-  "act_type": "law",
-  "year": 2024,
-  "number": 5144,
-  "fek": "162/11.10.2024",
-  "source": "https://api.et.gr/apiLAW/1/2024/5144/pdf",
-  "source_sha256": "5da7eb8b45b853eb79659cba0018ee788a23fc9d2e53868691b2f03d9af30714",
-  "published": "2024-10-11",
-  "in_force": "2024-10-11",
-  "in_force_basis": "«Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.»",
-  "history": "as-enacted",
-  "status": "amended, not consolidated",
-  "amendments_applied": [],
+  "history": "consolidated",
+  "base_act": "ν. 5144/2024 (ΦΕΚ Α΄ 162/11.10.2024)",
+  "consolidated_to": "as in force until 18.9.2026, updated up to ν. 5313/2026 (ΦΕΚ Α΄ 102/25.6.2026)",
+  "source": "https://diavgeia.gov.gr/doc/ΡΨΣΩΗ-ΑΟΙ",
+  "ada": "ΡΨΣΩΗ-ΑΟΙ",
+  "decision": "Κοινοποίηση Διοικητικής Κωδικοποίησης του ν. 5144/2024 για τον Κώδικα ΦΠΑ, 6.10.2026",
+  "source_sha256": "e6c0dbb5ee052e4ff4e4351dd5e360ef783449e0fa641d8a649d73e740fa8bbd",
+  "in_force": "2026-06-25",
+  "in_force_basis": "the codification states the Code as in force until 18.9.2026, updated up to ν. 5313/2026 (ΦΕΚ Α΄ 102/25.6.2026); dated by that act's Gazette publication",
   "text": "PDF text layer (no OCR)",
-  "ocr": false,
-  "pages": 124,
+  "pages": 190,
   "check": {
-    "letter_runs": 6430,
-    "runs_not_found": 35
+    "letter_runs": 8174,
+    "runs_not_found": 239
   },
-  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15)."
+  "cross_check": "none"
 }
