@@ -1,0 +1,40 @@
+{
+  "year": 2026,
+  "number": 5325,
+  "url": "https://api.et.gr/apiLAW/1/2026/5325/pdf",
+  "source_sha256": "199f952195695a9897c795e24cc889c43e9b8d46ca7ff979396b71063e5aae59",
+  "published": "2026-07-31",
+  "in_force": "2026-07-31",
+  "clause": "",
+  "in_force_general_day": false,
+  "pages": 56,
+  "images": [
+    {
+      "page": 1,
+      "sha256": "2edb31564da493d54058bfa441054314b47ebf7259287a71f6b65fc032c7f3d9",
+      "ext": "jpeg",
+      "bytes": 727,
+      "bbox": [
+        387.0,
+        41.9,
+        453.0,
+        107.9
+      ]
+    },
+    {
+      "page": 55,
+      "sha256": "7dc91195cee956451363326e7cebafd8003c8c63ef103e70ca0a76f9327be87c",
+      "ext": "png",
+      "bytes": 2130098,
+      "bbox": [
+        63.8,
+        93.5,
+        531.5,
+        773.9
+      ]
+    }
+  ],
+  "text": "PDF text layer from the law heading to the promulgation line, as published (page breaks as form feeds; images linked at their place)",
+  "terms": "National Printing Office (search.et.gr / api.et.gr) terms: personal, non-commercial use. The texts are official acts of the Greek State, excluded from copyright (ν. 2121/1993 άρθρο 2 παρ. 5); used here with that disclosure (Alan, 2026-11-15).",
+  "in_force_basis": "Gazette publication date; commencement clause not read mechanically: no commencement article"
+}
