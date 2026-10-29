@@ -250,7 +250,7 @@ def amending_article(year: int, num: int, art: str, must: str) -> list[dict]:
         j += 1
     body = paras[i + 1:j]
     title = body[0]['text'] if body and body[0]['kind'] == 'title' else ''
-    if must not in title:
+    if must not in title or not title:
         raise SystemExit(f'Α΄ {num}/{year} art. {art}: title {title!r} does not name {must!r}')
     return body[1:]
 
@@ -539,6 +539,23 @@ def am_5002(u: dict) -> dict:
     return u
 
 
+def am_5043(u: dict) -> dict:
+    """ν. 5043/2023 art. 123: «Από την έναρξη ισχύος του παρόντος καταργούνται: … 2. … γ) η παρ. 6 του άρθρου 11
+    του ν. 4624/2019 (Α’ 137) …»."""
+    body = amending_article(2023, 91, '123', 'Καταργούμενες διατάξεις')
+    texts = [p['text'] for p in body]
+    if texts[0] != 'Από την έναρξη ισχύος του παρόντος καταργούνται:':
+        raise SystemExit(f'ν. 5043/2023 art. 123 opens {texts[0]!r}')
+    hit = [t for t in texts if t.startswith('γ) η παρ. 6 του άρθρου 11 του ν. 4624/2019 (Α’ 137)')]
+    i2 = next(i for i, t in enumerate(texts) if t.startswith('2. '))
+    if len(hit) != 1 or texts.index(hit[0]) < i2:
+        raise SystemExit('ν. 5043/2023 art. 123 par. 2: item γ not found once')
+    u = dict(u)
+    u['art-011'] = replace_lines(u['art-011'], '6. ', r'^\d+\. ', [], 'ν. 5043/2023: art. 11 par. 6')
+    LOG.append('ν. 5043/2023 art. 123 par. 2 γ: art. 11 par. 6 removed')
+    return u
+
+
 def am_5197(u: dict) -> dict:
     body = amending_article(2025, 76, '56', 'παρ. 7 άρθρου 84Α ν. 4624/2019')
     need(instruction(body), 'Στην παρ. 7 του άρθρου 84Α του ν. 4624/2019 (Α’ 137), περί δημοσιοποίησης προσωπικών '
@@ -598,3 +615,335 @@ def am_5221(u: dict) -> dict:
     LOG.append('ν. 5221/2025 art. 154: art. 18 restated; par. 3 checked against the described word change and '
                'struck sentences; par. 9 new')
     return u
+
+
+# ---------------------------------------------------------------- in-force clauses
+
+def in_force_checks() -> list[str]:
+    """Each law's own commencement clause, read from its issue; the parse stops if the wording is not there."""
+    out = []
+
+    def text_of(y, n):
+        return '\n'.join(p['text'] for p in fek_paras(y, n))
+
+    t = text_of(2019, 137)
+    need(t, 'Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν άλλη '
+            'διάταξη ορίζει διαφορετικά.', 'ν. 4624/2019 art. 87')
+    need(t, '6. Η ισχύς του παρόντος αρχίζει την 1.9.2019.', 'ν. 4624/2019 art. 86 par. 6')
+    out.append('ν. 4624/2019 art. 87: «Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της '
+               'Κυβερνήσεως, εκτός αν άλλη διάταξη ορίζει διαφορετικά.» Art. 86 par. 6: «Η ισχύς του παρόντος αρχίζει '
+               'την 1.9.2019.» Art. 87 already covers the law as a whole, so art. 86 par. 6 is read as the article\'s '
+               'own commencement: art. 86 enters the history on 2019-09-01, everything else on 2019-08-29.')
+    t = text_of(2021, 166)
+    need(t, 'Οι διατάξεις του παρόντος τίθενται σε ισχύ από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, με την '
+            'εξαίρεση:', 'ν. 4829/2021 commencement')
+    need(t, 'β) της περ. λε’ της παρ. 1 του άρθρου 20 που τίθεται σε ισχύ από την 1η.7.2022.', 'ν. 4829/2021 commencement')
+    out.append('ν. 4829/2021, last article: in force on publication, except Chapter Δ of Part Α and art. 20 par. 1 '
+               'περ. λε; περ. λβ (art. 18 par. 6 of ν. 4624/2019) is not excepted, so 2021-09-10. Art. 20 par. 1 '
+               'itself repeals «Από την έναρξη ισχύος του παρόντος».')
+    t = text_of(2022, 228)
+    need(t, '1. Με την επιφύλαξη της παρ. 2, η ισχύς του παρόντος νόμου άρχεται από τη δημοσίευσή του στην Εφημερίδα '
+            'της Κυβερνήσεως, εκτός αν προβλέπεται διαφορετικά στις επιμέρους διατάξεις.', 'ν. 5002/2022 art. 51')
+    need(t, '2. Η ισχύς του άρθρου 27 άρχεται από την 1η.4.2023.', 'ν. 5002/2022 art. 51')
+    out.append('ν. 5002/2022 art. 51: in force on publication, except art. 27 (not one of arts. 34-45), so '
+               '2022-12-09; none of arts. 34-45 sets a date of its own.')
+    t = text_of(2023, 91)
+    need(t, '1. Με την επιφύλαξη της παρ. 2, η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της '
+            'Κυβερνήσεως.', 'ν. 5043/2023 art. 124')
+    need(t, '2. Τα άρθρα 61 και 63 τίθενται σε ισχύ από 1η Ιουλίου 2023.', 'ν. 5043/2023 art. 124')
+    out.append('ν. 5043/2023 art. 124: in force on publication, except arts. 61 and 63, so art. 123 from 2023-04-13; '
+               'art. 123 itself repeals «Από την έναρξη ισχύος του παρόντος».')
+    t = text_of(2025, 76)
+    need(t, 'Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται '
+            'διαφορετικά στις επιμέρους διατάξεις του.', 'ν. 5197/2025 commencement')
+    out.append('ν. 5197/2025, last article: in force on publication unless a provision says otherwise; art. 56 '
+               'sets no date, so 2025-05-16.')
+    paras = fek_paras(2025, 133)
+    t = '\n'.join(p['text'] for p in paras)
+    need(t, '1. Με την επιφύλαξη των παρ. 2, 3 και 4 η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην '
+            'Εφημερίδα της Κυβερνήσεως.', 'ν. 5221/2025 art. 168')
+    need(t, '3. Το Μέρος Α’ και τα άρθρα 150 και 151 τίθενται σε ισχύ από την 1η Ιανουαρίου 2026.', 'ν. 5221/2025 art. 168')
+    need(t, '4. Τα άρθρα 87 έως 89 και 122 έως 125 τίθενται σε ισχύ από την 1η Νοεμβρίου 2025.', 'ν. 5221/2025 art. 168')
+    parts = [(i, p['text']) for i, p in enumerate(paras) if p['kind'] == 'struct' and p['text'].startswith('ΜΕΡΟΣ ')]
+    a154 = next(i for i, p in enumerate(paras) if p['kind'] == 'art' and p['text'] == 'Άρθρο 154')
+    part = [name for i, name in parts if i < a154][-1]
+    if part != 'ΜΕΡΟΣ Γ’':
+        raise SystemExit(f'ν. 5221/2025 art. 154 is in {part}')
+    out.append('ν. 5221/2025 art. 168: in force on publication, except Part Β (on a ministerial decision), Part Α and '
+               'arts. 150-151 (1.1.2026) and arts. 87-89 and 122-125 (1.11.2025); art. 154 is in Part Γ, so 2025-07-28.')
+    return out
+
+
+# ---------------------------------------------------------------- checks against other texts
+
+def text_lines(units: dict, key: str) -> str:
+    return '\n'.join(units[key])
+
+
+def check_dpa(units: dict) -> tuple[list[str], list[str]]:
+    """Compare a version with the Hellenic Data Protection Authority's consolidated text, article by article (the
+    article from its heading on) and heading by heading, by words. Returns (articles that differ, notes)."""
+    doc = fitz.open(cpath(F.DPA_CONSOLIDATED))
+    raw = '\n'.join(p.get_text() for p in doc)
+    raw = raw.replace('\xa0', ' ')
+    # the Authority's notes: "***Το άρθρο … (ΦΕΚ A` 228/09.12.2022)" and one "ΠΑΡΑΤΗΡΗΣΗ"
+    notes = re.findall(r'\*{3}.*?(?:\d{2}\.\d{2}\.\d{4}\)?\.?|απορρήτου\.)', raw, flags=re.S)
+    if any(len(n) > 600 for n in notes):
+        raise SystemExit('DPA text: a note did not end where expected')
+    for n in notes:
+        raw = raw.replace(n, '\n', 1)
+    raw = re.sub(r'\[[^\[\]]*\]', '', raw)  # provisions it shows as repealed, in brackets
+    lines = [l.strip() for l in raw.split('\n') if l.strip()]
+    end = next(i for i, l in enumerate(lines) if l.startswith('Παραγγέλλομε'))
+    lines = lines[:end]
+    arts: dict[str, list[str]] = {}
+    heads: list[str] = []
+    cur = None
+    i = 0
+    while i < len(lines):
+        l = lines[i]
+        m = re.match(r'^«?Άρθρο (\d+)([Α-Ω])?$', l)
+        if m:
+            cur = art_key(m.group(1), m.group(2))
+            arts[cur] = [f'Άρθρο {m.group(1)}{m.group(2) or ""}']
+        elif re.match(r'^«?(ΚΕΦΑΛΑΙΟ|ΤΜΗΜΑ) \S+$', l):
+            heads += [l, lines[i + 1]]
+            cur = None
+            i += 1
+        elif cur:
+            arts[cur].append(l)
+        i += 1
+    ours_heads = [l for k in units for l in head_split(units[k])[0]]
+    roman = str.maketrans({'Ι': 'I', 'Χ': 'X'})
+    hq = [sq(h.translate(roman)) for h in heads]
+    oq = [sq(h.translate(roman)) for h in ours_heads]
+    notes_out = []
+    if hq != oq:
+        notes_out.append(f'headings differ: {[h for h in heads if sq(h.translate(roman)) not in oq]}')
+    differ = []
+    for k in units:
+        if k not in arts:
+            differ.append(k)
+            continue
+        ours = [l for l in head_split(units[k])[1] if not re.match(r'^\d+\. \[Καταργείται\]\.$', l)]
+        if sq('\n'.join(ours)) != sq('\n'.join(arts[k])):
+            differ.append(k)
+    differ += [k for k in arts if k not in units]
+    return differ, notes_out
+
+
+def check_legalize(units: dict) -> tuple[int, list[str], list[str]]:
+    """legalize-gr's text of ΦΕΚ Α΄ 137/2019 against the act as enacted, article by article, by words."""
+    arts: dict[str, list[str]] = {}
+    cur = None
+    for line in cpath(F.LEGALIZE_FILE).read_text(encoding='utf-8').splitlines():
+        m = re.match(r'^#####\s+Άρθρο\s+(\d+)([Α-Ω])?\s*$', line)
+        if m:
+            cur = art_key(m.group(1), m.group(2))
+            arts[cur] = []
+        elif line.startswith('#'):
+            cur = None
+        elif cur and line.strip():
+            arts[cur].append(line.replace('**', '').lstrip('- '))
+    same, differ, missing = 0, [], []
+    for k, v in units.items():
+        if k not in arts:
+            missing.append(k)
+        elif sq(' '.join(head_split(v)[1][1:])) == sq(' '.join(arts[k])):
+            same += 1
+        else:
+            differ.append(k)
+    return same, differ, missing
+
+
+# ---------------------------------------------------------------- the corpus part
+
+def law_title(year: int, num: int) -> str:
+    ps = fek_paras(year, num)
+    i = next(i for i, p in enumerate(ps) if 'ΠΡΟΕΔΡΟΣ' in p['text'] or p['text'].startswith('Εκδίδομε'))
+    return P.tidy_para(P.join_lines([p['text'] for p in ps[1:i]]))
+
+
+def signed(year: int, num: int) -> str:
+    """The day the President signed (the first «Αθήνα, …» line)."""
+    ps = fek_paras(year, num)
+    t = next(p['text'] for p in ps if p['text'].startswith('Αθήνα, '))
+    m = re.match(r'^Αθήνα, (\d{1,2}) (\w+) (\d{4})$', t)
+    months = ['Ιανουαρίου', 'Φεβρουαρίου', 'Μαρτίου', 'Απριλίου', 'Μαΐου', 'Ιουνίου', 'Ιουλίου', 'Αυγούστου',
+              'Σεπτεμβρίου', 'Οκτωβρίου', 'Νοεμβρίου', 'Δεκεμβρίου']
+    return f'{m.group(3)}-{months.index(m.group(2)) + 1:02d}-{int(m.group(1)):02d}'
+
+
+def changed(a: dict, b: dict) -> list[str]:
+    return sorted(k for k in set(a) | set(b) if a.get(k) != b.get(k))
+
+
+def as_units(u: dict) -> dict:
+    out = {}
+    for k, lines in u.items():
+        label = next(l for l in lines if re.match(r'^Άρθρο \d+[Α-Ω]?$', l))
+        out[k] = {'label': label, 'kind': 'art', 'text': '\n'.join(lines) + '\n'}
+    return dict(sorted(out.items()))
+
+
+LAW_FEK = {'n-4624-2019': (2019, 137), 'n-4829-2021': (2021, 166), 'n-5002-2022': (2022, 228),
+           'n-5197-2025': (2025, 76), 'n-5221-2025': (2025, 133)}
+
+
+def main(argv: list[str]) -> None:
+    dump = Path(argv[argv.index('--dump') + 1]) if '--dump' in argv else None
+    laws = {}
+    for key, (y, n) in LAW_FEK.items():
+        num = law_number(y, n)
+        if key != f'n-{num}-{y}':
+            raise SystemExit(f'Α΄ {n}/{y} is ν. {num}/{y}, not {key}')
+        laws[key] = {'label': f'ν. {num}/{y}', 'kind': 'law', 'title': law_title(y, n), 'enacted': signed(y, n),
+                     'published': masthead(y, n), 'url': F.fek_url(y, n), 'temporary_until': None, 'restores': None,
+                     'note': None}
+    pub = {k: v['published'] for k, v in laws.items()}
+    commencement = in_force_checks()
+
+    u0 = enacted()
+    u_pre = {k: v for k, v in u0.items() if k != 'art-086'}
+    u1 = am_4829(u0)
+    u2 = am_5002(u1)
+    u3 = am_5197(u2)
+    u4 = am_5221(u3)
+    steps = [('2019-08-29', u_pre, None, (2019, 137)), ('2019-09-01', u0, 'n-4624-2019', (2019, 137)),
+             (pub['n-4829-2021'], u1, 'n-4829-2021', (2021, 166)), (pub['n-5002-2022'], u2, 'n-5002-2022', (2022, 228)),
+             (pub['n-5197-2025'], u3, 'n-5197-2025', (2025, 76)), (pub['n-5221-2025'], u4, 'n-5221-2025', (2025, 133))]
+    if steps[0][0] != pub['n-4624-2019']:
+        raise SystemExit('ν. 4624/2019 publication day is not 2019-08-29')
+
+    dpa_differ, dpa_notes = check_dpa(u4)
+    if dpa_differ != ['art-084-a'] or dpa_notes:
+        raise SystemExit(f'DPA consolidated text: unexpected differences {dpa_differ} {dpa_notes}')
+    dpa_old, _ = check_dpa(u3)
+    lg_same, lg_differ, lg_missing = check_legalize(u0)
+
+    notes = {
+        '2019-08-29': 'ν. 4624/2019 as published in ΦΕΚ Α΄ 137/29.8.2019, in force on publication (art. 87), '
+                      'without art. 86, which sets its own start (art. 86 par. 6: 1.9.2019).',
+        '2019-09-01': 'Art. 86 of ν. 4624/2019 takes effect (its par. 6: «Η ισχύς του παρόντος αρχίζει την 1.9.2019»).',
+        pub['n-4829-2021']: 'Art. 18 par. 6 repealed by ν. 4829/2021 art. 20 par. 1 περ. λβ (ΦΕΚ Α΄ 166/10.9.2021), '
+                            'in force on publication.',
+        pub['n-5002-2022']: 'ν. 5002/2022 arts. 34-45 (ΦΕΚ Α΄ 228/9.12.2022), in force on publication (art. 51). '
+                            'Each replaced or restated provision reads as the amending law quotes it.',
+        pub['n-5197-2025']: 'ν. 5197/2025 art. 56 (ΦΕΚ Α΄ 76/16.5.2025) adds a third sentence to art. 84Α par. 7; '
+                            'in force on publication.',
+        pub['n-5221-2025']: 'ν. 5221/2025 art. 154 (ΦΕΚ Α΄ 133/28.7.2025) restates art. 18 "after technical '
+                            'improvements" (μετά από νομοτεχνικές βελτιώσεις); in force on publication (art. 168, '
+                            'Part Γ). Par. 6 reads «[Καταργείται]» as the restatement prints it.',
+    }
+    versions = []
+    prev = None
+    for day, u, law, (y, n) in steps:
+        units = as_units(u)
+        v = {'from': day, 'source_url': F.fek_url(y, n), 'sha256': sha(F.fek_url(y, n))}
+        if prev is None:
+            v['units'] = units
+        else:
+            ch = changed(prev, units)
+            v['changes'] = {k: units.get(k) for k in ch}
+            v['credits'] = {k: [law] for k in ch}
+        v['note'] = notes[day]
+        versions.append(v)
+        prev = units
+        if dump:
+            d = dump / day
+            d.mkdir(parents=True, exist_ok=True)
+            for k, x in units.items():
+                (d / f'{k}.md').write_text(x['text'], encoding='utf-8', newline='\n')
+
+    blob_requests = sum(1 for l in (CACHE / 'requests.jsonl').read_text(encoding='utf-8').splitlines()
+                        if 'blob.core.windows.net' in l)
+    sources = [
+        {'name': 'Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: issues for ν. 4624/2019 and its amending laws',
+         'url': 'https://ia37rg02wpsa01.blob.core.windows.net/fek/', 'retrieved': '2026-10-29',
+         'requests': blob_requests,
+         'licence': 'Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). '
+                    'Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr).',
+         'notes': 'Series Α΄ issues 137/2019 (ν. 4624/2019), 166/2021 (ν. 4829/2021), 228/2022 (ν. 5002/2022), '
+                  '76/2025 (ν. 5197/2025) and 133/2025 (ν. 5221/2025), each with a text layer; issue number, date '
+                  'and law number checked against each issue. Every word of the act is read from these issues. '
+                  'Α΄ 223/2025 (ν. 5256/2025) was also read: a full-text candidate, it amends no provision of '
+                  'ν. 4624/2019.'},
+        {'name': 'Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα: «ν. 4624/2019 με ενσωματωμένες όλες τις '
+                 'τροποποιήσεις» (consolidated text, PDF last modified 2025-12-10)',
+         'url': F.DPA_CONSOLIDATED, 'retrieved': '2026-10-29', 'requests': 1,
+         'licence': 'Hellenic Data Protection Authority publication; used only to check the history, no text copied.',
+         'notes': 'Linked from https://www.dpa.gr/el/enimerwtiko/nomothesia/proswpikon_dedomenon. Its amendment notes '
+                  'name ν. 4829/2021, ν. 5002/2022 and ν. 5221/2025; it does not include ν. 5197/2025 art. 56.'},
+        {'name': f'legalize-gr (github.com/legalize-dev/legalize-gr), commit {F.LEGALIZE_COMMIT[:12]}',
+         'url': f'https://github.com/legalize-dev/legalize-gr/tree/{F.LEGALIZE_COMMIT}', 'retrieved': '2026-10-29',
+         'requests': 1,
+         'licence': 'Pipeline MIT (github.com/legalize-dev/legalize-pipeline); legislative content: «Δημόσιος τομέας '
+                    '(επίσημα κρατικά κείμενα)» (its LICENSE). Original source of each file: the ΦΕΚ PDF named in its '
+                    'YAML `source` field.',
+         'notes': 'One Markdown file per ΦΕΚ Α΄ issue since 2000, each as published (amendments are not merged; its '
+                  '6,851 commits add files, dated by publication). Used to find amending laws (full-text scan of its '
+                  '6,847 issues plus the `amends` relation field it copies from the official search.et.gr timeline: '
+                  'scan_legalize_gr.py) and as a cross-check of the enacted text; its text is not used.'},
+    ]
+    decisions = [
+        'ν. 4624/2019 is built from the Government Gazette alone: the act as published (ΦΕΚ Α΄ 137/2019) and, for '
+        'each amendment, the amending law\'s own issue. Greece publishes no official consolidated text.',
+        f'legalize-gr was to be the text source, but its file for ΦΕΚ Α΄ 137/2019 agrees word for word with the '
+        f'issue in only {lg_same} of 87 articles: {len(lg_missing)} are missing ({", ".join(lg_missing)}) and '
+        f'{len(lg_differ)} lose or interleave text across the two columns. So every word is read from the ΦΕΚ PDFs '
+        f'with this folder\'s column reader, and legalize-gr is used only to find amending laws.',
+        'Amending laws were found three ways, all agreeing: (1) a full-text scan of every ΦΕΚ Α΄ issue 2019-2026 '
+        'in legalize-gr for an amending verb near "ν. 4624/2019" or for a provision of it named in a repealing list; '
+        '(2) the official search.et.gr relation index, as copied into legalize-gr\'s `amends` field; (3) the amendment '
+        'notes of the Data Protection Authority\'s consolidated text. (1) found ν. 5002/2022, 5197/2025 and '
+        '5221/2025 and, in its list pass, ν. 4829/2021; (2) listed 5002/2022, 5197/2025 and 5221/2025 (its other '
+        'rows, Α΄ 77/2023, 223/2025 and 9/2026, only cite ν. 4624/2019); (3) names 4829/2021, 5002/2022 and 5221/2025.',
+        'Article 86 of ν. 4624/2019 is dated from 2019-09-01 by its own par. 6; the rest of the act from its '
+        'publication, 2019-08-29 (art. 87).',
+        'Every other version is dated by the amending law\'s own commencement clause, read from its issue (see the '
+        'parse log); each says publication in the Gazette for the provisions used here. The publication day is '
+        'the date printed on the issue\'s masthead. Α΄ 228/2022 carries a digital signature of 10.12.2022 00:27 and '
+        'Α΄ 76/2025 one of 19.05.2025; the masthead dates (9.12.2022 and 16.5.2025) are used.',
+        'Units are articles (art-NNN, art-NNN-a for Α). An article\'s text is its heading lines (chapter and section '
+        'headings that open it), "Άρθρο N", its title on one line, then one paragraph or lettered item per line. '
+        'Section numerals, which the Gazette sets with Greek Ι beside Latin V, are written in Latin.',
+        'A repealed paragraph or item is removed (art. 18 par. 6 in 2021, art. 44 περ. ιζ in 2022). From 2025 '
+        'art. 18 par. 6 reads «6. [Καταργείται].» because ν. 5221/2025 restates the article that way.',
+        'ν. 5002/2022 art. 38 adds art. 45Α "after art. 45": it is placed before the Τμήμα ΙΙ heading, which opens '
+        'art. 46, as the Data Protection Authority\'s text also places it.',
+        'ν. 5002/2022 art. 42 misprints the law as "ν. 4264/2019 (Α’ 137)"; its heading and the issue number name '
+        'ν. 4624/2019, so it is applied.',
+        'Where an amending provision describes a change and then restates the result, the restated text is used, '
+        'and the parse checks the description against the old text; the small wording changes the restatement '
+        'makes on its own are listed below.',
+        f'Check against the Data Protection Authority\'s consolidated text: the 2025-07-28 version agrees with it '
+        f'word for word in every article and heading except art. 84Α, whose par. 7 third sentence (ν. 5197/2025 '
+        f'art. 56) the Authority\'s text does not yet carry; the 2025-05-16 version differs from it only in art(s). '
+        f'{", ".join(dpa_old)} (ν. 5221/2025). Comparison is by words, ignoring punctuation, quote marks and case.',
+    ]
+    decisions += [f'Parse log: {l}' for l in commencement + LOG]
+    decisions += [f'Restated wording: {l}' for l in RESTATED]
+    part = {
+        'laws': laws,
+        'sources': sources,
+        'acts': [{
+            'slug': 'nomos-4624-2019', 'short': 'ν. 4624/2019', 'title': laws['n-4624-2019']['title'],
+            'url': F.fek_url(2019, 137), 'first_law': 'n-4624-2019', 'earlier_laws': [], 'versions': versions,
+        }],
+        'applies': [],
+        'decisions': decisions,
+        'ai_use': ['ν. 4624/2019 part: none. No model wrote or altered legal text; a model (Claude) wrote '
+                   'parse_n4624.py, which reads every word from the Gazette PDFs.'],
+    }
+    OUT.parent.mkdir(exist_ok=True)
+    tmp = OUT.with_suffix('.json.tmp')
+    tmp.write_text(json.dumps(part, ensure_ascii=False, indent=1) + '\n', encoding='utf-8', newline='\n')
+    os.replace(tmp, OUT)
+    print('\n'.join(commencement + LOG))
+    print(f'legalize-gr: {lg_same} same, {len(lg_differ)} differ, missing {lg_missing}')
+    print(f'DPA: latest differs in {dpa_differ}; previous in {dpa_old}')
+    print(f'wrote {OUT} ({OUT.stat().st_size} bytes, {len(versions)} versions)')
+
+
+if __name__ == '__main__':
+    main(sys.argv[1:])
