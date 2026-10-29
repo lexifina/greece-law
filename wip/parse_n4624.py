@@ -26,6 +26,7 @@ import json
 import os
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 import fitz  # PyMuPDF
@@ -71,7 +72,7 @@ def read_lines(path: Path) -> list[dict]:
                 spans = [s for s in l['spans'] if s['text'].strip()]
                 if not spans:
                     continue
-                t = P.norm_line(''.join(s['text'] for s in l['spans']))
+                t = norm_line(''.join(s['text'] for s in l['spans']))
                 size = max(s['size'] for s in spans)
                 x0, y0, x1, _ = l['bbox']
                 if P.is_junk(t) or size > body + 1.5 or size < body - 0.6 or y0 < 75:
@@ -97,22 +98,50 @@ def read_lines(path: Path) -> list[dict]:
 
 
 ACCENTED = set('άέήίόύώΐΰ')
+KEPT_HYPHENS: list[str] = []
 
 
 def join_lines(lines: list[str]) -> str:
-    """parse.join_lines, except that a line-end hyphen between two accented parts is kept: a Greek word carries one
-    accent, so "κράτους-" + "μέλους" is the compound κράτους-μέλους, not one word broken across lines."""
+    """parse.join_lines, except that a line-end hyphen is kept when both sides look like whole words: both carry an
+    accent (a Greek word has one, bar an enclitic's second accent: σύμβασή του), the left side ends in a case
+    ending (ν or ς) and the right side has at least 4 letters. So "κράτους-" + "μέλους" stays the compound
+    κράτους-μέλους, while "σύμ-" + "βασή" and "δημοσί-" + "ευσή" are joined."""
     s = ''
     for t in lines:
         if not s:
             s = t
         elif re.search(r'[Α-Ωα-ωά-ώϊϋΐΰς]-$', s) and P.GREEK_LOWER.match(t):
             left = s.rsplit(' ', 1)[-1][:-1]
-            right = t.split(' ', 1)[0]
-            s = (s + t) if (ACCENTED & set(left) and ACCENTED & set(right)) else (s[:-1] + t)
+            right = re.match(r'[^\s,.;:·»)]*', t).group(0)
+            keep = (ACCENTED & set(left) and ACCENTED & set(right) and re.search(r'[νς]$', left)
+                    and len(right) >= 4)
+            if keep:
+                KEPT_HYPHENS.append(f'{left}-{right}')
+            s = (s + t) if keep else (s[:-1] + t)
         else:
             s = s + ' ' + t
     return s
+
+
+GREEK = re.compile(r'[Α-Ωα-ωΆ-Ώά-ώϊϋΐΰ]')
+
+
+def norm_line(s: str) -> str:
+    """parse.norm_line, except that Latin look-alike letters become Greek only inside words that have a Greek letter
+    (and in the one-letter words Η, ο, Ο, Α’ and "Το" set in Latin type): English words (Board, ISO/IEC, SOC) and
+    Roman numerals stay Latin, and a numeral set with Greek Ι beside Latin V or X (ΙV) is written in Latin."""
+    s = unicodedata.normalize('NFC', s)
+    s = s.replace('\xa0', ' ').replace('−', '-').replace('‐', '-').replace('\xad', '-')
+    out = []
+    for tok in s.split(' '):
+        core = tok.strip('()«»,.;:’\'΄')
+        if re.fullmatch(r'[ΙIVXΧ]+', core) and re.search(r'[VX]', core):
+            tok = tok.replace('Ι', 'I').replace('Χ', 'X')
+        elif GREEK.search(tok) or core in ('H', 'o', 'O', 'A', 'To'):
+            tok = tok.translate(P.LOOKALIKE)
+        out.append(tok)
+    s = ' '.join(out).translate(P.APOS)
+    return re.sub(r'\s+', ' ', s).strip()
 
 
 ART = re.compile(r'^(«?)\s*Άρθρο\s+(\d+)\s*([Α-Ω])?$')
@@ -349,7 +378,7 @@ def replace_lines(lines: list[str], start: str, stop: str | None, new: list[str]
 
 def sq(s: str) -> str:
     """Words only, for comparing texts typeset differently (quotes, dashes, spacing, accents on capitals kept)."""
-    s = P.norm_line(s).replace('`', '’')
+    s = norm_line(s).replace('`', '’')
     return re.sub(r'[\s\-–—«»"“”’\'.,·;:()\[\]]', '', s).lower()
 
 
