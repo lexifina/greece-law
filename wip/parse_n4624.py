@@ -4,8 +4,9 @@
 the amending law's own ΦΕΚ text:
 
     ν. 4829/2021 (Α΄ 166/10.9.2021), art. 20 par. 1 περ. λβ   repeals art. 18 par. 6
-    ν. 5002/2022 (Α΄ 228/9.12.2022), arts. 34-45              arts. 6, 43, 44, 45 (Τμήμα ΙΙ title), 45Α, 46, 47,
-                                                              49, 52, 53, 58, 71, 73, 84, 84Α
+    ν. 5002/2022 (Α΄ 228/9.12.2022), arts. 34-45              arts. 6, 43, 44, 45Α, 46 (and the Τμήμα ΙΙ title),
+                                                              47, 49, 52, 53, 58, 71, 73, 84, 84Α
+    ν. 5043/2023 (Α΄ 91/13.4.2023), art. 123 par. 2 περ. γ    repeals art. 11 par. 6
     ν. 5197/2025 (Α΄ 76/16.5.2025), art. 56                   art. 84Α par. 7
     ν. 5221/2025 (Α΄ 133/28.7.2025), art. 154                 art. 18
 
@@ -741,6 +742,11 @@ def check_dpa(units: dict) -> tuple[list[str], list[str]]:
     import difflib
     import unicodedata
 
+    def words(s):
+        s = unicodedata.normalize('NFD', s)
+        s = ''.join(c for c in s if not unicodedata.combining(c))  # accents: the Authority's text drops some
+        return [w for w in (sq(x) for x in re.split(r'[\s\-–—’]+', s)) if w]
+
     ours_heads = [l for k in units for l in head_split(units[k])[0]]
     roman = str.maketrans({'Ι': 'I', 'Χ': 'X'})
     hq = [''.join(words(h.translate(roman))) for h in heads]
@@ -748,13 +754,6 @@ def check_dpa(units: dict) -> tuple[list[str], list[str]]:
     notes_out = []
     if hq != oq:
         notes_out.append(f'headings differ: {[h for h, x in zip(heads, hq) if x not in oq]}')
-    return_words = None  # noqa: F841
-
-    def words(s):
-        s = unicodedata.normalize('NFD', s)
-        s = ''.join(c for c in s if not unicodedata.combining(c))  # accents: the Authority's text drops some
-        return [w for w in (sq(x) for x in re.split(r'[\s\-–—’]+', s)) if w]
-
     differ = {}
     for k in units:
         if k not in arts:
@@ -861,13 +860,17 @@ def main(argv: list[str]) -> None:
 
     dpa_differ, dpa_notes = check_dpa(u4)
     print(f'DPA: latest differs in {dpa_differ} {dpa_notes}')
-    third = sq(sentences(u4['art-084-a'][-1])[2])
+    import unicodedata
+    third = ''.join(c for c in unicodedata.normalize('NFD', sq(sentences(u4['art-084-a'][-1])[2]))
+                    if not unicodedata.combining(c))
     expected = {'art-018': [('85/2022', '50/2001')]}
     if (dpa_notes or set(dpa_differ) != {'art-018', 'art-084-a'} or dpa_differ['art-018'] != expected['art-018']
             or len(dpa_differ['art-084-a']) != 1 or dpa_differ['art-084-a'][0][1] != ''
             or sq(dpa_differ['art-084-a'][0][0]) != third):
         raise SystemExit(f'DPA consolidated text: unexpected differences {dpa_differ} {dpa_notes}')
-    dpa_old = sorted(check_dpa(u3)[0])
+    dpa_old = sorted(check_dpa(u2b)[0])
+    if dpa_old != ['art-018']:
+        raise SystemExit(f'DPA consolidated text vs the 2023 version: {dpa_old}')
     lg_same, lg_differ, lg_missing = check_legalize(u0)
 
     notes = {
@@ -915,7 +918,7 @@ def main(argv: list[str]) -> None:
          'licence': 'Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). '
                     'Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr).',
          'notes': 'Series Α΄ issues 137/2019 (ν. 4624/2019), 166/2021 (ν. 4829/2021), 228/2022 (ν. 5002/2022), '
-                  '76/2025 (ν. 5197/2025) and 133/2025 (ν. 5221/2025), each with a text layer; issue number, date '
+                  '91/2023 (ν. 5043/2023), 76/2025 (ν. 5197/2025) and 133/2025 (ν. 5221/2025), each with a text layer; issue number, date '
                   'and law number checked against each issue. Every word of the act is read from these issues. '
                   'Α΄ 223/2025 (ν. 5256/2025) was also read: a full-text candidate, it amends no provision of '
                   'ν. 4624/2019.'},
@@ -924,7 +927,7 @@ def main(argv: list[str]) -> None:
          'url': F.DPA_CONSOLIDATED, 'retrieved': '2026-10-29', 'requests': 1,
          'licence': 'Hellenic Data Protection Authority publication; used only to check the history, no text copied.',
          'notes': 'Linked from https://www.dpa.gr/el/enimerwtiko/nomothesia/proswpikon_dedomenon. Its amendment notes '
-                  'name ν. 4829/2021, ν. 5002/2022 and ν. 5221/2025; it does not include ν. 5197/2025 art. 56.'},
+                  'name ν. 4829/2021, 5002/2022, 5043/2023 and 5221/2025; it does not include ν. 5197/2025 art. 56.'},
         {'name': f'legalize-gr (github.com/legalize-dev/legalize-gr), commit {F.LEGALIZE_COMMIT[:12]}',
          'url': f'https://github.com/legalize-dev/legalize-gr/tree/{F.LEGALIZE_COMMIT}', 'retrieved': '2026-10-29',
          'requests': 1,
@@ -943,12 +946,15 @@ def main(argv: list[str]) -> None:
         f'issue in only {lg_same} of 87 articles: {len(lg_missing)} are missing ({", ".join(lg_missing)}) and '
         f'{len(lg_differ)} lose or interleave text across the two columns. So every word is read from the ΦΕΚ PDFs '
         f'with this folder\'s column reader, and legalize-gr is used only to find amending laws.',
-        'Amending laws were found three ways, all agreeing: (1) a full-text scan of every ΦΕΚ Α΄ issue 2019-2026 '
-        'in legalize-gr for an amending verb near "ν. 4624/2019" or for a provision of it named in a repealing list; '
-        '(2) the official search.et.gr relation index, as copied into legalize-gr\'s `amends` field; (3) the amendment '
-        'notes of the Data Protection Authority\'s consolidated text. (1) found ν. 5002/2022, 5197/2025 and '
-        '5221/2025 and, in its list pass, ν. 4829/2021; (2) listed 5002/2022, 5197/2025 and 5221/2025 (its other '
-        'rows, Α΄ 77/2023, 223/2025 and 9/2026, only cite ν. 4624/2019); (3) names 4829/2021, 5002/2022 and 5221/2025.',
+        'Amending laws were found three ways: (1) scan_legalize_gr.py, a full-text scan of every ΦΕΚ Α΄ issue '
+        '2019-2026 in legalize-gr for any article that names a provision of ν. 4624/2019 outside a quotation and '
+        'carries an amending verb or heading; (2) the official search.et.gr relation index, as copied into '
+        'legalize-gr\'s `amends` field; (3) the amendment notes of the Data Protection Authority\'s consolidated text. '
+        '(1) finds ν. 4829/2021, 5002/2022, 5043/2023, 5197/2025 and 5221/2025 (plus Α΄ 77/2023, which only cites the '
+        'law); (2) lists 5002/2022, 5197/2025 and 5221/2025 (its other rows, Α΄ 77/2023, 223/2025 and 9/2026, only '
+        'cite ν. 4624/2019); (3) names 4829/2021, 5002/2022, 5043/2023 and 5221/2025. ν. 5043/2023 was first found '
+        'through (3): it repeals in a list item, which the first version of the scan missed. Every one of the five '
+        'was then read in its own issue.',
         'Article 86 of ν. 4624/2019 is dated from 2019-09-01 by its own par. 6; the rest of the act from its '
         'publication, 2019-08-29 (art. 87).',
         'Every other version is dated by the amending law\'s own commencement clause, read from its issue (see the '
@@ -958,7 +964,8 @@ def main(argv: list[str]) -> None:
         'Units are articles (art-NNN, art-NNN-a for Α). An article\'s text is its heading lines (chapter and section '
         'headings that open it), "Άρθρο N", its title on one line, then one paragraph or lettered item per line. '
         'Section numerals, which the Gazette sets with Greek Ι beside Latin V, are written in Latin.',
-        'A repealed paragraph or item is removed (art. 18 par. 6 in 2021, art. 44 περ. ιζ in 2022). From 2025 '
+        'A repealed paragraph or item is removed (art. 18 par. 6 in 2021, art. 44 περ. ιζ in 2022, art. 11 par. 6 '
+        'in 2023). From 2025 '
         'art. 18 par. 6 reads «6. [Καταργείται].» because ν. 5221/2025 restates the article that way.',
         'ν. 5002/2022 art. 38 adds art. 45Α "after art. 45": it is placed before the Τμήμα ΙΙ heading, which opens '
         'art. 46, as the Data Protection Authority\'s text also places it.',
@@ -967,10 +974,12 @@ def main(argv: list[str]) -> None:
         'Where an amending provision describes a change and then restates the result, the restated text is used, '
         'and the parse checks the description against the old text; the small wording changes the restatement '
         'makes on its own are listed below.',
-        f'Check against the Data Protection Authority\'s consolidated text: the 2025-07-28 version agrees with it '
-        f'word for word in every article and heading except art. 84Α, whose par. 7 third sentence (ν. 5197/2025 '
-        f'art. 56) the Authority\'s text does not yet carry; the 2025-05-16 version differs from it only in art(s). '
-        f'{", ".join(dpa_old)} (ν. 5221/2025). Comparison is by words, ignoring punctuation, quote marks and case.',
+        f'Check against the Data Protection Authority\'s consolidated text (PDF modified 2025-12-10): the latest '
+        f'version, 2025-07-28, agrees with it word for word in every article and heading but two. Art. 84Α: the '
+        f'Authority\'s text lacks the third sentence of par. 7 added by ν. 5197/2025 art. 56 (read in ΦΕΚ Α΄ '
+        f'76/2025). Art. 18 par. 8: the Authority\'s text still cites «π.δ. 50/2001», which ν. 5221/2025 art. 154 '
+        f'restates as «π.δ. 85/2022 (Α’ 39)». The 2023-04-13 version (before both) differs from it only in '
+        f'{", ".join(dpa_old)}. Comparison is by words, ignoring punctuation, quote marks, accents, case and spacing.',
     ]
     decisions += [f'Parse log: {l}' for l in commencement + LOG]
     decisions += [f'Restated wording: {l}' for l in RESTATED]
