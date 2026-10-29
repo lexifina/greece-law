@@ -348,8 +348,8 @@ def restated(expected: str, new: str, what: str, limit: int = 3) -> None:
     text must give the restated text, except for at most `limit` small differences of wording the restatement makes
     on its own. Those are recorded (RESTATED) for the decisions; more than `limit` stops the parse."""
     import difflib
-    a = [w for w in (sq(x) for x in expected.split()) if w]
-    b = [w for w in (sq(x) for x in new.split()) if w]
+    a = [w for w in (sq(x) for x in re.split(r'[\s\-–—’]+', expected)) if w]
+    b = [w for w in (sq(x) for x in re.split(r'[\s\-–—’]+', new)) if w]
     sm = difflib.SequenceMatcher(a=a, b=b, autojunk=False)
     diffs = [(' '.join(a[i1:i2]), ' '.join(b[j1:j2])) for op, i1, i2, j1, j2 in sm.get_opcodes() if op != 'equal']
     if len(diffs) > limit:
