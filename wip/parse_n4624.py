@@ -95,6 +95,25 @@ def read_lines(path: Path) -> list[dict]:
     return out
 
 
+ACCENTED = set('άέήίόύώΐΰ')
+
+
+def join_lines(lines: list[str]) -> str:
+    """parse.join_lines, except that a line-end hyphen between two accented parts is kept: a Greek word carries one
+    accent, so "κράτους-" + "μέλους" is the compound κράτους-μέλους, not one word broken across lines."""
+    s = ''
+    for t in lines:
+        if not s:
+            s = t
+        elif re.search(r'[Α-Ωα-ωά-ώϊϋΐΰς]-$', s) and P.GREEK_LOWER.match(t):
+            left = s.rsplit(' ', 1)[-1][:-1]
+            right = t.split(' ', 1)[0]
+            s = (s + t) if (ACCENTED & set(left) and ACCENTED & set(right)) else (s[:-1] + t)
+        else:
+            s = s + ' ' + t
+    return s
+
+
 ART = re.compile(r'^(«?)\s*Άρθρο\s+(\d+)\s*([Α-Ω])?$')
 STRUCT = re.compile(r'^«?(ΜΕΡΟΣ|ΤΜΗΜΑ|ΚΕΦΑΛΑΙΟ)\b')
 BODY_START = re.compile(r'^«?(\d+[Α-Ω]?\.\s|[α-ω]{1,3}[)’.]\s|\([α-ω]{1,3}\)\s|\[)')
@@ -112,7 +131,7 @@ def paragraphs(lines: list[dict]) -> list[dict]:
     def flush():
         nonlocal cur, kind
         if cur:
-            paras.append({'kind': kind, 'text': P.tidy_para(P.join_lines(cur))})
+            paras.append({'kind': kind, 'text': P.tidy_para(join_lines(cur))})
         cur, kind = [], None
 
     for l in lines:
@@ -687,7 +706,10 @@ def check_dpa(units: dict) -> tuple[list[str], list[str]]:
     raw = '\n'.join(p.get_text() for p in doc)
     raw = raw.replace('\xa0', ' ')
     # the Authority's notes: "***Το άρθρο … (ΦΕΚ A` 228/09.12.2022)" and one "ΠΑΡΑΤΗΡΗΣΗ"
-    notes = re.findall(r'\*{3}.*?(?:\d{2}\.\d{2}\.\d{4}\)?\.?|απορρήτου\.)', raw, flags=re.S)
+    notes = re.findall(r'\*{3}\s*ΠΑΡΑΤΗΡΗΣΗ:.*?απορρήτου\.', raw, flags=re.S)
+    for n in notes:
+        raw = raw.replace(n, '\n', 1)
+    notes = re.findall(r'\*{3}.*?\d{2}\.\d{2}\.\d{4}\)?\.?', raw, flags=re.S)
     if any(len(n) > 600 for n in notes):
         raise SystemExit('DPA text: a note did not end where expected')
     for n in notes:
@@ -707,28 +729,46 @@ def check_dpa(units: dict) -> tuple[list[str], list[str]]:
             cur = art_key(m.group(1), m.group(2))
             arts[cur] = [f'Άρθρο {m.group(1)}{m.group(2) or ""}']
         elif re.match(r'^«?(ΚΕΦΑΛΑΙΟ|ΤΜΗΜΑ) \S+$', l):
-            heads += [l, lines[i + 1]]
+            j = i + 1
+            while j < len(lines) and not re.match(r'^«?(Άρθρο \d+[Α-Ω]?|ΚΕΦΑΛΑΙΟ \S+|ΤΜΗΜΑ \S+)$', lines[j]):
+                j += 1
+            heads += [l, ' '.join(lines[i + 1:j])]
             cur = None
-            i += 1
+            i = j - 1
         elif cur:
             arts[cur].append(l)
         i += 1
+    import difflib
+    import unicodedata
+
     ours_heads = [l for k in units for l in head_split(units[k])[0]]
     roman = str.maketrans({'Ι': 'I', 'Χ': 'X'})
-    hq = [sq(h.translate(roman)) for h in heads]
-    oq = [sq(h.translate(roman)) for h in ours_heads]
+    hq = [''.join(words(h.translate(roman))) for h in heads]
+    oq = [''.join(words(h.translate(roman))) for h in ours_heads]
     notes_out = []
     if hq != oq:
-        notes_out.append(f'headings differ: {[h for h in heads if sq(h.translate(roman)) not in oq]}')
-    differ = []
+        notes_out.append(f'headings differ: {[h for h, x in zip(heads, hq) if x not in oq]}')
+    return_words = None  # noqa: F841
+
+    def words(s):
+        s = unicodedata.normalize('NFD', s)
+        s = ''.join(c for c in s if not unicodedata.combining(c))  # accents: the Authority's text drops some
+        return [w for w in (sq(x) for x in re.split(r'[\s\-–—’]+', s)) if w]
+
+    differ = {}
     for k in units:
         if k not in arts:
-            differ.append(k)
+            differ[k] = 'missing in the Authority\'s text'
             continue
         ours = [l for l in head_split(units[k])[1] if not re.match(r'^\d+\. \[Καταργείται\]\.$', l)]
-        if sq('\n'.join(ours)) != sq('\n'.join(arts[k])):
-            differ.append(k)
-    differ += [k for k in arts if k not in units]
+        a, b = words('\n'.join(ours)), words('\n'.join(arts[k]))
+        if ''.join(a) != ''.join(b):  # spacing differences (e.g. «του·ή» in the Gazette) do not count
+            sm = difflib.SequenceMatcher(a=a, b=b, autojunk=False)
+            differ[k] = [(' '.join(a[i1:i2]), ' '.join(b[j1:j2])) for op, i1, i2, j1, j2 in sm.get_opcodes()
+                         if op != 'equal']
+    for k in arts:
+        if k not in units:
+            differ[k] = 'only in the Authority\'s text'
     return differ, notes_out
 
 
@@ -761,7 +801,7 @@ def check_legalize(units: dict) -> tuple[int, list[str], list[str]]:
 def law_title(year: int, num: int) -> str:
     ps = fek_paras(year, num)
     i = next(i for i, p in enumerate(ps) if 'ΠΡΟΕΔΡΟΣ' in p['text'] or p['text'].startswith('Εκδίδομε'))
-    return P.tidy_para(P.join_lines([p['text'] for p in ps[1:i]]))
+    return P.tidy_para(join_lines([p['text'] for p in ps[1:i]]))
 
 
 def signed(year: int, num: int) -> str:
@@ -787,7 +827,7 @@ def as_units(u: dict) -> dict:
 
 
 LAW_FEK = {'n-4624-2019': (2019, 137), 'n-4829-2021': (2021, 166), 'n-5002-2022': (2022, 228),
-           'n-5197-2025': (2025, 76), 'n-5221-2025': (2025, 133)}
+           'n-5043-2023': (2023, 91), 'n-5197-2025': (2025, 76), 'n-5221-2025': (2025, 133)}
 
 
 def main(argv: list[str]) -> None:
@@ -807,18 +847,27 @@ def main(argv: list[str]) -> None:
     u_pre = {k: v for k, v in u0.items() if k != 'art-086'}
     u1 = am_4829(u0)
     u2 = am_5002(u1)
-    u3 = am_5197(u2)
+    u2b = am_5043(u2)
+    u3 = am_5197(u2b)
     u4 = am_5221(u3)
     steps = [('2019-08-29', u_pre, None, (2019, 137)), ('2019-09-01', u0, 'n-4624-2019', (2019, 137)),
              (pub['n-4829-2021'], u1, 'n-4829-2021', (2021, 166)), (pub['n-5002-2022'], u2, 'n-5002-2022', (2022, 228)),
+             (pub['n-5043-2023'], u2b, 'n-5043-2023', (2023, 91)),
              (pub['n-5197-2025'], u3, 'n-5197-2025', (2025, 76)), (pub['n-5221-2025'], u4, 'n-5221-2025', (2025, 133))]
+    if [s[0] for s in steps] != sorted(s[0] for s in steps):
+        raise SystemExit('versions out of order')
     if steps[0][0] != pub['n-4624-2019']:
         raise SystemExit('ν. 4624/2019 publication day is not 2019-08-29')
 
     dpa_differ, dpa_notes = check_dpa(u4)
-    if dpa_differ != ['art-084-a'] or dpa_notes:
+    print(f'DPA: latest differs in {dpa_differ} {dpa_notes}')
+    third = sq(sentences(u4['art-084-a'][-1])[2])
+    expected = {'art-018': [('85/2022', '50/2001')]}
+    if (dpa_notes or set(dpa_differ) != {'art-018', 'art-084-a'} or dpa_differ['art-018'] != expected['art-018']
+            or len(dpa_differ['art-084-a']) != 1 or dpa_differ['art-084-a'][0][1] != ''
+            or sq(dpa_differ['art-084-a'][0][0]) != third):
         raise SystemExit(f'DPA consolidated text: unexpected differences {dpa_differ} {dpa_notes}')
-    dpa_old, _ = check_dpa(u3)
+    dpa_old = sorted(check_dpa(u3)[0])
     lg_same, lg_differ, lg_missing = check_legalize(u0)
 
     notes = {
@@ -829,6 +878,8 @@ def main(argv: list[str]) -> None:
                             'in force on publication.',
         pub['n-5002-2022']: 'ν. 5002/2022 arts. 34-45 (ΦΕΚ Α΄ 228/9.12.2022), in force on publication (art. 51). '
                             'Each replaced or restated provision reads as the amending law quotes it.',
+        pub['n-5043-2023']: 'Art. 11 par. 6 repealed by ν. 5043/2023 art. 123 par. 2 περ. γ (ΦΕΚ Α΄ 91/13.4.2023), '
+                            'in force on publication.',
         pub['n-5197-2025']: 'ν. 5197/2025 art. 56 (ΦΕΚ Α΄ 76/16.5.2025) adds a third sentence to art. 84Α par. 7; '
                             'in force on publication.',
         pub['n-5221-2025']: 'ν. 5221/2025 art. 154 (ΦΕΚ Α΄ 133/28.7.2025) restates art. 18 "after technical '
