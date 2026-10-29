@@ -340,14 +340,23 @@ def same_words(a: str, b: str, what: str) -> None:
         raise SystemExit(f'{what}: texts differ at {i}: {x[max(0, i - 40):i + 40]!r} vs {y[max(0, i - 40):i + 40]!r}')
 
 
-def word_change(old: str, pairs: list[tuple[str, str]], new: str, what: str) -> None:
-    """The instruction's described word change, applied to the old text, must give the restated text."""
-    t = old
-    for a, b in pairs:
-        if a not in t:
-            raise SystemExit(f'{what}: {a!r} not in the old text')
-        t = t.replace(a, b, 1) if b is not None else t.replace(a, '', 1)
-    same_words(t, new, what)
+RESTATED: list[str] = []
+
+
+def restated(expected: str, new: str, what: str, limit: int = 3) -> None:
+    """An instruction that describes a change and then restates the result: the described change applied to the old
+    text must give the restated text, except for at most `limit` small differences of wording the restatement makes
+    on its own. Those are recorded (RESTATED) for the decisions; more than `limit` stops the parse."""
+    import difflib
+    a = [w for w in (sq(x) for x in expected.split()) if w]
+    b = [w for w in (sq(x) for x in new.split()) if w]
+    sm = difflib.SequenceMatcher(a=a, b=b, autojunk=False)
+    diffs = [(' '.join(a[i1:i2]), ' '.join(b[j1:j2])) for op, i1, i2, j1, j2 in sm.get_opcodes() if op != 'equal']
+    if len(diffs) > limit:
+        raise SystemExit(f'{what}: {len(diffs)} differences beyond the described change: {diffs[:6]}')
+    for x, y in diffs:
+        RESTATED.append(f'{what}: the restated text reads «{y}» where the old text, as the instruction describes the '
+                        f'change, reads «{x}»')
 
 
 def present(units: dict, key: str, quoted: list[str], what: str) -> None:
@@ -355,3 +364,237 @@ def present(units: dict, key: str, quoted: list[str], what: str) -> None:
     for q in quoted:
         if q not in text:
             raise SystemExit(f'{what}: quoted text not in {key}: {q[:60]}')
+
+
+def words_replaced(text: str, pairs: list[tuple[str, str]]) -> str:
+    """Every whole-word occurrence of each old word replaced by the new one."""
+    for a, b in pairs:
+        if not re.search(rf'(?<!\w){a}(?!\w)', text):
+            raise SystemExit(f'{a!r} not in the old text')
+        text = re.sub(rf'(?<!\w){a}(?!\w)', b, text)
+    return text
+
+
+def sentences(par: str) -> list[str]:
+    """A paragraph's εδάφια: split after a full stop followed by a space and a capital."""
+    m = re.match(r'^\d+[Α-Ω]?\. ', par)
+    num = m.group(0) if m else ''
+    out = re.split(r'(?<=\.) (?=[Α-ΩΆ-Ώ])', par[len(num):])
+    out[0] = num + out[0]
+    return out
+
+
+def need(text: str, phrase: str, what: str) -> None:
+    if phrase not in text:
+        raise SystemExit(f'{what}: expected wording not found: {phrase!r}')
+
+
+# ---------------------------------------------------------------- the amendments, one function per amending law
+
+LOG: list[str] = []
+
+
+def am_4829(u: dict) -> dict:
+    """ν. 4829/2021 art. 20 par. 1 περ. λβ: «Από την έναρξη ισχύος του παρόντος καταργούνται: … λβ. η παρ. 6 του
+    άρθρου 18 του ν. 4624/2019 (Α’ 137)…»."""
+    body = amending_article(2021, 166, '20', '')
+    texts = [p['text'] for p in body]
+    if texts[0] != '1. Από την έναρξη ισχύος του παρόντος καταργούνται:':
+        raise SystemExit(f'ν. 4829/2021 art. 20: par. 1 opens {texts[0]!r}')
+    i_par2 = next(i for i, t in enumerate(texts) if t.startswith('2. '))
+    hit = [t for t in texts[:i_par2] if t.startswith('λβ. η παρ. 6 του άρθρου 18 του ν. 4624/2019 (Α’ 137)')]
+    if len(hit) != 1:
+        raise SystemExit('ν. 4829/2021 art. 20 par. 1: item λβ not found once')
+    u = dict(u)
+    u['art-018'] = replace_lines(u['art-018'], '6. ', None, [], 'ν. 4829/2021: art. 18 par. 6')
+    LOG.append('ν. 4829/2021 art. 20 par. 1 λβ: art. 18 par. 6 removed')
+    return u
+
+
+def am_5002(u: dict) -> dict:
+    u = dict(u)
+    Y, N = 2022, 228
+    PAR = r'^\d+[Α-Ω]?\. '
+    PT = r'^[α-ω]{1,3}\) '
+
+    def one(art, must, n_quotes, wording):
+        body = amending_article(Y, N, art, must)
+        qs = quotes(body)
+        if len(qs) != n_quotes:
+            raise SystemExit(f'ν. 5002/2022 art. {art}: {len(qs)} quotations, expected {n_quotes}')
+        for w in wording:
+            need(instruction(body) if art != '36' else ' '.join(p['text'] for p in body), w, f'ν. 5002/2022 art. {art}')
+        return [[p['text'] for p in q] for q in qs], qs
+
+    def whole(key, num, q, what):
+        head, _ = head_split(u[key]) if key in u else ([], [])
+        new = quoted_article(q, num)
+        u[key] = head + new
+        present(u, key, new, what)
+
+    # art. 34: art. 6 par. 5 replaced
+    (q,), _ = one('34', 'άρθρου 6 ν. 4624/2019', 1,
+                  ['Η παρ. 5 του άρθρου 6 του ν. 4624/2019 (Α’ 137) αντικαθίσταται ως εξής:'])
+    if not (len(q) == 1 and q[0].startswith('5. ')):
+        raise SystemExit('ν. 5002/2022 art. 34: quotation is not one par. 5')
+    u['art-006'] = replace_lines(u['art-006'], '5. ', PAR, q, 'art. 6 par. 5')
+    present(u, 'art-006', q, 'ν. 5002/2022 art. 34')
+    # art. 35: art. 43 replaced
+    _, (qa,) = one('35', 'άρθρου 43 ν. 4624/2019', 1, ['Το άρθρο 43 του ν. 4624/2019 (Α’ 137) αντικαθίσταται ως εξής:'])
+    whole('art-043', '43', qa, 'ν. 5002/2022 art. 35')
+    # art. 36: arts. 44, 53, 58 and 71
+    texts, qs = one('36', 'άρθρων 44, 53, 58 και 71 ν. 4624/2019', 7, [
+        '1. Διαγράφεται ο αριθμός 1 προ της μόνης παραγράφου του άρθρου 44 του ν. 4624/2019 (Α’ 137).',
+        '2. Η περ. ιδ) του άρθρου 44 του ν. 4624/2019 αντικαθίσταται ως εξής:',
+        '3. Η περ. ιε) του άρθρου 44 του ν. 4624/2019 αντικαθίσταται ως εξής:',
+        '4. Η περ. ιζ) του άρθρου 44 του ν. 4624/2019, περί ορισμού της «συγκατάθεσης» καταργείται.',
+        'η λέξη «δημόσια» αντικαθίσταται με τη λέξη «αρμόδια» και η περ. ζ) διαμορφώνεται ως εξής:',
+        'οι λέξεις «δημόσια» και «δημόσιες» αντικαθίστανται, αντιστοίχως, με τις λέξεις «αρμόδια» και «αρμόδιες» και η περ. θ) διαμορφώνεται ως εξής:',
+        'η λέξη «δημόσιας» αντικαθίσταται από τη λέξη «αρμόδιας» και το άρθρο 53 διαμορφώνεται ως εξής:',
+        'η λέξη «δημόσιες» αντικαθίσταται από τη λέξη «αρμόδιες» και η παρ. 1 διαμορφώνεται ως εξής:',
+        'η λέξη «δημόσια» αντικαθίσταται από τη λέξη «αρμόδια» και το άρθρο 71 διαμορφώνεται ως εξής:'])
+    a44 = u['art-044']
+    i = find_one(a44, '1. Για τους σκοπούς του παρόντος Κεφαλαίου', 'art. 44 par. 1')
+    if any(re.match(r'^2\. ', l) for l in a44):
+        raise SystemExit('art. 44 has a par. 2; "the only paragraph" does not hold')
+    a44 = a44[:i] + [a44[i][3:]] + a44[i + 1:]
+    q_id, q_ie, q_z, q_th = texts[0], texts[1], texts[2], texts[3]
+    if not (q_id[0].startswith('ιδ) ') and q_ie[0].startswith('ιε) ') and q_z[0].startswith('ζ) ') and q_th[0].startswith('θ) ')):
+        raise SystemExit('ν. 5002/2022 art. 36: quotations not in the order ιδ, ιε, ζ, θ')
+    a44 = replace_lines(a44, 'ιδ) ', PT, q_id, 'art. 44 ιδ')
+    a44 = replace_lines(a44, 'ιε) ', PT, q_ie, 'art. 44 ιε')
+    a44 = replace_lines(a44, 'ιζ) ', PT, [], 'art. 44 ιζ')
+    old_z = a44[find_one(a44, 'ζ) ', 'art. 44 ζ')]
+    restated(words_replaced(old_z, [('δημόσια', 'αρμόδια')]), q_z[0], 'art. 44 ζ: word change')
+    a44 = replace_lines(a44, 'ζ) ', PT, q_z, 'art. 44 ζ')
+    old_th = a44[find_one(a44, 'θ) ', 'art. 44 θ')]
+    restated(words_replaced(old_th, [('δημόσια', 'αρμόδια'), ('δημόσιες', 'αρμόδιες')]), q_th[0], 'art. 44 θ: word change')
+    a44 = replace_lines(a44, 'θ) ', PT, q_th, 'art. 44 θ')
+    u['art-044'] = a44
+    for q in (q_id, q_ie, q_z, q_th):
+        present(u, 'art-044', q, 'ν. 5002/2022 art. 36')
+    # 36(5)(γ): art. 53 restated
+    head, old = head_split(u['art-053'])
+    new53 = quoted_article(qs[4], '53')
+    restated(words_replaced('\n'.join(old), [('δημόσιας', 'αρμόδιας')]), '\n'.join(new53), 'art. 53: word change')
+    whole('art-053', '53', qs[4], 'ν. 5002/2022 art. 36(5)(γ)')
+    # 36(5)(δ): art. 58 par. 1 restated
+    q58 = texts[5]
+    old58 = u['art-058'][find_one(u['art-058'], '1. ', 'art. 58 par. 1')]
+    restated(words_replaced(old58, [('δημόσιες', 'αρμόδιες')]), '\n'.join(q58), 'art. 58 par. 1: word change')
+    u['art-058'] = replace_lines(u['art-058'], '1. ', PAR, q58, 'art. 58 par. 1')
+    present(u, 'art-058', q58, 'ν. 5002/2022 art. 36(5)(δ)')
+    # 36(5)(ε): art. 71 restated
+    head, old = head_split(u['art-071'])
+    new71 = quoted_article(qs[6], '71')
+    restated(words_replaced('\n'.join(old), [('δημόσια', 'αρμόδια')]), '\n'.join(new71), 'art. 71: word change')
+    whole('art-071', '71', qs[6], 'ν. 5002/2022 art. 36(5)(ε)')
+    # art. 37: the title of Τμήμα ΙΙ of Κεφάλαιο Δ’ (it opens art. 46)
+    (q,), _ = one('37', 'Τμήματος ΙΙ', 1,
+                  ['Ο τίτλος του Τμήματος ΙΙ του Κεφαλαίου Δ’ του ν. 4624/2019 (Α’ 137) αντικαθίσταται ως εξής:'])
+    a46 = u['art-046']
+    i = a46.index('ΤΜΗΜΑ II')
+    if a46[i + 1] != 'ΝΟΜΙΚΕΣ ΒΑΣΕΙΣ ΤΗΣ ΕΠΕΞΕΡΓΑΣΙΑΣ':
+        raise SystemExit(f'Τμήμα ΙΙ title is {a46[i + 1]!r}')
+    u['art-046'] = a46[:i + 1] + q + a46[i + 2:]
+    # art. 38: art. 45Α added after art. 45
+    _, (qa,) = one('38', 'άρθρου 45Α', 1, ['Μετά το άρθρο 45 του ν. 4624/2019 (Α’ 137) προστίθεται άρθρο 45Α ως εξής:'])
+    if 'art-045-a' in u:
+        raise SystemExit('art. 45Α exists already')
+    whole('art-045-a', '45Α', qa, 'ν. 5002/2022 art. 38')
+    # art. 39: art. 46 replaced (its headings stay)
+    _, (qa,) = one('39', 'άρθρου 46 ν. 4624/2019', 1, ['Το άρθρο 46 του ν. 4624/2019 (Α’ 137) αντικαθίσταται ως εξής:'])
+    whole('art-046', '46', qa, 'ν. 5002/2022 art. 39')
+    # art. 40: art. 47, second sentence repealed, article restated
+    _, (qa,) = one('40', 'άρθρου 47 ν. 4624/2019', 1, [
+        'Το δεύτερο εδάφιο του άρθρου 47 του ν. 4624/2019 (Α’ 137) καταργείται και το άρθρο 47 διαμορφώνεται ως εξής:'])
+    head, old = head_split(u['art-047'])
+    new47 = quoted_article(qa, '47')
+    if len(old) != 3:
+        raise SystemExit('art. 47 is not one paragraph')
+    s = sentences(old[2])
+    if len(s) < 2:
+        raise SystemExit('art. 47 has no second sentence')
+    restated('\n'.join(old[:2] + [' '.join(s[:1] + s[2:])]), '\n'.join(new47), 'ν. 5002/2022 art. 40, art. 47', limit=6)
+    whole('art-047', '47', qa, 'ν. 5002/2022 art. 40')
+    # art. 41: art. 49 replaced
+    _, (qa,) = one('41', 'άρθρου 49 ν. 4624/2019', 1, ['Το άρθρο 49 του ν. 4624/2019 (Α’ 137) αντικαθίσταται ως εξής:'])
+    whole('art-049', '49', qa, 'ν. 5002/2022 art. 41')
+    # art. 42: art. 52 replaced (the instruction misprints the law as "ν. 4264/2019"; its heading names 4624)
+    _, (qa,) = one('42', 'άρθρου 52 ν. 4624/2019', 1, ['Το άρθρο 52 του ν. 4264/2019 (Α’ 137) αντικαθίσταται ως εξής:'])
+    whole('art-052', '52', qa, 'ν. 5002/2022 art. 42')
+    # art. 43: art. 73 replaced
+    _, (qa,) = one('43', 'άρθρου 73 ν. 4624/2019', 1, ['Το άρθρο 73 του ν. 4624/2019 (Α’ 137) αντικαθίσταται ως εξής:'])
+    whole('art-073', '73', qa, 'ν. 5002/2022 art. 43')
+    # art. 44: art. 84 replaced
+    _, (qa,) = one('44', 'άρθρου 84 ν. 4624/2019', 1, ['Το άρθρο 84 του ν. 4624/2019 (Α’ 137) αντικαθίσταται ως εξής:'])
+    whole('art-084', '84', qa, 'ν. 5002/2022 art. 44')
+    # art. 45: art. 84Α added
+    _, (qa,) = one('45', 'άρθρου 84Α', 1, ['Στον ν. 4624/2019 (Α’ 137) προστίθεται άρθρο 84Α ως εξής:'])
+    if 'art-084-a' in u:
+        raise SystemExit('art. 84Α exists already')
+    whole('art-084-a', '84Α', qa, 'ν. 5002/2022 art. 45')
+    LOG.append('ν. 5002/2022 arts. 34-45 applied: arts. 6(5), 43, 44 (par. number, ζ, θ, ιδ, ιε, ιζ), Τμήμα ΙΙ '
+               'title, 45Α, 46, 47, 49, 52, 53, 58(1), 71, 73, 84, 84Α; every word-change instruction checked')
+    return u
+
+
+def am_5197(u: dict) -> dict:
+    body = amending_article(2025, 76, '56', 'παρ. 7 άρθρου 84Α ν. 4624/2019')
+    need(instruction(body), 'Στην παρ. 7 του άρθρου 84Α του ν. 4624/2019 (Α’ 137), περί δημοσιοποίησης προσωπικών '
+         'δεδομένων από την εισαγγελική αρχή, προστίθεται τρίτο εδάφιο και η παρ. 7 διαμορφώνεται ως εξής:', 'ν. 5197/2025 art. 56')
+    (q,) = [[p['text'] for p in x] for x in quotes(body)]
+    if not (len(q) == 1 and q[0].startswith('7. ')):
+        raise SystemExit('ν. 5197/2025 art. 56: quotation is not one par. 7')
+    u = dict(u)
+    old = u['art-084-a'][find_one(u['art-084-a'], '7. ', 'art. 84Α par. 7')]
+    new_s = sentences(q[0])
+    if len(new_s) != 3 or len(sentences(old)) != 2:
+        raise SystemExit('art. 84Α par. 7: expected two sentences before and three after')
+    restated(old, ' '.join(new_s[:2]), 'ν. 5197/2025 art. 56, art. 84Α par. 7 sentences 1-2')
+    u['art-084-a'] = replace_lines(u['art-084-a'], '7. ', r'^\d+\. ', q, 'art. 84Α par. 7')
+    present(u, 'art-084-a', q, 'ν. 5197/2025 art. 56')
+    LOG.append('ν. 5197/2025 art. 56: art. 84Α par. 7 gains a third sentence; the first two checked unchanged')
+    return u
+
+
+def am_5221(u: dict) -> dict:
+    body = amending_article(2025, 133, '154', 'άρθρου 18 ν. 4624/2019')
+    ins = instruction(body)
+    for w in ['Στο άρθρο 18 του ν. 4624/2019 (Α’ 137), περί της Γραμματείας της Αρχής Προστασίας Δεδομένων '
+              'Προσωπικού Χαρακτήρα, επέρχονται οι ακόλουθες τροποποιήσεις: α) στην παρ. 3, αα) στο πρώτο εδάφιο, οι λέξεις',
+              'αβ) το δεύτερο, τέταρτο και πέμπτο εδάφιο διαγράφονται, β) προστίθεται παρ. 9, και, μετά από νομοτεχνικές '
+              'βελτιώσεις, το άρθρο 18 διαμορφώνεται ως εξής:']:
+        need(ins, w, 'ν. 5221/2025 art. 154')
+    m = re.search(r'οι λέξεις «([^»]+)» αντικαθίστανται από τις λέξεις «([^»]+)»', ins)
+    (qa,) = quotes(body)
+    new = quoted_article(qa, '18')
+    u = dict(u)
+    head, old = head_split(u['art-018'])
+    # par. 3 as the instruction describes it: words replaced in sentence 1, sentences 2, 4 and 5 struck
+    o3 = old[find_one(old, '3. ', 'art. 18 par. 3')]
+    n3 = new[find_one(new, '3. ', 'art. 18 par. 3 (new)')]
+    s = sentences(o3)
+    if m.group(1) not in s[0]:
+        raise SystemExit('art. 18 par. 3: the replaced words are not in its first sentence')
+    s[0] = s[0].replace(m.group(1), m.group(2))
+    restated(' '.join([s[0], s[2]] + s[5:]), n3, 'art. 18 par. 3 as amended')
+    # par. 9 added; par. 6 reads «[Καταργείται]» (repealed by ν. 4829/2021); the rest: the "νομοτεχνικές βελτιώσεις"
+    if not new[-1].startswith('9. ') or any(l.startswith('9. ') for l in old):
+        raise SystemExit('art. 18: par. 9 is not new')
+    if '6. [Καταργείται].' not in new:
+        raise SystemExit('art. 18: par. 6 is not marked repealed')
+    for n in range(1, 9):
+        if n in (3, 6):
+            continue
+        a = [l for l in old if l.startswith(f'{n}. ')]
+        b = [l for l in new if l.startswith(f'{n}. ')]
+        if len(a) != 1 or len(b) != 1:
+            raise SystemExit(f'art. 18 par. {n}: not found once before and after')
+        restated(a[0], b[0], f'ν. 5221/2025 art. 154 ("νομοτεχνικές βελτιώσεις"), art. 18 par. {n}')
+    restated('\n'.join(old[:2]), '\n'.join(new[:2]), 'ν. 5221/2025 art. 154, art. 18 heading')
+    u['art-018'] = head + new
+    present(u, 'art-018', new, 'ν. 5221/2025 art. 154')
+    LOG.append('ν. 5221/2025 art. 154: art. 18 restated; par. 3 checked against the described word change and '
+               'struck sentences; par. 9 new')
+    return u
