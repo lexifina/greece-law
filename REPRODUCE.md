@@ -134,6 +134,8 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: the issues amending ν. 4735/2020 | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-01 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
 | Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: Α΄ 146/2024 (ν. 5134/2024) | <https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2024/20240100146.pdf> | 2026-10-30 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
 | Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: the issues amending ν. 5134/2024 | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-01 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: Α΄ 202/2024 (ν. 5164/2024) | <https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2024/20240100202.pdf> | 2026-10-30 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: the issues amending ν. 5164/2024 | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-01 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -225,20 +227,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `nomos-4680-2020` | Ενσωμάτωση στην ελληνική νομοθεσία της Οδηγίας (ΕΕ) 2016/2341 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 14ης Δεκεμβρίου 2016 για τις δραστηριότητες και την εποπτεία των Ιδρυμάτων Επαγγελματικών Συνταξιοδοτικών Παροχών (Ι.Ε.Σ.Π.) και άλλες διατάξεις. | 3 | 2020-03-23 to 2023-12-20 |
 | `nomos-4735-2020` | Τροποποίηση του Κώδικα Ελληνικής Ιθαγένειας, νέο πλαίσιο επιλογής διοικήσεων στον δημόσιο τομέα, ρύθμιση οργανωτικών θεμάτων της Γενικής Γραμματείας Ιθαγένειας και της Γενικής Γραμματείας Ανθρώπινου Δυναμικού Δημόσιου Τομέα του Υπουργείου Εσωτερικών, ρυθμίσεις για την αναπτυξιακή προοπτική και την εύρυθμη λειτουργία των Οργανισμών Τοπικής Αυτοδιοίκησης και άλλες διατάξεις. | 11 | 2020-10-12 to 2026-06-29 |
 | `nomos-5134-2024` | Παρεμβάσεις στον Κώδικα Πολιτικής Δικονομίας, στον Κώδικα Οργανισμού Δικαστηρίων και Κατάστασης Δικαστικών Λειτουργών και στον Κώδικα Ποινικής Δικονομίας σε εναρμόνιση με την ενοποίηση του πρώτου βαθμού δικαιοδοσίας με τον ν. 5108/2024 – Διατάξεις για τη Δικαστική Αστυνομία και άλλες επείγουσες ρυθμίσεις. | 3 | 2024-09-11 to 2024-09-30 |
+| `nomos-5164-2024` | Ενσωμάτωση της Οδηγίας (ΕΕ) 2022/2464 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου, της 14ης Δεκεμβρίου 2022, για την τροποποίηση του Κανονισμού (ΕΕ) 537/2014, της Οδηγίας 2004/109/ΕΚ, της Οδηγίας 2006/43/ΕΚ και της Οδηγίας 2013/34/ΕΕ, όσον αφορά την υποβολή εκθέσεων βιωσιμότητας από τις εταιρείες (L 322) και της κατ’ εξουσιοδότηση Οδηγίας (ΕΕ) 2023/2775 της Επιτροπής, της 17ης Οκτωβρίου 2023, για την τροποποίηση της Οδηγίας 2013/34/ΕΕ του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου όσον αφορά τις προσαρμογές των κριτηρίων μεγέθους για τις πολύ μικρές, τις μικρές, τις μεσαίες και τις μεγάλες επιχειρήσεις ή ομίλους. | 3 | 2024-12-12 to 2026-06-29 |
 
-The build made 161 commits:
+The build made 164 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 84 | first version of an act |
-| 77 | one law on its in-force day |
+| 85 | first version of an act |
+| 79 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 144 laws in the record.
-- 317 tags.
+- 320 tags.
 
 ## Dates
 
@@ -250,13 +253,13 @@ When a law gives no date of its own, the default rule applies: Each revision res
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `d5dbb94eb3cc437f6466818c968b015d3847e256688758d0ed2ad668995f96d4` (17547409 bytes).
+- Corpus: sha256 `cbd3a149928968ab8d383fa15cdc0ce943b9f857dd72ba83914f057be0f95b7b` (18070304 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-178 versions of 84 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -1046,6 +1049,23 @@ No second build of this corpus has been compared yet.
 - Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
 - Parse log: ν. 5140/2024 art. 72 par. 1: in force on publication (art. 73 par. 1; pars. 2-5 do not name art. 72)
 - Parse log: ν. 5140/2024 art. 72 par. 1: art-051 par. 4 repealed (removed, 1 line(s))
+- ν. 5164/2024 (corporate sustainability reporting (Directive (EU) 2022/2464), accounting categories, the General Commercial Registry and other provisions) is given as published in ΦΕΚ Α΄ 202/2024, then with each later amendment, read in the amending law's own Gazette issue: 219/2025 (ν. 5255/2025); 103/2026 (ν. 5314/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2024 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention of the law read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, whose only later Α΄ row is ΦΕΚ Α΄ 219/2025 (its Β΄ rows are ministerial decisions, which do not amend a statute). Amending: ν. 5255/2025 art. 57 (ΦΕΚ Α΄ 219/2025) and the Local Government Code, ν. 5314/2026 art. 773 (ΦΕΚ Α΄ 103/2026; ν. 5321/2026 art. 54, ΦΕΚ Α΄ 114/2026, repeats the repeal in the same words). ΦΕΚ Α΄ 10/2025 art. 92 lets the statutory auditor also give the assurance of the art. 7 reports for financial year 2024, without changing words of ν. 5164/2024; ΦΕΚ Α΄ 105/2026 art. 11 refers to it only. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 5255/2025 art. 57 lists each change to art. 14 pars. 1 and 3 and art. 18 and restates them; the parse applies the listed changes and checks them against the restatements, which govern. In par. 3 the listed changes also correct the item letter «β)» to «ββ)»; the restatement also prints «1ης Ιανουαρίου 2026» where par. 3 read «1η Ιανουαρίου 2026» (the change of that date is listed), and in art. 18 «οι οποίοι» where it read «οι οποίες».
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5164/2024 is dated 2024-12-12, the date on the issue's masthead: its commencement article (art-084) reads «1. Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις. 2. Η ισχύς του άρθρου 77 αρχίζει από την 1η Ιανουαρίου 2025.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5255/2025 art. 57: in force on publication (art. 64 par. 1; par. 2 dates art. 47 only)
+- Parse log: ν. 5255/2025 art. 57 par. 1: the instruction quotes the replaced words as «όπως ορίζονται στο Παράρτημα Α’ του ν. 4308/2014 και υπερβαίνουν κατά την ημερομηνία κλεισίματος του ισολογισμού τους»; the text reads «όπως ορίζονται στο Παράρτημα Α’ του ν. 4308/2014 και υπερβαίνουν, κατά την ημερομηνία κλεισίματος του ισολογισμού τους»
+- Parse log: ν. 5255/2025 art. 57 par. 1: art-014 par. 1 restated (11 line(s) -> 11); 4 described change(s) checked
+- Parse log: ν. 5255/2025 art. 57 par. 2: the instruction quotes the replaced words as «όπως ορίζονται στο Παράρτημα Α’ του ν. 4308/2014 και υπερβαίνουν κατά την ημερομηνία κλεισίματος του ισολογισμού τους»; the text reads «όπως ορίζονται στο Παράρτημα Α’ του ν. 4308/2014 και υπερβαίνουν, κατά την ημερομηνία κλεισίματος του ισολογισμού τους»
+- Parse log: ν. 5255/2025 art. 57 par. 2: the instruction quotes the replaced words as «1ης Ιανουαρίου 2026»; the text reads «1η Ιανουαρίου 2026»
+- Parse log: ν. 5255/2025 art. 57 par. 2: art-014 par. 3 restated (11 line(s) -> 11); 6 described change(s) checked
+- Parse log: ν. 5255/2025 art. 57 par. 3: art-014-a added (7 lines)
+- Parse log: ν. 5255/2025 art. 57 par. 4: art-018 restated (13 lines -> 13); 5 described change(s) checked; instruction: 1. Στην παρ. 1 του άρθρου 14 του ν. 5164/2024 (Α’ 202), περί του χρόνου έναρξης των υποχρεώσεων του Κεφαλαίου Α’, επέρχο
+- Parse log: ν. 5314/2026 art. 774 pars. 2-4 do not date art. 773; ν. 5321/2026 art. 54 replaces art. 773 from the Code's first day and its par. Β no. 5 repeals art. 77 of ν. 5164/2024 in the same words
+- Parse log: ν. 5314/2026 art. 773 par. Β no. 5: art-077 repealed (removed)
+- Restated wording: ν. 5255/2025 art. 57 par. 4: the restatement reads «οποίοι» where the described change gives «οποίες». Not among the listed changes: the restatement (ν. 5255/2025's own text) governs and is used as printed.
 
 ## What AI did and did not do
 
@@ -1140,3 +1160,4 @@ Model use at data-build time:
 - ν. 4680/2020 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
 - ν. 4735/2020 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
 - ν. 5134/2024 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
+- ν. 5164/2024 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
