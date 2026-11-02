@@ -128,6 +128,8 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: the issues amending ν. 5161/2024 | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-01 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
 | Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: Α΄ 96/2020 (ν. 4686/2020) | <https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2020/20200100096.pdf> | 2026-10-30 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
 | Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: the issues amending ν. 4686/2020 | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-01 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: Α΄ 72/2020 (ν. 4680/2020) | <https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2020/20200100072.pdf> | 2026-10-30 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: the issues amending ν. 4680/2020 | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-01 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -216,20 +218,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `nomos-4770-2021` | Ολοκληρωμένη θαλάσσια πολιτική στον νησιωτικό χώρο, διατάξεις για συμμόρφωση με υποχρεώσεις διεθνούς ναυσιπλοΐας και την αναβάθμιση Λ.Σ.-ΕΛ.ΑΚΤ. και ειδικές ρυθμίσεις για την ψηφιοποίηση και εν γένει ενίσχυση της ανταγωνιστικότητας της ελληνικής ναυτιλίας στη μετά- COVID εποχή. | 3 | 2021-01-29 to 2021-09-25 |
 | `nomos-5161-2024` | Ρυθμίσεις για την ενίσχυση του Εθνικού Συστήματος Υγείας και την παρακολούθηση και αξιολόγηση της φαρμακευτικής δαπάνης. | 3 | 2024-11-29 to 2025-10-31 |
 | `nomos-4686-2020` | Βελτίωση της μεταναστευτικής νομοθεσίας, τροποποίηση διατάξεων των νόμων 4636/2019 (Α’ 169), 4375/2016 (Α’ 51), 4251/2014 (Α’ 80) και άλλες διατάξεις. | 4 | 2020-05-12 to 2022-06-10 |
+| `nomos-4680-2020` | Ενσωμάτωση στην ελληνική νομοθεσία της Οδηγίας (ΕΕ) 2016/2341 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 14ης Δεκεμβρίου 2016 για τις δραστηριότητες και την εποπτεία των Ιδρυμάτων Επαγγελματικών Συνταξιοδοτικών Παροχών (Ι.Ε.Σ.Π.) και άλλες διατάξεις. | 3 | 2020-03-23 to 2023-12-20 |
 
-The build made 144 commits:
+The build made 147 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 81 | first version of an act |
-| 63 | one law on its in-force day |
+| 82 | first version of an act |
+| 65 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 131 laws in the record.
-- 288 tags.
+- 134 laws in the record.
+- 294 tags.
 
 ## Dates
 
@@ -241,13 +244,13 @@ When a law gives no date of its own, the default rule applies: Each revision res
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `7d37120d5b6fe3da6b3b52ef19839cd6a6c68018f73ca29f2318e7d08c810bcc` (16467289 bytes).
+- Corpus: sha256 `2c6a9ba9aeeb33ff2e331763a98bf847570042726c58852bf39650c0eadef889` (16740159 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-161 versions of 81 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+164 versions of 82 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 
@@ -974,6 +977,21 @@ No second build of this corpus has been compared yet.
 - Parse log: ν. 4825/2021 art. 39: art-048 par. 1 restated (2 line(s) -> 2); 1 described change(s) checked
 - Parse log: ν. 4939/2022 art. 148: from its publication; ΦΕΚ Α΄ 145/2022 art. 42 replaces item δ) and restates art. 148, keeping item στ) (art. 58 of ν. 4686/2020) in the same words
 - Parse log: ν. 4939/2022 art. 148: art-058 repealed (removed)
+- ν. 4680/2020 (transposition of Directive (EU) 2016/2341 on institutions for occupational retirement provision, and other provisions) is given as published in ΦΕΚ Α΄ 72/2020, then with each later amendment, read in the amending law's own Gazette issue: 75/2022 (ν. 4921/2022); 211/2023 (ν. 5078/2023).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2020 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention of the law read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, whose later rows are ΦΕΚ Α΄ 75/2022 and a Β΄ issue (a ministerial decision, which does not amend a statute). Amending: ν. 4921/2022 art. 63 pars. 2-3 (ΦΕΚ Α΄ 75/2022), which restate art. 33 par. 5 and art. 47 par. 10, and ν. 5078/2023 art. 111 (ΦΕΚ Α΄ 211/2023, not listed by the index), which repeals arts. 1-60. ΦΕΚ Α΄ 113/2022 art. 28, Α΄ 88/2023 art. 48 and Α΄ 132/2026 art. 44 refer to it only, and Α΄ 211/2023 art. 85 deletes references to its art. 5 from ν. 5042/2023, leaving its own words unchanged. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 4921/2022 art. 63 par. 2 adds a first sentence to art. 33 par. 5 and changes the old one "as regards the subject of the authorisation", and par. 3 changes the first sentence of art. 47 par. 10 "so that" the Commission imposes the sanctions of pars. 1, 2, 3 and 5 of art. 94 of ν. 4099/2012 for breaches of the legislation in force; neither quotes words apart from the restated paragraph, which governs. In art. 47 par. 10 the parse checks that the second sentence is unchanged.
+- ν. 5078/2023 repeals arts. 1-60, Chapters Α’ to Ε’ and the first two articles of Chapter ΣΤ’ (Final provisions); arts. 61-65 stay in force, so the heading of Chapter ΣΤ’ now opens art. 61, which that version shows as changed for this reason only.
+- ν. 4680/2020 art. 62 par. 1 repeals other provisions from 13 January 2019, and art. 63 restates art. 24 of ν. 4618/2019 with a start of its own; these act on other laws, and are shown as printed.
+- In the issue the commencement article (art. 65) is set below both columns of the last page, in the left column's place, after art. 64 at the foot of the right column; it is read after art. 64 (that page only).
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 4680/2020 is dated 2020-03-23, the date on the issue's masthead (its publication): its commencement article (art-065) reads «Η ισχύς του παρόντος νόμου αρχίζει από 13.1.2019.», a start before publication. By the rule for retroactive starts used across this corpus, the law is dated from its publication day and the stated day, 2019-01-13, is recorded here and not as a version.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 4921/2022 art. 63: art. 63 lies in ΜΕΡΟΣ Γ’
+- Parse log: ν. 4921/2022 art. 82 par. 4: Part Γ’ (art. 63) in force on publication (pars. 1-3 start only Chapters Α’, Β’ and Ε’ of Part Β’ later); art. 63 gives no day of its own
+- Parse log: ν. 4921/2022 art. 63 par. 2: art-033 par. 5 restated (1 line(s) -> 1); 1 described change(s) checked
+- Parse log: ν. 4921/2022 art. 63 par. 3: art-047 par. 10 restated (1 line(s) -> 1); 1 described change(s) checked
+- Parse log: ν. 5078/2023 art. 195 par. 1: in force on publication; pars. 2-7 do not name art. 111
+- Parse log: ν. 5078/2023 art. 111: art-001 to art-060 repealed (removed); Chapter ΣΤ’ (arts. 59-65) keeps arts. 61-65, so its heading now opens art-061
 
 ## What AI did and did not do
 
@@ -1065,3 +1083,4 @@ Model use at data-build time:
 - ν. 4770/2021 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
 - ν. 5161/2024 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
 - ν. 4686/2020 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
+- ν. 4680/2020 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
