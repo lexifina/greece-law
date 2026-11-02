@@ -130,6 +130,10 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: the issues amending ν. 4686/2020 | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-01 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
 | Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: Α΄ 72/2020 (ν. 4680/2020) | <https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2020/20200100072.pdf> | 2026-10-30 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
 | Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: the issues amending ν. 4680/2020 | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-01 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: Α΄ 197/2020 (ν. 4735/2020) | <https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2020/20200100197.pdf> | 2026-10-30 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: the issues amending ν. 4735/2020 | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-01 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: Α΄ 146/2024 (ν. 5134/2024) | <https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2024/20240100146.pdf> | 2026-10-30 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: the issues amending ν. 5134/2024 | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-01 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -219,20 +223,22 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `nomos-5161-2024` | Ρυθμίσεις για την ενίσχυση του Εθνικού Συστήματος Υγείας και την παρακολούθηση και αξιολόγηση της φαρμακευτικής δαπάνης. | 3 | 2024-11-29 to 2025-10-31 |
 | `nomos-4686-2020` | Βελτίωση της μεταναστευτικής νομοθεσίας, τροποποίηση διατάξεων των νόμων 4636/2019 (Α’ 169), 4375/2016 (Α’ 51), 4251/2014 (Α’ 80) και άλλες διατάξεις. | 4 | 2020-05-12 to 2022-06-10 |
 | `nomos-4680-2020` | Ενσωμάτωση στην ελληνική νομοθεσία της Οδηγίας (ΕΕ) 2016/2341 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 14ης Δεκεμβρίου 2016 για τις δραστηριότητες και την εποπτεία των Ιδρυμάτων Επαγγελματικών Συνταξιοδοτικών Παροχών (Ι.Ε.Σ.Π.) και άλλες διατάξεις. | 3 | 2020-03-23 to 2023-12-20 |
+| `nomos-4735-2020` | Τροποποίηση του Κώδικα Ελληνικής Ιθαγένειας, νέο πλαίσιο επιλογής διοικήσεων στον δημόσιο τομέα, ρύθμιση οργανωτικών θεμάτων της Γενικής Γραμματείας Ιθαγένειας και της Γενικής Γραμματείας Ανθρώπινου Δυναμικού Δημόσιου Τομέα του Υπουργείου Εσωτερικών, ρυθμίσεις για την αναπτυξιακή προοπτική και την εύρυθμη λειτουργία των Οργανισμών Τοπικής Αυτοδιοίκησης και άλλες διατάξεις. | 11 | 2020-10-12 to 2026-06-29 |
+| `nomos-5134-2024` | Παρεμβάσεις στον Κώδικα Πολιτικής Δικονομίας, στον Κώδικα Οργανισμού Δικαστηρίων και Κατάστασης Δικαστικών Λειτουργών και στον Κώδικα Ποινικής Δικονομίας σε εναρμόνιση με την ενοποίηση του πρώτου βαθμού δικαιοδοσίας με τον ν. 5108/2024 – Διατάξεις για τη Δικαστική Αστυνομία και άλλες επείγουσες ρυθμίσεις. | 3 | 2024-09-11 to 2024-09-30 |
 
-The build made 147 commits:
+The build made 161 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 82 | first version of an act |
-| 65 | one law on its in-force day |
+| 84 | first version of an act |
+| 77 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 134 laws in the record.
-- 294 tags.
+- 144 laws in the record.
+- 317 tags.
 
 ## Dates
 
@@ -244,13 +250,13 @@ When a law gives no date of its own, the default rule applies: Each revision res
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2c6a9ba9aeeb33ff2e331763a98bf847570042726c58852bf39650c0eadef889` (16740159 bytes).
+- Corpus: sha256 `d5dbb94eb3cc437f6466818c968b015d3847e256688758d0ed2ad668995f96d4` (17547409 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-164 versions of 82 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+178 versions of 84 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 
@@ -992,6 +998,54 @@ No second build of this corpus has been compared yet.
 - Parse log: ν. 4921/2022 art. 63 par. 3: art-047 par. 10 restated (1 line(s) -> 1); 1 described change(s) checked
 - Parse log: ν. 5078/2023 art. 195 par. 1: in force on publication; pars. 2-7 do not name art. 111
 - Parse log: ν. 5078/2023 art. 111: art-001 to art-060 repealed (removed); Chapter ΣΤ’ (arts. 59-65) keeps arts. 61-65, so its heading now opens art-061
+- ν. 4735/2020 (the Greek Citizenship Code, the selection of administrations in the public sector, the General Secretariat for Human Resources of the Public Administration and local government) is given as published in ΦΕΚ Α΄ 197/2020, then with each later amendment, read in the amending law's own Gazette issue: 17/2021 (ν. 4772/2021); 96/2021 (ν. 4807/2021); 101/2021 (ν. 4808/2021); 102/2021 (ν. 4809/2021); 157/2021 (ν. 4825/2021); 12/2022 (ν. 4886/2022); 141/2022 (ν. 4957/2022); 183/2023 (ν. 5062/2023); 142/2025 (ν. 5224/2025); 103/2026 (ν. 5314/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2020 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention of the law read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, whose 100 rows (the most it returns) are Β΄, Γ΄ and Υ.Ο.Δ.Δ. issues of 2024-2026 (ministerial decisions and appointments, which do not amend a statute) and ΦΕΚ Α΄ 142/2025. Amending: ν. 4772/2021 art. 48 (Α΄ 17/2021), ν. 4807/2021 art. 34 (Α΄ 96/2021), ν. 4808/2021 art. 54 (Α΄ 101/2021), ν. 4809/2021 arts. 54 and 65 (Α΄ 102/2021; ν. 4818/2021 art. 64, Α΄ 124/2021, restates art. 65 keeping its item θ), ν. 4825/2021 art. 68 (Α΄ 157/2021), ν. 4886/2022 art. 64 (Α΄ 12/2022), ν. 4957/2022 art. 394 (Α΄ 141/2022), ν. 5062/2023 art. 17 (Α΄ 183/2023), ν. 5224/2025 art. 102 (Α΄ 142/2025) and the Local Government Code, ν. 5314/2026 art. 773 (Α΄ 103/2026), as ν. 5321/2026 art. 54 (Α΄ 114/2026) replaced it. Every other mention (about 60 articles in some 40 issues, from Α΄ 204/2020 to Α΄ 142/2026) applies or refers to the selection procedure of arts. 20-23, to art. 38 (Home Help), art. 56 or the citizenship provisions, without changing words of ν. 4735/2020; those of note are listed below. Issues after Α΄ 177/2026 were searched only through the official index.
+- Provisions that act on ν. 4735/2020 without changing its words are recorded here, not as versions: ν. 4745/2020 art. 93 (Α΄ 214/2020) and ν. 5043/2023 art. 44 (Α΄ 91/2023) declare the true meaning of art. 67 and of art. 20 par. 2; ΦΕΚ Α΄ 195/2022 art. 82 lets certain clubs use municipal sports grounds from 1.8.2022 to 31.7.2023 notwithstanding art. 66 par. 2 and art. 75 par. 2; ΦΕΚ Α΄ 48/2023 art. 77 par. 3 funds the Home Help programme from 1.1.2023 notwithstanding art. 38 par. 2; ν. 5062/2023 art. 15 and ΦΕΚ Α΄ 215/2023 art. 86 deal with posts filled under art. 22 par. 2 and with references to arts. 20-23 after their repeal; ΦΕΚ Α΄ 78/2026 art. 57 par. 2 ends the terms of deputy hospital governors serving under art. 22 par. 2.
+- Starts: art. 38 par. 3 starts art. 38 on 1.10.2020, before publication (12.10.2020), and art. 66 par. 2 first started six months after publication (its own second sentence), then, once ν. 4809/2021 had repealed that sentence, on 1.9.2021 and, by ν. 4825/2021, on 1.8.2022 (art. 75 par. 2). As for every law here, the text is shown from publication; the changes to art. 75 and to art. 66 par. 2 are shown on the days the amending laws took effect.
+- Restatements, each used as printed: ν. 4772/2021 replaces art. 22 par. 2 as a whole; ν. 4807/2021 changes art. 53 pars. 1 and 2 "as regards" the deadline and the registration, and its restatement also reads «κατά την παρ. 2» for «κατά τις διατάξεις της παρ. 2» in par. 1; ν. 4809/2021 adds art. 75 par. 2, so the published single paragraph of art. 75 is numbered 1; ν. 4886/2022 adds to art. 20 par. 1 the words keeping the parliamentary hearing, quoted only in its restatement; ν. 5224/2025 prints «Ο.Τ.Α.» where art. 66 par. 2 read «ΟΤΑ».
+- The Local Government Code (ν. 5314/2026) as published repeals, in its art. 773 par. Β no. 52, arts. 38-40, 48, 52, 54, 55, 63, 66 and art. 68 par. 1 from its commencement, 29.6.2026. ν. 5321/2026 art. 54 ("correction of errors") replaced the whole of art. 773 with effect from that same day, and its par. Β no. 48 names arts. 38-40, 48, 55 and 63, pars. 1, 2 and 4 of art. 66 and art. 68 par. 1: arts. 52 and 54 and art. 66 par. 3 are not repealed. The list in force governs, and that one change is credited to the Code.
+- When arts. 20-23 (Chapter Β’) are repealed, the chapter heading goes with them; when arts. 38-40 are repealed, the heading of Chapter Ε’ (art. 38 alone) goes with it, and the heading of Chapter ΣΤ’, which opened art. 39, now opens art. 41, the first article left in that chapter.
+- In the issue the heading of Chapter Η’ and the commencement article (art. 75) are set below both columns of the last page, in the left column's place, after art. 74 at the foot of the right column; they are read after art. 74 (that page only).
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 4735/2020 is dated 2020-10-12, the date on the issue's masthead: its commencement article (art-075) reads «Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις του.». Provisions it starts later are shown from publication.
+- ν. 4735/2020: art-006: quotation without a closing » before Άρθρο 7; art-029: quotation without a closing » before Άρθρο 30; art-069: quotation without a closing » before Άρθρο 70 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 4772/2021 art. 48: in force on publication (art. 49 par. 1; pars. 2-5 name arts. 31, 33, 28, 34, 35 and 36 only)
+- Parse log: ν. 4772/2021 art. 48: art-022 par. 2 restated (1 line(s) -> 1); 1 described change(s) checked
+- Parse log: ν. 4807/2021 art. 34: in force on publication (art. 62); art. 34 gives no day of its own
+- Parse log: ν. 4807/2021 art. 34: art-053 restated (4 lines -> 4); 1 described change(s) checked; instruction: Η παρ. 1 του άρθρου 53 του ν. 4735/2020 (Α’ 197) αναφορικά με την καταληκτική προθεσμία διενέργειας απογραφής της περιου
+- Parse log: ν. 4808/2021 art. 54: from the law's commencement, its publication (art. 165)
+- Parse log: ν. 4808/2021 art. 54: art-031 repealed (removed)
+- Parse log: ν. 4809/2021 art. 54 and art. 65: in force on publication (art. 66 par. 1); ν. 4818/2021 art. 64 restates art. 65 keeping item θ) in the same words
+- Parse log: ν. 4809/2021 art. 54: art-075 restated (3 lines -> 4); 1 described change(s) checked; instruction: Στο άρθρο 75 του ν. 4735/2020 (Α’ 197) προστίθεται παρ. 2 και το άρθρο διαμορφώνεται ως εξής:
+- Parse log: ν. 4809/2021 art. 65: art-066 par. 2, second sentence repealed (removed)
+- Parse log: ν. 4825/2021 art. 68: in force on publication (art. 73 par. 1)
+- Parse log: ν. 4825/2021 art. 68: art-075 restated (4 lines -> 4); 1 described change(s) checked; instruction: Στην παρ. 2 του άρθρου 75 του ν. 4735/2020 (Α’ 197), η οποία προστέθηκε με το άρθρο 54 του ν. 4809/2021 (Α’102), η ημερο
+- Parse log: ν. 4886/2022 art. 64: in force on publication (art. 73 par. 1); art. 64 gives no day of its own
+- Parse log: ν. 4886/2022 art. 64: art-020 par. 1 restated (1 line(s) -> 1); 1 described change(s) checked
+- Parse log: ν. 4957/2022 art. 394: in force on publication (art. 489 par. 1; its other paragraphs do not name art. 394)
+- Parse log: ν. 4957/2022 art. 394: art-020 par. 3 restated (5 line(s) -> 5); 1 described change(s) checked
+- Parse log: ν. 5062/2023 art. 17: in force on publication (art. 24)
+- Parse log: ν. 5062/2023 art. 17: the heading ΚΕΦΑΛΑΙΟ Β’ / ΕΠΙΛΟΓΗ ΔΙΟΙΚΗΣΕΩΝ ΣΤΟΝ ΔΗΜΟΣΙΟ ΤΟΜΕΑ goes with art-020 (the whole chapter is repealed)
+- Parse log: ν. 5062/2023 art. 17: art-020, art-021, art-022, art-023 repealed (removed)
+- Parse log: ν. 5224/2025 art. 102: in force on publication (art. 176 par. 1; par. 2 does not name art. 102)
+- Parse log: ν. 5224/2025 art. 102: art-066 par. 2 restated (1 line(s) -> 1); 1 described change(s) checked
+- Parse log: ν. 5314/2026 art. 774 pars. 2-4 do not date art. 773; ν. 5321/2026 art. 54 replaces art. 773 from 29.6.2026 (its par. 2), the Code's own first day, and its par. Β no. 48 is the list in force
+- Parse log: ν. 5314/2026 art. 773 (as replaced by ν. 5321/2026 art. 54): the heading ΚΕΦΑΛΑΙΟ Ε’ / ΕΙΔΙΚΕΣ ΡΥΘΜΙΣΕΙΣ ΓΙΑ ΤΟ ΠΡΟΓΡΑΜΜΑ «ΒΟΗΘΕΙΑ ΣΤΟ ΣΠΙΤΙ» goes with art-038 (the whole chapter is repealed)
+- Parse log: ν. 5314/2026 art. 773 (as replaced by ν. 5321/2026 art. 54): the heading ΚΕΦΑΛΑΙΟ ΣΤ’ / ΡΥΘΜΙΣΕΙΣ ΓΙΑ ΤΗΝ ΑΝΑΠΤΥΞΙΑΚΗ ΠΡΟΟΠΤΙΚΗ ΚΑΙ ΤΗΝ ΕΥΡΥΘΜΗ ΛΕΙΤΟΥΡΓΙΑ ΤΩΝ ΟΡΓΑΝΙΣΜΩΝ ΤΟΠΙΚΗΣ ΑΥΤΟΔΙΟΙΚΗΣΗΣ that opened art-039 now opens art-041
+- Parse log: ν. 5314/2026 art. 773 (as replaced by ν. 5321/2026 art. 54): art-038, art-039, art-040, art-048, art-055, art-063 repealed (removed)
+- Parse log: ν. 5314/2026 art. 773 (as replaced by ν. 5321/2026 art. 54): art-066 pars. 1, 2 and 4 repealed (removed); par. 3 stays
+- Parse log: ν. 5314/2026 art. 773 (as replaced by ν. 5321/2026 art. 54): art-068 par. 1 repealed (removed, 2 line(s))
+- ν. 5134/2024 (amendments to the Codes of Civil and Criminal Procedure and the Code of Courts and Judicial Officers for the unified first instance (ν. 5108/2024), the judicial police and other urgent provisions) is given as published in ΦΕΚ Α΄ 146/2024, then with each later amendment, read in the amending law's own Gazette issue: 154/2024 (ν. 5140/2024).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2024 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention of the law read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, whose only later Α΄ row is ΦΕΚ Α΄ 154/2024 ("Τροποποίηση", "Ακύρωση"; its Β΄ and Γ΄ rows are ministerial decisions and appointments, which do not amend a statute). Amending: ν. 5140/2024 art. 72 par. 1 (ΦΕΚ Α΄ 154/2024), which repeals art. 51 par. 4; the scan finds no other article that names ν. 5134/2024, and the 2026 issues read in the PDFs do not mention it. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 5134/2024 art. 19 prints two opening quotation marks («Άρθρο 208 … «1. Τίτλο …) and one closing mark; the text is kept as printed.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5134/2024 starts in two steps, by its own commencement article (art-120): «1. Η ισχύς του Μέρους Α’, περί των παρεμβάσεων στον Κώδικα Πολιτικής Δικονομίας (π.δ. 503/1985, Α’ 182), του Μέρους Β’, περί των παρεμβάσεων στον Κώδικα Ποινικής Δικονομίας (ν. 4620/2019, Α’ 96), του Μέρους Γ’, περί των παρεμβάσεων στον Κώδικα Οργανισμού Δικαστηρίων και Κατάστασης Δικαστικών Λειτουργών (ν. 4938/2022, Α’ 109) και των άρθρων 104, 105, 106, 108 και 109 του Μέρους Ε’ αρχίζει από τη 16η.9.2024. 2. Η ισχύς των λοιπών διατάξεων του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν άλλως ορίζεται σε επιμέρους διατάξεις.» So the first version (2024-09-11, publication, the date on the issue's masthead) holds only the articles in force then (arts. 94-103, 107 and 110-120); the other 98 articles are added on 2024-09-16, credited to the law itself. The heading of Part Ε’, printed above art. 104, comes with that article.
+- ν. 5134/2024: art-019: quotation without a closing » before Άρθρο 20 (in the issue text layer); the next article of the law itself closes it.
+- ν. 5134/2024: the issue sets the promulgation formula («Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου του Κράτους.») on the same line as the last paragraph of art-120; it is not part of the article and is left out.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5140/2024 art. 72 par. 1: in force on publication (art. 73 par. 1; pars. 2-5 do not name art. 72)
+- Parse log: ν. 5140/2024 art. 72 par. 1: art-051 par. 4 repealed (removed, 1 line(s))
 
 ## What AI did and did not do
 
@@ -1084,3 +1138,5 @@ Model use at data-build time:
 - ν. 5161/2024 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
 - ν. 4686/2020 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
 - ν. 4680/2020 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
+- ν. 4735/2020 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
+- ν. 5134/2024 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
