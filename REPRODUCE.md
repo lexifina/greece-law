@@ -28,6 +28,16 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: issue PDFs of series Α΄ | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-03 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
 | Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: issue PDFs of series Α΄ | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-03 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
 | Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: issue PDFs of series Α΄ | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-03 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: issue PDFs of series Α΄ | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-03 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: issue PDFs of series Α΄ | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-03 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: issue PDFs of series Α΄ | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-03 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: issue PDFs of series Α΄ | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-03 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: issue PDFs of series Α΄ | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-03 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: issue PDFs of series Α΄ | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-03 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: issue PDFs of series Α΄ | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-03 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: issue PDFs of series Α΄ | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-03 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: issue PDFs of series Α΄ | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-03 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: issue PDFs of series Α΄ | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-03 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -35,21 +45,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 257 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 267 | |
+| 403 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 413 | |
 
-The build made 436 commits:
+The build made 582 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 344 | first version of an act |
+| 490 | first version of an act |
 | 92 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 270 laws in the record.
-- 839 tags.
+- 416 laws in the record.
+- 1131 tags.
 
 ## Dates
 
@@ -61,7 +71,7 @@ When a law gives no date of its own, the default rule applies: Each revision res
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `07c7842af85e45da55e2803dca0de684c59fd8c569f41a7aebac4981d813bf97` (11602246 bytes).
+- Corpus: sha256 `5e39e5574a755ef6ed74fe02ce73fbd1ea2b8eb84c9691dbc9ccd4e66eecb1a9` (13102771 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -73,7 +83,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (133 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (173 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -86,6 +96,16 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - Claude Code with Claude Opus 5.5 (claude-opus-5-5) wrote Lexifina's code and the README, and compared the diffs with the resolutions by reading them. No model output is used as legal text, and no model runs at data-build or git-build time: 0 model calls in Lexifina's code.
 - ν. 4624/2019 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which reads every word from the Gazette PDFs.
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
 - none
 - none
 - none
