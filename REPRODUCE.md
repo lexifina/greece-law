@@ -1,6 +1,6 @@
 # How this repository was made (Greece)
 
-This file is written by the build on 2026-11-02, the day the source data was retrieved.
+This file is written by the build on 2026-11-03, the day the source data was retrieved.
 
 ## Sources
 
@@ -138,6 +138,12 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: the issues amending ν. 5164/2024 | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-01 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
 | Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: Α΄ 73/2025 (ν. 5195/2025) | <https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2025/20250100073.pdf> | 2026-11-02 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
 | Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: the issues amending ν. 5195/2025 | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-01 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: Α΄ 48/2023 (ν. 5027/2023) | <https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2023/20230100048.pdf> | 2026-11-02 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: the issues amending ν. 5027/2023 | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-03 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: Α΄ 30/2024 (ν. 5090/2024) | <https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2024/20240100030.pdf> | 2026-11-02 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: the issues amending ν. 5090/2024 | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-03 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: Α΄ 77/2023 (ν. 5036/2023) | <https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2023/20230100077.pdf> | 2026-11-02 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
+| Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο: the issues amending ν. 5036/2023 | <https://ia37rg02wpsa01.blob.core.windows.net/fek/> | 2026-11-03 | Official legislative texts are not protected by copyright (ν. 2121/1993, άρθρο 2 παρ. 5). Attribution: Εφημερίδα της Κυβερνήσεως, Εθνικό Τυπογραφείο (www.et.gr). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -231,20 +237,23 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `nomos-5134-2024` | Παρεμβάσεις στον Κώδικα Πολιτικής Δικονομίας, στον Κώδικα Οργανισμού Δικαστηρίων και Κατάστασης Δικαστικών Λειτουργών και στον Κώδικα Ποινικής Δικονομίας σε εναρμόνιση με την ενοποίηση του πρώτου βαθμού δικαιοδοσίας με τον ν. 5108/2024 – Διατάξεις για τη Δικαστική Αστυνομία και άλλες επείγουσες ρυθμίσεις. | 3 | 2024-09-11 to 2024-09-30 |
 | `nomos-5164-2024` | Ενσωμάτωση της Οδηγίας (ΕΕ) 2022/2464 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου, της 14ης Δεκεμβρίου 2022, για την τροποποίηση του Κανονισμού (ΕΕ) 537/2014, της Οδηγίας 2004/109/ΕΚ, της Οδηγίας 2006/43/ΕΚ και της Οδηγίας 2013/34/ΕΕ, όσον αφορά την υποβολή εκθέσεων βιωσιμότητας από τις εταιρείες (L 322) και της κατ’ εξουσιοδότηση Οδηγίας (ΕΕ) 2023/2775 της Επιτροπής, της 17ης Οκτωβρίου 2023, για την τροποποίηση της Οδηγίας 2013/34/ΕΕ του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου όσον αφορά τις προσαρμογές των κριτηρίων μεγέθους για τις πολύ μικρές, τις μικρές, τις μεσαίες και τις μεγάλες επιχειρήσεις ή ομίλους. | 3 | 2024-12-12 to 2026-06-29 |
 | `nomos-5195-2025` | Ρύθμιση υγειονομικών θεμάτων των Ενόπλων Δυνάμεων και λοιπές διατάξεις. | 3 | 2025-05-09 to 2026-05-15 |
+| `nomos-5027-2023` | Σύστημα Καινοτομίας στον δημόσιο τομέα – Ρυθμίσεις Γενικής Γραμματείας Ανθρωπίνου Δυναμικού Δημοσίου Τομέα – Ρυθμίσεις για τη λειτουργία των Ο.Τ.Α. α’ και β’ βαθμού και των αποκεντρωμένων διοικήσεων και για την ευζωία των ζώων συντροφιάς – Λοιπές επείγουσες ρυθμίσεις του Υπουργείου Εσωτερικών και άλλες διατάξεις. | 6 | 2023-03-02 to 2026-06-29 |
+| `nomos-5090-2024` | Παρεμβάσεις στον Ποινικό Κώδικα και τον Κώδικα Ποινικής Δικονομίας για την επιτάχυνση και την ποιοτική αναβάθμιση της ποινικής δίκης – Εκσυγχρονισμός του νομοθετικού πλαισίου για την πρόληψη και την καταπολέμηση της ενδοοικογενειακής βίας | 4 | 2024-02-23 to 2024-07-01 |
+| `nomos-5036-2023` | Πλαίσιο ρύθμισης οφειλών και άλλες φορολογικές και τελωνειακές ρυθμίσεις, προστασία των συντάξεων από τον πληθωρισμό και άλλες διατάξεις για τη στήριξη της κοινωνίας και της επιχειρηματικότητας | 4 | 2023-03-28 to 2024-08-02 |
 
-The build made 167 commits:
+The build made 181 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 86 | first version of an act |
-| 81 | one law on its in-force day |
+| 89 | first version of an act |
+| 92 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 146 laws in the record.
-- 325 tags.
+- 154 laws in the record.
+- 347 tags.
 
 ## Dates
 
@@ -256,15 +265,15 @@ When a law gives no date of its own, the default rule applies: Each revision res
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6c42a7cf57dce23d4b385027c1cbd9d46c9caa3d953d9adf9ea1f6b8f3da0c6a` (18515199 bytes).
+- Corpus: sha256 `c297bb347f51bf7bc34b8ba030639c7d9e843d2b08ee51332aafb1e6d5cf3945` (19890165 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-Not yet run for this build.
+198 versions of 89 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 173 history commits and 347 tags (history tip `75014600660003f8dc437e1d27248d6601b08b47`).
 
 ## Decisions made by hand
 
@@ -1086,6 +1095,43 @@ No second build of this corpus has been compared yet.
 - Parse log: ν. 5301/2026 art. 102 par. 2: art-078 par. 6 restated (1 line(s) -> 1); 1 described change(s) checked
 - Restated wording: ν. 5301/2026 art. 102 par. 2: the restatement reads «ελληνικής αεροπορικής βιομηχανίας» where the described change gives «». Not among the listed changes (ν. 5301/2026 art. 102 par. 2 lists only the added «3,»): the restated par. 6 is the amending law’s own text and governs.
 - Restated wording: ν. 5301/2026 art. 102 par. 2: the restatement reads «παραγράφους» where the described change gives «παρ». Not among the listed changes (ν. 5301/2026 art. 102 par. 2 lists only the added «3,»): the restated par. 6 is the amending law’s own text and governs.
+- ν. 5027/2023 (public administration, local government and other provisions) is given as published in ΦΕΚ Α΄ 48/2023, then with each later amendment, read in the amending law's own Gazette issue: 91/2023 (ν. 5043/2023); 137/2023 (ν. 5046/2023); 120/2025 (ν. 5217/2025); 9/2026 (ν. 5270/2026); 103/2026 (ν. 5314/2026).
+- Amendment search: every legalize-gr mention through ΦΕΚ Α΄ 177/2026, the 2026 gap issues and the official issue relation index. The textual amendments are ν. 5043/2023 arts. 26 and 42, ν. 5046/2023 art. 36, ν. 5217/2025 art. 97, ν. 5270/2026 art. 28 and the Local Government Code’s corrected repeal list. ν. 5056/2023 art. 53 par. 2 repealed art. 50 before its 1 January 2024 start, so it never enters an in-force version. Other mentions extend arrangements or refer to changes in other laws without changing this law’s words.
+- Art. 96 dates art. 64 from 31 December 2022, before publication, so it appears from publication. Arts. 52 and 85 govern board appointments after the current boards end; no calendar day for those events is stated, so the text is shown from publication with this qualification.
+- ν. 5043/2023 art. 26 restates art. 77: the restatement prints «κατά τη» for «κατά την», «μονίμου» for «μόνιμου», omits a comma before «ο οποίος», and joins «τ.ΑΣΕΠ» without the space in the earlier text. The restatement governs.
+- ν. 5046/2023 art. 36 par. 2 states 1 July 2023 for its added sentence, before publication of that issue on 29 July; under the corpus rule for starts before publication, the new sentence is dated from publication and the stated day is recorded here.
+- ν. 5321/2026 art. 54 replaced art. 773 of the Local Government Code as a correction: its list, not the list first printed in ν. 5314/2026, governs. It excludes arts. 39, 46, 57 and 58 of ν. 5027/2023, includes art. 56, and retains the repeal of art. 50, which ν. 5056/2023 had already repealed before commencement.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5027/2023 is dated 2023-03-02, the date on the issue's masthead: its commencement article (art-096) reads «1. α. Με την επιφύλαξη της παρ. 2, η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5043/2023 art. 26 par. 1: art-077 restated (5 lines -> 7); 6 described change(s) checked; instruction: 1. Στο άρθρο 77 του ν. 5027/2023 (Α’ 48) επέρχονται οι εξής αλλαγές: α) στην παρ. 1 αα) μετά από τις λέξεις
+- Parse log: ν. 5043/2023 art. 42: art-063 gains par. 4 at its end (3 line(s))
+- Parse log: ν. 5046/2023 art. 36 par. 1: art-035 par. 1 restated (1 line(s) -> 1); 1 described change(s) checked
+- Parse log: ν. 5217/2025 art. 97 no. 2: art-017 repealed (removed)
+- Parse log: ν. 5270/2026 art. 28: art-033 restated (5 lines -> 8); 3 described change(s) checked; instruction: Στο άρθρο 33 του ν. 5027/2023 (Α’ 48), περί σύστασης Μητρώου για Σωματεία Γενικού Σκοπού, επέρχονται οι ακόλουθες τροποπ
+- Parse log: ν. 5314/2026 art. 773 par. Α no. 21, as corrected by ν. 5321/2026 art. 54: art-040, art-041, art-042, art-043, art-044, art-045, art-047, art-048, art-049, art-050, art-051, art-056, art-059 repealed (removed)
+- Restated wording: ν. 5043/2023 art. 26 par. 1: the restatement reads «τη» where the described change gives «την». The restatement prints «κατά τη 18η.12.2018» rather than «κατά την 18η.12.2018»; it governs.
+- Restated wording: ν. 5043/2023 art. 26 par. 1: the restatement reads «μονίμου» where the described change gives «μόνιμου». The restatement prints the genitive with the other accent; it governs.
+- Restated wording: ν. 5043/2023 art. 26 par. 1: the restatement reads «τασεπ» where the described change gives «τ ασεπ». The restatement joins «τ. ΑΣΕΠ» as «τ.ΑΣΕΠ»; it governs.
+- ν. 5090/2024 (interventions in the Penal Code and Code of Criminal Procedure) is given as published in ΦΕΚ Α΄ 30/2024, then with each later amendment, read in the amending law's own Gazette issue: 65/2024 (ν. 5108/2024).
+- Amendment search: every legalize-gr mention through ΦΕΚ Α΄ 177/2026, the 2026 gap issues, and the official issue relation index. ν. 5108/2024 arts. 43 and 58 directly amend this law. Other mentions refer to it or to codified provisions and do not change its words.
+- Art. 138 gives three start stages: publication for its listed articles and art. 136 item γ, 1 May 2024 for the remaining provisions except its nine deferred articles, and 1 July 2024 for arts. 9, 10, 23, 28, 60, 82, 87, 88 and 89. Art. 136 items α and β join its already effective item γ on 1 May. The text is applied line by line.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5090/2024 is dated 2024-02-23, the date on the issue's masthead: its commencement article (art-138) reads «3. Η ισχύς των άρθρων 4, 31, 32, 37, 38, 39, 40, 71, 95, 133, 134, 135 και της περ. γ) του άρθρου 136 αρχίζει από τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως. 2. Η ισχύς των άρθρων 9, 10, 23, 28, 60, 82, 87, 88 και 89 αρχίζει από την 1η.7.2024.». Provisions it starts later are shown from publication.
+- ν. 5090/2024: art-068: quotation without a closing » before Άρθρο 69; art-133: quotation without a closing » before Άρθρο 134 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5108/2024 art. 43: art-136 restated (6 lines -> 6); 1 described change(s) checked; instruction: Στην περ. α) του άρθρου 136 του ν. 5090/2024 (Α’ 30), περί καταργούμενων διατάξεων, οι λέξεις
+- Parse log: ν. 5108/2024 art. 58 par. 1: art-137 par. 1 restated (1 line(s) -> 1); 2 described change(s) checked
+- Parse log: ν. 5108/2024 art. 58 par. 5: art-137 par. 5 restated (1 line(s) -> 1); 2 described change(s) checked
+- ν. 5036/2023 (tax and social insurance debt arrangements and other urgent provisions) is given as published in ΦΕΚ Α΄ 77/2023, then with each later amendment, read in the amending law's own Gazette issue: 58/2024 (ν. 5104/2024); 128/2024 (ν. 5131/2024).
+- Amendment search: legalize-gr full-text mentions through ΦΕΚ Α΄ 177/2026, the 2026 gap Gazette issues, and the official issue relation index. ν. 5104/2024 art. 91 and ν. 5131/2024 art. 41 par. 1 change the law. ΦΕΚ Α΄ 88/2026 cites art. 70 only as an earlier change to ν. 4495/2017. The other mentions are references to provisions that ν. 5036/2023 changed in other laws.
+- In ΦΕΚ Α΄ 77/2023, the embedded restatement of art. 84 of ν. 4916/2022 under this law’s art. 67 has no opening « before its heading in the text layer. It remains inside art. 67; it is not this law’s art. 84.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5036/2023 is dated 2023-03-28, the date on the issue's masthead: its commencement article (art-106) reads «1. Με την επιφύλαξη της παρ. 2 η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις. 2. α) Η παρ. 1 του άρθρου 16 ισχύει από την 1η.6.2023. β) Η παρ. 4 του άρθρου 78 του Εθνικού Τελωνειακού Κώδικα, όπως αντικαθίσταται με την παρ. 1 του άρθρου 28 του παρόντος, ισχύει από την 1η Ιανουαρίου 2023. γ) Η ισχύς της παρ. 1 του άρθρου 60 αρχίζει από την έναρξη ισχύος του ν. 4972/2022 (Α’ 181). δ) Η ισχύς του άρθρου 84 αρχίζει από την 1η.1.2023. ε) Η ισχύς του άρθρου 91 αρχίζει από την 1η.1.2022.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5104/2024 art. 91: art-009 restated (6 lines -> 6); 1 described change(s) checked; instruction: Η περ. β) του άρθρου 9 του ν. 5036/2023 (Α’ 77), περί απώλειας ρύθμισης, αντικαθίσταται και το άρθρο 9 διαμορφώνεται ως
+- Parse log: ν. 5131/2024 art. 41 par. 1: art-064 par. 6 restated (1 line(s) -> 1); 1 described change(s) checked
+- Art. 16 par. 1 of ν. 5036/2023 is inserted line by line on 1 June 2023 under art. 16 par. 5. Art. 106 par. 2 dates art. 84 from 1 January 2023 and art. 91 from 1 January 2022; both predate publication, so they are present in the publication version. Its other special dates concern provisions of other laws or events recorded here.
 
 ## What AI did and did not do
 
@@ -1182,3 +1228,6 @@ Model use at data-build time:
 - ν. 5134/2024 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
 - ν. 5164/2024 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
 - ν. 5195/2025 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
+- ν. 5027/2023 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
+- ν. 5090/2024 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
+- ν. 5036/2023 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
