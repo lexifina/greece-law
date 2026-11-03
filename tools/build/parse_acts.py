@@ -32,6 +32,13 @@ A law is held back, not published, when any of these is true (the reason goes to
   missing;
 - its commencement clause is missing or unreadable, or names a day before the law's publication day, or the masthead
   day differs from the index's issue day.
+
+One exception to the first two rules: a law or decree that one later law or decree repeals as a whole, and that nothing
+else changes, is published with a second, empty version on the repeal day, credited to the repealing act. Every
+citation of it in that act's changing passages must repeal it whole ('καταργείται', the act alone in its item, no
+article or part named, no exception, no day of its own; a heading 'Κατάργηση του ...' may name it too), the index may
+record no other later document changing its issue, and the repeal day is the repealing act's own commencement day,
+read without exceptions (a stated day only when nothing later amends the repealing act).
 """
 from __future__ import annotations
 
@@ -109,7 +116,12 @@ def norm_line(s: str) -> str:
     # a lone look-alike letter between Greek words: O ΠΡΟΕΔΡΟΣ, o νόμος
     s = re.sub(r"(?<![A-Za-z0-9.])([ABEZHIKMNOPTYXo])(?=\s+[Ͱ-Ͽ])", lambda m: LOOK[m.group(1)], s)
     s = re.sub(r"(?<=[Ͱ-Ͽ]\s)([ABEZHIKMNOPTYXo])(?![A-Za-z0-9])", lambda m: LOOK[m.group(1)], s)
+    # the old Greek fonts set an accented capital as an accent mark before the letter: ’Αρθρο, ’Εναρξη
+    s = re.sub(r"(?<![^\s«(\"“])’ ?([ΑΕΗΙΟΥΩ])(?=[α-ωάέήίόύώϊϋΐΰς])", lambda m: ACCENTED[m.group(1)], s)
     return re.sub(r"\s+", " ", s).strip()
+
+
+ACCENTED = {"Α": "Ά", "Ε": "Έ", "Η": "Ή", "Ι": "Ί", "Ο": "Ό", "Υ": "Ύ", "Ω": "Ώ"}
 
 
 def fold(s: str) -> str:
@@ -132,7 +144,7 @@ def tidy(s: str) -> str:
 MONTHS = {fold(m): i for i, m in enumerate(["Ιανουαρίου", "Φεβρουαρίου", "Μαρτίου", "Απριλίου", "Μαΐου", "Ιουνίου",
                                              "Ιουλίου", "Αυγούστου", "Σεπτεμβρίου", "Οκτωβρίου", "Νοεμβρίου",
                                              "Δεκεμβρίου"], 1)}
-DAY_RE = re.compile(r"(\d{1,2})(?:η|ης)?\s+([Α-Ωα-ωάέήίόύώϊϋΐΰ]+)\s+(\d{4})")
+DAY_RE = re.compile(r"(\d{1,2})(?:η|ης)?\s+([Α-Ωα-ωάέήίόύώϊϋΐΰ]+)\s*(\d{4})")
 
 
 def text_day(s: str) -> str | None:
@@ -179,6 +191,8 @@ def issue_lines(dump: dict) -> tuple[list[Line], dict]:
         for x0, y0, x1, y1, size, bold, t in p["lines"]:
             if legacy and not GREEK.search(t):
                 t = legacy_decode(t)
+            if legacy:
+                t = t.replace("~", "’")   # those fonts' accent and numeral sign: υπ~ αριθμ., (Α~ 12), ~Αρθρο
             t = norm_line(t)
             if not t or size < 6:
                 continue
@@ -376,9 +390,10 @@ def paragraphs(lines: list[Line], vocab: set[str]) -> list[Para]:
     return out
 
 
-KEY_START = re.compile(r"^(?:Παραγγέλλομε τη δημοσίευση|Εκδίδομε τον ακόλουθο|(?:Ο|Η) ΠΡΟΕΔΡΟΣ|ΝΟΜΟΣ ΥΠ|Αθήνα,|«?Άρθρο\s+\S+\s*$|Άρθρο\s|ΠΙΝΑΚΑΣ ΠΕΡΙΕΧΟΜΕΝΩΝ"
+KEY_START = re.compile(r"^(?:Παραγγέλλομε τη δημοσίευση|Εκδίδομε τον ακόλουθο|(?:Ο|Η) ΠΡΟΕΔΡΟΣ|ΝΟΜΟΣ ΥΠ|Αθήνα,|«?(?:Άρθρο|ΆΡΘΡΟ|ΑΡΘΡΟ)\s+\S+\s*$"
+                       r"|(?:Άρθρο|ΆΡΘΡΟ|ΑΡΘΡΟ)\s|ΠΙΝΑΚΑΣ ΠΕΡΙΕΧΟΜΕΝΩΝ"
                        r"|ΜΕΡΟΣ\b|ΚΕΦΑΛΑΙΟ\b|ΤΜΗΜΑ\b|ΠΑΡΑΡΤΗΜΑ\b|ΤΙΤΛΟΣ\b|ΕΝΟΤΗΤΑ\b|ΥΠΟΚΕΦΑΛΑΙΟ\b|ΒΙΒΛΙΟ\b)")
-KEY_ALONE = re.compile(r"^(?:«?Άρθρο\s+\S+(?:\s+\S+){0,3}|(?:ΜΕΡΟΣ|ΚΕΦΑΛΑΙΟ|ΤΜΗΜΑ|ΠΑΡΑΡΤΗΜΑ|ΤΙΤΛΟΣ|ΕΝΟΤΗΤΑ|ΥΠΟΚΕΦΑΛΑΙΟ|ΒΙΒΛΙΟ)"
+KEY_ALONE = re.compile(r"^(?:«?(?:Άρθρο|ΆΡΘΡΟ|ΑΡΘΡΟ)\s+\S+(?:\s+\S+){0,3}|(?:ΜΕΡΟΣ|ΚΕΦΑΛΑΙΟ|ΤΜΗΜΑ|ΠΑΡΑΡΤΗΜΑ|ΤΙΤΛΟΣ|ΕΝΟΤΗΤΑ|ΥΠΟΚΕΦΑΛΑΙΟ|ΒΙΒΛΙΟ)"
                        r"(?:\s+\S+){0,2}|ΝΟΜΟΣ ΥΠ.*|(?:Ο|Η) ΠΡΟΕΔΡΟΣ.*)$")
 
 
@@ -402,15 +417,41 @@ OTHER_HEAD = re.compile(r"^(?:ΠΡΟΕΔΡΙΚΟ ΔΙΑΤΑΓΜΑ|ΠΡΟΕΔΡΙ
                         r"|ΑΠΟΦΑΣΕΙΣ|ΑΠΟΦΑΣΗ|ΔΙΟΡΘΩΣΕΙΣ ΣΦΑΛΜΑΤΩΝ|ΔΙΟΡΘΩΣΗ ΣΦΑΛΜΑΤ|ΚΑΝΟΝΙΣΜΟΙ|ΚΑΝΟΝΙΣΜΟΣ|ΠΕΡΙΕΧΟΜΕΝΑ"
                         r"|ΨΗΦΙΣΜΑ|ΑΝΑΚΟΙΝΩΣΕΙΣ|ΑΝΑΚΟΙΝΩΣΗ|ΠΡΑΞΕΙΣ ΥΠΟΥΡΓΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ|ΠΡΑΞΗ ΥΠΟΥΡΓΙΚΟΥ ΣΥΜΒΟΥΛΙΟΥ"
                         r"|ΔΙΑΤΑΓΜΑ|ΕΓΚΥΚΛΙΟΣ|ΣΥΝΤΑΓΜΑ)\b")
-ENACT = re.compile(r"^Εκδίδομε τον ακόλουθο νόμο")
-ORDER = re.compile(r"^Παραγγέλλομε τη δημοσίευση")
+ENACT = re.compile(r"^Εκδίδομε\s+τον\s+(?:ακόλουθο\s+)?νόμο")
+ORDER = re.compile(r"^Παραγγέλλομε\s+τη(?:ν)?\s+δημοσίευσ")
+ORDER_ANY = re.compile(r"^Παραγγέλλ?ομε\s+τη(?:ν)?\s+δημοσίευσ")   # also misprinted 'Παραγγέλομε'
+
+
+def law_order(paras: list) -> re.Pattern:
+    """The order to publish of a law: 'Παραγγέλλομε ...', or the misprint 'Παραγγέλομε' when the law has no other."""
+    return ORDER if any(ORDER.match(p.t) for p in paras) else ORDER_ANY
 PRESIDENT = re.compile(r"^(?:Ο|Η)\s+ΠΡΟΕΔΡΟΣ(?:\s+ΤΗΣ\s+ΕΛΛΗΝΙΚΗΣ\s+ΔΗΜΟΚΡΑΤΙΑΣ)?$")
 ATHENS = re.compile(r"^(?:Αθήνα|Αθήναι),?\s+")
+# the place and day under the President's signature: 'Αθήνα, 9 Νοεμβρίου 2011', 'Ρίο, 10 Αυγούστου 2000', 'Αθήνα,12 ...'
+PLACE_DAY = re.compile(r"^[Α-ΩΆΈΉΊΌΎΏ][α-ωάέήίόύώϊϋΐΰ]+(?:[\s-][Α-ΩΆΈΉΊΌΎΏ][α-ωάέήίόύώϊϋΐΰ]+)?\s*,\s*\d{1,2}")
 CORRECTIONS = re.compile(r"^ΔΙΟΡΘΩΣ")
 # A presidential decree: its considerations end with the decision formula, its text with the order to publish.
 PD_HEAD = re.compile(r"^ΠΡΟΕΔΡΙΚΟ\s+ΔΙΑΤΑΓΜΑ\s+ΥΠ[’]?\s*ΑΡΙΘ(?:Μ)?\.?\s*(\d{1,4})\.?$")
-DECIDE = re.compile(r"\b(?:αποφασίζουμε|αποφασίζομε|αποφασίζομεν)\s*:?\s*$", re.I)
-PD_ORDER = re.compile(r"^(?:Στον|Στην|Στους|Στις|Εις τον|Εις τους)\s.{0,300}?\bαναθέτουμε\s+τη(?:ν)?\s+δημοσίευση")
+DECIDE = re.compile(r"\b(?:αποφασίζουμε|αποφασίζομε|αποφασίζομεν)\s*[:,]?\s*$", re.I)
+PD_ORDER = re.compile(r"^(?:\d{1,2}\.\s*)?(?:(?:Στον|Στην|Στους|Στις|Εις τον|Εις τους)\s.{0,300}?\b(?:αναθέτουμε\s+τη(?:ν)?\s+δημοσίευ"
+                      r"|ανατίθεται\s+η\s+δημοσίευση)|Η\s+δημοσίευση\s+και\s+(?:η\s+)?εκτέλεση\s+του\s+παρόντος.{0,60}?\bανατίθεται\b)")
+# an order to publish printed on in the paragraph before it (no indent): '... Κυβερνήσεως. Στον Υπουργό ... αναθέτουμε ...'
+ORDER_INSIDE = {"law": re.compile(r"(?<=[.·])\s+(Παραγγέλλομε\s+τη(?:ν)?\s+δημοσίευσ.*)$"),
+                "pd": re.compile(r"(?<=[.·])\s+((?:Στον|Στην|Στους|Στις)\s[^.«»]{0,300}?\bαναθέτουμε\s+τη(?:ν)?\s+δημοσίευ.*)$")}
+
+
+def split_order(paras: list, kind: str) -> list:
+    """A document whose order to publish has no paragraph of its own: split it off the paragraph that holds it."""
+    end_rx = ORDER_ANY if kind == "law" else PD_ORDER
+    if any(end_rx.match(p.t) for p in paras):
+        return paras
+    for i in range(len(paras) - 1, -1, -1):
+        m = ORDER_INSIDE[kind].search(paras[i].t)
+        if m and end_rx.match(m.group(1)):
+            p = paras[i]
+            a, b = Para(p.t[:m.start()].rstrip(), p.centered, p.bold, p.page), Para(m.group(1), p.centered, p.bold, p.page)
+            return paras[:i] + [a, b] + paras[i + 1:]
+    return paras
 
 
 def documents(paras: list[Para]) -> list[dict]:
@@ -431,7 +472,7 @@ def documents(paras: list[Para]) -> list[dict]:
             docs.append({"kind": "corrections" if CORRECTIONS.match(p.t) else "other", "num": None, "head": p.t, "paras": []})
             continue
         docs[-1]["paras"].append(p)
-        if in_law_body and ORDER.match(p.t):
+        if in_law_body and ORDER_ANY.match(p.t):
             in_law_body = False
     return docs
 
@@ -442,7 +483,10 @@ ORD = {"πρωτο": 1, "δευτερο": 2, "τριτο": 3, "τεταρτο": 
        "δεκατο": 10, "ενδεκατο": 11, "δωδεκατο": 12, "εικοστο": 20, "τριακοστο": 30, "τεσσαρακοστο": 40,
        "πεντηκοστο": 50, "εξηκοστο": 60, "εβδομηκοστο": 70, "ογδοηκοστο": 80, "ενενηκοστο": 90, "εκατοστο": 100,
        "διακοσιοστο": 200}
-ART_HEAD = re.compile(r"^Άρθρο\s+(.{1,40})$", re.I)
+ART_HEAD = re.compile(r"^(?:Άρθρο|ΑΡΘΡΟ)\s+(.{1,40})$", re.I)
+ART_ALONE = re.compile(r"^(?:Άρθρο|ΆΡΘΡΟ|ΑΡΘΡΟ)\s+(\d{1,3}[Α-Ωα-ω]?|[^\W\d]+(?:\s+[^\W\d]+){0,3})\.?$")
+SQ_OPEN = re.compile(r"^[\"“]")
+SQ_CLOSE = re.compile(r"[\"”][.;,]?$")
 STRUCT = re.compile(r"^(?:ΜΕΡΟΣ|ΚΕΦΑΛΑΙΟ|ΤΜΗΜΑ|ΤΙΤΛΟΣ|ΕΝΟΤΗΤΑ|ΥΠΟΚΕΦΑΛΑΙΟ|ΒΙΒΛΙΟ|ΥΠΟΤΜΗΜΑ)\b")
 ANNEX = re.compile(r"^ΠΑΡΑΡΤΗΜΑ\b")
 TOC = re.compile(r"^ΠΙΝΑΚΑΣ ΠΕΡΙΕΧΟΜΕΝΩΝ$")
@@ -450,7 +494,10 @@ TOC = re.compile(r"^ΠΙΝΑΚΑΣ ΠΕΡΙΕΧΟΜΕΝΩΝ$")
 
 def art_number(label: str) -> tuple[str, int, str] | None:
     """('num'|'word'|'sole', number, suffix) for an article heading's label, or None."""
-    f = fold(label).strip(" .")
+    f = re.sub(r"\s*\([^()]*\)$", "", fold(label).strip(" .")).strip(" .")   # 'Άρθρο 1 (άρθρο 1 οδηγίας)'
+    m = re.fullmatch(r"(\d{1,3})\s*(?:ο|ον)", f)   # 'Άρθρο 1ο': an ordinal, not a letter
+    if m:
+        return "num", int(m.group(1)), ""
     m = re.fullmatch(r"(\d{1,3})\s*([α-ω]?)", f)
     if m:
         return "num", int(m.group(1)), m.group(2)
@@ -474,7 +521,7 @@ def quote_delta(t: str) -> int:
 def law_units(paras: list[Para], vocab: set[str] = frozenset(), kind: str = "law") -> tuple[str, dict, list[str]]:
     """(title, units, body paragraphs outside quotations) for one law's (or decree's) paragraphs."""
     i_pres = next((i for i, p in enumerate(paras) if PRESIDENT.match(p.t)), None)
-    start_rx, end_rx = (ENACT, ORDER) if kind == "law" else (DECIDE, PD_ORDER)
+    start_rx, end_rx = (ENACT, law_order(paras)) if kind == "law" else (DECIDE, PD_ORDER)
     i_enact = [i for i, p in enumerate(paras) if (start_rx.match(p.t) if kind == "law" else start_rx.search(p.t))]
     i_order = [i for i, p in enumerate(paras) if end_rx.match(p.t)]
     if i_pres is None or len(i_enact) != 1 or len(i_order) != 1 or not (i_pres < i_enact[0] < i_order[0]):
@@ -500,13 +547,26 @@ def law_units(paras: list[Para], vocab: set[str] = frozenset(), kind: str = "law
     in_toc = False
     annex_n = 0
     bold_heads = None
+    sq = False   # inside a quotation set in straight double quotes ("...") as old issues print them
+    sq_skipped = False
     for p in body:
         t = p.t
         top = depth == 0
         depth = max(0, depth + quote_delta(t))
+        in_sq = sq or bool(SQ_OPEN.match(t))
+        if SQ_OPEN.match(t) and not (len(t) > 1 and SQ_CLOSE.search(t)):
+            sq = True
+        elif sq and SQ_CLOSE.search(t):
+            sq = False
         heading_like = p.centered or p.bold
         a = None
         m = ART_HEAD.match(t) if heading_like and (bold_heads is None or p.bold == bold_heads) else None
+        alone = False
+        if (not m and top and numbers and not in_toc and p.bold == bold_heads and ART_ALONE.match(t)
+                and not (mode == "num" and re.search(r"[Κκ]υρώνεται|[Κκ]υρούται", " ".join(units[cur]["lines"])))):
+            # 'Άρθρο N' alone in its paragraph but not set as a heading (an odd margin): this law's own next
+            # article only when it is exactly the next number
+            m, alone = ART_ALONE.match(t), True
         if m:
             a = art_number(m.group(1))
             if a and mode is not None and a[0] != mode and mode != "sole":
@@ -517,18 +577,28 @@ def law_units(paras: list[Para], vocab: set[str] = frozenset(), kind: str = "law
             # the next article: n+1, or n with the next letter (an article inserted during the vote: 73, 73Α, 74)
             follows = (a[1], sfx) == (1, 0) if prev is None else \
                 (a[1], sfx) in ((prev[0] + 1, 0), (prev[0], prev[1] + 1))
-            if not top:
+            if alone and not follows:
+                a = None
+            elif not top:
                 # Inside a quotation by the count of «», which a misprint can upset: take it as this law's own next
                 # article only when it is bold like this law's own headings; otherwise it is quoted text.
                 if not (follows and not sfx and bold_heads):
                     a = None
+            elif in_sq and not follows:
+                a = None    # a heading of the text an article quotes in straight quotes
+                sq_skipped = sq   # ... which must close before this law's next article
             elif not follows:
                 raise Hold("articles:sequence " + ",".join(f"{n}{'+' * s}" for n, s in numbers[-5:]) + " then " + t)
+        if not sq:
+            sq_skipped = False
         if a:
+            if sq_skipped:
+                raise Hold("articles:quote_unclosed " + t)
             if mode is None:
                 mode = a[0]
                 bold_heads = p.bold
             depth = 0   # a quotation never runs over this law's own article heading
+            sq = False
             numbers.append((a[1], sfx))
             key = f"art-{a[1]:03d}" + (f"-{sfx:02d}" if sfx else "")
             if key in units:
@@ -581,10 +651,12 @@ def law_units(paras: list[Para], vocab: set[str] = frozenset(), kind: str = "law
                 units[cur]["lines"].extend(pending)
                 pending = []
             units[cur]["lines"].append(t)
-        if top:
+        if top and not in_sq:
             plain.append(re.sub(r"«[^«»]*»?", " ", t))
     if pending and cur:
         units[cur]["lines"].extend(pending)
+    if sq_skipped:
+        raise Hold("articles:quote_unclosed")
     if not numbers:
         raise Hold("articles:none")
     if mode == "sole" and numbers != [(1, 0)]:
@@ -600,8 +672,16 @@ def law_units(paras: list[Para], vocab: set[str] = frozenset(), kind: str = "law
                 break
         if a and a[0] == mode:
             toc.append((a[1], ord(a[2]) - ord("α") + 1 if a[2] else 0))
-    if toc and kind == "law" and sorted(set(toc)) != numbers:
-        raise Hold(f"toc_mismatch:{len(set(toc))} listed, {len(numbers)} read")
+    if toc and kind == "law":
+        # Every article read is listed, in order; the table may also list the articles this law inserts into others
+        # (Άρθρο 109, 110, ... under Άρθρο 3), but nothing after the last article read may continue its numbering.
+        j, at = 0, -1
+        for i, x in enumerate(toc):
+            if j < len(numbers) and x == numbers[j]:
+                j, at = j + 1, i
+        last = numbers[-1]
+        if j < len(numbers) or any(x in ((last[0] + 1, 0), (last[0], last[1] + 1)) for x in toc[at + 1:]):
+            raise Hold(f"toc_mismatch:{len(set(toc))} listed, {len(numbers)} read")
     out = {}
     for k in order:
         u = units[k]
@@ -612,36 +692,70 @@ def law_units(paras: list[Para], vocab: set[str] = frozenset(), kind: str = "law
 
 # ---------------------------------------------------------------- commencement
 
-IN_FORCE = [
-    re.compile(r"(?:εναρξη\s+)?ισχυ(?:οσ|σ)\s+(?:του\s+)?(?:παροντοσ|νομου\s+αυτου|διαταγματοσ\s+αυτου)(?:\s+νομου|\s+κωδικα|\s+διαταγματοσ)?(?:\s*,[^,]{1,80},)?\s+(?:αρχιζει|αρχεται|οριζεται)\s+(?P<rest>[^.]{0,220}(?:\.\d[^.]{0,200})*)"),
-    re.compile(r"(?:ο\s+)?(?:παρων(?:\s+νομοσ)?|νομοσ\s+αυτοσ|παρον(?:\s+διαταγμα)?|διαταγμα\s+αυτο)\s+(?:ισχυει|τιθεται\s+σε\s+ισχυ)\s+(?P<rest>απο[^.]{0,220}(?:\.\d[^.]{0,200})*)"),
-]
-NUM_DAY = re.compile(r"(?:απο\s+)?(?:την\s+|τη\s+)?(\d{1,2})(?:η|ησ)?\s*[./]\s*(\d{1,2})\s*[./]\s*(\d{4})")
-WORD_DAY = re.compile(r"(?:απο\s+)?(?:την\s+|τη\s+)?(\d{1,2})(?:η|ησ)?\s+([α-ω]+)\s+(\d{4})")
-PUB = re.compile(r"^απο\s+(?:τη|την)\s+δημοσιευσ")
+_REST = r"(?P<rest>[^.]{0,220}(?:\.\d[^.]{0,200})*)"
+# the act itself as the subject of its commencement clause (folded text)
+_PD = r"(?:προεδρικου\s+διαταγματοσ|διαταγματοσ|π\.?\s*δ\.?\s*/\s*(?:τοσ|γματοσ)|π\.\s*δ\.?|π\.\s*διαταγματοσ)"
+_ANY = r"(?:νομου|κωδικα|κανονισμου|οργανισμου|" + _PD + ")"
+_OWN = {"law": r"(?:νομου)", "pd": _PD}
+IN_FORCE = {k: [
+    re.compile(r"(?:εναρξη\s+)?ισχυ(?:οσ|σ)\s+(?:των\s+διαταξεων\s+)?(?:(?:του|το)\s+)?(?:παροντοσ(?:\s+" + _ANY + r")?|" + _ANY
+               + r"\s+(?:αυτου|τουτου)|" + own + r")(?:\s*,[^,]{1,80},|\s*,)?\s+(?:αρχιζει|αρχεται|οριζεται)\s+" + _REST),
+    re.compile(r"(?:ο\s+|το\s+|οι\s+)?(?:παρων(?:\s+νομοσ)?|νομοσ\s+αυτοσ|παρον(?:\s+(?:προεδρικο\s+)?διαταγμα)?"
+               r"|(?:προεδρικο\s+)?διαταγμα\s+αυτο|διαταξεισ\s+του\s+παροντοσ(?:\s+" + _ANY + r")?)\s+(?:ισχυει|ισχυουν"
+               r"|τιθεται\s+σε\s+ισχυ|τιθενται\s+σε\s+ισχυ|αρχιζει\s+να\s+ισχυει|αρχιζουν\s+να\s+ισχυουν)\s+"
+               r"(?P<rest>(?:απο|με|στισ)\b[^.]{0,220}(?:\.\d[^.]{0,200})*)"),
+] for k, own in _OWN.items()}
+NUM_DAY = re.compile(r"(?:απο\s+|στισ\s+)?(?:την\s+|τη\s+)?(\d{1,2})(?:η|ησ)?\s*[./-]\s*(\d{1,2})\s*[./-]\s*(\d{4})")
+WORD_DAY = re.compile(r"(?:απο\s+|στισ\s+)?(?:την\s+|τη\s+)?(\d{1,2})(?:η|ησ)?\s+([α-ω]+)\s+(?:του\s+ετουσ\s+)?(\d{4})")
+PUB = re.compile(r"^(?:απο|με)\s+(?:την?\s+|τησ\s+)?(?:ημερομηνια\s+(?:τησ\s+)?)?δημοσιευσ\w*(?:\s+του)?(?:\s+στην\s+εφημεριδα\s+"
+                 r"τησ\s+κυβερνησ\w+)?")
+# the first day of the month after (or after next) the publication
+NEXT_MONTH = re.compile(r"^(?:απο\s+)?(?:την\s+)?πρωτη\s+(?:ημερα\s+)?(?:του\s+)?(?:(?P<w>επομενου|μεθεπομενου)\s+μην(?:α|οσ)\s+"
+                        r"(?:απο|μετα)\s+(?:τη|την)|μην(?:α|οσ)\s+του\s+επομενου\s+(?:εκεινου\s+)?τησ)\s+δημοσιευσ\w*"
+                        r"(?:\s+του)?(?:\s+στην\s+εφημεριδα\s+τησ\s+κυβερνησ\w+)?")
 EXCEPT = re.compile(r"εκτοσ|επιφυλαξ|εξαιρεσ|διαφορετικ|ειδικοτερ|επιμερουσ")
+# after the day: words that make it conditional, temporary or retroactive
+NOT_PLAIN = re.compile(r"ληγ|ληξ|μεχρι|\bεωσ\b|\bπαυ|αναδρομ|εφοσον|οποτε|μεταγενεστ|προγενεστ|\bη\s+(?:απο|με|κατα|την|τη|στισ)\b")
 
 
-def commencement(plain: list[str], issue_day: str) -> tuple[str, str]:
+def commencement(plain: list[str], issue_day: str, kind: str = "law", masthead_day: str | None = None) -> tuple[str, str]:
     found = []
     for para in plain:
         f = fold(para)
-        for rx in IN_FORCE:
+        for rx in IN_FORCE["pd" if kind == "pd" else "law"]:
             for m in rx.finditer(f):
                 rest = m.group("rest").strip()
                 exc = bool(EXCEPT.search(f))
-                if PUB.match(rest):
+                md = PUB.match(rest)
+                if md:
+                    if NOT_PLAIN.search(rest[md.end():]):
+                        raise Hold("in_force:conditional " + rest[:100])
                     found.append(("publication", issue_day, exc))
+                    continue
+                md = NEXT_MONTH.match(rest)
+                if md:
+                    if NOT_PLAIN.search(rest[md.end():]):
+                        raise Hold("in_force:conditional " + rest[:100])
+                    if masthead_day and masthead_day[:7] != issue_day[:7]:
+                        raise Hold("in_force:month_of_publication_unclear " + rest[:80])
+                    step = 2 if md.group("w") == "μεθεπομενου" else 1
+                    yy, mm = divmod(int(issue_day[5:7]) - 1 + step, 12)
+                    found.append(("first_of_month", date(int(issue_day[:4]) + yy, mm + 1, 1).isoformat(), exc))
                     continue
                 md = NUM_DAY.match(rest)
                 if md:
                     try:
-                        found.append(("date", date(int(md.group(3)), int(md.group(2)), int(md.group(1))).isoformat(), exc))
+                        day = date(int(md.group(3)), int(md.group(2)), int(md.group(1))).isoformat()
                     except ValueError:
                         raise Hold("in_force:bad_date " + rest[:80])
+                    if NOT_PLAIN.search(rest[md.end():]):
+                        raise Hold("in_force:conditional " + rest[:100])
+                    found.append(("date", day, exc))
                     continue
                 md = WORD_DAY.match(rest)
                 if md and md.group(2) in MONTHS:
+                    if NOT_PLAIN.search(rest[md.end():]):
+                        raise Hold("in_force:conditional " + rest[:100])
                     found.append(("date", date(int(md.group(3)), MONTHS[md.group(2)], int(md.group(1))).isoformat(), exc))
                     continue
                 raise Hold("in_force:unreadable " + rest[:100])
@@ -672,10 +786,16 @@ ART_SPLIT = re.compile(r"^«?\s*Άρθρο\s+\S+(?:\s+\S+){0,2}\s*$", re.I)
 def scan_blocks(docs: list[dict]) -> list[tuple[str, str]]:
     """(kind, folded text) blocks: one per article (split at every article heading, quoted or not) of every
     document except decree preambles; a corrections notice is one block."""
+    return [(k, t) for k, t, _, _ in scan_blocks_full(docs)]
+
+
+def scan_blocks_full(docs: list[dict]) -> list[tuple[str, str, int, list[str]]]:
+    """scan_blocks, with each block's document (index in docs) and its paragraphs (the first may be a heading)."""
     out = []
-    for d in docs:
+    for di, d in enumerate(docs):
         if d["kind"] == "corrections":
-            out.append(("corrections", fold(d["head"] + " " + " ".join(p.t for p in d["paras"]))))
+            ps = [d["head"]] + [p.t for p in d["paras"]]
+            out.append(("corrections", fold(" ".join(ps)), di, ps))
             continue
         paras = d["paras"]
         trimmed = False
@@ -684,7 +804,8 @@ def scan_blocks(docs: list[dict]) -> list[tuple[str, str]]:
             i_pres = next((i for i, p in enumerate(paras) if PRESIDENT.match(p.t)), None)
             i_dec = next((i for i, p in enumerate(paras) if DECIDE.search(p.t)), None)
             if i_pres is not None and i_dec is not None and i_pres < i_dec:
-                out.append((d["kind"], fold(" ".join([d["head"]] + [p.t for p in paras[:i_pres]]))))
+                ps = [d["head"]] + [p.t for p in paras[:i_pres]]
+                out.append((d["kind"], fold(" ".join(ps)), di, ps))
                 paras = paras[i_dec + 1:]
                 trimmed = True
         cur = [d["head"]]
@@ -692,10 +813,157 @@ def scan_blocks(docs: list[dict]) -> list[tuple[str, str]]:
         for p in paras:
             if ART_SPLIT.match(p.t):
                 if not (first and d["head"].startswith("ΠΡΟΕΔΡΙΚ") and not trimmed):
-                    out.append((d["kind"], fold(" ".join(cur))))
+                    out.append((d["kind"], fold(" ".join(cur)), di, cur))
                 cur, first = [], False
             cur.append(p.t)
-        out.append((d["kind"], fold(" ".join(cur))))
+        out.append((d["kind"], fold(" ".join(cur)), di, cur))
+    return out
+
+
+# ---------------------------------------------------------------- whole repeals (a second, empty version)
+
+LAW_DESIG = re.compile(r"(?:ν\.|νομου|νομοσ|νομο|ν)\s*(?:υπ[’']?\s*αριθμ?\.?\s*)?$")
+ITEM_MARK = r"(?:\(?[α-ω]{1,3}[’']?\)|[α-ω]{1,3}[’']?\.|\(?\d{1,3}\)|\d{1,3}\.)"
+# what may stand between the start of an item and the act's designation: a boundary, a list mark, an article
+ITEM_BEFORE = re.compile(r"(?:^|[;:·,]|\bκαι\b|\bκαταργ\w*|[)»]|(?<=[)»\d])\.)\s*(?:" + ITEM_MARK + r"\s*)?"
+                         r"(?:(?:ο|το|οι|τα)\s+|(?:οι\s+)?διαταξεισ\s+του\s+)?$")
+ITEM_END = re.compile(r"[;:·,]|\bκαι\b|(?<=[)»\d])\s+" + ITEM_MARK + r"\s")
+# what may follow the act's number inside its item (bracketed and quoted parts are masked out before)
+ITEM_TAIL = re.compile(r"^\s*(?:φεκ\s*)?(?:οπωσ\s+ισχυ\w*\s*)?(?:στο\s+συνολο\s+του\s*)?(?:καταργ\w+\s*)?(?:@\s*)?\.?\s*$")
+SENT_END = re.compile(r"(?:(?<=[)»\d])|(?<=[α-ω]{4}))\.(?=\s+[^\d\s]|\s*$)")
+CHANGE = re.compile(r"τροποπ|αντικαθ|αντικατασ|προστιθ|προστεθ|προσθηκ|συμπληρ|αναριθμ|παρατειν|παραταση|αναστελ|αναστολ|διορθ"
+                    r"|ερμηνευ|αναδιατυπ|επαναφερ|επαναφορ|αναβιω|διαγραφ|απαλειφ|διαμορφων|επερχον")
+EXCEPTED = re.compile(r"εκτοσ|πλην|εξαιρ|επιφυλαξ|κατα\s+το\s+μεροσ|καθ’\s*ο\s+μεροσ|ωσ\s+προσ|οσον\s+αφορα|σε\s+ο\s*,?\s*τι"
+                      r"|διατηρ|εξακολουθ|\bμονο\b|μεταβατ|αναλογ|κατα\s+τα\s+λοιπα|μερικ|εν\s+μερει|ακυρ")
+# 'from the start of this act': the repealing act's own day
+OWN_DAY = re.compile(r"(?:απο|με)\s+(?:την\s+εναρξη\s+(?:τησ\s+)?ισχυοσ|τησ\s+(?:εναρξεωσ\s+(?:τησ\s+)?)?ισχυοσ|την\s+ισχυ"
+                     r"|τη(?:ν|σ)?\s+δημοσιευσ\w*)\s+του\s+παροντοσ(?:\s+(?:νομου|προεδρικου\s+διαταγματοσ|διαταγματοσ"
+                     r"|π\.?\s*δ\.?(?:/τοσ)?))?")
+TIME_WORDS = re.compile(r"\bαπο\b|\bμετα\b|\bεωσ\b|\bμεχρι\b|ληξ|ληγ|ημερομην|\bετο\w*|σχολικ|\bημερ\w*|\bμην\w*|προθεσμ"
+                        r"|\d{1,2}\s*[./-]\s*\d{1,2}\s*[./-]\s*\d{2,4}|\b(?:19|20)\d\d\b|" + "|".join(MONTHS))
+
+
+def mask_groups(t: str) -> str:
+    """The text with what is inside «...» and (...) replaced by '_' (same length)."""
+    out, dq, dp = [], 0, 0
+    for ch in t:
+        if ch == "«":
+            dq += 1
+        elif ch == "»" and dq:
+            dq -= 1
+        elif ch == "(":
+            dp += 1
+        elif ch == ")" and dp:
+            dp -= 1
+        elif dq or dp:
+            out.append("_")
+            continue
+        out.append(ch)
+    return "".join(out)
+
+
+def whole_repeal(paras: list[str], pi: int, s: int, e: int, des: int) -> bool:
+    """Whether the citation at [s, e) of folded paragraph pi (its designation starting at des) repeals the act as a
+    whole: the act alone in its item ('ο ν. N/YYYY (Α' n)', 'το π.δ. N/YYYY «...»', nothing about an article, a
+    paragraph or a part of it), in a sentence (or a list under a heading ending with ':') that repeals with
+    'καταργ...', changes nothing else, makes no exception and names no day or time of its own."""
+    raw = paras[pi]
+    m = mask_groups(raw)
+    if m[s:e] != raw[s:e]:
+        return False   # inside a quotation or brackets
+    if not ITEM_BEFORE.search(m[:des]):
+        return False
+    nxt = ITEM_END.search(m, e)
+    if not ITEM_TAIL.match(OWN_DAY.sub(" @ ", re.sub(r"[«(]_*[»)]", " ", m[e:nxt.start() if nxt else len(m)]))):
+        return False
+    starts = [x.end() for x in SENT_END.finditer(m, 0, s)]
+    a = starts[-1] if starts else 0
+    z = SENT_END.search(m, e)
+    sent = m[a:z.start() if z else len(m)]
+    gov = [sent]
+    if not re.search(r"καταργ", sent):
+        # an item of a list: the paragraphs before it are items too, up to the heading that ends with ':'
+        if a or not re.match(r"\s*" + ITEM_MARK + r"\s", m):
+            return False
+        for j in range(pi - 1, -1, -1):
+            h = mask_groups(paras[j]).rstrip()
+            if h.endswith(":"):
+                hs = [x.end() for x in SENT_END.finditer(h)]
+                gov.append(h[hs[-1] if hs else 0:])
+                break
+            if not re.match(r"\s*" + ITEM_MARK + r"\s", h):
+                return False
+        else:
+            return False
+        if not re.search(r"καταργ", gov[-1]):
+            return False
+    g = " ".join(gov)
+    g = CITE.sub(" @ ", PD_CITE.sub(" @ ", g))
+    g = OWN_DAY.sub(" ", g)
+    return not (CHANGE.search(g) or EXCEPTED.search(g) or TIME_WORDS.search(g))
+
+
+def repeal_title(fp: str, s: int, e: int, des: int) -> bool:
+    """A heading (an article's title, a line of the table of contents) that only names the repeal: 'Κατάργηση του
+    ν. N/YYYY', alone or as one ' - ' segment of the heading."""
+    m = mask_groups(fp)
+    if len(fp) > 400 or m[s:e] != fp[s:e] or SENT_END.search(m[:max(0, len(m) - 2)]):
+        return False
+    a = max([x.end() for x in re.finditer(r"\s[-–]\s", m[:des])] + [0])
+    z = re.compile(r"\s[-–]\s").search(m, e)
+    seg = m[a:z.start() if z else len(m)]
+    return re.fullmatch(r"\s*(?:\d{1,3}\.\s*)?(?:αρθρο\s+\S+\s*:?\s*)?καταργηση\s+(?:(?:του|των)\s+)?(?:διαταξεων\s+του\s+)?"
+                        + re.escape(m[des:e]) + r"\s*(?:[«(]_*[»)]\s*)*\.?\s*", seg) is not None
+
+
+def repeal_items(blocks, docs) -> list[list]:
+    """For each act this issue cites in a passage that can change it: [kind ('law'|'pd'), number, year as written,
+    position of the citing law or decree among this issue's laws and decrees (or None), whether every such citation
+    repeals it as a whole from that one document (headings that only name the repeal aside), the repealing
+    paragraph]."""
+    pos = {}
+    for di, d in enumerate(docs):
+        if d["kind"] in ("law", "pd"):
+            pos[di] = len(pos)
+    found: dict[tuple, list] = {}
+    depth, last_di = 0, None
+    for kind, text, di, ps in blocks:
+        if di != last_di:
+            depth, last_di = 0, di
+        amending = kind == "corrections" or STEMS.search(text)
+        contents = docs[di]["kind"] == "preface" or re.match(r"ΠΕΡΙΕΧΟΜΕΝΑ|ΠΡΟΕΔΡΙΚΑ ΔΙΑΤΑΓΜΑΤΑ", docs[di]["head"])
+        for pi, p in enumerate(ps):
+            quoted = depth > 0
+            depth = max(0, depth + quote_delta(p))
+            if not amending or (contents and re.search(r"\.{5,}", p)):
+                continue   # an entry of the issue's list of contents (a title and its page, with dot leaders)
+            fp = fold(p)
+            hits = []
+            for mm in CITE.finditer(fp):
+                md = LAW_DESIG.search(fp, 0, mm.start())
+                law_like = md is not None and md.end() == mm.start() and not re.search(r"[α-ω]$", fp[:md.start()])
+                hits.append(("law", int(mm.group(1)), mm.group(2), mm.start(), mm.end(), md.start() if law_like else -1))
+            for mm in PD_CITE.finditer(fp):
+                hits.append(("pd", int(mm.group(1)), mm.group(2), mm.start(1), mm.end(), mm.start()))
+            for k, n, y, s, e, des in hits:
+                how = "bad"
+                if kind in ("law", "pd") and des >= 0 and not quoted:
+                    if repeal_title(fp, s, e, des):
+                        how = "title"
+                    elif whole_repeal([fold(x) for x in ps], pi, s, e, des):
+                        how = "repeal"
+                key = (k, n, y)
+                prev = found.setdefault(key, [k, n, y, pos.get(di), True, None])
+                if prev[3] != pos.get(di):
+                    prev[3] = None
+                if how == "bad":
+                    prev[4] = False
+                elif how == "repeal" and prev[5] is None:
+                    prev[5] = p[:400]
+    out = []
+    for v in found.values():
+        ok = v[4] and v[3] is not None and v[5] is not None
+        out.append(v[:4] + [ok, v[5] if ok else None])
     return out
 
 
@@ -726,7 +994,8 @@ def process_issue(dump: dict) -> dict:
     vocab = vocabulary(lines)
     docs = documents(paragraphs(lines, vocab))
     cites, icites, pdcites = set(), set(), set()
-    for kind, text in scan_blocks(docs):
+    blocks = scan_blocks_full(docs)
+    for kind, text, _, _ in blocks:
         if kind != "corrections" and not STEMS.search(text):
             continue
         for m in CITE.finditer(text):
@@ -740,15 +1009,17 @@ def process_issue(dump: dict) -> dict:
     out["cites"] = sorted(cites)
     out["pd_cites"] = sorted(pdcites)
     out["issue_cites"] = sorted(icites)
+    out["repeals"] = repeal_items(blocks, docs)
     for d in docs:
         if d["kind"] not in ("law", "pd"):
             continue
-        paras = d["paras"]
-        end_rx = ORDER if d["kind"] == "law" else PD_ORDER
+        paras = d["paras"] = split_order(d["paras"], d["kind"])
+        end_rx = law_order(paras) if d["kind"] == "law" else PD_ORDER
         i_end = next((i for i, p in enumerate(paras) if end_rx.match(p.t)), len(paras) - 1)
         pages = [p.page for p in paras[:i_end + 1]] or [0]
         r = {"num": d["num"], "kind": d["kind"], "pages": [min(pages), max(pages)],
-             "enacted": next((text_day(p.t) for p in paras[i_end:] if ATHENS.match(p.t) and text_day(p.t)), None)}
+             "enacted": next((text_day(p.t) for p in paras[i_end:]
+                              if (ATHENS.match(p.t) or PLACE_DAY.match(p.t)) and text_day(p.t)), None)}
         try:
             r["title"], r["units"], r["plain"] = law_units(paras, vocab, d["kind"])
         except Hold as h:
@@ -811,8 +1082,8 @@ def main():
     # acts already in other parts of this corpus (built with their history) are not repeated here
     taken = set()
     for p in sorted(PARTS.glob("*.json")):
-        if p.name.startswith("40-nomoi-"):
-            continue
+        if p.name.startswith(("40-nomoi-", "50-diatagmata-")):
+            continue   # this parser's own parts
         for act in json.loads(p.read_text(encoding="utf-8")).get("acts", []):
             m = re.search(r"/(\d{4})01(\d{5})\.pdf$", act.get("url", ""))
             if m:
@@ -911,6 +1182,23 @@ def main():
                 cited_pd[(n, yy)].add(label)
         for y, iss in r["issue_cites"]:
             cited_issue[(y, iss)].add(label)
+    # whole repeals: (kind, number, year) -> {citing issue label: [position of the repealing act, whole repeal?, text]}
+    repeals: dict[tuple, dict] = defaultdict(dict)
+    for key, r in results.items():
+        label = f"Α {key[1]}/{key[0]}"
+        for k, n, y, pos, ok, text in r.get("repeals", []):
+            if k == "law":
+                ly = law_years.get(n)
+                if not (ly and (str(ly) == y or (len(y) == 2 and str(ly)[2:] == y))):
+                    continue
+                ident = ("law", n, ly)
+            else:
+                ident = ("pd", n, int(y) if len(y) == 4 else (2000 + int(y) if int(y) < 50 else 1900 + int(y)))
+            have = repeals[ident].get(label)
+            if have is None:
+                repeals[ident][label] = [pos, ok, text]
+            else:   # the same act cited as a law and as a decree, or with two spellings of the year: all must agree
+                repeals[ident][label] = [have[0] if have[0] == pos else None, have[1] and ok, have[2] or text]
 
     # Acts this parser has already published stay exactly as published: their entries are carried over from the
     # parts written before (or from --keep), whatever this run would read for them.
@@ -932,6 +1220,57 @@ def main():
                 lk = act["first_law"]
                 frozen[act["slug"]] = {"year": int(act["slug"].split("-")[1]), "act": act, "law_key": lk,
                                        "law": part["laws"][lk]}
+    def repeal_version(rep, day: str):
+        """(law key, law entry, version) for the empty version an act gets on the day the law or decree that repeals
+        it as a whole takes effect: that act's own commencement clause, read without exceptions; a stated day
+        counts only when nothing later amends the repealing act (a later act could have moved it)."""
+        lab, (pos, _, text) = rep
+        mi = re.fullmatch(r"Α (\d+)/(\d{4})", lab)
+        rkey = (int(mi.group(2)), int(mi.group(1)))
+        rr = results.get(rkey)
+        meta = issues.get(rkey)
+        if not rr or not meta or pos >= len(rr["laws"]):
+            raise Hold("repealing act not read")
+        rd = rr["laws"][pos]
+        rkind, rn, ry = rd.get("kind", "law"), rd["num"], rkey[0]
+        if rd.get("hold"):
+            raise Hold(f"repealing act unreadable ({rd['hold'][:60]})")
+        facts = {k: set(v) if isinstance(v, list) else v for k, v in facts_of[rkey].items()}
+        span = set(range(rd["pages"][0], rd["pages"][1] + 1))
+        if span & (facts["img_pages"] | facts["empty_pages"] | facts["bilingual_pages"] | facts["latin_pages"]):
+            raise Hold("repealing act has pages with images, no text or other languages")
+        if facts["masthead_num"] not in (None, rkey[1]) or (facts["masthead_day"] and facts["masthead_day"] != meta["issue_date"]):
+            raise Hold("repealing act's masthead differs from the index")
+        enacted = rd["enacted"]
+        if not enacted or enacted > meta["issue_date"]:
+            raise Hold("repealing act's enactment day unreadable")
+        published = meta.get("pub_date") or meta["issue_date"]
+        if published < meta["issue_date"]:
+            raise Hold("repealing act published before its issue day")
+        if "units" not in rd:
+            rd.update(json.loads(gzip.decompress(heavy_path(cache_of[rkey]).read_bytes()).decode("utf-8"))[pos])
+        rday, how = commencement(rd["plain"], published, rkind, meta["issue_date"])
+        if rday < published:
+            raise Hold("repealing act in force before its publication")
+        if "exceptions" in how:
+            raise Hold("repealing act's commencement clause has exceptions")
+        if how != "publication":
+            later = (cited[rn] if rkind == "law" else cited_pd[(rn, ry)]) - {lab}
+            if later:
+                raise Hold(f"repealing act starts on a stated day and is cited later ({sorted(later)[0]})")
+        if rday <= day:
+            raise Hold(f"repeal day {rday} not after the act's own day {day}")
+        rlabel = f"ν. {rn}/{ry}" if rkind == "law" else f"π.δ. {rn}/{ry}"
+        rslug = f"{KIND}-{ry}-{rn}" if rkind == "law" else f"{PD_KIND}-{ry}-{rn}"
+        rlk = f"n-{rn}-{ry}" if rkind == "law" else f"pd-{rn}-{ry}"
+        rurl = BLOB.format(y=ry, n=rkey[1])
+        rlaw = frozen[rslug]["law"] if rslug in frozen else {
+            "label": rlabel, "title": rd["title"], "kind": "law" if rkind == "law" else "decree", "enacted": enacted,
+            "published": published, "url": rurl, "temporary_until": None, "restores": None, "note": None}
+        return rlk, rlaw, {"from": rday, "source_url": rurl, "sha256": facts_of[rkey]["sha256"], "units": {},
+                           "note": f"Repealed as a whole by {rlabel} (ΦΕΚ Α΄ {rkey[1]}/{ry}), in force from {rday} by its "
+                                   f"own commencement clause."}
+
     parts: dict[tuple[str, int], dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     holds = []
     seen = set()
@@ -964,8 +1303,13 @@ def main():
             if re.search(r"κωδικ", fold(title)):
                 raise Hold("code")
             own_others = (cited[n] if kind == "law" else cited_pd[(n, y)]) - {f"Α {iss}/{y}"}
+            rep = None
             if own_others:
-                raise Hold("amended_or_cited:" + ",".join(sorted(own_others)[:6]))
+                # One later text cites it, and only to repeal it as a whole: published with a second, empty version.
+                cand = repeals.get((kind, n, y), {}).get(next(iter(own_others))) if len(own_others) == 1 else None
+                if not (cand and cand[0] is not None and cand[1]):
+                    raise Hold("amended_or_cited:" + ",".join(sorted(own_others)[:6]))
+                rep = (next(iter(own_others)), cand)
             if cited_issue.get(key):
                 raise Hold("erratum:" + ",".join(sorted(cited_issue[key])[:6]))
             tl = timeline.get(key)
@@ -975,7 +1319,7 @@ def main():
                 raise Hold("index_relations_full")
             rel = sorted({f"{lab} ({REL.get(t, t)})" for lab, t, dr in tl["rows"]
                           if str(dr) == "-1" and str(t) in REL and (lab or "").startswith("Α ")})
-            if rel:
+            if rel and not (rep and all(x.split(" (")[0] == rep[0] for x in rel)):
                 raise Hold("index_relation:" + ",".join(rel[:6]))
             facts = {k: set(v) if isinstance(v, list) else v for k, v in facts_of[key].items()}
             span = set(range(d["pages"][0], d["pages"][1] + 1))
@@ -1000,7 +1344,7 @@ def main():
             if "units" not in d:
                 d.update(json.loads(gzip.decompress(heavy_path(cache_of[key]).read_bytes()).decode("utf-8"))[d["_i"]])
             units, plain = d["units"], d["plain"]
-            day, how = commencement(plain, published)
+            day, how = commencement(plain, published, kind, meta["issue_date"])
             if day < published:
                 raise Hold(f"in_force_before_publication:{day}")
             if complete_from is None or y < complete_from:
@@ -1008,6 +1352,12 @@ def main():
             later_blind = [b for b in blind if issues.get(b, {}).get("issue_date", "") >= meta["issue_date"] and b != key]
             if later_blind:
                 raise Hold("later_issue_without_text:" + ",".join(f"{b[1]}/{b[0]}" for b in later_blind[:5]))
+            repeal = None
+            if rep:
+                try:
+                    repeal = repeal_version(rep, day)
+                except Hold as h:
+                    raise Hold(f"amended_or_cited:{rep[0]} (repealed as a whole; no second version: {h})")
         except Hold as h:
             holds.append({"law": label, "issue": f"Α {iss}/{y}", "title": title[:160], "reason": str(h)})
             continue
@@ -1019,10 +1369,17 @@ def main():
         parts[(kind, y)]["laws"][lk] = {"label": label, "title": title, "kind": "law" if kind == "law" else "decree",
                                         "enacted": enacted, "published": published, "url": url,
                                         "temporary_until": None, "restores": None, "note": None}
+        versions = [{"from": day, "source_url": url, "sha256": facts_of[key]["sha256"], "units": units,
+                     "credits": {}, **({"note": note} if note else {})}]
+        if repeal:
+            rlk, rlaw, rversion = repeal
+            parts[(kind, y)]["laws"][rlk] = rlaw
+            versions.append({"from": rversion["from"], "source_url": rversion["source_url"], "sha256": rversion["sha256"],
+                             "units": {}, "credits": {k: [rlk] for k in units}, "note": rversion["note"]})
+            parts[(kind, y)]["repealed"] = parts[(kind, y)].get("repealed", 0) + 1
         parts[(kind, y)]["acts"].append({
             "slug": slug, "short": label, "title": title, "url": url, "first_law": lk, "earlier_laws": [],
-            "versions": [{"from": day, "source_url": url, "sha256": facts_of[key]["sha256"], "units": units,
-                          "credits": {}, **({"note": note} if note else {})}]})
+            "versions": versions})
     for slug, e in frozen.items():
         k = ("law" if slug.startswith(KIND + "-") else "pd", e["year"])
         parts[k]["laws"][e["law_key"]] = e["law"]
@@ -1087,6 +1444,17 @@ def main():
                 "spaces; Latin look-alike letters inside Greek words are mapped to Greek; issues set in the old Greek fonts "
                 "are decoded from Windows-1253. Decrees with images, pages without text or two languages side by side are "
                 "held back."]
+        n_repealed = p.pop("repealed", 0)
+        if n_repealed:
+            p["decisions"].append(
+                f"A {what} repealed as a whole and changed by nothing else gets a second, empty version on the day the "
+                f"repeal takes effect, credited to the repealing act: when the only later ΦΕΚ Α΄ text citing it in a "
+                f"passage that can change it is one law or presidential decree, and every such citation repeals it as a "
+                f"whole ('καταργείται', the {what} alone in its item, no article or part of it named, no exception and no "
+                f"day of its own; a heading 'Κατάργηση του ...' may name it too); when the National Printing Office's index "
+                f"records no other later document changing its issue; and when the repealing act's own commencement clause "
+                f"gives one day without exceptions, after the {what}'s own day (its publication day, or a stated day if no "
+                f"later text amends the repealing act). That day is the repeal day.")
         p["ai_use"] = ["none"]
         f = out_dir / (f"40-nomoi-{y}.json" if kind == "law" else f"50-diatagmata-{y}.json")
         tmp = f.with_suffix(".tmp")
@@ -1094,16 +1462,18 @@ def main():
         tmp.replace(f)
         pub = f.with_suffix(".PUBLISH")
         ptmp = pub.with_suffix(".PUBLISH.tmp")
+        rep_note = (f" {n_repealed} of them repealed as a whole by one later act and changed by nothing else: a second, "
+                    f"empty version on the repealing act's own day, credited to it." if n_repealed else "")
         if kind == "law":
             ptmp.write_text(f"{len(p['acts'])} laws of {y} as published in ΦΕΚ Α΄, each checked by parse_acts.py: article "
                             f"sequence, enacting formula and order to publish, masthead number and day against the official "
                             f"index, commencement clause, no images or textless pages, and no amending citation in any later "
-                            f"ΦΕΚ Α΄ issue (all read to {a.retrieved}).\n", encoding="utf-8", newline="\n")
+                            f"ΦΕΚ Α΄ issue (all read to {a.retrieved}).{rep_note}\n", encoding="utf-8", newline="\n")
         else:
             ptmp.write_text(f"{len(p['acts'])} presidential decrees of {y} as published in ΦΕΚ Α΄, each checked by "
                             f"parse_acts.py: article sequence, decision formula and order to publish, masthead number and day "
                             f"against the official index, commencement clause, no images or textless pages, and no amending "
-                            f"citation in any later ΦΕΚ Α΄ issue (all read to {a.retrieved}).\n", encoding="utf-8",
+                            f"citation in any later ΦΕΚ Α΄ issue (all read to {a.retrieved}).{rep_note}\n", encoding="utf-8",
                             newline="\n")
         ptmp.replace(pub)
         written.append((f.name, len(p["acts"])))
