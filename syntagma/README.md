@@ -129,3 +129,39 @@
 | Άρθρο 119 | [art-119.md](art-119.md) | 1 | 2019-11-28 |
 | Άρθρο 120 | [art-120.md](art-120.md) | 0 |  |
 | Προοίμιο | [prooimio.md](prooimio.md) | 0 |  |
+
+Act id: `syntagma` (tags `syntagma/<day>`; `python tools/on.py <day> syntagma`).
+
+## Decisions made by hand
+
+- Greece's Constitution is built from the Government Gazette alone: no official consolidated text exists, and each revision resolution ordered the whole text republished, so the history is the three whole-text republications that have a text layer (ΦΕΚ Α΄ 85/2001, 120/2008, 211/2019) and the two revision resolutions between them (Α΄ 102/2008, 187/2019).
+- The 1975 text (ΦΕΚ Α΄ 111/1975) and the 1986 issue fetched (Α΄ 23/1986) are page-image scans with no text layer; by the no-OCR rule they are not read, so the history starts with the 2001 text, credited to the publisher as the oldest version available. Their issue numbers could not be checked against the scans; the 1986 demotic text is cited as ΦΕΚ Α΄ 24/14.3.1986 by the 2001, 2008 and 2019 resolutions.
+- Each revision is two versions: on the day its resolution was published, the text before it with only the revised articles changed, a revised paragraph in the resolution's own quoted words (clause Γ: they are the only authentic text of revised provisions); then, on the republication day, the whole republished text, its own differences credited to the republication issue (kind publisher). Lexifina's code stops if a changed paragraph in a revised article matches no quotation of the resolution (similarity under 0.9).
+- The articles each resolution revises are read from its part A: 2008: arts. 57, 79, 101, 115; 2019: arts. 21, 32, 54, 62, 68, 73, 86, 96, 101Α, 112, 113, 114, 115, 119. The diffs change exactly these articles, and the publisher's asterisks in the republications (*** for 2008, **** for 2019) mark the same articles, except 115 (2008: paragraphs deleted and renumbered; 2019: repealed whole).
+- The 2019 resolution's own text of art. 32(4) reads "εκλέγειται" (a misprint); the revision day keeps it and the 2019 republication's "εκλέγεται" is credited to the republication.
+- The 2019 resolution says the whole 2008 text was published in ΦΕΚ Α΄ 102/2.6.2008; that issue holds only the resolution, and the whole text is ΦΕΚ Α΄ 120/27.6.2008 (its masthead and its order cite the 2008 resolution).
+- Repealed provisions read as the 2019 republication marks them, e.g. "(Το άρθρο 113 καταργείται.)", from the revision day: the note states only the repeal.
+- One file per article (art-NNN; 5Α is art-005-a), one paragraph or list item per line, starting with the line "Άρθρο N" as printed. The part, section and chapter headings that open an article are the lines before it in that article's file, so the files read in order give the whole text. Interpretive declarations ("Ερμηνευτική δήλωση") stay in their article. The preamble is prooimio.md.
+- Text normalisation, done once in Lexifina's code: the 2001 issue's legacy font holds Windows-1253 bytes (its byte 0x88 is the ano teleia); Latin look-alike letters set inside Greek words (A, o, ...) become Greek; numeral signs and apostrophes become ’; straight double quotes become «»; spaced dashes become –; words broken at a line end are joined; the publisher's asterisks are removed.
+- Paragraph breaks come from the PDF line geometry: a paragraph starts at an indented line. Lines spanning both columns (mastheads, the President of Parliament's order, footnotes), running headers, page numbers and lines smaller than the body type are not text.
+- The newest version is the current official text: it is the whole-text republication ΦΕΚ Α΄ 211/24.12.2019 itself, and the Hellenic Parliament's constitutional-history page, captured 4 October 2026, lists the 2019 revision as the latest (the fourth revision of the 1975 Constitution).
+- Phase 1 scope: the Constitution first. ν. 4624/2019 (personal data) and the Penal Code need every amending law replayed from the Gazette; see PROGRESS.md.
+- Parse log: 2008 art-057: unrevised paragraph kept; the republication differs slightly: τητας ή με ασυμβίβαστη προς το αξίωμά του ιδιότητα
+- Parse log: 2008 art-101: resolution wording used (0.995); the republication reads differently
+- Parse log: 2008 art-101: repeal note kept: (Η ερμηνευτική δήλωση στο άρθρο 101 καταργείται).
+- Parse log: 2008 art-115: renumbered paragraph: 2. Ώσπου να αρχίσει να ισχύει
+- Parse log: 2008 art-115: renumbered paragraph: 3. Ώσπου να αρχίσει να ισχύει
+- Parse log: 2008 art-115: renumbered paragraph: 4. Ώσπου να αρχίσουν να ισχύου
+- Parse log: 2019 art-021: resolution wording used (0.998); the republication reads differently
+- Parse log: 2019 art-032: resolution wording used (0.999); the republication reads differently
+- Parse log: 2019 art-054: resolution wording used (0.983); the republication reads differently
+- Parse log: 2019 art-096: resolution wording used (0.996); the republication reads differently
+- Parse log: 2019 art-112: repeal note kept: 4. (Η παράγραφος 4 καταργείται).
+- Parse log: 2019 art-113: repeal note kept: (Το άρθρο 113 καταργείται.)
+- Parse log: 2019 art-114: repeal note kept: (Το άρθρο 114 καταργείται.)
+- Parse log: 2019 art-115: repeal note kept: (Το άρθρο 115 καταργείται.)
+- Parse log: 2019 art-119: repeal note kept: 1. (Η παράγραφος 1 καταργείται).
+- Parse log: 2001 -> 2008 revision: art-057, art-079, art-101, art-115
+- Parse log: 2008 revision -> 2008 republication: art-037, art-042, art-049, art-057, art-088, art-090, art-091, art-093, art-094, art-095, art-101, art-107, art-118
+- Parse log: 2008 republication -> 2019 revision: art-021, art-032, art-054, art-062, art-068, art-073, art-086, art-096, art-101-a, art-112, art-113, art-114, art-115, art-119
+- Parse log: 2019 revision -> 2019 republication: art-021, art-032, art-037, art-042, art-049, art-054, art-057, art-093, art-094, art-096, art-101, art-118
