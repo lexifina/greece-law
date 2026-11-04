@@ -84,3 +84,23 @@
 | Άρθρο 78 | [art-078.md](art-078.md) | 0 |  |
 | Άρθρο 79 | [art-079.md](art-079.md) | 0 |  |
 | Άρθρο 80 | [art-080.md](art-080.md) | 0 |  |
+
+Act id: `nomos-5218-2025` (tags `nomos-5218-2025/<day>`; `python tools/on.py <day> nomos-5218-2025`).
+
+## Decisions made by hand
+
+- ν. 5218/2025 (training for public procurement staff, public contracts and other provisions) is given as published in ΦΕΚ Α΄ 125/2025, then with each later amendment, read in the amending law's own Gazette issue: 64/2026 (ν. 5297/2026); 103/2026 (ν. 5314/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2025 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, whose Α΄ rows are ΦΕΚ Α΄ 64/2026, Α΄ 103/2026 and Α΄ 114/2026 (its Β΄ and Γ΄ rows are a ministerial decision and an appointment, which do not amend a statute). Amending: ν. 5297/2026 arts. 243 and 251 (ΦΕΚ Α΄ 64/2026) and ν. 5314/2026 art. 773 par. Β no. 2 (ΦΕΚ Α΄ 103/2026; ν. 5321/2026 art. 54, ΦΕΚ Α΄ 114/2026, restates that list with no. 2 unchanged). Issues after Α΄ 177/2026 were searched only through the official index.
+- Art. 53 sets out the statute of «Εθνικό Σύστημα Διαπίστευσης Α.Ε.» in full, so ν. 5297/2026 art. 251, which amends par. 3 of art. ενδέκατο of that statute ("ratified by art. 53 of ν. 5218/2025"), changes the words of art. 53 and is applied there.
+- The table of teaching posts in art. 77 is read row by row from the table rules printed in the Gazette: each row is one line, its cells left to right (branch, speciality, number of posts); a branch with two specialities gives each its own number of posts.
+- A repealed paragraph is removed from the day the repeal takes effect, as elsewhere in the corpus.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5218/2025 is dated 2025-07-14, the date on the issue's masthead: its commencement article (art-080) reads «1. Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις του και με την επιφύλαξη των παρ. 2 και 3. 2. Η ισχύς των άρθρων 11 έως 18 και 20 αρχίζει από την 1η Οκτωβρίου 2025. 3. Η ισχύς του άρθρου 7, περί κινήτρων για τους εγγεγραμμένους στο Μητρώο Επαγγελματιών Δημοσίων Συμβάσεων υπαλλήλους, αρχίζει από την 1η Ιανουαρίου 2026.». Provisions it starts later are shown from publication.
+- ν. 5218/2025: art-049: quotation without a closing » before Άρθρο 50; art-061: quotation without a closing » before Άρθρο 62 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5297/2026 art. 257: in force on publication; arts. 243 and 251 give no day of their own
+- Parse log: ν. 5297/2026 art. 243: art-071 restated (5 lines -> 5); 2 described change(s) checked; instruction: Στο άρθρο 71 του ν. 5218/2025 (Α’ 125), περί διευθέτησης έργων στο Πρόγραμμα Δημοσίων Επενδύσεων για Βιομηχανικές και Επ
+- Parse log: ν. 5297/2026 art. 251: art-053 3. (after 'Άρθρο ενδέκατο') restated (1 line(s) -> 1); 1 described change(s) checked
+- Parse log: ν. 5314/2026 art. 774 pars. 2-4 do not date art. 773; ν. 5321/2026 art. 54 replaces art. 773 (corrections) and its par. Β no. 2 repeals art. 31 par. 4 of ν. 5218/2025 in the same words, so it changes nothing here
+- Parse log: ν. 5314/2026 art. 773 par. Β no. 2: art-031 par. 4 repealed (removed, 2 line(s))
+- Restated wording: ν. 5297/2026 art. 251: the restatement reads «των» where the described change gives «της». Statute art. ενδέκατο par. 3: «της αναγκών» (a misprint) reads «των αναγκών» in the restatement, which (ν. 5297/2026's own text) governs and is used as printed.

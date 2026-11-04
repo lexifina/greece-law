@@ -34,3 +34,12 @@
 | Άρθρο 28 | [art-028.md](art-028.md) | 0 |  |
 | Άρθρο 29 | [art-029.md](art-029.md) | 0 |  |
 | Άρθρο 30 | [art-030.md](art-030.md) | 0 |  |
+
+Act id: `nomos-4800-2021` (tags `nomos-4800-2021/<day>`; `python tools/on.py <day> nomos-4800-2021`).
+
+## Decisions made by hand
+
+- ν. 4800/2021 (parent-child relations, other family law matters and other urgent provisions) is given as published in ΦΕΚ Α΄ 81/2021, in two versions (its own two start days): no later law amends it. Amending laws were looked for in three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2021 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading; the ΦΕΚ Α΄ issues of 2026 that legalize-gr lacks (58-127, 143, 144, 147, 148, 174 and 175), read in the Gazette PDFs themselves, every mention read by hand; and the timeline of the official search.et.gr index for the issue, fetched on 2026-11-02, whose only later rows are Γ΄ issues (appointments, which do not amend a statute). The scan finds one mention: ΦΕΚ Α΄ 114/2022 cites a provision of another law "as supplemented by art. 23 of ν. 4800/2021", a reference only. None amends ν. 4800/2021. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 4800/2021 starts in two steps, by its own commencement article (art-030): «Η ισχύς του παρόντος αρχίζει από τις 16.9.2021, εξαιρουμένων των άρθρων 4, 16, 17, 20, 21, 22 και του Κεφαλαίου Ζ’, η ισχύς των οποίων αρχίζει από τη δημοσίευση του παρόντος.» So the first version (2021-05-21, publication, the date on the issue's masthead) holds only the articles in force then: arts. 4, 16, 17, 20, 21 and 22 and Chapter Ζ’ (arts. 23-29) are in force on publication; art. 30 (Chapter Η’, the commencement article) is shown from publication too, since it is the provision that starts those articles on that day. The other 16 articles are added on 2021-09-16, credited to the law itself.
+- ν. 4800/2021: the table in art-023 is set in small type with no rules; it is read row by row (17 rows), each row one line: the cell of the first column, then the number of posts.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

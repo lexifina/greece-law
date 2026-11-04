@@ -28,3 +28,11 @@
 | Άρθρο 22 | [art-022.md](art-022.md) | 0 |  |
 | Άρθρο 23 | [art-023.md](art-023.md) | 0 |  |
 | Άρθρο 24 | [art-024.md](art-024.md) | 0 |  |
+
+Act id: `nomos-5173-2025` (tags `nomos-5173-2025/<day>`; `python tools/on.py <day> nomos-5173-2025`).
+
+## Decisions made by hand
+
+- ν. 5173/2025 (the national trauma system) is given as published in ΦΕΚ Α΄ 11/2025, its only version: no later law amends it. Amending laws were looked for in two ways: a full-text scan of every ΦΕΚ Α΄ issue from the law's year to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading, and the official search.et.gr relation index for the issue (legalize-gr's `amended_by` field, which lists no Α΄ issue). Neither finds any. legalize-gr lacks the ΦΕΚ Α΄ issues 58-127, 143, 144, 147, 148, 174 and 175 of 2026; those were read in the Gazette PDFs themselves and every mention of the law in them checked by hand: none amends it. The timeline of the official index for the issue, fetched on 2026-11-01, lists no Α΄ issue as amending it. Issues after Α΄ 177/2026 were not searched.
+- ν. 5173/2025 is dated 2025-01-30, the date on the issue's masthead: its commencement article (art-024) reads «1. Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, με την επιφύλαξη των παρ. 2 και 3. 2. Η ισχύς των άρθρων 18, 19 και 20 αρχίζει την 9η.02.2025. 3. Η ισχύς του άρθρου 23, περί της διασφάλισης των πιστώσεων υγειονομικής περίθαλψης των στρατιωτικών νοσοκομείων, αρχίζει από την 1η Ιανουαρίου 2025.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

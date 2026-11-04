@@ -55,3 +55,13 @@
 | Άρθρο 49 | [art-049.md](art-049.md) | 0 |  |
 | Άρθρο 50 | [art-050.md](art-050.md) | 0 |  |
 | Άρθρο 51 | [art-051.md](art-051.md) | 0 |  |
+
+Act id: `nomos-4960-2022` (tags `nomos-4960-2022/<day>`; `python tools/on.py <day> nomos-4960-2022`).
+
+## Decisions made by hand
+
+- ν. 4960/2022 (the national guardianship system for unaccompanied minors, their accommodation and other provisions) is given as published in ΦΕΚ Α΄ 145/2022, its only version: no later law amends it. Amending laws were looked for in three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2022 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading; the ΦΕΚ Α΄ issues of 2026 that legalize-gr lacks (58-127, 143, 144, 147, 148, 174 and 175), read in the Gazette PDFs themselves, every mention read by hand; and the timeline of the official search.et.gr index for the issue, fetched on 2026-11-02, whose later rows are Β΄ issues (ministerial decisions), which do not amend a statute. The scan finds five mentions, each read by hand: ν. 5003/2022 art. 139 (ΦΕΚ Α΄ 230/2022), restated by ν. 5043/2023 art. 65 (ΦΕΚ Α΄ 91/2023), extends how long art. 41 pars. 2 and 3 keep earlier prosecutors' orders in force, without changing its words; presidential decree 20/2023 (ΦΕΚ Α΄ 43/2023) and ν. 5187/2025 arts. 14 and 28 (ΦΕΚ Α΄ 48/2025) refer to it only. None amends ν. 4960/2022. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 4960/2022 is dated 2022-07-22, the date on the issue's masthead: its commencement article (art-051) reads «Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.». Provisions it starts later are shown from publication.
+- ν. 4960/2022: art-011: quotation without a closing » before Άρθρο 12 (in the issue text layer); the next article of the law itself closes it.
+- ν. 4960/2022: art-017: a closing » with no opening « (in «4. Ο ορισμός επιτρόπου ασυνόδε…»): the issue prints no opening « for that quotation, so its text is read as quoted up to that closing ».
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

@@ -48,3 +48,12 @@
 | Άρθρο 42 | [art-042.md](art-042.md) | 0 |  |
 | Άρθρο 43 | [art-043.md](art-043.md) | 0 |  |
 | Άρθρο 44 | [art-044.md](art-044.md) | 0 |  |
+
+Act id: `nomos-5111-2024` (tags `nomos-5111-2024/<day>`; `python tools/on.py <day> nomos-5111-2024`).
+
+## Decisions made by hand
+
+- ν. 5111/2024 (consumer protection and other provisions) is given as published in ΦΕΚ Α΄ 76/2024, its only version: no later law amends it. Amending laws were looked for in two ways: a full-text scan of every ΦΕΚ Α΄ issue from the law's year to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading, and the official search.et.gr relation index for the issue (legalize-gr's `amended_by` field, which lists no Α΄ issue). Neither finds any. legalize-gr lacks the ΦΕΚ Α΄ issues 58-127, 143, 144, 147, 148, 174 and 175 of 2026; those were read in the Gazette PDFs themselves and every mention of the law in them checked by hand: none amends it. The timeline of the official index for the issue, fetched on 2026-11-02, lists no Α΄ issue as amending it. Issues after Α΄ 177/2026 were not searched.
+- ν. 5111/2024 is dated 2024-05-24, the date on the issue's masthead: its commencement article (art-044) reads «Η ισχύς του παρόντος εκκινεί από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται ειδικότερα.». Provisions it starts later are shown from publication.
+- ν. 5111/2024: art-007: quotation without a closing » before Άρθρο 8; art-031: quotation without a closing » before Άρθρο 32 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

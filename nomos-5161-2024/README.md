@@ -54,3 +54,22 @@
 | Άρθρο 48 | [art-048.md](art-048.md) | 1 | 2025-10-31 |
 | Άρθρο 49 | [art-049.md](art-049.md) | 0 |  |
 | Άρθρο 50 | [art-050.md](art-050.md) | 0 |  |
+
+Act id: `nomos-5161-2024` (tags `nomos-5161-2024/<day>`; `python tools/on.py <day> nomos-5161-2024`).
+
+## Decisions made by hand
+
+- ν. 5161/2024 (the National Health System and the monitoring of pharmaceutical expenditure) is given as published in ΦΕΚ Α΄ 196/2024, then with each later amendment, read in the amending law's own Gazette issue: 207/2024 (ν. 5167/2024); 187/2025 (ν. 5243/2025).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2024 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention of the law read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, whose later Α΄ rows are ΦΕΚ Α΄ 207/2024 and Α΄ 187/2025 (its Β΄, Γ΄ and Υ.Ο.Δ.Δ. rows are ministerial decisions and appointments, which do not amend a statute). Amending: ν. 5167/2024 art. 39 (ΦΕΚ Α΄ 207/2024), which replaces art. 6 par. 1, and ν. 5243/2025 arts. 22 and 107 (ΦΕΚ Α΄ 187/2025), which restate art. 22 and replace art. 48 par. 1. Issues after Α΄ 177/2026 were searched only through the official index.
+- Several later laws move or extend time limits that ν. 5161/2024 sets, without changing its words: ν. 5167/2024 art. 37 par. 8 item β) (the time limits of art. 27 par. 1 items ζ) and η) and par. 3 item β)); ΦΕΚ Α΄ 49/2025, Α΄ 118/2025 art. 42 and Α΄ 228/2025 art. 250 extend again measures that art. 27 or art. 44 had extended; ν. 5243/2025 art. 57 par. 4 makes an exception to art. 6. None names words of ν. 5161/2024, so they are recorded here rather than as versions.
+- ν. 5161/2024 art. 50 par. 2 starts art. 13 on 1 January 2024, before the law was published; it is shown from publication.
+- ν. 5243/2025 art. 22 adds a second sentence to art. 22 par. 1 and replaces its pars. 2 and 4 without quoting them apart: they are taken from the restated article.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5161/2024 is dated 2024-11-29, the date on the issue's masthead: its commencement article (art-050) reads «1. Με την επιφύλαξη της παρ. 2 η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις του. 2. Η ισχύς του άρθρου 13 αρχίζει από την 1η.1.2024.». Provisions it starts later are shown from publication.
+- ν. 5161/2024: art-027: quotation without a closing » before Άρθρο 28; art-031: quotation without a closing » before Άρθρο 32; art-047: quotation without a closing » before Άρθρο 48 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5167/2024 art. 54: in force on publication; art. 39 gives no day of its own
+- Parse log: ν. 5167/2024 art. 39: art-006 par. 1 restated (6 line(s) -> 3); 1 described change(s) checked
+- Parse log: ν. 5243/2025 art. 117: in force on publication; pars. 2-3 date arts. 50 and 62 only; arts. 22 and 107 give no day of their own
+- Parse log: ν. 5243/2025 art. 22: art-022 restated (6 lines -> 6); 7 described change(s) checked; instruction: Στο άρθρο 22 του ν. 5161/2024 (Α’ 196), περί ένταξης του Ενιαίου Δημοσιογραφικού Οργανισμού Επικουρικής Ασφάλισης Περίθα
+- Parse log: ν. 5243/2025 art. 107: art-048 par. 1 restated (1 line(s) -> 1); 1 described change(s) checked

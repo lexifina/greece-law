@@ -62,3 +62,21 @@
 | Άρθρο 60 | [art-060.md](art-060.md) | 0 |  |
 | Άρθρο 61 | [art-061.md](art-061.md) | 0 |  |
 | Άρθρο 62 | [art-062.md](art-062.md) | 0 |  |
+
+Act id: `nomos-5075-2023` (tags `nomos-5075-2023/<day>`; `python tools/on.py <day> nomos-5075-2023`).
+
+## Decisions made by hand
+
+- ν. 5075/2023 (restructuring of civil protection and the national air rescue and medical transport mechanism) is given as published in ΦΕΚ Α΄ 206/2023, then with each later amendment, read in the amending law's own Gazette issue: 202/2024 (ν. 5164/2024); 28/2026 (ν. 5281/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2023 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, which lists ΦΕΚ Α΄ 202/2024 only ("Ακύρωση"). Amending: ν. 5164/2024 art. 83 περ. α) and ν. 5281/2026 art. 124 περ. στ)-η) (repeals, the second of which the index does not list). In ΦΕΚ Α΄ 202/2024 the restated commencement paragraphs 2 and 3 just before art. 83 belong to art. 82, which corrects ν. 5140/2024, not ν. 5075/2023. The 2026 issues read in the PDFs do not mention it. Issues after Α΄ 177/2026 were searched only through the official index.
+- A repealed article or paragraph is removed from the day the repeal takes effect, as elsewhere in the corpus; art. 21 loses par. 1 in 2024 and the rest of the article in 2026.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5075/2023 is dated 2023-12-12, the date on the issue's masthead: its commencement article (art-062) reads «Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5164/2024 art. 84 par. 2 dates art. 77 only
+- Parse log: ν. 5164/2024 art. 83 περ. α): art-019 repealed (removed)
+- Parse log: ν. 5164/2024 art. 83 περ. α): art-021 par. 1 repealed (removed, 1 line(s))
+- Parse log: ν. 5281/2026 art. 149: the two exceptions (art. 107 par. 2, art. 133 par. 2) date provisions of ν. 4662/2020 and ν. 4797/2021, so its Part Β, whose start art. 124 names, starts on publication
+- Parse log: ν. 5281/2026 art. 124 περ. στ): art-020 repealed (removed)
+- Parse log: ν. 5281/2026 art. 124 περ. ζ): art-021 repealed (removed)
+- Parse log: ν. 5281/2026 art. 124 περ. η): art-034 repealed (removed)

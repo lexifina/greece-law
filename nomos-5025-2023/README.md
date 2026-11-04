@@ -32,3 +32,12 @@
 | Άρθρο 26 | [art-026.md](art-026.md) | 0 |  |
 | Άρθρο 27 | [art-027.md](art-027.md) | 0 |  |
 | Άρθρο 28 | [art-028.md](art-028.md) | 0 |  |
+
+Act id: `nomos-5025-2023` (tags `nomos-5025-2023/<day>`; `python tools/on.py <day> nomos-5025-2023`).
+
+## Decisions made by hand
+
+- ν. 5025/2023 (the institutional framework of sport) is given as published in ΦΕΚ Α΄ 42/2023, its only version: no later law amends it. Amending laws were looked for in three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2023 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading; the ΦΕΚ Α΄ issues of 2026 that legalize-gr lacks (58-127, 143, 144, 147, 148, 174 and 175), read in the Gazette PDFs themselves; and the timeline of the official search.et.gr index for the issue, fetched on 2026-11-02, which lists no Α΄ issue against it. The scan finds only Α΄ 118/2024 (ν. 5128/2024), whose art. 83 replaces par. 9 of art. 34 of ν. 2725/1999 and names art. 11 of ν. 5025/2023 (an earlier amendment of that article) for applications made under it: the text of ν. 5025/2023 itself is not changed. In the 2026 issues read in the PDFs, the one mention, Α΄ 64/2026 art. 115, dates the start of articles of ν. 4442/2016 by the publication of ν. 5025/2023. None amends ν. 5025/2023. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 5025/2023 is dated 2023-02-24, the date on the issue's masthead: its commencement article (art-028) reads «1. Με την επιφύλαξη της παρ. 2, η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. 3. Η ισχύς της περ. β’ της παρ. 3 του άρθρου 24 του ν. 4373/2016 (Α’ 49), ως προς την κύρωση της αυτοδίκαιης έκπτωσης των μελών του Διοικητικού Συμβουλίου αθλητικού φορέα, το οποίο δεν εισάγει ή δεν επικαιροποιεί στο ηλεκτρονικό μητρώο αθλητικών φορέων τα απαιτούμενα στοιχεία εντός των οριζόμενων προθεσμιών, αρχίζει από την 1η.1.2024.». Provisions it starts later are shown from publication.
+- ν. 5025/2023: art-004: quotation without a closing » before Άρθρο 5; art-009: quotation without a closing » before Άρθρο 10 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

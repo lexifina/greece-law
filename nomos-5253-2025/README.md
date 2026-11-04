@@ -47,3 +47,12 @@
 | Άρθρο 41 | [art-041.md](art-041.md) | 0 |  |
 | Άρθρο 42 | [art-042.md](art-042.md) | 0 |  |
 | Άρθρο 43 | [art-043.md](art-043.md) | 0 |  |
+
+Act id: `nomos-5253-2025` (tags `nomos-5253-2025/<day>`; `python tools/on.py <day> nomos-5253-2025`).
+
+## Decisions made by hand
+
+- ν. 5253/2025 (the organisation of the public broadcaster ERT S.A.) is given as published in ΦΕΚ Α΄ 212/2025, its only version: no later law changes its words. Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2025 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-01, which lists ΦΕΚ Α΄ 122/2026 only (below). Issues after Α΄ 177/2026 were not searched.
+- Dated start: ν. 5253/2025 art. 43 par. 2 starts paras. 1-15 of art. 6Α of ν. 4173/2013, as added by its art. 8 (the procedure for collecting the public broadcasting fee), on 1 September 2026; ν. 5325/2026 art. 67 (ΦΕΚ Α΄ 122/31.7.2026) moves that start to 1 January 2027, except art. 6Α par. 3 περ. ε) as replaced by ν. 5308/2026 art. 35 (ΦΕΚ Α΄ 91/2026). This changes no words of ν. 5253/2025, so it is not a version; art. 8 reads as published throughout. ν. 5308/2026 art. 35 replaces that item in ν. 4173/2013 itself and does not amend ν. 5253/2025.
+- ν. 5253/2025 is dated 2025-11-25, the date on the issue's masthead: its commencement article (art-043) reads «1. Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, με την επιφύλαξη της παρ. 2. 2. Η ισχύς των παρ. 1 έως 15 του άρθρου 6Α του ν. 4173/2013 (Α’ 169), όπως προστίθενται με το άρθρο 8 του παρόντος, αρχίζει την 1η Σεπτεμβρίου 2026.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

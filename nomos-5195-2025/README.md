@@ -97,3 +97,25 @@
 | Άρθρο 91 | [art-091.md](art-091.md) | 0 |  |
 | Άρθρο 92 | [art-092.md](art-092.md) | 0 |  |
 | Άρθρο 93 | [art-093.md](art-093.md) | 0 |  |
+
+Act id: `nomos-5195-2025` (tags `nomos-5195-2025/<day>`; `python tools/on.py <day> nomos-5195-2025`).
+
+## Decisions made by hand
+
+- ν. 5195/2025 (military hospitals, the staff of the Armed Forces and other provisions of the Ministry of National Defence) is given as published in ΦΕΚ Α΄ 73/2025, then with each later amendment, read in the amending law's own Gazette issue: 228/2025 (ν. 5259/2025); 74/2026 (ν. 5301/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2025 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention of the law read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, whose later Α΄ rows are ΦΕΚ Α΄ 228/2025 and 74/2026 (its Β΄, Γ΄, Δ.Δ.Σ. and Α.Σ.Ε.Π. rows are decisions and notices, which do not amend a statute). Amending: ν. 5259/2025 art. 255 (ΦΕΚ Α΄ 228/2025) and ν. 5301/2026 art. 102 (ΦΕΚ Α΄ 74/2026). ΦΕΚ Α΄ 134/2026 art. 36 par. 2 extends again, to 31 October 2027, the contracts that art. 86 pars. 1 and 2 extended, without changing words of ν. 5195/2025; ΦΕΚ Α΄ 187/2025 arts. 106 and 115, 3/2026 arts. 89 and 283 and 117/2026 art. 71 refer to it only. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 5195/2025 art. 93 starts art. 74 par. 1 thirty days after publication and art. 92 par. 2 on 4.8.2026 (and an amendment of ν. 2936/2001 on 1.1.2026); as in the other Greek parts, those provisions are shown from publication, and these later starts are recorded here.
+- ν. 5301/2026 art. 102 par. 2 places its addition after the words «σύμφωνα με τις παραγράφους 1, 2,»; the text of art. 78 par. 6 reads «σύμφωνα με τις παρ. 1, 2,». The restated par. 6 also writes out «της Ελληνικής Αεροπορικής Βιομηχανίας (Ε.Α.Β.) Α.Ε.» where it read «της Ε.Α.Β. Α.Ε.»: the restatement is the amending law's own text and governs.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5195/2025 is dated 2025-05-09, the date on the issue's masthead: its commencement article (art-093) reads «1. Με την επιφύλαξη των παρ. 2, 3 και 4, η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. 2. Η ισχύς της περ. β) της παρ. 1 του άρθρου 2 του ν. 2936/2001 (Α’ 166), όπως τροποποιείται με το άρθρο 71 του παρόντος, αρχίζει την 1η.1.2026. 3. Η ισχύς της παρ. 1 του άρθρου 74 αρχίζει τριάντα (30) ημέρες από τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως. 4. Η ισχύς της παρ. 2 του άρθρου 92 αρχίζει στις 4.8.2026.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5259/2025: art. 255 lies in Ενότητα III
+- Parse log: ν. 5259/2025 art. 255: in force on publication (art. 268 par. 3, Ενότητα III; pars. 4-8 do not name art. 255)
+- Parse log: ν. 5259/2025 art. 255: art-086 restated (6 lines -> 6); 2 described change(s) checked; instruction: Στις παρ. 1 και 2 του άρθρου 86 του ν. 5195/2025 (Α’ 73), περί παράτασης συμβάσεων εργασίας προσωπικού Ιδιωτικού Δικαίου
+- Parse log: ν. 5301/2026: art. 102 lies in ΜΕΡΟΣ ΣΤ’
+- Parse log: ν. 5301/2026 art. 102: in force on publication (art. 127 par. 1; art. 102 lies in Part ΣΤ’, which pars. 2-6 do not date)
+- Parse log: ν. 5301/2026 art. 102 par. 1: art-078 par. 5 restated (1 line(s) -> 1); 2 described change(s) checked
+- Parse log: ν. 5301/2026 art. 102 par. 2: the instruction places its addition after «σύμφωνα με τις παραγράφους 1, 2,»; the text reads «σύμφωνα με τις παρ. 1, 2,»
+- Parse log: ν. 5301/2026 art. 102 par. 2: art-078 par. 6 restated (1 line(s) -> 1); 1 described change(s) checked
+- Restated wording: ν. 5301/2026 art. 102 par. 2: the restatement reads «ελληνικής αεροπορικής βιομηχανίας» where the described change gives «». Not among the listed changes (ν. 5301/2026 art. 102 par. 2 lists only the added «3,»): the restated par. 6 is the amending law’s own text and governs.
+- Restated wording: ν. 5301/2026 art. 102 par. 2: the restatement reads «παραγράφους» where the described change gives «παρ». Not among the listed changes (ν. 5301/2026 art. 102 par. 2 lists only the added «3,»): the restated par. 6 is the amending law’s own text and governs.

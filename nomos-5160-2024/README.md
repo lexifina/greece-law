@@ -49,3 +49,21 @@
 | Άρθρο 43 | [art-043.md](art-043.md) | 0 |  |
 | Άρθρο 44 | [art-044.md](art-044.md) | 0 |  |
 | Άρθρο 45 | [art-045.md](art-045.md) | 0 |  |
+
+Act id: `nomos-5160-2024` (tags `nomos-5160-2024/<day>`; `python tools/on.py <day> nomos-5160-2024`).
+
+## Decisions made by hand
+
+- ν. 5160/2024 is built from the Government Gazette alone: the act as published (ΦΕΚ Α΄ 195/2024) and the one law that amends it, read in its own issue (ΦΕΚ Α΄ 223/2025). Greece publishes no official consolidated text.
+- Amending laws were looked for three ways: (1) a full-text scan of every ΦΕΚ Α΄ issue from 2024 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd) for an article naming a provision of ν. 5160/2024 outside a quotation with an amending verb or heading: it finds only Α΄ 223/2025; (2) legalize-gr's `amended_by` field for Α΄ 195/2024, copied from the official search.et.gr index: Α΄ 223/2025 only; (3) the official index's timeline for the issue: Α΄ 223/2025 (Τροποποίηση) and Α΄ 175/2025 (Ακύρωση). Α΄ 175/2025 (ν. 5236/2025, critical entities) was read in full: it cites ν. 5160/2024 but amends none of its provisions.
+- Annexes I and II of ν. 5160/2024 (the sectors of high criticality and the other critical sectors) are printed in the issue in a font whose text layer maps to no characters, so they cannot be read without OCR and are left out; the articles that refer to them are complete.
+- Units are articles (art-NNN). An article's text is the chapter and part headings that open it, "Άρθρο N", its title on one line, then one paragraph or lettered item per line, as in the ν. 4624/2019 part.
+- Each version is dated by the law's own commencement clause (see the parse log): publication, the date on the issue's masthead. Art. 3 par. 2 περ. στ) υποπερ. στβ) of ν. 5160/2024 applies one year after publication (art. 45 par. 2); its words are part of the act from publication, so it is shown from then.
+- Where ν. 5256/2025 describes a word change and then restates the paragraph, the restated text is used and the parse checks that the described change applied to the old paragraph gives it; small wording differences the restatement makes on its own are listed below.
+- Parse log: ν. 5160/2024 art. 45: in force on publication, save art. 3 par. 2 περ. στ) υποπερ. στβ) (one year after publication)
+- Parse log: ν. 5256/2025 art. 49: in force on publication, save Part Α chapter Δ; arts. 30 and 31 are in Part Β
+- Parse log: Α΄ 195/2024: articles 1-45 read (603 lines); the text stops after art. 45 (paragraph 677 of 1280): Annexes I and II follow without a usable text layer
+- Parse log: ν. 5256/2025 art. 30: art. 3 par. 8Α added after par. 8 (before '9. ')
+- Parse log: ν. 5256/2025 art. 31 par. 1 (art-024 par. 9): «ασκούν» -> «ασκεί», paragraph restated (1 line(s) -> 1)
+- Parse log: ν. 5256/2025 art. 31 par. 2 (art-026 par. 4): «σημαντική» -> «βασική», paragraph restated (1 line(s) -> 1)
+- Parse log: ν. 5256/2025 art. 31 par. 3 (art-026 par. 9): «των παρ. 2 και 4» -> «της παρ. 2», paragraph restated (9 line(s) -> 9)

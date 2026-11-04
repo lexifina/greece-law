@@ -48,3 +48,26 @@
 | Άρθρο 40Α | [art-040-a.md](art-040-a.md) | 1 | 2026-07-24 |
 | Άρθρο 41 | [art-041.md](art-041.md) | 0 |  |
 | Άρθρο 42 | [art-042.md](art-042.md) | 0 |  |
+
+Act id: `nomos-5178-2025` (tags `nomos-5178-2025/<day>`; `python tools/on.py <day> nomos-5178-2025`).
+
+## Decisions made by hand
+
+- ν. 5178/2025 (gender balance among directors of listed companies) is given as published in ΦΕΚ Α΄ 22/2025, then with each later amendment, read in the amending law's own Gazette issue: 74/2026 (ν. 5301/2026); 117/2026 (ν. 5322/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2025 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-01. Amending: ν. 5301/2026 art. 78 and ν. 5322/2026 arts. 51-52. ν. 5322/2026 art. 59 (how applications already made are handled) changes no words of the law. Issues after Α΄ 177/2026 were not searched.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5178/2025 is dated 2025-02-14, the date on the issue's masthead: its commencement article (art-042) reads «1. Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, με την επιφύλαξη της παρ. 2. 2. Η ισχύς των εσωτερικών παρ. 3, 4 και 5 του εσωτερικού άρθρου 3Α του άρθρου 5 και των άρθρων 6 και 9 αρχίζει από την 30ή.6.2026, με την επιφύλαξη της παρ. 3 του άρθρου 17 του παρόντος.». Provisions it starts later are shown from publication.
+- ν. 5178/2025: art-023: quotation without a closing » before Άρθρο 24 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5301/2026 art. 78: art-037 restated (3 lines -> 3); 2 described change(s) checked; instruction: Στο άρθρο 37 του ν. 5178/2025 (Α’ 22), περί παράτασης της εξαίρεσης τηλεοπτικών σταθμών περιφερειακής εμβέλειας από ειδι
+- Parse log: ν. 5322/2026 art. 51: the instruction places its addition after «νέας εγκατάστασης αιτούντος»; the text reads «νέας εγκατάστασης του αιτούντος»
+- Parse log: ν. 5322/2026 art. 51: art-032 restated (20 lines -> 22); 12 described change(s) checked; instruction: Στο άρθρο 32 του ν. 5178/2025 (Α’ 22), περί Προγράμματος Δημογραφικής Ανάπτυξης, επέρχονται οι ακόλουθες τροποποιήσεις:
+- Parse log: ν. 5322/2026 art. 52 par. 1: art-032-a added (34 lines)
+- Parse log: ν. 5322/2026 art. 52 par. 2: art-040-a added (3 lines)
+- Restated wording: ν. 5322/2026 art. 51: the restatement reads «» where the described change gives «ή εικονικότητας πρόσ ληψης». Par. 7 also loses the words «ή εικονικότητας πρόσληψης» (fictitious hiring), which the instruction does not list. The restatement is the amending law's own text, so it governs (the rule decided for ν. 5067/2023): this change is made by ν. 5322/2026 itself.
+- Restated wording: ν. 5322/2026 art. 51: the restatement reads «» where the described change gives «και τους εργοδότες αντιστοίχως». Par. 7 also loses the words «και τους εργοδότες αντιστοίχως» (the employers), which the instruction does not list. The restatement is the amending law's own text, so it governs (the rule decided for ν. 5067/2023): this change is made by ν. 5322/2026 itself.
+- Restated wording: ν. 5322/2026 art. 51: the restatement reads «κοινή» where the described change gives «κοινή́». The published text of ν. 5178/2025 carries a doubled accent mark on this word in its text layer (a combining acute after an accented letter); the restatement prints the word plainly. Not a change of wording.
+- Restated wording: ν. 5322/2026 art. 51: the restatement reads «εφαρμογή» where the described change gives «εφαρμογή́». The published text of ν. 5178/2025 carries a doubled accent mark on this word in its text layer (a combining acute after an accented letter); the restatement prints the word plainly. Not a change of wording.
+- Reading the restatement: ν. 5322/2026 art. 51: line split before «2. Η μεταφορά της παρ. 1 αποδ…» (run into the line before it)
+- Reading the restatement: ν. 5322/2026 art. 51: line split before «γ) Καταργείται.…» (run into the line before it)
+- Reading the restatement: ν. 5322/2026 art. 52 par. 1: line split before «ζ) τη διενέργεια τυχόν συμψηφ…» (run into the line before it)

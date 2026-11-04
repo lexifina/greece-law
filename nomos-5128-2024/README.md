@@ -129,3 +129,12 @@
 | Άρθρο 123 | [art-123.md](art-123.md) | 0 |  |
 | Άρθρο 124 | [art-124.md](art-124.md) | 0 |  |
 | Άρθρο 125 | [art-125.md](art-125.md) | 0 |  |
+
+Act id: `nomos-5128-2024` (tags `nomos-5128-2024/<day>`; `python tools/on.py <day> nomos-5128-2024`).
+
+## Decisions made by hand
+
+- ν. 5128/2024 (the digital education portal, career guidance in secondary education and other provisions) is given as published in ΦΕΚ Α΄ 118/2024, its only version: no later law amends it. Amending laws were looked for in three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2024 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading; the ΦΕΚ Α΄ issues of 2026 that legalize-gr lacks (58-127, 143, 144, 147, 148, 174 and 175), read in the Gazette PDFs themselves; and the timeline of the official search.et.gr index for the issue, fetched on 2026-11-02, whose 100 rows show no Α΄ issue. The scan finds only Α΄ 41/2025 and Α΄ 115/2025, presidential decrees that cite art. 61 of ν. 5128/2024 as the provision empowering them; neither changes its text. The 2026 issues read in the PDFs do not mention it. None amends ν. 5128/2024. Issues after Α΄ 177/2026 were searched only through the official index. Its art. 125 starts some provisions on other days (art. 25 from the 2025-2026 school year, art. 44 par. 1 from the 2024-2025 academic year, art. 93 on 1 July 2024, and by its par. 4 art. 56 from 4 September 2023 for the municipalities of Thessaly in a state of emergency); as for every law here, the text is shown from publication.
+- ν. 5128/2024 is dated 2024-07-30, the date on the issue's masthead: its commencement article (art-125) reads «1. Με την επιφύλαξη των παρ. 2, 3, 4 και 5 η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. 2. Η ισχύς του άρθρου 25 αρχίζει από το σχολικό έτος 2025-2026. 3. Η ισχύς της παρ. 1 του άρθρου 44 αρχίζει από το ακαδημαϊκό έτος 2024-2025. 5. Η ισχύς του άρθρου 93 αρχίζει την 1η.7.2024.». Provisions it starts later are shown from publication.
+- ν. 5128/2024: art-048: quotation without a closing » before Άρθρο 49 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

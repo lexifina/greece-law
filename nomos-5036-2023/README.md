@@ -110,3 +110,17 @@
 | Άρθρο 104 | [art-104.md](art-104.md) | 0 |  |
 | Άρθρο 105 | [art-105.md](art-105.md) | 0 |  |
 | Άρθρο 106 | [art-106.md](art-106.md) | 0 |  |
+
+Act id: `nomos-5036-2023` (tags `nomos-5036-2023/<day>`; `python tools/on.py <day> nomos-5036-2023`).
+
+## Decisions made by hand
+
+- ν. 5036/2023 (tax and social insurance debt arrangements and other urgent provisions) is given as published in ΦΕΚ Α΄ 77/2023, then with each later amendment, read in the amending law's own Gazette issue: 58/2024 (ν. 5104/2024); 128/2024 (ν. 5131/2024).
+- Amendment search: legalize-gr full-text mentions through ΦΕΚ Α΄ 177/2026, the 2026 gap Gazette issues, and the official issue relation index. ν. 5104/2024 art. 91 and ν. 5131/2024 art. 41 par. 1 change the law. ΦΕΚ Α΄ 88/2026 cites art. 70 only as an earlier change to ν. 4495/2017. The other mentions are references to provisions that ν. 5036/2023 changed in other laws.
+- In ΦΕΚ Α΄ 77/2023, the embedded restatement of art. 84 of ν. 4916/2022 under this law’s art. 67 has no opening « before its heading in the text layer. It remains inside art. 67; it is not this law’s art. 84.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5036/2023 is dated 2023-03-28, the date on the issue's masthead: its commencement article (art-106) reads «1. Με την επιφύλαξη της παρ. 2 η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις. 2. α) Η παρ. 1 του άρθρου 16 ισχύει από την 1η.6.2023. β) Η παρ. 4 του άρθρου 78 του Εθνικού Τελωνειακού Κώδικα, όπως αντικαθίσταται με την παρ. 1 του άρθρου 28 του παρόντος, ισχύει από την 1η Ιανουαρίου 2023. γ) Η ισχύς της παρ. 1 του άρθρου 60 αρχίζει από την έναρξη ισχύος του ν. 4972/2022 (Α’ 181). δ) Η ισχύς του άρθρου 84 αρχίζει από την 1η.1.2023. ε) Η ισχύς του άρθρου 91 αρχίζει από την 1η.1.2022.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5104/2024 art. 91: art-009 restated (6 lines -> 6); 1 described change(s) checked; instruction: Η περ. β) του άρθρου 9 του ν. 5036/2023 (Α’ 77), περί απώλειας ρύθμισης, αντικαθίσταται και το άρθρο 9 διαμορφώνεται ως
+- Parse log: ν. 5131/2024 art. 41 par. 1: art-064 par. 6 restated (1 line(s) -> 1); 1 described change(s) checked
+- Art. 16 par. 1 of ν. 5036/2023 is inserted line by line on 1 June 2023 under art. 16 par. 5. Art. 106 par. 2 dates art. 84 from 1 January 2023 and art. 91 from 1 January 2022; both predate publication, so they are present in the publication version. Its other special dates concern provisions of other laws or events recorded here.

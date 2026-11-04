@@ -42,3 +42,18 @@
 | Άρθρο 36 | [art-036.md](art-036.md) | 0 |  |
 | Άρθρο 37 | [art-037.md](art-037.md) | 0 |  |
 | Άρθρο 38 | [art-038.md](art-038.md) | 0 |  |
+
+Act id: `nomos-5188-2025` (tags `nomos-5188-2025/<day>`; `python tools/on.py <day> nomos-5188-2025`).
+
+## Decisions made by hand
+
+- ν. 5188/2025 (measures implementing the Data Governance Act) is given as published in ΦΕΚ Α΄ 49/2025, then with each later amendment, read in the amending law's own Gazette issue: 85/2026 (ν. 5305/2026); 103/2026 (ν. 5314/2026); 114/2026 (ν. 5321/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2025 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-01. Amending: ν. 5305/2026 art. 19, ν. 5314/2026 art. 773 (repeal of art. 29) and ν. 5321/2026 art. 45 (which does amend ν. 5188/2025: it adds art. 20Α and art. 25 par. 3). Other mentions (Α΄ 58/2026, ν. 5314/2026 art. 576, ν. 5321/2026 arts. 21 and 54) only refer to it. Issues after Α΄ 177/2026 were not searched.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5188/2025 is dated 2025-03-28, the date on the issue's masthead: its commencement article (art-038) reads «Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5305/2026 art. 19: art-020 restated (5 lines -> 5); 2 described change(s) checked; instruction: Στο άρθρο 20 του ν. 5188/2025 (Α’ 49), περί της ηλεκτρονικής εφαρμογής
+- Parse log: ν. 5321/2026 art. 54 replaces art. 773 of the Local Government Code (corrections); its new par. Β no. 3 repeals art. 29 of ν. 5188/2025 in the same words, so it changes nothing here
+- Parse log: ν. 5314/2026 art. 773 par. Β no. 3: art-029 repealed (removed)
+- Parse log: ν. 5321/2026 art. 45 par. 1: art-020-a added (6 lines)
+- Parse log: ν. 5321/2026 art. 45 par. 2: art-025 gains par. 3 at its end (1 line(s))

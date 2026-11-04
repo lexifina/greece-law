@@ -70,3 +70,12 @@
 | Άρθρο 64 | [art-064.md](art-064.md) | 0 |  |
 | Άρθρο 65 | [art-065.md](art-065.md) | 0 |  |
 | Άρθρο 66 | [art-066.md](art-066.md) | 0 |  |
+
+Act id: `nomos-5215-2025` (tags `nomos-5215-2025/<day>`; `python tools/on.py <day> nomos-5215-2025`).
+
+## Decisions made by hand
+
+- ν. 5215/2025 (biomethane, hydrogen and other energy provisions) is given as published in ΦΕΚ Α΄ 116/2025, its only version: no later law amends it. Amending laws were looked for in three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2025 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading; the ΦΕΚ Α΄ issues of 2026 that legalize-gr lacks (58-127, 143, 144, 147, 148, 174 and 175), read in the Gazette PDFs themselves; and the timeline of the official search.et.gr index for the issue, fetched on 2026-11-02. The scan finds only Α΄ 231/2025 (ν. 5261/2025), which is also the one Α΄ issue the index lists against it ("Τροποποίηση"): read in its own issue, its art. 46 only refers to art. 25 of ν. 5215/2025 (its definition of low-carbon hydrogen) in two definitions it gives ν. 4001/2011. In the 2026 issues read in the PDFs, every mention was read by hand: Α΄ 67/2026 art. 4 refers to the same definition; Α΄ 88/2026 (a codification) names arts. 56 and 63 of ν. 5215/2025, which amended other laws, only in its source notes and correspondence table. None amends ν. 5215/2025. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 5215/2025 is dated 2025-07-04, the date on the issue's masthead: its commencement article (art-066) reads «Η ισχύς του παρόντος αρχίζει από την δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν προβλέπεται διαφορετικά στις επιμέρους ρυθμίσεις του.». Provisions it starts later are shown from publication.
+- ν. 5215/2025: art-003: quotation without a closing » before Άρθρο 4; art-056: quotation without a closing » before Άρθρο 57 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

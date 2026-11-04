@@ -73,3 +73,12 @@
 | Άρθρο 67 | [art-067.md](art-067.md) | 0 |  |
 | Άρθρο 68 | [art-068.md](art-068.md) | 0 |  |
 | Άρθρο 69 | [art-069.md](art-069.md) | 0 |  |
+
+Act id: `nomos-5121-2024` (tags `nomos-5121-2024/<day>`; `python tools/on.py <day> nomos-5121-2024`).
+
+## Decisions made by hand
+
+- ν. 5121/2024 (tourist infrastructure and tourism education) is given as published in ΦΕΚ Α΄ 106/2024, its only version: no later law amends it. Amending laws were looked for in two ways: a full-text scan of every ΦΕΚ Α΄ issue from the law's year to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading, and the official search.et.gr relation index for the issue (legalize-gr's `amended_by` field, which lists no Α΄ issue). Neither finds any. legalize-gr lacks the ΦΕΚ Α΄ issues 58-127, 143, 144, 147, 148, 174 and 175 of 2026; those were read in the Gazette PDFs themselves and every mention of the law in them checked by hand: none amends it. The timeline of the official index for the issue, fetched on 2026-11-02, lists no Α΄ issue as amending it. Issues after Α΄ 177/2026 were not searched.
+- ν. 5121/2024 is dated 2024-07-15, the date on the issue's masthead: its commencement article (art-069) reads «Η έναρξη ισχύος του παρόντος ορίζεται από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται ειδικότερα.». Provisions it starts later are shown from publication.
+- ν. 5121/2024: art-003: quotation without a closing » before Άρθρο 4 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

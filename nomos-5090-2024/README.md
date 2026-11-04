@@ -142,3 +142,18 @@
 | Άρθρο 136 | [art-136.md](art-136.md) | 2 | 2024-05-02 |
 | Άρθρο 137 | [art-137.md](art-137.md) | 2 | 2024-05-02 |
 | Άρθρο 138 | [art-138.md](art-138.md) | 0 |  |
+
+Act id: `nomos-5090-2024` (tags `nomos-5090-2024/<day>`; `python tools/on.py <day> nomos-5090-2024`).
+
+## Decisions made by hand
+
+- ν. 5090/2024 (interventions in the Penal Code and Code of Criminal Procedure) is given as published in ΦΕΚ Α΄ 30/2024, then with each later amendment, read in the amending law's own Gazette issue: 65/2024 (ν. 5108/2024).
+- Amendment search: every legalize-gr mention through ΦΕΚ Α΄ 177/2026, the 2026 gap issues, and the official issue relation index. ν. 5108/2024 arts. 43 and 58 directly amend this law. Other mentions refer to it or to codified provisions and do not change its words.
+- Art. 138 gives three start stages: publication for its listed articles and art. 136 item γ, 1 May 2024 for the remaining provisions except its nine deferred articles, and 1 July 2024 for arts. 9, 10, 23, 28, 60, 82, 87, 88 and 89. Art. 136 items α and β join its already effective item γ on 1 May. The text is applied line by line.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5090/2024 is dated 2024-02-23, the date on the issue's masthead: its commencement article (art-138) reads «3. Η ισχύς των άρθρων 4, 31, 32, 37, 38, 39, 40, 71, 95, 133, 134, 135 και της περ. γ) του άρθρου 136 αρχίζει από τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως. 2. Η ισχύς των άρθρων 9, 10, 23, 28, 60, 82, 87, 88 και 89 αρχίζει από την 1η.7.2024.». Provisions it starts later are shown from publication.
+- ν. 5090/2024: art-068: quotation without a closing » before Άρθρο 69; art-133: quotation without a closing » before Άρθρο 134 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5108/2024 art. 43: art-136 restated (6 lines -> 6); 1 described change(s) checked; instruction: Στην περ. α) του άρθρου 136 του ν. 5090/2024 (Α’ 30), περί καταργούμενων διατάξεων, οι λέξεις
+- Parse log: ν. 5108/2024 art. 58 par. 1: art-137 par. 1 restated (1 line(s) -> 1); 2 described change(s) checked
+- Parse log: ν. 5108/2024 art. 58 par. 5: art-137 par. 5 restated (1 line(s) -> 1); 2 described change(s) checked

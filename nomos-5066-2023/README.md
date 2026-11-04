@@ -22,3 +22,12 @@
 | Άρθρο 16 | [art-016.md](art-016.md) | 0 |  |
 | Άρθρο 17 | [art-017.md](art-017.md) | 0 |  |
 | Άρθρο 18 | [art-018.md](art-018.md) | 0 |  |
+
+Act id: `nomos-5066-2023` (tags `nomos-5066-2023/<day>`; `python tools/on.py <day> nomos-5066-2023`).
+
+## Decisions made by hand
+
+- ν. 5066/2023 (disclosure of income tax information by certain companies) is given as published in ΦΕΚ Α΄ 188/2023, its only version: no later law amends it. Amending laws were looked for in two ways: a full-text scan of every ΦΕΚ Α΄ issue from the law's year to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading, and the official search.et.gr relation index for the issue (legalize-gr's `amended_by` field, which lists no Α΄ issue). Neither finds any. legalize-gr lacks the ΦΕΚ Α΄ issues 58-127, 143, 144, 147, 148, 174 and 175 of 2026; those were read in the Gazette PDFs themselves and every mention of the law in them checked by hand: none amends it. The timeline of the official index for the issue, fetched on 2026-11-01, lists no Α΄ issue as amending it. Issues after Α΄ 177/2026 were not searched.
+- ν. 5066/2023 is dated 2023-11-14, the date on the issue's masthead: its commencement article (art-018) reads «1. Με την επιφύλαξη της παρ. 2, η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.». Provisions it starts later are shown from publication.
+- ν. 5066/2023: art-017: quotation without a closing » before Άρθρο 18 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

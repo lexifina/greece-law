@@ -87,3 +87,48 @@
 | Άρθρο 80 | [art-080.md](art-080.md) | 0 |  |
 | Άρθρο 81 | [art-081.md](art-081.md) | 0 |  |
 | Παράρτημα | [parartima.md](parartima.md) | 1 | 2026-05-05 |
+
+Act id: `nomos-5261-2025` (tags `nomos-5261-2025/<day>`; `python tools/on.py <day> nomos-5261-2025`).
+
+## Decisions made by hand
+
+- ν. 5261/2025 (carbon dioxide capture, transport and storage) is given as published in ΦΕΚ Α΄ 231/2025, then with each later amendment, read in the amending law's own Gazette issue: 67/2026 (ν. 5299/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2025 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention read by hand; and the official search.et.gr relation index for the issue (as read on 2026-10-30), which lists ΦΕΚ Α΄ 67/2026 only. Amending: ν. 5299/2026 arts. 68, 69 and 88 par. 2. Other mentions only refer to it: ν. 5299/2026 art. 50 (the subjects of its Part), the Spatial Planning and Urban Planning Code ratified by ν. 5306/2026 (ΦΕΚ Α΄ 88/2026), whose source tables cite art. 75 pars. 3, 4, 5, 8 and 9 as amendments of other laws and whose list of repealed provisions (its Annex Α΄) does not name ν. 5261/2025, ν. 5314/2026 art. 383 and ΦΕΚ Α΄ 122/2026 art. 34. Issues after Α΄ 177/2026 were not searched.
+- ν. 5299/2026 art. 68 corrects errata («Διόρθωση παροραμάτων») by amendment, with no words on when the corrections apply, so they are dated by the law's commencement, its publication (5 May 2026), like its other changes.
+- A repealed paragraph is removed (art. 75 par. 9); the paragraphs after it keep their numbers.
+- In the restatements and the added article of ν. 5299/2026 (arts. 68-69, ΦΕΚ Α΄ 67/2026) the 2 of CO₂ is set as a smaller digit after «CO» (8 pt against 10.5 pt), which the text layer reads as a plain 2; the parse checks that every such 2 on those pages is in the smaller type and writes it CO₂, as ν. 5261/2025 itself mostly does. Its annexes keep the forms their own text layer gives (CO2, and in Annex IV CΟ2 with a Greek Ο); the check of described changes reads these forms as one word, and a restated line that differs from the published line only in this form or in line breaks keeps the published line (listed under Layout), so each change shows only the amending law's changes. Not a change of wording.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5261/2025 is dated 2025-12-12, the date on the issue's masthead: its commencement article (art-081) reads «Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως εκτός αν προβλέπεται διαφορετικά στις επιμέρους διατάξεις του.». Provisions it starts later are shown from publication.
+- ν. 5261/2025: art-043: quotation without a closing » before Άρθρο 44; art-056: quotation without a closing » before Άρθρο 57 (in the issue text layer); the next article of the law itself closes it.
+- ν. 5261/2025: the Annex (ΠΑΡΑΡΤΗΜΑ) is one unit, `parartima`, read line by line from the issue text layer (one column).
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5299/2026 arts. 68-69: 12 «CO2» in the text layer, 12 smaller-type 2s after «CO» on their pages, none in one span: written CO₂
+- Parse log: ν. 5299/2026 has no words on its own commencement in arts. 68, 69 and 88: in force on publication (art. 113)
+- Parse log: ν. 5299/2026 art. 68 par. 1: art-007 par. 2 restated (6 line(s) -> 6); 1 described change(s) checked
+- Parse log: ν. 5299/2026 art. 68 par. 2: art-017 par. 3 restated (10 line(s) -> 11); 1 described change(s) checked
+- Parse log: ν. 5299/2026 art. 68 par. 3: art-023 restated (32 lines -> 31); 3 described change(s) checked; instruction: 3. Στο άρθρο 23 του ν. 5261/2025, περί μεταβίβασης της ευθύνης για τον τόπο αποθήκευσης, επέρχονται οι ακόλουθες τροποπο
+- Parse log: ν. 5299/2026 art. 68 par. 4: art-027 α) (after '2. ') restated (1 line(s) -> 1); 1 described change(s) checked
+- Parse log: ν. 5299/2026 art. 68 par. 5: art-040 par. 8 restated (7 line(s) -> 7); 1 described change(s) checked
+- Parse log: ν. 5299/2026 art. 68 pars. 6-8: Annex I Phase 3.1 par. 2; Annex IV Chapter A par. 2 (its sixth sentence opens «Οι ακόλουθες επιλογές εξετάζονται») and par. 3, located inside the annexes unit
+- Parse log: ν. 5299/2026 art. 68 par. 6: the instruction quotes the replaced words as «και επακόλουθες αντιδράσεις, ιδίως τη μεταβολή του pH, τον σχηματισμό ορυκτών και τη συνεκτίμηση αντιδραστικών μοντέλων για την αξιολόγηση των επενεργειών»; the text reads «και επακόλουθες αντιδράσεις, ιδίως τη μεταβολή του pH, τον σχηματισμό ορυκτών και τη συνεκτίμηση εκπόνησης αντιδραστικών μοντέλων για την αξιολόγηση των επενεργειών»
+- Parse log: ν. 5299/2026 art. 68 par. 6: parartima 2. (after 'Φάση 3.1') restated (14 line(s) -> 14); 1 described change(s) checked
+- Parse log: ν. 5299/2026 art. 68 par. 7: parartima γ) (after 'Οι ακόλουθες επιλογές εξετάζονται') restated (1 line(s) -> 1); 1 described change(s) checked
+- Parse log: ν. 5299/2026 art. 68 par. 8: parartima α) (after '3. Επικαιροποίηση του σχεδίου') restated (1 line(s) -> 1); 1 described change(s) checked
+- Parse log: ν. 5299/2026 art. 69: art-036-a added (10 lines)
+- Parse log: ν. 5299/2026 art. 88 par. 2: art-075 par. 9 repealed (removed, 1 line(s))
+- Restated wording: ν. 5299/2026 art. 68 par. 4: the restatement reads «ευρώ/τόνο» where the described change gives «ευρώ/ τόνο». Art. 27 par. 2 περ. α): the published text reads «ευρώ/ τόνο», the restatement «ευρώ/τόνο»; the same words, spaced differently.
+- Restated wording: ν. 5299/2026 art. 68 par. 6: the restatement reads «εκπόνησης» where the described change gives «». Annex I Phase 3.1 par. 2 περ. ια): the instruction quotes the replaced words without «εκπόνησης» (the published text reads «τη συνεκτίμηση εκπόνησης αντιδραστικών μοντέλων») and the new words without it too, but the restatement keeps it («της συνεκτίμησης εκπόνησης αντιδραστικών μοντέλων»). The restatement is the amending law's own text, so it governs; the word stays, as before.
+- Reading the restatement: ν. 5299/2026 art. 68 par. 1: line split before «ε) στοιχεία ως προς την ποσότ…» (run into the line before it)
+- Reading the restatement: ν. 5299/2026 art. 68 par. 2: line split before «α) τα στοιχεία του φορέα πιστ…» (run into the line before it)
+- Reading the restatement: ν. 5299/2026 art. 68 par. 2: line split before «β) την ημερομηνία έκδοσης,…» (run into the line before it)
+- Reading the restatement: ν. 5299/2026 art. 68 par. 2: line split before «δ) τον τόπο αποθήκευσης,…» (run into the line before it)
+- Reading the restatement: ν. 5299/2026 art. 68 par. 2: line split before «ζ) τα στοιχεία του παραγωγού …» (run into the line before it)
+- Reading the restatement: ν. 5299/2026 art. 68 par. 2: line split before «η) τα ποιοτικά χαρακτηριστικά…» (run into the line before it)
+- Reading the restatement: ν. 5299/2026 art. 68 par. 3: line split before «γ) στη λήψη προληπτικών μέτρω…» (run into the line before it)
+- Reading the restatement: ν. 5299/2026 art. 68 par. 3: line split before «β) η απουσία ανιχνεύσιμης δια…» (run into the line before it)
+- Reading the restatement: ν. 5299/2026 art. 68 par. 3: line split before «α) υποβολής ελλιπών στοιχείων…» (run into the line before it)
+- Reading the restatement: ν. 5299/2026 art. 68 par. 3: line split before «β) απόκρυψης συναφών στοιχείω…» (run into the line before it)
+- Reading the restatement: ν. 5299/2026 art. 68 par. 6: line split before «ι) των ρυθμών σφράγισης της ρ…» (run into the line before it)
+- Layout: ν. 5299/2026 art. 68 par. 2: 1 restated line(s) kept in the published layout (same words; line breaks or the form of CO2 only)
+- Layout: ν. 5299/2026 art. 68 par. 3: 1 restated line(s) kept in the published layout (same words; line breaks or the form of CO2 only)
+- Layout: ν. 5299/2026 art. 68 par. 6: 4 restated line(s) kept in the published layout (same words; line breaks or the form of CO2 only)

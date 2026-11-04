@@ -77,3 +77,18 @@
 | Άρθρο 71 | [art-071.md](art-071.md) | 0 |  |
 | Άρθρο 72 | [art-072.md](art-072.md) | 0 |  |
 | Άρθρο 73 | [art-073.md](art-073.md) | 0 |  |
+
+Act id: `nomos-5113-2024` (tags `nomos-5113-2024/<day>`; `python tools/on.py <day> nomos-5113-2024`).
+
+## Decisions made by hand
+
+- ν. 5113/2024 (third-party motor liability insurance (Directive (EU) 2021/2118) and other provisions) is given as published in ΦΕΚ Α΄ 96/2024, then with each later amendment, read in the amending law's own Gazette issue: 102/2026 (ν. 5313/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2024 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, which lists ΦΕΚ Α΄ 102/2026 only ("Ακύρωση"). Amending: ν. 5313/2026 art. 58 par. 1. The only other mention, ν. 5305/2026 art. 36 (ΦΕΚ Α΄ 85/2026), refers to arts. 18, 20, 23 and 24 of ν. 5113/2024 and changes none of them. Issues after Α΄ 177/2026 were searched only through the official index.
+- The repealed art. 64 par. 2 said that pay differences already paid to the staff named in the par. 5 that art. 64 par. 1 added to art. 11 of ν. 4354/2015 are not recovered. ν. 5313/2026 art. 51 widens that par. 5 (from 24 June 2023, art. 137 par. 6 γ) and gives the same rule in its own par. 2 for the wider group: changes to ν. 4354/2015 and new text of ν. 5313/2026, outside this act. Here the repeal is dated by the publication of ν. 5313/2026 (25 June 2026), the day art. 58 par. 1 takes effect.
+- ν. 5113/2024 art. 73 par. 2: art. 64 par. 1 applies from 24 June 2023, before the law was published; like the provisions the law starts later, it is shown from publication.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5113/2024 is dated 2024-06-21, the date on the issue's masthead: its commencement article (art-073) reads «1. Με την επιφύλαξη της παρ. 2, και των ειδικότερων διατάξεων του παρόντος, ο παρών ισχύει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5313/2026: art. 58 lies in ΜΕΡΟΣ Γ’
+- Parse log: ν. 5313/2026 art. 137 par. 6 puts Part Γ’ in force on publication except arts. 49-56; art. 58 is not among them
+- Parse log: ν. 5313/2026 art. 58 par. 1: art-064 par. 2 repealed (removed, 1 line(s))

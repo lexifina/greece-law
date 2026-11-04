@@ -44,3 +44,17 @@
 | Άρθρο 38 | [art-038.md](art-038.md) | 0 |  |
 | Άρθρο 39 | [art-039.md](art-039.md) | 0 |  |
 | Άρθρο 40 | [art-040.md](art-040.md) | 0 |  |
+
+Act id: `nomos-5107-2024` (tags `nomos-5107-2024/<day>`; `python tools/on.py <day> nomos-5107-2024`).
+
+## Decisions made by hand
+
+- ν. 5107/2024 (the Housing and Work for the Homeless programme and social welfare services) is given as published in ΦΕΚ Α΄ 64/2024, then with each later amendment, read in the amending law's own Gazette issue: 158/2025 (ν. 5229/2025).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2024 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention of the law read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, whose only later row is ΦΕΚ Α΄ 158/2025. Amending: ν. 5229/2025 art. 28 (ΦΕΚ Α΄ 158/2025), which restates art. 20 par. 4. ν. 5314/2026 (ΦΕΚ Α΄ 103/2026, the Local Government Code) names art. 6 of ν. 5107/2024 in its table of the provisions it codifies; it neither amends nor repeals it (a code that restates a provision does not change the law it came from). Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 5229/2025 art. 28 item α) opens the words it adds with « but prints no closing », and places them before the words «όλων των κλάδων»; item β) adds a second sentence without quoting it apart. Both are taken from the restated paragraph, at the places the instruction names.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5107/2024 is dated 2024-05-01, the date on the issue's masthead: its commencement article (art-040) reads «Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.». Provisions it starts later are shown from publication.
+- ν. 5107/2024: art-011: quotation without a closing » before Άρθρο 12; art-033: quotation without a closing » before Άρθρο 34 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5229/2025 art. 36: in force on publication; art. 28 gives no day of its own
+- Parse log: ν. 5229/2025 art. 28: art-020 par. 4 restated (1 line(s) -> 1); 2 described change(s) checked

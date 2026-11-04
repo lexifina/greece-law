@@ -102,3 +102,20 @@
 | Άρθρο 96 | [art-096.md](art-096.md) | 0 |  |
 | Άρθρο 97 | [art-097.md](art-097.md) | 0 |  |
 | Άρθρο 98 | [art-098.md](art-098.md) | 0 |  |
+
+Act id: `nomos-5172-2025` (tags `nomos-5172-2025/<day>`; `python tools/on.py <day> nomos-5172-2025`).
+
+## Decisions made by hand
+
+- ν. 5172/2025 (new forms of violence against women (Directive (EU) 2024/1385) and domestic violence) is given as published in ΦΕΚ Α΄ 10/2025, then with each later amendment, read in the amending law's own Gazette issue: 125/2026 (ν. 5326/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2025 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention of the law read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, whose later Α΄ rows are ΦΕΚ Α΄ 76/2025 and Α΄ 125/2026 (its Β΄ rows are ministerial decisions, which do not amend a statute). Amending: ν. 5326/2026 art. 67 par. 1 (ΦΕΚ Α΄ 125/2026), which restates art. 47 pars. 1 and 2. ΦΕΚ Α΄ 76/2025 names ν. 5172/2025 only in the purpose of one of its Parts (art. 25), which amends other laws; ΦΕΚ Α΄ 130/2025 names it in a table of codified provisions. These are references only. Issues after Α΄ 177/2026 were searched only through the official index.
+- ΦΕΚ Α΄ 118/2025 art. 57 par. 2 extends "from its expiry, for six more months" the time limit of the second sentence of art. 87. It names no words of art. 87 and changes none, so art. 87 is kept as published and the extension is recorded here rather than as a version.
+- ν. 5326/2026 art. 67 adds the words «και του κατά περίπτωση συναρμόδιου Υπουργού» to the first sentence of art. 47 par. 1 without naming where; they are placed where the restatement has them, after «Με απόφαση του Υπουργού Δικαιοσύνης».
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5172/2025 is dated 2025-01-29, the date on the issue's masthead: its commencement article (art-098) reads «Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις του.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5326/2026 art. 111: in force on publication, except Part Α΄ and arts. 45-51, 59, 61 (16.9.2026) and art. 68 (1.10.2026)
+- Parse log: ν. 5326/2026 art. 67 par. 1: art. 67 lies in ΜΕΡΟΣ Ε’
+- Parse log: ν. 5326/2026 art. 67 par. 1: art-047 par. 1 restated (1 line(s) -> 1); 2 described change(s) checked
+- Parse log: ν. 5326/2026 art. 67 par. 1: art-047 par. 2 restated (1 line(s) -> 1); 1 described change(s) checked
+- Restated wording: ν. 5326/2026 art. 67 par. 1: the restatement reads «» where the described change gives «απόφαση». Art. 47 par. 1, second sentence: the instruction replaces the words «Με όμοια» by «Με απόφαση του Υπουργού Δικαιοσύνης», which applied to «Με όμοια απόφαση καθορίζονται» would read «Με απόφαση του Υπουργού Δικαιοσύνης απόφαση καθορίζονται»; the restatement reads «Με απόφαση του Υπουργού Δικαιοσύνης καθορίζονται». The restatement (ν. 5326/2026's own text) governs and is used as printed.

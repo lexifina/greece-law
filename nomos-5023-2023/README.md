@@ -31,3 +31,11 @@
 | Άρθρο 25 | [art-025.md](art-025.md) | 0 |  |
 | Άρθρο 26 | [art-026.md](art-026.md) | 0 |  |
 | Άρθρο 27 | [art-027.md](art-027.md) | 0 |  |
+
+Act id: `nomos-5023-2023` (tags `nomos-5023-2023/<day>`; `python tools/on.py <day> nomos-5023-2023`).
+
+## Decisions made by hand
+
+- ν. 5023/2023 (equal treatment regardless of disability or chronic illness and other provisions) is given as published in ΦΕΚ Α΄ 34/2023, its only version: no later law amends it. Amending laws were looked for in three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2023 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading; the ΦΕΚ Α΄ issues of 2026 that legalize-gr lacks (58-127, 143, 144, 147, 148, 174 and 175), read in the Gazette PDFs themselves; and the timeline of the official search.et.gr index for the issue, fetched on 2026-11-02, which lists no Α΄ issue against it. The scan finds only Α΄ 121/2025, a presidential decree codifying the law on equal treatment, which names art. 3 of ν. 5023/2023 (an amendment of ν. 4443/2016) only in its tables of sources and correspondence. The 2026 issues read in the PDFs do not mention it. None amends ν. 5023/2023. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 5023/2023 is dated 2023-02-17, the date on the issue's masthead: its commencement article (art-027) reads «Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

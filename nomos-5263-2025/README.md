@@ -49,3 +49,18 @@
 | Άρθρο 43 | [art-043.md](art-043.md) | 0 |  |
 | Άρθρο 44 | [art-044.md](art-044.md) | 0 |  |
 | Άρθρο 45 | [art-045.md](art-045.md) | 0 |  |
+
+Act id: `nomos-5263-2025` (tags `nomos-5263-2025/<day>`; `python tools/on.py <day> nomos-5263-2025`).
+
+## Decisions made by hand
+
+- ν. 5263/2025 (the Greek AI factory) is given as published in ΦΕΚ Α΄ 238/2025, then with each later amendment, read in the amending law's own Gazette issue: 85/2026 (ν. 5305/2026); 114/2026 (ν. 5321/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2025 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-01, which lists ΦΕΚ Α΄ 85/2026 and Α΄ 114/2026. Amending: ν. 5305/2026 art. 32 and ν. 5321/2026 art. 38. ν. 5321/2026 art. 12 only refers to it. Issues after Α΄ 177/2026 were not searched.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5263/2025 is dated 2025-12-19, the date on the issue's masthead: its commencement article (art-045) reads «Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5305/2026 art. 43 par. 2 defers only a provision added to ν. 4727/2020 (by its art. 21), not art. 32
+- Parse log: ν. 5305/2026 art. 32: art-039 gains par. 3 at its end (1 line(s))
+- Parse log: ν. 5321/2026 art. 38 has no words on its own commencement: in force on publication (art. 58)
+- Parse log: ν. 5321/2026 art. 38: the quotation opens in the instruction paragraph: «Άρθρο εικοστό δεύτερο Διαχείριση» read as the inner article's number and title
+- Parse log: ν. 5321/2026 art. 38: art-008 Άρθρο εικοστό δεύτερο (after 'Άρθρο εικοστό δεύτερο') restated (4 line(s) -> 4); 1 described change(s) checked

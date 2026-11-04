@@ -56,3 +56,20 @@
 | Άρθρο 51 | [art-051.md](art-051.md) | 0 |  |
 | Άρθρο 52 | [art-052.md](art-052.md) | 0 |  |
 | Άρθρο 53 | [art-053.md](art-053.md) | 0 |  |
+
+Act id: `nomos-5130-2024` (tags `nomos-5130-2024/<day>`; `python tools/on.py <day> nomos-5130-2024`).
+
+## Decisions made by hand
+
+- ν. 5130/2024 (asset declarations, placement of foreign minors, retrial after ECtHR judgments and other provisions) is given as published in ΦΕΚ Α΄ 127/2024, then with each later amendment, read in the amending law's own Gazette issue: 103/2026 (ν. 5314/2026); 102/2026 (ν. 5313/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2024 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, whose timeline stops at 100 rows and lists ΦΕΚ Α΄ 102/2026 ("Ακύρωση"). Amending: ν. 5314/2026 art. 773 par. Β no. 7 (ΦΕΚ Α΄ 103/2026; ν. 5321/2026 art. 54, ΦΕΚ Α΄ 114/2026, restates that list with no. 7 unchanged) and ν. 5313/2026 art. 123 par. 4 α) (ΦΕΚ Α΄ 102/2026). Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 5313/2026 art. 123 par. 4 repeals art. 45 "from the date the revocation decision of par. 3 is issued", par. 3 naming the decision that revokes the inclusion decision ΤΕΑ/10/3.018-κε’/12.9.2024 of the action with ΟΠΣ code «6017450». That decision is a ministerial act outside the Gazette. It is identified by its record in the official Diavgeia transparency programme: ΑΔΑ 9ΠΕΔ46ΜΤΛΒ-47Ψ, protocol number ΤΕΑ/10/3.018-σλη΄ (the same series as the inclusion decision), issuer ΥΠΟΥΡΓΕΙΟ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ, subject «ΑΠΟΦΑΣΗ ΑΝΑΚΛΗΣΗΣ ΑΠΟΦΑΣΗΣ ΕΝΤΑΞΗΣ ΠΡΑΞΗΣ», date of issue 2026-08-17; it is the only revocation decision the programme lists for that code after ν. 5313/2026 was published. The repeal is dated by that day; the date comes from the record, not from the decision's own text. Par. 4 β) (a joint ministerial decision, Β΄ 5629) is outside this act.
+- A repealed article or paragraph is removed from the day the repeal takes effect, as elsewhere in the corpus. Art. 44 keeps its title, which names the amendment its par. 2 made.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5130/2024 is dated 2024-08-01, the date on the issue's masthead: its commencement article (art-053) reads «1. Με την επιφύλαξη της παρ. 2, η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν άλλως ορίζεται σε επιμέρους διατάξεις.». Provisions it starts later are shown from publication.
+- ν. 5130/2024: art-044: quotation without a closing » before Άρθρο 45 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5314/2026 art. 774 pars. 2-4 do not date art. 773; ν. 5321/2026 art. 54 replaces art. 773 (corrections) and its par. Β no. 7 repeals art. 44 par. 2 of ν. 5130/2024 in the same words, so it changes nothing here
+- Parse log: ν. 5314/2026 art. 773 par. Β no. 7: art-044 par. 2 repealed (removed, 2 line(s))
+- Parse log: ν. 5313/2026 art. 137 does not date art. 123; its par. 4 sets its own day, the issue of the revocation decision (2026-08-17)
+- Parse log: ν. 5313/2026 art. 123 par. 4 α): art-045 repealed (removed)

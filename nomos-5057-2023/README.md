@@ -37,3 +37,34 @@
 | Άρθρο 31 | [art-031.md](art-031.md) | 0 |  |
 | Άρθρο 32 | [art-032.md](art-032.md) | 3 | 2025-07-07 |
 | Άρθρο 33 | [art-033.md](art-033.md) | 0 |  |
+
+Act id: `nomos-5057-2023` (tags `nomos-5057-2023/<day>`; `python tools/on.py <day> nomos-5057-2023`).
+
+## Decisions made by hand
+
+- ν. 5057/2023 (COVID-19 vaccination, health staff, the National Public Health Organisation and other provisions) is given as published in ΦΕΚ Α΄ 164/2023, then with each later amendment, read in the amending law's own Gazette issue: 215/2023 (ν. 5079/2023); 169/2024 (ν. 5149/2024); 196/2024 (ν. 5161/2024); 100/2025 (ν. 5209/2025); 118/2025 (ν. 5216/2025).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2023 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, whose timeline stops at 100 rows and shows no Α΄ issue. Amending: ν. 5079/2023 art. 69, ν. 5149/2024 art. 75 par. 2, ν. 5161/2024 art. 15, ν. 5209/2025 art. 131 and ν. 5216/2025 art. 47. Other mentions only refer to it: ν. 5079/2023 art. 66 par. 1 α) extends to 31 March 2024 the COVID-19 rules whose validity art. 3 par. 1 α) had extended, and ν. 5161/2024 art. 44 par. 4 extends art. 11 par. 2 to 31 December 2025; both extend validity and change no words of ν. 5057/2023. ΦΕΚ Α΄ 162/2024 (the VAT Code codification) and ΦΕΚ Α΄ 88/2026 (a codification, its art. 273 and its correspondence table) name it only as a source. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 5161/2024 art. 15 (ΦΕΚ Α΄ 196/2024) prints no closing » after the restated art. 14 and closes both quotations at the end of its par. 2 («… κατ’ εφαρμογή του άρθρου 14.»»»): the restated art. 14 is read up to par. 2, and art. 32 par. 3 ends «… του άρθρου 14.».
+- Words an instruction changes without quoting them (ν. 5079/2023 art. 69: the closing day; ν. 5149/2024: the new par. 5; ν. 5209/2025: the second sentence) are taken from the restatement.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5057/2023 is dated 2023-10-06, the date on the issue's masthead: its commencement article (art-033) reads «1. Με την επιφύλαξη της παρ. 2, η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις του.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5079/2023 art. 123: in force on publication; art. 69 gives no day of its own
+- Parse log: ν. 5079/2023 art. 69: art-032 par. 1 restated (1 line(s) -> 1); 1 described change(s) checked
+- Parse log: ν. 5149/2024: art. 75 lies in ΜΕΡΟΣ Δ’
+- Parse log: ν. 5149/2024 art. 76 par. 2 dates Part Β’ (and arts. 41-45, 50) only; art. 75 is in Part Δ’
+- Parse log: ν. 5149/2024 art. 75 par. 2: art-010 restated (6 lines -> 7); 5 described change(s) checked; instruction: 1. Στο άρθρο 49 του ν. 4807/2021 (Α’ 96), περί παράτασης συμβάσεων προσωπικού της Γενικής Γραμματείας Πολιτικής Προστασί
+- Parse log: ν. 5161/2024 art. 50 par. 2 dates art. 13 only
+- Parse log: ν. 5161/2024 art. 15 par. 1: the issue prints no closing » after the restated art. 14; the quotation is read up to par. 2 of art. 15
+- Parse log: ν. 5161/2024 art. 15 par. 1: art-014 restated (3 lines -> 3); 1 described change(s) checked; instruction: 1. Στο πρώτο εδάφιο του άρθρου 14 του ν. 5057/2023 (Α’ 164), περί ηλεκτρονικού συστήματος παρακολούθησης της διακίνησης
+- Parse log: ν. 5161/2024 art. 15 par. 2: the quotation ends «… του άρθρου 14.»»», closing the restated art. 14 as well; the second » is not part of art. 32 par. 3
+- Parse log: ν. 5161/2024 art. 15 par. 2: art-032 par. 3 restated (1 line(s) -> 1); 1 described change(s) checked
+- Parse log: ν. 5209/2025: art. 131 lies in ΜΕΡΟΣ Ε’
+- Parse log: ν. 5209/2025 art. 132 par. 2 στ): Part Ε’ (arts. 116-131) in force on publication
+- Parse log: ν. 5209/2025 art. 131: art-015 restated (3 lines -> 3); 1 described change(s) checked; instruction: Στο άρθρο 15 του ν. 5057/2023 (Α’ 164), περί της αποστολής κατ’ οίκον φαρμακευτικών ιδιοσκευασμάτων για θεραπεία σοβαρών
+- Parse log: ν. 5216/2025 art. 61: in force on publication; art. 47 gives no day of its own
+- Parse log: ν. 5216/2025 art. 47: art-032 par. 3 restated (1 line(s) -> 1); 1 described change(s) checked
+- Restated wording: ν. 5161/2024 art. 15 par. 1: the restatement reads «» where the described change gives «ορίζεται». The restatement governs: it reads «υπεύθυνος επεξεργασίας είναι το Υπουργείο Υγείας» where the instruction quotes «ορίζεται υπεύθυνος επεξεργασίας το Υπουργείο Υγείας».
+- Restated wording: ν. 5161/2024 art. 15 par. 1: the restatement reads «είναι» where the described change gives «». The restatement governs (the same change as «ορίζεται» above).
+- Restated wording: ν. 5161/2024 art. 15 par. 1: the restatement reads «ν» where the described change gives «». The restatement governs: it prints «του ν. ν. 4270/2014», with «ν.» twice.
+- Restated wording: ν. 5216/2025 art. 47: the restatement reads «σε» where the described change gives «για την». The restatement governs: the instruction restates par. 3 «μετά από νομοτεχνικές βελτιώσεις» (after drafting improvements), and it reads «οι κυρώσεις σε περίπτωση μη συμμόρφωσής τους» for «οι κυρώσεις για την περίπτωση μη συμμόρφωσής τους».

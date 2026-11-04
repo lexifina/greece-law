@@ -32,3 +32,12 @@
 | Άρθρο 26 | [art-026.md](art-026.md) | 0 |  |
 | Άρθρο 27 | [art-027.md](art-027.md) | 0 |  |
 | Άρθρο 28 | [art-028.md](art-028.md) | 0 |  |
+
+Act id: `nomos-4666-2020` (tags `nomos-4666-2020/<day>`; `python tools/on.py <day> nomos-4666-2020`).
+
+## Decisions made by hand
+
+- ν. 4666/2020 (amendment of ν. 4251/2014 transposing Directive (EU) 2016/801 on third-country nationals entering for research, studies, training, voluntary service, pupil exchange or au pairing) is given as published in ΦΕΚ Α΄ 35/2020, its only version: no later law amends it. Amending laws were looked for in three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2020 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading; the ΦΕΚ Α΄ issues of 2026 that legalize-gr lacks (58-127, 143, 144, 147, 148, 174 and 175), read in the Gazette PDFs themselves, every mention read by hand; and the timeline of the official search.et.gr index for the issue, fetched on 2026-11-02, whose only later Α΄ row is ΦΕΚ Α΄ 17/2026 ("Αντικατάσταση"). The scan finds three mentions, each read by hand: ΦΕΚ Α΄ 96/2020 (ν. 4686/2020) art. 32 names it inside the words it adds to art. 7 of ν. 4251/2014; ΦΕΚ Α΄ 81/2023 (the Migration Code, ν. 5038/2023) art. 9 names it in its list of residence permits; and ΦΕΚ Α΄ 17/2026 (ν. 5275/2026) art. 10, the issue the index lists, replaces in art. 9 of that Code the words that name ν. 4666/2020. These are references only. None amends ν. 4666/2020. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 4666/2020 is dated 2020-02-19, the date on the issue's masthead: its commencement article (art-028) reads «Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν άλλη διάταξη ορίζει διαφορετικά.». Provisions it starts later are shown from publication.
+- ν. 4666/2020: art-004: quotation without a closing » before Άρθρο 5; art-007: quotation without a closing » before Άρθρο 8; art-011: quotation without a closing » before Άρθρο 12; art-012: quotation without a closing » before Άρθρο 13 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

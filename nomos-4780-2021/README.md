@@ -44,3 +44,18 @@
 | Άρθρο 38 | [art-038.md](art-038.md) | 0 |  |
 | Άρθρο 39 | [art-039.md](art-039.md) | 0 |  |
 | Άρθρο 40 | [art-040.md](art-040.md) | 0 |  |
+
+Act id: `nomos-4780-2021` (tags `nomos-4780-2021/<day>`; `python tools/on.py <day> nomos-4780-2021`).
+
+## Decisions made by hand
+
+- ν. 4780/2021 (the National Accessibility Authority, the National Commission for Human Rights and the National Bioethics and Technoethics Committee) is given as published in ΦΕΚ Α΄ 30/2021, then with each later amendment, read in the amending law's own Gazette issue: 251/2021 (ν. 4876/2021).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2021 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention of the law read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, whose only later Α΄ row is ΦΕΚ Α΄ 251/2021. Amending: ν. 4876/2021 arts. 184 and 185 (ΦΕΚ Α΄ 251/2021). The presidential decree in ΦΕΚ Α΄ 128/2023 (the organisation of the National Commission for Human Rights) is made under it and cites it only. Issues after Α΄ 177/2026 were searched only through the official index.
+- Art. 185 adds the third sentence of art. 29 par. 9 without quoting it ("a third sentence on the financial support of the Commission"): the sentence is taken from the restated paragraph.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 4780/2021 is dated 2021-02-28, the date on the issue's masthead: its commencement article (art-040) reads «Η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις του.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 4876/2021 art. 186: in force on publication; arts. 184 and 185 give no day of their own
+- Parse log: ν. 4876/2021 art. 184: art-032 par. 1 restated (1 line(s) -> 1); 1 described change(s) checked
+- Parse log: ν. 4876/2021 art. 185: art-029 par. 9 restated (1 line(s) -> 1); 1 described change(s) checked
+- Restated wording: ν. 4876/2021 art. 185: the restatement reads «» where the described change gives «οικονομικά». Art. 29 par. 9, first sentence: the restatement reads «υποστηρίζεται διοικητικά και τεχνικά» where the published text reads «διοικητικά, οικονομικά και τεχνικά»; the instruction names only the added third sentence (financial support now comes from the Ministry of Finance). The restatement (ν. 4876/2021's own text) governs and is used as printed.

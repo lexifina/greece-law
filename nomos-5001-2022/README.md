@@ -83,3 +83,11 @@
 | Άρθρο 77 | [art-077.md](art-077.md) | 0 |  |
 | Άρθρο 78 | [art-078.md](art-078.md) | 0 |  |
 | Άρθρο 79 | [art-079.md](art-079.md) | 0 |  |
+
+Act id: `nomos-5001-2022` (tags `nomos-5001-2022/<day>`; `python tools/on.py <day> nomos-5001-2022`).
+
+## Decisions made by hand
+
+- ν. 5001/2022 (selection and training of court employees at the National School of Judges and other Ministry of Justice provisions) is given as published in ΦΕΚ Α΄ 227/2022, its only version: no later law amends it. Amending laws were looked for in three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2022 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading; the ΦΕΚ Α΄ issues of 2026 that legalize-gr lacks (58-127, 143, 144, 147, 148, 174 and 175), read in the Gazette PDFs themselves, every mention read by hand; and the timeline of the official search.et.gr index for the issue, fetched on 2026-11-02, whose later rows are Β΄ and Γ΄ issues (ministerial decisions and appointments) and one issue of the Α.Σ.Ε.Π. series (a staff selection notice), none of which amends a statute. The scan finds no article that names it. None amends ν. 5001/2022. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 5001/2022 is dated 2022-12-09, the date on the issue's masthead: its commencement article (art-079) reads «Η ισχύς του νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

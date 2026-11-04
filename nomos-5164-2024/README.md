@@ -88,3 +88,25 @@
 | Άρθρο 82 | [art-082.md](art-082.md) | 0 |  |
 | Άρθρο 83 | [art-083.md](art-083.md) | 0 |  |
 | Άρθρο 84 | [art-084.md](art-084.md) | 0 |  |
+
+Act id: `nomos-5164-2024` (tags `nomos-5164-2024/<day>`; `python tools/on.py <day> nomos-5164-2024`).
+
+## Decisions made by hand
+
+- ν. 5164/2024 (corporate sustainability reporting (Directive (EU) 2022/2464), accounting categories, the General Commercial Registry and other provisions) is given as published in ΦΕΚ Α΄ 202/2024, then with each later amendment, read in the amending law's own Gazette issue: 219/2025 (ν. 5255/2025); 103/2026 (ν. 5314/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2024 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention of the law read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, whose only later Α΄ row is ΦΕΚ Α΄ 219/2025 (its Β΄ rows are ministerial decisions, which do not amend a statute). Amending: ν. 5255/2025 art. 57 (ΦΕΚ Α΄ 219/2025) and the Local Government Code, ν. 5314/2026 art. 773 (ΦΕΚ Α΄ 103/2026; ν. 5321/2026 art. 54, ΦΕΚ Α΄ 114/2026, repeats the repeal in the same words). ΦΕΚ Α΄ 10/2025 art. 92 lets the statutory auditor also give the assurance of the art. 7 reports for financial year 2024, without changing words of ν. 5164/2024; ΦΕΚ Α΄ 105/2026 art. 11 refers to it only. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 5255/2025 art. 57 lists each change to art. 14 pars. 1 and 3 and art. 18 and restates them; the parse applies the listed changes and checks them against the restatements, which govern. In par. 3 the listed changes also correct the item letter «β)» to «ββ)»; the restatement also prints «1ης Ιανουαρίου 2026» where par. 3 read «1η Ιανουαρίου 2026» (the change of that date is listed), and in art. 18 «οι οποίοι» where it read «οι οποίες».
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5164/2024 is dated 2024-12-12, the date on the issue's masthead: its commencement article (art-084) reads «1. Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις. 2. Η ισχύς του άρθρου 77 αρχίζει από την 1η Ιανουαρίου 2025.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5255/2025 art. 57: in force on publication (art. 64 par. 1; par. 2 dates art. 47 only)
+- Parse log: ν. 5255/2025 art. 57 par. 1: the instruction quotes the replaced words as «όπως ορίζονται στο Παράρτημα Α’ του ν. 4308/2014 και υπερβαίνουν κατά την ημερομηνία κλεισίματος του ισολογισμού τους»; the text reads «όπως ορίζονται στο Παράρτημα Α’ του ν. 4308/2014 και υπερβαίνουν, κατά την ημερομηνία κλεισίματος του ισολογισμού τους»
+- Parse log: ν. 5255/2025 art. 57 par. 1: art-014 par. 1 restated (11 line(s) -> 11); 4 described change(s) checked
+- Parse log: ν. 5255/2025 art. 57 par. 2: the instruction quotes the replaced words as «όπως ορίζονται στο Παράρτημα Α’ του ν. 4308/2014 και υπερβαίνουν κατά την ημερομηνία κλεισίματος του ισολογισμού τους»; the text reads «όπως ορίζονται στο Παράρτημα Α’ του ν. 4308/2014 και υπερβαίνουν, κατά την ημερομηνία κλεισίματος του ισολογισμού τους»
+- Parse log: ν. 5255/2025 art. 57 par. 2: the instruction quotes the replaced words as «1ης Ιανουαρίου 2026»; the text reads «1η Ιανουαρίου 2026»
+- Parse log: ν. 5255/2025 art. 57 par. 2: art-014 par. 3 restated (11 line(s) -> 11); 6 described change(s) checked
+- Parse log: ν. 5255/2025 art. 57 par. 3: art-014-a added (7 lines)
+- Parse log: ν. 5255/2025 art. 57 par. 4: art-018 restated (13 lines -> 13); 5 described change(s) checked; instruction: 1. Στην παρ. 1 του άρθρου 14 του ν. 5164/2024 (Α’ 202), περί του χρόνου έναρξης των υποχρεώσεων του Κεφαλαίου Α’, επέρχο
+- Parse log: ν. 5314/2026 art. 774 pars. 2-4 do not date art. 773; ν. 5321/2026 art. 54 replaces art. 773 from the Code's first day and its par. Β no. 5 repeals art. 77 of ν. 5164/2024 in the same words
+- Parse log: ν. 5314/2026 art. 773 par. Β no. 5: art-077 repealed (removed)
+- Restated wording: ν. 5255/2025 art. 57 par. 4: the restatement reads «οποίοι» where the described change gives «οποίες». Not among the listed changes: the restatement (ν. 5255/2025's own text) governs and is used as printed.

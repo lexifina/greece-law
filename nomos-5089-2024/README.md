@@ -19,3 +19,11 @@
 | Άρθρο 13 | [art-013.md](art-013.md) | 0 |  |
 | Άρθρο 14 | [art-014.md](art-014.md) | 0 |  |
 | Άρθρο 15 | [art-015.md](art-015.md) | 0 |  |
+
+Act id: `nomos-5089-2024` (tags `nomos-5089-2024/<day>`; `python tools/on.py <day> nomos-5089-2024`).
+
+## Decisions made by hand
+
+- ν. 5089/2024 (equality in civil marriage, amendment of the Civil Code and other provisions) is given as published in ΦΕΚ Α΄ 27/2024, its only version: no later law amends it. Amending laws were looked for in three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2024 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading; the ΦΕΚ Α΄ issues of 2026 that legalize-gr lacks (58-127, 143, 144, 147, 148, 174 and 175), read in the Gazette PDFs themselves, every mention read by hand; and the timeline of the official search.et.gr index for the issue, fetched on 2026-11-02, whose only later row is ΦΕΚ Α΄ 121/2025 (presidential decree 62/2025, the Labour Code). The scan finds mentions only in that decree, which codifies provisions of ν. 5089/2024 (arts. 6, 7, 8, 9 and 12) among the Labour Code's own articles and repeals only presidential decree 80/2022: it changes no words of ν. 5089/2024. None amends ν. 5089/2024. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 5089/2024 is dated 2024-02-16, the date on the issue's masthead: its commencement article (art-015) reads «Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν άλλως ορίζεται σε επιμέρους διατάξεις.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

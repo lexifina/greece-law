@@ -86,3 +86,26 @@
 | Άρθρο 94 | [art-094.md](art-094.md) | 0 |  |
 | Άρθρο 95 | [art-095.md](art-095.md) | 0 |  |
 | Άρθρο 96 | [art-096.md](art-096.md) | 0 |  |
+
+Act id: `nomos-5027-2023` (tags `nomos-5027-2023/<day>`; `python tools/on.py <day> nomos-5027-2023`).
+
+## Decisions made by hand
+
+- ν. 5027/2023 (public administration, local government and other provisions) is given as published in ΦΕΚ Α΄ 48/2023, then with each later amendment, read in the amending law's own Gazette issue: 91/2023 (ν. 5043/2023); 137/2023 (ν. 5046/2023); 120/2025 (ν. 5217/2025); 9/2026 (ν. 5270/2026); 103/2026 (ν. 5314/2026).
+- Amendment search: every legalize-gr mention through ΦΕΚ Α΄ 177/2026, the 2026 gap issues and the official issue relation index. The textual amendments are ν. 5043/2023 arts. 26 and 42, ν. 5046/2023 art. 36, ν. 5217/2025 art. 97, ν. 5270/2026 art. 28 and the Local Government Code’s corrected repeal list. ν. 5056/2023 art. 53 par. 2 repealed art. 50 before its 1 January 2024 start, so it never enters an in-force version. Other mentions extend arrangements or refer to changes in other laws without changing this law’s words.
+- Art. 96 dates art. 64 from 31 December 2022, before publication, so it appears from publication. Arts. 52 and 85 govern board appointments after the current boards end; no calendar day for those events is stated, so the text is shown from publication with this qualification.
+- ν. 5043/2023 art. 26 restates art. 77: the restatement prints «κατά τη» for «κατά την», «μονίμου» for «μόνιμου», omits a comma before «ο οποίος», and joins «τ.ΑΣΕΠ» without the space in the earlier text. The restatement governs.
+- ν. 5046/2023 art. 36 par. 2 states 1 July 2023 for its added sentence, before publication of that issue on 29 July; under the corpus rule for starts before publication, the new sentence is dated from publication and the stated day is recorded here.
+- ν. 5321/2026 art. 54 replaced art. 773 of the Local Government Code as a correction: its list, not the list first printed in ν. 5314/2026, governs. It excludes arts. 39, 46, 57 and 58 of ν. 5027/2023, includes art. 56, and retains the repeal of art. 50, which ν. 5056/2023 had already repealed before commencement.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5027/2023 is dated 2023-03-02, the date on the issue's masthead: its commencement article (art-096) reads «1. α. Με την επιφύλαξη της παρ. 2, η ισχύς του παρόντος νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5043/2023 art. 26 par. 1: art-077 restated (5 lines -> 7); 6 described change(s) checked; instruction: 1. Στο άρθρο 77 του ν. 5027/2023 (Α’ 48) επέρχονται οι εξής αλλαγές: α) στην παρ. 1 αα) μετά από τις λέξεις
+- Parse log: ν. 5043/2023 art. 42: art-063 gains par. 4 at its end (3 line(s))
+- Parse log: ν. 5046/2023 art. 36 par. 1: art-035 par. 1 restated (1 line(s) -> 1); 1 described change(s) checked
+- Parse log: ν. 5217/2025 art. 97 no. 2: art-017 repealed (removed)
+- Parse log: ν. 5270/2026 art. 28: art-033 restated (5 lines -> 8); 3 described change(s) checked; instruction: Στο άρθρο 33 του ν. 5027/2023 (Α’ 48), περί σύστασης Μητρώου για Σωματεία Γενικού Σκοπού, επέρχονται οι ακόλουθες τροποπ
+- Parse log: ν. 5314/2026 art. 773 par. Α no. 21, as corrected by ν. 5321/2026 art. 54: art-040, art-041, art-042, art-043, art-044, art-045, art-047, art-048, art-049, art-050, art-051, art-056, art-059 repealed (removed)
+- Restated wording: ν. 5043/2023 art. 26 par. 1: the restatement reads «τη» where the described change gives «την». The restatement prints «κατά τη 18η.12.2018» rather than «κατά την 18η.12.2018»; it governs.
+- Restated wording: ν. 5043/2023 art. 26 par. 1: the restatement reads «μονίμου» where the described change gives «μόνιμου». The restatement prints the genitive with the other accent; it governs.
+- Restated wording: ν. 5043/2023 art. 26 par. 1: the restatement reads «τασεπ» where the described change gives «τ ασεπ». The restatement joins «τ. ΑΣΕΠ» as «τ.ΑΣΕΠ»; it governs.

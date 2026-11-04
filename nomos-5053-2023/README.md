@@ -43,3 +43,11 @@
 | Άρθρο 37 | [art-037.md](art-037.md) | 0 |  |
 | Άρθρο 38 | [art-038.md](art-038.md) | 0 |  |
 | Άρθρο 39 | [art-039.md](art-039.md) | 0 |  |
+
+Act id: `nomos-5053-2023` (tags `nomos-5053-2023/<day>`; `python tools/on.py <day> nomos-5053-2023`).
+
+## Decisions made by hand
+
+- ν. 5053/2023 (strengthening work: transparent and predictable working conditions (Directive (EU) 2019/1152), simpler digital procedures and the digital work card, and the Ministry of Labour and the Labour Inspectorate) is given as published in ΦΕΚ Α΄ 158/2023, its only version: no later law amends it. Amending laws were looked for in three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2023 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading; the ΦΕΚ Α΄ issues of 2026 that legalize-gr lacks (58-127, 143, 144, 147, 148, 174 and 175), read in the Gazette PDFs themselves, every mention read by hand; and the timeline of the official search.et.gr index for the issue, fetched on 2026-11-02, whose only later Α΄ row is ΦΕΚ Α΄ 178/2025 (its Β΄ and Γ΄ rows are ministerial decisions and appointments, which do not amend a statute). The scan finds mentions in two issues, each read by hand. Presidential decree 62/2025 (ΦΕΚ Α΄ 121/2025), the Labour Code, codifies provisions of ν. 5053/2023 among its own articles and repeals only presidential decree 80/2022, so it changes no words of ν. 5053/2023. ν. 5239/2025 (ΦΕΚ Α΄ 178/2025, the issue the index lists) arts. 4, 5 and 20 amend arts. 73, 75, 190 and 578 of that Code, the articles "with which" arts. 6, 5, 10 and 21 of ν. 5053/2023 were codified: they change the Code's words, and the words of ν. 5053/2023 itself stay as published. None amends ν. 5053/2023. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 5053/2023 is dated 2023-09-26, the date on the issue's masthead: its commencement article (art-039) reads «Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός εάν άλλως ορίζεται στις επιμέρους διατάξεις του.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

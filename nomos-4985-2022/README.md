@@ -93,3 +93,12 @@
 | Άρθρο 87 | [art-087.md](art-087.md) | 0 |  |
 | Άρθρο 88 | [art-088.md](art-088.md) | 0 |  |
 | Άρθρο 89 | [art-089.md](art-089.md) | 0 |  |
+
+Act id: `nomos-4985-2022` (tags `nomos-4985-2022/<day>`; `python tools/on.py <day> nomos-4985-2022`).
+
+## Decisions made by hand
+
+- ν. 4985/2022 (reform of the Penitentiary Code and other provisions) is given as published in ΦΕΚ Α΄ 203/2022, its only version: no later law amends it. Amending laws were looked for in three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2022 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading; the ΦΕΚ Α΄ issues of 2026 that legalize-gr lacks (58-127, 143, 144, 147, 148, 174 and 175), read in the Gazette PDFs themselves, every mention read by hand; and the timeline of the official search.et.gr index for the issue, fetched on 2026-11-02, whose later rows are Β΄ issues (ministerial decisions) and one Υ.Ο.Δ.Δ. issue (an appointment), none of which amends a statute. The scan finds four mentions, in ΦΕΚ Α΄ 25/2023, 41/2023, 137/2023 and 164/2023: each grants further sums or extends the time for commitments of the defence credits approved by arts. 86 and 87 of ν. 4985/2022, by adding to the other laws those articles amended (ν. 4361/2016 art. 32 and ν. 4258/2014 art. 26); the words of ν. 4985/2022 itself stay as published. None amends ν. 4985/2022. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 4985/2022 is dated 2022-10-27, the date on the issue's masthead: its commencement article (art-089) reads «Η ισχύς του νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν διαφορετικά ορίζεται στις επί μέρους διατάξεις.». Provisions it starts later are shown from publication.
+- ν. 4985/2022: art-038: quotation without a closing » before Άρθρο 39 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

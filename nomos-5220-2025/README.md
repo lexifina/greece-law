@@ -63,3 +63,12 @@
 | Άρθρο 57 | [art-057.md](art-057.md) | 0 |  |
 | Άρθρο 58 | [art-058.md](art-058.md) | 0 |  |
 | Άρθρο 59 | [art-059.md](art-059.md) | 0 |  |
+
+Act id: `nomos-5220-2025` (tags `nomos-5220-2025/<day>`; `python tools/on.py <day> nomos-5220-2025`).
+
+## Decisions made by hand
+
+- ν. 5220/2025 (railway safety and supervision) is given as published in ΦΕΚ Α΄ 131/2025, its only version: no later law amends it. Amending laws were looked for in two ways: a full-text scan of every ΦΕΚ Α΄ issue from the law's year to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading, and the official search.et.gr relation index for the issue (legalize-gr's `amended_by` field, which lists no Α΄ issue). Neither finds any.
+- ν. 5220/2025 is dated 2025-07-21, the date on the issue's masthead: its commencement article (art-059) reads «1. Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις και με την επιφύλαξη των παρ. 2 και 3. 2. Η ισχύς του άρθρου 13, περί Προϊσταμένου Αμαξοστοιχίας, αρχίζει από την 1η Ιανουαρίου 2026. 3. Η ισχύς του άρθρου 46, περί διευκρίνισης της έννοιας του επιβάτη κατά τους Κανονισμούς 2007/1371 και 2021/782 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου αρχίζει από την ημερομηνία έναρξης ισχύος του Κανονισμού (ΕΚ) 2007/1371 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου, της 23ης Οκτωβρίου 2007, σχετικά με τα δικαιώματα και τις υποχρεώσεις των επιβατών σιδηροδρομικών γραμμών (L 315), ήτοι από την 3η.12.2009.». Provisions it starts later are shown from publication.
+- ν. 5220/2025: art-055: quotation without a closing » before Άρθρο 56 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

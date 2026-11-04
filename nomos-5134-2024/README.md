@@ -124,3 +124,18 @@
 | Άρθρο 118 | [art-118.md](art-118.md) | 0 |  |
 | Άρθρο 119 | [art-119.md](art-119.md) | 0 |  |
 | Άρθρο 120 | [art-120.md](art-120.md) | 0 |  |
+
+Act id: `nomos-5134-2024` (tags `nomos-5134-2024/<day>`; `python tools/on.py <day> nomos-5134-2024`).
+
+## Decisions made by hand
+
+- ν. 5134/2024 (amendments to the Codes of Civil and Criminal Procedure and the Code of Courts and Judicial Officers for the unified first instance (ν. 5108/2024), the judicial police and other urgent provisions) is given as published in ΦΕΚ Α΄ 146/2024, then with each later amendment, read in the amending law's own Gazette issue: 154/2024 (ν. 5140/2024).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2024 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention of the law read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, whose only later Α΄ row is ΦΕΚ Α΄ 154/2024 ("Τροποποίηση", "Ακύρωση"; its Β΄ and Γ΄ rows are ministerial decisions and appointments, which do not amend a statute). Amending: ν. 5140/2024 art. 72 par. 1 (ΦΕΚ Α΄ 154/2024), which repeals art. 51 par. 4; the scan finds no other article that names ν. 5134/2024, and the 2026 issues read in the PDFs do not mention it. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 5134/2024 art. 19 prints two opening quotation marks («Άρθρο 208 … «1. Τίτλο …) and one closing mark; the text is kept as printed.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5134/2024 starts in two steps, by its own commencement article (art-120): «1. Η ισχύς του Μέρους Α’, περί των παρεμβάσεων στον Κώδικα Πολιτικής Δικονομίας (π.δ. 503/1985, Α’ 182), του Μέρους Β’, περί των παρεμβάσεων στον Κώδικα Ποινικής Δικονομίας (ν. 4620/2019, Α’ 96), του Μέρους Γ’, περί των παρεμβάσεων στον Κώδικα Οργανισμού Δικαστηρίων και Κατάστασης Δικαστικών Λειτουργών (ν. 4938/2022, Α’ 109) και των άρθρων 104, 105, 106, 108 και 109 του Μέρους Ε’ αρχίζει από τη 16η.9.2024. 2. Η ισχύς των λοιπών διατάξεων του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν άλλως ορίζεται σε επιμέρους διατάξεις.» So the first version (2024-09-11, publication, the date on the issue's masthead) holds only the articles in force then (arts. 94-103, 107 and 110-120); the other 98 articles are added on 2024-09-16, credited to the law itself. The heading of Part Ε’, printed above art. 104, comes with that article.
+- ν. 5134/2024: art-019: quotation without a closing » before Άρθρο 20 (in the issue text layer); the next article of the law itself closes it.
+- ν. 5134/2024: the issue sets the promulgation formula («Παραγγέλλομε τη δημοσίευση του παρόντος στην Εφημερίδα της Κυβερνήσεως και την εκτέλεσή του ως νόμου του Κράτους.») on the same line as the last paragraph of art-120; it is not part of the article and is left out.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5140/2024 art. 72 par. 1: in force on publication (art. 73 par. 1; pars. 2-5 do not name art. 72)
+- Parse log: ν. 5140/2024 art. 72 par. 1: art-051 par. 4 repealed (removed, 1 line(s))

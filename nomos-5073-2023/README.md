@@ -63,3 +63,11 @@
 | Άρθρο 57 | [art-057.md](art-057.md) | 0 |  |
 | Άρθρο 58 | [art-058.md](art-058.md) | 0 |  |
 | Άρθρο 59 | [art-059.md](art-059.md) | 0 |  |
+
+Act id: `nomos-5073-2023` (tags `nomos-5073-2023/<day>`; `python tools/on.py <day> nomos-5073-2023`).
+
+## Decisions made by hand
+
+- ν. 5073/2023 (measures against tax evasion and other urgent provisions) is given as published in ΦΕΚ Α΄ 204/2023, its only version: no later law amends it. Amending laws were looked for in three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2023 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading; the ΦΕΚ Α΄ issues of 2026 that legalize-gr lacks (58-127, 143, 144, 147, 148, 174 and 175), read in the Gazette PDFs themselves; and the timeline of the official search.et.gr index for the issue, fetched on 2026-11-02, which lists no Α΄ issue against it. The scan finds only Α΄ 162/2024, a presidential decree codifying the VAT Code, which names arts. 29 and 53 of ν. 5073/2023 (amendments of ν. 2859/2000) only in its notes of sources and its correspondence tables. The 2026 issues read in the PDFs do not mention it. None amends ν. 5073/2023. Issues after Α΄ 177/2026 were searched only through the official index. Its art. 59 starts some provisions on other days (arts. 5, 9 and 27-29 on 1 January 2024, art. 57 on 1 December 2023, art. 55 par. 2 retroactively from 28 February 2023, others by tax year or transaction); as for every law here, the text is shown from publication.
+- ν. 5073/2023 is dated 2023-12-11, the date on the issue's masthead: its commencement article (art-059) reads «1. Ο παρών νόμος ισχύει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. 11. Η ισχύς της παρ. 2 του άρθρου 55 αρχίζει από την 28η.2.2023.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

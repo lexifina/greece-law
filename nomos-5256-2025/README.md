@@ -53,3 +53,24 @@
 | Άρθρο 47 | [art-047.md](art-047.md) | 0 |  |
 | Άρθρο 48 | [art-048.md](art-048.md) | 0 |  |
 | Άρθρο 49 | [art-049.md](art-049.md) | 0 |  |
+
+Act id: `nomos-5256-2025` (tags `nomos-5256-2025/<day>`; `python tools/on.py <day> nomos-5256-2025`).
+
+## Decisions made by hand
+
+- ν. 5256/2025 (digital road safety and other provisions) is given as published in ΦΕΚ Α΄ 223/2025, then with each later amendment, read in the amending law's own Gazette issue: 85/2026 (ν. 5305/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2025 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, which lists ΦΕΚ Α΄ 85/2026 as its only Α΄ issue (its Β΄ rows are ministerial decisions, which do not amend a statute). Amending: ν. 5305/2026 arts. 16 and 17. Issues after Α΄ 177/2026 were searched only through the official index.
+- Art. 49 par. 2 starts Chapter Δ of Part Α (arts. 11-15) with the issue of the joint ministerial decision of art. 23 par. 8, which is not published in ΦΕΚ Α΄ and whose date was not found; as for every law here, the text is shown from publication.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5256/2025 is dated 2025-12-08, the date on the issue's masthead: its commencement article (art-049) reads «1. Με την επιφύλαξη της παρ. 2, η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως. 2. Η ισχύς του Κεφαλαίου Δ’ του Μέρους Α’ αρχίζει με την έκδοση της κοινής απόφασης της παρ. 8 του άρθρου 23.». Provisions it starts later are shown from publication.
+- ν. 5256/2025: art-033: quotation without a closing » before Άρθρο 34 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5305/2026 art. 43 par. 2 defers only a provision added to ν. 4727/2020 (by its art. 21), not arts. 16-17; their instructions have no words on their own commencement
+- Parse log: ν. 5305/2026 art. 16: the issue prints no closing » after the restated art. 32; the quotation is read from «Άρθρο 32 to the end of art. 16 (par. 9)
+- Parse log: ν. 5305/2026 art. 16: art-032 restated (24 lines -> 30); 1 described change(s) checked; instruction: Το άρθρο 32 του ν. 5256/2025 (Α’ 223), περί υποβολής ψηφιακού αντιγράφου του δελτίου ταυτότητας σε φορείς του ιδιωτικού
+- Parse log: ν. 5305/2026 art. 17: art-041 restated (4 lines -> 3); 1 described change(s) checked; instruction: Το άρθρο 41 του ν. 5256/2025 (Α’ 223), περί εξουσιοδοτικών διατάξεων του Μέρους Β’, αντικαθίσταται ως εξής:
+- Reading the restatement: ν. 5305/2026 art. 16: line split before «ε) ημερομηνία γέννησης, στ) τ…» (run into the line before it)
+- Reading the restatement: ν. 5305/2026 art. 16: line split before «στ) τόπος γέννησης, ζ) ημερομ…» (run into the line before it)
+- Reading the restatement: ν. 5305/2026 art. 16: line split before «ζ) ημερομηνία και αρχή έκδοση…» (run into the line before it)
+- Reading the restatement: ν. 5305/2026 art. 16: line split before «η) ημερομηνία λήξης, εφόσον π…» (run into the line before it)
+- Reading the restatement: ν. 5305/2026 art. 16: line split before «δ) του έτους γέννησης του φυσ…» (run into the line before it)

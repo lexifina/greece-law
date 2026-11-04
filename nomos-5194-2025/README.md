@@ -59,3 +59,16 @@
 | Άρθρο 52 | [art-052.md](art-052.md) | 0 |  |
 | Άρθρο 53 | [art-053.md](art-053.md) | 0 |  |
 | Άρθρο 54 | [art-054.md](art-054.md) | 0 |  |
+
+Act id: `nomos-5194-2025` (tags `nomos-5194-2025/<day>`; `python tools/on.py <day> nomos-5194-2025`).
+
+## Decisions made by hand
+
+- ν. 5194/2025 (the Association of Dietitians-Nutritionists of Greece and other health provisions) is given as published in ΦΕΚ Α΄ 66/2025, then with each later amendment, read in the amending law's own Gazette issue: 167/2025 (ν. 5234/2025); 78/2026 (ν. 5302/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2025 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-01, which lists ΦΕΚ Α΄ 167/2025 and Α΄ 78/2026. Amending: ν. 5234/2025 art. δεύτερο and ν. 5302/2026 art. 63 par. 7. Other mentions only refer to it: ΦΕΚ Α΄ 184/2025 (art. 53) and Α΄ 228/2025, which extends a deadline that art. 42 of ν. 5194/2025 had extended, without changing its words. Issues after Α΄ 177/2026 were not searched.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5194/2025 is dated 2025-05-02, the date on the issue's masthead: its commencement article (art-054) reads «1. Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, με την επιφύλαξη των παρ. 2 και 3. 2. Η ισχύς του τρίτου εδαφίου της παρ. 2 του εσωτερικού άρθρου 10Α του άρθρου 43 αρχίζει από την 1η Ιανουαρίου 2026. 3. Η ισχύς του εσωτερικού άρθρου 23 του άρθρου 47 αρχίζει από την 1η Μαΐου 2025.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5234/2025 art. δεύτερο: art-034-a added (3 lines)
+- Parse log: ν. 5302/2026 art. 101 pars. 2-7 defer arts. 12(1), 16, 17, 53(1)-(3), 57(1) and 82, not art. 63
+- Parse log: ν. 5302/2026 art. 63 par. 7: art-033 gains pars. 4α, 4β after par. 4 (2 line(s))

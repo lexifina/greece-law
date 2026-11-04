@@ -31,3 +31,18 @@
 | Άρθρο 25 | [art-025.md](art-025.md) | 0 |  |
 | Άρθρο 26 | [art-026.md](art-026.md) | 0 |  |
 | Άρθρο 27 | [art-027.md](art-027.md) | 0 |  |
+
+Act id: `nomos-5067-2023` (tags `nomos-5067-2023/<day>`; `python tools/on.py <day> nomos-5067-2023`).
+
+## Decisions made by hand
+
+- ν. 5067/2023 is built from the Government Gazette alone: the act as published (ΦΕΚ Α΄ 189/2023) and the one law that amends it, read in its own issue (ΦΕΚ Α΄ 30/2026). Greece publishes no official consolidated text.
+- Amending laws were looked for three ways: (1) a full-text scan of every ΦΕΚ Α΄ issue from 2023 to Α΄ 177/2026 for an article naming a provision of ν. 5067/2023 outside a quotation with an amending verb or heading, in legalize-gr (commit 36cb88a374cd) and, for the 2026 issues it lacks (58-127, 143, 144, 147, 148, 174, 175), in the Gazette PDFs themselves: it finds only Α΄ 30/2026; (2) legalize-gr's `amended_by` field for Α΄ 189/2023: Α΄ 30/2026; (3) the official search.et.gr index's timeline for the issue: Α΄ 30/2026 is the only Α΄ issue listed as amending it. Issues after Α΄ 177/2026 were not searched.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Signatures are not units.
+- Each version is dated by the law's own commencement clause: publication, the date on the issue's masthead.
+- Where ν. 5282/2026 describes a word change and then restates the paragraph, the restated text is used and the parse checks that the described change applied to the old paragraph gives it.
+- Decision: ν. 5282/2026 art. 64 restates art. 22 par. 1 in full, and that restatement is the law's own text, so it governs. Besides the described change («μερική» becomes «πλήρη») it makes one more: «Ανωτάτου Δικαστικού Συμβουλίου» is spelled «Ανώτατου Δικαστικού Συμβουλίου». That spelling change is made by ν. 5282/2026 itself and is credited to it with the rest of the paragraph.
+- Parse log: ν. 5067/2023 art. 27: in force on publication
+- Parse log: ν. 5282/2026 art. 76: in force on publication, save arts. 36, 40 and 41 (from 1 May 2026); art. 64 sets no date of its own
+- Parse log: ν. 5282/2026 art. 64 (art-022 par. 1): «μερική» -> «πλήρη» in the first sentence, paragraph restated (1 line(s) -> 1)
+- Restated wording: ν. 5282/2026 art. 64 (art-022 par. 1): the restated text reads «ανώτατου» where the old text, as the instruction describes the change, reads «ανωτάτου»

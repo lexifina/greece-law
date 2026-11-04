@@ -55,3 +55,19 @@
 | Άρθρο 50 | [art-050.md](art-050.md) | 0 |  |
 | Άρθρο 51 | [art-051.md](art-051.md) | 0 |  |
 | Άρθρο 52 | [art-052.md](art-052.md) | 0 |  |
+
+Act id: `nomos-5131-2024` (tags `nomos-5131-2024/<day>`; `python tools/on.py <day> nomos-5131-2024`).
+
+## Decisions made by hand
+
+- ν. 5131/2024 (restructuring of the Hellenic Corporation of Assets and Participations and other provisions) is given as published in ΦΕΚ Α΄ 128/2024, then with each later amendment, read in the amending law's own Gazette issue: 134/2025 (ν. 5222/2025); 64/2026 (ν. 5297/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2024 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, which lists ΦΕΚ Α΄ 134/2025 only ("Αντικατάσταση"). Amending: ν. 5222/2025 art. 264 and ν. 5297/2026 art. 231 περ. ε) (a repeal, which the index does not list). Other mentions only refer to it: the codification in ΦΕΚ Α΄ 88/2026, which names art. 42 par. 1 of ν. 5131/2024 (an amendment of ν. 4495/2017) in its source notes and correspondence table, and ΦΕΚ Α΄ 175/2026, financial statements that describe its arts. 5 and 15. Issues after Α΄ 177/2026 were searched only through the official index.
+- A repealed article is removed from the day the repeal takes effect, as elsewhere in the corpus.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5131/2024 is dated 2024-08-02, the date on the issue's masthead: its commencement article (art-052) reads «Ο παρών νόμος ισχύει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται ειδικότερα σε επιμέρους διατάξεις του.». Provisions it starts later are shown from publication.
+- ν. 5131/2024: art-049: quotation without a closing » before Άρθρο 50 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5222/2025 art. 275 pars. 2 ff. date other provisions, not art. 264
+- Parse log: ν. 5222/2025 art. 264: art-034 par. 1 restated (1 line(s) -> 1); 1 described change(s) checked
+- Parse log: ν. 5297/2026 art. 230 par. 1 keeps only art. 231 περ. θ) from pending applications, not περ. ε)
+- Parse log: ν. 5297/2026 art. 231 περ. ε): art-048 repealed (removed)

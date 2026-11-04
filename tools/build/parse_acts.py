@@ -776,6 +776,33 @@ CITE = re.compile(r"(?<![\d/])(\d{4})\s*/\s*(\d{4}|\d{2})(?![\d/])")
 # a presidential decree by number (folded text): π.δ. 75/2022, πδ 75/2022, προεδρικου διαταγματοσ 75/2022
 PD_CITE = re.compile(r"(?<![α-ω.])(?:π\s*\.\s*δ\s*\.?(?:/τοσ)?|πδ|προεδρικ\w*\s+διαταγματ\w*)\s*(?:υπ[’']?\s*αριθμ?\.?\s*)?"
                      r"(\d{1,4})\s*/\s*(\d{4}|\d{2})(?![\d/])")
+# more numbers under the same designation: 'τα π.δ. 1/2000 (Α' 1), 2/2000 «...» και 3/2000'
+PD_MORE = re.compile(r"\s*(?:\([^()]{0,60}\)\s*)?(?:«[^«»]{0,400}»\s*)?(?:\([^()]{0,60}\)\s*)?,?\s*(?:,|και|καθωσ\s+και)?\s*"
+                     r"(?:το\s+|του\s+)?(\d{1,4})\s*/\s*(\d{4}|\d{2})(?![\d/])")
+
+
+def pd_cites(text: str):
+    """Every decree cited in folded text: (number, year as written, start of the number, end, start of its
+    designation or -1 for a number listed after another one's designation)."""
+    seen = set()
+    for m in PD_CITE.finditer(text):
+        if m.start(1) not in seen:
+            seen.add(m.start(1))
+            yield int(m.group(1)), m.group(2), m.start(1), m.end(), m.start()
+        pos = m.end()
+        while True:
+            mm = PD_MORE.match(text, pos)
+            if not mm or mm.start(1) == pos:
+                break
+            sep = text[pos:mm.start(1)]
+            if not re.search(r",|και", re.sub(r"\([^()]*\)|«[^«»]*»", " ", sep)):
+                break   # two numbers need a comma or 'και' between them
+            if mm.start(1) not in seen:
+                seen.add(mm.start(1))
+                yield int(mm.group(1)), mm.group(2), mm.start(1), mm.end(), -1
+            pos = mm.end()
+
+
 ISSUE_CITE = re.compile(r"(?:φεκ\s*)?(?:α|a)\s*[’']?\s*(\d{1,3})\s*/\s*(?:\d{1,2}\s*[./-]\s*\d{1,2}\s*[./-]\s*)?(\d{4})"
                         r"|(\d{1,3})\s*/\s*(?:α|a)[’']?\s*/?\s*(\d{4})")
 # The official index's relations that can change a text, when a later ΦΕΚ Α΄ document points at this one.
@@ -898,7 +925,7 @@ def whole_repeal(paras: list[str], pi: int, s: int, e: int, des: int) -> bool:
         if not re.search(r"καταργ", gov[-1]):
             return False
     g = " ".join(gov)
-    g = CITE.sub(" @ ", PD_CITE.sub(" @ ", g))
+    g = re.sub(r"(?<![\d/])\d{1,4}\s*/\s*(?:\d{4}|\d{2})(?![\d/])", " @ ", CITE.sub(" @ ", PD_CITE.sub(" @ ", g)))
     g = OWN_DAY.sub(" ", g)
     return not (CHANGE.search(g) or EXCEPTED.search(g) or TIME_WORDS.search(g))
 
@@ -943,8 +970,8 @@ def repeal_items(blocks, docs) -> list[list]:
                 md = LAW_DESIG.search(fp, 0, mm.start())
                 law_like = md is not None and md.end() == mm.start() and not re.search(r"[α-ω]$", fp[:md.start()])
                 hits.append(("law", int(mm.group(1)), mm.group(2), mm.start(), mm.end(), md.start() if law_like else -1))
-            for mm in PD_CITE.finditer(fp):
-                hits.append(("pd", int(mm.group(1)), mm.group(2), mm.start(1), mm.end(), mm.start()))
+            for n_, y_, s_, e_, des_ in pd_cites(fp):
+                hits.append(("pd", n_, y_, s_, e_, des_))
             for k, n, y, s, e, des in hits:
                 how = "bad"
                 if kind in ("law", "pd") and des >= 0 and not quoted:
@@ -1000,8 +1027,8 @@ def process_issue(dump: dict) -> dict:
             continue
         for m in CITE.finditer(text):
             cites.add((int(m.group(1)), m.group(2)))
-        for m in PD_CITE.finditer(text):
-            pdcites.add((int(m.group(1)), m.group(2)))
+        for n_, y_, _, _, _ in pd_cites(text):
+            pdcites.add((n_, y_))
         if kind == "corrections":
             for m in ISSUE_CITE.finditer(text):
                 iss, y = (m.group(1), m.group(2)) if m.group(1) else (m.group(3), m.group(4))
@@ -1434,7 +1461,8 @@ def main():
                 "Office's index records it (its publication date, which recent issues also carry in their digital "
                 "signature), not the issue date printed on the masthead, which can be earlier. No general rule is applied: "
                 "decrees without a readable clause, or starting before their publication day, are held back.",
-                "A decree is published only when no later ΦΕΚ Α΄ text read for this corpus cites it by number (π.δ. N/YYYY) "
+                "A decree is published only when no later ΦΕΚ Α΄ text read for this corpus cites it by number (π.δ. N/YYYY, "
+                "or N/YYYY listed after another decree under one designation: 'τα π.δ. 1/2000, 2/2000 και 3/2000') "
                 "in an article, title or erratum that amends, replaces, repeals, adds to, corrects, extends, suspends or "
                 "interprets anything (an over-cautious test), and only when the National Printing Office's index records "
                 "no later ΦΕΚ Α΄ document amending, replacing or invalidating its issue; codifications are never "

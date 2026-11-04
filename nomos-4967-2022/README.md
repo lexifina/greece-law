@@ -74,3 +74,12 @@
 | Άρθρο 68 | [art-068.md](art-068.md) | 0 |  |
 | Άρθρο 69 | [art-069.md](art-069.md) | 0 |  |
 | Άρθρο 70 | [art-070.md](art-070.md) | 0 |  |
+
+Act id: `nomos-4967-2022` (tags `nomos-4967-2022/<day>`; `python tools/on.py <day> nomos-4967-2022`).
+
+## Decisions made by hand
+
+- ν. 4967/2022 (contracts for digital content and digital services (Directive (EU) 2019/770)) is given as published in ΦΕΚ Α΄ 171/2022, its only version: no later law amends it. Amending laws were looked for in three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2022 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading; the ΦΕΚ Α΄ issues of 2026 that legalize-gr lacks (58-127, 143, 144, 147, 148, 174 and 175), read in the Gazette PDFs themselves, every mention read by hand; and the timeline of the official search.et.gr index for the issue, fetched on 2026-11-02, whose only later row is a Β΄ issue (a ministerial decision). The scan finds no amending article; ΦΕΚ Α΄ 108/2026 art. 81 names it only in a definition. None amends ν. 4967/2022. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 4967/2022 is dated 2022-09-09, the date on the issue's masthead: its commencement article (art-070) reads «Η ισχύς του νόμου αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως.». Provisions it starts later are shown from publication.
+- ν. 4967/2022: art-032: quotation without a closing » before Άρθρο 33 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

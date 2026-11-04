@@ -18,3 +18,11 @@
 | Άρθρο 12 | [art-012.md](art-012.md) | 0 |  |
 | Άρθρο 13 | [art-013.md](art-013.md) | 0 |  |
 | Άρθρο 14 | [art-014.md](art-014.md) | 0 |  |
+
+Act id: `nomos-5061-2023` (tags `nomos-5061-2023/<day>`; `python tools/on.py <day> nomos-5061-2023`).
+
+## Decisions made by hand
+
+- ν. 5061/2023 (sustainable tourism development) is given as published in ΦΕΚ Α΄ 179/2023, its only version: no later law amends it. Amending laws were looked for in three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2023 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading; the ΦΕΚ Α΄ issues of 2026 that legalize-gr lacks (58-127, 143, 144, 147, 148, 174 and 175), read in the Gazette PDFs themselves, every mention read by hand; and the timeline of the official search.et.gr index for the issue, fetched on 2026-11-02, whose only Α΄ row is ΦΕΚ Α΄ 64/2026 (its Β΄ rows are ministerial decisions). The scan finds no amending article. ν. 5297/2026 (ΦΕΚ Α΄ 64/2026) art. 248 par. 2 amends art. 45Α of ν. 4933/2022, which ν. 5061/2023 had added to that law; it changes that law, and the words of ν. 5061/2023 itself stay as published. None amends ν. 5061/2023. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 5061/2023 is dated 2023-10-30, the date on the issue's masthead: its commencement article (art-014) reads «Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν άλλως ορίζεται ειδικότερα.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

@@ -72,3 +72,17 @@
 | Άρθρο 66 | [art-066.md](art-066.md) | 0 |  |
 | Άρθρο 67 | [art-067.md](art-067.md) | 0 |  |
 | Άρθρο 68 | [art-068.md](art-068.md) | 0 |  |
+
+Act id: `nomos-4950-2022` (tags `nomos-4950-2022/<day>`; `python tools/on.py <day> nomos-4950-2022`).
+
+## Decisions made by hand
+
+- ν. 4950/2022 (measures against the COVID-19 pandemic, protection of public health and other urgent provisions) is given as published in ΦΕΚ Α΄ 128/2022, then with each later amendment, read in the amending law's own Gazette issue: 11/2025 (ν. 5173/2025).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2022 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention of the law read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, whose timeline is cut off at 100 rows; its only Α΄ row is ΦΕΚ Α΄ 11/2025 (the others are Β΄, Γ΄, Υ.Ο.Δ.Δ. and Α.Σ.Ε.Π. issues: decisions, appointments and staff notices, which do not amend a statute). Amending: ν. 5173/2025 art. 17 (ΦΕΚ Α΄ 11/2025). ν. 4999/2022 art. 63 (ΦΕΚ Α΄ 225/2022) lets doctors kept in service under art. 39 of ν. 4950/2022 stay longer, without changing its words; ν. 5157/2024 art. 13 (ΦΕΚ Α΄ 187/2024) refers to art. 49. Issues after Α΄ 177/2026 were searched only through the official index.
+- A repealed paragraph or item is removed from the day the repeal takes effect, as elsewhere in the corpus. After ν. 5173/2025 art. 17, art. 50 keeps only par. 2 item α), printed as it stands («2. α) …»).
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 4950/2022 is dated 2022-07-02, the date on the issue's masthead: its commencement article (art-068) reads «Η ισχύς του νόμου αυτού αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν άλλως ορίζεται σε επιμέρους διατάξεις.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5173/2025 art. 24: in force on publication; its pars. 2 and 3 date arts. 18-20 and 23 only, not art. 17
+- Parse log: ν. 5173/2025 art. 17: art-050 par. 2 item β) repealed (removed, 1 line(s))
+- Parse log: ν. 5173/2025 art. 17: art-050 par. 1 repealed (removed, 1 line(s))

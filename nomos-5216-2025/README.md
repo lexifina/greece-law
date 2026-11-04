@@ -65,3 +65,31 @@
 | Άρθρο 59 | [art-059.md](art-059.md) | 0 |  |
 | Άρθρο 60 | [art-060.md](art-060.md) | 0 |  |
 | Άρθρο 61 | [art-061.md](art-061.md) | 0 |  |
+
+Act id: `nomos-5216-2025` (tags `nomos-5216-2025/<day>`; `python tools/on.py <day> nomos-5216-2025`).
+
+## Decisions made by hand
+
+- ν. 5216/2025 (protection of minors from tobacco and alcohol, non-tobacco products and other provisions) is given as published in ΦΕΚ Α΄ 118/2025, then with each later amendment, read in the amending law's own Gazette issue: 78/2026 (ν. 5302/2026).
+- Amending laws were looked for three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2025 to Α΄ 177/2026, in legalize-gr (commit 36cb88a374cd) where it has the issue and in the Gazette PDF where it does not (2026: 58-127, 143, 144, 147, 148, 174, 175), every mention read by hand; and the official search.et.gr relation index for the issue, fetched on 2026-11-02, which lists ΦΕΚ Α΄ 78/2026 only. Amending: ν. 5302/2026 arts. 39, 40, 41, 42 and 72. The only other mentions, in the Local Government Code ratified by ν. 5314/2026 (ΦΕΚ Α΄ 103/2026: art. 356, the municipal police's powers, and a table of competences), refer to it. Issues after Α΄ 177/2026 were searched only through the official index.
+- ΦΕΚ Α΄ 118/2025 prints the topographic plans that arts. 49 and 50 attach as Annexes Α and Β as images on 12 pages (2784-2795), with no text layer; they are left out (no OCR). Arts. 49 and 50 are given in full.
+- Where an amending article lists its changes and then restates the article, the restatement (the amending law's own text) is used, and the parse checks that the listed changes applied to the old text give it; words the instruction adds or replaces without quoting them are taken from the restatement at the place it names. Any other difference is listed below with the decision that accepts it.
+- ν. 5216/2025 is dated 2025-07-07, the date on the issue's masthead: its commencement article (art-061) reads «Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν προβλέπεται διαφορετικά στις επιμέρους διατάξεις του.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
+- Parse log: ν. 5302/2026 art. 101 pars. 2-7 defer arts. 12(1), 16, 17, 53(1)-(3), 57(1) and 82, not arts. 39-42 or 72
+- Parse log: ν. 5302/2026 art. 39: the instruction places its addition after «πώλησης της περ. ε) της παρ. 1,»; the text reads «πώλησης της περ. ε) της παρ. 1»
+- Parse log: ν. 5302/2026 art. 39: art-028 restated (7 lines -> 8); 3 described change(s) checked; instruction: Στο άρθρο 28 του ν. 5216/2025 (Α’ 118), περί των όρων και προϋποθέσεων πώλησης και διάθεσης ηλεκτρικά θερμαινόμενων προϊ
+- Parse log: ν. 5302/2026 art. 40: art-032 restated (6 lines -> 6); 4 described change(s) checked; instruction: Στο άρθρο 32 του ν. 5216/2025 (Α’ 118), περί αρμοδίων αρχών, επέρχονται οι ακόλουθες τροποποιήσεις: α) Στο πρώτο εδάφιο
+- Parse log: ν. 5302/2026 art. 41: «και, εφόσον πρόκειται για κατάστημα που …» added at the end of the sentence ending «…ανακαλείται οριστικά η άδεια λειτουργίας»
+- Parse log: ν. 5302/2026 art. 41: art-033 restated (5 lines -> 6); 9 described change(s) checked; instruction: Στο άρθρο 33 του ν. 5216/2025 (Α’ 118), περί κυρώσεων, επέρχονται οι ακόλουθες τροποποιήσεις: α) Στην παρ. 1, αα) μετά α
+- Parse log: ν. 5302/2026 art. 42: art-034 par. 1 restated (1 line(s) -> 1); 1 described change(s) checked
+- Parse log: ν. 5302/2026 art. 72: art-054 par. 1 restated (1 line(s) -> 1); 1 described change(s) checked
+- Restated wording: ν. 5302/2026 art. 40: the restatement reads «εοδυ» where the described change gives «». ν. 5302/2026 art. 40 restates art. 32 «μετά από νομοτεχνικές βελτιώσεις» (after drafting improvements) with changes it does not list: par. 2 adds the abbreviation «(Ε.Ο.Δ.Υ.)»; par. 3 cites the new National Customs Code (ν. 5222/2025, Α’ 134: art. 131 par. 2, art. 159 par. 2, arts. 168-192) in place of the old one (ν. 2960/2001, Α’ 265: art. 119Α par. 1, art. 142 par. 2, arts. 150-177); par. 4 reads «αρμόδιες» for «αρμόδιο», to agree with its new plural subject. The restatement is the amending law’s own text and governs.
+- Restated wording: ν. 5302/2026 art. 40: the restatement reads «2» where the described change gives «1». Part of the same unlisted update of art. 32 par. 3 to the new National Customs Code (see «εοδυ» above).
+- Restated wording: ν. 5302/2026 art. 40: the restatement reads «131» where the described change gives «119α». Part of the same unlisted update of art. 32 par. 3 to the new National Customs Code (see «εοδυ» above).
+- Restated wording: ν. 5302/2026 art. 40: the restatement reads «159» where the described change gives «142». Part of the same unlisted update of art. 32 par. 3 to the new National Customs Code (see «εοδυ» above).
+- Restated wording: ν. 5302/2026 art. 40: the restatement reads «168» where the described change gives «150». Part of the same unlisted update of art. 32 par. 3 to the new National Customs Code (see «εοδυ» above).
+- Restated wording: ν. 5302/2026 art. 40: the restatement reads «192» where the described change gives «177». Part of the same unlisted update of art. 32 par. 3 to the new National Customs Code (see «εοδυ» above).
+- Restated wording: ν. 5302/2026 art. 40: the restatement reads «5222/2025» where the described change gives «2960/2001». Part of the same unlisted update of art. 32 par. 3 to the new National Customs Code (see «εοδυ» above).
+- Restated wording: ν. 5302/2026 art. 40: the restatement reads «134» where the described change gives «265». Part of the same unlisted update of art. 32 par. 3 to the new National Customs Code (see «εοδυ» above).
+- Restated wording: ν. 5302/2026 art. 40: the restatement reads «αρμόδιες» where the described change gives «αρμόδιο». Agreement with the new plural subject of art. 32 par. 4 (see «εοδυ» above).

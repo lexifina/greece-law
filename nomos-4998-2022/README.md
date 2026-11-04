@@ -29,3 +29,11 @@
 | Άρθρο 23 | [art-023.md](art-023.md) | 0 |  |
 | Άρθρο 24 | [art-024.md](art-024.md) | 0 |  |
 | Άρθρο 25 | [art-025.md](art-025.md) | 0 |  |
+
+Act id: `nomos-4998-2022` (tags `nomos-4998-2022/<day>`; `python tools/on.py <day> nomos-4998-2022`).
+
+## Decisions made by hand
+
+- ν. 4998/2022 (the national ETIAS unit and other urgent provisions) is given as published in ΦΕΚ Α΄ 221/2022, its only version: no later law amends it. Amending laws were looked for in three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2022 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading; the ΦΕΚ Α΄ issues of 2026 that legalize-gr lacks (58-127, 143, 144, 147, 148, 174 and 175), read in the Gazette PDFs themselves, every mention read by hand; and the timeline of the official search.et.gr index for the issue, fetched on 2026-11-02, which lists no later issue. The scan finds no article that names it. None amends ν. 4998/2022. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 4998/2022 is dated 2022-11-30, the date on the issue's masthead: its commencement article (art-025) reads «Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν ορίζεται διαφορετικά στις επιμέρους διατάξεις του.». Provisions it starts later are shown from publication.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.

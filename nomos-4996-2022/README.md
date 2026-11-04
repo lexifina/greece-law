@@ -60,3 +60,12 @@
 | Άρθρο 54 | [art-054.md](art-054.md) | 0 |  |
 | Άρθρο 55 | [art-055.md](art-055.md) | 0 |  |
 | Άρθρο 56 | [art-056.md](art-056.md) | 0 |  |
+
+Act id: `nomos-4996-2022` (tags `nomos-4996-2022/<day>`; `python tools/on.py <day> nomos-4996-2022`).
+
+## Decisions made by hand
+
+- ν. 4996/2022 (copyright and related rights in certain online transmissions of broadcasters and retransmissions of television and radio programmes (Directive (EU) 2019/789)) is given as published in ΦΕΚ Α΄ 218/2022, its only version: no later law amends it. Amending laws were looked for in three ways: a full-text scan of every ΦΕΚ Α΄ issue from 2022 to Α΄ 177/2026 in legalize-gr (commit 36cb88a374cd), for an article naming a provision of the law outside a quotation with an amending verb or heading; the ΦΕΚ Α΄ issues of 2026 that legalize-gr lacks (58-127, 143, 144, 147, 148, 174 and 175), read in the Gazette PDFs themselves, every mention read by hand; and the timeline of the official search.et.gr index for the issue, fetched on 2026-11-02, whose only later Α΄ row is ΦΕΚ Α΄ 108/2026 ("Ακύρωση"; its Β΄ row is a ministerial decision). The scan finds no article in legalize-gr that names it. In the 2026 issues read in the PDFs, ΦΕΚ Α΄ 108/2026 (ν. 5317/2026, the issue the index lists) names it twice in art. 97, in the article it adds to ν. 2251/1994 on the obligation to repair, a reference only; no article of that law repeals or changes a provision of ν. 4996/2022. None amends ν. 4996/2022. Issues after Α΄ 177/2026 were searched only through the official index.
+- ν. 4996/2022 is dated 2022-11-24, the date on the issue's masthead: its commencement article (art-056) reads «Η ισχύς του παρόντος αρχίζει από τη δημοσίευσή του στην Εφημερίδα της Κυβερνήσεως, εκτός αν προβλέπεται διαφορετικά σε επιμέρους διατάξεις του παρόντος.». Provisions it starts later are shown from publication.
+- ν. 4996/2022: art-012: quotation without a closing » before Άρθρο 13 (in the issue text layer); the next article of the law itself closes it.
+- Units are articles (art-NNN), as in the other Greek parts: the headings that open an article, "Άρθρο N", its title, then one paragraph or item per line. Annexes and signatures are not units.
