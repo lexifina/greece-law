@@ -1,5 +1,7 @@
 # Greece: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Greece's national law, which global-law reads at `greece/national/acts/`.
+
 The law of Greece as a git history: one file per article, one commit per change on the day it took effect, and the revision or Gazette issue that made each change as the commit's author. `git blame` names the revision behind every paragraph; `git log` lists every change to an article; checking out a date gives the text in force that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `gr/`. The texts are in Greek, as published in the Government Gazette (Εφημερίδα της Κυβερνήσεως, ΦΕΚ).
