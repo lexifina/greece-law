@@ -1,0 +1,19 @@
+The legal texts come from the Government Gazette of the Hellenic Republic:
+
+  Πηγή: Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο, https://www.et.gr,
+  issue PDFs read from https://ia37rg02wpsa01.blob.core.windows.net/fek/, retrieved 29 October 2026.
+
+They are official legislative texts of the Hellenic Republic. Greek copyright law does not extend to official texts
+that express the exercise of state authority, in particular legislative, administrative and judicial texts
+(ν. 2121/1993, άρθρο 2 παρ. 5).
+
+Changes made by Lexifina: each Gazette issue was converted to one Markdown file per article, one paragraph per line;
+typography (legacy font encoding, Latin look-alike letters, apostrophes and numeral signs, quotes, dashes, line-end
+hyphens) was normalised; the publisher's asterisks marking each revision were removed from the text and used only to
+check the credits; and the texts were arranged as git commits credited to the revision resolutions and
+republications that made each change. The wording of the law was not changed. The National Printing Office and the
+Hellenic Parliament do not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
