@@ -1,129 +1,88 @@
 # Greece: law history in git
 
-[Ελληνικά](README.md) · **English**
+**English** · **[Ή διαβάστε το στα ελληνικά](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Greek law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of Greece as a git history: one file per article, one commit per version on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Greece's national law, which global-law reads at `greece/national/acts/`.
 
-The law of Greece as a git history: one file per article, one commit per change on the day it took effect, and the revision or Gazette issue that made each change as the commit's author. `git blame` names the revision behind every paragraph; `git log` lists every change to an article; checking out a date gives the text in force that day.
+**What is in it now:** the Constitution, with 5 versions since 2001; 112 laws of 2006 to 2026, with 217 versions, 88 of them with every later amendment found; 503 presidential decrees of 2010 to 2026; and 65 regulatory acts of the Municipality of Athens, from Diavgeia. [`ACTS.md`](ACTS.md) lists every act by kind, with its folder and versions (eight laws are in two folders, one in each layout).
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `gr/`. The texts are in Greek, as published in the Government Gazette (Εφημερίδα της Κυβερνήσεως, ΦΕΚ).
+Each act is in `<kind>/<year>/<number>/` (`diatagma/2019/42/` is π.δ. 42/2019); the laws followed through their amendments keep `nomos-<number>-<year>/` (`nomos-4624-2019/` is ν. 4624/2019 on personal data), the Constitution is [`syntagma/`](syntagma/) (`art-101.md` is Article 101), and the Athens acts are in `local/dimos-athinaion/<year>/<ΑΔΑ>/`. `data/paths.json` maps each act id to its folder.
 
-**What is in it now**
-
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `syntagma/` | Σύνταγμα της Ελλάδας (the Constitution) | 5 | The text after the 2001 revision (in force 17 April 2001), the 2008 revision (2 June 2008) and its whole-text republication (27 June 2008), the 2019 revision (28 November 2019) and its whole-text republication (24 December 2019), which is the current official text |
-| `nomos-4624-2019/` | ν. 4624/2019, personal data protection (Data Protection Authority, GDPR measures, Directive 2016/680) | 7 | As published (29 August 2019; art. 86 from 1 September 2019), then every amendment from the amending law's own Gazette issue: ν. 4829/2021 (10 September 2021), ν. 5002/2022 (9 December 2022), ν. 5043/2023 (13 April 2023), ν. 5197/2025 (16 May 2025) and ν. 5221/2025 (28 July 2025) |
-
-**Not the whole history.** The Constitution of 1975 and its 1986 revisions are in the Gazette only as page images, with no text layer. We do not read text off images (no OCR), so the history starts with the text as it stood after the 2001 revision. That first version is credited to the publisher as "oldest version available".
-
-**ν. 4624/2019 is complete.** Its history starts with the law as enacted and holds every amendment to it, each applied in the amending law's own words.
+The text is in Greek, as the Government Gazette (ΦΕΚ) prints it, and as Diavgeia posts the Athens acts. An English translation is not part of this record.
 
 ## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did art. 101 say on 1 January 2010? | `python tools/se_ischy.py 2010-01-01 syntagma 101` |
-| The same, with raw git (bash) | `git show $(git rev-list -1 --before="2010-01-01T23:59:59Z" main -- syntagma/art-101.md):syntagma/art-101.md` |
-| The same, in PowerShell | `$r = git rev-list -1 --before="2010-01-01T23:59:59Z" main -- syntagma/art-101.md; git show "$($r):syntagma/art-101.md"` |
-| Which revision wrote each paragraph of art. 86? | `git blame syntagma/art-086.md` |
-| Every change to art. 32, word by word | `git log -p --word-diff syntagma/art-032.md` |
-| Every change in order | `git log --reverse --format="%ad %an" --date=short main` |
-| Everything the 2019 revision changed | `git show law/psifisma-2019` (tags `law/<key>` mark each commit) |
-| The whole Constitution on a date | `python tools/se_ischy.py 2005-01-01 syntagma` |
-| The text as each version | `git show syntagma/2019-12-24` (tags `<act>/<in-force day>`) |
-| What did art. 18 of ν. 4624/2019 say on 1 January 2024? | `python tools/se_ischy.py 2024-01-01 nomos-4624-2019 18` |
-| Everything ν. 5002/2022 changed in ν. 4624/2019 | `git show law/n-5002-2022` |
+| Every change to Article 101 of the Constitution | `git log -p --word-diff -- syntagma/art-101.md` |
+| Which revision wrote each paragraph of Article 101? | `git blame syntagma/art-101.md` |
+| Every version of Article 101, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- syntagma/art-101.md` |
+| Article 101 in one of those versions | `git show <commit>:syntagma/art-101.md` |
 
-**Or ask in plain words.** The same record is free to use without git, an account or a key:
+**Outside git**, we also host this record publicly, for free:
 
-- **[Ask Claude about Greek law](https://global-law.lexifina.com/v1/try_claude?country=greece&q=what%20does%20the%20Constitution%20%28%CE%A3%CF%8D%CE%BD%CF%84%CE%B1%CE%B3%CE%BC%CE%B1%29%20say%20about%20the%20right%20to%20work%20%28%CE%AC%CF%81%CE%B8%CF%81%CE%BF%2022%29%20today%2C%20and%20which%20revisions%20have%20changed%20the%20Constitution%20since%202001%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: one click opens Claude with a first question ready (the right to work in the Constitution, and how the Constitution has changed).
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=greece&q=what%20does%20the%20Constitution%20%28%CE%A3%CF%8D%CE%BD%CF%84%CE%B1%CE%B3%CE%BC%CE%B1%29%20say%20about%20the%20right%20to%20work%20%28%CE%AC%CF%81%CE%B8%CF%81%CE%BF%2022%29%20today%2C%20and%20which%20revisions%20have%20changed%20the%20Constitution%20since%202001%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CF%8E%CE%BD+%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD&jurisdictions=greece)**: Greek law searched for "προσωπικών δεδομένων", answered as JSON. No key for 5 calls a minute; [every tool](https://global-law.lexifina.com/v1), [keys and documentation](https://lexifina.com/api).
+- **[Ask Claude about Greek law](https://global-law.lexifina.com/v1/try_claude?country=greece)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=greece)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=%CE%B5%CF%84%CE%AE%CF%83%CE%B9%CE%B1+%CE%AC%CE%B4%CE%B5%CE%B9%CE%B1&jurisdictions=greece)**: a search of Greek law for "ετήσια άδεια", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-The assistants read it through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives the link that adds it. In Claude, choose "Always allow" so that each look-up is not asked about. Ask in Greek or in English.
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Greek or in English.
 
-Articles inserted by a revision keep their printed numbering: art. 5Α is the file `art-005-a.md` (`se_ischy.py` accepts `5Α` or `5A`). The headings of the parts, sections and chapters are the first lines of the article they open, so the files read in order give the whole text. The preamble is `syntagma/prooimio.md`. After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add greece/national/acts
+python3 tools/law.py show 2026-01-01 greece/national/acts/syntagma/art-101.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-- Each commit is dated at **noon, Europe/Athens, on the day the change took effect**. The resolution's date and the Gazette date are trailers (`Enacted:`, `Published:`); the in-force day is in `In-force:`, which the tools read.
-- **Each revision took effect when its resolution was published in the Gazette.** Each resolution says so itself (clause Δ: "τίθενται σε ισχύ με τη δημοσίευση του Ψηφίσματος αυτού στην Εφημερίδα της Κυβερνήσεως"): 17 April 2001 (ΦΕΚ Α΄ 84), 2 June 2008 (Α΄ 102) and 28 November 2019 (Α΄ 187).
-- **Each revision is two commits.** Each resolution prints only the revised provisions, then orders the whole Constitution republished in a later issue. The first commit, on the resolution's day, changes only the revised articles, in the resolution's own words: clause Γ makes those the only authentic text of a revised provision. The second commit, on the republication day (27 June 2008, ΦΕΚ Α΄ 120; 24 December 2019, Α΄ 211), carries the republication's own differences, credited to that Gazette issue. These differences are spelling, punctuation and capitals, plus a few misprints. For example, the 2008 republication printed "δημοσεύει" in art. 42 and the 2019 one restored "δημοσιεύει". The 2019 resolution itself misprinted "εκλέγειται" in art. 32(4), and the republication corrected it.
-- **Applicability is not in the dates.** The 2001 resolution says its provisions on the functioning of Parliament apply once new Standing Orders are issued (clause Ε). Art. 96(5) (2019) leaves the start of its own application to a law. These conditions are in the text, not in the commit dates.
-- **ν. 4624/2019 and the laws that amend it** take effect on their publication in the Gazette, each by its own commencement article, which the parser reads from the issue (ν. 4624/2019 art. 87; ν. 4829/2021, last article; ν. 5002/2022 art. 51; ν. 5043/2023 art. 124; ν. 5197/2025, last article; ν. 5221/2025 art. 168). None of the exceptions in those articles touches a provision used here. The one exception is art. 86 of ν. 4624/2019 itself, whose par. 6 starts it on 1 September 2019, so it arrives in its own commit. The publication day is the date on the issue's masthead.
-- `--before="YYYY-MM-DD"` alone uses your clock's time of day, so it may miss a change that took effect that day. Use `T23:59:59Z` as above, or the tool.
+Each commit is dated at noon, Europe/Athens, on the day the version took effect, and carries it in its `In-force:` trailer (with `Enacted:` and `Published:`):
+
+- for the Constitution, the day each revision resolution was published in the Gazette, as each resolution provides (17 April 2001, 2 June 2008, 28 November 2019); the whole-text republication that follows is a second commit on its own day, holding only its own differences (spelling, punctuation, a few misprints);
+- for laws and decrees, the day their commencement article gives, most often publication in the Gazette, by the date on the issue's masthead. For the laws followed through their amendments, provisions that start later arrive in their own commits; any other act whose commencement article gives some provisions another day is dated by its general day, and its commit message says so;
+- for the Athens acts, the day each was posted on Diavgeia (ν. 4727/2020 art. 78 par. 2; ν. 3861/2010 art. 2 par. 4).
+
+Each change is credited to the act that made it (`ν. 5221/2025`, `π.δ. 42/2019`, `Αναθεώρηση 2019 (ΦΕΚ Α΄ 187/2019)`), with an address that cannot exist (`n-5221-2025@et.invalid`). The 2001 text of the Constitution, the oldest with a text layer, is credited to the Εθνικό Τυπογραφείο as the oldest version available, and each republication to its own Gazette issue.
 
 ## How it is checked
 
-- Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match the corpus. Results are in `REPRODUCE.md`.
-- Health checks: no merge commits on `main`, commit dates never go backwards, nothing is dated in the future, and every commit's trailers parse with git.
-- **Against the official text.** The newest version is the 2019 republication (ΦΕΚ Α΄ 211/24.12.2019), parsed article by article. The Constitution has not been revised since then.
-- **Against the resolutions.** Each revision commit changes exactly the articles listed in its resolution's part A:
-  - 2008: arts. 57, 79, 101 and 115;
-  - 2019: arts. 21, 32, 54, 62, 68, 73, 86, 96, 101Α, 112, 113, 114, 115 and 119.
-
-  The parser stops if a changed paragraph in a revised article matches none of the resolution's quoted provisions. The publisher's own asterisks in the republications mark the same articles (`***` for 2008, `****` for 2019).
-- **ν. 4624/2019.** Greece publishes no official consolidated text of ordinary laws, so the history is rebuilt from the Gazette alone: the law as enacted (ΦΕΚ Α΄ 137/2019), then each amending provision, located in its own issue by article number and heading. The parser stops unless:
-  - each instruction's target is found exactly once;
-  - where an instruction describes a change and then restates the result, the described change applied to the old text gives the restated text. The few words a restatement changes on its own (for example "το σκοπό" restated as "τον σκοπό") are listed in `REPRODUCE.md`;
-  - every quoted provision appears word for word in the resulting version.
-- **Which laws amend ν. 4624/2019** was established three ways: a full-text scan of every Gazette issue Α΄ since 2019 in legalize-gr (`tools/scan_legalize_gr.py`), the official search.et.gr relation index, and the amendment notes of the Hellenic Data Protection Authority's consolidated text. Together they give five amending laws, and each was read in its own issue.
-- **Against an official text.** The latest version agrees word for word with the Data Protection Authority's consolidated text (PDF of 10 December 2025) in every article and heading but two:
-  - art. 84Α: the Authority's text lacks the third sentence of par. 7, added by ν. 5197/2025 art. 56;
-  - art. 18 par. 8: the Authority's text keeps "π.δ. 50/2001", which ν. 5221/2025 restates as "π.δ. 85/2022".
-
-  In both cases the amending law's own Gazette text is followed.
-- Every version carries the Gazette PDF's URL and the sha256 of its bytes. The issue number and date of every issue used were checked against the issue's own masthead.
-- The repository is rebuilt from the same data a second time and must give identical hashes.
-
-## What "author" means
-
-The author of a commit is what made the change, with an e-mail address that cannot exist (`psifisma-2019@et.invalid`), so `git blame` and `git log --author` name it.
-
-- **A revision** ("Αναθεώρηση 2019 (ΦΕΚ Α΄ 187/2019)") is the resolution of a Revisionary Parliament (Αναθεωρητική Βουλή).
-- **A republication** ("ΦΕΚ Α΄ 211/2019 (republication)", kind `publisher`) is the whole text as the Gazette reprinted it. Its commits hold only differences that no revision explains.
-- **The first commit** (2001) is credited to the National Printing Office as the oldest text available. Its message names the Constitution of 1975 and the 1986 and 2001 resolutions behind it. The 2001 republication marks the provisions that the 2001 revision changed with `**`, but this history does not hold the text before 2001, so it cannot show those changes.
-- Blame credits whole lines (one paragraph per line). Use `git log -p --word-diff` to see exactly which words changed.
+- Each revision commit of the Constitution changes exactly the articles its resolution lists, and the parser stops if a changed paragraph matches none of the resolution's quoted provisions; the newest version is the 2019 republication (ΦΕΚ Α΄ 211/2019), the current official text.
+- The laws followed through their amendments are rebuilt from the Gazette alone, since Greece publishes no official consolidated text of ordinary laws: the parser stops unless each amending instruction's target is found exactly once and every quoted provision appears word for word in the result. ν. 4624/2019 agrees word for word with the Data Protection Authority's consolidated text except in two places, where the amending law's own Gazette text is followed.
+- Every version links the Gazette issue, or the Diavgeia record, it was read from; [`REPRODUCE.md`](REPRODUCE.md) lists every source with the day it was retrieved.
+- History is append-only: no merge commits, no rewriting, and no commit dated in the future.
 
 ## What it does not show
 
-- **The Constitution of 1975 and the 1986 revisions** (the 1986 revision and the move of the text into demotic Greek, ΦΕΚ Α΄ 24/14.3.1986), which exist only as scans.
-- **The katharevousa text.** The resolutions name the katharevousa text of 1975 as the authentic text of provisions that were never revised. This repository holds the official demotic text as the Gazette publishes it.
-- **The President of Parliament's order, signatures and footnotes** that frame each republication, and the publisher's asterisks.
-- **For ν. 4624/2019:** the signatures and the Gazette's own layout. Repealed paragraphs are removed rather than marked, except where an amending law itself restates a paragraph as «[Καταργείται]» (art. 18 par. 6 from 2025).
-- **The Penal Code (ν. 4619/2019), the Code of Criminal Procedure (ν. 4620/2019) and the Civil Code.** Greece has no official consolidated text of them, and legalize-gr holds each Gazette issue only as published, with no amendments merged in. A narrow scan of legalize-gr finds at least ten laws amending the two 2019 codes since 2019. ν. 4855/2021 and ν. 5090/2024 alone carry well over a hundred article-level amendments to them, so each code would need every amending law applied by hand. That is more work than a single pass allows. The Civil Code (π.δ. 456/1984) was enacted before the Gazette's text-layer era, so it is not in legalize-gr at all. These are left for a later pass.
-
-## How it is built
-
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
-
-The PDFs' own text layer is read with PyMuPDF, two columns per page, with no OCR. The 2001 issue's legacy Greek font encoding is mapped back to Unicode. Latin look-alike letters inside Greek words, numeral signs, quotes, dashes and line-end hyphens are normalised once.
-
-No AI model wrote or changed legal text. Claude Opus 5.5 wrote the scripts and chose the sources; see `REPRODUCE.md`.
+- **Most Greek law.** The completeness chart above puts national law here at about 2% of the official total; the Civil Code, the Penal Code (ν. 4619/2019) and the Code of Criminal Procedure (ν. 4620/2019) are not here, as Greece has no official consolidated text of them.
+- **Later amendments to most acts.** Only the 88 laws in `nomos-<number>-<year>/` carry them; the other laws, the decrees and the Athens acts are held as enacted or posted. Amending acts (151 decrees and 26 laws) are kept as their own text.
+- **The Constitution before 2001.** The 1975 text and the 1986 revision are in the Gazette only as page images, which are not read. The authentic katharevousa text of the provisions never revised is not here either.
+- **Case law**, and local acts of any municipality but Athens.
+- **Signatures, footnotes and the Gazette's layout.**
 
 ## Sources
 
-| Source | Kind | Past versions by date | Names the amending act | API or bulk | Notes |
-| --- | --- | --- | --- | --- | --- |
-| [Εθνικό Τυπογραφείο](https://www.et.gr) · [search](https://search.et.gr) | Official Gazette (ΦΕΚ) | each issue is dated | the resolutions are the amending acts | issue PDFs at `ia37rg02wpsa01.blob.core.windows.net/fek/01/<YYYY>/<YYYY>01<NNNNN>.pdf` | Used. Issues since about 2000 have a text layer; older ones are scans |
-| [Hellenic Parliament](https://www.hellenicparliament.gr) | The Constitution's text | no | n/a | n/a | – |
-| [legalize-gr](https://github.com/lighteternal/legalize-gr) | Git-for-law project (MIT) | partly | partly | n/a | Gazette laws 2000–2026 plus 26 consolidated codes; not used, not copied |
-| [legalize-dev/legalize-gr](https://github.com/legalize-dev/legalize-gr), commit `36cb88a374cd` | Git-for-law project (pipeline MIT; legislative content public domain: «Δημόσιος τομέας (επίσημα κρατικά κείμενα)») | no: one file per Gazette issue Α΄ since 2000, as published | its `amends` field copies the official search.et.gr relation index | git | Used to find the laws that amend ν. 4624/2019 (`tools/scan_legalize_gr.py`). Its text is **not** used: its file for ΦΕΚ Α΄ 137/2019 matches the Gazette word for word in only 53 of 87 articles. 4 articles are missing and the rest lose or interleave text between the two columns. Original source of each file: the ΦΕΚ PDF in its `source` field |
-| [Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα](https://www.dpa.gr/el/enimerwtiko/nomothesia/proswpikon_dedomenon) | The Authority's consolidated text of ν. 4624/2019 «με ενσωματωμένες όλες τις τροποποιήσεις» (PDF, 10 December 2025) | no | yes, in notes | PDF | Used only to check ν. 4624/2019; no text copied |
-
-Research guides that cover every country: [GlobaLex](https://www.nyulawglobal.org/globalex/) and the [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Εθνικό Τυπογραφείο](https://www.et.gr) (ΦΕΚ) | Official Gazette, series Α΄ | each issue as published; amendments applied here | The text of the Constitution and of every law and decree; its [relation index](https://search.et.gr) names amending laws |
+| [Διαύγεια](https://diavgeia.gov.gr) | Decisions of public bodies | as posted | The Municipality of Athens's regulatory acts (open data, CC BY 4.0) |
+| [legalize-dev/legalize-gr](https://github.com/legalize-dev/legalize-gr) | Gazette issues as text | no | Used only to find amending laws; its text is not used |
+| [Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα](https://www.dpa.gr) | Consolidated texts of ν. 4624/2019 and ν. 3471/2006 | no | Used only to check; no text copied |
 
 ## Licence
 
-The legal texts are official texts of the Hellenic Republic, as published in the Government Gazette. Πηγή: Εφημερίδα της Κυβερνήσεως (ΦΕΚ), Εθνικό Τυπογραφείο, https://www.et.gr. Greek copyright law does not extend to official legislative texts (ν. 2121/1993, άρθρο 2 παρ. 5). The arrangement, tables, commit messages and tools are by Lexifina, under the terms in `LICENSE`.
+See [`LICENSE`](LICENSE). Greek copyright law does not extend to official legislative, administrative and judicial texts (ν. 2121/1993, άρθρο 2 παρ. 5); Lexifina's own contributions (the history, commit messages, tables and tools) are CC0 1.0.
 
-This repository is not legal advice and not an official publication.
+No AI model wrote, translated or corrected legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
