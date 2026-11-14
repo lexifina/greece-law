@@ -24,7 +24,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 **ν. 4624/2019 is complete.** Its history starts with the law as enacted and holds every amendment to it, each applied in the amending law's own words.
 
-## A lawyer's questions as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
@@ -39,6 +39,14 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | The text as each version | `git show syntagma/2019-12-24` (tags `<act>/<in-force day>`) |
 | What did art. 18 of ν. 4624/2019 say on 1 January 2024? | `python tools/se_ischy.py 2024-01-01 nomos-4624-2019 18` |
 | Everything ν. 5002/2022 changed in ν. 4624/2019 | `git show law/n-5002-2022` |
+
+**Or ask in plain words.** The same record is free to use without git, an account or a key:
+
+- **[Ask Claude about Greek law](https://global-law.lexifina.com/v1/try_claude?country=greece&q=what%20does%20the%20Constitution%20%28%CE%A3%CF%8D%CE%BD%CF%84%CE%B1%CE%B3%CE%BC%CE%B1%29%20say%20about%20the%20right%20to%20work%20%28%CE%AC%CF%81%CE%B8%CF%81%CE%BF%2022%29%20today%2C%20and%20which%20revisions%20have%20changed%20the%20Constitution%20since%202001%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: one click opens Claude with a first question ready (the right to work in the Constitution, and how the Constitution has changed).
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=greece&q=what%20does%20the%20Constitution%20%28%CE%A3%CF%8D%CE%BD%CF%84%CE%B1%CE%B3%CE%BC%CE%B1%29%20say%20about%20the%20right%20to%20work%20%28%CE%AC%CF%81%CE%B8%CF%81%CE%BF%2022%29%20today%2C%20and%20which%20revisions%20have%20changed%20the%20Constitution%20since%202001%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CF%8E%CE%BD+%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD&jurisdictions=greece)**: Greek law searched for "προσωπικών δεδομένων", answered as JSON. No key for 5 calls a minute; [every tool](https://global-law.lexifina.com/v1), [keys and documentation](https://lexifina.com/api).
+
+The assistants read it through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives the link that adds it. In Claude, choose "Always allow" so that each look-up is not asked about. Ask in Greek or in English.
 
 Articles inserted by a revision keep their printed numbering: art. 5Α is the file `art-005-a.md` (`se_ischy.py` accepts `5Α` or `5A`). The headings of the parts, sections and chapters are the first lines of the article they open, so the files read in order give the whole text. The preamble is `syntagma/prooimio.md`. After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
 

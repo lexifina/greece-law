@@ -24,7 +24,7 @@
 
 **Ο ν. 4624/2019 είναι πλήρης.** Η ιστορία του αρχίζει με τον νόμο όπως ψηφίστηκε και περιέχει κάθε τροποποίησή του, καθεμία εφαρμοσμένη με τη διατύπωση του ίδιου του τροποποιητικού νόμου.
 
-## Οι ερωτήσεις ενός νομικού ως εντολές git
+## Ερωτήσεις ως εντολές git
 
 | Ερώτηση | Εντολή |
 | --- | --- |
@@ -39,6 +39,14 @@
 | Το κείμενο κάθε έκδοσης | `git show syntagma/2019-12-24` (ετικέτες `<act>/<in-force day>`) |
 | Τι όριζε το άρθ. 18 του ν. 4624/2019 την 1η Ιανουαρίου 2024; | `python tools/se_ischy.py 2024-01-01 nomos-4624-2019 18` |
 | Όλα όσα άλλαξε ο ν. 5002/2022 στον ν. 4624/2019 | `git show law/n-5002-2022` |
+
+**Ή ρωτήστε με απλά λόγια.** Τα ίδια δεδομένα είναι δωρεάν και χωρίς git, λογαριασμό ή κλειδί:
+
+- **[Ρωτήστε το Claude για το ελληνικό δίκαιο](https://global-law.lexifina.com/v1/try_claude?country=greece&q=what%20does%20the%20Constitution%20%28%CE%A3%CF%8D%CE%BD%CF%84%CE%B1%CE%B3%CE%BC%CE%B1%29%20say%20about%20the%20right%20to%20work%20%28%CE%AC%CF%81%CE%B8%CF%81%CE%BF%2022%29%20today%2C%20and%20which%20revisions%20have%20changed%20the%20Constitution%20since%202001%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: ένα κλικ ανοίγει το Claude με έτοιμη την πρώτη ερώτηση (το δικαίωμα εργασίας στο Σύνταγμα και πώς άλλαξε το Σύνταγμα).
+- **[Ρωτήστε το ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=greece&q=what%20does%20the%20Constitution%20%28%CE%A3%CF%8D%CE%BD%CF%84%CE%B1%CE%B3%CE%BC%CE%B1%29%20say%20about%20the%20right%20to%20work%20%28%CE%AC%CF%81%CE%B8%CF%81%CE%BF%2022%29%20today%2C%20and%20which%20revisions%20have%20changed%20the%20Constitution%20since%202001%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: η ίδια ερώτηση στο ChatGPT.
+- **[Καλέστε το API στον φυλλομετρητή](https://global-law.lexifina.com/v1/search_law?query=%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CF%8E%CE%BD+%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD&jurisdictions=greece)**: αναζήτηση στην ελληνική νομοθεσία για «προσωπικών δεδομένων», απάντηση σε JSON. Χωρίς κλειδί 5 κλήσεις το λεπτό· [όλα τα εργαλεία](https://global-law.lexifina.com/v1), [κλειδιά και τεκμηρίωση](https://lexifina.com/api).
+
+Οι βοηθοί διαβάζουν τα δεδομένα μέσω του δωρεάν συνδέσμου Global law (MCP, `https://global-law.lexifina.com/mcp`)· την πρώτη φορά η συνομιλία δίνει τον σύνδεσμο που τον προσθέτει. Στο Claude επιλέξτε «Always allow» για να μην εγκρίνετε κάθε κλήση. Ρωτήστε στα ελληνικά ή στα αγγλικά.
 
 Τα άρθρα που προστέθηκαν με αναθεώρηση διατηρούν την αρίθμηση με την οποία τυπώθηκαν: το άρθ. 5Α είναι το αρχείο `art-005-a.md` (το `se_ischy.py` δέχεται `5Α` ή `5A`). Οι τίτλοι των μερών, των τμημάτων και των κεφαλαίων είναι οι πρώτες γραμμές του άρθρου με το οποίο αρχίζουν, ώστε τα αρχεία, διαβασμένα με τη σειρά, να δίνουν ολόκληρο το κείμενο. Το προοίμιο είναι το `syntagma/prooimio.md`. Μετά από ανακατασκευή, ανανεώστε τις ετικέτες με `git fetch --force --tags`: ένα απλό fetch κρατά τις παρωχημένες ετικέτες.
 
