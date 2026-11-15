@@ -61,6 +61,7 @@ Each change is credited to the act that made it (`ν. 5221/2025`, `π.δ. 42/201
 - The laws followed through their amendments are rebuilt from the Gazette alone, since Greece publishes no official consolidated text of ordinary laws: the parser stops unless each amending instruction's target is found exactly once and every quoted provision appears word for word in the result. ν. 4624/2019 agrees word for word with the Data Protection Authority's consolidated text except in two places, where the amending law's own Gazette text is followed.
 - Every version links the Gazette issue, or the Diavgeia record, it was read from; [`REPRODUCE.md`](REPRODUCE.md) lists every source with the day it was retrieved.
 - History is append-only: no merge commits, no rewriting, and no commit dated in the future.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Greek law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
