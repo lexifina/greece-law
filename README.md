@@ -30,7 +30,8 @@
 
 - **[Ρωτήστε το Claude για το ελληνικό δίκαιο](https://global-law.lexifina.com/v1/try_claude?country=greece)**: ανοίγει το Claude με έτοιμη την πρώτη ερώτηση.
 - **[Ρωτήστε το ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=greece)**: η ίδια ερώτηση στο ChatGPT.
-- **[Καλέστε το API στον φυλλομετρητή](https://global-law.lexifina.com/v1/search_law?query=%CE%B5%CF%84%CE%AE%CF%83%CE%B9%CE%B1+%CE%AC%CE%B4%CE%B5%CE%B9%CE%B1&jurisdictions=greece)**: αναζήτηση στο ελληνικό δίκαιο για «ετήσια άδεια», με απάντηση σε JSON. Η τεκμηρίωση είναι [εδώ](https://lexifina.com/api/global-law).
+- **[Αναζητήστε στο ελληνικό δίκαιο στον ιστότοπό μας](https://lexifina.com/law?country=greece&q=%CE%B5%CF%84%CE%AE%CF%83%CE%B9%CE%B1+%CE%AC%CE%B4%CE%B5%CE%B9%CE%B1)**: αναζήτηση για «ετήσια άδεια», με το κείμενο κάθε διάταξης και τις εκδοχές της, χωρίς λογαριασμό.
+- **[REST API για προγραμματιστές](https://global-law.lexifina.com/v1/search_law?query=%CE%B5%CF%84%CE%AE%CF%83%CE%B9%CE%B1+%CE%AC%CE%B4%CE%B5%CE%B9%CE%B1&jurisdiction=greece)**: η ίδια αναζήτηση σε JSON, χωρίς κλειδί. Η τεκμηρίωση είναι [εδώ](https://lexifina.com/api/global-law).
 
 Και οι δύο βοηθοί διαβάζουν το αρχείο μέσω του δωρεάν συνδέσμου Global law (MCP, `https://global-law.lexifina.com/mcp`)· την πρώτη φορά η συνομιλία σάς δίνει τον σύνδεσμο που τον προσθέτει. Ρωτήστε στα ελληνικά ή στα αγγλικά.
 
