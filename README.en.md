@@ -11,9 +11,9 @@ The law of Greece as a git history: one file per article, one commit per version
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Greece's national law, which global-law reads at `greece/national/acts/`.
 
-**What is in it now:** the Constitution, with 5 versions since 2001; 112 laws of 2006 to 2026, with 217 versions, 88 of them with every later amendment found; 503 presidential decrees of 2010 to 2026; and 65 regulatory acts of the Municipality of Athens, from Diavgeia. [`ACTS.md`](ACTS.md) lists every act by kind, with its folder and versions (eight laws are in two folders, one in each layout).
+**What is in it now:** the Constitution, with 5 versions since 2001; 112 laws of 2006 to 2026, with 217 versions, 88 of them with every later amendment found; 503 presidential decrees of 2010 to 2026; and 65 regulatory acts of the Municipality of Athens, from Diavgeia. [`ACTS.md`](ACTS.md) lists every act by kind, with its folder and versions (eight laws are in two folders: as enacted, and followed through their amendments).
 
-Each act is in `<kind>/<year>/<number>/` (`diatagma/2019/42/` is π.δ. 42/2019); the laws followed through their amendments keep `nomos-<number>-<year>/` (`nomos-4624-2019/` is ν. 4624/2019 on personal data), the Constitution is [`syntagma/`](syntagma/) (`art-101.md` is Article 101), and the Athens acts are in `local/dimos-athinaion/<year>/<ΑΔΑ>/`. `data/paths.json` maps each act id to its folder.
+Each act is in `<kind>/<year>/<number>/` (`diatagma/2019/42/` is π.δ. 42/2019, `nomos/2019/4624/` is ν. 4624/2019 on personal data), the Constitution is [`syntagma/`](syntagma/) (`art-101.md` is Article 101), the Athens acts are in `local/dimos-athinaion/<year>/<ΑΔΑ>/`, and the Areios Pagos decisions are in `caselaw/areios-pagos/<year>/<chamber>/<number range>/<number>/` (`caselaw/areios-pagos/2009/civil/0001-1000/1/`). The eight laws held both as enacted and followed through their amendments keep the second copy in `nomos/<year>/<number>-me-tropopoiiseis/`. `data/paths.json` maps each act id to its folder.
 
 The text is in Greek, as the Government Gazette (ΦΕΚ) prints it, and as Diavgeia posts the Athens acts. An English translation is not part of this record.
 
@@ -66,7 +66,7 @@ Each change is credited to the act that made it (`ν. 5221/2025`, `π.δ. 42/201
 ## What it does not show
 
 - **Most Greek law.** The completeness chart above puts national law here at about 2% of the official total; the Civil Code, the Penal Code (ν. 4619/2019) and the Code of Criminal Procedure (ν. 4620/2019) are not here, as Greece has no official consolidated text of them.
-- **Later amendments to most acts.** Only the 88 laws in `nomos-<number>-<year>/` carry them; the other laws, the decrees and the Athens acts are held as enacted or posted. Amending acts (151 decrees and 26 laws) are kept as their own text.
+- **Later amendments to most acts.** Only the 88 laws with an act id `nomos-<number>-<year>` carry them (their folders are in `data/paths.json`); the other laws, the decrees and the Athens acts are held as enacted or posted. Amending acts (151 decrees and 26 laws) are kept as their own text.
 - **The Constitution before 2001.** The 1975 text and the 1986 revision are in the Gazette only as page images, which are not read. The authentic katharevousa text of the provisions never revised is not here either.
 - **Case law**, and local acts of any municipality but Athens.
 - **Signatures, footnotes and the Gazette's layout.**
@@ -85,6 +85,10 @@ Each change is credited to the act that made it (`ν. 5221/2025`, `π.δ. 42/201
 See [`LICENSE`](LICENSE). Greek copyright law does not extend to official legislative, administrative and judicial texts (ν. 2121/1993, άρθρο 2 παρ. 5); Lexifina's own contributions (the history, commit messages, tables and tools) are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+[visualisations/](visualisations/README.en.md): charts on Greek law, drawn from this repository. A placeholder for now: no charts have been drawn yet.
 
 ## More
 
