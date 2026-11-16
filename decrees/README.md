@@ -1,13 +1,11 @@
 # Προεδρικά Διατάγματα (π.δ.) · Presidential decrees
 
-508 πράξεις, ένας φάκελος ανά πράξη: `decrees/<έτος>/<αριθμός>/` · 508 acts, one folder per act: `decrees/<year>/<number>/`, one file per article (`art-001.md`). Πηγή · Source: Εφημερίδα της Κυβερνήσεως (ΦΕΚ), τεύχος Α΄ · Government Gazette (FEK), series A.
+505 πράξεις, ένας φάκελος ανά πράξη: `decrees/<έτος>/<αριθμός>/` · 505 acts, one folder per act: `decrees/<year>/<number>/`, one file per article (`art-001.md`). Πηγή · Source: Εφημερίδα της Κυβερνήσεως (ΦΕΚ), τεύχος Α΄ · Government Gazette (FEK), series A.
 
 Ημερομηνίες · Dates: κάθε έκδοση είναι ένα commit με trailer `In-force:` (η ημέρα έναρξης ισχύος) · each version is one commit with an `In-force:` trailer (the day it took effect).
 
 | Έτος · Year | Πράξεις · Acts |
 | --- | ---: |
-| [1984](1984/README.md) | 1 |
-| [1985](1985/README.md) | 1 |
 | [2009](2009/README.md) | 2 |
 | [2010](2010/README.md) | 29 |
 | [2011](2011/README.md) | 33 |
@@ -21,7 +19,7 @@
 | [2019](2019/README.md) | 23 |
 | [2020](2020/README.md) | 24 |
 | [2021](2021/README.md) | 39 |
-| [2022](2022/README.md) | 27 |
+| [2022](2022/README.md) | 26 |
 | [2023](2023/README.md) | 35 |
 | [2024](2024/README.md) | 32 |
 | [2025](2025/README.md) | 51 |

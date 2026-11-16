@@ -377,7 +377,7 @@ here; nothing in it is read by the tools.
 }
 
 
-def where_block(lang, n_const, codes, laws, decrees, norm, local, caselaw_n, olds=()):
+def where_block(lang, n_const, codes, laws, decrees, norm, local, caselaw_n):
     nl, nd = sum(len(v) for v in laws.values()), sum(len(v) for v in decrees.values())
     ly = ' · '.join(f'[{y}](laws/{y}/README.md)' for y in sorted(laws))
     dy = ' · '.join(f'[{y}](decrees/{y}/README.md)' for y in sorted(decrees))
@@ -385,8 +385,7 @@ def where_block(lang, n_const, codes, laws, decrees, norm, local, caselaw_n, old
     if lang == 'el':
         cl = '; '.join(f'[{el}](codes/{s}/) ({a})' if a else f'[{el}](codes/{s}/)' for s, el, en, a, i in codes) or 'κανένας ακόμη'
         rows = [
-            ('Σύνταγμα', f'[`constitution/`](constitution/)', f'{n_const} άρθρα, εκδόσεις από το 2001'
-             + (''.join(f'; το κείμενο του {y}: [`constitution/{y}/`](constitution/{y}/)' for y in olds))),
+            ('Σύνταγμα', f'[`constitution/`](constitution/)', f'{n_const} άρθρα, εκδόσεις από το 2001'),
             ('Κώδικες', f'[`codes/`](codes/README.md)', cl),
             ('Νόμοι (ν.)', f'[`laws/`](laws/README.md)', f'{nl:,} νόμοι, ανά έτος: {ly}'),
             ('Προεδρικά Διατάγματα (π.δ.)', f'[`decrees/`](decrees/README.md)', f'{nd:,} διατάγματα, ανά έτος: {dy}'),
@@ -404,8 +403,7 @@ def where_block(lang, n_const, codes, laws, decrees, norm, local, caselaw_n, old
     else:
         cl = '; '.join(f'[{en}](codes/{s}/) ({a})' if a else f'[{en}](codes/{s}/)' for s, el, en, a, i in codes) or 'none yet'
         rows = [
-            ('Constitution (Σύνταγμα)', f'[`constitution/`](constitution/)', f'{n_const} articles, versions since 2001'
-             + (''.join(f'; the {y} text: [`constitution/{y}/`](constitution/{y}/)' for y in olds))),
+            ('Constitution (Σύνταγμα)', f'[`constitution/`](constitution/)', f'{n_const} articles, versions since 2001'),
             ('Codes (Κώδικες)', f'[`codes/`](codes/README.md)', cl),
             ('Laws (Νόμοι, ν.)', f'[`laws/`](laws/README.md)', f'{nl:,} laws, by year: {ly}'),
             ('Presidential decrees (π.δ.)', f'[`decrees/`](decrees/README.md)', f'{nd:,} decrees, by year: {dy}'),
@@ -422,25 +420,6 @@ def where_block(lang, n_const, codes, laws, decrees, norm, local, caselaw_n, old
                 'later amendments; see [What it does not show](#what-it-does-not-show).']
     body = head + [f'| {a} | {b} | {c} |' for a, b, c in rows] + tail
     return START + '\n' + '\n'.join(body) + '\n' + END
-
-
-VSTART, VEND = '<!-- versions:start -->', '<!-- versions:end -->'
-
-
-def versions_block(olds):
-    links = ' · '.join(f'[{y}]({y}/)' for y in olds)
-    return (VSTART + '\n' + f'Το ισχύον κείμενο είναι τα άρθρα αυτού του φακέλου (`art-NNN.md`, εκδόσεις από το 2001)· '
-            f'παλαιότερα κείμενα: {links} · The current text is the articles in this folder (`art-NNN.md`, versions '
-            f'since 2001); earlier texts: {links}.\n' + VEND)
-
-
-def put_block(readme, block, start, end):
-    if start in readme and end in readme:
-        a, b = readme.index(start), readme.index(end) + len(end)
-        return readme[:a] + block + readme[b:]
-    lines = readme.split('\n')
-    at = next((i + 1 for i, ln in enumerate(lines[:3]) if ln.startswith('# ')), 0)
-    return '\n'.join(lines[:at] + ['', block] + lines[at:])
 
 
 def put_where(readme, block):
@@ -470,18 +449,13 @@ def generate(repo, ref, blobs=None, readmes=None):
     out['local/README.md'], n_local = diavgeia_readme('local', nl, blobs)
     cc = caselaw_counts(repo, ref)
     out['caselaw/README.md'], n_case = caselaw_readme(cc)
-    crows = ls(repo, ref, 'constitution')
-    n_const = sum(1 for r in crows if r[3].count('/') == 1 and r[3].rsplit('/', 1)[-1].startswith('art-'))
-    olds = sorted({r[3].split('/')[1] for r in crows if r[3].count('/') >= 2})
-    cur = next((r[2] for r in crows if r[3] == 'constitution/README.md'), None)
-    if cur and olds:
-        out['constitution/README.md'] = put_block(blobs.get(cur), versions_block(olds), VSTART, VEND)
+    n_const = sum(1 for r in ls(repo, ref, 'constitution') if r[3].rsplit('/', 1)[-1].startswith('art-'))
     for name, lang in (('README.md', 'el'), ('README.en.md', 'en')):
         cur = (readmes or {}).get(name)
         if cur is None:
             cur = blobs.get(git(repo, 'rev-parse', f'{ref}:{name}').strip())
         out[name] = put_where(cur, where_block(lang, n_const, codes, laws, decrees, (n_norm, len(nc)),
-                                               (n_local, len(nl)), n_case, olds))
+                                               (n_local, len(nl)), n_case))
     return out
 
 
