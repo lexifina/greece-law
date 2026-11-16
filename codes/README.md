@@ -11,14 +11,15 @@
 | Κώδικας Διοικητικής Δικονομίας · Code of Procedure of the Administrative Courts | ν. 2717/1999 | 1999-07-17 | [`code-of-administrative-procedure-courts/`](code-of-administrative-procedure-courts/) |
 | Κώδικας Οργανισμού Δικαστηρίων και Κατάστασης Δικαστικών Λειτουργών · Code of the Organisation of Courts and the Status of Judicial Officers | ν. 4938/2022 | 2022-06-06 | [`courts-organisation-code/`](courts-organisation-code/) |
 | Κώδικας Ποινικής Δικονομίας · Code of Criminal Procedure | ν. 4620/2019 | 2019-07-01 | [`criminal-procedure-code/`](criminal-procedure-code/) |
-| Εθνικός Τελωνειακός Κώδικας · National Customs Code | ν. 2960/2001 | 2002-01-01 | [`customs-code/`](customs-code/) |
-| Κώδικας Φορολογίας Εισοδήματος · Income Tax Code | ν. 4172/2013 | 2013-07-23 | [`income-tax-code/`](income-tax-code/) |
-| Κώδικας εμμέσων φόρων επί των συναλλαγών του πεδίου εφαρμογής του Κώδικα Φορολογικής Διαδικασίας, καθώς και λοιπών εμμέσων φόρων · Code of Indirect Taxes on Transactions | ν. 5177/2025 | 2025-02-14 | [`indirect-transaction-taxes-code/`](indirect-transaction-taxes-code/) |
+| Εθνικός Τελωνειακός Κώδικας · National Customs Code | ν. 5259/2025 | 2025-12-12 | [`customs-code/`](customs-code/) |
+| Κώδικας Φορολογίας Εισοδήματος · Income Tax Code | ν. 5264/2025 | 2025-12-19 | [`income-tax-code/`](income-tax-code/) |
+| Κώδικας Εμμέσων Φόρων επί των Συναλλαγών και λοιπών εμμέσων φόρων · Code of Indirect Taxes on Transactions | ν. 5301/2026 | 2026-05-15 | [`indirect-transaction-taxes-code/`](indirect-transaction-taxes-code/) |
 | Κώδικας Ατομικού Εργατικού Δικαίου · Individual Labour Law Code | π.δ. 80/2022 | 2022-12-04 | [`labour-code/`](labour-code/) |
 | Κώδικας Δικηγόρων · Code of Lawyers | ν. 4194/2013 | 2013-09-27 | [`lawyers-code/`](lawyers-code/) |
 | Κώδικας Δήμων και Κοινοτήτων · Code of Municipalities and Communities | ν. 3463/2006 | 2007-01-01 | [`municipalities-code/`](municipalities-code/) |
 | Ποινικός Κώδικας · Penal Code | ν. 4619/2019 | 2019-07-01 | [`penal-code/`](penal-code/) |
+| Κώδικας Φορολογίας Περιουσίας · Property Tax Code | ν. 5264/2025 | 2025-12-19 | [`property-tax-code/`](property-tax-code/) |
 | Κώδικας Είσπραξης Δημοσίων Εσόδων (ΚΕΔΕ) · Code for the Collection of Public Revenue | ν. 4978/2022 | 2022-10-07 | [`public-revenue-collection-code/`](public-revenue-collection-code/) |
 | Κώδικας Οδικής Κυκλοφορίας (ΚΟΚ) · Road Traffic Code | ν. 2696/1999 | 1999-05-23 | [`road-traffic-code/`](road-traffic-code/) |
 | Κώδικας Φορολογικής Διαδικασίας · Tax Procedure Code | ν. 5104/2024 | 2024-04-19 | [`tax-procedure-code/`](tax-procedure-code/) |
-| Κώδικας Φόρου Προστιθέμενης Αξίας · VAT Code | ν. 2859/2000 | 2000-11-07 | [`vat-code/`](vat-code/) |
+| Κώδικας Φόρου Προστιθέμενης Αξίας · VAT Code | ν. 5313/2026 | 2026-06-25 | [`vat-code/`](vat-code/) |

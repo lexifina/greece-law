@@ -4,7 +4,7 @@
 
 ## [Άρειος Πάγος · Supreme Civil and Criminal Court](areios-pagos/)
 
-51,636 αποφάσεις · decisions.
+59,409 αποφάσεις · decisions.
 
 | Έτος · Year | Αποφάσεις · Decisions |
 | --- | ---: |
@@ -25,3 +25,6 @@
 | [2021](areios-pagos/2021/) | 2,514 |
 | [2022](areios-pagos/2022/) | 3,488 |
 | [2023](areios-pagos/2023/) | 3,123 |
+| [2024](areios-pagos/2024/) | 3,045 |
+| [2025](areios-pagos/2025/) | 3,384 |
+| [2026](areios-pagos/2026/) | 1,344 |
