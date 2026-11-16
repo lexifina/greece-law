@@ -1,5 +1,9 @@
 # Σύνταγμα της Ελλάδας
 
+<!-- versions:start -->
+Το ισχύον κείμενο είναι τα άρθρα αυτού του φακέλου (`art-NNN.md`, εκδόσεις από το 2001)· παλαιότερα κείμενα: [1975](1975/) · [1986](1986/) · The current text is the articles in this folder (`art-NNN.md`, versions since 2001); earlier texts: [1975](1975/) · [1986](1986/).
+<!-- versions:end -->
+
 Σύνταγμα · 5 versions, from 2001-04-17 (latest in force: 2019-12-24) · <https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2019/20190100211.pdf>
 
 | Provision | File | Changes | Last changed |
