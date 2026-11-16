@@ -2,6 +2,24 @@
 
 **English** · **[Ή διαβάστε το στα ελληνικά](README.md)**
 
+<!-- where:start -->
+## Where to find the law
+
+| What | Folder | Holds |
+| --- | --- | --- |
+| Constitution (Σύνταγμα) | [`constitution/`](constitution/) | 124 articles, versions since 2001 |
+| Codes (Κώδικες) | [`codes/`](codes/README.md) | [Code of Criminal Procedure](codes/criminal-procedure-code/) (ν. 4620/2019); [Penal Code](codes/penal-code/) (ν. 4619/2019) |
+| Laws (Νόμοι, ν.) | [`laws/`](laws/README.md) | 593 laws, by year: [2006](laws/2006/README.md) · [2007](laws/2007/README.md) · [2008](laws/2008/README.md) · [2009](laws/2009/README.md) · [2010](laws/2010/README.md) · [2011](laws/2011/README.md) · [2012](laws/2012/README.md) · [2013](laws/2013/README.md) · [2014](laws/2014/README.md) · [2015](laws/2015/README.md) · [2016](laws/2016/README.md) · [2018](laws/2018/README.md) · [2019](laws/2019/README.md) · [2020](laws/2020/README.md) · [2021](laws/2021/README.md) · [2022](laws/2022/README.md) · [2023](laws/2023/README.md) · [2024](laws/2024/README.md) · [2025](laws/2025/README.md) · [2026](laws/2026/README.md) |
+| Presidential decrees (π.δ.) | [`decrees/`](decrees/README.md) | 505 decrees, by year: [2009](decrees/2009/README.md) · [2010](decrees/2010/README.md) · [2011](decrees/2011/README.md) · [2012](decrees/2012/README.md) · [2013](decrees/2013/README.md) · [2014](decrees/2014/README.md) · [2015](decrees/2015/README.md) · [2016](decrees/2016/README.md) · [2017](decrees/2017/README.md) · [2018](decrees/2018/README.md) · [2019](decrees/2019/README.md) · [2020](decrees/2020/README.md) · [2021](decrees/2021/README.md) · [2022](decrees/2022/README.md) · [2023](decrees/2023/README.md) · [2024](decrees/2024/README.md) · [2025](decrees/2025/README.md) · [2026](decrees/2026/README.md) |
+| Decisions of national bodies (Diavgeia) | [`norm/`](norm/README.md) | 317,537 regulatory decisions of 100 bodies |
+| Decisions of local government (Diavgeia) | [`local/`](local/README.md) | 1,968,107 decisions of 356 regions, decentralised administrations and municipalities |
+| Case law | [`caselaw/`](caselaw/README.md) | 49,072 decisions of the Areios Pagos (Supreme Court) |
+
+Each act has its own folder (`laws/2019/4624/` is ν. 4624/2019, Law 4624/2019) with one file per article (`art-001.md`) and a README giving its title and versions. [`ACTS.md`](ACTS.md) lists the acts of the first build; [`data/paths.json`](data/paths.json) gives every act's folder.
+
+**Dates:** each commit is dated on the day its version took effect (the `In-force:` trailer); see [Dates](#dates). **Limits:** this is not all of Greek law, and most acts are held as enacted, without later amendments; see [What it does not show](#what-it-does-not-show).
+<!-- where:end -->
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Greek law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
@@ -13,7 +31,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 **What is in it now:** the Constitution, with 5 versions since 2001; 112 laws of 2006 to 2026, with 217 versions, 88 of them with every later amendment found; 503 presidential decrees of 2010 to 2026; and 65 regulatory acts of the Municipality of Athens, from Diavgeia. [`ACTS.md`](ACTS.md) lists every act by kind, with its folder and versions (eight laws are in two folders: as enacted, and followed through their amendments).
 
-Each act is in `<kind>/<year>/<number>/` (`diatagma/2019/42/` is π.δ. 42/2019, `nomos/2019/4624/` is ν. 4624/2019 on personal data), the Constitution is [`syntagma/`](syntagma/) (`art-101.md` is Article 101), the Athens acts are in `local/dimos-athinaion/<year>/<ΑΔΑ>/`, and the Areios Pagos decisions are in `caselaw/areios-pagos/<year>/<chamber>/<number range>/<number>/` (`caselaw/areios-pagos/2009/civil/0001-1000/1/`). The eight laws held both as enacted and followed through their amendments keep the second copy in `nomos/<year>/<number>-me-tropopoiiseis/`. `data/paths.json` maps each act id to its folder.
+Each act is in `<kind>/<year>/<number>/` (`decrees/2019/42/` is π.δ. 42/2019, `laws/2019/4624/` is ν. 4624/2019 on personal data), the Constitution is [`constitution/`](constitution/) (`art-101.md` is Article 101), the Athens acts are in `local/dimos-athinaion/<year>/<ΑΔΑ>/`, and the Areios Pagos decisions are in `caselaw/areios-pagos/<year>/<chamber>/<number range>/<number>/` (`caselaw/areios-pagos/2009/civil/0001-1000/1/`). The eight laws held both as enacted and followed through their amendments keep the second copy in `laws/<year>/<number>-me-tropopoiiseis/`. `data/paths.json` maps each act id to its folder.
 
 The text is in Greek, as the Government Gazette (ΦΕΚ) prints it, and as Diavgeia posts the Athens acts. An English translation is not part of this record.
 
@@ -21,10 +39,10 @@ The text is in Greek, as the Government Gazette (ΦΕΚ) prints it, and as Diavg
 
 | Question | Command |
 | --- | --- |
-| Every change to Article 101 of the Constitution | `git log -p --word-diff -- syntagma/art-101.md` |
-| Which revision wrote each paragraph of Article 101? | `git blame syntagma/art-101.md` |
-| Every version of Article 101, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- syntagma/art-101.md` |
-| Article 101 in one of those versions | `git show <commit>:syntagma/art-101.md` |
+| Every change to Article 101 of the Constitution | `git log -p --word-diff -- constitution/art-101.md` |
+| Which revision wrote each paragraph of Article 101? | `git blame constitution/art-101.md` |
+| Every version of Article 101, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution/art-101.md` |
+| Article 101 in one of those versions | `git show <commit>:constitution/art-101.md` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -40,7 +58,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add greece/national/acts
-python3 tools/law.py show 2026-01-01 greece/national/acts/syntagma/art-101.md
+python3 tools/law.py show 2026-01-01 greece/national/acts/constitution/art-101.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -65,7 +83,7 @@ Each change is credited to the act that made it (`ν. 5221/2025`, `π.δ. 42/201
 
 ## What it does not show
 
-- **Most Greek law.** The completeness chart above puts national law here at about 2% of the official total; the Civil Code, the Penal Code (ν. 4619/2019) and the Code of Criminal Procedure (ν. 4620/2019) are not here, as Greece has no official consolidated text of them.
+- **Most Greek law.** The completeness chart above puts national law here at about 2% of the official total; the Civil Code is not here; the Penal Code (ν. 4619/2019) and the Code of Criminal Procedure (ν. 4620/2019) are in [codes/](codes/README.md) (each README there says what it holds; Greece has no official consolidated text of them).
 - **Later amendments to most acts.** Only the 88 laws with an act id `nomos-<number>-<year>` carry them (their folders are in `data/paths.json`); the other laws, the decrees and the Athens acts are held as enacted or posted. Amending acts (151 decrees and 26 laws) are kept as their own text.
 - **The Constitution before 2001.** The 1975 text and the 1986 revision are in the Gazette only as page images, which are not read. The authentic katharevousa text of the provisions never revised is not here either.
 - **Case law**, and local acts of any municipality but Athens.
