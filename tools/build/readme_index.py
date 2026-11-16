@@ -5,7 +5,8 @@
 Reads the tree only (git ls-tree / cat-file; no checkout, no network) and returns, or writes under <dir>, every
 generated file: README.md in each top-level law folder (constitution/, codes/, laws/, decrees/, norm/, local/,
 caselaw/, data/, tools/), README.md in each laws/<year>/ and decrees/<year>/ (number, title, in-force date, folder),
-but not the top-level README.md / README.en.md, which are edited by hand. Rerun after new acts land; files that come out the same are not changed.
+and the "Where to find the law" block of README.md (Greek) and README.en.md, between the markers
+<!-- where:start --> and <!-- where:end -->. Rerun after new acts land; files that come out the same are not changed.
 Standard library only.
 """
 import collections
@@ -475,13 +476,12 @@ def generate(repo, ref, blobs=None, readmes=None):
     cur = next((r[2] for r in crows if r[3] == 'constitution/README.md'), None)
     if cur and olds:
         out['constitution/README.md'] = put_block(blobs.get(cur), versions_block(olds), VSTART, VEND)
-    # The top-level README.md / README.en.md are hand-written and edited in place only (Alan, 2026-11-16): this tool
-    # no longer writes them. where_block() is kept for reference; pass readmes={...} to render it into a copy.
     for name, lang in (('README.md', 'el'), ('README.en.md', 'en')):
         cur = (readmes or {}).get(name)
-        if cur is not None:
-            out[name] = put_where(cur, where_block(lang, n_const, codes, laws, decrees, (n_norm, len(nc)),
-                                                   (n_local, len(nl)), n_case, olds))
+        if cur is None:
+            cur = blobs.get(git(repo, 'rev-parse', f'{ref}:{name}').strip())
+        out[name] = put_where(cur, where_block(lang, n_const, codes, laws, decrees, (n_norm, len(nc)),
+                                               (n_local, len(nl)), n_case, olds))
     return out
 
 
