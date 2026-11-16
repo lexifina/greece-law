@@ -2,24 +2,6 @@
 
 **English** · **[Ή διαβάστε το στα ελληνικά](README.md)**
 
-<!-- where:start -->
-## Where to find the law
-
-| What | Folder | Holds |
-| --- | --- | --- |
-| Constitution (Σύνταγμα) | [`constitution/`](constitution/) | 124 articles, versions since 2001; the 1975 text: [`constitution/1975/`](constitution/1975/); the 1986 text: [`constitution/1986/`](constitution/1986/) |
-| Codes (Κώδικες) | [`codes/`](codes/README.md) | [Code of Administrative Procedure](codes/administrative-procedure-code/) (ν. 2690/1999); [Civil Code](codes/civil-code/) (π.δ. 456/1984); [Code of Civil Procedure](codes/civil-procedure-code/) (π.δ. 503/1985); [Civil Servants Code](codes/civil-servants-code/) (ν. 3528/2007); [Code of Procedure of the Administrative Courts](codes/code-of-administrative-procedure-courts/) (ν. 2717/1999); [Code of the Organisation of Courts and the Status of Judicial Officers](codes/courts-organisation-code/) (ν. 4938/2022); [Code of Criminal Procedure](codes/criminal-procedure-code/) (ν. 4620/2019); [National Customs Code](codes/customs-code/) (ν. 2960/2001); [Income Tax Code](codes/income-tax-code/) (ν. 4172/2013); [Code of Indirect Taxes on Transactions](codes/indirect-transaction-taxes-code/) (ν. 5177/2025); [Individual Labour Law Code](codes/labour-code/) (π.δ. 80/2022); [Code of Lawyers](codes/lawyers-code/) (ν. 4194/2013); [Code of Municipalities and Communities](codes/municipalities-code/) (ν. 3463/2006); [Penal Code](codes/penal-code/) (ν. 4619/2019); [Code for the Collection of Public Revenue](codes/public-revenue-collection-code/) (ν. 4978/2022); [Road Traffic Code](codes/road-traffic-code/) (ν. 2696/1999); [Tax Procedure Code](codes/tax-procedure-code/) (ν. 5104/2024); [VAT Code](codes/vat-code/) (ν. 2859/2000) |
-| Laws (Νόμοι, ν.) | [`laws/`](laws/README.md) | 608 laws, by year: [1999](laws/1999/README.md) · [2000](laws/2000/README.md) · [2001](laws/2001/README.md) · [2006](laws/2006/README.md) · [2007](laws/2007/README.md) · [2008](laws/2008/README.md) · [2009](laws/2009/README.md) · [2010](laws/2010/README.md) · [2011](laws/2011/README.md) · [2012](laws/2012/README.md) · [2013](laws/2013/README.md) · [2014](laws/2014/README.md) · [2015](laws/2015/README.md) · [2016](laws/2016/README.md) · [2018](laws/2018/README.md) · [2019](laws/2019/README.md) · [2020](laws/2020/README.md) · [2021](laws/2021/README.md) · [2022](laws/2022/README.md) · [2023](laws/2023/README.md) · [2024](laws/2024/README.md) · [2025](laws/2025/README.md) · [2026](laws/2026/README.md) |
-| Presidential decrees (π.δ.) | [`decrees/`](decrees/README.md) | 508 decrees, by year: [1984](decrees/1984/README.md) · [1985](decrees/1985/README.md) · [2009](decrees/2009/README.md) · [2010](decrees/2010/README.md) · [2011](decrees/2011/README.md) · [2012](decrees/2012/README.md) · [2013](decrees/2013/README.md) · [2014](decrees/2014/README.md) · [2015](decrees/2015/README.md) · [2016](decrees/2016/README.md) · [2017](decrees/2017/README.md) · [2018](decrees/2018/README.md) · [2019](decrees/2019/README.md) · [2020](decrees/2020/README.md) · [2021](decrees/2021/README.md) · [2022](decrees/2022/README.md) · [2023](decrees/2023/README.md) · [2024](decrees/2024/README.md) · [2025](decrees/2025/README.md) · [2026](decrees/2026/README.md) |
-| Decisions of national bodies (Diavgeia) | [`norm/`](norm/README.md) | 328,276 regulatory decisions of 101 bodies |
-| Decisions of local government (Diavgeia) | [`local/`](local/README.md) | 1,997,426 decisions of 356 regions, decentralised administrations and municipalities |
-| Case law | [`caselaw/`](caselaw/README.md) | 51,636 decisions of the Areios Pagos (Supreme Court) |
-
-Each act has its own folder (`laws/2019/4624/` is ν. 4624/2019, Law 4624/2019) with one file per article (`art-001.md`) and a README giving its title and versions. [`ACTS.md`](ACTS.md) lists the acts of the first build; [`data/paths.json`](data/paths.json) gives every act's folder.
-
-**Dates:** each commit is dated on the day its version took effect (the `In-force:` trailer); see [Dates](#dates). **Limits:** this is not all of Greek law, and most acts are held as enacted, without later amendments; see [What it does not show](#what-it-does-not-show).
-<!-- where:end -->
-
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Greek law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
@@ -29,11 +11,11 @@ The law of Greece as a git history: one file per article, one commit per version
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Greece's national law, which global-law reads at `greece/national/acts/`.
 
-**What is in it now:** the Constitution, with 5 versions since 2001; 112 laws of 2006 to 2026, with 217 versions, 88 of them with every later amendment found; 503 presidential decrees of 2010 to 2026; and 65 regulatory acts of the Municipality of Athens, from Diavgeia. [`ACTS.md`](ACTS.md) lists every act by kind, with its folder and versions (eight laws are in two folders: as enacted, and followed through their amendments).
+**What is in it now:** the Constitution, with 5 versions since 2001, and its 1975 text and 1986 revision; 18 codes; 608 laws of 1999 to 2026, 88 of them with every later amendment found; 508 presidential decrees of 1984 to 2026; 328,276 regulatory decisions of 101 national bodies and 1,997,426 decisions of 356 regions, decentralised administrations and municipalities, from Diavgeia; and 51,636 decisions of the Areios Pagos. The codes, in [`codes/`](codes/README.md): the Civil Code with its Introductory Law (π.δ. 456/1984) and the Code of Civil Procedure (π.δ. 503/1985); the Penal Code (ν. 4619/2019) and the Code of Criminal Procedure (ν. 4620/2019); the Codes of Administrative Procedure (ν. 2690/1999) and of Administrative Court Procedure (ν. 2717/1999); the Code of the Organisation of Courts (ν. 4938/2022); the Lawyers Code (ν. 4194/2013); the Civil Servants Code (ν. 3528/2007); the Code of Municipalities and Communities (ν. 3463/2006); the Individual Labour Law Code (π.δ. 80/2022); the Road Traffic Code (ν. 2696/1999); the Income Tax Code (ν. 4172/2013); the Tax Procedure Code (ν. 5104/2024); the Code of Indirect Taxes on Transactions (ν. 5177/2025); the Code for the Collection of Public Revenue (ν. 4978/2022); the National Customs Code, consolidated up to ν. 5259/2025; and the VAT Code, consolidated as in force until 18.9.2026 (up to ν. 5313/2026). The Customs and VAT codes are the Finance Ministry's official administrative codifications; every other code is held as enacted, and amendment histories are in progress. The Civil Code, the Code of Civil Procedure, the 1999 codes and the 1975 and 1986 texts of the Constitution are OCR of the Gazette scans (the Code of Civil Procedure at low OCR confidence). [`ACTS.md`](ACTS.md) lists the acts of the first build, with their folders and versions (eight laws are in two folders: as enacted, and followed through their amendments).
 
-Each act is in `<kind>/<year>/<number>/` (`decrees/2019/42/` is π.δ. 42/2019, `laws/2019/4624/` is ν. 4624/2019 on personal data), the Constitution is [`constitution/`](constitution/) (`art-101.md` is Article 101), the Athens acts are in `local/dimos-athinaion/<year>/<ΑΔΑ>/`, and the Areios Pagos decisions are in `caselaw/areios-pagos/<year>/<chamber>/<number range>/<number>/` (`caselaw/areios-pagos/2009/civil/0001-1000/1/`). The eight laws held both as enacted and followed through their amendments keep the second copy in `laws/<year>/<number>-me-tropopoiiseis/`. `data/paths.json` maps each act id to its folder.
+Each act is in `<kind>/<year>/<number>/` (`decrees/2019/42/` is π.δ. 42/2019, `laws/2019/4624/` is ν. 4624/2019 on personal data), the Constitution is [`constitution/`](constitution/) (`art-101.md` is Article 101), the Diavgeia decisions are in `norm/<body>/<year>/<month>/<ΑΔΑ>/` and `local/<body>/<year>/<month>/<ΑΔΑ>/` (the Athens acts in `local/dimos-athinaion/`), and the Areios Pagos decisions are in `caselaw/areios-pagos/<year>/<chamber>/<number range>/<number>/` (`caselaw/areios-pagos/2009/civil/0001-1000/1/`). The eight laws held both as enacted and followed through their amendments keep the second copy in `laws/<year>/<number>-me-tropopoiiseis/`. `data/paths.json` maps each act id to its folder.
 
-The text is in Greek, as the Government Gazette (ΦΕΚ) prints it, and as Diavgeia posts the Athens acts. An English translation is not part of this record.
+The text is in Greek, as the Government Gazette (ΦΕΚ) prints it, and as Diavgeia posts the decisions of public bodies. An English translation is not part of this record.
 
 ## Questions as git commands
 
@@ -69,7 +51,7 @@ Each commit is dated at noon, Europe/Athens, on the day the version took effect,
 
 - for the Constitution, the day each revision resolution was published in the Gazette, as each resolution provides (17 April 2001, 2 June 2008, 28 November 2019); the whole-text republication that follows is a second commit on its own day, holding only its own differences (spelling, punctuation, a few misprints);
 - for laws and decrees, the day their commencement article gives, most often publication in the Gazette, by the date on the issue's masthead. For the laws followed through their amendments, provisions that start later arrive in their own commits; any other act whose commencement article gives some provisions another day is dated by its general day, and its commit message says so;
-- for the Athens acts, the day each was posted on Diavgeia (ν. 4727/2020 art. 78 par. 2; ν. 3861/2010 art. 2 par. 4).
+- for the Diavgeia decisions, the day each was posted on Diavgeia (ν. 4727/2020 art. 78 par. 2; ν. 3861/2010 art. 2 par. 4).
 
 Each change is credited to the act that made it (`ν. 5221/2025`, `π.δ. 42/2019`, `Αναθεώρηση 2019 (ΦΕΚ Α΄ 187/2019)`), with an address that cannot exist (`n-5221-2025@et.invalid`). The 2001 text of the Constitution, the oldest with a text layer, is credited to the Εθνικό Τυπογραφείο as the oldest version available, and each republication to its own Gazette issue.
 
@@ -83,10 +65,10 @@ Each change is credited to the act that made it (`ν. 5221/2025`, `π.δ. 42/201
 
 ## What it does not show
 
-- **Most Greek law.** The completeness chart above puts national law here at about 2% of the official total; the Civil Code is not here; the Penal Code (ν. 4619/2019) and the Code of Criminal Procedure (ν. 4620/2019) are in [codes/](codes/README.md) (each README there says what it holds; Greece has no official consolidated text of them).
-- **Later amendments to most acts.** Only the 88 laws with an act id `nomos-<number>-<year>` carry them (their folders are in `data/paths.json`); the other laws, the decrees and the Athens acts are held as enacted or posted. Amending acts (151 decrees and 26 laws) are kept as their own text.
-- **The Constitution before 2001.** The 1975 text and the 1986 revision are in the Gazette only as page images, which are not read. The authentic katharevousa text of the provisions never revised is not here either.
-- **Case law**, and local acts of any municipality but Athens.
+- **Most Greek law.** The completeness chart above puts national law here at about 11% of the official total (608 of about 5,338 numbered laws since 1975); the main codes are in [codes/](codes/README.md), all but two of them as enacted (each README there says what it holds).
+- **Later amendments to most acts.** Only the 88 laws followed through their amendments carry them; the other laws, the decrees, the codes other than the Customs and VAT codes, and the Diavgeia decisions are held as enacted or posted. Amending acts are kept as their own text.
+- **A checked text of the Constitution before 2001.** The 1975 text and the 1986 revision ([constitution/1975/](constitution/1975/), [constitution/1986/](constitution/1986/)) are OCR of the Gazette page images, not yet checked against a second copy.
+- **Case law of courts other than the Areios Pagos.**
 - **Signatures, footnotes and the Gazette's layout.**
 
 ## Sources
@@ -94,7 +76,7 @@ Each change is credited to the act that made it (`ν. 5221/2025`, `π.δ. 42/201
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
 | [Εθνικό Τυπογραφείο](https://www.et.gr) (ΦΕΚ) | Official Gazette, series Α΄ | each issue as published; amendments applied here | The text of the Constitution and of every law and decree; its [relation index](https://search.et.gr) names amending laws |
-| [Διαύγεια](https://diavgeia.gov.gr) | Decisions of public bodies | as posted | The Municipality of Athens's regulatory acts (open data, CC BY 4.0) |
+| [Διαύγεια](https://diavgeia.gov.gr) | Decisions of public bodies | as posted | Regulatory decisions of national bodies, and decisions of regions, decentralised administrations and municipalities (open data, CC BY 4.0) |
 | [legalize-dev/legalize-gr](https://github.com/legalize-dev/legalize-gr) | Gazette issues as text | no | Used only to find amending laws; its text is not used |
 | [Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα](https://www.dpa.gr) | Consolidated texts of ν. 4624/2019 and ν. 3471/2006 | no | Used only to check; no text copied |
 
