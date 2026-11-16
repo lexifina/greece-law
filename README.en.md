@@ -88,7 +88,13 @@ No AI model wrote, translated or corrected legal text; the scripts were written 
 
 ## Visualisations
 
-[visualisations/](visualisations/README.en.md): charts on Greek law, drawn from this repository. A placeholder for now: no charts have been drawn yet.
+[visualisations/](visualisations/README.en.md): Greek law in 20 charts, drawn from this repository.
+
+Including:
+
+- The revisions of the Constitution, laws with "and other provisions" and how soon laws are amended
+- What municipalities, regions and ministries post on Diavgeia, how soon, and legality review
+- What the Areios Pagos decides, how long it takes and where its cases come from
 
 ## More
 

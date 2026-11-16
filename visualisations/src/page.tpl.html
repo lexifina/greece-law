@@ -1,0 +1,1364 @@
+<!doctype html>
+<html lang="el">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Το ελληνικό δίκαιο σε 20 γραφήματα</title>
+<meta name="description" content="Είκοσι γραφήματα για το ελληνικό δίκαιο από τα δεδομένα του αποθετηρίου greece-law / Twenty charts on Greek law from the greece-law repository">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600&family=Noto+Serif:wght@500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f7f6f3; --surface: #fcfcfb; --surface-2: #f1f0ec; --line: #e4e2dc; --grid: #ebe9e4;
+  --text: #0b0b0b; --text-2: #52514e; --text-3: #7a7974; --accent: #2a78d6;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #6250d6; --s8: #e34948;
+  --muted-mark: #b9b7b0;
+  --seq-lo: #eef4fc; --seq-hi: #0d366b;
+  --sans: "Noto Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --serif: "Noto Serif", Georgia, serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+    --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+    --muted-mark: #55544f;
+    --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+  --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+  --muted-mark: #55544f;
+  --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.6 var(--sans); }
+a { color: var(--accent); }
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+header.top { padding: 28px 0 8px; }
+.bar { display: flex; justify-content: flex-end; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 18px; }
+.toggles { display: inline-flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; background: var(--surface); }
+.seg button { border: 0; background: transparent; color: var(--text-2); font: 500 13px/1 var(--sans); padding: 7px 12px; border-radius: 999px; cursor: pointer; min-height: 30px; }
+.seg button[aria-pressed="true"] { background: var(--text); color: var(--surface); }
+.seg button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+h1 { font: 600 clamp(28px, 5vw, 44px)/1.2 var(--serif); margin: 0 0 14px; letter-spacing: -.01em; }
+.lede { font-size: 17px; color: var(--text-2); max-width: 780px; margin: 0 0 8px; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 26px 0 10px; }
+.tile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 14px 12px; }
+.tile b { display: block; font: 600 24px/1.15 var(--sans); }
+.tile span { font-size: 12px; color: var(--text-2); line-height: 1.5; display: block; margin-top: 2px; }
+details.profile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; margin: 10px 0 0; }
+details.profile > summary, details.tbl > summary { cursor: pointer; padding: 12px 14px; font-weight: 500; font-size: 14px; list-style: none; }
+details.profile > summary::-webkit-details-marker, details.tbl > summary::-webkit-details-marker { display: none; }
+details.profile > summary::before, details.tbl > summary::before { content: "▸"; display: inline-block; width: 1.1em; color: var(--text-3); transition: transform .15s; }
+details[open].profile > summary::before, details[open].tbl > summary::before { transform: rotate(90deg); }
+.scroll { overflow-x: auto; padding: 0 14px 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 600; color: var(--text-2); font-size: 12px; }
+td.n, th.n { text-align: right; white-space: nowrap; }
+code { font: 12px/1.4 ui-monospace, SFMono-Regular, Consolas, monospace; background: var(--surface-2); padding: 1px 5px; border-radius: 5px; word-break: break-all; }
+nav.toc { margin: 30px 0 10px; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 6px 22px; font-size: 13px; }
+nav.toc a { color: var(--text-2); text-decoration: none; display: block; padding: 3px 0; line-height: 1.5; }
+nav.toc a:hover { color: var(--text); text-decoration: underline; }
+nav.toc .p { font-weight: 600; color: var(--text); margin-top: 6px; }
+section.part { padding-top: 34px; }
+section.part > h2 { font: 600 26px/1.3 var(--serif); margin: 0 0 6px; }
+section.part > p.pd { color: var(--text-2); margin: 0 0 6px; max-width: 780px; }
+figure.chart { margin: 22px 0 0; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 18px 6px; }
+figure.chart h3 { font: 600 19px/1.45 var(--serif); margin: 0 0 6px; }
+figure.chart h3 .no { color: var(--text-3); font-weight: 500; margin-right: .35em; }
+.dek { color: var(--text-2); margin: 0 0 12px; max-width: 840px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12px; color: var(--text-2); margin: 0 0 8px; line-height: 1.5; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+.legend i.dot { border-radius: 50%; }
+.legend i.ring { background: transparent !important; border: 2px solid var(--text-3); border-radius: 50%; }
+.legend i.line { height: 2px; width: 14px; border-radius: 1px; vertical-align: 3px; }
+.legend i.dash { height: 0; width: 14px; border-radius: 0; border-top: 2px dashed; background: transparent !important; vertical-align: 3px; }
+.legend i.hatch { background-image: repeating-linear-gradient(135deg, var(--muted-mark) 0 2px, transparent 2px 5px) !important; background-color: var(--surface-2) !important; }
+.legend i.outline { background: transparent !important; border: 2px solid var(--text); border-radius: 3px; }
+.legend i.band { height: 8px; width: 14px; border-radius: 2px; opacity: .35; vertical-align: 0; }
+.legend i.tri { clip-path: polygon(0 0, 100% 0, 0 100%); border-radius: 0; }
+.legend i.box { box-shadow: inset 0 0 0 1px var(--line); }
+.legend i.strike { opacity: .6; background-image: linear-gradient(135deg, transparent 40%, var(--surface) 40%, var(--surface) 60%, transparent 60%) !important; }
+.plot { width: 100%; position: relative; }
+.plot svg { display: block; width: 100%; height: auto; overflow: visible; }
+.axis text, .lbl { fill: var(--text-2); font: 11px var(--sans); font-variant-numeric: tabular-nums; }
+.lbl.strong { fill: var(--text); font-weight: 500; }
+.lbl.mut { fill: var(--text-3); }
+.axis path { display: none; }
+.axis line, .grid line { stroke: var(--grid); }
+.base { stroke: var(--text-3); stroke-width: 1; }
+.note { font-size: 12px; color: var(--text-3); margin: 10px 0 4px; line-height: 1.6; }
+.note b { color: var(--text-2); font-weight: 500; }
+details.tbl { border-top: 1px solid var(--line); margin: 10px -18px 0; }
+details.tbl > summary { font-size: 12px; color: var(--text-2); padding: 10px 18px; }
+details.tbl .scroll { max-height: 360px; overflow: auto; padding: 0 18px 12px; }
+.tip { position: fixed; pointer-events: none; z-index: 10; background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; font-size: 12px; line-height: 1.5; box-shadow: 0 6px 24px rgba(0,0,0,.12); max-width: 340px; opacity: 0; transition: opacity .08s; }
+.tip b { font-weight: 600; }
+.tip .r { display: flex; justify-content: space-between; gap: 14px; }
+.tip .r span:last-child { font-variant-numeric: tabular-nums; }
+.tip .sw { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 6px; }
+.tip .q { margin-top: 4px; color: var(--text-2); }
+.hit { fill: transparent; cursor: default; }
+.mini { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+.mini h4 { margin: 0 0 2px; font: 600 13px/1.4 var(--sans); }
+.mini p { margin: 0 0 6px; font-size: 12px; color: var(--text-2); }
+.multi { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px 18px; }
+.multi h4 { margin: 0; font: 600 13px/1.4 var(--sans); overflow-wrap: anywhere; }
+.multi p { margin: 0 0 2px; font-size: 12px; color: var(--text-2); }
+.multi > div { display: flex; flex-direction: column; min-width: 0; }
+.multi > div > .plot { margin-top: auto; }
+.ptiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 4px 0 14px; }
+.ptile { background: var(--surface-2); border-radius: 10px; padding: 10px 12px; }
+.ptile .pn { font: 500 12px/1.4 var(--sans); color: var(--text-2); overflow-wrap: anywhere; }
+.ptile .pv { font-size: 12px; color: var(--text-2); margin: 2px 0; }
+.ptile .pv b { font: 600 22px/1.15 var(--sans); color: var(--text); margin-right: 2px; }
+.ptile .ps { font-size: 12px; color: var(--text-3); line-height: 1.5; }
+.ptile .pbar { display: flex; gap: 2px; height: 6px; margin-top: 8px; border-radius: 3px; overflow: hidden; }
+.ptile .pbar i { display: block; }
+.ptile svg { display: block; width: 100%; height: auto; margin-top: 6px; }
+.sub { margin: 18px 0 4px; font: 600 13px/1.4 var(--sans); }
+footer { color: var(--text-3); font-size: 12px; padding: 40px 0 60px; line-height: 1.6; }
+@media (max-width: 560px) {
+  figure.chart { padding: 14px 12px 4px; border-radius: 12px; }
+  details.tbl { margin: 10px -12px 0; }
+  details.tbl > summary { padding: 10px 12px; }
+  details.tbl .scroll { padding: 0 12px 12px; }
+  .lede { font-size: 15px; }
+  .multi { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 10px; }
+  .ptiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (forced-colors: active) { .seg button[aria-pressed="true"] { outline: 2px solid CanvasText; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <div class="bar">
+    <span class="toggles">
+      <span class="seg" role="group" aria-label="Γλώσσα / Language"><button data-lang="el">ΕΛ</button><button data-lang="en">EN</button></span>
+      <span class="seg" role="group" aria-label="Θέμα / Theme"><button data-theme-set="auto">Auto</button><button data-theme-set="light">☀</button><button data-theme-set="dark">☾</button></span>
+    </span>
+  </div>
+  <h1 data-i="title"></h1>
+  <p class="lede" data-i="lede"></p>
+  <p class="note" id="gl-link"></p>
+  <div class="tiles" id="tiles"></div>
+  <details class="profile"><summary data-i="profile_h"></summary><div class="scroll" id="profile"></div></details>
+  <nav class="toc" id="toc"></nav>
+</header>
+<main id="main"></main>
+<footer id="foot"></footer>
+</div>
+<div class="tip" id="tip" role="status" aria-live="polite"></div>
+<script>
+const DATA = /*DATA*/null;
+</script>
+<script>
+"use strict";
+const D = DATA.charts, PF = DATA.profile;
+const LANGS = ['el', 'en'];
+let LANG = 'el';
+try { const q = new URLSearchParams(location.search).get('lang'); if (LANGS.includes(q)) LANG = q; else { const s = localStorage.getItem('gr-viz-lang'); if (LANGS.includes(s)) LANG = s; } } catch (e) {}
+let THEME = 'auto';
+try { const tt = localStorage.getItem('gr-viz-theme'); if (tt === 'light' || tt === 'dark') THEME = tt; } catch (e) {}
+
+// ------------------------------------------------------------------ strings
+const GL = '<a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>';
+const S = {
+el: {
+  title: 'Το ελληνικό δίκαιο σε 20 γραφήματα',
+  lede: 'Είκοσι γραφήματα σχεδιασμένα μόνο από τα δεδομένα αυτού του αποθετηρίου: το Σύνταγμα σε κάθε του έκδοση από το 2001, οι νόμοι και τα προεδρικά διατάγματα του ΦΕΚ που περιέχει, οι κανονιστικές πράξεις, οι εγκύκλιοι και οι γνωμοδοτήσεις που ανάρτησαν στη Διαύγεια δήμοι, περιφέρειες, υπουργεία και άλλοι φορείς, και οι αποφάσεις του Αρείου Πάγου.',
+  profile_h: 'Τα δεδομένα: τι χρησιμοποιήθηκε και πόσο πλήρες είναι',
+  tbl: 'Πίνακας δεδομένων', src: 'Πηγή στο αποθετήριο', n: 'Εγγραφές', cover: 'Κάλυψη', caveat: 'Όρια',
+  ds: 'Δεδομένα', foot: 'Από το αποθετήριο lexifina/greece-law ({built}). Τους αριθμούς υπολογίζει το visualisations/src/prep.py από την ιστορία του git, τα κείμενα και τους πίνακες του αποθετηρίου· τη σελίδα συνθέτει το build.py. Τα γραφήματα περιγράφουν ό,τι καταγράφουν οι πηγές, όχι τις αιτίες του.',
+  year: 'Έτος', total: 'Σύνολο', share: 'Ποσοστό', count: 'Αριθμός', partial: 'ημιτελές έτος',
+  gl: 'Γραφήματα για το δίκαιο όλων των χωρών, από ολόκληρο το global-law: ' + GL + '. Εδώ, μόνο τα γραφήματα για την Ελλάδα.',
+},
+en: {
+  title: 'Greek law in 20 charts',
+  lede: 'Twenty charts drawn only from the data in this repository: the Constitution in every version since 2001, the laws and presidential decrees of the Government Gazette it holds, the regulatory acts, circulars and opinions that municipalities, regions, ministries and other bodies posted on Diavgeia, and the decisions of the Areios Pagos.',
+  profile_h: 'The data: what was used and how complete it is',
+  tbl: 'Data table', src: 'Source in the repository', n: 'Records', cover: 'Coverage', caveat: 'Limit',
+  ds: 'Dataset', foot: 'Built from the lexifina/greece-law repository ({built}). The numbers are computed by visualisations/src/prep.py from the git history, the texts and the tables of the repository; build.py assembles the page. The charts describe what the sources record, not why.',
+  year: 'Year', total: 'Total', share: 'Share', count: 'Count', partial: 'partial year',
+  gl: 'Charts on every country’s law, from the whole of global-law: ' + GL + '. These are the charts on Greece alone.',
+}};
+const t = k => S[LANG][k];
+const L = (el, en) => LANG === 'el' ? el : en;
+const LA = a => Array.isArray(a) ? L(a[0], a[1]) : a;
+const NB = ' ';
+const grp = s => s.replace(/\B(?=(\d{3})+(?!\d))/g, LANG === 'el' ? '.' : ',');
+const dec = (v, d = 1) => { const s = Math.abs(+v).toFixed(d); const [a, b] = s.split('.'); return (+v < 0 && +s !== 0 ? '−' : '') + grp(a) + (b ? (LANG === 'el' ? ',' : '.') + b : ''); };
+const fmt = n => (n == null ? '–' : Number.isInteger(+n) ? (+n < 0 ? '−' : '') + grp(String(Math.abs(Math.round(+n)))) : dec(+n, 1));
+const pv = (v, d = 0) => dec(v, d) + (LANG === 'el' ? NB + '%' : '%');
+const pct = (a, b, d = 0) => b ? pv(100 * a / b, d) : '–';
+const MGEN = ['Ιανουαρίου', 'Φεβρουαρίου', 'Μαρτίου', 'Απριλίου', 'Μαΐου', 'Ιουνίου', 'Ιουλίου', 'Αυγούστου', 'Σεπτεμβρίου', 'Οκτωβρίου', 'Νοεμβρίου', 'Δεκεμβρίου'];
+const MNOM = ['Ιανουάριος', 'Φεβρουάριος', 'Μάρτιος', 'Απρίλιος', 'Μάιος', 'Ιούνιος', 'Ιούλιος', 'Αύγουστος', 'Σεπτέμβριος', 'Οκτώβριος', 'Νοέμβριος', 'Δεκέμβριος'];
+const MEN = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const MON = { el: ['Ιαν', 'Φεβ', 'Μάρ', 'Απρ', 'Μάι', 'Ιούν', 'Ιούλ', 'Αύγ', 'Σεπ', 'Οκτ', 'Νοέ', 'Δεκ'], en: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'] };
+const DOW = { el: ['Δευτέρα', 'Τρίτη', 'Τετάρτη', 'Πέμπτη', 'Παρασκευή', 'Σάββατο', 'Κυριακή'], en: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'] };
+const DOW1 = { el: ['Δευ', 'Τρί', 'Τετ', 'Πέμ', 'Παρ', 'Σάβ', 'Κυρ'], en: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'] };
+const dateTxt = s => { const [y, m, d] = s.split('-').map(Number); return LANG === 'el' ? `${d} ${MGEN[m - 1]} ${y}` : `${d} ${MEN[m - 1]} ${y}`; };
+const dateShort = s => { const [y, m, d] = s.split('-').map(Number); return LANG === 'el' ? `${d} ${MON.el[m - 1]} ${y}` : `${d} ${MON.en[m - 1]} ${y}`; };
+const monthTxt = s => { const [y, m] = s.split('-').map(Number); return LANG === 'el' ? `${MNOM[m - 1]} ${y}` : `${MEN[m - 1]} ${y}`; };
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const S8 = () => [1, 2, 3, 4, 5, 6, 7, 8].map(i => css('--s' + i));
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const sum = (a, f) => a.reduce((s, d) => s + (f ? f(d) : d), 0);
+const PD = s => d3.timeParse('%Y-%m-%d')(s);
+const Cap = s => s.charAt(0).toUpperCase() + s.slice(1);
+const nn = (n, el, en) => LANG === 'el' ? `${fmt(n)} ${n === 1 ? el[0] : el[1]}` : `${fmt(n)} ${n === 1 ? en[0] : en[1]}`;
+const andList = a => a.length < 2 ? a.join('') : a.slice(0, -1).join(', ') + L(' και ', ' and ') + a[a.length - 1];
+const median = a => { const s = [...a].sort((x, y) => x - y), n = s.length; return n ? (n % 2 ? s[(n - 1) / 2] : (s[n / 2 - 1] + s[n / 2]) / 2) : null; };
+const yrs = (a, b) => a === b ? String(a) : `${a}–${b}`;
+
+// ------------------------------------------------------------------ tooltip
+const tip = document.getElementById('tip');
+function showTip(ev, html) { tip.innerHTML = html; tip.style.opacity = 1; moveTip(ev); }
+function moveTip(ev) {
+  const r = tip.getBoundingClientRect(), pad = 14;
+  let x = ev.clientX + pad, y = ev.clientY + pad;
+  if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - pad;
+  if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - pad;
+  tip.style.left = Math.max(8, x) + 'px'; tip.style.top = Math.max(8, y) + 'px';
+}
+function hideTip() { tip.style.opacity = 0; }
+function bindTip(sel, fn) {
+  sel.on('mouseenter', (ev, d) => showTip(ev, fn(d))).on('mousemove', moveTip).on('mouseleave', hideTip)
+     .on('touchstart', (ev, d) => { const tt = ev.touches[0]; showTip({ clientX: tt.clientX, clientY: tt.clientY }, fn(d)); }, { passive: true });
+}
+const trow = (sw, k, v) => `<div class="r"><span>${sw ? `<i class="sw" style="background:${sw}"></i>` : ''}${esc(k)}</span><span>${v}</span></div>`;
+
+// ------------------------------------------------------------------ chart scaffolding
+function legend(el, items) {
+  const lg = el.append('div').attr('class', 'legend');
+  items.forEach(it => { const s = lg.append('span'); s.append('i').attr('class', it.shape || '').style('background', it.c).style('border-color', it.c); s.append('span').text(it.l); });
+  return lg;
+}
+function svgIn(el, w, h) { return el.append('div').attr('class', 'plot').append('svg').attr('viewBox', `0 0 ${w} ${h}`).attr('width', w).attr('height', h).attr('role', 'img'); }
+function table(el, head, rows) {
+  const d = el.append('details').attr('class', 'tbl');
+  d.append('summary').text(t('tbl'));
+  const tb = d.append('div').attr('class', 'scroll').append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => i ? 'n' : null).text(h => h);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => i ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+  return d;
+}
+function subTable(el, heading, head, rows, numeric) {
+  const nd = el.select('details.tbl:last-of-type .scroll');
+  nd.append('h4').style('margin', '14px 0 6px').style('font', '600 13px/1.4 var(--sans)').text(heading);
+  const tb = nd.append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => numeric && numeric[i] ? 'n' : null).text(x => x);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => numeric && numeric[i] ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+}
+const PH = { '<ΕΤΟΣ>': ['<έτος>', '<year>'], '<ΦΟΡΕΑΣ>': ['<φορέας>', '<body>'], '<ΑΡΙΘΜΟΣ>': ['<αριθμός>', '<number>'], '<ΤΜΗΜΑ>': ['<τμήμα>', '<chamber>'], '<ΜΗΝΑΣ>': ['<μήνας>', '<month>'] };
+function note(el, src, n, extra) {
+  const p = el.append('p').attr('class', 'note');
+  const tr = s => Object.entries(PH).reduce((a, [x, y]) => a.split(x).join(LA(y)), s);
+  p.html(`<b>${t('src')}:</b> ${src.map(s => `<code>${esc(tr(s))}</code>`).join(' ')} · <b>${t('n')}:</b> ${n}${extra ? ' · ' + esc(extra) : ''}`);
+}
+function yAxis(g, y, w, ticks = 5, f = fmt) {
+  const ax = g.append('g').attr('class', 'axis grid');
+  y.ticks(ticks).forEach(v => {
+    ax.append('line').attr('x1', 0).attr('x2', w).attr('y1', y(v)).attr('y2', y(v));
+    ax.append('text').attr('x', -6).attr('y', y(v)).attr('dy', '0.32em').attr('text-anchor', 'end').text(f(v));
+  });
+}
+const W = el => Math.max(300, Math.min(1000, el.node().getBoundingClientRect().width || 900));
+const narrow = w => w < 560;
+function colPath(x, y0, w, y1, r = 4) {
+  const h = y0 - y1; if (h <= 0) return '';
+  r = Math.min(r, h, w / 2);
+  return `M${x},${y0}V${y1 + r}Q${x},${y1} ${x + r},${y1}H${x + w - r}Q${x + w},${y1} ${x + w},${y1 + r}V${y0}Z`;
+}
+function barPath(x0, y, x1, h, r = 4) {
+  const w = x1 - x0; if (w <= 0) return '';
+  r = Math.min(r, w, h / 2);
+  return `M${x0},${y}H${x1 - r}Q${x1},${y} ${x1},${y + r}V${y + h - r}Q${x1},${y + h} ${x1 - r},${y + h}H${x0}Z`;
+}
+// a bar growing to the left from x1 to x0 (x0 < x1), rounded at its left end
+function barPathL(x0, y, x1, h, r = 4) {
+  const w = x1 - x0; if (w <= 0) return '';
+  r = Math.min(r, w, h / 2);
+  return `M${x1},${y}H${x0 + r}Q${x0},${y} ${x0},${y + r}V${y + h - r}Q${x0},${y + h} ${x0 + r},${y + h}H${x1}Z`;
+}
+let HATCH = 0;
+function hatch(svg) {
+  const id = 'hatch' + (++HATCH);
+  const p = svg.append('defs').append('pattern').attr('id', id).attr('patternUnits', 'userSpaceOnUse').attr('width', 6).attr('height', 6).attr('patternTransform', 'rotate(45)');
+  p.append('rect').attr('width', 6).attr('height', 6).attr('fill', css('--surface-2'));
+  p.append('line').attr('x1', 0).attr('y1', 0).attr('x2', 0).attr('y2', 6).attr('stroke', css('--muted-mark')).attr('stroke-width', 1.4);
+  return `url(#${id})`;
+}
+const inkOn = c => d3.hsl(c).l > 0.6 ? '#0b0b0b' : '#fff';
+const grad = (svg, id, color, a = .3) => { const lg = svg.append('defs').append('linearGradient').attr('id', id).attr('x1', 0).attr('x2', 0).attr('y1', 0).attr('y2', 1);
+  lg.append('stop').attr('offset', '0%').attr('stop-color', color).attr('stop-opacity', a); lg.append('stop').attr('offset', '100%').attr('stop-color', color).attr('stop-opacity', .02); return `url(#${id})`; };
+const seqRamp = () => d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'));
+const h4 = (el, txt, mt = 14) => el.append('h4').style('margin', `${mt}px 0 4px`).style('font', '600 13px/1.4 var(--sans)').text(txt);
+// the widest of these strings in a chart's label style, in pixels (measured as drawn: the page draws again once the web fonts have loaded)
+const textW = (el, strs, cls = 'lbl strong') => { const sv = el.append('svg').attr('width', 0).attr('height', 0).style('position', 'absolute'), tx = sv.append('text').attr('class', cls);
+  const w = d3.max(strs, q => { tx.text(q); return tx.node().getComputedTextLength(); }) || 0; sv.remove(); return w; };
+const halo = (g, x, y, txt, anchor = 'start', cls = 'lbl strong', fill = null) => g.append('text').attr('class', cls).attr('x', x).attr('y', y).attr('text-anchor', anchor)
+  .style('fill', fill).style('paint-order', 'stroke').style('stroke', css('--surface')).style('stroke-width', 4).style('stroke-linejoin', 'round').text(txt);
+// rows of 100% bands with rounded ends and the shares inside
+function bands(el, rows, keys, colors, names, opt) {
+  // on narrow screens, opt.above puts each label on its own line above its band (the band takes the full width)
+  const w = W(el), nw = narrow(w), up = nw && opt.above, rowH = (opt.rowH || 34) + (up ? 14 : 0), m = { t: 4, r: nw ? (opt.rn || 58) : (opt.r || 86), b: 22, l: up ? 0 : nw ? (opt.ln || 52) : (opt.l || 90) };
+  const h = m.t + m.b + rowH * rows.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, 1]).range([0, iw]);
+  [0, .25, .5, .75, 1].forEach(v => g.append('text').attr('class', 'lbl mut').attr('x', x(v)).attr('y', rowH * rows.length + 14).attr('text-anchor', v === 0 && up ? 'start' : 'middle').text(pv(100 * v)));
+  const id0 = 'bd' + (++HATCH);
+  rows.forEach((r, i) => {
+    const y0 = i * rowH + 6 + (up ? 14 : 0), bh = (opt.rowH || 34) - 12, tot = sum(keys, k => r[k] || 0), id = id0 + '_' + i;
+    if (up) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', y0 - 4).style('fill', opt.labelFill ? opt.labelFill(r) : null).text(opt.label(r, nw));
+    else g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').style('fill', opt.labelFill ? opt.labelFill(r) : null).text(opt.label(r, nw));
+    if (!tot) return;
+    g.append('clipPath').attr('id', id).append('rect').attr('x', 0).attr('y', y0).attr('width', iw).attr('height', bh).attr('rx', bh / 2);
+    const row = g.append('g').attr('clip-path', `url(#${id})`).attr('opacity', opt.partial && opt.partial(r) ? .55 : 1);
+    let acc = 0;
+    keys.forEach((k, j) => {
+      const v = r[k] || 0; if (!v) return;
+      const x0 = x(acc / tot), x1 = x((acc + v) / tot); acc += v;
+      row.append('rect').attr('x', x0).attr('width', Math.max(0, x1 - x0 - (acc < tot ? 1.5 : 0))).attr('y', y0).attr('height', bh).attr('fill', colors[j]);
+      if (x1 - x0 > (opt.minIn || 34)) row.append('text').attr('class', 'lbl').attr('x', (x0 + x1) / 2).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'middle')
+        .style('fill', inkOn(colors[j])).style('pointer-events', 'none').text(pct(v, tot));
+    });
+    g.append('text').attr('class', 'lbl strong').attr('x', iw + 10).attr('y', y0 + bh / 2 + 4).text(opt.right(r, nw));
+    bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', i * rowH).attr('height', rowH).datum(r),
+      d => `<b>${esc(opt.label(d, false))}</b>` + keys.map((k, j) => d[k] ? trow(colors[j], names[j], `${fmt(d[k])} · ${pct(d[k], tot)}`) : '').join('') + (opt.tipExtra ? opt.tipExtra(d) : trow(null, t('total'), fmt(tot))));
+  });
+  return { svg, g, iw, m };
+}
+// stacked columns, keys bottom-up; the top segment gets the rounded end, 1px surface gaps
+function stackedColumns(el, rows, keys, colors, names, opt = {}) {
+  const w = W(el), h = opt.h || 300, m = { t: opt.mt || 14, r: 8, b: 26, l: opt.ml || 44 };
+  const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, ih = h - m.t - m.b;
+  const x = d3.scaleBand().domain(rows.map(r => r.y)).range([0, iw]).padding(opt.pad == null ? 0.25 : opt.pad);
+  const tot = r => keys.reduce((s, k) => s + (r[k] || 0), 0);
+  const y = d3.scaleLinear().domain([0, opt.max || d3.max(rows, tot)]).nice().range([ih, 0]);
+  yAxis(g, y, iw, opt.ticks || 5, opt.yf);
+  const bw = Math.min(opt.bw || 24, x.bandwidth());
+  // labels over the columns only when every one fits within its column's step (otherwise the axis carries the values)
+  const topFits = !opt.topLabel || textW(el, rows.map(opt.topLabel), 'lbl') <= x.step() - 3;
+  rows.forEach(r => {
+    let acc = 0; const segs = keys.map((k, i) => ({ k, i, v: r[k] || 0 })).filter(s => s.v > 0);
+    const gx = x(r.y) + (x.bandwidth() - bw) / 2;
+    segs.forEach((s, j) => {
+      const y0 = y(Math.min(acc, y.domain()[1])), y1 = y(Math.min(acc + s.v, y.domain()[1])); acc += s.v;
+      const gap = j ? 1 : 0, top = j === segs.length - 1;
+      const yy0 = y0 - gap, yy1 = top ? y1 : y1 + 1;
+      if (yy0 - yy1 < 0.5) return;
+      g.append('path').attr('d', top ? colPath(gx, yy0, bw, yy1) : `M${gx},${yy0}V${yy1}H${gx + bw}V${yy0}Z`).attr('fill', colors[s.i]).attr('opacity', opt.partial && opt.partial(r) ? 0.5 : 1);
+    });
+    if (opt.topLabel && topFits) g.append('text').attr('class', 'lbl').attr('x', gx + bw / 2).attr('y', y(Math.min(tot(r), y.domain()[1])) - 5).attr('text-anchor', 'middle').text(opt.topLabel(r));
+  });
+  g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+  const every = opt.every || Math.ceil(rows.length / Math.max(4, Math.floor(iw / 44)));
+  rows.forEach((r, i) => { if (i % every === 0 || (i === rows.length - 1 && (rows.length - 1) % every >= every / 2)) g.append('text').attr('class', 'lbl').attr('x', x(r.y) + x.bandwidth() / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(opt.xf ? opt.xf(r.y) : r.y); });
+  bindTip(g.selectAll('.hit').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.y)).attr('width', x.bandwidth()).attr('y', 0).attr('height', ih),
+    r => `<b>${opt.xf ? opt.xf(r.y) : r.y}${opt.partial && opt.partial(r) ? ' (' + (opt.partialTxt ? opt.partialTxt(r) : t('partial')) + ')' : ''}</b>` + keys.map((k, i) => (r[k] ? trow(colors[i], names[i], fmt(r[k]) + (opt.noShare ? '' : ` · ${pct(r[k], tot(r))}`)) : '')).reverse().join('') + trow(null, t('total'), fmt(tot(r))) + (opt.tipExtra ? opt.tipExtra(r) : ''));
+  return { svg, g, x, y, iw, ih, bw };
+}
+// a label too wide for the plot, broken into two lines at the space nearest its middle (narrow screens)
+function wrap2(el, s, room, cls = 'lbl strong') {
+  if (textW(el, [s], cls) <= room) return [s];
+  const sp = [...s.matchAll(/ /g)].map(m => m.index); if (!sp.length) return [s];
+  const mid = s.length / 2, k = sp.reduce((a, b) => Math.abs(b - mid) < Math.abs(a - mid) ? b : a);
+  return [s.slice(0, k), s.slice(k + 1)];
+}
+// a list of horizontal bars, label on the left (on narrow screens above the bar, broken into two lines if needed), value on the right
+function barList(el, rows, o) {
+  const w = W(el), nw = narrow(w), labs = rows.map(r => o.label(r, nw)), rw = o.rw || 44;
+  const lw = nw ? 0 : Math.min(o.cap || 480, textW(el, labs) + 14);
+  const lines = labs.map(s => nw ? wrap2(el, s, w - 4) : [s]), rowHs = lines.map(ls => nw ? 20 + 13 * ls.length : 22), tops = rowHs.reduce((a, h) => a.concat(a[a.length - 1] + h), [0]);
+  const svg = svgIn(el, w, 4 + tops[tops.length - 1]), g = svg.append('g').attr('transform', `translate(${lw},2)`);
+  const x = d3.scaleLinear().domain([0, o.max || d3.max(rows, o.value) || 1]).range([0, Math.max(40, (o.barW ? o.barW(w - lw) : w - lw) - rw)]);
+  rows.forEach((r, i) => {
+    const cy = tops[i], v = o.value(r), by = nw ? cy + 13 * lines[i].length + 3 : cy + 5;
+    if (nw) lines[i].forEach((ln, k) => g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', cy + 11 + 13 * k).style('fill', o.labelFill ? o.labelFill(r) : null).text(ln));
+    else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 15).attr('text-anchor', 'end').style('fill', o.labelFill ? o.labelFill(r) : null).text(labs[i]);
+    if (v) g.append('path').attr('d', barPath(0, by, Math.max(2, x(v)), 12, 3)).attr('fill', o.color(r));
+    g.append('text').attr('class', 'lbl').attr('x', (v ? Math.max(2, x(v)) + 6 : 0)).attr('y', by + 10).text(o.right ? o.right(r, nw) : fmt(v));
+    if (o.tip) bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', cy).attr('height', rowHs[i]).datum(r), o.tip);
+  });
+  return { svg, g, x, lw, tops };
+}
+
+// ------------------------------------------------------------------ the charts
+const CH = [];
+const part = (id, el_, en, del, den) => CH.push({ part: true, id, el: el_, en, del, den });
+const chart = (id, fn) => CH.push({ id, fn });
+
+// ================================================================== I. the Constitution
+const PARTN = { 1: ['Βασικές διατάξεις', 'Basic provisions'], 2: ['Ατομικά και κοινωνικά δικαιώματα', 'Individual and social rights'],
+  3: ['Οργάνωση και λειτουργίες της Πολιτείας', 'Organisation and functions of the State'], 4: ['Ειδικές τελικές και μεταβατικές διατάξεις', 'Special, final and transitional provisions'] };
+const PARTO = { 1: ['Μέρος πρώτο', 'Part One'], 2: ['Μέρος δεύτερο', 'Part Two'], 3: ['Μέρος τρίτο', 'Part Three'], 4: ['Μέρος τέταρτο', 'Part Four'] };
+// what each revised article is about, as its text says
+const ART = {
+  '21': ['Οικογένεια, γάμος, μητρότητα, παιδική ηλικία', 'Family, marriage, motherhood, childhood'], '32': ['Εκλογή του Προέδρου της Δημοκρατίας', 'Election of the President of the Republic'],
+  '54': ['Εκλογικό σύστημα και περιφέρειες', 'Electoral system and constituencies'], '57': ['Ασυμβίβαστα των βουλευτών', 'Incompatibilities of MPs'],
+  '62': ['Βουλευτική ασυλία', 'Parliamentary immunity'], '68': ['Κοινοβουλευτικές επιτροπές', 'Parliamentary committees'], '73': ['Δικαίωμα πρότασης νόμων', 'The right to propose laws'],
+  '79': ['Προϋπολογισμός του Κράτους', 'The State budget'], '86': ['Ποινική ευθύνη μελών της Κυβέρνησης', 'Criminal liability of members of the Government'],
+  '96': ['Ποινική δικαιοσύνη', 'Criminal justice'], '101': ['Οργάνωση της διοίκησης', 'Organisation of the administration'], '101Α': ['Ανεξάρτητες αρχές', 'Independent authorities'],
+  '112': ['Μεταβατική: εφαρμοστικοί νόμοι', 'Transitional: implementing laws'], '113': ['Μεταβατική: Κανονισμός της Βουλής', 'Transitional: Standing Orders of Parliament'],
+  '114': ['Μεταβατική: εκλογή του πρώτου Προέδρου', 'Transitional: election of the first President'], '115': ['Μεταβατική: δίωξη μελών της Κυβέρνησης', 'Transitional: prosecution of ministers'],
+  '119': ['Μεταβατική: πράξεις μετά τις 21 Απριλίου 1967', 'Transitional: acts issued after 21 April 1967'] };
+const artName = id => ART[id] ? L(...ART[id]) : '';
+const VNAME = v => ({ '2001-04-17': ['Κείμενο του 2001', 'The 2001 text'], '2008-06-02': ['Αναθεώρηση 2008', '2008 revision'], '2008-06-27': ['Επανέκδοση 2008', '2008 republication'],
+  '2019-11-28': ['Αναθεώρηση 2019', '2019 revision'], '2019-12-24': ['Επανέκδοση 2019', '2019 republication'] }[v] || [v, v]);
+
+part('p1', 'I. Το Σύνταγμα', 'I. The Constitution',
+  'Το Σύνταγμα του 1975 ως ιστορία git: το κείμενο όπως ίσχυε μετά την αναθεώρηση του 2001, οι αναθεωρήσεις του 2008 και του 2019 και οι δύο επανεκδόσεις ολόκληρου του κειμένου που τις ακολούθησαν (syntagma/).',
+  'The 1975 Constitution as a git history: the text as it stood after the 2001 revision, the 2008 and 2019 revisions and the two republications of the whole text that followed them (syntagma/).');
+
+chart('c01', el => {
+  const A = D.c01.arts, N = A.length, rev = A.filter(r => r.r2008 || r.r2019);
+  const r08 = A.filter(r => r.r2008), r19 = A.filter(r => r.r2019), rep = A.filter(r => r.repealed && r.r2019), old = A.filter(r => r.repealed && !r.r2019), typo = A.filter(r => r.typo), decl = A.filter(r => r.decl);
+  const ids = a => andList(a.map(r => r.id));
+  return {
+    title: L(`Ο χάρτης του Συντάγματος: οι αναθεωρήσεις του 2008 και του 2019 άλλαξαν ${rev.length} από τα ${N} άρθρα`, `The map of the Constitution: the 2008 and 2019 revisions changed ${rev.length} of its ${N} articles`),
+    toc: L('Ο χάρτης του Συντάγματος', 'The map of the Constitution'),
+    dek: L(`Κάθε τετράγωνο είναι ένα άρθρο, με τη σειρά του κειμένου, στα τέσσερα μέρη του. Η αναθεώρηση του 2008 άλλαξε τα άρθρα ${ids(r08)}· η αναθεώρηση του 2019 άλλαξε ${r19.length} άρθρα και κατάργησε τα ${ids(rep)}. Το άρθρο ${ids(old)} ήταν καταργημένο ήδη στο κείμενο του 2001. Οι επανεκδόσεις ολόκληρου του κειμένου, το 2008 και το 2019, άλλαξαν ορθογραφία και στίξη σε ${typo.length} ακόμη άρθρα. ${decl.length} άρθρα έχουν ερμηνευτική δήλωση.`,
+      `Each square is an article, in the order of the text, in its four parts. The 2008 revision changed articles ${ids(r08)}; the 2019 revision changed ${r19.length} articles and repealed ${ids(rep)}. Article ${ids(old)} was already repealed in the 2001 text. The republications of the whole text, in 2008 and 2019, changed spelling and punctuation in ${typo.length} more articles. ${decl.length} articles carry an interpretative declaration.`),
+    draw(el) {
+      const cols = S8(), c08 = cols[1], c19 = cols[0], grey = css('--surface-2');
+      legend(el, [{ c: c08, l: L('Αναθεώρηση 2008', '2008 revision') }, { c: c19, l: L('Αναθεώρηση 2019', '2019 revision') }, { c: css('--text-3'), l: L('Καταργημένο άρθρο', 'Repealed article'), shape: 'strike' },
+        { c: grey, l: L('Χωρίς αναθεώρηση από το 2001', 'Not revised since 2001'), shape: 'box' }, { c: css('--text-2'), l: L('Επανέκδοση: ορθογραφία και στίξη', 'Republication: spelling and punctuation'), shape: 'ring' },
+        { c: css('--text-2'), l: L('Ερμηνευτική δήλωση', 'Interpretative declaration'), shape: 'tri' }]);
+      const w = W(el), nw = narrow(w), s = nw ? 25 : 33, gap = nw ? 3 : 4, step = s + gap;
+      const perRow = Math.max(8, Math.floor((w + gap) / step));
+      let y = 0; const pos = [], heads = [];
+      [1, 2, 3, 4].forEach(p => {
+        const arts = A.filter(r => r.part === p);
+        heads.push({ p, y: y + 13, n: arts.length }); y += 22;
+        arts.forEach((r, i) => pos.push({ r, x: (i % perRow) * step, y: y + Math.floor(i / perRow) * step }));
+        y += Math.ceil(arts.length / perRow) * step + 12;
+      });
+      const svg = svgIn(el, w, y), g = svg.append('g');
+      heads.forEach(hd => g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', hd.y)
+        .text(`${L(...PARTO[hd.p])}: ${L(D.c01.parts[hd.p] || PARTN[hd.p][0], PARTN[hd.p][1])} · ${nn(hd.n, ['άρθρο', 'άρθρα'], ['article', 'articles'])}`));
+      const clip = svg.append('defs').append('clipPath').attr('id', 'c01clip').append('rect').attr('width', s).attr('height', s).attr('rx', 4);
+      pos.forEach(({ r, x, y: yy }) => {
+        const fill = r.r2019 ? c19 : r.r2008 ? c08 : grey, ink = (r.r2008 || r.r2019) ? inkOn(fill) : css('--text-2');
+        const gt = g.append('g').attr('transform', `translate(${x},${yy})`);
+        const inner = gt.append('g').attr('clip-path', 'url(#c01clip)');
+        inner.append('rect').attr('width', s).attr('height', s).attr('fill', r.r2008 && r.r2019 ? c08 : fill).attr('opacity', r.repealed ? .5 : 1);
+        if (r.r2008 && r.r2019) inner.append('path').attr('d', `M0,0H${s}V${s}Z`).attr('fill', c19).attr('opacity', r.repealed ? .5 : 1);
+        if (r.repealed) inner.append('line').attr('x1', 3).attr('y1', s - 3).attr('x2', s - 3).attr('y2', 3).attr('stroke', (r.r2008 || r.r2019) ? css('--surface') : css('--text-3')).attr('stroke-width', (r.r2008 || r.r2019) ? 2 : 1.2);
+        if (r.decl) inner.append('path').attr('d', `M0,0H${nw ? 7 : 9}L0,${nw ? 7 : 9}Z`).attr('fill', (r.r2008 || r.r2019) ? ink : css('--text-2')).attr('opacity', .85);
+        if (r.typo || (r.ch.some(c => c[0] === '2008-06-27' || c[0] === '2019-12-24') && (r.r2008 || r.r2019)))
+          gt.append('circle').attr('cx', s - (nw ? 4.5 : 5.5)).attr('cy', nw ? 4.5 : 5.5).attr('r', nw ? 2 : 2.6).attr('fill', 'none').attr('stroke', ink).attr('stroke-width', 1.2);
+        gt.append('text').attr('class', 'lbl').attr('x', s / 2).attr('y', s / 2 + (nw ? 3 : 4)).attr('text-anchor', 'middle')
+          .style('fill', ink).style('font-size', (r.id.length > 3 ? (nw ? 7.5 : 9.5) : (nw ? 8.5 : 10.5)) + 'px').style('font-weight', (r.r2008 || r.r2019) ? 600 : 400).text(r.id);
+        bindTip(gt.append('rect').attr('class', 'hit').attr('width', s + gap).attr('height', s + gap).datum(r),
+          d => `<b>${L('Άρθρο', 'Article')} ${d.id}</b>` + (artName(d.id) ? `<div class="q">${esc(artName(d.id))}</div>` : '') + trow(null, L('Μέρος', 'Part'), L(...PARTO[d.part]).split(' ')[1]) +
+            trow(null, L('Λέξεις στο κείμενο του 2001', 'Words in the 2001 text'), fmt(d.w2001)) + trow(null, L('Λέξεις σήμερα', 'Words today'), fmt(d.words)) +
+            d.ch.map(c => trow(c[0] === '2008-06-02' ? c08 : c[0] === '2019-11-28' ? c19 : null, L(...VNAME(c[0])), `+${fmt(c[1])} / −${fmt(c[2])}`)).join('') +
+            (d.repealed ? trow(null, L('Σήμερα', 'Today'), L('καταργημένο', 'repealed')) : '') + (d.decl ? trow(null, L('Ερμηνευτική δήλωση', 'Interpretative declaration'), L('ναι', 'yes')) : ''));
+      });
+      note(el, ['syntagma/art-<ΑΡΙΘΜΟΣ>.md'], L(`${fmt(N)} άρθρα σε 5 εκδόσεις`, `${fmt(N)} articles in 5 versions`),
+        L(`το παλαιότερο κείμενο του αποθετηρίου είναι η επανέκδοση του 2001 (ΦΕΚ Α΄ 85/2001)· το κείμενο του 1975 και η αναθεώρηση του 1986 υπάρχουν μόνο ως εικόνες σελίδων, οπότε δεν φαίνεται ποια άρθρα άλλαξαν οι αναθεωρήσεις του 1986 και του 2001. Το προοίμιο δεν είναι άρθρο και δεν μετριέται. Μια αλλαγή μετριέται σε λέξεις του κειμένου του άρθρου.`,
+          `the oldest text in the repository is the 2001 republication (ΦΕΚ Α΄ 85/2001); the 1975 text and the 1986 revision exist only as page images, so which articles the 1986 and 2001 revisions changed does not show. The preamble is not an article and is not counted. A change is measured in words of the article's text.`));
+      table(el, [L('Άρθρο', 'Article'), L('Μέρος', 'Part'), L('Λέξεις 2001', 'Words 2001'), L('Λέξεις σήμερα', 'Words today'), L('Αλλαγές', 'Changes'), L('Ερμηνευτική δήλωση', 'Interpretative declaration')],
+        A.map(r => [r.id, r.part, r.w2001, r.words, r.ch.map(c => `${L(...VNAME(c[0]))} +${c[1]}/−${c[2]}`).join('; ') || '–', r.decl ? L('ναι', 'yes') : '']));
+    }
+  };
+});
+
+chart('c02', el => {
+  const R = D.c02, a08 = R['2008'], a19 = R['2019'];
+  const ins = a => sum(a, r => r.ins), del = a => sum(a, r => r.del), r54 = a19.find(r => r.id === '54'), r86 = a19.find(r => r.id === '86');
+  const rep = a19.filter(r => r.repealed);
+  return {
+    title: L(`Η αναθεώρηση του 2019 αφαίρεσε ${fmt(del(a19))} λέξεις από το Σύνταγμα και πρόσθεσε ${fmt(ins(a19))}`, `The 2019 revision took ${fmt(del(a19))} words out of the Constitution and put ${fmt(ins(a19))} in`),
+    toc: L('Λέξεις που μπήκαν και βγήκαν', 'Words in and out'),
+    dek: L(`Για κάθε άρθρο που άλλαξε μια αναθεώρηση: πόσες λέξεις μπήκαν (δεξιά) και πόσες βγήκαν (αριστερά). Το 2019 τα άρθρα ${andList(rep.map(r => r.id))} καταργήθηκαν (${fmt(sum(rep, r => r.del))} λέξεις) και το άρθρο 54 για το εκλογικό σύστημα πήγε από ${fmt(r54.before)} σε ${fmt(r54.after)} λέξεις. Η αναθεώρηση του 2008 άλλαξε ${a08.length} άρθρα: μπήκαν ${fmt(ins(a08))} λέξεις, βγήκαν ${fmt(del(a08))}.`,
+      `For each article a revision changed: how many words went in (right) and how many came out (left). In 2019, articles ${andList(rep.map(r => r.id))} were repealed (${fmt(sum(rep, r => r.del))} words) and article 54 on the electoral system went from ${fmt(r54.before)} to ${fmt(r54.after)} words. The 2008 revision changed ${a08.length} articles: ${fmt(ins(a08))} words went in, ${fmt(del(a08))} came out.`),
+    draw(el) {
+      const cols = S8(), cin = cols[0], cout = cols[1];
+      legend(el, [{ c: cin, l: L('Λέξεις που μπήκαν', 'Words added') }, { c: cout, l: L('Λέξεις που βγήκαν', 'Words removed') },
+        { c: d3.color(cout).copy({ opacity: .65 }).formatRgb(), l: L('Βγήκαν επειδή καταργήθηκε το άρθρο', 'Removed because the article was repealed') }]);
+      const w = W(el), nw = narrow(w), lab = r => `${r.id} · ${artName(r.id)}`;
+      const groups = [[L('Αναθεώρηση του 2008 (Ψήφισμα της 27ης Μαΐου 2008)', 'The 2008 revision (resolution of 27 May 2008)'), a08], [L('Αναθεώρηση του 2019 (Ψήφισμα της 25ης Νοεμβρίου 2019)', 'The 2019 revision (resolution of 25 November 2019)'), a19]];
+      const all = a08.concat(a19), M = d3.max(all, r => Math.max(r.ins, r.del));
+      const lw = nw ? 0 : Math.ceil(textW(el, all.map(lab)) + 16), vr = 34;
+      const rowH = nw ? 34 : 22, headH = 26;
+      const H = sum(groups, gp => headH + gp[1].length * rowH) + 24;
+      const svg = svgIn(el, w, H), g = svg.append('g').attr('transform', `translate(${lw},0)`);
+      const pw = w - lw, x = d3.scaleLinear().domain([-M, M]).range([vr, pw - vr]), x0 = x(0);
+      let y = 0;
+      groups.forEach(([hd, rows]) => {
+        g.append('text').attr('class', 'lbl strong').attr('x', nw ? 0 : -lw).attr('y', y + 16).style('font-weight', 600).text(hd);
+        y += headH;
+        rows.forEach(r => {
+          const by = nw ? y + 17 : y + 5, bh = 12;
+          if (nw) halo(g, 0, y + 11, lab(r), 'start', 'lbl');
+          else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', y + 15).attr('text-anchor', 'end').text(lab(r));
+          if (r.del) g.append('path').attr('d', barPathL(x(-r.del), by, x0 - 1, bh, 3)).attr('fill', cout).attr('opacity', r.repealed ? .65 : 1);
+          if (r.ins) g.append('path').attr('d', barPath(x0 + 1, by, x(r.ins), bh, 3)).attr('fill', cin);
+          if (r.del) g.append('text').attr('class', 'lbl').attr('x', x(-r.del) - 5).attr('y', by + 10).attr('text-anchor', 'end').text('−' + fmt(r.del));
+          if (r.ins) g.append('text').attr('class', 'lbl').attr('x', x(r.ins) + 5).attr('y', by + 10).text('+' + fmt(r.ins));
+          bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', y).attr('height', rowH).datum(r),
+            d => `<b>${L('Άρθρο', 'Article')} ${d.id}</b><div class="q">${esc(artName(d.id))}</div>` + trow(cin, L('Λέξεις που μπήκαν', 'Words added'), fmt(d.ins)) + trow(cout, L('Λέξεις που βγήκαν', 'Words removed'), fmt(d.del)) +
+              trow(null, L('Λέξεις πριν → μετά', 'Words before → after'), `${fmt(d.before)} → ${fmt(d.after)}`) + (d.repealed ? trow(null, '', L('καταργήθηκε', 'repealed')) : ''));
+          y += rowH;
+        });
+      });
+      g.insert('line', ':first-child').attr('x1', x0).attr('x2', x0).attr('y1', headH - 4).attr('y2', y).attr('stroke', css('--text-3'));
+      [-200, -100, 0, 100, 200].filter(v => Math.abs(v) <= M).forEach(v => g.append('text').attr('class', 'lbl mut').attr('x', x(v)).attr('y', y + 16).attr('text-anchor', 'middle').text(v ? (v > 0 ? '+' : '−') + fmt(Math.abs(v)) : '0'));
+      note(el, ['syntagma/art-<ΑΡΙΘΜΟΣ>.md', 'git log -- syntagma'], L(`${a08.length + a19.length} αλλαγές άρθρων`, `${a08.length + a19.length} changes to articles`),
+        L(`οι λέξεις μετρώνται με σύγκριση του κειμένου πριν και μετά κάθε αναθεώρηση (λέξη προς λέξη)· μια λέξη που αντικαταστάθηκε μετρά μία φορά ως αφαίρεση και μία ως προσθήκη. Οι αλλαγές των επανεκδόσεων (${fmt(sum(Object.values(R.typo_words)))} λέξεις σε ${fmt(sum(Object.values(R.typo)))} άρθρα) δεν περιλαμβάνονται.`,
+          `words are counted by comparing the text before and after each revision, word by word; a replaced word counts once as removed and once as added. The changes made by the republications (${fmt(sum(Object.values(R.typo_words)))} words in ${fmt(sum(Object.values(R.typo)))} articles) are not included.`));
+      table(el, [L('Αναθεώρηση', 'Revision'), L('Άρθρο', 'Article'), L('Θέμα', 'Subject'), L('Μπήκαν', 'Added'), L('Βγήκαν', 'Removed'), L('Λέξεις πριν', 'Words before'), L('Λέξεις μετά', 'Words after')],
+        [...a08.map(r => ['2008', r.id, artName(r.id), r.ins, r.del, r.before, r.after]), ...a19.map(r => ['2019', r.id, artName(r.id), r.ins, r.del, r.before, r.after])]);
+    }
+  };
+});
+
+// ================================================================== II. laws and decrees
+part('p2', 'II. Νόμοι και προεδρικά διατάγματα', 'II. Laws and presidential decrees',
+  'Οι νόμοι και τα προεδρικά διατάγματα του ΦΕΚ, τεύχος Α΄, που περιέχει το αποθετήριο (nomos/, diatagma/). Είναι επιλογή και όχι το σύνολο: τα γραφήματα μιλούν για τις πράξεις που περιέχει.',
+  'The laws and presidential decrees of the Government Gazette, series Α΄, held in the repository (nomos/, diatagma/). They are a selection, not the whole: the charts speak of the acts it holds.');
+
+const LT = { omni: ['Τίτλος με «και άλλες/λοιπές διατάξεις»', 'Title with “and other provisions”'], single: ['Χωρίς αυτή την κατάληξη', 'Without that ending'],
+  pnp: ['Κύρωση πράξης νομοθετικού περιεχομένου', 'Ratifying an act of legislative content'], ratif: ['Κύρωση συμφωνίας ή σύμβασης', 'Ratifying an agreement or contract'] };
+chart('c03', el => {
+  const raw = D.c03.years, by = new Map(raw.map(r => [r.y, r])), Y0 = d3.min(raw, r => r.y), Y1 = d3.max(raw, r => r.y);
+  const rows = d3.range(Y0, Y1 + 1).map(y => ({ y, omni: 0, single: 0, pnp: 0, ratif: 0, lo: null, hi: null, ...(by.get(y) || {}) }));
+  const per = (a, b) => { const rr = rows.filter(r => r.y >= a && r.y <= b); return [sum(rr, r => r.omni), sum(rr, r => r.omni + r.single)]; };
+  const all = per(Y0, Y1), p1 = per(2006, 2014), p2 = per(2020, 2026), N = sum(rows, r => r.omni + r.single + r.pnp + r.ratif);
+  const rat = sum(rows, r => r.ratif), pnp = sum(rows, r => r.pnp);
+  return {
+    title: L(`«Και άλλες διατάξεις»: το ${pct(...all)} των νόμων του αποθετηρίου που δεν κυρώνουν κάτι το γράφουν στον τίτλο`, `“And other provisions”: ${pct(...all)} of the repository’s laws that ratify nothing say so in their title`),
+    toc: L('«Και άλλες διατάξεις»', '“And other provisions”'),
+    dek: L(`Ένας τίτλος που τελειώνει σε «και άλλες διατάξεις» ή «και λοιπές διατάξεις» δηλώνει ότι ο νόμος ρυθμίζει και θέματα έξω από αυτό που ονομάζει. Από τους ${fmt(N)} νόμους του ${Y0}–${Y1} στο αποθετήριο, οι ${fmt(rat)} κυρώνουν διεθνή συμφωνία ή σύμβαση και οι ${fmt(pnp)} πράξη νομοθετικού περιεχομένου· από τους υπόλοιπους ${fmt(all[1])}, οι ${fmt(all[0])} έχουν αυτή την κατάληξη: ${pct(...p1)} το 2006–2014, ${pct(...p2)} το 2020–2026.`,
+      `A title ending in “και άλλες διατάξεις” or “και λοιπές διατάξεις” (“and other provisions”) says the law also regulates matters beyond the one it names. Of the repository’s ${fmt(N)} laws of ${Y0}–${Y1}, ${fmt(rat)} ratify an international agreement or a contract and ${fmt(pnp)} an act of legislative content; of the other ${fmt(all[1])}, ${fmt(all[0])} have that ending: ${pct(...p1)} in 2006–2014, ${pct(...p2)} in 2020–2026.`),
+    draw(el) {
+      const cols = S8(), keys = ['omni', 'single', 'pnp', 'ratif'], colors = [cols[1], cols[0], cols[3], css('--muted-mark')], names = keys.map(k => L(...LT[k]));
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const s = stackedColumns(el, rows, keys, colors, names, { h: 300, pad: 0.22, bw: 26, every: narrow(W(el)) ? 4 : 2, partial: r => r.y === 2026, mt: 22,
+        topLabel: r => (r.omni + r.single >= 5 ? pct(r.omni, r.omni + r.single) : ''),
+        tipExtra: r => (r.omni + r.single ? trow(null, L('«Και άλλες διατάξεις», στους νόμους που δεν κυρώνουν', '“And other provisions”, of laws ratifying nothing'), pct(r.omni, r.omni + r.single)) : '') +
+          (r.lo ? trow(null, L('Αριθμοί νόμων του έτους στο αποθετήριο', 'Law numbers of the year held'), `${r.lo}–${r.hi}`) : trow(null, '', L('κανένας νόμος του έτους στο αποθετήριο', 'no law of the year held'))) });
+      if (!narrow(W(el))) s.g.append('text').attr('class', 'lbl mut').attr('x', s.iw).attr('y', -10).attr('text-anchor', 'end').text(L('πάνω από κάθε στήλη: «και άλλες διατάξεις», στους νόμους που δεν κυρώνουν', 'above each column: “and other provisions”, of the laws that ratify nothing'));
+      note(el, ['nomos/<ΕΤΟΣ>/<ΑΡΙΘΜΟΣ>/text-layer.txt', 'data/laws.csv'], L(`${fmt(N)} νόμοι`, `${fmt(N)} laws`),
+        L(`το αποθετήριο περιέχει επιλογή νόμων: περίπου τους μισούς κάθε έτους το 2006–2014, λιγότερους μετά, κανέναν του 2017. Ο τίτλος διαβάζεται από την κεφαλίδα του κειμένου του νόμου ή από το data/laws.csv· η κατάληξη αναζητείται με τους κανόνες του src/prep.py. Το ποσοστό πάνω από μια στήλη είναι το μερίδιο των νόμων με «και άλλες διατάξεις» σε όσους δεν κυρώνουν κάτι, όταν είναι τουλάχιστον πέντε (στον πίνακα σε κάθε πλάτος οθόνης). Το 2026 είναι ημιτελές.`,
+          `the repository holds a selection of laws: about half of each year’s laws in 2006–2014, fewer after, none of 2017. The title is read from the heading of the law’s text or from data/laws.csv; the ending is matched by the rules in src/prep.py. The share above a column is that of laws with “and other provisions” among those that ratify nothing, when there are at least five (in the table at any screen width). 2026 is partial.`));
+      table(el, [t('year'), ...names, t('total'), L('«Και άλλες διατάξεις» στους μη κυρωτικούς', '“And other provisions” among non-ratifying'), L('Αριθμοί νόμων', 'Law numbers')],
+        rows.map(r => [String(r.y), r.omni, r.single, r.pnp, r.ratif, r.omni + r.single + r.pnp + r.ratif, r.omni + r.single ? pct(r.omni, r.omni + r.single) : '–', r.lo ? `${r.lo}–${r.hi}` : '–']));
+    }
+  };
+});
+
+chart('c04', el => {
+  const c = D.c04, km = c.km, at = m => (km.filter(k => k[0] <= m).slice(-1)[0] || [0, 1])[1];
+  const s12 = at(12), s24 = at(24), s36 = at(36), top = c.rows[0];
+  const amOmni = c.amenders_omni, maxArt = d3.max(c.am, a => a.art || 0), maxRow = c.am.find(a => a.art === maxArt);
+  const deep = sum(c.am, a => (a.art && a.art > 50 ? 1 : 0)), known = sum(c.am, a => (a.art ? 1 : 0));
+  const t0y = c.rows.map(r => +r.t0.slice(0, 4)).sort((a, b) => a - b), q = t0y[Math.floor(t0y.length * 0.05)], nq = sum(t0y, v => (v >= q ? 1 : 0)), yMax = t0y[t0y.length - 1];
+  return {
+    title: L(`Οι νόμοι δεν μένουν ανέπαφοι για πολύ: το ${pv(100 * (1 - s24))} των νόμων που παρακολουθούνται τροποποιήθηκε μέσα σε δύο χρόνια`, `Laws do not stay untouched for long: ${pv(100 * (1 - s24))} of the laws followed were amended within two years`),
+    toc: L('Πόσο γρήγορα τροποποιούνται οι νόμοι', 'How soon laws are amended'),
+    dek: L(`Το αποθετήριο παρακολουθεί ${fmt(c.n)} νόμους σε κάθε μεταγενέστερη τροποποίησή τους (οι ${fmt(nq)} τέθηκαν σε ισχύ το ${q}–${yMax}). Το πρώτο γράφημα δείχνει πόσοι έμειναν χωρίς τροποποίηση όσο περνούν οι μήνες από την έναρξη ισχύος τους: ${pv(100 * s12)} μετά από έναν χρόνο, ${pv(100 * s24)} μετά από δύο, ${pv(100 * s36)} μετά από τρία. Το δεύτερο, σε ποιο άρθρο του νόμου που τους τροποποίησε βρισκόταν η τροποποίηση· οι ${fmt(deep)} από τις ${fmt(known)} ήταν μετά το άρθρο 50, και ${fmt(amOmni)} από τους ${fmt(c.amenders)} τροποποιητικούς νόμους έχουν «και άλλες/λοιπές διατάξεις» στον τίτλο.`,
+      `The repository follows ${fmt(c.n)} laws through every later amendment (${fmt(nq)} of them took effect in ${q}–${yMax}). The first chart shows how many remained unamended as months passed from their entry into force: ${pv(100 * s12)} after one year, ${pv(100 * s24)} after two, ${pv(100 * s36)} after three. The second, in which article of the amending law the amendment sat; ${fmt(deep)} of ${fmt(known)} came after article 50, and ${fmt(amOmni)} of the ${fmt(c.amenders)} amending laws have “and other provisions” in their title.`),
+    draw(el) {
+      const cols = S8(), ink = cols[0], box = el.append('div').attr('class', 'mini');
+      const pa = box.append('div'), pb = box.append('div');
+      pa.append('h4').text(L('Νόμοι χωρίς τροποποίηση, ανά μήνες από την έναρξη ισχύος', 'Laws not yet amended, by months since entry into force'));
+      pa.append('p').text(L(`${fmt(c.amended)} από τους ${fmt(c.n)} τροποποιήθηκαν ως τις ${dateTxt(c.record_to)}`, `${fmt(c.amended)} of ${fmt(c.n)} were amended by ${dateTxt(c.record_to)}`));
+      const w = W(pa), h = 250, m = { t: 16, r: 14, b: 30, l: 40 }, XM = 48;
+      const svg = svgIn(pa, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`), iw = w - m.l - m.r, ih = h - m.t - m.b;
+      const x = d3.scaleLinear().domain([0, XM]).range([0, iw]), y = d3.scaleLinear().domain([0, 1]).range([ih, 0]);
+      yAxis(g, y, iw, 4, v => pv(100 * v));
+      [0, 12, 24, 36, 48].forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 16).attr('text-anchor', 'middle').text(v ? L(`${v / 12} ${v === 12 ? 'έτος' : 'έτη'}`, `${v / 12} yr`) : '0'));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      const pts = [[0, 1]]; km.slice(1).forEach(k => { if (k[0] > XM) return; pts.push([k[0], pts[pts.length - 1][1]]); pts.push([k[0], k[1]]); }); pts.push([XM, at(XM)]);
+      g.append('path').attr('d', d3.area().x(p => x(p[0])).y0(ih).y1(p => y(p[1]))(pts)).attr('fill', grad(svg, 'c04g', ink, .28));
+      g.append('path').attr('d', d3.line().x(p => x(p[0])).y(p => y(p[1]))(pts)).attr('fill', 'none').attr('stroke', ink).attr('stroke-width', 2.2);
+      [12, 24, 36].forEach(v => { const yy = y(at(v));
+        g.append('circle').attr('cx', x(v)).attr('cy', yy).attr('r', 3.5).attr('fill', css('--surface')).attr('stroke', ink).attr('stroke-width', 2);
+        halo(g, x(v) + 6, yy - 7, pv(100 * at(v)), 'start', 'lbl strong'); });
+      bindTip(g.selectAll('rect.hit').data(km.filter(k => k[0] <= XM)).join('rect').attr('class', 'hit').attr('x', (k, i, a) => x(k[0]) - 4).attr('width', 8).attr('y', 0).attr('height', ih),
+        k => `<b>${L(`${dec(k[0], 1)} μήνες`, `${dec(k[0], 1)} months`)}</b>` + trow(ink, L('Χωρίς τροποποίηση', 'Not yet amended'), pv(100 * k[1], 1)) + trow(null, L('Νόμοι σε παρακολούθηση μετά', 'Laws still followed after'), fmt(k[2])));
+      pb.append('h4').text(L('Σε ποιο άρθρο του τροποποιητικού νόμου', 'In which article of the amending law'));
+      pb.append('p').text(L(`${fmt(c.am.length)} τροποποιήσεις από ${fmt(c.amenders)} νόμους`, `${fmt(c.am.length)} amendments by ${fmt(c.amenders)} laws`));
+      const bl = c.bins.map(([lo, hi, n]) => ({ l: hi > 1000 ? L(`μετά το ${lo - 1}`, `after ${lo - 1}`) : L(`άρθρα ${lo}–${hi}`, `articles ${lo}–${hi}`), n }));
+      bl.push({ l: L('χωρίς αριθμό άρθρου', 'no article number'), n: c.noart, mut: true });
+      barList(pb, bl, { label: r => r.l, value: r => r.n, color: r => r.mut ? css('--muted-mark') : cols[1], rw: 36,
+        tip: r => `<b>${esc(r.l)}</b>` + trow(null, L('Τροποποιήσεις', 'Amendments'), fmt(r.n)) });
+      if (maxRow) pb.append('p').style('margin-top', '6px').text(L(`Το βαθύτερο: άρθρο ${maxArt} του ${maxRow.by} (τροποποίηση του ${maxRow.target}).`, `The deepest: article ${maxArt} of ${maxRow.by} (amending ${maxRow.target}).`));
+      note(el, ['registry/data/acts.json', 'data/versions.json', 'git log (Kind: law)'], L(`${fmt(c.n)} νόμοι · ${fmt(c.am.length)} τροποποιήσεις`, `${fmt(c.n)} laws · ${fmt(c.am.length)} amendments`),
+        L(`ο χρόνος μετρά από την πρώτη ημέρα ισχύος κάθε νόμου ως την πρώτη τροποποίησή του από άλλη πράξη· οι νόμοι που δεν έχουν τροποποιηθεί μετρούν ως τις ${dateTxt(c.record_to)}, την τελευταία ημερομηνία των νόμων του αποθετηρίου (εκτίμηση Kaplan–Meier). Οι διατάξεις ενός νόμου που αρχίζουν να ισχύουν αργότερα δεν είναι τροποποίηση. Το άρθρο διαβάζεται από το μήνυμα κάθε commit. Η καμπύλη σταματά στα τέσσερα χρόνια, όπου μένουν λίγοι νόμοι.`,
+          `time runs from each law’s first day in force to its first amendment by another act; laws not amended count until ${dateTxt(c.record_to)}, the last date of the repository’s laws (Kaplan–Meier estimate). A law’s own provisions that start later are not an amendment. The article is read from each commit message. The curve stops at four years, where few laws remain.`));
+      table(el, [L('Νόμος', 'Law'), L('Σε ισχύ από', 'In force from'), L('Πρώτη τροποποίηση', 'First amendment'), L('Από', 'By'), L('Τροποποιήσεις', 'Amendments')],
+        c.rows.map(r => [r.law, r.t0, r.first || '–', r.by || '–', r.n]));
+      subTable(el, L('Οι τροποποιήσεις', 'The amendments'), [L('Ημέρα', 'Day'), L('Νόμος', 'Law'), L('Τροποποιήθηκε από', 'Amended by'), L('Άρθρο', 'Article'), L('«Και άλλες διατάξεις»', '“And other provisions”')],
+        c.am.slice().sort((a, b) => a.date.localeCompare(b.date)).map(a => [a.date, a.target, a.by, a.art || '–', a.omni ? L('ναι', 'yes') : '']), [0, 0, 0, 1, 0]);
+    }
+  };
+});
+
+chart('c06', el => {
+  const R = D.c06.rows, n = R.length, med = median(R.map(r => r.days)) / 365.25, mn = R[0], mx = R[n - 1];
+  const within2 = sum(R, r => (r.days <= 730 ? 1 : 0));
+  return {
+    title: L(`Από την οδηγία στο ΦΕΚ: διάμεσος ${dec(med, 1)} έτη για τις ${n} πράξεις που ονομάζουν οδηγία με ημερομηνία`, `From directive to Gazette: a median of ${dec(med, 1)} years for the ${n} acts that name a dated directive`),
+    toc: L('Από την οδηγία στο ΦΕΚ', 'From directive to Gazette'),
+    dek: L(`Νόμοι και προεδρικά διατάγματα του αποθετηρίου που δηλώνουν στον τίτλο τους ότι ενσωματώνουν οδηγία της ΕΕ ή εναρμονίζουν το δίκαιο με αυτήν, μαζί με την ημερομηνία της: κάθε γραμμή ξεκινά στην οδηγία και τελειώνει στη δημοσίευση της ελληνικής πράξης. ${fmt(within2)} από τις ${n} δημοσιεύθηκαν μέσα σε δύο χρόνια· το συντομότερο διάστημα είναι ${fmt(mn.days)} ημέρες (${mn.act}), το μακρύτερο ${dec(mx.days / 365.25, 1)} έτη (${mx.act}, για την οδηγία ${mx.dir}).`,
+      `Laws and presidential decrees in the repository whose title says they transpose an EU directive or align the law with it, with the directive’s date: each line starts at the directive and ends at the publication of the Greek act. ${fmt(within2)} of the ${n} were published within two years; the shortest gap is ${fmt(mn.days)} days (${mn.act}), the longest ${dec(mx.days / 365.25, 1)} years (${mx.act}, for directive ${mx.dir}).`),
+    draw(el) {
+      const cols = S8(), cl = cols[0], cd = cols[2];
+      legend(el, [{ c: cl, l: L('Νόμος', 'Law'), shape: 'dot' }, { c: cd, l: L('Προεδρικό διάταγμα', 'Presidential decree'), shape: 'dot' }, { c: css('--text-2'), l: L('Ημερομηνία της οδηγίας', 'Date of the directive'), shape: 'ring' }]);
+      const w = W(el), nw = narrow(w), rows = R.slice().sort((a, b) => a.days - b.days);
+      const lab = r => `${r.act} · ${L('Οδηγία', 'Directive')} ${r.dir}`;
+      const lw = nw ? 0 : Math.ceil(textW(el, rows.map(lab), 'lbl') + 14), rr = 52, rowH = nw ? 30 : 20;
+      const H = 22 + rowH * rows.length + 20, svg = svgIn(el, w, H), g = svg.append('g').attr('transform', `translate(${lw},18)`);
+      const y0 = +d3.min(rows, r => r.ddate).slice(0, 4), pw = w - lw - rr, x = d3.scaleTime().domain([new Date(y0 - 1, 0, 1), new Date(2027, 0, 1)]).range([6, pw]);
+      x.ticks(nw ? 5 : 8).forEach(v => { g.append('line').attr('x1', x(v)).attr('x2', x(v)).attr('y1', -4).attr('y2', rowH * rows.length).attr('stroke', css('--grid'));
+        g.append('text').attr('class', 'lbl mut').attr('x', x(v)).attr('y', -8).attr('text-anchor', 'middle').text(v.getFullYear()); });
+      rows.forEach((r, i) => {
+        const cy = i * rowH + (nw ? 21 : 10), col = r.act.startsWith('ν.') ? cl : cd, xa = x(PD(r.ddate)), xb = x(PD(r.pub));
+        if (nw) g.append('text').attr('class', 'lbl').attr('x', 0).attr('y', cy - 8).text(lab(r));
+        else g.append('text').attr('class', 'lbl').attr('x', -8).attr('y', cy + 4).attr('text-anchor', 'end').text(lab(r));
+        g.append('line').attr('x1', xa).attr('x2', xb).attr('y1', cy).attr('y2', cy).attr('stroke', col).attr('stroke-width', 2.2).attr('stroke-opacity', .55);
+        g.append('circle').attr('cx', xa).attr('cy', cy).attr('r', 3.6).attr('fill', css('--surface')).attr('stroke', col).attr('stroke-width', 1.6);
+        g.append('circle').attr('cx', xb).attr('cy', cy).attr('r', 4).attr('fill', col).attr('stroke', css('--surface')).attr('stroke-width', 1.5);
+        g.append('text').attr('class', 'lbl').attr('x', pw + 8).attr('y', cy + 4).text(L(`${dec(r.days / 365.25, 1)} έτη`, `${dec(r.days / 365.25, 1)} yr`));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', cy - rowH / 2).attr('height', rowH).datum(r),
+          d => `<b>${esc(d.act)}</b><div class="q">${esc(d.title)}</div>` + trow(null, L('Οδηγία', 'Directive'), `${esc(d.dir)} · ${dateTxt(d.ddate)}`) + trow(col, L('Δημοσίευση στο ΦΕΚ', 'Published in the Gazette'), dateTxt(d.pub)) +
+            trow(null, L('Διάστημα', 'Gap'), L(`${fmt(d.days)} ημέρες`, `${fmt(d.days)} days`)));
+      });
+      note(el, ['data/laws.csv', 'nomos/<ΕΤΟΣ>/<ΑΡΙΘΜΟΣ>/text-layer.txt'], L(`${n} πράξεις`, `${n} acts`),
+        L(`η οδηγία και η ημερομηνία της διαβάζονται από τον τίτλο της ελληνικής πράξης (κανόνες στο src/prep.py), όχι από μια άλλη πράξη που ο τίτλος παραθέτει σε εισαγωγικά. Η προθεσμία ενσωμάτωσης κάθε οδηγίας δεν περιέχεται στο αποθετήριο, οπότε το διάστημα δεν δείχνει καθυστέρηση. ${D.c06.nodate.length} ακόμη πράξεις ονομάζουν οδηγία χωρίς ημερομηνία (στον πίνακα).`,
+          `the directive and its date are read from the Greek act’s title (rules in src/prep.py), not from another act the title quotes. Each directive’s transposition deadline is not in the repository, so the gap does not show lateness. ${D.c06.nodate.length} more acts name a directive without its date (in the table).`));
+      table(el, [L('Πράξη', 'Act'), L('Οδηγία', 'Directive'), L('Ημερομηνία οδηγίας', 'Directive date'), L('Δημοσίευση', 'Published'), L('Ημέρες', 'Days')], rows.map(r => [r.act, r.dir, r.ddate, r.pub, r.days]));
+      subTable(el, L('Οδηγίες χωρίς ημερομηνία στον τίτλο', 'Directives without a date in the title'), [L('Πράξη', 'Act'), L('Οδηγία', 'Directive')], D.c06.nodate, [0, 0]);
+    }
+  };
+});
+
+const PDT = { amend: ['Τροποποίηση άλλου διατάγματος ή νόμου', 'Amending another decree or law'], org: ['Οργάνωση υπηρεσιών: ίδρυση, σύσταση, κατάργηση', 'Organising services: founding, setting up, abolishing'],
+  parish: ['Ενορίες, μονές και μητροπόλεις', 'Parishes, monasteries and metropolises'], staff: ['Θέσεις και προσωπικό', 'Posts and staff'], holiday: ['Τοπικές αργίες και εορτές', 'Local holidays and feast days'],
+  univ: ['Πανεπιστήμια και σπουδές', 'Universities and studies'], municipal: ['Δήμοι, κοινότητες και νομοί', 'Municipalities, communities and prefectures'], eu: ['Ενσωμάτωση οδηγίας', 'Transposing a directive'], other: ['Άλλο', 'Other'] };
+chart('c05', el => {
+  const c = D.c05, T = c.topics, N = c.n, get = k => (T.find(r => r[0] === k) || [k, 0, {}]);
+  const am = get('amend'), pa = get('parish'), ho = get('holiday'), strip = !narrow(W(el));
+  return {
+    title: L(`Τα προεδρικά διατάγματα: το ${pct(am[1], N)} τροποποιεί άλλο διάταγμα ή νόμο, το ${pct(pa[1], N)} αφορά ενορίες και μονές`, `Presidential decrees: ${pct(am[1], N)} amend another decree or law, ${pct(pa[1], N)} concern parishes and monasteries`),
+    toc: L('Τα προεδρικά διατάγματα', 'Presidential decrees'),
+    dek: L(`Τα ${fmt(N)} προεδρικά διατάγματα του αποθετηρίου (${c.years[0]}–${c.years[c.years.length - 1]}) ανά θέμα του τίτλου τους. Με διάταγμα ιδρύονται ενορίες και μονές (${fmt(pa[1])}) και καθιερώνονται τοπικές αργίες και εορτές, για τη μνήμη ενός αγίου ή για μια επέτειο (${fmt(ho[1])}).${strip ? ' Δεξιά, τα διατάγματα κάθε θέματος ανά έτος.' : ''}`,
+      `The repository’s ${fmt(N)} presidential decrees (${c.years[0]}–${c.years[c.years.length - 1]}) by the subject of their title. Decrees found parishes and monasteries (${fmt(pa[1])}) and establish local holidays and feast days, for a saint’s memory or an anniversary (${fmt(ho[1])}).${strip ? ' On the right, each subject’s decrees by year.' : ''}`),
+    draw(el) {
+      const cols = S8(), rows = T.filter(r => r[0] !== 'other').concat(T.filter(r => r[0] === 'other'));
+      const w = W(el), nw = narrow(w), YRS = c.years, cw = nw ? 0 : Math.min(20, Math.floor((w * 0.42) / YRS.length)), stripW = cw * YRS.length;
+      const labs = rows.map(r => L(...PDT[r[0]])), lw = nw ? 0 : Math.ceil(textW(el, labs) + 14);
+      const rowH = nw ? 36 : 24, m = { t: 22, b: 4 }, H = m.t + m.b + rowH * rows.length;
+      const svg = svgIn(el, w, H), g = svg.append('g').attr('transform', `translate(${lw},${m.t})`);
+      const vw = textW(el, rows.map(r => `${fmt(r[1])} · ${pct(r[1], N)}`), 'lbl') + 10;
+      const barW = w - lw - (nw ? 0 : stripW + 26) - vw, x = d3.scaleLinear().domain([0, d3.max(rows, r => r[1])]).range([0, Math.max(60, barW)]);
+      const hx = w - lw - stripW, mxc = d3.max(rows, r => d3.max(Object.values(r[2])) || 0), col = d3.scaleSequentialSqrt(seqRamp()).domain([0, mxc]);
+      if (!nw) YRS.forEach((yy, j) => { if (j % 2 === 0 || j === YRS.length - 1) g.append('text').attr('class', 'lbl mut').attr('x', hx + j * cw + cw / 2).attr('y', -8).attr('text-anchor', 'middle').text(`’${String(yy).slice(2)}`); });
+      rows.forEach((r, i) => {
+        const cy = i * rowH, by = nw ? cy + 17 : cy + 6, fill = r[0] === 'other' ? css('--muted-mark') : r[0] === 'parish' || r[0] === 'holiday' ? cols[1] : cols[0];
+        if (nw) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', cy + 12).text(labs[i]);
+        else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 16).attr('text-anchor', 'end').text(labs[i]);
+        g.append('path').attr('d', barPath(0, by, Math.max(2, x(r[1])), 13, 3)).attr('fill', fill);
+        g.append('text').attr('class', 'lbl').attr('x', x(r[1]) + 6).attr('y', by + 11).text(`${fmt(r[1])} · ${pct(r[1], N)}`);
+        if (!nw) YRS.forEach((yy, j) => { const v = r[2][yy] || 0;
+          g.append('rect').attr('x', hx + j * cw + 1).attr('y', cy + 3).attr('width', cw - 2).attr('height', rowH - 6).attr('rx', 3).attr('fill', v ? col(v) : css('--surface-2')); });
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', cy).attr('height', rowH).datum(r),
+          d => `<b>${esc(L(...PDT[d[0]]))}</b>` + trow(null, L('Διατάγματα', 'Decrees'), `${fmt(d[1])} · ${pct(d[1], N)}`) + YRS.filter(yy => d[2][yy]).map(yy => trow(null, yy, fmt(d[2][yy]))).join('') +
+            (c.examples[d[0]] ? `<div class="q">${esc(c.examples[d[0]][0])}</div>` : ''));
+      });
+      note(el, ['diatagma/<ΕΤΟΣ>/<ΑΡΙΘΜΟΣ>/', 'data/acts.json'], L(`${fmt(N)} διατάγματα`, `${fmt(N)} decrees`),
+        L(`το θέμα διαβάζεται από λέξεις του τίτλου με τους κανόνες του src/prep.py, με τη σειρά του γραφήματος· ό,τι δεν αναγνωρίζεται είναι «Άλλο». Το αποθετήριο περιέχει επιλογή διαταγμάτων, από 14 % έως 52 % των διαταγμάτων κάθε έτους (κατά την αρίθμησή τους), οπότε τα ποσοστά αφορούν αυτή την επιλογή.`,
+          `the subject is read from words in the title by the rules in src/prep.py, in the chart’s order; anything not recognised is “Other”. The repository holds a selection of decrees, 14% to 52% of each year’s decrees (by their numbering), so the shares are of that selection.`));
+      table(el, [L('Θέμα', 'Subject'), ...YRS.map(String), t('total')], rows.map(r => [L(...PDT[r[0]]), ...YRS.map(yy => r[2][yy] || 0), r[1]]));
+    }
+  };
+});
+
+// ================================================================== III. Diavgeia
+const MACC = ['Ιανουάριο', 'Φεβρουάριο', 'Μάρτιο', 'Απρίλιο', 'Μάιο', 'Ιούνιο', 'Ιούλιο', 'Αύγουστο', 'Σεπτέμβριο', 'Οκτώβριο', 'Νοέμβριο', 'Δεκέμβριο'];
+const fromTo = (a, b) => { const [ya, ma] = a.split('-').map(Number), [yb, mb] = b.split('-').map(Number);
+  return L(`από τον ${MACC[ma - 1]} του ${ya} ως τον ${MACC[mb - 1]} του ${yb}`, `from ${MEN[ma - 1]} ${ya} to ${MEN[mb - 1]} ${yb}`); };
+const CATS = ['dimos', 'perif', 'apok', 'ypourg', 'univ', 'other'];
+const CATN = { dimos: ['Δήμοι', 'Municipalities'], perif: ['Περιφέρειες', 'Regions'], apok: ['Αποκεντρωμένες διοικήσεις', 'Decentralised administrations'], ypourg: ['Υπουργεία', 'Ministries'],
+  univ: ['Πανεπιστήμια και ΤΕΙ', 'Universities and TEIs'], other: ['Άλλοι φορείς', 'Other bodies'], all: ['Όλοι οι φορείς', 'All bodies'] };
+const catCol = k => ({ dimos: css('--s1'), perif: css('--s3'), apok: css('--s4'), ypourg: css('--s7'), univ: css('--s5'), other: css('--muted-mark') }[k]);
+const kfmt = v => v >= 10000 ? L(`${fmt(Math.round(v / 1000))} χιλ.`, `${fmt(Math.round(v / 1000))}k`) : fmt(v);
+const dvPartial = y => y === PF.dv_from.slice(0, 4) || y === PF.dv_to.slice(0, 4);
+const dvPartTxt = y => y === PF.dv_from.slice(0, 4) ? L(`από τον ${MACC[+PF.dv_from.slice(5) - 1]}`, `from ${MEN[+PF.dv_from.slice(5) - 1]}`) : L(`ως τον ${MACC[+PF.dv_to.slice(5) - 1]}`, `to ${MEN[+PF.dv_to.slice(5) - 1]}`);
+
+part('p3', 'III. Διαύγεια: οι πράξεις της διοίκησης', 'III. Diavgeia: the acts of the administration',
+  'Στη Διαύγεια οι δημόσιοι φορείς αναρτούν τις πράξεις τους, και το αποθετήριο χρονολογεί κάθε πράξη από την ανάρτησή της (ν. 3861/2010 άρθρο 2 παρ. 4· ν. 4727/2020 άρθρο 78 παρ. 2). Περιέχει τις κανονιστικές πράξεις, τις εγκυκλίους και τις γνωμοδοτήσεις που ανάρτησαν δήμοι, περιφέρειες, αποκεντρωμένες διοικήσεις, υπουργεία, πανεπιστήμια και άλλοι φορείς (local/, norm/), μία ανά commit· τα γραφήματα διαβάζουν μόνο τα στοιχεία της ανάρτησης, όχι το κείμενο.',
+  'On Diavgeia public bodies post their acts, and the repository dates each act from its posting (ν. 3861/2010 art. 2 par. 4; ν. 4727/2020 art. 78 par. 2). It holds the regulatory acts, circulars and opinions posted by municipalities, regions, decentralised administrations, ministries, universities and other bodies (local/, norm/), one per commit; the charts read only each posting’s record, not the text.');
+
+chart('c07', el => {
+  const c = D.c07, R = c.years, N = c.n, tot = k => sum(R, r => r[k]), ty = new Map(c.types);
+  const full = R.filter(r => !dvPartial(r.y)), iss = full.map(r => r.issuers);
+  return {
+    title: L(`${fmt(N)} πράξεις στη Διαύγεια ${fromTo(c.first, c.last)}: οι δήμοι ανάρτησαν το ${pct(tot('dimos'), N)}`, `${fmt(N)} acts on Diavgeia ${fromTo(c.first, c.last)}: municipalities posted ${pct(tot('dimos'), N)}`),
+    toc: L('Δύο εκατομμύρια πράξεις', 'Two million acts'),
+    dek: L(`Κάθε στήλη είναι οι πράξεις που αναρτήθηκαν σε ένα έτος, ανά είδος φορέα. Κάθε πλήρες έτος αναρτούσαν ${fmt(d3.min(iss))} έως ${fmt(d3.max(iss))} φορείς. Το ${pct(ty.get('Α.2 ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ'), N)} αναρτήθηκε ως «κανονιστική πράξη»· οι υπόλοιπες είναι ${fmt(ty.get('Α.3 ΕΓΚΥΚΛΙΟΣ'))} εγκύκλιοι, ${fmt(ty.get('Α.4 ΓΝΩΜΟΔΟΤΗΣΗ'))} γνωμοδοτήσεις και ${fmt(ty.get('Α.5 ΠΡΑΚΤΙΚΑ (Νομικού Συμβουλίου του Κράτους)') || 0)} πρακτικά του Νομικού Συμβουλίου του Κράτους.`,
+      `Each column is the acts posted in one year, by kind of body. In each full year ${fmt(d3.min(iss))} to ${fmt(d3.max(iss))} bodies posted. ${pct(ty.get('Α.2 ΚΑΝΟΝΙΣΤΙΚΗ ΠΡΑΞΗ'), N)} were posted as a “regulatory act”; the rest are ${fmt(ty.get('Α.3 ΕΓΚΥΚΛΙΟΣ'))} circulars, ${fmt(ty.get('Α.4 ΓΝΩΜΟΔΟΤΗΣΗ'))} opinions and ${fmt(ty.get('Α.5 ΠΡΑΚΤΙΚΑ (Νομικού Συμβουλίου του Κράτους)') || 0)} minutes of the Legal Council of the State.`),
+    draw(el) {
+      const colors = CATS.map(catCol), names = CATS.map(k => L(...CATN[k]));
+      legend(el, CATS.map((k, i) => ({ c: colors[i], l: names[i] })));
+      stackedColumns(el, R, CATS, colors, names, { h: 300, pad: 0.3, bw: 46, partial: r => dvPartial(r.y), partialTxt: r => dvPartTxt(r.y), topLabel: r => kfmt(sum(CATS, k => r[k])),
+        tipExtra: r => trow(null, L('Φορείς που ανάρτησαν', 'Bodies posting'), fmt(r.issuers)), yf: v => kfmt(v) });
+      note(el, ['local/<ΦΟΡΕΑΣ>/<ΕΤΟΣ>/<ΜΗΝΑΣ>/<ΑΔΑ>/metadata.json', 'norm/<ΦΟΡΕΑΣ>/…', 'git log (Kind: decision-record)'], L(`${fmt(N)} πράξεις`, `${fmt(N)} acts`),
+        L(`το έτος είναι εκείνο της ανάρτησης· το είδος του φορέα διαβάζεται από το όνομά του (κανόνες στο src/prep.py). Τα έτη ${PF.dv_from.slice(0, 4)} και ${PF.dv_to.slice(0, 4)} είναι ημιτελή (πιο ανοιχτό χρώμα). Τα είδη πράξεων που περιέχει το αποθετήριο είναι μόνο αυτά τα τέσσερα· οι άλλες πράξεις της Διαύγειας (αναθέσεις, πληρωμές, διορισμοί κ.λπ.) δεν περιέχονται.`,
+          `the year is that of the posting; the kind of body is read from its name (rules in src/prep.py). ${PF.dv_from.slice(0, 4)} and ${PF.dv_to.slice(0, 4)} are partial (lighter). These four kinds of act are the only ones the repository holds; Diavgeia’s other acts (awards, payments, appointments and so on) are not included.`));
+      table(el, [t('year'), ...names, t('total'), L('Φορείς', 'Bodies')], R.map(r => [r.y, ...CATS.map(k => r[k]), sum(CATS, k => r[k]), r.issuers]));
+    }
+  };
+});
+
+const TOPN = { procurement: ['Προμήθειες, έργα, μελέτες, συμβάσεις', 'Procurement, works, studies, contracts'], committee: ['Επιτροπές και ορισμοί μελών', 'Committees and appointments of members'],
+  budget: ['Πιστώσεις, δαπάνες, προϋπολογισμός', 'Credits, spending, budget'], staff: ['Προσωπικό', 'Staff'], legality: ['Έλεγχος νομιμότητας', 'Legality review'],
+  property: ['Ακίνητα, μισθώσεις, παραχωρήσεις', 'Property, leases, concessions'], permits: ['Άδειες και βεβαιώσεις', 'Permits and certificates'], forest: ['Δάση, αλιεία, θήρα, περιβάλλον', 'Forests, fishing, hunting, environment'],
+  fees: ['Τέλη, φόροι, εισφορές', 'Fees, taxes, contributions'], council: ['Πρακτικά, συνεδριάσεις, ψηφίσματα', 'Minutes, meetings, resolutions'], traffic: ['Κυκλοφορία και στάθμευση', 'Traffic and parking'],
+  grants: ['Επιχορηγήσεις και ενισχύσεις', 'Grants and aid'], regulation: ['Κανονισμοί', 'Regulations'], other: ['Άλλο', 'Other'] };
+chart('c08', el => {
+  const c = D.c08, N = c.n, T = new Map(c.topics);
+  return {
+    title: L(`Τι λένε οι τίτλοι: το ${pct(T.get('procurement'), N)} των πράξεων αφορά προμήθειες, έργα και συμβάσεις, μόνο το ${pct(c.reg_any, N, 1)} κάποιον κανονισμό`, `What the titles say: ${pct(T.get('procurement'), N)} of the acts are about procurement, works and contracts, only ${pct(c.reg_any, N, 1)} about a regulation`),
+    toc: L('Τι λένε οι τίτλοι', 'What the titles say'),
+    dek: L(`Το είδος κάθε πράξης το επιλέγει ο φορέας που την αναρτά, και σχεδόν όλες αναρτήθηκαν ως «κανονιστική πράξη». Οι τίτλοι τους, όμως, μιλούν πρώτα για προμήθειες και έργα, επιτροπές, πιστώσεις, προσωπικό και ελέγχους νομιμότητας· μόνο ${fmt(c.reg_any)} τίτλοι έχουν τη λέξη «κανονισμός». Κάθε μπάρα χωρίζεται ανά είδος φορέα.`,
+      `The kind of each act is chosen by the body that posts it, and nearly all were posted as a “regulatory act”. Their titles, though, speak first of procurement and works, committees, credits, staff and legality reviews; only ${fmt(c.reg_any)} titles have the word “regulation” (κανονισμός). Each bar is split by kind of body.`),
+    draw(el) {
+      const keys = CATS, colors = keys.map(catCol), names = keys.map(k => L(...CATN[k]));
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const order = c.topics.map(r => r[0]).filter(k => k !== 'other').concat(['other']);
+      const rows = order.map(k => ({ k, ...c.by_cat && Object.fromEntries(CATS.map(cc => [cc, c.by_cat[cc][k] || 0])) }));
+      const w = W(el), nw = narrow(w), labs = rows.map(r => L(...TOPN[r.k])), lw = nw ? 0 : Math.ceil(textW(el, labs) + 14), rowH = nw ? 34 : 24;
+      const svg = svgIn(el, w, rowH * rows.length + 6), g = svg.append('g').attr('transform', `translate(${lw},2)`);
+      const tot = r => sum(keys, k => r[k]), x = d3.scaleLinear().domain([0, d3.max(rows, tot)]).range([0, w - lw - 96]);
+      rows.forEach((r, i) => {
+        const cy = i * rowH, by = nw ? cy + 17 : cy + 6, bh = 13;
+        if (nw) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', cy + 12).text(labs[i]);
+        else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 16).attr('text-anchor', 'end').style('fill', r.k === 'regulation' ? css('--text') : null).style('font-weight', r.k === 'regulation' ? 600 : null).text(labs[i]);
+        let acc = 0; const segs = keys.map((k, j) => ({ j, v: r[k] })).filter(s => s.v);
+        segs.forEach((s, q) => { const x0 = x(acc), x1 = x(acc + s.v); acc += s.v; const last = q === segs.length - 1;
+          g.append('path').attr('d', last ? barPath(x0, by, Math.max(x0 + 1, x1), bh, 3) : `M${x0},${by}h${Math.max(0.5, x1 - x0 - 1)}v${bh}h${-Math.max(0.5, x1 - x0 - 1)}Z`).attr('fill', r.k === 'other' ? css('--muted-mark') : colors[s.j]).attr('opacity', r.k === 'other' ? .8 : 1); });
+        g.append('text').attr('class', 'lbl').attr('x', x(tot(r)) + 6).attr('y', by + 11).text(`${pct(tot(r), N, tot(r) / N < .01 ? 1 : 0)} · ${kfmt(tot(r))}`);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', cy).attr('height', rowH).datum(r),
+          d => `<b>${esc(L(...TOPN[d.k]))}</b>` + keys.map((k, j) => d[k] ? trow(colors[j], names[j], `${fmt(d[k])} · ${pct(d[k], tot(d))}`) : '').join('') + trow(null, t('total'), `${fmt(tot(d))} · ${pct(tot(d), N, 1)}`));
+      });
+      note(el, ['git log (Kind: decision-record, Decision-type, θέμα)'], L(`${fmt(N)} τίτλοι`, `${fmt(N)} titles`),
+        L(`το θέμα διαβάζεται από λέξεις του τίτλου, με τους κανόνες του src/prep.py και με τη σειρά τους: ένας τίτλος μετρά στην πρώτη ομάδα που ταιριάζει (ένας έλεγχος νομιμότητας μιας απόφασης για προμήθεια μετρά ως έλεγχος νομιμότητας). Ό,τι δεν αναγνωρίζεται είναι «Άλλο».`,
+          `the subject is read from words in the title, by the rules in src/prep.py and in their order: a title counts in the first group it matches (a legality review of a procurement decision counts as a legality review). Anything not recognised is “Other”.`));
+      table(el, [L('Θέμα', 'Subject'), ...names, t('total')], rows.map(r => [L(...TOPN[r.k]), ...keys.map(k => r[k]), tot(r)]));
+    }
+  };
+});
+
+const DLY = [['Την ίδια μέρα', 'Same day'], ['Την επόμενη', 'Next day'], ['2–7 ημέρες', '2–7 days'], ['8–30 ημέρες', '8–30 days'], ['Πάνω από 30 ημέρες', 'Over 30 days']];
+const daysTxt = v => v === 0 ? L('ίδια μέρα', 'same day') : L(`${fmt(v)} ${v === 1 ? 'ημέρα' : 'ημέρες'}`, `${fmt(v)} ${v === 1 ? 'day' : 'days'}`);
+chart('c09', el => {
+  const c = D.c09, Y = Object.keys(c.years).sort(), a = c.cats.all, b = c.years;
+  const fy = Y.find(y => !dvPartial(y)), ly = Y.filter(y => !dvPartial(y)).slice(-1)[0], same = y => pct(b[y].b[0], b[y].n);
+  return {
+    title: L(`Ανάρτηση την ίδια μέρα: το ${same(fy)} των πράξεων το ${fy}, το ${same(ly)} το ${ly}`, `Posted the same day: ${same(fy)} of acts in ${fy}, ${same(ly)} in ${ly}`),
+    toc: L('Πόσο γρήγορα αναρτώνται', 'How soon acts are posted'),
+    dek: L(`Πόσες ημέρες μεσολάβησαν από την έκδοση κάθε πράξης ως την ανάρτησή της στη Διαύγεια, ανά έτος (επάνω) και ανά είδος φορέα (κάτω). Συνολικά το ${pct(a.b[0], a.n)} αναρτήθηκε την ίδια μέρα και το ${pct(a.b[4], a.n)} μετά από περισσότερες από 30 ημέρες. Δεξιά, η διάμεση καθυστέρηση.`,
+      `How many days passed from the issue of each act to its posting on Diavgeia, by year (top) and by kind of body (bottom). Overall ${pct(a.b[0], a.n)} were posted the same day and ${pct(a.b[4], a.n)} after more than 30 days. On the right, the median delay.`),
+    draw(el) {
+      const ramp = seqRamp(), colors = [0.18, 0.38, 0.58, 0.78, 1].map(ramp), names = DLY.map(d => L(...d)), keys = ['b0', 'b1', 'b2', 'b3', 'b4'];
+      legend(el, names.map((l, i) => ({ c: colors[i], l })));
+      const toRow = (lbl, v, extra) => ({ lbl, ...Object.fromEntries(keys.map((k, i) => [k, v.b[i]])), med: v.med, n: v.n, ...extra });
+      const yr = Y.map(y => toRow(y, b[y], { partial: dvPartial(y), y }));
+      const cr = CATS.map(k => toRow(L(...CATN[k]), c.cats[k], { k })).concat([toRow(L(...CATN.all), a, { k: 'all' })]);
+      const lw = Math.ceil(Math.min(narrow(W(el)) ? 120 : 240, textW(el, cr.map(r => r.lbl)) + 16)), right = (r) => daysTxt(r.med);
+      const opt = { rowH: 30, l: lw, ln: lw, r: 80, rn: 64, minIn: 32, label: r => r.lbl, right, partial: r => r.partial,
+        tipExtra: d => trow(null, L('Διάμεση καθυστέρηση', 'Median delay'), daysTxt(d.med)) + trow(null, t('total'), fmt(d.n)) + (d.partial ? trow(null, '', `${L('ημιτελές έτος', 'partial year')}: ${dvPartTxt(d.y)}`) : '') };
+      bands(el, yr, keys, colors, names, opt);
+      h4(el, L('Ανά είδος φορέα, όλα τα έτη', 'By kind of body, all years'), 12);
+      bands(el, cr, keys, colors, names, { ...opt, above: true, partial: null, labelFill: r => r.k === 'all' ? css('--text') : null });
+      note(el, ['git log (Enacted, Published)'], L(`${fmt(a.n)} πράξεις`, `${fmt(a.n)} acts`),
+        L(`έκδοση είναι η ημερομηνία της πράξης (Enacted) και ανάρτηση η ημερομηνία που καταγράφει η Διαύγεια (Published). Τα έτη είναι της ανάρτησης· τα ${PF.dv_from.slice(0, 4)} και ${PF.dv_to.slice(0, 4)} είναι ημιτελή (πιο ανοιχτό χρώμα).`,
+          `issue is the date of the act (Enacted) and posting the date Diavgeia records (Published). Years are years of posting; ${PF.dv_from.slice(0, 4)} and ${PF.dv_to.slice(0, 4)} are partial (lighter).`));
+      table(el, [L('Έτος ή φορέας', 'Year or body'), ...names, L('Διάμεση (ημέρες)', 'Median (days)'), t('total')], yr.concat(cr).map(r => [r.lbl, ...keys.map(k => r[k]), r.med, r.n]));
+    }
+  };
+});
+
+chart('c10', el => {
+  const c = D.c10, G = new Map(c.grid.map(([d, h, n]) => [d + ':' + h, n])), N = c.n;
+  const office = sum(c.grid.filter(x => x[1] >= 9 && x[1] < 14), x => x[2]), wk = sum(c.grid.filter(x => x[0] >= 5), x => x[2]), late = sum(c.grid.filter(x => x[1] >= 18 || x[1] < 7), x => x[2]);
+  const peak = c.grid.reduce((a, b) => b[2] > a[2] ? b : a);
+  return {
+    title: L(`Το ρολόι της Διαύγειας: το ${pct(office, N)} των αναρτήσεων γίνεται από τις 9:00 ως τις 14:00, το ${pct(wk, N, 1)} το Σαββατοκύριακο`, `Diavgeia’s clock: ${pct(office, N)} of postings happen between 9:00 and 14:00, ${pct(wk, N, 1)} at weekends`),
+    toc: L('Το ρολόι της Διαύγειας', 'Diavgeia’s clock'),
+    dek: L(`Κάθε κελί είναι μία ώρα της εβδομάδας· όσο πιο σκούρο, τόσο περισσότερες πράξεις αναρτήθηκαν σε αυτήν. Η πιο πολυάσχολη ώρα είναι ${DOW.el[peak[0]].toLowerCase()} ${peak[1]}:00–${peak[1]}:59. Μετά τις 18:00 και πριν από τις 7:00 αναρτήθηκε το ${pct(late, N, 1)}.`,
+      `Each cell is one hour of the week; the darker, the more acts were posted in it. The busiest hour is ${DOW.en[peak[0]]} ${peak[1]}:00–${peak[1]}:59. ${pct(late, N, 1)} were posted after 18:00 or before 7:00.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), labs = (nw ? DOW1 : DOW)[LANG], lw = Math.ceil(textW(el, labs) + 12), rt = nw ? 34 : Math.ceil(textW(el, ['000 χιλ.', '000k'], 'lbl') + 48);
+      const iw = w - lw - rt, cw = iw / 24, ch = Math.max(20, Math.min(30, cw * 0.95)), m = { t: 20 }, H = m.t + 7 * ch + 6;
+      const svg = svgIn(el, w, H), g = svg.append('g').attr('transform', `translate(${lw},${m.t})`);
+      const mx = d3.max(c.grid, x => x[2]), col = d3.scaleSequentialSqrt(seqRamp()).domain([0, mx]);
+      for (let hh = 0; hh < 24; hh += nw ? 3 : 2) g.append('text').attr('class', 'lbl mut').attr('x', hh * cw + cw / 2).attr('y', -7).attr('text-anchor', 'middle').text(hh);
+      const dt = d3.range(7).map(d => sum(d3.range(24), hh => G.get(d + ':' + hh) || 0)), xb = d3.scaleLinear().domain([0, d3.max(dt)]).range([0, Math.max(10, rt - textW(el, dt.map(kfmt), 'lbl') - 22)]);
+      labs.forEach((d, i) => {
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', i * ch + ch / 2 + 4).attr('text-anchor', 'end').text(d);
+        if (!nw) g.append('path').attr('d', barPath(iw + 8, i * ch + ch / 2 - 5, iw + 8 + Math.max(1.5, xb(dt[i])), 10, 2)).attr('fill', css('--s1'));
+        g.append('text').attr('class', 'lbl').attr('x', iw + (nw ? 4 : 12) + (nw ? 0 : Math.max(1.5, xb(dt[i])))).attr('y', i * ch + ch / 2 + 4).text(nw ? '' : kfmt(dt[i]));
+      });
+      const cells = []; for (let d = 0; d < 7; d++) for (let hh = 0; hh < 24; hh++) cells.push({ d, hh, n: G.get(d + ':' + hh) || 0 });
+      bindTip(g.selectAll('rect.c').data(cells).join('rect').attr('class', 'c').attr('x', p => p.hh * cw + 1).attr('y', p => p.d * ch + 1).attr('width', Math.max(1, cw - 2)).attr('height', ch - 2).attr('rx', 3)
+        .attr('fill', p => p.n ? col(p.n) : css('--surface-2')),
+        p => `<b>${DOW[LANG][p.d]} ${p.hh}:00–${p.hh}:59</b>` + trow(null, L('Αναρτήσεις', 'Postings'), fmt(p.n)) + trow(null, t('share'), pct(p.n, N, 2)));
+      note(el, ['git log (In-force-basis: publishTimestamp)'], L(`${fmt(N)} αναρτήσεις`, `${fmt(N)} postings`),
+        L(`η ώρα είναι η ώρα της ανάρτησης (publishTimestamp της Διαύγειας), σε ώρα Ελλάδας.${nw ? '' : ' Δεξιά, οι αναρτήσεις κάθε ημέρας της εβδομάδας.'}`, `the time is the posting time (Diavgeia’s publishTimestamp), Greek time.${nw ? '' : ' On the right, the postings of each weekday.'}`));
+      table(el, [L('Ημέρα', 'Day'), ...d3.range(24).map(String), t('total')], d3.range(7).map(d => [DOW[LANG][d], ...d3.range(24).map(hh => G.get(d + ':' + hh) || 0), dt[d]]));
+    }
+  };
+});
+
+const APOK = { 'ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΠΕΛΟΠΟΝΝΗΣΟΥ, ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ ΚΑΙ ΙΟΝΙΟΥ': ['Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου', 'Peloponnese, Western Greece and the Ionian'],
+  'ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΜΑΚΕΔΟΝΙΑΣ – ΘΡΑΚΗΣ': ['Μακεδονίας – Θράκης', 'Macedonia – Thrace'], 'ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΚΡΗΤΗΣ': ['Κρήτης', 'Crete'],
+  'ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ': ['Αιγαίου', 'Aegean'], 'ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΘΕΣΣΑΛΙΑΣ - ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ': ['Θεσσαλίας – Στερεάς Ελλάδας', 'Thessaly – Central Greece'],
+  'ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ - ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ': ['Ηπείρου – Δυτικής Μακεδονίας', 'Epirus – Western Macedonia'], 'ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΤΤΙΚΗΣ': ['Αττικής', 'Attica'] };
+const apokName = k => APOK[k] ? L(...APOK[k]) : k;
+chart('c11', el => {
+  const c = D.c11, A = c.apok, top = A[0], N = c.n, last = A[A.length - 1];
+  return {
+    title: L(`Ο έλεγχος νομιμότητας στη Διαύγεια: το ${pct(top[1], N)} των ${fmt(N)} πράξεων ελέγχου τις ανάρτησε μία αποκεντρωμένη διοίκηση`, `Legality review on Diavgeia: one decentralised administration posted ${pct(top[1], N)} of the ${fmt(N)} review acts`),
+    toc: L('Ο έλεγχος νομιμότητας', 'Legality review'),
+    dek: L(`Πράξεις με τίτλο «Έλεγχος νομιμότητας…»: τις ανάρτησαν σχεδόν μόνο οι επτά αποκεντρωμένες διοικήσεις, και το ${pct(c.local, N)} των τίτλων αναφέρει δήμο, κοινότητα ή περιφέρεια ή κάποιο όργανό τους. Οι διοικήσεις δεν τις αναρτούν όλες με τον ίδιο τρόπο: η Αποκεντρωμένη Διοίκηση ${apokName(top[0])} ανάρτησε ${fmt(top[1])} (το ${pct(top[1], top[2])} των πράξεών της), της ${apokName(last[0])} ${fmt(last[1])}.`,
+      `Acts titled “Έλεγχος νομιμότητας…” (legality review): almost only the seven decentralised administrations posted them, and ${pct(c.local, N)} of the titles name a municipality, community or region or one of their bodies. The administrations do not all post them the same way: the Decentralised Administration of ${apokName(top[0])} posted ${fmt(top[1])} (${pct(top[1], top[2])} of its acts), that of ${apokName(last[0])} ${fmt(last[1])}.`),
+    draw(el) {
+      const ink = css('--s4'), rest = css('--muted-mark'), Y = D.c07.years.map(r => r.y), nw = narrow(W(el)), cards = el.append('div').attr('class', 'ptiles').style('grid-template-columns', `repeat(${nw ? 2 : 4}, minmax(0, 1fr))`);
+      A.forEach((r, i) => {
+        const d = cards.append('div').attr('class', 'ptile'), col = i === 0 ? ink : css('--s4');
+        d.append('div').attr('class', 'pn').text(apokName(r[0]));
+        d.append('div').attr('class', 'pv').html(`<b>${fmt(r[1])}</b> ${L('έλεγχοι', 'reviews')}`);
+        d.append('div').attr('class', 'ps').text(L(`${pct(r[1], r[2])} των ${fmt(r[2])} πράξεών της`, `${pct(r[1], r[2])} of its ${fmt(r[2])} acts`));
+        const bar = d.append('div').attr('class', 'pbar');
+        bar.append('i').style('flex', r[1]).style('background', col); bar.append('i').style('flex', r[2] - r[1]).style('background', css('--line'));
+        bindTip(d, () => `<b>${L('Αποκεντρωμένη Διοίκηση', 'Decentralised Administration of')} ${esc(apokName(r[0]))}</b>` + trow(col, L('Έλεγχοι νομιμότητας', 'Legality reviews'), `${fmt(r[1])} · ${pct(r[1], r[2])}`) +
+          trow(null, L('Όλες οι πράξεις της', 'All its acts'), fmt(r[2])) + Y.filter(yy => r[3][yy]).map(yy => trow(null, yy, fmt(r[3][yy]))).join(''));
+      });
+      // by year: the first administration against the other six
+      h4(el, L('Πράξεις ελέγχου νομιμότητας ανά έτος', 'Legality review acts by year'), 6);
+      const k1 = L(`Αποκεντρωμένη Διοίκηση ${apokName(A[0][0])}`, `Decentralised Administration of ${apokName(A[0][0])}`), k2 = L('Οι άλλες έξι αποκεντρωμένες διοικήσεις', 'The other six decentralised administrations');
+      legend(el, [{ c: ink, l: k1 }, { c: rest, l: k2 }]);
+      const rows = Y.map(yy => ({ y: yy, a: A[0][3][yy] || 0, b: sum(A.slice(1), r => r[3][yy] || 0) }));
+      stackedColumns(el, rows, ['a', 'b'], [ink, rest], [k1, k2], { h: 220, pad: 0.3, bw: 40, partial: r => dvPartial(r.y), partialTxt: r => dvPartTxt(r.y), topLabel: r => (r.a + r.b ? kfmt(r.a + r.b) : ''), yf: v => kfmt(v) });
+      el.append('p').attr('class', 'note').text(L(`Η μπάρα κάθε κάρτας: το μερίδιο των ελέγχων νομιμότητας στις πράξεις που ανάρτησε η διοίκηση. Άλλοι φορείς ανάρτησαν ${fmt(c.other)} τέτοιες πράξεις.`,
+        `The bar on each card: the share of legality reviews in the acts the administration posted. Other bodies posted ${fmt(c.other)} such acts.`));
+      note(el, ['local/apokentromeni-dioikisi-<…>/', 'git log (θέμα)'], L(`${fmt(N)} πράξεις ελέγχου`, `${fmt(N)} review acts`),
+        L(`ως έλεγχος νομιμότητας μετρά κάθε τίτλος με τις λέξεις «έλεγχος (της) νομιμότητας» (κανόνες στο src/prep.py). Το ποσοστό κάθε διοίκησης είναι επί όλων των πράξεων που ανάρτησε στο αποθετήριο.`,
+          `a legality review is any title with the words «έλεγχος (της) νομιμότητας» (rules in src/prep.py). Each administration’s share is of all the acts it posted in the repository.`));
+      table(el, [L('Αποκεντρωμένη διοίκηση', 'Decentralised administration'), ...Y, t('total'), L('Πράξεις της', 'Its acts'), t('share')], A.map(r => [apokName(r[0]), ...Y.map(yy => r[3][yy] || 0), r[1], r[2], pct(r[1], r[2])]));
+    }
+  };
+});
+
+// names of the laws, as titles and law texts in the repository give them
+const LAWN = { '4412/2016': ['Δημόσιες συμβάσεις έργων, προμηθειών και υπηρεσιών', 'Public works, supply and service contracts'], '3852/2010': ['Πρόγραμμα Καλλικράτης: αυτοδιοίκηση και αποκεντρωμένη διοίκηση', 'Kallikratis: local government and decentralised administration'],
+  '3463/2006': ['Κώδικας Δήμων και Κοινοτήτων', 'Code of Municipalities and Communities'], '998/1979': ['Δάση και δασικές εκτάσεις', 'Forests and forest land'], '4056/2012': ['Κτηνοτροφικές εγκαταστάσεις', 'Livestock farms'],
+  '4485/2017': ['Ανώτατη εκπαίδευση και έρευνα', 'Higher education and research'], '4257/2014': ['Επείγουσες ρυθμίσεις του Υπουργείου Εσωτερικών', 'Urgent provisions of the Ministry of the Interior'],
+  '3669/2008': ['Κωδικοποίηση της νομοθεσίας δημόσιων έργων', 'Codified public works law'], '4001/2011': ['Αγορές ηλεκτρισμού και φυσικού αερίου', 'Electricity and gas markets'],
+  '4024/2011': ['Ενιαίο μισθολόγιο, εργασιακή εφεδρεία, συντάξεις', 'Single pay scale, labour reserve, pensions'], '3801/2009': ['Προσωπικό με σύμβαση αορίστου χρόνου', 'Staff on open-ended contracts'],
+  '3584/2007': ['Κώδικας δημοτικών και κοινοτικών υπαλλήλων', 'Code for municipal and community employees'], '3468/2006': ['Ηλεκτρική ενέργεια από ανανεώσιμες πηγές', 'Electricity from renewable sources'],
+  '3979/2011': ['Ηλεκτρονική διακυβέρνηση', 'E-government'] };
+const lawLab = lw => `${L('ν.', 'Law')} ${lw}` + (LAWN[lw] ? ` · ${L(...LAWN[lw])}` : '');
+chart('c12', el => {
+  const c = D.c12, R = c.laws, Y = c.years, f = R[0], fy = Object.keys(f[2]).sort();
+  const row = id => R.find(r => r[0] === id);
+  return {
+    title: L(`Οι νόμοι στους τίτλους των πράξεων: πρώτος ο ν. ${f[0]} για τις δημόσιες συμβάσεις, με ${fmt(f[1])} αναφορές ${fy[0]}–${fy[fy.length - 1]}`, `The laws in the acts’ titles: first, Law ${f[0]} on public contracts, cited ${fmt(f[1])} times in ${fy[0]}–${fy[fy.length - 1]}`),
+    toc: L('Οι νόμοι στους τίτλους', 'The laws in the titles'),
+    dek: L(`Οι τίτλοι των πράξεων ονομάζουν έναν νόμο με τον αριθμό του ${fmt(c.with)} φορές, ${fmt(c.distinct)} διαφορετικούς νόμους. Κάθε γραμμή είναι ένας από τους ${R.length} με τις περισσότερες αναφορές και κάθε κελί ένα έτος: φαίνεται πότε ένας νόμος μπαίνει στους τίτλους (ο ν. 4485/2017 για την ανώτατη εκπαίδευση από το 2018) και πότε φεύγει (ο ν. 4257/2014 μετά το 2015, ο ν. 4001/2011 μετά το 2014).`,
+      `The acts’ titles name a law by its number ${fmt(c.with)} times, ${fmt(c.distinct)} different laws. Each row is one of the ${R.length} cited most, and each cell one year: it shows when a law enters the titles (Law 4485/2017 on higher education from 2018) and when it leaves them (Law 4257/2014 after 2015, Law 4001/2011 after 2014).`),
+    draw(el) {
+      const w = W(el), rt = narrow(w) ? 40 : 90, short = R.map(r => `${L('ν.', 'Law')} ${r[0]}`), long = R.map(r => lawLab(r[0]));
+      // the names go with the numbers only while every year still gets a cell wide enough for its label
+      const nw = narrow(w) || (w - Math.ceil(textW(el, long) + 14) - rt) / Y.length < textW(el, ['2010'], 'lbl mut') + 8;
+      const labs = nw ? short : long, lw = Math.ceil(textW(el, labs) + 14);
+      const cw = Math.max(14, (w - lw - rt) / Y.length), rowH = nw ? 20 : 22, m = { t: 20 }, H = m.t + rowH * R.length + 4;
+      const svg = svgIn(el, w, H), g = svg.append('g').attr('transform', `translate(${lw},${m.t})`);
+      const mx = d3.max(R, r => d3.max(Object.values(r[2]))), col = n => seqRamp()(0.12 + 0.88 * Math.sqrt(n / mx));
+      Y.forEach((yy, j) => { if (!nw || j % 2 === 0) g.append('text').attr('class', 'lbl mut').attr('x', j * cw + cw / 2).attr('y', -7).attr('text-anchor', 'middle').text(nw ? `’${yy.slice(2)}` : yy); });
+      const xb = d3.scaleLinear().domain([0, d3.max(R, r => r[1])]).range([0, rt - (nw ? 4 : 46)]);
+      R.forEach((r, i) => {
+        const cy = i * rowH;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + rowH / 2 + 4).attr('text-anchor', 'end').text(labs[i]);
+        Y.forEach((yy, j) => { const v = r[2][yy] || 0;
+          g.append('rect').attr('x', j * cw + 1).attr('y', cy + 1.5).attr('width', cw - 2).attr('height', rowH - 3).attr('rx', 3).attr('fill', v ? col(v) : css('--surface-2')).attr('opacity', dvPartial(yy) && v ? .55 : 1); });
+        const xe = Y.length * cw + 8;
+        if (!nw) g.append('path').attr('d', barPath(xe, cy + rowH / 2 - 5, xe + xb(r[1]), 10, 2)).attr('fill', css('--s1'));
+        g.append('text').attr('class', 'lbl').attr('x', xe + (nw ? 0 : xb(r[1]) + 6)).attr('y', cy + rowH / 2 + 4).text(fmt(r[1]));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', cy).attr('height', rowH).datum(r),
+          d => `<b>${esc(lawLab(d[0]))}</b>` + Y.filter(yy => d[2][yy]).map(yy => trow(null, yy + (dvPartial(yy) ? ` (${dvPartTxt(yy)})` : ''), fmt(d[2][yy]))).join('') + trow(null, t('total'), fmt(d[1])) +
+            trow(null, L('Συχνότερα από', 'Mostly from'), d[5].slice(0, 2).map(x => L(...CATN[x[0]])).join(', ')));
+      });
+      note(el, ['git log (θέμα)'], L(`${fmt(c.with)} αναφορές σε νόμους`, `${fmt(c.with)} citations of laws`),
+        L(`αναφορά είναι κάθε «ν. αριθμός/έτος» σε έναν τίτλο (κανόνες στο src/prep.py)· ένας νόμος μετρά μία φορά ανά τίτλο. Το όνομα κάθε νόμου γράφεται όπως το δίνουν οι ίδιοι οι τίτλοι ή τα κείμενα νόμων του αποθετηρίου, όπου το δίνουν. Τα ${PF.dv_from.slice(0, 4)} και ${PF.dv_to.slice(0, 4)} είναι ημιτελή (πιο ανοιχτά κελιά).`,
+          `a citation is any “ν. number/year” in a title (rules in src/prep.py); a law counts once per title. Each law’s name is given as the titles or the repository’s law texts give it, where they do. ${PF.dv_from.slice(0, 4)} and ${PF.dv_to.slice(0, 4)} are partial (lighter cells).`));
+      table(el, [L('Νόμος', 'Law'), ...Y, t('total')], R.map(r => [lawLab(r[0]), ...Y.map(yy => r[2][yy] || 0), r[1]]));
+    }
+  };
+});
+
+const RESN = { services: ['Υπηρεσίες που κλείνουν ή αλλάζουν', 'Services closing or changing'], labour: ['Εργαζόμενοι, συντάξεις, αγρότες', 'Workers, pensions, farmers'],
+  solidarity: ['Συμπαράσταση και καταδίκη', 'Solidarity and condemnation'], condolence: ['Συλλυπητήρια και μνήμη', 'Condolences and remembrance'], debt: ['Πλειστηριασμοί, δάνεια, κατοικία', 'Auctions, loans, homes'],
+  environment: ['Περιβάλλον, ενέργεια, καταστροφές', 'Environment, energy, disasters'], taxes: ['Φόροι, τέλη, διόδια', 'Taxes, fees, tolls'], national: ['Εθνικά θέματα', 'National issues'],
+  privatisation: ['Νερό, ιδιωτικοποιήσεις, Υπερταμείο', 'Water, privatisation, the Superfund'], migration: ['Πρόσφυγες και μετανάστες', 'Refugees and migrants'], ert: ['ΕΡΤ', 'ERT'],
+  other: ['Άλλο θέμα', 'Other subject'], nosubject: ['Χωρίς θέμα στον τίτλο', 'No subject in the title'] };
+chart('c13', el => {
+  const c = D.c13, N = c.n, T = new Map(c.topics.map(r => [r[0], r])), Y = D.c07.years.map(r => r.y).filter(y => sum(c.topics, r => r[2][y] || 0) > 0);
+  const peakOf = k => { const r = T.get(k); if (!r) return null; const e = Object.entries(r[2]).sort((a, b) => b[1] - a[1])[0]; return e; };
+  const er = T.get('ert'), sv = peakOf('services'), na = peakOf('national'), so = peakOf('solidarity');
+  const main = c.topics.filter(r => r[0] !== 'other' && r[0] !== 'nosubject');
+  return {
+    title: L(`${fmt(N)} ψηφίσματα δημοτικών συμβουλίων: πρώτα για υπηρεσίες που κλείνουν ή αλλάζουν και για εργαζόμενους`, `${fmt(N)} resolutions of municipal councils: first about services closing or changing and about workers`),
+    toc: L('Τα ψηφίσματα των δήμων', 'Municipal resolutions'),
+    dek: L(`Οι δήμοι αναρτούν και τα ψηφίσματα των δημοτικών συμβουλίων τους. Κάθε μικρό γράφημα είναι ένα θέμα, κάθε στήλη ένα έτος. Οι κορυφές: οι υπηρεσίες το ${sv[0]} (${fmt(sv[1])}), η συμπαράσταση και η καταδίκη το ${so[0]} (${fmt(so[1])}), τα εθνικά θέματα το ${na[0]} (${fmt(na[1])}), η ΕΡΤ (${fmt(er ? er[1] : 0)} ψηφίσματα, όλα το ${er ? Object.keys(er[2])[0] : ''}).`,
+      `Municipalities also post their councils’ resolutions. Each small chart is a subject, each column a year. The peaks: services in ${sv[0]} (${fmt(sv[1])}), solidarity and condemnation in ${so[0]} (${fmt(so[1])}), national issues in ${na[0]} (${fmt(na[1])}), ERT, the public broadcaster (${fmt(er ? er[1] : 0)} resolutions, all in ${er ? Object.keys(er[2])[0] : ''}).`),
+    draw(el) {
+      const ink = css('--s1'), panels = main.concat([['other', (T.get('other') || [0, 0])[1] + (T.get('nosubject') || [0, 0])[1], Object.fromEntries(Y.map(y => [y, ((T.get('other') || [0, 0, {}])[2][y] || 0) + ((T.get('nosubject') || [0, 0, {}])[2][y] || 0)]))]]);
+      const ymx = d3.max(panels.slice(0, -1), r => d3.max(Object.values(r[2])) || 0);
+      const box = el.append('div').attr('class', 'multi');
+      // every panel exists before any is measured (a lone grid item would measure the whole width)
+      const divs = panels.map(r => { const p = box.append('div'), isO = r[0] === 'other';
+        p.append('h4').text(isO ? L('Άλλο θέμα ή χωρίς θέμα', 'Other subject or none') : L(...RESN[r[0]]));
+        p.append('p').text(`${fmt(r[1])} · ${pct(r[1], N)}`); return p; });
+      panels.forEach((r, pi) => {
+        const p = divs[pi], isO = r[0] === 'other';
+        const w = W(p), h = 92, m = { t: 6, b: 18, l: 2, r: 2 }, iw = w - m.l - m.r, ih = h - m.t - m.b;
+        const svg = svgIn(p, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const x = d3.scaleBand().domain(Y).range([0, iw]).padding(0.2), y = d3.scaleLinear().domain([0, isO ? d3.max(Object.values(r[2])) : ymx]).range([ih, 0]);
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+        Y.forEach(yy => { const v = r[2][yy] || 0; if (v) g.append('path').attr('d', colPath(x(yy), ih, x.bandwidth(), y(v), 2)).attr('fill', isO ? css('--muted-mark') : ink).attr('opacity', dvPartial(yy) ? .5 : 1); });
+        [Y[0], Y[Y.length - 1]].forEach(yy => g.append('text').attr('class', 'lbl mut').attr('x', x(yy) + x.bandwidth() / 2).attr('y', ih + 13).attr('text-anchor', 'middle').text(`’${yy.slice(2)}`));
+        const pk = Object.entries(r[2]).sort((a, b) => b[1] - a[1])[0];
+        if (pk && !isO) halo(g, x(pk[0]) + x.bandwidth() / 2, y(pk[1]) - 4, fmt(pk[1]), 'middle', 'lbl strong');
+        bindTip(g.append('rect').attr('class', 'hit').attr('width', iw).attr('height', ih + 14).datum(r),
+          d => `<b>${esc(isO ? L('Άλλο θέμα ή χωρίς θέμα', 'Other subject or none') : L(...RESN[d[0]]))}</b>` + Y.map(yy => trow(null, yy + (dvPartial(yy) ? ` (${dvPartTxt(yy)})` : ''), fmt(d[2][yy] || 0))).join('') +
+            (c.examples[d[0]] ? `<div class="q">«${esc(c.examples[d[0]][0][2])}»</div>` : ''));
+      });
+      note(el, ['local/dimos-<…>/', 'git log (θέμα)'], L(`${fmt(N)} πράξεις δήμων`, `${fmt(N)} municipal acts`),
+        L(`μετρούν οι πράξεις δήμων με τη λέξη «ψήφισμα» στον τίτλο· το θέμα διαβάζεται από λέξεις του τίτλου με τους κανόνες του src/prep.py, με τη σειρά που τους δίνει (το πρώτο θέμα που ταιριάζει). Όλα τα θέματα έχουν την ίδια κλίμακα, εκτός από το «Άλλο θέμα ή χωρίς θέμα». Το ${PF.dv_to.slice(0, 4)} είναι ημιτελές.`,
+          `counted are municipal acts with the word «ψήφισμα» (resolution) in the title; the subject is read from words in the title by the rules in src/prep.py, in their order (the first subject that matches). All subjects share one scale, except “Other subject or none”. ${PF.dv_to.slice(0, 4)} is partial.`));
+      table(el, [L('Θέμα', 'Subject'), ...Y, t('total')], c.topics.map(r => [L(...RESN[r[0]]), ...Y.map(yy => r[2][yy] || 0), r[1]]));
+    }
+  };
+});
+
+const ISSN = { 'ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ': ['Υπουργείο Οικονομικών', 'Ministry of Finance'], 'ΥΠΟΥΡΓΕΙΟ ΕΘΝΙΚΗΣ ΑΜΥΝΑΣ': ['Υπουργείο Εθνικής Άμυνας', 'Ministry of National Defence'],
+  'ΑΝΕΞΑΡΤΗΤΗ ΑΡΧΗ ΔΗΜΟΣΙΩΝ ΕΣΟΔΩΝ ΑΑΔΕ': ['Ανεξάρτητη Αρχή Δημοσίων Εσόδων', 'Independent Authority for Public Revenue'], 'ΥΠΟΥΡΓΕΙΟ ΑΓΡΟΤΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΚΑΙ ΤΡΟΦΙΜΩΝ': ['Υπουργείο Αγροτικής Ανάπτυξης και Τροφίμων', 'Ministry of Rural Development and Food'],
+  'ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΚΑΙ ΚΟΙΝΩΝΙΚΩΝ ΑΣΦΑΛΙΣΕΩΝ': ['Υπουργείο Υγείας και Κοινωνικών Ασφαλίσεων', 'Ministry of Health and Social Insurance'], 'ΥΠΟΥΡΓΕΙΟ ΥΠΟΔΟΜΩΝ ΚΑΙ ΜΕΤΑΦΟΡΩΝ': ['Υπουργείο Υποδομών και Μεταφορών', 'Ministry of Infrastructure and Transport'],
+  'ΥΠΟΥΡΓΕΙΟ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΕΝΕΡΓΕΙΑΣ': ['Υπουργείο Περιβάλλοντος και Ενέργειας', 'Ministry of Environment and Energy'], 'ΥΠΟΥΡΓΕΙΟ ΝΑΥΤΙΛΙΑΣ ΚΑΙ ΝΗΣΙΩΤΙΚΗΣ ΠΟΛΙΤΙΚΗΣ': ['Υπουργείο Ναυτιλίας και Νησιωτικής Πολιτικής', 'Ministry of Maritime Affairs and Insular Policy'],
+  'ΡΥΘΜΙΣΤΙΚΗ ΑΡΧΗ ΑΠΟΒΛΗΤΩΝ ΕΝΕΡΓΕΙΑΣ ΚΑΙ ΥΔΑΤΩΝ': ['Ρυθμιστική Αρχή Αποβλήτων, Ενέργειας και Υδάτων', 'Regulatory Authority for Waste, Energy and Water'], 'ΕΘΝΙΚΟ ΣΥΜΒΟΥΛΙΟ ΡΑΔΙΟΤΗΛΕΟΡΑΣΗΣ (ΕΣΡ)': ['Εθνικό Συμβούλιο Ραδιοτηλεόρασης', 'National Council for Radio and Television'],
+  'ΔΗΜΟΣ ΑΝΔΡΑΒΙΔΑΣ - ΚΥΛΛΗΝΗΣ': ['Δήμος Ανδραβίδας – Κυλλήνης', 'Municipality of Andravida – Kyllini'], 'ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ': ['Περιφέρεια Κεντρικής Μακεδονίας', 'Region of Central Macedonia'],
+  'ΔΗΜΟΣ ΒΟΛΒΗΣ': ['Δήμος Βόλβης', 'Municipality of Volvi'], 'ΔΗΜΟΣ ΑΧΑΡΝΩΝ': ['Δήμος Αχαρνών', 'Municipality of Acharnes'], 'ΔΗΜΟΣ ΚΥΜΗΣ - ΑΛΙΒΕΡΙΟΥ': ['Δήμος Κύμης – Αλιβερίου', 'Municipality of Kymi – Aliveri'],
+  'ΕΠΙΤΡΟΠΗ ΑΝΤΑΓΩΝΙΣΜΟΥ': ['Επιτροπή Ανταγωνισμού', 'Competition Commission'] };
+const issName = k => ISSN[k] ? L(...ISSN[k]) : k;
+chart('c20', el => {
+  const c = D.c20, ci = c['Α.3'], op = c['Α.4'], nci = sum(ci.issuers, x => x[1]), nop = sum(op.issuers, x => x[1]);
+  const oy = Object.entries(op.years).filter(([y]) => !dvPartial(y)), omx = oy.reduce((a, b) => b[1] > a[1] ? b : a), omn = oy.reduce((a, b) => b[1] < a[1] ? b : a);
+  return {
+    title: L(`Εγκύκλιοι και γνωμοδοτήσεις: το Υπουργείο Οικονομικών εξέδωσε το ${pct(ci.issuers[0][1], nci)} των εγκυκλίων, μία ρυθμιστική αρχή το ${pct(op.issuers[0][1], nop)} των γνωμοδοτήσεων`,
+      `Circulars and opinions: the Ministry of Finance issued ${pct(ci.issuers[0][1], nci)} of the circulars, one regulatory authority ${pct(op.issuers[0][1], nop)} of the opinions`),
+    toc: L('Εγκύκλιοι και γνωμοδοτήσεις', 'Circulars and opinions'),
+    dek: L(`Εκτός από κανονιστικές πράξεις, το αποθετήριο περιέχει ${fmt(nci)} εγκυκλίους από ${fmt(ci.issuers.length)} φορείς και ${fmt(nop)} γνωμοδοτήσεις από ${fmt(op.issuers.length)} φορείς. Τις εγκυκλίους εκδίδουν κυρίως υπουργεία και η Ανεξάρτητη Αρχή Δημοσίων Εσόδων· τις γνωμοδοτήσεις η Ρυθμιστική Αρχή Αποβλήτων, Ενέργειας και Υδάτων και το Εθνικό Συμβούλιο Ραδιοτηλεόρασης. Οι γνωμοδοτήσεις ήταν ${fmt(omx[1])} το ${omx[0]} και ${fmt(omn[1])} το ${omn[0]}.`,
+      `Besides regulatory acts, the repository holds ${fmt(nci)} circulars from ${fmt(ci.issuers.length)} bodies and ${fmt(nop)} opinions from ${fmt(op.issuers.length)} bodies. Circulars come mostly from ministries and the Independent Authority for Public Revenue; opinions from the Regulatory Authority for Waste, Energy and Water and the National Council for Radio and Television. There were ${fmt(omx[1])} opinions in ${omx[0]} and ${fmt(omn[1])} in ${omn[0]}.`),
+    draw(el) {
+      const box = el.append('div').attr('class', 'mini'), Y = D.c07.years.map(r => r.y);
+      const sets = [[ci, nci, L('Εγκύκλιοι', 'Circulars'), css('--s7')], [op, nop, L('Γνωμοδοτήσεις', 'Opinions'), css('--s3')]];
+      const divs = sets.map(([v, n, hd]) => { const p = box.append('div'); p.append('h4').text(`${hd} · ${fmt(n)}`); return p; });
+      sets.forEach(([v, n, hd, ink], si) => {
+        const p = divs[si];
+        const top = v.issuers.slice(0, 6), rest = n - sum(top, x => x[1]);
+        const rows = top.map(x => ({ k: x[0], n: x[1] })).concat([{ k: null, n: rest }]);
+        barList(p, rows, { label: r => r.k ? issName(r.k) : L(`Άλλοι ${fmt(v.issuers.length - 6)} φορείς`, `${fmt(v.issuers.length - 6)} other bodies`), value: r => r.n, color: r => r.k ? ink : css('--muted-mark'),
+          right: r => `${fmt(r.n)} · ${pct(r.n, n)}`, rw: 86, cap: 260, tip: r => `<b>${esc(r.k ? issName(r.k) : L('Άλλοι φορείς', 'Other bodies'))}</b>` + trow(null, hd, `${fmt(r.n)} · ${pct(r.n, n)}`) });
+        const w = W(p), h = 70, m = { t: 14, b: 16 }, svg = svgIn(p, w, h), g = svg.append('g').attr('transform', `translate(0,${m.t})`), ih = h - m.t - m.b;
+        const x = d3.scaleBand().domain(Y).range([0, w]).padding(0.22), y = d3.scaleLinear().domain([0, d3.max(Y, yy => v.years[yy] || 0)]).range([ih, 0]);
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', w).attr('y1', ih).attr('y2', ih);
+        Y.forEach(yy => { const val = v.years[yy] || 0;
+          if (val) g.append('path').attr('d', colPath(x(yy), ih, x.bandwidth(), y(val), 2)).attr('fill', ink).attr('opacity', dvPartial(yy) ? .5 : 1);
+          g.append('text').attr('class', 'lbl mut').attr('x', x(yy) + x.bandwidth() / 2).attr('y', ih + 12).attr('text-anchor', 'middle').text(`’${yy.slice(2)}`);
+          bindTip(g.append('rect').attr('class', 'hit').attr('x', x(yy)).attr('width', x.bandwidth()).attr('y', -m.t).attr('height', ih + m.t).datum(yy), d => `<b>${d}${dvPartial(d) ? ` (${dvPartTxt(d)})` : ''}</b>` + trow(ink, hd, fmt(v.years[d] || 0))); });
+        g.append('text').attr('class', 'lbl mut').attr('x', 0).attr('y', -4).text(L('ανά έτος', 'by year'));
+      });
+      note(el, ['norm/<ΦΟΡΕΑΣ>/', 'local/<ΦΟΡΕΑΣ>/', 'git log (Decision-type: Α.3 ΕΓΚΥΚΛΙΟΣ, Α.4 ΓΝΩΜΟΔΟΤΗΣΗ)'], L(`${fmt(nci + nop)} πράξεις`, `${fmt(nci + nop)} acts`),
+        L(`το είδος της πράξης είναι αυτό που δήλωσε ο φορέας στη Διαύγεια. Ο φορέας γράφεται με το σημερινό όνομά του στη Διαύγεια. Τα ${PF.dv_from.slice(0, 4)} και ${PF.dv_to.slice(0, 4)} είναι ημιτελή (πιο ανοιχτά).`,
+          `the kind of act is the one the body declared on Diavgeia. Each body is named as Diavgeia names it today. ${PF.dv_from.slice(0, 4)} and ${PF.dv_to.slice(0, 4)} are partial (lighter).`));
+      table(el, [L('Φορέας', 'Body'), L('Εγκύκλιοι', 'Circulars'), L('Γνωμοδοτήσεις', 'Opinions')],
+        [...new Set(ci.issuers.slice(0, 25).map(x => x[0]).concat(op.issuers.slice(0, 25).map(x => x[0])))].map(k => [issName(k), (ci.issuers.find(x => x[0] === k) || [0, 0])[1], (op.issuers.find(x => x[0] === k) || [0, 0])[1]]));
+    }
+  };
+});
+
+// ================================================================== IV. the Areios Pagos
+const GRPN = { civil: ['Πολιτικά τμήματα', 'Civil sections'], criminal: ['Ποινικά τμήματα', 'Criminal sections'], plenary: ['Ολομέλεια', 'Plenary'] };
+const grpCol = k => ({ civil: css('--s1'), criminal: css('--s2'), plenary: css('--s7') }[k]);
+const SECN = { 'Α1': ['Α1΄ Πολιτικό', '1st Civil (A1)'], 'Α2': ['Α2΄ Πολιτικό', '1st Civil (A2)'], 'Β1': ['Β1΄ Πολιτικό', '2nd Civil (B1)'], 'Β2': ['Β2΄ Πολιτικό', '2nd Civil (B2)'],
+  'Γ': ['Γ΄ Πολιτικό', '3rd Civil'], 'Δ': ['Δ΄ Πολιτικό', '4th Civil'], 'Ε': ['Ε΄ Ποινικό', '5th Criminal'], 'ΣΤ': ['ΣΤ΄ Ποινικό', '6th Criminal'], 'Ζ': ['Ζ΄ Ποινικό', '7th Criminal'],
+  'ΟλΠ': ['Ολομέλεια, πολιτικές', 'Plenary, civil'], 'ΟλΠοιν': ['Ολομέλεια, ποινικές', 'Plenary, criminal'] };
+const OUTN = { quash: ['Αναιρεί', 'Quashes'], dismiss: ['Απορρίπτει', 'Dismisses'], closed: ['Απαράδεκτη ή καταργημένη', 'Inadmissible or closed'], other: ['Άλλο', 'Other'] };
+const OUTK = ['quash', 'dismiss', 'closed', 'other'];
+const outCol = k => ({ quash: css('--s1'), dismiss: css('--s2'), closed: css('--s4'), other: css('--muted-mark') }[k]);
+
+part('p4', 'IV. Ο Άρειος Πάγος', 'IV. The Areios Pagos',
+  'Οι αποφάσεις του Αρείου Πάγου, που κρίνει τις αιτήσεις αναίρεσης κατά αποφάσεων των πολιτικών και ποινικών δικαστηρίων, όπως τις δημοσιεύει ο ιστότοπός του (caselaw/areios-pagos/): ο αριθμός, το τμήμα και η ημέρα δημοσίευσης κάθε απόφασης, και από το κείμενό της η ημέρα της συζήτησης, το διατακτικό και η απόφαση που προσβλήθηκε.',
+  'The decisions of the Areios Pagos, which hears appeals in cassation against judgments of the civil and criminal courts, as its website publishes them (caselaw/areios-pagos/): each decision’s number, section and day of publication, and from its text the day of the hearing, the operative part and the judgment appealed against.');
+
+chart('c14', el => {
+  const R = D.c14.years, N = D.c14.n, mxc = R.reduce((a, b) => b.civil > a.civil ? b : a), mnc = R.reduce((a, b) => b.civil < a.civil ? b : a);
+  const civ = sum(R, r => r.civil), cri = sum(R, r => r.criminal), ple = sum(R, r => r.plenary), gap = R.filter(r => r.hi_criminal && r.criminal / r.hi_criminal < 0.2);
+  return {
+    title: L(`${fmt(N)} αποφάσεις του Αρείου Πάγου ${R[0].y}–${R[R.length - 1].y}: από ${fmt(mxc.civil)} πολιτικές το ${mxc.y} σε ${fmt(mnc.civil)} το ${mnc.y}`, `${fmt(N)} decisions of the Areios Pagos, ${R[0].y}–${R[R.length - 1].y}: from ${fmt(mxc.civil)} civil decisions in ${mxc.y} to ${fmt(mnc.civil)} in ${mnc.y}`),
+    toc: L('Οι αποφάσεις ανά έτος', 'Decisions by year'),
+    dek: L(`Οι αποφάσεις που δημοσίευσε ο Άρειος Πάγος κάθε έτος, όπως τις έχει ο ιστότοπός του: ${fmt(civ)} των πολιτικών τμημάτων, ${fmt(cri)} των ποινικών και ${fmt(ple)} της Ολομέλειας. Η αρίθμηση δείχνει πόσες λείπουν: οι πολιτικές του ${mnc.y} φτάνουν ως τον αριθμό ${fmt(mnc.hi_civil)}, άρα λείπουν λίγες· από τις ποινικές του ${andList(gap.map(r => r.y))} λείπουν σχεδόν όλες.`,
+      `The decisions the Areios Pagos published each year, as its website holds them: ${fmt(civ)} of the civil sections, ${fmt(cri)} of the criminal sections and ${fmt(ple)} of the Plenary. The numbering shows how many are missing: the civil decisions of ${mnc.y} run to number ${fmt(mnc.hi_civil)}, so few are missing; of the criminal decisions of ${andList(gap.map(r => r.y))}, almost all are missing.`),
+    draw(el) {
+      const keys = ['civil', 'criminal', 'plenary', 'miss'], PH_ = '#010203', colors = [...keys.slice(0, 3).map(grpCol), PH_];
+      const names = [...keys.slice(0, 3).map(k => L(...GRPN[k])), L('Λείπουν, κατά την αρίθμηση', 'Missing, by the numbering')];
+      legend(el, keys.map((k, i) => ({ c: i < 3 ? colors[i] : css('--surface-2'), l: names[i], shape: i < 3 ? '' : 'hatch' })));
+      const rows = R.map(r => ({ ...r, y: String(r.y), miss: Math.max(0, r.hi_civil - r.civil) + Math.max(0, r.hi_criminal - r.criminal) }));
+      const s = stackedColumns(el, rows, keys, colors, names, { h: 290, pad: 0.3, bw: 44, noShare: true, topLabel: r => kfmt(r.civil + r.criminal + r.plenary),
+        tipExtra: r => trow(null, L('Πολιτικές: ως τον αριθμό', 'Civil: up to number'), fmt(r.hi_civil)) + trow(null, L('Ποινικές: ως τον αριθμό', 'Criminal: up to number'), fmt(r.hi_criminal)) +
+          trow(null, L('Ποινικές που υπάρχουν', 'Criminal decisions held'), pct(r.criminal, r.hi_criminal)) });
+      const hp = hatch(s.svg); s.g.selectAll('path').filter(function () { return this.getAttribute('fill') === PH_; }).attr('fill', hp);
+      note(el, ['caselaw/areios-pagos/<ΕΤΟΣ>/<ΤΜΗΜΑ>/…/decision.html', 'git log (Kind: caselaw)'], L(`${fmt(N)} αποφάσεις`, `${fmt(N)} decisions`),
+        L('το έτος είναι το έτος της απόφασης. Οι πολιτικές και οι ποινικές αριθμούνται χωριστά κάθε έτος, οπότε ο μεγαλύτερος αριθμός δείχνει περίπου πόσες εκδόθηκαν· όσες λείπουν ως εκείνον τον αριθμό σχεδιάζονται διαγραμμισμένες (στον πίνακα οι αριθμοί). Πάνω από κάθε στήλη, οι αποφάσεις που υπάρχουν. Τα τμήματα διακοπών μετρούν στα ποινικά.',
+          'the year is the decision’s year. Civil and criminal decisions are numbered separately each year, so the highest number shows roughly how many were issued; those missing up to that number are drawn hatched (the numbers are in the table). Above each column, the decisions held. The vacation sections count with the criminal sections.'));
+      table(el, [t('year'), ...names, t('total'), L('Πολιτικές ως τον αριθμό', 'Civil up to number'), L('Ποινικές ως τον αριθμό', 'Criminal up to number')], R.map(r => [String(r.y), r.civil, r.criminal, r.plenary, r.civil + r.criminal + r.plenary, r.hi_civil, r.hi_criminal]));
+    }
+  };
+});
+
+chart('c15', el => {
+  const c = D.c15, G = new Map(c.grid.map(([y, m, n]) => [y + ':' + m, n])), Y = [...new Set(c.grid.map(x => x[0]))], N = c.n;
+  const bym = d3.range(1, 13).map(m => sum(Y, y => G.get(y + ':' + m) || 0)), mxm = bym.indexOf(d3.max(bym)), mnm = bym.indexOf(d3.min(bym));
+  const top3 = y => d3.range(1, 13).sort((a, b) => (G.get(y + ':' + b) || 0) - (G.get(y + ':' + a) || 0)).slice(0, 3);
+  const inTop = sum(Y, y => (top3(y).includes(mxm + 1) ? 1 : 0)), lowest = sum(Y, y => (d3.range(1, 13).every(m => (G.get(y + ':' + (mnm + 1)) || 0) <= (G.get(y + ':' + m) || 0)) ? 1 : 0));
+  return {
+    title: L(`Το ημερολόγιο του Αρείου Πάγου: τον ${MACC[mxm]} δημοσιεύεται το ${pct(bym[mxm], N)} των αποφάσεων, τον ${MACC[mnm]} το ${pct(bym[mnm], N)}`, `The Areios Pagos calendar: ${pct(bym[mxm], N)} of decisions are published in ${MEN[mxm]}, ${pct(bym[mnm], N)} in ${MEN[mnm]}`),
+    toc: L('Το ημερολόγιο του Αρείου Πάγου', 'The Areios Pagos calendar'),
+    dek: L(`Κάθε κελί είναι ένας μήνας: όσο πιο σκούρο, τόσο περισσότερες αποφάσεις δημοσιεύθηκαν. Ο ${MNOM[mxm]} είναι ένας από τους τρεις μήνες με τις περισσότερες αποφάσεις σε ${inTop} από τα ${Y.length} έτη· ο ${MNOM[mnm]} είναι ο μήνας με τις λιγότερες σε ${lowest} από τα ${Y.length}. Δεξιά, οι αποφάσεις κάθε έτους.`,
+      `Each cell is one month: the darker, the more decisions were published. ${MEN[mxm]} is one of the three months with the most decisions in ${inTop} of the ${Y.length} years; ${MEN[mnm]} is the month with the fewest in ${lowest} of the ${Y.length}. On the right, each year’s decisions.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), lw = 40, rt = nw ? 40 : 90, cw = (w - lw - rt) / 12, ch = nw ? 20 : 24, m = { t: 20 }, H = m.t + ch * Y.length + 4;
+      const svg = svgIn(el, w, H), g = svg.append('g').attr('transform', `translate(${lw},${m.t})`);
+      const mx = d3.max(c.grid, x => x[2]), col = d3.scaleSequentialSqrt(seqRamp()).domain([0, mx]);
+      MON[LANG].forEach((mn, j) => g.append('text').attr('class', 'lbl mut').attr('x', j * cw + cw / 2).attr('y', -7).attr('text-anchor', 'middle').text(nw ? mn.slice(0, 1) : mn));
+      const yt = Y.map(y => sum(d3.range(1, 13), m => G.get(y + ':' + m) || 0)), xb = d3.scaleLinear().domain([0, d3.max(yt)]).range([0, rt - (nw ? 4 : 44)]);
+      Y.forEach((y, i) => {
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', i * ch + ch / 2 + 4).attr('text-anchor', 'end').text(y);
+        d3.range(1, 13).forEach(m => { const v = G.get(y + ':' + m) || 0;
+          bindTip(g.append('rect').attr('x', (m - 1) * cw + 1).attr('y', i * ch + 1).attr('width', cw - 2).attr('height', ch - 2).attr('rx', 3).attr('fill', v ? col(v) : css('--surface-2')).datum({ y, m, v }),
+            d => `<b>${L(MNOM[d.m - 1], MEN[d.m - 1])} ${d.y}</b>` + trow(null, L('Αποφάσεις', 'Decisions'), fmt(d.v)) + trow(null, L('Του έτους', 'Of the year'), pct(d.v, yt[i]))); });
+        const xe = 12 * cw + 8;
+        if (!nw) g.append('path').attr('d', barPath(xe, i * ch + ch / 2 - 5, xe + xb(yt[i]), 10, 2)).attr('fill', css('--s1'));
+        g.append('text').attr('class', 'lbl').attr('x', xe + (nw ? 0 : xb(yt[i]) + 6)).attr('y', i * ch + ch / 2 + 4).text(kfmt(yt[i]));
+      });
+      note(el, ['git log (In-force: η ημέρα δημοσίευσης)'], L(`${fmt(N)} αποφάσεις`, `${fmt(N)} decisions`),
+        L('η ημέρα είναι εκείνη που η απόφαση δημοσιεύθηκε σε δημόσια συνεδρίαση, όπως τη γράφει το κείμενό της. Από τις ποινικές του 2008 και του 2009 λείπουν σχεδόν όλες.', 'the day is the one on which the decision was published in open court, as its text gives it. Nearly all criminal decisions of 2008 and 2009 are missing.'));
+      table(el, [t('year'), ...MON[LANG], t('total')], Y.map((y, i) => [String(y), ...d3.range(1, 13).map(m => G.get(y + ':' + m) || 0), yt[i]]));
+    }
+  };
+});
+
+chart('c16', el => {
+  const c = D.c16, rows = c.rows, A = c.all, N = sum(OUTK, k => A[k] || 0);
+  const sh = r => r.quash / r.n, main = rows.filter(r => !r.sec.startsWith('Ολ')), lo = main.reduce((a, b) => sh(b) < sh(a) ? b : a), hi = main.reduce((a, b) => sh(b) > sh(a) ? b : a);
+  return {
+    title: L(`Αναιρεί ή απορρίπτει: ο Άρειος Πάγος αναιρεί στο ${pct(A.quash, N)} των αποφάσεών του, από ${pct(lo.quash, lo.n)} στο ${L(...SECN[lo.sec])} Τμήμα ως ${pct(hi.quash, hi.n)} στο ${L(...SECN[hi.sec])}`,
+      `Quash or dismiss: the Areios Pagos quashes in ${pct(A.quash, N)} of its decisions, from ${pct(lo.quash, lo.n)} in the ${L(...SECN[lo.sec])} section to ${pct(hi.quash, hi.n)} in the ${L(...SECN[hi.sec])} section`),
+    toc: L('Αναιρεί ή απορρίπτει', 'Quash or dismiss'),
+    dek: L(`Τι αποφασίζει κάθε τμήμα, σύμφωνα με το διατακτικό της απόφασης («ΓΙΑ ΤΟΥΣ ΛΟΓΟΥΣ ΑΥΤΟΥΣ»): αναιρεί την απόφαση που προσβλήθηκε, απορρίπτει την αίτηση, την κηρύσσει απαράδεκτη ή καταργεί τη δίκη, ή κάτι άλλο (παραπέμπει, αναβάλλει, διορθώνει). Συνολικά: αναιρεί σε ${fmt(A.quash)} αποφάσεις και απορρίπτει σε ${fmt(A.dismiss)}.`,
+      `What each section decides, as the operative part of the decision («ΓΙΑ ΤΟΥΣ ΛΟΓΟΥΣ ΑΥΤΟΥΣ») says: it quashes the judgment appealed against, dismisses the appeal, declares it inadmissible or closes the case, or something else (refers, adjourns, corrects). Overall it quashes in ${fmt(A.quash)} decisions and dismisses in ${fmt(A.dismiss)}.`),
+    draw(el) {
+      const colors = OUTK.map(outCol), names = OUTK.map(k => L(...OUTN[k]));
+      legend(el, OUTK.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const lw = Math.ceil(textW(el, rows.map(r => L(...SECN[r.sec]))) + 16);
+      bands(el, rows, OUTK, colors, names, { rowH: 30, l: lw, ln: lw, r: 70, rn: 54, minIn: 34, label: r => L(...SECN[r.sec]), right: r => fmt(r.n), labelFill: r => r.sec.startsWith('Ολ') ? css('--text-2') : null });
+      note(el, ['caselaw/areios-pagos/…/decision.html (ΓΙΑ ΤΟΥΣ ΛΟΓΟΥΣ ΑΥΤΟΥΣ)'], L(`${fmt(N)} αποφάσεις`, `${fmt(N)} decisions`),
+        L(`το αποτέλεσμα είναι το πρώτο ρήμα του διατακτικού (κανόνες στο src/prep.py): «Αναιρεί» και «Αναιρεί εν μέρει» μετρούν ως αναίρεση, ακόμη κι αν ακολουθεί απόρριψη άλλης αίτησης. ${fmt(c.no_op)} αποφάσεις χωρίς αναγνώσιμο διατακτικό δεν μετρούν· λείπουν και οι ποινικές του 2008–2009. Τα τμήματα διακοπών και οι παλαιότερες εγγραφές χωρίς τμήμα δεν εμφανίζονται χωριστά.`,
+          `the outcome is the first verb of the operative part (rules in src/prep.py): «Αναιρεί» (quashes) and «Αναιρεί εν μέρει» (quashes in part) count as quashing, even when a dismissal of another appeal follows. ${fmt(c.no_op)} decisions without a readable operative part are not counted; the criminal decisions of 2008–2009 are missing too. The vacation sections and older records with no section are not shown separately.`));
+      table(el, [L('Τμήμα', 'Section'), ...names, t('total'), L('Αναιρεί', 'Quashes')], rows.map(r => [L(...SECN[r.sec]), ...OUTK.map(k => r[k]), r.n, pct(r.quash, r.n)]));
+    }
+  };
+});
+
+chart('c17', el => {
+  const R = D.c17.years, q = (r, g) => { const o = r[g] || {}, n = sum(OUTK, k => o[k] || 0); return n >= 300 ? { s: (o.quash || 0) / n, n, q: o.quash || 0 } : null; };
+  const cv = R.map(r => ({ y: r.y, v: q(r, 'civil') })), cr = R.map(r => ({ y: r.y, v: q(r, 'criminal') }));
+  const f = a => a.find(d => d.v), l = a => a.filter(d => d.v).slice(-1)[0];
+  return {
+    title: L(`Οι αναιρέσεις στα ποινικά: από το ${pv(100 * f(cr).v.s)} των αποφάσεων το ${f(cr).y} στο ${pv(100 * l(cr).v.s)} το ${l(cr).y}`, `Quashing in criminal cases: from ${pv(100 * f(cr).v.s)} of decisions in ${f(cr).y} to ${pv(100 * l(cr).v.s)} in ${l(cr).y}`),
+    toc: L('Οι αναιρέσεις ανά έτος', 'Quashing by year'),
+    dek: L(`Το ποσοστό των αποφάσεων κάθε έτους που αναιρούν την απόφαση που προσβλήθηκε, στα πολιτικά και στα ποινικά τμήματα. Στα πολιτικά κινήθηκε μεταξύ ${pv(100 * d3.min(cv.filter(d => d.v), d => d.v.s))} και ${pv(100 * d3.max(cv.filter(d => d.v), d => d.v.s))}· στα ποινικά μεταξύ ${pv(100 * d3.min(cr.filter(d => d.v && d !== l(cr)), d => d.v.s))} και ${pv(100 * d3.max(cr.filter(d => d.v && d !== l(cr)), d => d.v.s))} ως το ${R[R.length - 2].y}, και ${pv(100 * l(cr).v.s)} το ${l(cr).y}. Η σκιά δείχνει τη διαφορά των δύο.`,
+      `The share of each year’s decisions that quash the judgment appealed against, in the civil and in the criminal sections. In the civil sections it moved between ${pv(100 * d3.min(cv.filter(d => d.v), d => d.v.s))} and ${pv(100 * d3.max(cv.filter(d => d.v), d => d.v.s))}; in the criminal sections between ${pv(100 * d3.min(cr.filter(d => d.v && d !== l(cr)), d => d.v.s))} and ${pv(100 * d3.max(cr.filter(d => d.v && d !== l(cr)), d => d.v.s))} until ${R[R.length - 2].y}, and ${pv(100 * l(cr).v.s)} in ${l(cr).y}. The shading shows the gap between the two.`),
+    draw(el) {
+      const c1 = grpCol('civil'), c2 = grpCol('criminal');
+      legend(el, [{ c: c2, l: L('Ποινικά τμήματα', 'Criminal sections'), shape: 'line' }, { c: c1, l: L('Πολιτικά τμήματα', 'Civil sections'), shape: 'dash' }, { c: c2, l: L('Διαφορά', 'Gap'), shape: 'band' }]);
+      const w = W(el), nw = narrow(w), h = 280, m = { t: 20, r: nw ? 44 : 60, b: 26, l: 40 }, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([R[0].y, R[R.length - 1].y]).range([0, iw]), y = d3.scaleLinear().domain([0, 0.45]).range([ih, 0]);
+      yAxis(g, y, iw, 4, v => pv(100 * v));
+      R.forEach(r => { if (!nw || r.y % 2 === 1) g.append('text').attr('class', 'lbl').attr('x', x(r.y)).attr('y', ih + 16).attr('text-anchor', 'middle').text(r.y); });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      const miss = R.filter((r, i) => !cr[i].v);
+      if (miss.length) { const xa = x(miss[0].y) - 10, xb2 = x(miss[miss.length - 1].y) + 10;
+        g.insert('rect', ':first-child').attr('x', xa).attr('width', xb2 - xa).attr('y', 0).attr('height', ih).attr('fill', css('--surface-2'));
+        g.append('text').attr('class', 'lbl mut').attr('x', (xa + xb2) / 2).attr('y', 12).attr('text-anchor', 'middle').text(L('ποινικές: λείπουν', 'criminal: missing')); }
+      // gap shading between the series, only where both exist (consecutive runs)
+      let run = [];
+      const flush = () => { if (run.length > 1) g.append('path').attr('d', d3.area().x(d => x(d.y)).y0(d => y(d.a.s)).y1(d => y(d.b.s))(run)).attr('fill', c2).attr('opacity', .12); run = []; };
+      R.forEach((r, i) => { const d = { y: r.y, a: cv[i].v, b: cr[i].v }; if (d.a && d.b) run.push(d); else flush(); }); flush();
+      const line = d3.line().defined(d => d.v).x(d => x(d.y)).y(d => y(d.v.s));
+      g.append('path').attr('d', line(cv)).attr('fill', 'none').attr('stroke', c1).attr('stroke-width', 2).attr('stroke-dasharray', '5 4');
+      g.append('path').attr('d', line(cr)).attr('fill', 'none').attr('stroke', c2).attr('stroke-width', 2.4);
+      [[cv, c1], [cr, c2]].forEach(([a, cc]) => a.filter(d => d.v).forEach(d => g.append('circle').attr('cx', x(d.y)).attr('cy', y(d.v.s)).attr('r', 3).attr('fill', cc).attr('stroke', css('--surface')).attr('stroke-width', 1.5)));
+      const lc = l(cr), lv = l(cv);
+      halo(g, x(lc.y) + 8, y(lc.v.s) + 4, pv(100 * lc.v.s), 'start', 'lbl strong', c2);
+      halo(g, x(lv.y) + 8, y(lv.v.s) + 4, pv(100 * lv.v.s), 'start', 'lbl strong', c1);
+      const fc = f(cr), fv = f(cv);
+      halo(g, x(fc.y) + 6, y(fc.v.s) + (fc.v.s < fv.v.s ? 16 : -9), pv(100 * fc.v.s), 'start', 'lbl strong', c2);
+      halo(g, x(fv.y) + 6, y(fv.v.s) + (fv.v.s < fc.v.s ? 16 : -9), pv(100 * fv.v.s), 'start', 'lbl strong', c1);
+      bindTip(g.selectAll('rect.hit').data(R).join('rect').attr('class', 'hit').attr('x', r => x(r.y) - iw / R.length / 2).attr('width', iw / R.length).attr('y', 0).attr('height', ih),
+        r => { const i = R.indexOf(r); return `<b>${r.y}</b>` + [[cv[i].v, c1, L('Πολιτικά', 'Civil')], [cr[i].v, c2, L('Ποινικά', 'Criminal')]].map(([v, cc, lb]) => v ? trow(cc, lb, `${pv(100 * v.s, 1)} · ${fmt(v.q)} ${L('από', 'of')} ${fmt(v.n)}`) : trow(null, lb, L('λείπουν', 'missing'))).join(''); });
+      note(el, ['caselaw/areios-pagos/…/decision.html (ΓΙΑ ΤΟΥΣ ΛΟΓΟΥΣ ΑΥΤΟΥΣ)'], L(`${fmt(sum(R, r => sum(['civil', 'criminal'], g => sum(OUTK, k => (r[g] || {})[k] || 0))))} αποφάσεις τμημάτων`, `${fmt(sum(R, r => sum(['civil', 'criminal'], g => sum(OUTK, k => (r[g] || {})[k] || 0))))} section decisions`),
+        L('ποσοστό επί όλων των αποφάσεων με αναγνώσιμο διατακτικό (αναιρεί, απορρίπτει, απαράδεκτη ή καταργημένη, άλλο)· χωρίς την Ολομέλεια. Ένα έτος με λιγότερες από 300 αποφάσεις σε μια ομάδα δεν σχεδιάζεται (οι ποινικές του 2008 και του 2009).',
+          'the share is of all decisions with a readable operative part (quashes, dismisses, inadmissible or closed, other), Plenary excluded. A year with fewer than 300 decisions in a group is not drawn (the criminal decisions of 2008 and 2009).'));
+      table(el, [t('year'), L('Πολιτικά: αναιρεί', 'Civil: quashes'), L('Πολιτικά: σύνολο', 'Civil: total'), L('Ποινικά: αναιρεί', 'Criminal: quashes'), L('Ποινικά: σύνολο', 'Criminal: total')],
+        R.map(r => [String(r.y), (r.civil || {}).quash || 0, sum(OUTK, k => (r.civil || {})[k] || 0), (r.criminal || {}).quash || 0, sum(OUTK, k => (r.criminal || {})[k] || 0)]));
+    }
+  };
+});
+
+chart('c18', el => {
+  const R = D.c18.years, Wd = D.c18w.years, f = R[0], l = R[R.length - 1], wf = Wd[0], wl = Wd[Wd.length - 1];
+  return {
+    title: L(`Πιο αργές και πιο μεγάλες αποφάσεις: στα πολιτικά τμήματα ${fmt(Math.round(f.civil[1]))} ημέρες από τη συζήτηση ως τη δημοσίευση το ${f.y}, ${fmt(Math.round(l.civil[1]))} το ${l.y}`,
+      `Slower and longer decisions: in the civil sections, ${fmt(Math.round(f.civil[1]))} days from hearing to publication in ${f.y}, ${fmt(Math.round(l.civil[1]))} in ${l.y}`),
+    toc: L('Πιο αργές και πιο μεγάλες αποφάσεις', 'Slower and longer decisions'),
+    dek: L(`Το πρώτο γράφημα δείχνει πόσες ημέρες πέρασαν από τη συζήτηση της υπόθεσης ως τη δημοσίευση της απόφασης (διάμεσος, και η σκιά από το πρώτο ως το τρίτο τεταρτημόριο)· το δεύτερο, πόσες λέξεις έχει μια απόφαση. Στα πολιτικά τμήματα η διάμεση απόφαση πήγε από ${fmt(Math.round(wf.civil[1]))} λέξεις το ${wf.y} σε ${fmt(Math.round(wl.civil[1]))} το ${wl.y}· στα ποινικά από ${fmt(Math.round(wf.criminal[1]))} σε ${fmt(Math.round(wl.criminal[1]))}.`,
+      `The first chart shows how many days passed from the hearing of the case to the publication of the decision (median, and the shading from the first to the third quartile); the second, how many words a decision has. In the civil sections the median decision went from ${fmt(Math.round(wf.civil[1]))} words in ${wf.y} to ${fmt(Math.round(wl.civil[1]))} in ${wl.y}; in the criminal sections from ${fmt(Math.round(wf.criminal[1]))} to ${fmt(Math.round(wl.criminal[1]))}.`),
+    draw(el) {
+      const c1 = grpCol('civil'), c2 = grpCol('criminal');
+      legend(el, [{ c: c1, l: L('Πολιτικά τμήματα', 'Civil sections'), shape: 'line' }, { c: c2, l: L('Ποινικά τμήματα', 'Criminal sections'), shape: 'line' }, { c: css('--text-3'), l: L('Από το πρώτο ως το τρίτο τεταρτημόριο', 'First to third quartile'), shape: 'band' }]);
+      const box = el.append('div').attr('class', 'mini'), da = box.append('div'), db = box.append('div');
+      const panel = (div, data, hd, sub, yf, yAt) => {
+        div.append('h4').text(hd); div.append('p').text(sub);
+        const w = W(div), h = 250, m = { t: 14, r: 40, b: 24, l: 44 }, svg = svgIn(div, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([data[0].y, data[data.length - 1].y]).range([0, iw]);
+        const ok = (d, gk) => d[gk] && d[gk][3] >= 300;
+        const y = d3.scaleLinear().domain([0, d3.max(data, d => Math.max(ok(d, 'civil') ? d.civil[2] : 0, ok(d, 'criminal') ? d.criminal[2] : 0))]).nice().range([ih, 0]);
+        yAxis(g, y, iw, 4, yf);
+        data.forEach(d => { if (d.y % 3 === 1) g.append('text').attr('class', 'lbl').attr('x', x(d.y)).attr('y', ih + 16).attr('text-anchor', 'middle').text(d.y); });
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+        [['criminal', c2], ['civil', c1]].forEach(([gk, cc]) => {
+          const dd = data.map(d => ({ y: d.y, v: ok(d, gk) ? d[gk] : null }));
+          g.append('path').attr('d', d3.area().defined(d => d.v).x(d => x(d.y)).y0(d => y(d.v[0])).y1(d => y(d.v[2]))(dd)).attr('fill', cc).attr('opacity', .14);
+          g.append('path').attr('d', d3.line().defined(d => d.v).x(d => x(d.y)).y(d => y(d.v[1]))(dd)).attr('fill', 'none').attr('stroke', cc).attr('stroke-width', 2.2);
+          const fd = dd.find(d => d.v), ld = dd.filter(d => d.v).slice(-1)[0];
+          [fd, ld].forEach(d => g.append('circle').attr('cx', x(d.y)).attr('cy', y(d.v[1])).attr('r', 3.2).attr('fill', cc).attr('stroke', css('--surface')).attr('stroke-width', 1.5));
+          halo(g, x(ld.y) + 7, y(ld.v[1]) + 4, yAt(ld.v[1]), 'start', 'lbl strong', cc);
+          // the first value inside the plot: above the line for the higher series, below it for the lower one
+          const other = gk === 'civil' ? 'criminal' : 'civil', od = data.find(d => d.y === fd.y), hiFirst = !(ok(od, other) && od[other][1] > fd.v[1]);
+          halo(g, x(fd.y) + 4, y(fd.v[1]) + (hiFirst ? -9 : 16), yAt(fd.v[1]), 'start', 'lbl strong', cc);
+        });
+        bindTip(g.selectAll('rect.hit').data(data).join('rect').attr('class', 'hit').attr('x', d => x(d.y) - iw / data.length / 2).attr('width', iw / data.length).attr('y', 0).attr('height', ih),
+          d => `<b>${d.y}</b>` + [['civil', c1, L('Πολιτικά', 'Civil')], ['criminal', c2, L('Ποινικά', 'Criminal')]].map(([gk, cc, lb]) => ok(d, gk) ? trow(cc, lb, `${yAt(d[gk][1])} (${yAt(d[gk][0])}–${yAt(d[gk][2])})`) : trow(null, lb, L('λείπουν', 'missing'))).join(''));
+      };
+      panel(da, R, L('Από τη συζήτηση ως τη δημοσίευση', 'From hearing to publication'), L('ημέρες, ανά έτος της απόφασης', 'days, by year of the decision'), v => fmt(v), v => L(`${fmt(Math.round(v))} ημ.`, `${fmt(Math.round(v))} d`));
+      panel(db, Wd, L('Το μήκος της απόφασης', 'The length of the decision'), L('λέξεις, ανά έτος της απόφασης', 'words, by year of the decision'), v => fmt(v), v => fmt(Math.round(v / 10) * 10));
+      note(el, ['caselaw/areios-pagos/…/decision.html'], L(`${fmt(sum(R, r => (r.civil ? r.civil[3] : 0) + (r.criminal ? r.criminal[3] : 0)))} αποφάσεις με ημερομηνία συζήτησης`, `${fmt(sum(R, r => (r.civil ? r.civil[3] : 0) + (r.criminal ? r.criminal[3] : 0)))} decisions with a hearing date`),
+        L('η ημέρα της συζήτησης διαβάζεται από το κείμενο («Συνεδρίασε δημόσια…» ή «Συνήλθε σε δημόσια συνεδρίαση… στις …») και η ημέρα της δημοσίευσης από το «Δημοσιεύθηκε…». Οι λέξεις μετρώνται σε όλο το κείμενο της απόφασης. Χωρίς την Ολομέλεια· οι ποινικές του 2008 και του 2009 (λιγότερες από 300) δεν σχεδιάζονται.',
+          'the day of the hearing is read from the text («Συνεδρίασε δημόσια…» or «Συνήλθε σε δημόσια συνεδρίαση… στις …») and the day of publication from «Δημοσιεύθηκε…». Words are counted over the whole text of the decision. Plenary excluded; the criminal decisions of 2008 and 2009 (fewer than 300) are not drawn.'));
+      table(el, [t('year'), L('Πολιτικά: διάμεσες ημέρες', 'Civil: median days'), L('Ποινικά: διάμεσες ημέρες', 'Criminal: median days'), L('Πολιτικά: διάμεσες λέξεις', 'Civil: median words'), L('Ποινικά: διάμεσες λέξεις', 'Criminal: median words')],
+        R.map((r, i) => [String(r.y), r.civil ? Math.round(r.civil[1]) : '–', r.criminal ? Math.round(r.criminal[1]) : '–', Wd[i].civil ? Math.round(Wd[i].civil[1]) : '–', Wd[i].criminal ? Math.round(Wd[i].criminal[1]) : '–']));
+    }
+  };
+});
+
+// court seats: [lat, lon] (cartographic positions only), and the names used in the decisions
+const SEAT = { athens: [37.98, 23.73, 'Αθήνα', 'Athens'], piraeus: [37.94, 23.65, 'Πειραιάς', 'Piraeus'], thessaloniki: [40.64, 22.94, 'Θεσσαλονίκη', 'Thessaloniki'], patras: [38.25, 21.73, 'Πάτρα', 'Patras'],
+  larissa: [39.64, 22.42, 'Λάρισα', 'Larissa'], nafplio: [37.57, 22.80, 'Ναύπλιο', 'Nafplio'], ioannina: [39.66, 20.85, 'Ιωάννινα', 'Ioannina'], komotini: [41.12, 25.40, 'Κομοτηνή', 'Komotini'],
+  heraklion: [35.34, 25.13, 'Ηράκλειο', 'Heraklion'], chania: [35.51, 24.02, 'Χανιά', 'Chania'], corfu: [39.62, 19.92, 'Κέρκυρα', 'Corfu'], rhodes: [36.43, 28.22, 'Ρόδος', 'Rhodes'],
+  mytilene: [39.11, 26.55, 'Μυτιλήνη', 'Mytilene'], syros: [37.44, 24.94, 'Σύρος', 'Syros'], kozani: [40.30, 21.79, 'Κοζάνη', 'Kozani'], lamia: [38.90, 22.43, 'Λαμία', 'Lamia'],
+  kalamata: [37.04, 22.11, 'Καλαμάτα', 'Kalamata'], agrinio: [38.62, 21.41, 'Αγρίνιο', 'Agrinio'], chalkida: [38.46, 23.60, 'Χαλκίδα', 'Chalkida'], volos: [39.36, 22.94, 'Βόλος', 'Volos'],
+  serres: [41.09, 23.55, 'Σέρρες', 'Serres'], drama: [41.15, 24.15, 'Δράμα', 'Drama'], kavala: [40.94, 24.41, 'Καβάλα', 'Kavala'], xanthi: [41.14, 24.88, 'Ξάνθη', 'Xanthi'],
+  alexandroupoli: [40.85, 25.87, 'Αλεξανδρούπολη', 'Alexandroupoli'], orestiada: [41.50, 26.53, 'Ορεστιάδα', 'Orestiada'], katerini: [40.27, 22.50, 'Κατερίνη', 'Katerini'], veria: [40.52, 22.20, 'Βέροια', 'Veria'],
+  edessa: [40.80, 22.05, 'Έδεσσα', 'Edessa'], giannitsa: [40.79, 22.41, 'Γιαννιτσά', 'Giannitsa'], kilkis: [40.99, 22.87, 'Κιλκίς', 'Kilkis'], polygyros: [40.38, 23.44, 'Πολύγυρος', 'Polygyros'],
+  trikala: [39.55, 21.77, 'Τρίκαλα', 'Trikala'], karditsa: [39.36, 21.92, 'Καρδίτσα', 'Karditsa'], amfissa: [38.53, 22.38, 'Άμφισσα', 'Amfissa'], livadeia: [38.44, 22.88, 'Λιβαδειά', 'Livadeia'],
+  thebes: [38.32, 23.32, 'Θήβα', 'Thebes'], corinth: [37.94, 22.93, 'Κόρινθος', 'Corinth'], tripoli: [37.51, 22.37, 'Τρίπολη', 'Tripoli'], sparta: [37.07, 22.43, 'Σπάρτη', 'Sparta'],
+  pyrgos: [37.67, 21.44, 'Πύργος', 'Pyrgos'], aigio: [38.25, 22.08, 'Αίγιο', 'Aigio'], mesolongi: [38.37, 21.43, 'Μεσολόγγι', 'Mesolongi'], arta: [39.16, 20.99, 'Άρτα', 'Arta'],
+  preveza: [38.96, 20.75, 'Πρέβεζα', 'Preveza'], igoumenitsa: [39.50, 20.27, 'Ηγουμενίτσα', 'Igoumenitsa'], kastoria: [40.52, 21.27, 'Καστοριά', 'Kastoria'], florina: [40.78, 21.41, 'Φλώρινα', 'Florina'],
+  grevena: [40.08, 21.43, 'Γρεβενά', 'Grevena'], lefkada: [38.83, 20.71, 'Λευκάδα', 'Lefkada'], zakynthos: [37.78, 20.90, 'Ζάκυνθος', 'Zakynthos'], argostoli: [38.18, 20.49, 'Αργοστόλι', 'Argostoli'],
+  rethymno: [35.37, 24.47, 'Ρέθυμνο', 'Rethymno'], lasithi: [35.19, 25.72, 'Λασίθι', 'Lasithi'], samos: [37.76, 26.98, 'Σάμος', 'Samos'], chios: [38.37, 26.14, 'Χίος', 'Chios'], kos: [36.89, 27.29, 'Κως', 'Kos'],
+  naxos: [37.10, 25.38, 'Νάξος', 'Naxos'], kalavryta: [38.03, 22.11, 'Καλάβρυτα', 'Kalavryta'], amaliada: [37.80, 21.35, 'Αμαλιάδα', 'Amaliada'], kyparissia: [37.25, 21.67, 'Κυπαρισσία', 'Kyparissia'],
+  gytheio: [36.76, 22.57, 'Γύθειο', 'Gytheio'], amfilochia: [38.86, 21.17, 'Αμφιλοχία', 'Amfilochia'] };
+const seatName = k => SEAT[k] ? L(SEAT[k][2], SEAT[k][3]) : k;
+let WORLD50 = null, WORLD50_P = null;
+const worldAtlas50 = () => WORLD50_P || (WORLD50_P = fetch('https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-50m.json').then(r => r.json()).then(j => (WORLD50 = j)));
+chart('c19', el => {
+  const c = D.c19, C = c.cities, tot = k => (C[k].civil || 0) + (C[k].criminal || 0) + (C[k].plenary || 0), N = sum(Object.keys(C), tot);
+  const keys = Object.keys(C).sort((a, b) => tot(b) - tot(a)), ath = keys[0], att = ['athens', 'piraeus'], attN = sum(att, k => (C[k] ? tot(k) : 0));
+  const ap = sum(Object.keys(C), k => C[k].lv_appeal || 0), fi = sum(Object.keys(C), k => C[k].lv_first || 0);
+  return {
+    title: L(`Από πού έρχονται οι υποθέσεις: το ${pct(tot(ath), N)} των αποφάσεων κρίνει απόφαση δικαστηρίου της Αθήνας`, `Where the cases come from: ${pct(tot(ath), N)} of decisions review a judgment of a court in Athens`),
+    toc: L('Από πού έρχονται οι υποθέσεις', 'Where the cases come from'),
+    dek: L(`Η έδρα του δικαστηρίου που εξέδωσε την απόφαση που προσβλήθηκε, όπως τη γράφει το διατακτικό ή η αρχή της απόφασης του Αρείου Πάγου. Αθήνα και Πειραιάς μαζί έχουν το ${pct(attN, N)}, η Θεσσαλονίκη το ${pct(C.thessaloniki ? tot('thessaloniki') : 0, N)}. Οι ${fmt(ap)} από τις ${fmt(ap + fi)} αποφάσεις με γνωστό δικαστήριο αφορούν απόφαση εφετείου.`,
+      `The seat of the court that issued the judgment appealed against, as the operative part or the opening of the Areios Pagos decision names it. Athens and Piraeus together have ${pct(attN, N)}, Thessaloniki ${pct(C.thessaloniki ? tot('thessaloniki') : 0, N)}. ${fmt(ap)} of the ${fmt(ap + fi)} decisions with a known court concern a judgment of a court of appeal.`),
+    draw(el) {
+      const ink = css('--s1'), box = el.append('div').attr('class', 'mini');
+      const pm = box.append('div'), pb = box.append('div');
+      pm.append('h4').text(L('Η έδρα του δικαστηρίου', 'The seat of the court'));
+      const w = W(pm), h = Math.round(w * 0.92), svg = svgIn(pm, w, h).style('overflow', 'hidden');
+      const rmax = Math.min(36, w / 12), r = d3.scaleSqrt().domain([0, tot(ath)]).range([0, rmax]);
+      const draw = () => {
+        const land = topojson.feature(WORLD50, WORLD50.objects.countries).features;
+        const gr = land.find(f => f.id === '300');
+        const proj = d3.geoConicConformal().parallels([35, 41]).rotate([-24, 0]).fitExtent([[6, 6], [w - 6, h - 6]], { type: 'MultiPoint', coordinates: [[19.4, 34.8], [28.3, 34.8], [19.4, 41.75], [29.6, 41.75]] });
+        const path = d3.geoPath(proj);
+        svg.append('g').selectAll('path').data(land.filter(f => f.id !== '300')).join('path').attr('d', path).attr('fill', css('--surface-2')).attr('stroke', css('--line')).attr('stroke-width', .6);
+        svg.append('path').attr('d', path(gr)).attr('fill', css('--grid')).attr('stroke', css('--text-3')).attr('stroke-width', .6);
+        const pts = keys.filter(k => SEAT[k]).map(k => { const p = proj([SEAT[k][1], SEAT[k][0]]); return { k, x: p[0], y: p[1], n: tot(k) }; });
+        bindTip(svg.append('g').selectAll('circle').data(pts).join('circle').attr('cx', p => p.x).attr('cy', p => p.y).attr('r', p => Math.max(1.8, r(p.n)))
+          .attr('fill', ink).attr('fill-opacity', .62).attr('stroke', css('--surface')).attr('stroke-width', 1),
+          p => `<b>${esc(seatName(p.k))}</b>` + trow(grpCol('civil'), L('Πολιτικές', 'Civil'), fmt(C[p.k].civil || 0)) + trow(grpCol('criminal'), L('Ποινικές', 'Criminal'), fmt(C[p.k].criminal || 0)) +
+            trow(null, L('Ολομέλεια', 'Plenary'), fmt(C[p.k].plenary || 0)) + trow(null, L('Από εφετείο / πρώτο βαθμό', 'From appeal / first instance'), `${fmt(C[p.k].lv_appeal || 0)} / ${fmt(C[p.k].lv_first || 0)}`) +
+            trow(null, L('Αναιρεί', 'Quashes'), pct((C[p.k].q_civil || 0) + (C[p.k].q_criminal || 0) + (C[p.k].q_plenary || 0), (C[p.k].o_civil || 0) + (C[p.k].o_criminal || 0) + (C[p.k].o_plenary || 0))));
+        // labels for the largest, placed where they do not collide
+        const placed = [], lab = svg.append('g');
+        pts.slice(0, narrow(w) ? 5 : 9).forEach(p => {
+          const txt = seatName(p.k), tw = textW(pm, [txt], 'lbl strong'), rr = Math.max(2, r(p.n));
+          for (const [dx, dy, an] of [[rr + 4, 4, 'start'], [-rr - 4, 4, 'end'], [0, -rr - 5, 'middle'], [0, rr + 13, 'middle']]) {
+            const x0 = an === 'start' ? p.x + dx : an === 'end' ? p.x + dx - tw : p.x - tw / 2, b = [x0 - 2, p.y + dy - 11, x0 + tw + 2, p.y + dy + 3];
+            if (b[0] < 0 || b[2] > w || b[1] < 0 || b[3] > h) continue;
+            if (placed.some(q => !(b[2] < q[0] || b[0] > q[2] || b[3] < q[1] || b[1] > q[3]))) continue;
+            if (pts.some(o => o !== p && Math.hypot(o.x - (b[0] + b[2]) / 2, o.y - (b[1] + b[3]) / 2) < Math.max(2, r(o.n)) * 0.6)) continue;
+            placed.push(b); halo(lab, p.x + dx, p.y + dy, txt, an, 'lbl strong'); break;
+          }
+        });
+      };
+      const fail = () => pm.append('p').attr('class', 'note').text(L('Ο χάρτης δεν φορτώθηκε (cdn.jsdelivr.net)· οι αριθμοί είναι δεξιά και στον πίνακα.', 'The map could not be loaded (cdn.jsdelivr.net); the numbers are on the right and in the table.'));
+      if (WORLD50) draw(); else worldAtlas50().then(draw).catch(fail);
+      pb.append('h4').text(L('Οι πόλεις με τις περισσότερες υποθέσεις', 'The cities with the most cases'));
+      const top = keys.slice(0, 14).map(k => ({ k, civil: C[k].civil || 0, criminal: C[k].criminal || 0, plenary: C[k].plenary || 0 }));
+      legend(pb, [{ c: grpCol('civil'), l: L('Πολιτικές', 'Civil') }, { c: grpCol('criminal'), l: L('Ποινικές', 'Criminal') }, { c: grpCol('plenary'), l: L('Ολομέλεια', 'Plenary') }]);
+      const pw = W(pb), lw = Math.ceil(textW(pb, top.map(t_ => seatName(t_.k))) + 12), rowH = 20, s2 = svgIn(pb, pw, rowH * top.length + 4), g2 = s2.append('g').attr('transform', `translate(${lw},2)`);
+      const vw = textW(pb, top.map(t_ => `${fmt(t_.civil + t_.criminal + t_.plenary)} · ${pct(t_.civil + t_.criminal + t_.plenary, N)}`), 'lbl') + 10;
+      const xs = d3.scaleLinear().domain([0, tot(ath)]).range([0, Math.max(40, pw - lw - vw)]);
+      top.forEach((t_, i) => {
+        const cy = i * rowH; let acc = 0;
+        g2.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 14).attr('text-anchor', 'end').text(seatName(t_.k));
+        const segs = ['civil', 'criminal', 'plenary'].filter(k => t_[k]);
+        segs.forEach((k, q) => { const x0 = xs(acc), x1 = xs(acc + t_[k]); acc += t_[k];
+          g2.append('path').attr('d', q === segs.length - 1 ? barPath(x0, cy + 4, Math.max(x0 + 1, x1), 12, 3) : `M${x0},${cy + 4}h${Math.max(0.5, x1 - x0 - 1)}v12h${-Math.max(0.5, x1 - x0 - 1)}Z`).attr('fill', grpCol(k)); });
+        g2.append('text').attr('class', 'lbl').attr('x', xs(acc) + 6).attr('y', cy + 14).text(`${fmt(acc)} · ${pct(acc, N)}`);
+        bindTip(g2.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', pw).attr('y', cy).attr('height', rowH).datum(t_),
+          d => `<b>${esc(seatName(d.k))}</b>` + ['civil', 'criminal', 'plenary'].map(k => trow(grpCol(k), L(...GRPN[k]), fmt(d[k]))).join('') + trow(null, t('total'), fmt(acc)));
+      });
+      note(el, ['caselaw/areios-pagos/…/decision.html'], L(`${fmt(N)} αποφάσεις με γνωστή έδρα`, `${fmt(N)} decisions with a known seat`),
+        L(`η έδρα διαβάζεται από το όνομα του δικαστηρίου (π.χ. «Εφετείου Θεσσαλονίκης», «Τριμελούς Πλημμελειοδικείου Πειραιά»)· τα περιφερειακά εφετεία μετρούν στην πόλη όπου εδρεύουν (π.χ. το Εφετείο Θράκης στην Κομοτηνή, το Εφετείο Κρήτης στα Χανιά). Οι κύκλοι είναι ανάλογοι με τις αποφάσεις. ${fmt(c.texts - N)} αποφάσεις, χωρίς αναγνωρίσιμη έδρα, δεν μετρούν. Χάρτης: world-atlas (Natural Earth).`,
+          `the seat is read from the court’s name (e.g. «Εφετείου Θεσσαλονίκης», «Τριμελούς Πλημμελειοδικείου Πειραιά»); regional courts of appeal count in the city where they sit (e.g. the Court of Appeal of Thrace in Komotini, of Crete in Chania). Circles are proportional to decisions. ${fmt(c.texts - N)} decisions without a recognisable seat are not counted. Map: world-atlas (Natural Earth).`));
+      table(el, [L('Έδρα', 'Seat'), L('Πολιτικές', 'Civil'), L('Ποινικές', 'Criminal'), L('Ολομέλεια', 'Plenary'), t('total'), L('Αναιρεί', 'Quashes')],
+        keys.map(k => [seatName(k), C[k].civil || 0, C[k].criminal || 0, C[k].plenary || 0, tot(k), pct((C[k].q_civil || 0) + (C[k].q_criminal || 0) + (C[k].q_plenary || 0), (C[k].o_civil || 0) + (C[k].o_criminal || 0) + (C[k].o_plenary || 0))]));
+    }
+  };
+});
+
+// reading order (chart numbers follow it)
+const ORDER = ['p1', 'c01', 'c02', 'p2', 'c03', 'c04', 'c06', 'c05', 'p3', 'c07', 'c08', 'c09', 'c10', 'c11', 'c12', 'c13', 'c20', 'p4', 'c14', 'c15', 'c16', 'c17', 'c18', 'c19'];
+CH.sort((a, b) => ORDER.indexOf(a.id) - ORDER.indexOf(b.id));
+
+// ------------------------------------------------------------------ page
+function profileTable() {
+  const P = PF, el = d3.select('#profile').html('');
+  const rows = [
+    [L('Σύνταγμα', 'Constitution'), 'syntagma/', `${fmt(P.articles)} ${L('άρθρα', 'articles')} · 5 ${L('εκδόσεις', 'versions')}`, L('το κείμενο του 2001 και οι αναθεωρήσεις του 2008 και του 2019, με τις επανεκδόσεις τους', 'the 2001 text and the 2008 and 2019 revisions, with their republications'), L('το κείμενο του 1975 και η αναθεώρηση του 1986 υπάρχουν μόνο ως εικόνες σελίδων και δεν περιέχονται', 'the 1975 text and the 1986 revision exist only as page images and are not included')],
+    [L('Νόμοι', 'Laws'), 'nomos/<ΕΤΟΣ>/<ΑΡΙΘΜΟΣ>/', fmt(P.laws), L(`2006–2026· ${fmt(P.tracked)} από αυτούς με κάθε μεταγενέστερη τροποποίηση`, `2006–2026; ${fmt(P.tracked)} of them with every later amendment`), L('επιλογή: περίπου οι μισοί νόμοι κάθε έτους το 2006–2014, λιγότεροι μετά', 'a selection: about half of each year’s laws in 2006–2014, fewer after')],
+    [L('Προεδρικά διατάγματα', 'Presidential decrees'), 'diatagma/<ΕΤΟΣ>/<ΑΡΙΘΜΟΣ>/', fmt(P.decrees), '2009–2026', L('επιλογή: 14–52 % των διαταγμάτων κάθε έτους', 'a selection: 14–52% of each year’s decrees')],
+    [L('Διαύγεια', 'Diavgeia'), 'local/<ΦΟΡΕΑΣ>/ · norm/<ΦΟΡΕΑΣ>/', fmt(P.diavgeia), L(`${monthTxt(P.dv_from)} – ${monthTxt(P.dv_to)}· ${fmt(P.issuers)} φορείς`, `${monthTxt(P.dv_from)} – ${monthTxt(P.dv_to)}; ${fmt(P.issuers)} bodies`), L('μόνο τα στοιχεία κάθε ανάρτησης (το κείμενο δεν διαβάζεται)· κανονιστικές πράξεις, εγκύκλιοι, γνωμοδοτήσεις· το 2019 είναι ημιτελές', 'only each posting’s record (the text is not read); regulatory acts, circulars, opinions; 2019 is partial')],
+    [L('Άρειος Πάγος', 'Areios Pagos'), 'caselaw/areios-pagos/', fmt(P.caselaw), `${P.ap_from.slice(0, 4)}–${P.ap_to.slice(0, 4)}`, L('οι αποφάσεις που δημοσιεύει ο ιστότοπος του δικαστηρίου· των ποινικών του 2008 και του 2009 λείπουν σχεδόν όλες', 'the decisions the court’s website publishes; nearly all criminal decisions of 2008 and 2009 are missing')],
+  ];
+  const tb = el.append('table');
+  tb.append('thead').append('tr').selectAll('th').data([t('ds'), t('src'), t('n'), t('cover'), t('caveat')]).join('th').text(d => d);
+  const tr = s => Object.entries(PH).reduce((a, [x, y]) => a.split(x).join(LA(y)), s);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').html((v, i) => i === 1 ? `<code>${esc(tr(v))}</code>` : esc(v));
+}
+// a label that runs past the edge of its chart's card would be cut: report it (the charts size their columns to their labels)
+function checkLeftLabels(fig) {
+  const fr = fig.node().getBoundingClientRect();
+  fig.selectAll('svg text').each(function () {
+    const r = this.getBoundingClientRect();
+    if (r.width && (r.left < fr.left - 0.5 || r.right > fr.right + 0.5)) console.warn('label outside its chart', fig.attr('id'), this.textContent);
+  });
+}
+function render() {
+  HATCH = 0;
+  document.documentElement.lang = LANG;
+  document.title = t('title');
+  d3.selectAll('[data-i]').each(function () { this.textContent = t(this.dataset.i); });
+  document.getElementById('gl-link').innerHTML = t('gl');
+  d3.selectAll('[data-lang]').attr('aria-pressed', function () { return String(this.dataset.lang === LANG); });
+  d3.selectAll('[data-theme-set]').attr('aria-pressed', function () { return String(this.dataset.themeSet === THEME); });
+  const tv = [[fmt(PF.diavgeia), L('πράξεις αναρτημένες στη Διαύγεια', 'acts posted on Diavgeia')], [fmt(PF.caselaw), L('αποφάσεις του Αρείου Πάγου', 'decisions of the Areios Pagos')],
+    [fmt(PF.laws), L('νόμοι του ΦΕΚ', 'laws of the Gazette')], [fmt(PF.decrees), L('προεδρικά διατάγματα', 'presidential decrees')], [fmt(PF.articles), L('άρθρα του Συντάγματος', 'articles of the Constitution')],
+    [fmt(PF.issuers), L('φορείς που αναρτούν στη Διαύγεια', 'bodies posting on Diavgeia')]];
+  d3.select('#tiles').html('').selectAll('div').data(tv).join('div').attr('class', 'tile').html(d => `<b>${d[0]}</b><span>${d[1]}</span>`);
+  profileTable();
+  const main = d3.select('#main').html(''), toc = d3.select('#toc').html('');
+  let sec = null, n = 0;
+  CH.forEach(c => {
+    if (c.part) {
+      sec = main.append('section').attr('class', 'part').attr('id', c.id);
+      sec.append('h2').text(L(c.el, c.en)); sec.append('p').attr('class', 'pd').text(L(c.del, c.den));
+      toc.append('a').attr('class', 'p').attr('href', '#' + c.id).text(L(c.el, c.en));
+      return;
+    }
+    n++;
+    const fig = sec.append('figure').attr('class', 'chart').attr('id', c.id);
+    let spec;
+    try { spec = c.fn(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); return; }
+    const h3 = fig.append('h3'); h3.append('span').attr('class', 'no').text(n + '.'); h3.append('span').text(spec.title);
+    fig.append('p').attr('class', 'dek').text(spec.dek);
+    try { spec.draw(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); }
+    checkLeftLabels(fig);
+    fig.select('svg').attr('aria-label', spec.title);
+    toc.append('a').attr('href', '#' + c.id).text(`${n}. ${spec.toc || spec.title.split(/:\s/)[0]}`);
+  });
+  d3.select('#foot').text(t('foot').replace('{built}', dateTxt(PF.built) + (PF.head ? ', ' + PF.head.slice(0, 10) : '')));
+}
+d3.selectAll('[data-lang]').on('click', function () { LANG = this.dataset.lang; try { localStorage.setItem('gr-viz-lang', LANG); } catch (e) {} render(); });
+d3.selectAll('[data-theme-set]').on('click', function () {
+  THEME = this.dataset.themeSet;
+  if (THEME === 'auto') document.documentElement.removeAttribute('data-theme'); else document.documentElement.setAttribute('data-theme', THEME);
+  try { localStorage.setItem('gr-viz-theme', THEME); } catch (e) {}
+  render();
+});
+if (THEME !== 'auto') document.documentElement.setAttribute('data-theme', THEME);
+try { matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (THEME === 'auto') render(); }); } catch (e) {}
+let lastW = innerWidth, rt;
+addEventListener('resize', () => { if (Math.abs(innerWidth - lastW) < 40) return; clearTimeout(rt); rt = setTimeout(() => { lastW = innerWidth; const y = scrollY; render(); scrollTo(0, y); }, 200); });
+render();
+// labels are measured as they are drawn: draw again when the web fonts have loaded, so the measures are the fonts' own
+let ft;
+const redraw = () => { clearTimeout(ft); ft = setTimeout(() => { const y = scrollY; render(); scrollTo(0, y); }, 120); };
+const T0 = Date.now();
+if (document.fonts) { if (document.fonts.status !== 'loaded') document.fonts.ready.then(redraw); document.fonts.addEventListener('loadingdone', () => { if (Date.now() - T0 < 15000) redraw(); }); }
+</script>
+</body>
+</html>
