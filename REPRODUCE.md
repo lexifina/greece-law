@@ -347,3 +347,7 @@ Model use at data-build time:
 - ν. 5027/2023 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
 - ν. 5090/2024 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
 - ν. 5036/2023 part: none. No model wrote or altered legal text; a model (Claude) wrote Lexifina's code, which read every word from the Gazette PDFs.
+
+## Missing laws from the ΦΕΚ API (2026-11-27)
+
+Laws not yet held were fetched from `https://api.et.gr/apiLAW/1/<year>/<number>/pdf` one request at a time and added by the runner in `scripts/greece-law/runner/` (gr_fetch.py, gr_build.py): one commit per law on its in-force day as STRUCTURE.md sets out, the PDF's URL and sha256 in each commit. Scanned PDFs (no text layer, mostly before 1998) are held; no OCR is run.
